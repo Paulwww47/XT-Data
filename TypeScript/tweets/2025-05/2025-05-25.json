@@ -753,5 +753,31 @@
     "tweetUrl": "https://x.com/MarkMark_SSS/status/1926638747392622628",
     "fullText": "出差回家后第一件事\n给小狗逐个打包 https://t.co/OEFMP06zl6",
     "publishTime": "2025-05-25T21:57:27"
+  },
+  {
+    "user": {
+      "screenName": "Leon_pan999",
+      "name": "Leon"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Leon_pan999/status/1926649028915200355",
+    "fullText": "🤔会随机抽一些懂事的联系",
+    "publishTime": "2025-05-25T22:38:18"
+  },
+  {
+    "user": {
+      "screenName": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1926652900199006208/vid/avc1/720x1280/0nGKI1sQ9wSRniNq.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/junglewildwild/status/1926652973746155734",
+    "fullText": "https://t.co/3jY8zv0J4K",
+    "publishTime": "2025-05-25T22:53:59"
   }
 ]
