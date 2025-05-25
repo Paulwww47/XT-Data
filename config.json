@@ -1,0 +1,10 @@
+{
+  "consoleLogLevel": "INFO",
+  "interval": 5000,
+  "filterRetweets": true,
+  "filterQuotes": false,
+  "limit": 2000,
+  "screenName": [
+    "AFD8864"
+  ]
+}
