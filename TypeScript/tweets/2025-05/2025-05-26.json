@@ -251,5 +251,20 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1926863824105157094",
     "fullText": "https://t.co/k861wDcO6s",
     "publishTime": "2025-05-26T12:51:49"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gr2d5BxXkAAg8DB.jpg",
+      "https://pbs.twimg.com/media/Gr2d5BtXAAAI4eI.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1926869834093953079",
+    "fullText": "https://t.co/S6VNEaW4DO",
+    "publishTime": "2025-05-26T13:15:42"
   }
 ]
