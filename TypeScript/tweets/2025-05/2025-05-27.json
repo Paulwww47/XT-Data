@@ -419,5 +419,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1927299098769596436",
     "fullText": "kkkkai_z https://t.co/w5xotywExw",
     "publishTime": "2025-05-27T17:41:27"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gr8uAcJWQAAJwoj.jpg",
+      "https://pbs.twimg.com/media/Gr8uEv9WMAEJUDR.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1927309860946776228",
+    "fullText": "https://t.co/ixSNZDC1uL",
+    "publishTime": "2025-05-27T18:24:13"
+  },
+  {
+    "user": {
+      "screenName": "KevinLeeYoung92",
+      "name": "KevinLeeYoung"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gr8y9LtXcAARwG8.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/KevinLeeYoung92/status/1927315206163620026",
+    "fullText": "https://t.co/tYXlkyleQy",
+    "publishTime": "2025-05-27T18:45:27"
   }
 ]
