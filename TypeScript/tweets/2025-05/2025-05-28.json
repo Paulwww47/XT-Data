@@ -495,5 +495,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1927701643400733144",
     "fullText": "https://t.co/nI4JofTePr",
     "publishTime": "2025-05-28T20:21:01"
+  },
+  {
+    "user": {
+      "screenName": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1927716262140153856/vid/avc1/720x1272/Vh73VkWFjoFsbJX6.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/MuscleHunterX/status/1927716719516103136",
+    "fullText": "体脂再低点就好了 https://t.co/Sca6lN76lt",
+    "publishTime": "2025-05-28T21:20:55"
+  },
+  {
+    "user": {
+      "screenName": "Leon_pan999",
+      "name": "Leon"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsCkgJIaMAAve2y.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Leon_pan999/status/1927721519066558917",
+    "fullText": "老毛裤了 https://t.co/qG8jMNB7Hj",
+    "publishTime": "2025-05-28T21:40:00"
   }
 ]
