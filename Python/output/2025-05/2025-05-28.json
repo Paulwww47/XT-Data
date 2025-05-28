@@ -1012,5 +1012,31 @@
     },
     "full_text": "臭美一下 https://t.co/F5M8C5VFVe",
     "publish_time": "2025-05-28T19:23:23"
+  },
+  {
+    "file_name": "GsCSbKibcAA82kE.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GsCSbKibcAA82kE.jpg",
+    "read_time": "2025-05-28T21:00:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 911,
+      "timestamp": "2025-05-28T21:00:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 152167,
+      "size_mb": 0.15,
+      "timestamp": "2025-05-28T21:00:43",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/nI4JofTePr",
+    "publish_time": "2025-05-28T20:21:01"
   }
 ]
