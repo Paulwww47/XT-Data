@@ -66,14 +66,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (131MB > 50MB)",
       "timestamp": "2025-05-30T01:01:32",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 138352902,
       "size_mb": 131.94,
-      "timestamp": "2025-05-30T01:01:32",
+      "timestamp": "2025-05-30T02:01:11",
       "download_attempts": 0
     },
     "full_text": "masterszure 人犬契约 https://t.co/DTJEQi0RRR",
