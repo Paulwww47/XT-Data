@@ -754,5 +754,35 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1928404508172009795",
     "fullText": "https://t.co/Jh1sHS4SIh",
     "publishTime": "2025-05-30T18:53:57"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsMhzHsa8AAkz8z.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [
+      "http://theo.loi.my"
+    ],
+    "tweetUrl": "https://x.com/eric_kk97/status/1928422233011294437",
+    "fullText": "https://t.co/1dvpB93oUq https://t.co/qIbw6ByEsI",
+    "publishTime": "2025-05-30T20:04:23"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsMh68pawAEbBCF.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1928422367908475091",
+    "fullText": "jiggglee https://t.co/KZ8xMMVI1k",
+    "publishTime": "2025-05-30T20:04:55"
   }
 ]
