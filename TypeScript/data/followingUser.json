@@ -2556,6 +2556,32 @@
     }
   },
   {
+    "restId": "1856233440666157056",
+    "legacy": {
+      "name": "Yuki",
+      "screenName": "Yuki66550",
+      "createdAt": "Tue Nov 12 07:12:03 +0000 2024",
+      "description": "原创熟男女记者🎥Yuki 电报群👉🏻https://t.co/HnBI24aGjs",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "t.me/+hBbZBuBVGss4Y…",
+              "expanded_url": "https://t.me/+hBbZBuBVGss4YzA1",
+              "url": "https://t.co/HnBI24aGjs",
+              "indices": [
+                18,
+                41
+              ]
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1856233440666157056/1731667172",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1857372795807875072/xtmc1SAo_normal.jpg"
+    }
+  },
+  {
     "restId": "1866036195677138944",
     "legacy": {
       "name": "wangwangwang",
