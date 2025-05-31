@@ -300,17 +300,43 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (54MB > 50MB)",
       "timestamp": "2025-06-01T05:01:31",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 57597715,
       "size_mb": 54.93,
-      "timestamp": "2025-06-01T05:01:31",
+      "timestamp": "2025-06-01T06:00:35",
       "download_attempts": 0
     },
     "full_text": "又被操成外翻逼… https://t.co/lyDs60Hj5p",
     "publish_time": "2025-06-01T04:13:38"
+  },
+  {
+    "file_name": "GsTmk8iaMAIXLzN.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GsTmk8iaMAIXLzN.jpg",
+    "read_time": "2025-06-01T06:00:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1118,
+      "timestamp": "2025-06-01T06:00:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 133011,
+      "size_mb": 0.13,
+      "timestamp": "2025-06-01T06:00:35",
+      "download_attempts": 0
+    },
+    "full_text": "anselm_cheng https://t.co/bbec4ekVPR",
+    "publish_time": "2025-06-01T05:02:36"
   }
 ]
