@@ -144,5 +144,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1928947320659251281",
     "fullText": "yuyou_0819 https://t.co/916Fo7BjpB",
     "publishTime": "2025-06-01T06:50:54"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1928949788286005248/vid/avc1/720x1280/pdxGNeWHOyUwKCIS.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1928949896985403780",
+    "fullText": "喉嚨好痛，今年端午其實蠻涼的，不用打開冷氣，鋪張竹席就能睡… https://t.co/vsPFQf2tHF",
+    "publishTime": "2025-06-01T07:01:08"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsUMxf0aMAA2g30.jpg",
+      "https://pbs.twimg.com/media/GsUMxf4aMAEs-Uf.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1928962066993356935",
+    "fullText": "alexlaw_1314 https://t.co/xkx7jC5x4e",
+    "publishTime": "2025-06-01T07:49:29"
   }
 ]
