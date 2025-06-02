@@ -403,5 +403,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1929485546973549055",
     "fullText": "haikalkayy\ned.vocado \ntsszac https://t.co/tnouwM2cZb",
     "publishTime": "2025-06-02T18:29:37"
+  },
+  {
+    "user": {
+      "screenName": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1929502510391418880/vid/avc1/720x1280/o7IlGgnUqmow4o2X.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/MuscleHunterX/status/1929502656239993089",
+    "fullText": "这个角度你们喜欢吗 https://t.co/laGL4trn7Y",
+    "publishTime": "2025-06-02T19:37:36"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gsb5T6iaYAANgPF.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1929503615892562421",
+    "fullText": "https://t.co/qpMAZX0ewE",
+    "publishTime": "2025-06-02T19:41:25"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gsb7KjOagAAetQ5.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1929505654831780193",
+    "fullText": "badboiziii https://t.co/JoPGKdEked",
+    "publishTime": "2025-06-02T19:49:31"
   }
 ]
