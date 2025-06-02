@@ -508,14 +508,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (101MB > 50MB)",
       "timestamp": "2025-06-02T16:00:58",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 106600910,
       "size_mb": 101.66,
-      "timestamp": "2025-06-02T16:00:58",
+      "timestamp": "2025-06-02T17:01:30",
       "download_attempts": 0
     },
     "full_text": "【侵删】从按摩调情到 拳击🥊啧啧 https://t.co/f9qrxsfWht",
@@ -546,5 +546,83 @@
     },
     "full_text": "Ferry_0715 https://t.co/VnQzo9CSkF",
     "publish_time": "2025-06-02T15:39:31"
+  },
+  {
+    "file_name": "GsbNO4AboAA4qel.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GsbNO4AboAA4qel.jpg",
+    "read_time": "2025-06-02T17:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1179,
+      "timestamp": "2025-06-02T17:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 156554,
+      "size_mb": 0.15,
+      "timestamp": "2025-06-02T17:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "bigtaka0918 https://t.co/khIDbLHLia",
+    "publish_time": "2025-06-02T16:28:50"
+  },
+  {
+    "file_name": "GsbNnTDaYAATvHM.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GsbNnTDaYAATvHM.jpg",
+    "read_time": "2025-06-02T17:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1180,
+      "timestamp": "2025-06-02T17:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 169078,
+      "size_mb": 0.16,
+      "timestamp": "2025-06-02T17:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/MJRRPnojMY",
+    "publish_time": "2025-06-02T16:30:31"
+  },
+  {
+    "file_name": "GsbNrrra0AAJOIM.jpg",
+    "user": {
+      "screen_name": "zhu9993333",
+      "name": "🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GsbNrrra0AAJOIM.jpg",
+    "read_time": "2025-06-02T17:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1181,
+      "timestamp": "2025-06-02T17:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 161731,
+      "size_mb": 0.15,
+      "timestamp": "2025-06-02T17:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "想去广州了，可空调 陪游 https://t.co/a8wzcsA7Se",
+    "publish_time": "2025-06-02T16:30:51"
   }
 ]
