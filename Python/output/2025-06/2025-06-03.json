@@ -336,5 +336,57 @@
     },
     "full_text": "https://t.co/sBaINhxdPK",
     "publish_time": "2025-06-03T09:57:51"
+  },
+  {
+    "file_name": "lNg8_Ph334lyPrfp.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1929720656733917187/vid/avc1/720x1280/lNg8_Ph334lyPrfp.mp4?tag=14",
+    "read_time": "2025-06-03T11:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1218,
+      "timestamp": "2025-06-03T11:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1329828,
+      "size_mb": 1.27,
+      "timestamp": "2025-06-03T11:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "【2025年6月3日】今日資源已經更新！4小時資源連載結束！以下視頻與更新資源無關！ https://t.co/TXrOPW75ls",
+    "publish_time": "2025-06-03T10:04:02"
+  },
+  {
+    "file_name": "GsfILo1a8AASl6j.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GsfILo1a8AASl6j.jpg",
+    "read_time": "2025-06-03T11:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1219,
+      "timestamp": "2025-06-03T11:01:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 80827,
+      "size_mb": 0.08,
+      "timestamp": "2025-06-03T11:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/cwQVcfVFgB",
+    "publish_time": "2025-06-03T10:45:15"
   }
 ]
