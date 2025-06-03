@@ -108,5 +108,49 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1930019009279471795",
     "fullText": "surgon_cao https://t.co/dTxa4guKXr",
     "publishTime": "2025-06-04T05:49:24"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsjSDB2asAQ2Zlp.jpg",
+      "https://pbs.twimg.com/media/GsjSDB0asAI_8Ud.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1930023395598741920",
+    "fullText": "sasuke_monkey https://t.co/f4E629nZte",
+    "publishTime": "2025-06-04T06:06:50"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GsjSN5BasAQ3wSS.jpg",
+      "https://pbs.twimg.com/media/GsjSN45asAE6HJa.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1930023582094241926",
+    "fullText": "nobi_gary https://t.co/vLV1dB23tM",
+    "publishTime": "2025-06-04T06:07:34"
+  },
+  {
+    "user": {
+      "screenName": "guxiaodan01",
+      "name": "孤小单"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1930026939865280516/vid/avc1/720x1600/vLMR1jDoHaHgrOod.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/guxiaodan01/status/1930030147052458073",
+    "fullText": "这个墨镜肌肉哥慢慢又开始放开了！ https://t.co/LYoVh8jkJH",
+    "publishTime": "2025-06-04T06:33:39"
   }
 ]
