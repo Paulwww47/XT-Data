@@ -110,5 +110,19 @@
     "tweetUrl": "https://x.com/youdi/status/1930675959163961484",
     "fullText": "https://t.co/tAH0cbPBdm",
     "publishTime": "2025-06-06T01:19:53"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GstRougaMAEyL9y.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1930726630106038412",
+    "fullText": "https://t.co/H2Mntullae",
+    "publishTime": "2025-06-06T04:41:14"
   }
 ]
