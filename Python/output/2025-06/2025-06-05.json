@@ -908,5 +908,57 @@
     },
     "full_text": "https://t.co/l0hHs5cW25",
     "publish_time": "2025-06-05T14:55:16"
+  },
+  {
+    "file_name": "GsqlStjbYAAxIHr.jpg",
+    "user": {
+      "screen_name": "captainshagang",
+      "name": "沙岗队长"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GsqlStjbYAAxIHr.jpg",
+    "read_time": "2025-06-05T17:00:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1407,
+      "timestamp": "2025-06-05T17:00:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 128470,
+      "size_mb": 0.12,
+      "timestamp": "2025-06-05T17:00:43",
+      "download_attempts": 0
+    },
+    "full_text": "🧦私 https://t.co/dkBoVuWsMm",
+    "publish_time": "2025-06-05T16:08:16"
+  },
+  {
+    "file_name": "GsqlczXaoAA13wq.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GsqlczXaoAA13wq.jpg",
+    "read_time": "2025-06-05T17:00:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1408,
+      "timestamp": "2025-06-05T17:00:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 87739,
+      "size_mb": 0.08,
+      "timestamp": "2025-06-05T17:00:44",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/DKI7X2BMPz",
+    "publish_time": "2025-06-05T16:08:57"
   }
 ]
