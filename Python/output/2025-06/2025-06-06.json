@@ -752,5 +752,31 @@
     },
     "full_text": "https://t.co/1Mu6nlcmHK",
     "publish_time": "2025-06-06T09:54:42"
+  },
+  {
+    "file_name": "Gsuf2vfaoAA8YYY.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gsuf2vfaoAA8YYY.jpg",
+    "read_time": "2025-06-06T11:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1456,
+      "timestamp": "2025-06-06T11:00:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 94007,
+      "size_mb": 0.09,
+      "timestamp": "2025-06-06T11:00:47",
+      "download_attempts": 0
+    },
+    "full_text": "binbincoach https://t.co/CrVpEPeurs",
+    "publish_time": "2025-06-06T10:22:59"
   }
 ]
