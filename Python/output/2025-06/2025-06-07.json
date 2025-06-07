@@ -466,5 +466,31 @@
     },
     "full_text": "一点感觉都没有 https://t.co/oNBXshg5Yg",
     "publish_time": "2025-06-07T11:04:20"
+  },
+  {
+    "file_name": "Gs0CJiOa0AA2lT_.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gs0CJiOa0AA2lT_.jpg",
+    "read_time": "2025-06-07T13:01:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1506,
+      "timestamp": "2025-06-07T13:01:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 122452,
+      "size_mb": 0.12,
+      "timestamp": "2025-06-07T13:01:07",
+      "download_attempts": 0
+    },
+    "full_text": "kapaopeh https://t.co/6f4dd4EdfE",
+    "publish_time": "2025-06-07T12:10:55"
   }
 ]
