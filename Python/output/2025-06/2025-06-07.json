@@ -440,5 +440,31 @@
     },
     "full_text": "liangguai https://t.co/2OWxTQ2lpZ",
     "publish_time": "2025-06-07T10:56:31"
+  },
+  {
+    "file_name": "eWfD2xi7nSzX2P4O.mp4",
+    "user": {
+      "screen_name": "AFD8864",
+      "name": "小七次朗（科目三）"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1931185293702631424/vid/avc1/720x1280/eWfD2xi7nSzX2P4O.mp4?tag=21",
+    "read_time": "2025-06-07T12:00:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1505,
+      "timestamp": "2025-06-07T12:00:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4813476,
+      "size_mb": 4.59,
+      "timestamp": "2025-06-07T12:00:49",
+      "download_attempts": 0
+    },
+    "full_text": "一点感觉都没有 https://t.co/oNBXshg5Yg",
+    "publish_time": "2025-06-07T11:04:20"
   }
 ]
