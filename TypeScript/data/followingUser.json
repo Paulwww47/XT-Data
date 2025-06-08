@@ -1663,7 +1663,7 @@
       "name": "列文马克（石家庄",
       "screenName": "MarkMark_SSS",
       "createdAt": "Tue Aug 01 17:31:26 +0000 2023",
-      "description": "184-74-44-0.5 S 微信门槛98🧧推抖同名 只约经济 💰阻断药和各类用品有售💊 私信只回口令 过滤口嗨傻逼",
+      "description": "184-74-44-0.5 S 微信门槛98🧧推抖同名 只约经济 💰阻断药和各类用品有售💊 私信只回口令和互推 其余直接拉黑",
       "entities": {
         "description": {
           "urls": []
@@ -1993,10 +1993,23 @@
       "name": "桥诘聖",
       "screenName": "qiaojiesheng777",
       "createdAt": "Wed Oct 16 04:28:22 +0000 2024",
-      "description": "【唯一真號❗️】私聊可加WeChat",
+      "description": "【唯一真號❗️】可通过微信公众号【桥诘聖】联系到我。",
       "entities": {
         "description": {
           "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/3X-2n4FPTqj5…",
+              "expanded_url": "https://mp.weixin.qq.com/s/3X-2n4FPTqj5bNB5fPFAJg",
+              "url": "https://t.co/8nL4IMhx2C",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
         }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1846407762156441601/1729053566",
@@ -2568,7 +2581,7 @@
       "name": "小肥刘",
       "screenName": "xiaofeilius",
       "createdAt": "Wed Nov 02 05:35:28 +0000 2022",
-      "description": "",
+      "description": "门槛＋v    很期待有天能成为你的肌肉玩具！",
       "entities": {
         "description": {
           "urls": []
