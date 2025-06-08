@@ -401,5 +401,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1931665382617886865",
     "fullText": "https://t.co/t3iV1ITf8m",
     "publishTime": "2025-06-08T18:51:30"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs6zlJ6bQAEYf3w.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1931678746005922289",
+    "fullText": "fangsheng 1031 https://t.co/gvWxaBukJv",
+    "publishTime": "2025-06-08T19:44:36"
+  },
+  {
+    "user": {
+      "screenName": "xiaofeilius",
+      "name": "小肥刘"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1931678920610631680/pu/vid/avc1/720x1280/AV-MQXEe338Qd9WH.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/xiaofeilius/status/1931679000210137324",
+    "fullText": "爸爸玩的好爽 https://t.co/EqSZQaQYJl",
+    "publishTime": "2025-06-08T19:45:37"
   }
 ]
