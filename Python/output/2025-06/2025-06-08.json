@@ -570,5 +570,57 @@
     },
     "full_text": "https://t.co/YXQbG9GzCP",
     "publish_time": "2025-06-08T12:52:37"
+  },
+  {
+    "file_name": "JWHa6OA4Uy0ZT_M8.mp4",
+    "user": {
+      "screen_name": "huahua6256",
+      "name": "花生6256"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1931579253994532864/vid/avc1/720x1280/JWHa6OA4Uy0ZT_M8.mp4?tag=21",
+    "read_time": "2025-06-08T14:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1551,
+      "timestamp": "2025-06-08T14:01:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 928218,
+      "size_mb": 0.89,
+      "timestamp": "2025-06-08T14:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/EbfMcZLLfb",
+    "publish_time": "2025-06-08T13:09:36"
+  },
+  {
+    "file_name": "Gs5goc9bUAAAmRv.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gs5goc9bUAAAmRv.jpg",
+    "read_time": "2025-06-08T14:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1552,
+      "timestamp": "2025-06-08T14:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 249242,
+      "size_mb": 0.24,
+      "timestamp": "2025-06-08T14:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "90s JOCKEY ad campaign https://t.co/EOLNS3LeL6",
+    "publish_time": "2025-06-08T13:42:13"
   }
 ]
