@@ -429,5 +429,47 @@
     "tweetUrl": "https://x.com/xiaofeilius/status/1931679000210137324",
     "fullText": "爸爸玩的好爽 https://t.co/EqSZQaQYJl",
     "publishTime": "2025-06-08T19:45:37"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs68GWUaMAACy3P.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1931688111752507525",
+    "fullText": "ziozxo https://t.co/iXdpEnF8ox",
+    "publishTime": "2025-06-08T20:21:49"
+  },
+  {
+    "user": {
+      "screenName": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1931690416799420416/vid/avc1/1280x720/Njf7VVneQq2CP9wX.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/junglewildwild/status/1931690476152946775",
+    "fullText": "https://t.co/6b7wOZ2Czo",
+    "publishTime": "2025-06-08T20:31:13"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs7EKfaasAAbgcj.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1931696988984414677",
+    "fullText": "https://t.co/AH8tGS8pyQ",
+    "publishTime": "2025-06-08T20:57:06"
   }
 ]
