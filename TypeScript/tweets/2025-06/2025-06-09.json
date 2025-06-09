@@ -343,5 +343,48 @@
     "tweetUrl": "https://x.com/youdi/status/1931937479306957100",
     "fullText": "https://t.co/EkHmtAuSnx",
     "publishTime": "2025-06-09T12:52:43"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs-owVKaEAEsboL.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/easychen/status/1931948327660384269",
+    "fullText": "#Easy同学正在独立开发  给迭代了大几十个版本的软件做国际化真的很累…… 还好现在有ai。 https://t.co/7TE2o8bapD",
+    "publishTime": "2025-06-09T13:35:49"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs-q6hxacAAbF6b.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1931950694455541994",
+    "fullText": "mark.xiaohui https://t.co/ii8zIVJmsc",
+    "publishTime": "2025-06-09T13:45:14"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gs-rhPJacAAT5x4.jpg",
+      "https://pbs.twimg.com/media/Gs-rhPEa0AEALl_.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1931951357742989625",
+    "fullText": "happy520412 https://t.co/bKYjtVSM0C",
+    "publishTime": "2025-06-09T13:47:52"
   }
 ]
