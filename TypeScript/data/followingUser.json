@@ -1997,19 +1997,6 @@
       "entities": {
         "description": {
           "urls": []
-        },
-        "url": {
-          "urls": [
-            {
-              "display_url": "mp.weixin.qq.com/s/3X-2n4FPTqj5…",
-              "expanded_url": "https://mp.weixin.qq.com/s/3X-2n4FPTqj5bNB5fPFAJg",
-              "url": "https://t.co/8nL4IMhx2C",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
         }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1846407762156441601/1729053566",
