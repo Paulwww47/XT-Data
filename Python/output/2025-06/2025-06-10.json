@@ -1350,5 +1350,31 @@
     },
     "full_text": "三亚空降 https://t.co/139WZrAY6M",
     "publish_time": "2025-06-10T22:07:05"
+  },
+  {
+    "file_name": "GtF3JODaUAAeK9t.jpg",
+    "user": {
+      "screen_name": "TLP527753733",
+      "name": "地空捣蛋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GtF3JODaUAAeK9t.jpg",
+    "read_time": "2025-06-11T00:01:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1695,
+      "timestamp": "2025-06-11T00:01:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 232012,
+      "size_mb": 0.22,
+      "timestamp": "2025-06-11T00:01:07",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/09PYsbb3Ht",
+    "publish_time": "2025-06-10T23:28:23"
   }
 ]
