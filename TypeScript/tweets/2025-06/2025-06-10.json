@@ -170,5 +170,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1932207824656035904",
     "fullText": "https://t.co/htFu5cuFz1",
     "publishTime": "2025-06-10T06:46:58"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GtCgVAXboAAd-F-.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1932220530125689120",
+    "fullText": "https://t.co/omhGkwD49y",
+    "publishTime": "2025-06-10T07:37:27"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GtCh7AHbUAA_Xs-.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1932222280412852456",
+    "fullText": "https://t.co/rLKmkMAZEJ",
+    "publishTime": "2025-06-10T07:44:25"
   }
 ]
