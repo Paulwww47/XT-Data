@@ -1220,5 +1220,83 @@
     },
     "full_text": "nguyen.hai95 https://t.co/suguan89Ro",
     "publish_time": "2025-06-12T19:13:56"
+  },
+  {
+    "file_name": "GtPpGjfa4AEMi1i.jpg",
+    "user": {
+      "screen_name": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GtPpGjfa4AEMi1i.jpg",
+    "read_time": "2025-06-12T21:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1800,
+      "timestamp": "2025-06-12T21:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 67851,
+      "size_mb": 0.06,
+      "timestamp": "2025-06-12T21:01:18",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Ps0JP8evt4",
+    "publish_time": "2025-06-12T20:50:51"
+  },
+  {
+    "file_name": "i0H-0XJsL5rLB2YK.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1933145062013284353/vid/avc1/552x706/i0H-0XJsL5rLB2YK.mp4?tag=21",
+    "read_time": "2025-06-12T21:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1801,
+      "timestamp": "2025-06-12T21:01:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1349360,
+      "size_mb": 1.29,
+      "timestamp": "2025-06-12T21:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "谁要他的 拿走 https://t.co/Wo1nfi4Dp7",
+    "publish_time": "2025-06-12T20:52:44"
+  },
+  {
+    "file_name": "vF5QlzZeRDNtB3gS.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1933145062038466560/vid/avc1/720x1272/vF5QlzZeRDNtB3gS.mp4?tag=21",
+    "read_time": "2025-06-12T21:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1802,
+      "timestamp": "2025-06-12T21:01:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5716338,
+      "size_mb": 5.45,
+      "timestamp": "2025-06-12T21:01:24",
+      "download_attempts": 0
+    },
+    "full_text": "谁要他的 拿走 https://t.co/Wo1nfi4Dp7",
+    "publish_time": "2025-06-12T20:52:44"
   }
 ]

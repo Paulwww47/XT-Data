@@ -591,5 +591,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1933120577612714017",
     "fullText": "nguyen.hai95 https://t.co/suguan89Ro",
     "publishTime": "2025-06-12T19:13:56"
+  },
+  {
+    "user": {
+      "screenName": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GtPpGjfa4AEMi1i.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/junglewildwild/status/1933144970757857494",
+    "fullText": "https://t.co/Ps0JP8evt4",
+    "publishTime": "2025-06-12T20:50:51"
+  },
+  {
+    "user": {
+      "screenName": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1933145062013284353/vid/avc1/552x706/i0H-0XJsL5rLB2YK.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/1933145062038466560/vid/avc1/720x1272/vF5QlzZeRDNtB3gS.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/MuscleHunterX/status/1933145444521295954",
+    "fullText": "谁要他的 拿走 https://t.co/Wo1nfi4Dp7",
+    "publishTime": "2025-06-12T20:52:44"
   }
 ]
