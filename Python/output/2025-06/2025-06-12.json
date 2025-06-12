@@ -414,5 +414,57 @@
     },
     "full_text": "zach902 https://t.co/rX5Ad85uMO",
     "publish_time": "2025-06-12T10:43:39"
+  },
+  {
+    "file_name": "GtNlCkRbMAEekya.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GtNlCkRbMAEekya.jpg",
+    "read_time": "2025-06-12T12:01:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1769,
+      "timestamp": "2025-06-12T12:01:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101998,
+      "size_mb": 0.1,
+      "timestamp": "2025-06-12T12:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/S9MdUYCBa9",
+    "publish_time": "2025-06-12T11:13:52"
+  },
+  {
+    "file_name": "_g6xPRkrL38z9344.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1933004605404950528/vid/avc1/720x1280/_g6xPRkrL38z9344.mp4?tag=14",
+    "read_time": "2025-06-12T12:01:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1770,
+      "timestamp": "2025-06-12T12:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2310786,
+      "size_mb": 2.2,
+      "timestamp": "2025-06-12T12:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "【2025年6月12日】今日資源已經更新！4小時資源連載更新第2部分；置頂中；另一部資源連載結束！以下視頻與更新資源無關！ https://t.co/emJT7Bj1Ui",
+    "publish_time": "2025-06-12T11:33:17"
   }
 ]
