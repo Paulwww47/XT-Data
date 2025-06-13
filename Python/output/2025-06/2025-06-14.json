@@ -102,5 +102,83 @@
     },
     "full_text": "能有多骚？ https://t.co/X43Ikvx4dS",
     "publish_time": "2025-06-14T00:41:24"
+  },
+  {
+    "file_name": "GtWOy8PbMAQHvHq.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GtWOy8PbMAQHvHq.jpg",
+    "read_time": "2025-06-14T04:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1875,
+      "timestamp": "2025-06-14T04:01:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 99081,
+      "size_mb": 0.09,
+      "timestamp": "2025-06-14T04:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/z9bwEvsxcC",
+    "publish_time": "2025-06-14T03:33:16"
+  },
+  {
+    "file_name": "0rKS5kLND29pps9_.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1933611438280749058/vid/avc1/720x1280/0rKS5kLND29pps9_.mp4?tag=21",
+    "read_time": "2025-06-14T04:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1876,
+      "timestamp": "2025-06-14T04:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 6881845,
+      "size_mb": 6.56,
+      "timestamp": "2025-06-14T04:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "在高雄 https://t.co/Dg4ObI9gRk",
+    "publish_time": "2025-06-14T03:44:53"
+  },
+  {
+    "file_name": "oh4x3WFpqTNQKJbw.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1933612380283699200/vid/avc1/720x1280/oh4x3WFpqTNQKJbw.mp4?tag=21",
+    "read_time": "2025-06-14T04:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1877,
+      "timestamp": "2025-06-14T04:01:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 6544677,
+      "size_mb": 6.24,
+      "timestamp": "2025-06-14T04:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "一種選擇 https://t.co/aqRLoRzwLu",
+    "publish_time": "2025-06-14T03:48:41"
   }
 ]
