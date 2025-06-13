@@ -180,5 +180,57 @@
     },
     "full_text": "一種選擇 https://t.co/aqRLoRzwLu",
     "publish_time": "2025-06-14T03:48:41"
+  },
+  {
+    "file_name": "GtWxTgVbMAEmbd3.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GtWxTgVbMAEmbd3.jpg",
+    "read_time": "2025-06-14T07:01:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1878,
+      "timestamp": "2025-06-14T07:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 104815,
+      "size_mb": 0.1,
+      "timestamp": "2025-06-14T07:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/P36yhGY8Ig",
+    "publish_time": "2025-06-14T06:04:02"
+  },
+  {
+    "file_name": "GtW63IvbMAgf_KQ.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GtW63IvbMAgf_KQ.jpg",
+    "read_time": "2025-06-14T07:01:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1879,
+      "timestamp": "2025-06-14T07:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 113691,
+      "size_mb": 0.11,
+      "timestamp": "2025-06-14T07:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "tofusamwang https://t.co/eeR9MVvCIh",
+    "publish_time": "2025-06-14T06:45:47"
   }
 ]
