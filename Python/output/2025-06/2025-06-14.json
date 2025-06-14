@@ -232,5 +232,57 @@
     },
     "full_text": "tofusamwang https://t.co/eeR9MVvCIh",
     "publish_time": "2025-06-14T06:45:47"
+  },
+  {
+    "file_name": "4sp9nHja2LV3xt3p.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1933664213316345857/vid/avc1/720x1280/4sp9nHja2LV3xt3p.mp4?tag=21",
+    "read_time": "2025-06-14T08:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1880,
+      "timestamp": "2025-06-14T08:01:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 8782002,
+      "size_mb": 8.38,
+      "timestamp": "2025-06-14T08:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "上一下廁所 https://t.co/TyMOLCUT8N",
+    "publish_time": "2025-06-14T07:14:34"
+  },
+  {
+    "file_name": "GtXL8E5bMAQNlB_.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GtXL8E5bMAQNlB_.jpg",
+    "read_time": "2025-06-14T08:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 1881,
+      "timestamp": "2025-06-14T08:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 129541,
+      "size_mb": 0.12,
+      "timestamp": "2025-06-14T08:01:19",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/auvUZduc2V",
+    "publish_time": "2025-06-14T08:00:24"
   }
 ]

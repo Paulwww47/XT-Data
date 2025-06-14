@@ -111,5 +111,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1933657076460630048",
     "fullText": "tofusamwang https://t.co/eeR9MVvCIh",
     "publishTime": "2025-06-14T06:45:47"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1933664213316345857/vid/avc1/720x1280/4sp9nHja2LV3xt3p.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1933664319440560193",
+    "fullText": "上一下廁所 https://t.co/TyMOLCUT8N",
+    "publishTime": "2025-06-14T07:14:34"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GtXL8E5bMAQNlB_.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1933675855651483950",
+    "fullText": "https://t.co/auvUZduc2V",
+    "publishTime": "2025-06-14T08:00:24"
   }
 ]
