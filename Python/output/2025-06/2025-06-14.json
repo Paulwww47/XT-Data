@@ -1106,14 +1106,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (64MB > 50MB)",
       "timestamp": "2025-06-14T17:00:50",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 67561922,
       "size_mb": 64.43,
-      "timestamp": "2025-06-14T17:00:50",
+      "timestamp": "2025-06-14T18:00:46",
       "download_attempts": 0
     },
     "full_text": "脱毛店PLAY https://t.co/FWVg1siGb2",
