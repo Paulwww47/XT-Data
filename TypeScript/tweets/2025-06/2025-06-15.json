@@ -444,5 +444,34 @@
     "tweetUrl": "https://x.com/wydd3058196951/status/1934156678066520253",
     "fullText": "看看追追 https://t.co/8xdzfFNHJI",
     "publishTime": "2025-06-15T15:51:01"
+  },
+  {
+    "user": {
+      "screenName": "aowuyoujin",
+      "name": "嗷呜有劲"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GteD7igb0AEUubo.jpg",
+      "https://pbs.twimg.com/media/GteD7igbMAAyqIr.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/aowuyoujin/status/1934159639073177949",
+    "fullText": "https://t.co/QhAXxwzrW3",
+    "publishTime": "2025-06-15T16:02:47"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GteLpwobAAAtF6S.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1934168124292730946",
+    "fullText": "https://t.co/tads3RyvOK",
+    "publishTime": "2025-06-15T16:36:30"
   }
 ]
