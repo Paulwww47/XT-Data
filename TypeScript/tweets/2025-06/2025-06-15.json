@@ -473,5 +473,48 @@
     "tweetUrl": "https://x.com/youdi/status/1934168124292730946",
     "fullText": "https://t.co/tads3RyvOK",
     "publishTime": "2025-06-15T16:36:30"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GteVKGSbAAAc2DY.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1934178571129635093",
+    "fullText": "f1shh3n9 https://t.co/jyPhKXDYnU",
+    "publishTime": "2025-06-15T17:18:01"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GteVf9LbUAAcXLT.jpg",
+      "https://pbs.twimg.com/media/GteVf9LaMAAIwPt.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1934178977884897445",
+    "fullText": "aaronle1612 https://t.co/SbK7pxRGbH",
+    "publishTime": "2025-06-15T17:19:38"
+  },
+  {
+    "user": {
+      "screenName": "kueerkueer",
+      "name": "kueer"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1934186632816754690/vid/avc1/720x1280/BMHnTBwlJsviO-8F.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/kueerkueer/status/1934186688152248779",
+    "fullText": "重庆 https://t.co/yFzXnwY5XQ",
+    "publishTime": "2025-06-15T17:50:16"
   }
 ]
