@@ -2026,5 +2026,57 @@
     },
     "full_text": "https://t.co/0FheJhF0uz",
     "publish_time": "2025-06-16T22:05:55"
+  },
+  {
+    "file_name": "Gtk37qHbUAAdnHu.jpg",
+    "user": {
+      "screen_name": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gtk37qHbUAAdnHu.jpg",
+    "read_time": "2025-06-17T00:00:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2068,
+      "timestamp": "2025-06-17T00:00:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 86923,
+      "size_mb": 0.08,
+      "timestamp": "2025-06-17T00:00:51",
+      "download_attempts": 0
+    },
+    "full_text": "来上课 https://t.co/YphzudjbmN",
+    "publish_time": "2025-06-16T23:47:40"
+  },
+  {
+    "file_name": "Gtk6U8yaQAAWVp5.jpg",
+    "user": {
+      "screen_name": "CaonimaSB250",
+      "name": "Muscle020"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gtk6U8yaQAAWVp5.jpg",
+    "read_time": "2025-06-17T00:00:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2069,
+      "timestamp": "2025-06-17T00:00:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 63542,
+      "size_mb": 0.06,
+      "timestamp": "2025-06-17T00:00:53",
+      "download_attempts": 0
+    },
+    "full_text": "开奖。 https://t.co/R7zeYxxgWY",
+    "publish_time": "2025-06-16T23:58:09"
   }
 ]
