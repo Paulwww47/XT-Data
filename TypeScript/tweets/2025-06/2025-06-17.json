@@ -283,5 +283,33 @@
     "tweetUrl": "https://x.com/iKwuen1111/status/1934807988600193418",
     "fullText": "角度好用 https://t.co/pJKvs4PCAJ",
     "publishTime": "2025-06-17T10:59:06"
+  },
+  {
+    "user": {
+      "screenName": "kueerkueer",
+      "name": "kueer"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1934814102788165636/vid/avc1/720x1280/Me4h05uKkvzApK8b.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/kueerkueer/status/1934814161684574335",
+    "fullText": "开车累了休息一下 https://t.co/ruXJxQK3Jv",
+    "publishTime": "2025-06-17T11:23:37"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GtndFVeaMAAu_hS.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1934820607377670477",
+    "fullText": "喜欢我吗 https://t.co/snDVy2fb5q",
+    "publishTime": "2025-06-17T11:49:14"
   }
 ]
