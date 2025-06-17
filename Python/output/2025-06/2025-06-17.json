@@ -1914,17 +1914,43 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (165MB > 50MB)",
       "timestamp": "2025-06-17T23:01:07",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 173993248,
       "size_mb": 165.93,
-      "timestamp": "2025-06-17T23:01:07",
+      "timestamp": "2025-06-18T00:01:11",
       "download_attempts": 0
     },
     "full_text": "zack很会吹 https://t.co/fodEbSDw4P",
     "publish_time": "2025-06-17T22:42:44"
+  },
+  {
+    "file_name": "Gtp60m7XMAA7BGR.jpg",
+    "user": {
+      "screen_name": "tkingjacksunday",
+      "name": "Jack"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gtp60m7XMAA7BGR.jpg",
+    "read_time": "2025-06-18T00:01:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2142,
+      "timestamp": "2025-06-18T00:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 140250,
+      "size_mb": 0.13,
+      "timestamp": "2025-06-18T00:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "Just accepting that I’ll never have an even tan https://t.co/LGujxqrad7",
+    "publish_time": "2025-06-17T23:18:23"
   }
 ]
