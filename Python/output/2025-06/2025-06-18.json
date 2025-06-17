@@ -50,5 +50,31 @@
     },
     "full_text": "睡了📉 https://t.co/Pn1Bz6zbHm",
     "publish_time": "2025-06-18T03:19:41"
+  },
+  {
+    "file_name": "GtrA3gqboAApSHF.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GtrA3gqboAApSHF.jpg",
+    "read_time": "2025-06-18T05:01:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2145,
+      "timestamp": "2025-06-18T05:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 192409,
+      "size_mb": 0.18,
+      "timestamp": "2025-06-18T05:01:12",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/OVkpiBpVwQ",
+    "publish_time": "2025-06-18T04:24:26"
   }
 ]
