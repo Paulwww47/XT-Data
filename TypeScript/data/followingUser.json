@@ -480,6 +480,35 @@
     }
   },
   {
+    "restId": "1926479764639920128",
+    "legacy": {
+      "name": "Fuyun",
+      "screenName": "DearxLong",
+      "createdAt": "Sun May 25 03:26:00 +0000 2025",
+      "description": "抖音号：DearxLong（亲爱的小龙）",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "dearxlong.gumroad.com",
+              "expanded_url": "https://dearxlong.gumroad.com",
+              "url": "https://t.co/ijCMZluqO2",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1926483925846683649/8-5KouPG_normal.jpg"
+    }
+  },
+  {
     "restId": "1830911823824199681",
     "legacy": {
       "name": "manman",
