@@ -145,5 +145,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1935456569396969903",
     "fullText": "duongdinno1705 https://t.co/DmYnpmxdF0",
     "publishTime": "2025-06-19T05:56:19"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gtw7gW5XwAEYFcM.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1935487374039073038",
+    "fullText": "https://t.co/N7FaYPQGh5",
+    "publishTime": "2025-06-19T07:58:44"
+  },
+  {
+    "user": {
+      "screenName": "SZionbaba",
+      "name": "zionbaba"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gtw7o1fXMAEPn44.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/SZionbaba/status/1935487524627193909",
+    "fullText": "吞完之后为什么会眼泪汪汪呢？ https://t.co/L7qBmqDbkN",
+    "publishTime": "2025-06-19T07:59:20"
   }
 ]
