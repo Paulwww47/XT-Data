@@ -456,5 +456,48 @@
     "tweetUrl": "https://x.com/youdi/status/1935545090711380335",
     "fullText": "自拍下 https://t.co/UlGtKPeNIC",
     "publishTime": "2025-06-19T11:48:04"
+  },
+  {
+    "user": {
+      "screenName": "zhu9993333",
+      "name": "🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gtx2om1aQAYemFL.jpg",
+      "https://pbs.twimg.com/media/Gtx2om8aQAMpDNf.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/zhu9993333/status/1935552387978248522",
+    "fullText": "注意傻逼盗图狗@aquan88800还在骗人 https://t.co/EovyzqkHxE",
+    "publishTime": "2025-06-19T12:17:04"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gtx47ECWAAA8i3C.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1935554914589225103",
+    "fullText": "https://t.co/EbDvNGnfTJ",
+    "publishTime": "2025-06-19T12:27:07"
+  },
+  {
+    "user": {
+      "screenName": "Shiningshenyi",
+      "name": "青岛训兽师"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1935561068207570944/pu/vid/avc1/720x1280/a8IaDjGEI8H2fZX1.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Shiningshenyi/status/1935561182926221470",
+    "fullText": "今天和电影学院学生玩了双龙，才大一就可以双龙了，真的是现在都玩很大。 https://t.co/sby96juNIk",
+    "publishTime": "2025-06-19T12:52:01"
   }
 ]
