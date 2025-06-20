@@ -1210,14 +1210,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (92MB > 50MB)",
       "timestamp": "2025-06-20T15:01:53",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 97119735,
       "size_mb": 92.62,
-      "timestamp": "2025-06-20T15:01:53",
+      "timestamp": "2025-06-20T16:01:17",
       "download_attempts": 0
     },
     "full_text": "dddin222系列\n肌肉贱狗激情无手喷精 https://t.co/MnBPZ36xMn",
@@ -1326,5 +1326,109 @@
     },
     "full_text": "🌻🌿 https://t.co/Ptw1oQP4kT",
     "publish_time": "2025-06-20T14:50:32"
+  },
+  {
+    "file_name": "Gt3p58vXcAAkB3I.jpg",
+    "user": {
+      "screen_name": "shejishi2020",
+      "name": "摄肌师"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gt3p58vXcAAkB3I.jpg",
+    "read_time": "2025-06-20T16:01:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2312,
+      "timestamp": "2025-06-20T16:01:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 117095,
+      "size_mb": 0.11,
+      "timestamp": "2025-06-20T16:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "角斗场中血未干,风云叱咤起狂澜 https://t.co/29vQ7XfAtK",
+    "publish_time": "2025-06-20T15:19:14"
+  },
+  {
+    "file_name": "Gt3q1DSXYAA4xz_.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gt3q1DSXYAA4xz_.jpg",
+    "read_time": "2025-06-20T16:01:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2313,
+      "timestamp": "2025-06-20T16:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 132598,
+      "size_mb": 0.13,
+      "timestamp": "2025-06-20T16:01:19",
+      "download_attempts": 0
+    },
+    "full_text": "aidenyuan_ https://t.co/J5ey3YpbWm",
+    "publish_time": "2025-06-20T15:23:12"
+  },
+  {
+    "file_name": "Gt3sQRpXkAA11Uh.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gt3sQRpXkAA11Uh.jpg",
+    "read_time": "2025-06-20T16:01:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2314,
+      "timestamp": "2025-06-20T16:01:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 195375,
+      "size_mb": 0.19,
+      "timestamp": "2025-06-20T16:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "andydon8288 https://t.co/2aLkrP39Pv",
+    "publish_time": "2025-06-20T15:29:27"
+  },
+  {
+    "file_name": "n92Skf7w86EF1NzB.mp4",
+    "user": {
+      "screen_name": "Xiongdaha",
+      "name": "雄大哈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1935967204849164288/vid/avc1/720x1280/n92Skf7w86EF1NzB.mp4?tag=21",
+    "read_time": "2025-06-20T16:01:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2315,
+      "timestamp": "2025-06-20T16:01:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1054249,
+      "size_mb": 1.01,
+      "timestamp": "2025-06-20T16:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "凭此屏截图戳  👉 https://t.co/QWzCll8JdN  进群即可观看我所有的完整版视频，仅限粉丝  私信暗号 👉  大 https://t.co/YjN1C7nsKq",
+    "publish_time": "2025-06-20T15:45:43"
   }
 ]
