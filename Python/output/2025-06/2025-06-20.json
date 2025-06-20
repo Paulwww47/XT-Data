@@ -2304,14 +2304,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (111MB > 50MB)",
       "timestamp": "2025-06-21T00:01:18",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 117430836,
       "size_mb": 111.99,
-      "timestamp": "2025-06-21T00:01:18",
+      "timestamp": "2025-06-21T01:00:55",
       "download_attempts": 0
     },
     "full_text": "riverlooking https://t.co/AJnpFwFrLM",
