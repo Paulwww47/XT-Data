@@ -490,5 +490,19 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1936429123892826624",
     "fullText": "nguyen.hai95 https://t.co/QelsFXsZU0",
     "publishTime": "2025-06-21T22:20:54"
+  },
+  {
+    "user": {
+      "screenName": "maletease",
+      "name": "MaleTease"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1936410703721607169/vid/avc1/1080x1920/bDzaSQIMLHJqtfXE.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/maletease/status/1936439335353831920",
+    "fullText": "littleb017 https://t.co/emLOXPhYfD",
+    "publishTime": "2025-06-21T23:01:29"
   }
 ]
