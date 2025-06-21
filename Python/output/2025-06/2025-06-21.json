@@ -466,5 +466,31 @@
     },
     "full_text": "caspar_rui https://t.co/lE6zv1F6Mq",
     "publish_time": "2025-06-21T11:44:03"
+  },
+  {
+    "file_name": "Gt8g3PkWMAAgvEp.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gt8g3PkWMAAgvEp.jpg",
+    "read_time": "2025-06-21T14:01:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2369,
+      "timestamp": "2025-06-21T14:01:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 173252,
+      "size_mb": 0.17,
+      "timestamp": "2025-06-21T14:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/fKenBQGcpe",
+    "publish_time": "2025-06-21T13:57:47"
   }
 ]
