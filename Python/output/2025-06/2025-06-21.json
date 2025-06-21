@@ -596,5 +596,57 @@
     },
     "full_text": "https://t.co/m97WPxyhmg",
     "publish_time": "2025-06-21T15:43:22"
+  },
+  {
+    "file_name": "FFQsWOoqAm7wA_wm.mp4",
+    "user": {
+      "screen_name": "uxy666",
+      "name": "uxy(找不到群看简介)"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1936335484932018176/vid/avc1/720x1280/FFQsWOoqAm7wA_wm.mp4?tag=14",
+    "read_time": "2025-06-21T17:00:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2374,
+      "timestamp": "2025-06-21T17:00:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1364772,
+      "size_mb": 1.3,
+      "timestamp": "2025-06-21T17:00:41",
+      "download_attempts": 0
+    },
+    "full_text": "😋\n\nhttps://t.co/cNS7yXnwnZ https://t.co/leFpbXaATx",
+    "publish_time": "2025-06-21T16:09:07"
+  },
+  {
+    "file_name": "2P_VSdoWeqDJCy-w.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1936341622809071616/vid/avc1/720x1280/2P_VSdoWeqDJCy-w.mp4?tag=21",
+    "read_time": "2025-06-21T17:00:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2375,
+      "timestamp": "2025-06-21T17:00:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1516197,
+      "size_mb": 1.45,
+      "timestamp": "2025-06-21T17:00:45",
+      "download_attempts": 0
+    },
+    "full_text": "明天要回台灣了 https://t.co/6iRbigRX2t",
+    "publish_time": "2025-06-21T16:33:29"
   }
 ]
