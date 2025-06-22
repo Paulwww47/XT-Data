@@ -1054,14 +1054,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (68MB > 50MB)",
       "timestamp": "2025-06-22T15:02:03",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 71409704,
       "size_mb": 68.1,
-      "timestamp": "2025-06-22T15:02:03",
+      "timestamp": "2025-06-22T16:01:27",
       "download_attempts": 0
     },
     "full_text": "分享一个体育生 https://t.co/NBdxI60iUL",
@@ -1144,5 +1144,317 @@
     },
     "full_text": "https://t.co/veN9kGVWu6",
     "publish_time": "2025-06-22T14:49:41"
+  },
+  {
+    "file_name": "GuB5ylfasAA2-CI.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GuB5ylfasAA2-CI.jpg",
+    "read_time": "2025-06-22T16:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2429,
+      "timestamp": "2025-06-22T16:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 289962,
+      "size_mb": 0.28,
+      "timestamp": "2025-06-22T16:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/OaFBqqt7LO",
+    "publish_time": "2025-06-22T15:04:52"
+  },
+  {
+    "file_name": "GuB53EcXYAAwCZK.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GuB53EcXYAAwCZK.jpg",
+    "read_time": "2025-06-22T16:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2430,
+      "timestamp": "2025-06-22T16:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 162979,
+      "size_mb": 0.16,
+      "timestamp": "2025-06-22T16:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/h5Vch0KhY9",
+    "publish_time": "2025-06-22T15:05:10"
+  },
+  {
+    "file_name": "GuB6jirWcAANjiY.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GuB6jirWcAANjiY.jpg",
+    "read_time": "2025-06-22T16:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2431,
+      "timestamp": "2025-06-22T16:01:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 90993,
+      "size_mb": 0.09,
+      "timestamp": "2025-06-22T16:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/aPhS9UCs3r",
+    "publish_time": "2025-06-22T15:08:08"
+  },
+  {
+    "file_name": "GuB7bm7XgAAiTHV.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GuB7bm7XgAAiTHV.jpg",
+    "read_time": "2025-06-22T16:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2432,
+      "timestamp": "2025-06-22T16:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 112537,
+      "size_mb": 0.11,
+      "timestamp": "2025-06-22T16:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/f7owc5f4ZR",
+    "publish_time": "2025-06-22T15:11:59"
+  },
+  {
+    "file_name": "GuB96A1WIAAmbr0.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GuB96A1WIAAmbr0.jpg",
+    "read_time": "2025-06-22T16:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2433,
+      "timestamp": "2025-06-22T16:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 47738,
+      "size_mb": 0.05,
+      "timestamp": "2025-06-22T16:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/v98LOCbgLA",
+    "publish_time": "2025-06-22T15:22:48"
+  },
+  {
+    "file_name": "GuB-LvJWsAAA8Q7.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GuB-LvJWsAAA8Q7.jpg",
+    "read_time": "2025-06-22T16:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2434,
+      "timestamp": "2025-06-22T16:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 114206,
+      "size_mb": 0.11,
+      "timestamp": "2025-06-22T16:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/7mweJiUKXb",
+    "publish_time": "2025-06-22T15:23:58"
+  },
+  {
+    "file_name": "E19ImWcz1slNe6Bj.mp4",
+    "user": {
+      "screen_name": "vallen_8891",
+      "name": "Vallen_"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1936688398116278272/vid/avc1/696x1248/E19ImWcz1slNe6Bj.mp4?tag=21",
+    "read_time": "2025-06-22T16:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2435,
+      "timestamp": "2025-06-22T16:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3070107,
+      "size_mb": 2.93,
+      "timestamp": "2025-06-22T16:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "Licking it。👅🦶 https://t.co/nDVuhrX1g9",
+    "publish_time": "2025-06-22T15:31:29"
+  },
+  {
+    "file_name": "GuCAzVSXQAAsxMo.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GuCAzVSXQAAsxMo.jpg",
+    "read_time": "2025-06-22T16:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2436,
+      "timestamp": "2025-06-22T16:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 66166,
+      "size_mb": 0.06,
+      "timestamp": "2025-06-22T16:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "“任何人在任何时间突然分道扬镳都很正常” https://t.co/Yw63mz4MZ1",
+    "publish_time": "2025-06-22T15:35:44"
+  },
+  {
+    "file_name": "GuCAzVdX0AAg80v.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GuCAzVdX0AAg80v.jpg",
+    "read_time": "2025-06-22T16:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2437,
+      "timestamp": "2025-06-22T16:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 171475,
+      "size_mb": 0.16,
+      "timestamp": "2025-06-22T16:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "“任何人在任何时间突然分道扬镳都很正常” https://t.co/Yw63mz4MZ1",
+    "publish_time": "2025-06-22T15:35:44"
+  },
+  {
+    "file_name": "GuCAzVRXMAA0DYy.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GuCAzVRXMAA0DYy.jpg",
+    "read_time": "2025-06-22T16:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2438,
+      "timestamp": "2025-06-22T16:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 80478,
+      "size_mb": 0.08,
+      "timestamp": "2025-06-22T16:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "“任何人在任何时间突然分道扬镳都很正常” https://t.co/Yw63mz4MZ1",
+    "publish_time": "2025-06-22T15:35:44"
+  },
+  {
+    "file_name": "GuCAzVcWoAAgXZe.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GuCAzVcWoAAgXZe.jpg",
+    "read_time": "2025-06-22T16:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2439,
+      "timestamp": "2025-06-22T16:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 139364,
+      "size_mb": 0.13,
+      "timestamp": "2025-06-22T16:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "“任何人在任何时间突然分道扬镳都很正常” https://t.co/Yw63mz4MZ1",
+    "publish_time": "2025-06-22T15:35:44"
+  },
+  {
+    "file_name": "kI3mahD5hl9zqIpb.mp4",
+    "user": {
+      "screen_name": "DomS7588",
+      "name": "叫爷爷"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1936691635473002496/vid/avc1/624x930/kI3mahD5hl9zqIpb.mp4?tag=21",
+    "read_time": "2025-06-22T16:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2440,
+      "timestamp": "2025-06-22T16:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4921080,
+      "size_mb": 4.69,
+      "timestamp": "2025-06-22T16:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "健身腹肌直男粗口调教\n\n完整版16分钟，系列共3部 https://t.co/hyNUxPyhjv",
+    "publish_time": "2025-06-22T15:45:02"
   }
 ]
