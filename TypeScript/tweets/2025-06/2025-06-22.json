@@ -224,5 +224,50 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1936575478640554162",
     "fullText": "https://t.co/VZ17EbSyFx",
     "publishTime": "2025-06-22T08:02:28"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuA4D-LWIAA8Hii.jpg",
+      "https://pbs.twimg.com/media/GuA4D-OX0AAvbne.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1936609486309077486",
+    "fullText": "ybseoul https://t.co/VdoXOnA9Wj",
+    "publishTime": "2025-06-22T10:17:36"
+  },
+  {
+    "user": {
+      "screenName": "DearxLong",
+      "name": "Fuyun"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://vimeo.com/1095330701?share=copy"
+    ],
+    "tweetUrl": "https://x.com/DearxLong/status/1936612306169073876",
+    "fullText": "https://t.co/n8qI812IY3",
+    "publishTime": "2025-06-22T10:28:48"
+  },
+  {
+    "user": {
+      "screenName": "OHOpeng",
+      "name": "彭鹏不姓彭"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuA8fkobYAAYl8w.jpg",
+      "https://pbs.twimg.com/media/GuA8flMXUAAgCZJ.jpg",
+      "https://pbs.twimg.com/media/GuA8flXW4AE6396.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/OHOpeng/status/1936614365828104379",
+    "fullText": "日常🌅 https://t.co/nNkAe61Ic4",
+    "publishTime": "2025-06-22T10:37:00"
   }
 ]
