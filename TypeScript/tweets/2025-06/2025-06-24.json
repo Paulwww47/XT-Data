@@ -70,5 +70,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1937221677840236666",
     "fullText": "summertangjoe https://t.co/sxShlaoJMW",
     "publishTime": "2025-06-24T02:50:14"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuKJQILagAIbuCo.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1937261705018626073",
+    "fullText": "frank_hu_ https://t.co/xonqzpEsTG",
+    "publishTime": "2025-06-24T05:29:17"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuKJUq2agAAiBd-.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1937261783309517027",
+    "fullText": "frank_hu_ https://t.co/v7UNM6oDj7",
+    "publishTime": "2025-06-24T05:29:36"
   }
 ]
