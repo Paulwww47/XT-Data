@@ -98,5 +98,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1937261783309517027",
     "fullText": "frank_hu_ https://t.co/v7UNM6oDj7",
     "publishTime": "2025-06-24T05:29:36"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuKiqbIbIAELC5C.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1937289643827065020",
+    "fullText": "https://t.co/4cQVwC4viu",
+    "publishTime": "2025-06-24T07:20:18"
+  },
+  {
+    "user": {
+      "screenName": "guxiaodan01",
+      "name": "孤小单"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1937292256756793347/vid/avc1/720x1600/rwMl3j3bFVTRzgEj.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/guxiaodan01/status/1937292603374055697",
+    "fullText": "快手大哥长得还挺帅！ https://t.co/VVqSrIxdfY",
+    "publishTime": "2025-06-24T07:32:04"
+  },
+  {
+    "user": {
+      "screenName": "guxiaodan01",
+      "name": "孤小单"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1937292760803061760/vid/avc1/720x1600/lpK3pwdUdKcuPH3m.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/guxiaodan01/status/1937293447926546439",
+    "fullText": "抖音帅哥支愣起来真的很猛！ https://t.co/VslFSpCS93",
+    "publishTime": "2025-06-24T07:35:25"
   }
 ]
