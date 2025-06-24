@@ -622,5 +622,20 @@
     "tweetUrl": "https://x.com/youdi/status/1937464858024559054",
     "fullText": "https://t.co/MUTFhwIrv3",
     "publishTime": "2025-06-24T18:56:33"
+  },
+  {
+    "user": {
+      "screenName": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1937494814121205760/vid/avc1/754x720/i89xNgXE_K69_kjc.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/1937494814100193281/vid/avc1/1280x720/9oIzX7X8UFM-B3ot.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/MuscleHunterX/status/1937494951790805175",
+    "fullText": "练健美的很多是m https://t.co/jshHRygE8q",
+    "publishTime": "2025-06-24T20:56:08"
   }
 ]
