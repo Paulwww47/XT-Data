@@ -1532,5 +1532,57 @@
     },
     "full_text": "https://t.co/laK76T6DNe",
     "publish_time": "2025-06-25T22:49:46"
+  },
+  {
+    "file_name": "GuTNewsWsAAaiCA.jpg",
+    "user": {
+      "screen_name": "tkingjacksunday",
+      "name": "Jack"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GuTNewsWsAAaiCA.jpg",
+    "read_time": "2025-06-26T00:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2639,
+      "timestamp": "2025-06-26T00:01:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 234549,
+      "size_mb": 0.22,
+      "timestamp": "2025-06-26T00:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "Dunkin drive thru lighting for the win https://t.co/T5vXbAZykG",
+    "publish_time": "2025-06-25T23:44:21"
+  },
+  {
+    "file_name": "GuTQRO3asAAjdLm.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GuTQRO3asAAjdLm.jpg",
+    "read_time": "2025-06-26T00:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2640,
+      "timestamp": "2025-06-26T00:01:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 65345,
+      "size_mb": 0.06,
+      "timestamp": "2025-06-26T00:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/EFMqGIpMbG",
+    "publish_time": "2025-06-25T23:56:32"
   }
 ]
