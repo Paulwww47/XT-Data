@@ -620,5 +620,45 @@
     "tweetUrl": "https://x.com/muchuanze/status/1938235864905052342",
     "fullText": "内裤太多了  低价处理 https://t.co/79B9nTXbIE",
     "publishTime": "2025-06-26T22:00:15"
+  },
+  {
+    "user": {
+      "screenName": "muchuanze",
+      "name": "沐川泽"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/muchuanze/status/1938236295278678482",
+    "fullText": "M号",
+    "publishTime": "2025-06-26T22:01:58"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuYEpy9bEAUFC5D.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/easychen/status/1938241819076382970",
+    "fullText": "#Easy同学正在独立开发 LMStudio 终于把 MCP 给加上了 https://t.co/ibL5cgQTgr",
+    "publishTime": "2025-06-26T22:23:55"
+  },
+  {
+    "user": {
+      "screenName": "fanglangnantu",
+      "name": "放浪男徒"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuYFnjdaUAAiRZ2.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/fanglangnantu/status/1938242934530580874",
+    "fullText": "当初也是美黑店PlAY过，可惜没拍视频 https://t.co/Whd0F8gu9s",
+    "publishTime": "2025-06-26T22:28:21"
   }
 ]
