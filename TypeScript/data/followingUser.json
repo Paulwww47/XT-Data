@@ -372,6 +372,35 @@
     }
   },
   {
+    "restId": "1920095880620994560",
+    "legacy": {
+      "name": "Ji j",
+      "screenName": "Chenmingxxx",
+      "createdAt": "Wed May 07 12:38:36 +0000 2025",
+      "description": "资源预览电报群🔗在👇.Q3989241242",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/+YUjm1Q9ww39jY…",
+              "expanded_url": "https://t.me/+YUjm1Q9ww39jYjBl",
+              "url": "https://t.co/9jkY5PP6c9",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1920096032207335424/g57GY_Ml_normal.jpg"
+    }
+  },
+  {
     "restId": "1190660153395290114",
     "legacy": {
       "name": "素食老虎🐅",
