@@ -752,5 +752,57 @@
     },
     "full_text": "https://t.co/j8VvX8tU7j",
     "publish_time": "2025-06-26T13:42:49"
+  },
+  {
+    "file_name": "GuWW6Cwa8AE_E4L.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GuWW6Cwa8AE_E4L.jpg",
+    "read_time": "2025-06-26T15:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2672,
+      "timestamp": "2025-06-26T15:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 68427,
+      "size_mb": 0.07,
+      "timestamp": "2025-06-26T15:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "caspar_rui https://t.co/fg86HDq64w",
+    "publish_time": "2025-06-26T14:24:24"
+  },
+  {
+    "file_name": "GuWX-twaAAAUXCL.jpg",
+    "user": {
+      "screen_name": "huohuo0707330",
+      "name": "嚯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GuWX-twaAAAUXCL.jpg",
+    "read_time": "2025-06-26T15:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2673,
+      "timestamp": "2025-06-26T15:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 237424,
+      "size_mb": 0.23,
+      "timestamp": "2025-06-26T15:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "难得硬  打扰 记录一下 https://t.co/nga8WlX3ra",
+    "publish_time": "2025-06-26T14:29:06"
   }
 ]
