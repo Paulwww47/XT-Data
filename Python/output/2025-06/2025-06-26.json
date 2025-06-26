@@ -232,5 +232,31 @@
     },
     "full_text": "chaiige2 https://t.co/10eVepZ6Su",
     "publish_time": "2025-06-26T06:09:03"
+  },
+  {
+    "file_name": "GuVGYG1awAAeBwR.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GuVGYG1awAAeBwR.jpg",
+    "read_time": "2025-06-26T09:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2652,
+      "timestamp": "2025-06-26T09:01:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101894,
+      "size_mb": 0.1,
+      "timestamp": "2025-06-26T09:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/3pc2kQRRge",
+    "publish_time": "2025-06-26T08:32:34"
   }
 ]
