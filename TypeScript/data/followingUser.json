@@ -2390,6 +2390,22 @@
     }
   },
   {
+    "restId": "1597707554464813056",
+    "legacy": {
+      "name": "近战法师Daniel",
+      "screenName": "tnzhfng41",
+      "createdAt": "Tue Nov 29 21:42:28 +0000 2022",
+      "description": "",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1597707554464813056/1670658837",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1867253753998655488/co24jID3_normal.jpg"
+    }
+  },
+  {
     "restId": "1236861694351048704",
     "legacy": {
       "name": "秃头程序员",
