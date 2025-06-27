@@ -602,5 +602,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1938520276435890481",
     "fullText": "seungholix https://t.co/agf5ARiQeL",
     "publishTime": "2025-06-27T16:50:24"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GucRfzKbgAADE0V.jpg",
+      "https://pbs.twimg.com/media/GucRfslbwAAsPOf.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1938537407093342370",
+    "fullText": "to__nyy https://t.co/efAC9C8QfI",
+    "publishTime": "2025-06-27T17:58:28"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GucRqgJaEAABvZG.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1938537591361695925",
+    "fullText": "to__nyy https://t.co/aMuvLNdY8c",
+    "publishTime": "2025-06-27T17:59:12"
   }
 ]
