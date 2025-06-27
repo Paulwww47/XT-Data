@@ -816,5 +816,22 @@
     "tweetUrl": "https://x.com/T527753733/status/1938597973912637921",
     "fullText": "https://t.co/wiXHqGFmWP",
     "publishTime": "2025-06-27T21:59:09"
+  },
+  {
+    "user": {
+      "screenName": "T527753733",
+      "name": "地空捣蛋"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GudIpn0akAAtfnL.jpg",
+      "https://pbs.twimg.com/media/GudIpn9aIAAxG8I.jpg",
+      "https://pbs.twimg.com/media/GudIpn3aYAANqu1.jpg",
+      "https://pbs.twimg.com/media/GudIpoAacAA39WJ.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/T527753733/status/1938599607719838123",
+    "fullText": "https://t.co/NC9y9wwxQe",
+    "publishTime": "2025-06-27T22:05:38"
   }
 ]
