@@ -681,5 +681,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1938935890379973083",
     "fullText": "nnrwspt https://t.co/CzHE6ipSxo",
     "publishTime": "2025-06-28T20:21:54"
+  },
+  {
+    "user": {
+      "screenName": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1938946249853472768/vid/avc1/720x1272/h8RDMtlq5l9-vR6p.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/MuscleHunterX/status/1938946547154329601",
+    "fullText": "发不完 根本发不完 https://t.co/GUlWvjKSkI",
+    "publishTime": "2025-06-28T21:04:15"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuiGHhdWIAAuVxX.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1938947110382231678",
+    "fullText": "nnrwspt https://t.co/xQKw8JhxEx",
+    "publishTime": "2025-06-28T21:06:29"
+  },
+  {
+    "user": {
+      "screenName": "muchuanze",
+      "name": "沐川泽"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1938959546313031680/vid/avc1/720x1280/TpQf_vhKYA3S-JIM.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/muchuanze/status/1938959633781002393",
+    "fullText": "和兄弟玩 只能磨枪了 https://t.co/co2LbIIsmI",
+    "publishTime": "2025-06-28T21:56:15"
   }
 ]
