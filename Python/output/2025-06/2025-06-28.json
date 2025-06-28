@@ -596,5 +596,31 @@
     },
     "full_text": "週六 https://t.co/kzOHfY4ncF",
     "publish_time": "2025-06-28T09:47:16"
+  },
+  {
+    "file_name": "Guf7T_mXEAIGNFO.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Guf7T_mXEAIGNFO.jpg",
+    "read_time": "2025-06-28T11:01:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2805,
+      "timestamp": "2025-06-28T11:01:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 182544,
+      "size_mb": 0.17,
+      "timestamp": "2025-06-28T11:01:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/FrQHuZMsQn https://t.co/oyFFaGg85c",
+    "publish_time": "2025-06-28T11:00:03"
   }
 ]
