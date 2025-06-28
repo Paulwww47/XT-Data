@@ -154,5 +154,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1938682438487802337",
     "fullText": "findkuper https://t.co/Hvam0hJxOo",
     "publishTime": "2025-06-28T03:34:46"
+  },
+  {
+    "user": {
+      "screenName": "lvkie253",
+      "name": "Lvkie"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GufIIOnaoAIdQeI.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/lvkie253/status/1938738215613345972",
+    "fullText": "https://t.co/FnftKCPeTW",
+    "publishTime": "2025-06-28T07:16:25"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GufKcNcaoAM_i8t.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1938740756354883674",
+    "fullText": "https://t.co/zTSpxT9xst",
+    "publishTime": "2025-06-28T07:26:31"
   }
 ]
