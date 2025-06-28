@@ -169,5 +169,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1939073218368991548",
     "fullText": "david_sooo https://t.co/BNXZRvbcUX",
     "publishTime": "2025-06-29T05:27:36"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1939082729619886080/vid/avc1/720x1280/u6uSBuIGy8hJ35iw.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1939082841146761569",
+    "fullText": "早 https://t.co/Cd9WvIUl8J",
+    "publishTime": "2025-06-29T06:05:50"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GukFCCKaoAIObet.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1939086653823553562",
+    "fullText": "david_sooo https://t.co/HtNrRWW83j",
+    "publishTime": "2025-06-29T06:20:59"
   }
 ]

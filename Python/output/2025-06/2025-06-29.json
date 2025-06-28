@@ -336,5 +336,57 @@
     },
     "full_text": "david_sooo https://t.co/BNXZRvbcUX",
     "publish_time": "2025-06-29T05:27:36"
+  },
+  {
+    "file_name": "u6uSBuIGy8hJ35iw.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1939082729619886080/vid/avc1/720x1280/u6uSBuIGy8hJ35iw.mp4?tag=21",
+    "read_time": "2025-06-29T07:00:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2859,
+      "timestamp": "2025-06-29T07:00:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5395878,
+      "size_mb": 5.15,
+      "timestamp": "2025-06-29T07:00:35",
+      "download_attempts": 0
+    },
+    "full_text": "早 https://t.co/Cd9WvIUl8J",
+    "publish_time": "2025-06-29T06:05:50"
+  },
+  {
+    "file_name": "GukFCCKaoAIObet.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GukFCCKaoAIObet.jpg",
+    "read_time": "2025-06-29T07:00:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2860,
+      "timestamp": "2025-06-29T07:00:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 102627,
+      "size_mb": 0.1,
+      "timestamp": "2025-06-29T07:00:38",
+      "download_attempts": 0
+    },
+    "full_text": "david_sooo https://t.co/HtNrRWW83j",
+    "publish_time": "2025-06-29T06:20:59"
   }
 ]
