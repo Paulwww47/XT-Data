@@ -310,5 +310,31 @@
     },
     "full_text": "kev_Icy https://t.co/68u9WqIEY4",
     "publish_time": "2025-06-30T05:43:44"
+  },
+  {
+    "file_name": "GupQAx0XcAAvVwM.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GupQAx0XcAAvVwM.jpg",
+    "read_time": "2025-06-30T07:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2926,
+      "timestamp": "2025-06-30T07:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 89669,
+      "size_mb": 0.09,
+      "timestamp": "2025-06-30T07:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "tofusamwang https://t.co/85aLxhaBME",
+    "publish_time": "2025-06-30T06:27:03"
   }
 ]
