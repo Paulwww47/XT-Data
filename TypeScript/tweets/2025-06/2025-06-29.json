@@ -761,5 +761,33 @@
     "tweetUrl": "https://x.com/lubanbii/status/1939275910437626036",
     "fullText": "最近体脂率涨了点😅 https://t.co/RpJO4q7CLg",
     "publishTime": "2025-06-29T18:53:01"
+  },
+  {
+    "user": {
+      "screenName": "BeauX_99",
+      "name": "BeauX"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1939278159641251840/pu/vid/avc1/1264x720/XuAKsx_7404YBa7V.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/BeauX_99/status/1939278398943293942",
+    "fullText": "https://t.co/Q63kN5IIFN",
+    "publishTime": "2025-06-29T19:02:55"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gum0fEkboAAgcCt.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1939279568244011471",
+    "fullText": "sunfrosted https://t.co/ioWAcovDgm",
+    "publishTime": "2025-06-29T19:07:33"
   }
 ]
