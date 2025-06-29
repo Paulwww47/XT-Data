@@ -181,10 +181,20 @@
       "name": "特殊XP研究所",
       "screenName": "bedhumper1126",
       "createdAt": "Fri Jul 19 15:41:16 +0000 2024",
-      "description": "🤓小众赛道：蹭床/夹杆/压角/袖珍短小/真性包茎/反差。\n🤪欢迎投稿！(谢绝无干货闲聊)\n🧐本号主体内容为男男，女稿不接。推事推止。\n🤨喜欢的可关注【备用号 @teshuxingpi 】，防走丢。",
+      "description": "🤓小众赛道：蹭床/夹杆/压角/袖珍短小/真性包茎/反差。\n🤪欢迎投稿！(电报自助投稿 https://t.co/is2A9FAWsA )\n🧐本号主体内容为男男，女稿不接。推事推止。\n🤨喜欢的可关注【备用号 @teshuxingpi 】，防走丢。",
       "entities": {
         "description": {
-          "urls": []
+          "urls": [
+            {
+              "display_url": "t.me/ZTSP_bot",
+              "expanded_url": "http://t.me/ZTSP_bot",
+              "url": "https://t.co/is2A9FAWsA",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
         }
       },
       "profileBannerUrl": "",
