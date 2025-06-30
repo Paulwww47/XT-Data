@@ -643,5 +643,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1939605989608841638",
     "fullText": "https://t.co/GNiqCfrTzw",
     "publishTime": "2025-06-30T16:44:38"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GursdumXYAAIKlK.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1939622593398731195",
+    "fullText": "zhengxiaopeng718 https://t.co/aEfg74SKD7",
+    "publishTime": "2025-06-30T17:50:37"
+  },
+  {
+    "user": {
+      "screenName": "SZionbaba",
+      "name": "zionbaba"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GurtUvvXQAAyEE9.jpg",
+      "https://pbs.twimg.com/media/GurtU2LXYAAJDkI.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/SZionbaba/status/1939623544956322023",
+    "fullText": "包不住了怎么办？ https://t.co/IWP1XltjZ4",
+    "publishTime": "2025-06-30T17:54:24"
   }
 ]
