@@ -130,5 +130,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1939784943808524300",
     "fullText": "hinch1027 https://t.co/sMcvWIBuqi",
     "publishTime": "2025-07-01T04:35:44"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuuN_xnboAEAiUk.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1939800196046790876",
+    "fullText": "https://t.co/bOSBkeUC6O",
+    "publishTime": "2025-07-01T05:36:21"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GuuOOKLW4AAhce-.jpg",
+      "https://pbs.twimg.com/media/GuuOOKTXoAAdsmM.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1939800447369585014",
+    "fullText": "shine_deng https://t.co/69X243ofE2",
+    "publishTime": "2025-07-01T05:37:21"
   }
 ]
