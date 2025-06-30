@@ -1482,5 +1482,31 @@
     },
     "full_text": "https://t.co/7CZ2wcRpmW",
     "publish_time": "2025-06-30T19:37:39"
+  },
+  {
+    "file_name": "GusO8_8WsAAoEnw.jpg",
+    "user": {
+      "screen_name": "lin120260901",
+      "name": "香草味狗子"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GusO8_8WsAAoEnw.jpg",
+    "read_time": "2025-06-30T21:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 2970,
+      "timestamp": "2025-06-30T21:01:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 160861,
+      "size_mb": 0.15,
+      "timestamp": "2025-06-30T21:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/tNmrEsrJsc",
+    "publish_time": "2025-06-30T20:21:20"
   }
 ]
