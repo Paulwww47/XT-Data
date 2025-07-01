@@ -1,0 +1,54 @@
+[
+  {
+    "file_name": "zQqXZQFDhkknkAqD.mp4",
+    "user": {
+      "screen_name": "kueerkueer",
+      "name": "kueer"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1940083482568413186/vid/avc1/720x1280/zQqXZQFDhkknkAqD.mp4?tag=21",
+    "read_time": "2025-07-02T01:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3052,
+      "timestamp": "2025-07-02T01:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3476947,
+      "size_mb": 3.32,
+      "timestamp": "2025-07-02T01:01:10",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/KDf5S57hXu",
+    "publish_time": "2025-07-02T00:22:55"
+  },
+  {
+    "file_name": "3Dc8PHkFXmsloodI.mp4",
+    "user": {
+      "screen_name": "T527753733",
+      "name": "地空捣蛋"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1940085947833503744/vid/avc1/720x1280/3Dc8PHkFXmsloodI.mp4?tag=21",
+    "read_time": "2025-07-02T01:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3053,
+      "timestamp": "2025-07-02T01:01:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1492332,
+      "size_mb": 1.42,
+      "timestamp": "2025-07-02T01:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/atOrTN4Qda",
+    "publish_time": "2025-07-02T00:32:26"
+  }
+]
