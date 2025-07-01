@@ -284,5 +284,83 @@
     },
     "full_text": "mark.xiaohui https://t.co/2OOf9GyHCu",
     "publish_time": "2025-07-02T04:59:16"
+  },
+  {
+    "file_name": "Guze4aqX0AAdyz1.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Guze4aqX0AAdyz1.jpg",
+    "read_time": "2025-07-02T07:00:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3063,
+      "timestamp": "2025-07-02T07:00:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 121666,
+      "size_mb": 0.12,
+      "timestamp": "2025-07-02T07:00:51",
+      "download_attempts": 0
+    },
+    "full_text": "tia.nzl https://t.co/OzJmYzReEI",
+    "publish_time": "2025-07-02T06:08:14"
+  },
+  {
+    "file_name": "Guzk9uFXAAADUBP.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Guzk9uFXAAADUBP.jpg",
+    "read_time": "2025-07-02T07:00:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3064,
+      "timestamp": "2025-07-02T07:00:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 98296,
+      "size_mb": 0.09,
+      "timestamp": "2025-07-02T07:00:53",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/t8LjjhJFxE",
+    "publish_time": "2025-07-02T06:34:48"
+  },
+  {
+    "file_name": "TdTndn0DFh1IGU2p.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1940180001543925760/vid/avc1/720x1280/TdTndn0DFh1IGU2p.mp4?tag=21",
+    "read_time": "2025-07-02T07:00:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3065,
+      "timestamp": "2025-07-02T07:00:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7640589,
+      "size_mb": 7.29,
+      "timestamp": "2025-07-02T07:00:55",
+      "download_attempts": 0
+    },
+    "full_text": "硬爆 https://t.co/4T7O1M0dZ1",
+    "publish_time": "2025-07-02T06:46:06"
   }
 ]
