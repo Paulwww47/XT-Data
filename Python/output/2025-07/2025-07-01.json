@@ -1766,5 +1766,85 @@
     },
     "full_text": "Lee Jeongchan 🥵🫣 https://t.co/ZuHJhAYabl",
     "publish_time": "2025-07-01T21:33:31"
+  },
+  {
+    "file_name": "Gux4GDcWAAA2WJh.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gux4GDcWAAA2WJh.jpg",
+    "read_time": "2025-07-01T23:01:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3050,
+      "timestamp": "2025-07-01T23:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 126076,
+      "size_mb": 0.12,
+      "timestamp": "2025-07-01T23:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/QucpHCGY6e",
+    "publish_time": "2025-07-01T22:39:09"
+  },
+  {
+    "file_name": "Gux5LFbWIAEEQfd.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gux5LFbWIAEEQfd.jpg",
+    "read_time": "2025-07-01T23:01:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3051,
+      "timestamp": "2025-07-01T23:01:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 100528,
+      "size_mb": 0.1,
+      "timestamp": "2025-07-01T23:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/fO8pTUczCS",
+    "publish_time": "2025-07-01T22:43:52"
+  },
+  {
+    "file_name": "xjTbF5bYPrYMX69b.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1940043952893079552/vid/avc1/1080x1920/xjTbF5bYPrYMX69b.mp4?tag=21",
+    "read_time": "2025-07-01T23:01:11",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (394MB > 50MB)",
+      "timestamp": "2025-07-01T23:01:52",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 414151334,
+      "size_mb": 394.97,
+      "timestamp": "2025-07-01T23:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "黑仔和痞寸 https://t.co/wUDnQyMvgh",
+    "publish_time": "2025-07-01T22:49:46"
   }
 ]
