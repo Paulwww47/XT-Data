@@ -1834,14 +1834,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (394MB > 50MB)",
       "timestamp": "2025-07-01T23:01:52",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 414151334,
       "size_mb": 394.97,
-      "timestamp": "2025-07-01T23:01:52",
+      "timestamp": "2025-07-02T00:01:20",
       "download_attempts": 0
     },
     "full_text": "黑仔和痞寸 https://t.co/wUDnQyMvgh",
