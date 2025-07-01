@@ -393,5 +393,33 @@
     "tweetUrl": "https://x.com/markma58304799/status/1939907368198054024",
     "fullText": "薄荷绿很ok https://t.co/4lKXEL3nn8",
     "publishTime": "2025-07-01T12:42:12"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Guv9CGRWcAA7Pxa.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1939922283889664168",
+    "fullText": "https://t.co/hUUcNclcM2",
+    "publishTime": "2025-07-01T13:41:29"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Guv9FtHW4AEKGxk.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1939922346577731773",
+    "fullText": "https://t.co/PFvVh8YJ7P",
+    "publishTime": "2025-07-01T13:41:44"
   }
 ]
