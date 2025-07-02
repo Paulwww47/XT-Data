@@ -1760,14 +1760,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (135MB > 50MB)",
       "timestamp": "2025-07-03T00:02:16",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 142500820,
       "size_mb": 135.9,
-      "timestamp": "2025-07-03T00:02:16",
+      "timestamp": "2025-07-03T01:01:30",
       "download_attempts": 0
     },
     "full_text": "★與健身直男下班後相約-公廁篇★（重新修剪版本） - FansOne 讓創作更有價值\nqueenbeemi23系列 https://t.co/rXP2OCTffV",
