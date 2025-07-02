@@ -716,5 +716,33 @@
     "tweetUrl": "https://x.com/youdi/status/1940424343395459491",
     "fullText": "https://t.co/1dkWQQrRa7",
     "publishTime": "2025-07-02T22:56:29"
+  },
+  {
+    "user": {
+      "screenName": "maletease",
+      "name": "MaleTease"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1940394043323625472/vid/avc1/1920x1080/TtEGcGm4pzVTncql.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/maletease/status/1940432326976291313",
+    "fullText": "★與健身直男下班後相約-公廁篇★（重新修剪版本） - FansOne 讓創作更有價值\nqueenbeemi23系列 https://t.co/rXP2OCTffV",
+    "publishTime": "2025-07-02T23:28:12"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gu3RnnOWQAAkvWN.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1940437522490015889",
+    "fullText": "https://t.co/UtaDqIZjVP",
+    "publishTime": "2025-07-02T23:48:51"
   }
 ]

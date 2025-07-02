@@ -1574,14 +1574,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (53MB > 50MB)",
       "timestamp": "2025-07-02T23:01:28",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 56038372,
       "size_mb": 53.44,
-      "timestamp": "2025-07-02T23:01:28",
+      "timestamp": "2025-07-03T00:02:01",
       "download_attempts": 0
     },
     "full_text": "【share】最近很火的伪娘？与直男系列。 https://t.co/O7jNMQyrJX",
@@ -1602,14 +1602,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (130MB > 50MB)",
       "timestamp": "2025-07-02T23:01:29",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 137132528,
       "size_mb": 130.78,
-      "timestamp": "2025-07-02T23:01:29",
+      "timestamp": "2025-07-03T00:02:03",
       "download_attempts": 0
     },
     "full_text": "【share】最近很火的伪娘？与直男系列。 https://t.co/O7jNMQyrJX",
@@ -1744,5 +1744,59 @@
     },
     "full_text": "https://t.co/1dkWQQrRa7",
     "publish_time": "2025-07-02T22:56:29"
+  },
+  {
+    "file_name": "TtEGcGm4pzVTncql.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1940394043323625472/vid/avc1/1920x1080/TtEGcGm4pzVTncql.mp4?tag=21",
+    "read_time": "2025-07-03T00:02:00",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (135MB > 50MB)",
+      "timestamp": "2025-07-03T00:02:16",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 142500820,
+      "size_mb": 135.9,
+      "timestamp": "2025-07-03T00:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "★與健身直男下班後相約-公廁篇★（重新修剪版本） - FansOne 讓創作更有價值\nqueenbeemi23系列 https://t.co/rXP2OCTffV",
+    "publish_time": "2025-07-02T23:28:12"
+  },
+  {
+    "file_name": "Gu3RnnOWQAAkvWN.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gu3RnnOWQAAkvWN.jpg",
+    "read_time": "2025-07-03T00:02:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3117,
+      "timestamp": "2025-07-03T00:02:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 209571,
+      "size_mb": 0.2,
+      "timestamp": "2025-07-03T00:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/UtaDqIZjVP",
+    "publish_time": "2025-07-02T23:48:51"
   }
 ]
