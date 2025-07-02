@@ -1376,5 +1376,57 @@
     },
     "full_text": "lifein_flow https://t.co/zYiWz3ORrw",
     "publish_time": "2025-07-02T17:31:44"
+  },
+  {
+    "file_name": "Gu2DeGBWAAAiUy_.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gu2DeGBWAAAiUy_.jpg",
+    "read_time": "2025-07-02T19:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3105,
+      "timestamp": "2025-07-02T19:01:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 152375,
+      "size_mb": 0.15,
+      "timestamp": "2025-07-02T19:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "louiewe https://t.co/itB3q8rDMl",
+    "publish_time": "2025-07-02T18:07:20"
+  },
+  {
+    "file_name": "Gu2IVeZWQAAQ_1U.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gu2IVeZWQAAQ_1U.jpg",
+    "read_time": "2025-07-02T19:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3106,
+      "timestamp": "2025-07-02T19:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 151986,
+      "size_mb": 0.14,
+      "timestamp": "2025-07-02T19:01:23",
+      "download_attempts": 0
+    },
+    "full_text": "shine_deng https://t.co/FKSJa4Z2cc",
+    "publish_time": "2025-07-02T18:28:35"
   }
 ]
