@@ -362,5 +362,31 @@
     },
     "full_text": "硬爆 https://t.co/4T7O1M0dZ1",
     "publish_time": "2025-07-02T06:46:06"
+  },
+  {
+    "file_name": "Gu0A3jIW4AAlKC9.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gu0A3jIW4AAlKC9.jpg",
+    "read_time": "2025-07-02T09:00:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3066,
+      "timestamp": "2025-07-02T09:00:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 122974,
+      "size_mb": 0.12,
+      "timestamp": "2025-07-02T09:00:54",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/uM3bpgZDTx",
+    "publish_time": "2025-07-02T08:36:43"
   }
 ]
