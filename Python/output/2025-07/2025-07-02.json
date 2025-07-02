@@ -388,5 +388,31 @@
     },
     "full_text": "https://t.co/uM3bpgZDTx",
     "publish_time": "2025-07-02T08:36:43"
+  },
+  {
+    "file_name": "Gu0RTkVXkAAuB_b.jpg",
+    "user": {
+      "screen_name": "lilei92872270",
+      "name": "travelrtail"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gu0RTkVXkAAuB_b.jpg",
+    "read_time": "2025-07-02T10:01:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3067,
+      "timestamp": "2025-07-02T10:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 166226,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-02T10:01:24",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/AXbGPZu235",
+    "publish_time": "2025-07-02T09:48:35"
   }
 ]
