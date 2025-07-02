@@ -1558,5 +1558,191 @@
     },
     "full_text": "https://t.co/jVirxsC0Ry",
     "publish_time": "2025-07-02T20:19:48"
+  },
+  {
+    "file_name": "04CXTiVCuX6DQrf9.mp4",
+    "user": {
+      "screen_name": "justeatmine",
+      "name": "局部"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1940397749175803904/vid/avc1/720x1280/04CXTiVCuX6DQrf9.mp4?tag=21",
+    "read_time": "2025-07-02T23:01:27",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (53MB > 50MB)",
+      "timestamp": "2025-07-02T23:01:28",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 56038372,
+      "size_mb": 53.44,
+      "timestamp": "2025-07-02T23:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "【share】最近很火的伪娘？与直男系列。 https://t.co/O7jNMQyrJX",
+    "publish_time": "2025-07-02T21:20:41"
+  },
+  {
+    "file_name": "1Kt090THzlAIeMeh.mp4",
+    "user": {
+      "screen_name": "justeatmine",
+      "name": "局部"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1940397749213556736/vid/avc1/720x1280/1Kt090THzlAIeMeh.mp4?tag=21",
+    "read_time": "2025-07-02T23:01:27",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (130MB > 50MB)",
+      "timestamp": "2025-07-02T23:01:29",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 137132528,
+      "size_mb": 130.78,
+      "timestamp": "2025-07-02T23:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "【share】最近很火的伪娘？与直男系列。 https://t.co/O7jNMQyrJX",
+    "publish_time": "2025-07-02T21:20:41"
+  },
+  {
+    "file_name": "Gu23jBtXAAABnS7.jpg",
+    "user": {
+      "screen_name": "T527753733",
+      "name": "地空捣蛋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gu23jBtXAAABnS7.jpg",
+    "read_time": "2025-07-02T23:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3112,
+      "timestamp": "2025-07-02T23:01:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 108212,
+      "size_mb": 0.1,
+      "timestamp": "2025-07-02T23:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Wc4LlD6NCP",
+    "publish_time": "2025-07-02T21:55:13"
+  },
+  {
+    "file_name": "Gu23jAuXEAE2v4c.jpg",
+    "user": {
+      "screen_name": "T527753733",
+      "name": "地空捣蛋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gu23jAuXEAE2v4c.jpg",
+    "read_time": "2025-07-02T23:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3113,
+      "timestamp": "2025-07-02T23:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 89776,
+      "size_mb": 0.09,
+      "timestamp": "2025-07-02T23:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Wc4LlD6NCP",
+    "publish_time": "2025-07-02T21:55:13"
+  },
+  {
+    "file_name": "Gu23jB0XgAA8ADv.jpg",
+    "user": {
+      "screen_name": "T527753733",
+      "name": "地空捣蛋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gu23jB0XgAA8ADv.jpg",
+    "read_time": "2025-07-02T23:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3114,
+      "timestamp": "2025-07-02T23:01:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 110928,
+      "size_mb": 0.11,
+      "timestamp": "2025-07-02T23:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Wc4LlD6NCP",
+    "publish_time": "2025-07-02T21:55:13"
+  },
+  {
+    "file_name": "Gu298w8W8AAO1C_.jpg",
+    "user": {
+      "screen_name": "muchuanze",
+      "name": "沐川泽"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gu298w8W8AAO1C_.jpg",
+    "read_time": "2025-07-02T23:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3115,
+      "timestamp": "2025-07-02T23:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 128965,
+      "size_mb": 0.12,
+      "timestamp": "2025-07-02T23:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "没什么可发的 秀一下蛋吧 https://t.co/wp5Jc6yOXu",
+    "publish_time": "2025-07-02T22:22:56"
+  },
+  {
+    "file_name": "Gu3FpCXXYAAxhVz.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gu3FpCXXYAAxhVz.jpg",
+    "read_time": "2025-07-02T23:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3116,
+      "timestamp": "2025-07-02T23:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 58523,
+      "size_mb": 0.06,
+      "timestamp": "2025-07-02T23:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/1dkWQQrRa7",
+    "publish_time": "2025-07-02T22:56:29"
   }
 ]
