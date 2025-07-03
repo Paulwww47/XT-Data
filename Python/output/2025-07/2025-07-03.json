@@ -1032,14 +1032,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (71MB > 50MB)",
       "timestamp": "2025-07-03T17:01:06",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 74480973,
       "size_mb": 71.03,
-      "timestamp": "2025-07-03T17:01:06",
+      "timestamp": "2025-07-03T18:01:07",
       "download_attempts": 0
     },
     "full_text": "直男被女农玩 kiri_amari 系列 https://t.co/2EnHErr4Ud",
@@ -1086,17 +1086,95 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (93MB > 50MB)",
       "timestamp": "2025-07-03T17:01:10",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 98101688,
       "size_mb": 93.56,
-      "timestamp": "2025-07-03T17:01:10",
+      "timestamp": "2025-07-03T18:01:09",
       "download_attempts": 0
     },
     "full_text": "给你发个粗糙的打飞机视频 https://t.co/PCcBIamD6W",
     "publish_time": "2025-07-03T16:27:54"
+  },
+  {
+    "file_name": "Gu7A07Qb0AAmFgg.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gu7A07Qb0AAmFgg.jpg",
+    "read_time": "2025-07-03T18:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3156,
+      "timestamp": "2025-07-03T18:01:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 176268,
+      "size_mb": 0.17,
+      "timestamp": "2025-07-03T18:01:09",
+      "download_attempts": 0
+    },
+    "full_text": "guwenqq https://t.co/K31btuSWtB",
+    "publish_time": "2025-07-03T17:13:52"
+  },
+  {
+    "file_name": "Gu7KaVJWIAAHFc-.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gu7KaVJWIAAHFc-.jpg",
+    "read_time": "2025-07-03T18:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3157,
+      "timestamp": "2025-07-03T18:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 176636,
+      "size_mb": 0.17,
+      "timestamp": "2025-07-03T18:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "bigtaka0918 https://t.co/SaDuLCV0XF",
+    "publish_time": "2025-07-03T17:55:46"
+  },
+  {
+    "file_name": "Gu7KaVLWgAA79YV.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gu7KaVLWgAA79YV.jpg",
+    "read_time": "2025-07-03T18:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3158,
+      "timestamp": "2025-07-03T18:01:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 201366,
+      "size_mb": 0.19,
+      "timestamp": "2025-07-03T18:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "bigtaka0918 https://t.co/SaDuLCV0XF",
+    "publish_time": "2025-07-03T17:55:46"
   }
 ]
