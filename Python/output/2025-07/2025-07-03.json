@@ -848,17 +848,173 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (54MB > 50MB)",
       "timestamp": "2025-07-03T15:01:16",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 57201725,
       "size_mb": 54.55,
-      "timestamp": "2025-07-03T15:01:16",
+      "timestamp": "2025-07-03T16:01:11",
       "download_attempts": 0
     },
     "full_text": "直男被女农玩\nkiri_amari 系列 https://t.co/RF6cqCrxNR",
     "publish_time": "2025-07-03T14:49:12"
+  },
+  {
+    "file_name": "Gu6kTEQXIAAMWO4.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gu6kTEQXIAAMWO4.jpg",
+    "read_time": "2025-07-03T16:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3149,
+      "timestamp": "2025-07-03T16:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 77138,
+      "size_mb": 0.07,
+      "timestamp": "2025-07-03T16:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/6ue6qhsk6v",
+    "publish_time": "2025-07-03T15:09:17"
+  },
+  {
+    "file_name": "Gu6rDPKaEAAmRt1.jpg",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gu6rDPKaEAAmRt1.jpg",
+    "read_time": "2025-07-03T16:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3150,
+      "timestamp": "2025-07-03T16:01:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 131411,
+      "size_mb": 0.13,
+      "timestamp": "2025-07-03T16:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "欢迎来到我的私人空间——今天开通电报，可观看📷我的所有视频和写真 。高清无码视频（今日无需任何门槛粉丝福利) 电报私信我 : https://t.co/CqRm9FqlbH\n暗号：MH\n 电报放胆联系我‘“推特私信一律不回 https://t.co/Y091YxZ5cH",
+    "publish_time": "2025-07-03T15:39:11"
+  },
+  {
+    "file_name": "EuhWLclnPbFlJ604.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1940676561729945600/vid/avc1/720x1034/EuhWLclnPbFlJ604.mp4?tag=21",
+    "read_time": "2025-07-03T16:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3151,
+      "timestamp": "2025-07-03T16:01:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2368330,
+      "size_mb": 2.26,
+      "timestamp": "2025-07-03T16:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "欢迎来到我的私人空间——今天开通电报，可观看📷我的所有视频和写真 。高清无码视频（今日无需任何门槛粉丝福利) 电报私信我 : https://t.co/CqRm9FqlbH\n暗号：MH\n 电报放胆联系我‘“推特私信一律不回 https://t.co/Y091YxZ5cH",
+    "publish_time": "2025-07-03T15:39:11"
+  },
+  {
+    "file_name": "Gu6rOT4aIAAezQ4.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gu6rOT4aIAAezQ4.png",
+    "read_time": "2025-07-03T16:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3152,
+      "timestamp": "2025-07-03T16:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 317853,
+      "size_mb": 0.3,
+      "timestamp": "2025-07-03T16:01:19",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/BO6XyGZabo",
+    "publish_time": "2025-07-03T15:39:31"
+  },
+  {
+    "file_name": "Gu6tCVea0AAu50M.jpg",
+    "user": {
+      "screen_name": "huahua6256",
+      "name": "花生6256"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gu6tCVea0AAu50M.jpg",
+    "read_time": "2025-07-03T16:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3153,
+      "timestamp": "2025-07-03T16:01:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 180875,
+      "size_mb": 0.17,
+      "timestamp": "2025-07-03T16:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "凭此屏截图戳  👉 https://t.co/adudVqluRm  进群即可观看我所有的完整版视频，仅限粉丝  私信暗号 👉  44 https://t.co/I9FgmirYRH",
+    "publish_time": "2025-07-03T15:47:25"
+  },
+  {
+    "file_name": "Gu6u6cdb0AQt8Hk.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gu6u6cdb0AQt8Hk.jpg",
+    "read_time": "2025-07-03T16:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3154,
+      "timestamp": "2025-07-03T16:01:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 74100,
+      "size_mb": 0.07,
+      "timestamp": "2025-07-03T16:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/sqEo6Tt0qm",
+    "publish_time": "2025-07-03T15:55:38"
   }
 ]
