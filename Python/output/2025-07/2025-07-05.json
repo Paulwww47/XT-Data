@@ -24,5 +24,31 @@
     },
     "full_text": "https://t.co/1MELDrrd2J",
     "publish_time": "2025-07-05T00:02:25"
+  },
+  {
+    "file_name": "GvCJj6MaAAIZ8Vg.jpg",
+    "user": {
+      "screen_name": "LaFei2531",
+      "name": "小熊硬糖"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GvCJj6MaAAIZ8Vg.jpg",
+    "read_time": "2025-07-05T03:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3221,
+      "timestamp": "2025-07-05T03:01:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 176622,
+      "size_mb": 0.17,
+      "timestamp": "2025-07-05T03:01:04",
+      "download_attempts": 0
+    },
+    "full_text": "康复训练 https://t.co/zKubeMI2Mj",
+    "publish_time": "2025-07-05T02:29:25"
   }
 ]
