@@ -364,5 +364,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1941002209552224441",
     "fullText": "https://t.co/kVw7rs6MKQ",
     "publishTime": "2025-07-04T13:12:43"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gu_2SwCWQAAfhwP.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1941040775737102685",
+    "fullText": "sebbyoppar https://t.co/2x2MXUlRss",
+    "publishTime": "2025-07-04T15:45:58"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gu_3DsbXEAAoG9n.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1941041615705199000",
+    "fullText": "https://t.co/a0xRpX8zUr",
+    "publishTime": "2025-07-04T15:49:18"
   }
 ]
