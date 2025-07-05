@@ -110,5 +110,62 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1941285015180148844",
     "fullText": "https://t.co/wkfwncnZPW",
     "publishTime": "2025-07-05T07:56:29"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvDXY3hWIAA7BWF.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1941288269574279595",
+    "fullText": "https://t.co/XCn5ZWmhcz",
+    "publishTime": "2025-07-05T08:09:25"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvDXic1XQAE6fdk.jpg",
+      "https://pbs.twimg.com/media/GvDXic9WQAAL9Zh.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1941288438025814170",
+    "fullText": "https://t.co/AdrZZDGSib",
+    "publishTime": "2025-07-05T08:10:05"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1941293145246863360/vid/avc1/720x1280/PFuy9b2uSmgH1OCb.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1941293219222114746",
+    "fullText": "目前沒大地震 https://t.co/TDriBRN2pz",
+    "publishTime": "2025-07-05T08:29:05"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1941293671317635073/vid/avc1/720x1280/SAdATa-B90dWwmTH.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1941293748169867336",
+    "fullText": "繼續睡 https://t.co/8Xaqh4GHwi",
+    "publishTime": "2025-07-05T08:31:11"
   }
 ]
