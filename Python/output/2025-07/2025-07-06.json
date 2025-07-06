@@ -102,5 +102,57 @@
     },
     "full_text": "arshmanyzyz https://t.co/AVtYRj9TWY",
     "publish_time": "2025-07-06T06:49:48"
+  },
+  {
+    "file_name": "GvIRZdmW4AAyfkX.jpg",
+    "user": {
+      "screen_name": "Love_Nelson1",
+      "name": "Magnificent（上海）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GvIRZdmW4AAyfkX.jpg",
+    "read_time": "2025-07-06T08:00:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3304,
+      "timestamp": "2025-07-06T08:00:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 122563,
+      "size_mb": 0.12,
+      "timestamp": "2025-07-06T08:00:44",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/6gBZzklqhx",
+    "publish_time": "2025-07-06T07:01:21"
+  },
+  {
+    "file_name": "nC_VI5Kd8m5sVh12.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1941639469653716992/vid/avc1/720x1280/nC_VI5Kd8m5sVh12.mp4?tag=21",
+    "read_time": "2025-07-06T08:00:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3305,
+      "timestamp": "2025-07-06T08:00:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7417455,
+      "size_mb": 7.07,
+      "timestamp": "2025-07-06T08:00:46",
+      "download_attempts": 0
+    },
+    "full_text": "外面開始下雨 https://t.co/zypdFX2b5Z",
+    "publish_time": "2025-07-06T07:25:41"
   }
 ]
