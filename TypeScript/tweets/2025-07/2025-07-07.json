@@ -153,5 +153,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1941977865362579581",
     "fullText": "yoo_boonyakorn https://t.co/RfMoz7NtJE",
     "publishTime": "2025-07-07T05:49:37"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvNQ_g9aQAAXmEe.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1941984924602671470",
+    "fullText": "https://t.co/AcvEjDQkyy",
+    "publishTime": "2025-07-07T06:17:41"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvNUnFuWUAA4Dlq.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1941988910198071631",
+    "fullText": "https://t.co/orVEDk7ueI",
+    "publishTime": "2025-07-07T06:33:31"
   }
 ]
