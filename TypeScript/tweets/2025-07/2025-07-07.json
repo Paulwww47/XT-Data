@@ -111,5 +111,33 @@
     "tweetUrl": "https://x.com/uxy666/status/1941941631680471283",
     "fullText": "才多大年纪呀肉棒就大大的😋\n\nhttps://t.co/cNS7yXnwnZ https://t.co/2IhNqL96ce",
     "publishTime": "2025-07-07T03:25:39"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvM2jVZXYAADrpD.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1941955853667762597",
+    "fullText": "https://t.co/xi3v4VqqXA",
+    "publishTime": "2025-07-07T04:22:09"
+  },
+  {
+    "user": {
+      "screenName": "uxy666",
+      "name": "uxy"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1941958985822937088/vid/avc1/480x854/-qzw0BGS4LJFxkvM.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/uxy666/status/1941959049211482417",
+    "fullText": "https://t.co/v6z4aOpPGk",
+    "publishTime": "2025-07-07T04:34:51"
   }
 ]
