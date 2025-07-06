@@ -247,5 +247,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1941719158464655835",
     "fullText": "https://t.co/zBkBOSgeJ8",
     "publishTime": "2025-07-06T12:41:37"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvJt2qDa8AAZUWn.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1941735181670547671",
+    "fullText": "gojira1995 https://t.co/nj2SIbdDpg",
+    "publishTime": "2025-07-06T13:45:17"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvJuFSoXAAARdfW.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1941735433399877923",
+    "fullText": "mtw_0607 https://t.co/wS0Mmda2yy",
+    "publishTime": "2025-07-06T13:46:17"
   }
 ]
