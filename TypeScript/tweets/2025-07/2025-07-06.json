@@ -176,5 +176,48 @@
     "tweetUrl": "https://x.com/youdi/status/1941676589311459456",
     "fullText": "好热！ https://t.co/cwHAGNKjc9",
     "publishTime": "2025-07-06T09:52:28"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1941692440458448896/vid/avc1/720x1280/OUQvoPXTNYaNYQ9C.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1941692523430441390",
+    "fullText": "高雄現在沒什麼風雨 https://t.co/ZWe6J8dTpw",
+    "publishTime": "2025-07-06T10:55:47"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1941693224919367682/vid/avc1/720x1280/qwr_wHiNc_PFOvl5.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1941693304325931368",
+    "fullText": "普通 https://t.co/7jsxJ9T8Fa",
+    "publishTime": "2025-07-06T10:58:53"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvJH9cPaAAAJnSi.jpg",
+      "https://pbs.twimg.com/media/GvJH9cRb0AAGbaq.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1941693518306758900",
+    "fullText": "iO31101 https://t.co/AEnP96ePTN",
+    "publishTime": "2025-07-06T10:59:44"
   }
 ]
