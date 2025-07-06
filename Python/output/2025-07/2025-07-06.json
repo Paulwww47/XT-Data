@@ -492,5 +492,31 @@
     },
     "full_text": "mtw_0607 https://t.co/wS0Mmda2yy",
     "publish_time": "2025-07-06T13:46:17"
+  },
+  {
+    "file_name": "GvJ5i6jX0AAaOpE.jpg",
+    "user": {
+      "screen_name": "muchuanze",
+      "name": "沐川泽"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GvJ5i6jX0AAaOpE.jpg",
+    "read_time": "2025-07-06T15:01:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3319,
+      "timestamp": "2025-07-06T15:01:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 149638,
+      "size_mb": 0.14,
+      "timestamp": "2025-07-06T15:01:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/3gyk9Ra5HG",
+    "publish_time": "2025-07-06T14:36:24"
   }
 ]
