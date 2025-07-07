@@ -804,5 +804,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1942144665278632243",
     "fullText": "as12211661 https://t.co/VBX2TjR90H",
     "publishTime": "2025-07-07T16:52:26"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvP0A1WaEAAuxaP.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1942164165042569524",
+    "fullText": "louiewe https://t.co/pPElORVskn",
+    "publishTime": "2025-07-07T18:09:55"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvP3HUFbgAAPf4Z.jpg",
+      "https://pbs.twimg.com/media/GvP3HUoXQAAdMtw.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1942167575510823322",
+    "fullText": "tanwinsze https://t.co/f1USQhhHfU",
+    "publishTime": "2025-07-07T18:23:28"
   }
 ]
