@@ -1262,14 +1262,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (64MB > 50MB)",
       "timestamp": "2025-07-07T12:01:37",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 68101125,
       "size_mb": 64.95,
-      "timestamp": "2025-07-07T12:01:37",
+      "timestamp": "2025-07-07T13:01:19",
       "download_attempts": 0
     },
     "full_text": "martin_rogers https://t.co/xpDWFlt9HT",
@@ -1508,5 +1508,31 @@
     },
     "full_text": "2o9n https://t.co/xFsic6nPxW",
     "publish_time": "2025-07-07T12:00:30"
+  },
+  {
+    "file_name": "GvOk1YiWoAASSSu.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GvOk1YiWoAASSSu.jpg",
+    "read_time": "2025-07-07T13:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3402,
+      "timestamp": "2025-07-07T13:01:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 117546,
+      "size_mb": 0.11,
+      "timestamp": "2025-07-07T13:01:19",
+      "download_attempts": 0
+    },
+    "full_text": "93_mozzi https://t.co/Yz7XGedNDO",
+    "publish_time": "2025-07-07T12:23:59"
   }
 ]
