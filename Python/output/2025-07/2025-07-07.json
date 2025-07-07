@@ -1550,14 +1550,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (177MB > 50MB)",
       "timestamp": "2025-07-07T14:01:32",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 185788781,
       "size_mb": 177.18,
-      "timestamp": "2025-07-07T14:01:32",
+      "timestamp": "2025-07-07T15:01:46",
       "download_attempts": 0
     },
     "full_text": "martin_rogers https://t.co/yfeU7kaBGs",
@@ -1588,5 +1588,59 @@
     },
     "full_text": "https://t.co/VHyyLj1MlQ",
     "publish_time": "2025-07-07T13:58:54"
+  },
+  {
+    "file_name": "-oQ8VXZGAp8R9OBZ.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1942093228221595649/vid/avc1/1080x1920/-oQ8VXZGAp8R9OBZ.mp4?tag=21",
+    "read_time": "2025-07-07T15:01:43",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (82MB > 50MB)",
+      "timestamp": "2025-07-07T15:01:47",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 86958007,
+      "size_mb": 82.93,
+      "timestamp": "2025-07-07T15:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "derkbolt 健美运动员也要下海 https://t.co/CfHcCo0u2d",
+    "publish_time": "2025-07-07T14:13:30"
+  },
+  {
+    "file_name": "GvPF_hlXYAAqklS.jpg",
+    "user": {
+      "screen_name": "huahua6256",
+      "name": "花生6256"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GvPF_hlXYAAqklS.jpg",
+    "read_time": "2025-07-07T15:01:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3404,
+      "timestamp": "2025-07-07T15:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 83252,
+      "size_mb": 0.08,
+      "timestamp": "2025-07-07T15:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "凭此屏截图戳  👉 https://t.co/adudVqluRm  进群即可观看我所有的完整版视频，仅限粉丝  私信暗号 👉  44 https://t.co/HfCxAgZYLN",
+    "publish_time": "2025-07-07T14:48:54"
   }
 ]
