@@ -655,5 +655,33 @@
     "tweetUrl": "https://x.com/fanglangnantu/status/1942077680201220178",
     "fullText": "后面再发这个受受的视频",
     "publishTime": "2025-07-07T12:26:15"
+  },
+  {
+    "user": {
+      "screenName": "maletease",
+      "name": "MaleTease"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1942068134443098113/vid/avc1/1080x1920/Dv9XAk2zFC1GKLVF.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/maletease/status/1942093196319973619",
+    "fullText": "martin_rogers https://t.co/yfeU7kaBGs",
+    "publishTime": "2025-07-07T13:27:55"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvO6j_iWIAA0P1O.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1942100996869779652",
+    "fullText": "https://t.co/VHyyLj1MlQ",
+    "publishTime": "2025-07-07T13:58:54"
   }
 ]

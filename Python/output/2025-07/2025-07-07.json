@@ -1534,5 +1534,59 @@
     },
     "full_text": "93_mozzi https://t.co/Yz7XGedNDO",
     "publish_time": "2025-07-07T12:23:59"
+  },
+  {
+    "file_name": "Dv9XAk2zFC1GKLVF.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1942068134443098113/vid/avc1/1080x1920/Dv9XAk2zFC1GKLVF.mp4?tag=21",
+    "read_time": "2025-07-07T14:01:15",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (177MB > 50MB)",
+      "timestamp": "2025-07-07T14:01:32",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 185788781,
+      "size_mb": 177.18,
+      "timestamp": "2025-07-07T14:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "martin_rogers https://t.co/yfeU7kaBGs",
+    "publish_time": "2025-07-07T13:27:55"
+  },
+  {
+    "file_name": "GvO6j_iWIAA0P1O.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GvO6j_iWIAA0P1O.jpg",
+    "read_time": "2025-07-07T14:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3403,
+      "timestamp": "2025-07-07T14:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 92636,
+      "size_mb": 0.09,
+      "timestamp": "2025-07-07T14:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/VHyyLj1MlQ",
+    "publish_time": "2025-07-07T13:58:54"
   }
 ]
