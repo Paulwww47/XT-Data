@@ -486,5 +486,48 @@
     "tweetUrl": "https://x.com/guxiaodan01/status/1942499273603502195",
     "fullText": "这个带货主播的实力也是杠杠滴！ https://t.co/hlS4bxiknf",
     "publishTime": "2025-07-08T16:21:31"
+  },
+  {
+    "user": {
+      "screenName": "DearxLong",
+      "name": "Fuyun"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://vimeo.com/1099594524"
+    ],
+    "tweetUrl": "https://x.com/DearxLong/status/1942510963628114013",
+    "fullText": "https://t.co/NtbC8CnXo5",
+    "publishTime": "2025-07-08T17:07:58"
+  },
+  {
+    "user": {
+      "screenName": "YCJ2023",
+      "name": "杨长进"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvUyddPXkAAYk4o.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/YCJ2023/status/1942514336871899449",
+    "fullText": "https://t.co/Emk2N28wsv",
+    "publishTime": "2025-07-08T17:21:22"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvU1TouaYAAe-gY.jpg",
+      "https://pbs.twimg.com/media/GvU1ToxaYAMOuf-.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1942517432985231582",
+    "fullText": "nimgnahckrap https://t.co/gvxUn4TgLh",
+    "publishTime": "2025-07-08T17:33:40"
   }
 ]
