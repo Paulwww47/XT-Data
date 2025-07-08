@@ -76,5 +76,31 @@
     },
     "full_text": "https://t.co/Sa9WEXCxC1",
     "publish_time": "2025-07-09T00:36:47"
+  },
+  {
+    "file_name": "GvXOpx7aYAEE2So.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GvXOpx7aYAEE2So.jpg",
+    "read_time": "2025-07-09T05:01:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3483,
+      "timestamp": "2025-07-09T05:01:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 125038,
+      "size_mb": 0.12,
+      "timestamp": "2025-07-09T05:01:06",
+      "download_attempts": 0
+    },
+    "full_text": "chensymbol https://t.co/ub4QwOjjOx",
+    "publish_time": "2025-07-09T04:43:39"
   }
 ]
