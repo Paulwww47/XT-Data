@@ -1064,5 +1064,57 @@
     },
     "full_text": "☀️☀️☀️ https://t.co/biRLlBd7D3",
     "publish_time": "2025-07-08T18:46:05"
+  },
+  {
+    "file_name": "GvVLsdaWYAAyk5_.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GvVLsdaWYAAyk5_.jpg",
+    "read_time": "2025-07-08T20:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3469,
+      "timestamp": "2025-07-08T20:00:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 90433,
+      "size_mb": 0.09,
+      "timestamp": "2025-07-08T20:00:53",
+      "download_attempts": 0
+    },
+    "full_text": "caspar_rui https://t.co/LpgWDXG5wd",
+    "publish_time": "2025-07-08T19:11:29"
+  },
+  {
+    "file_name": "CcTDbxSkvaGGvMxi.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1942544952564862977/vid/avc1/720x1088/CcTDbxSkvaGGvMxi.mp4?tag=21",
+    "read_time": "2025-07-08T20:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3470,
+      "timestamp": "2025-07-08T20:00:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2052708,
+      "size_mb": 1.96,
+      "timestamp": "2025-07-08T20:00:55",
+      "download_attempts": 0
+    },
+    "full_text": "玩够了再发无码的 https://t.co/Cr7ak7QATU",
+    "publish_time": "2025-07-08T19:23:24"
   }
 ]

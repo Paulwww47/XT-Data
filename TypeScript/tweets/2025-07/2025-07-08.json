@@ -569,5 +569,33 @@
     "tweetUrl": "https://x.com/Dodgypirate1/status/1942535655520886972",
     "fullText": "☀️☀️☀️ https://t.co/biRLlBd7D3",
     "publishTime": "2025-07-08T18:46:05"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvVLsdaWYAAyk5_.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1942542046969094559",
+    "fullText": "caspar_rui https://t.co/LpgWDXG5wd",
+    "publishTime": "2025-07-08T19:11:29"
+  },
+  {
+    "user": {
+      "screenName": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1942544952564862977/vid/avc1/720x1088/CcTDbxSkvaGGvMxi.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/MuscleHunterX/status/1942545046240387083",
+    "fullText": "玩够了再发无码的 https://t.co/Cr7ak7QATU",
+    "publishTime": "2025-07-08T19:23:24"
   }
 ]
