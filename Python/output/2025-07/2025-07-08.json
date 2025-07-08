@@ -310,5 +310,57 @@
     },
     "full_text": "https://t.co/FHHBoAt6mD",
     "publish_time": "2025-07-08T08:52:40"
+  },
+  {
+    "file_name": "aZILX5sD4EsdiGv4.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1942399835132551168/vid/avc1/720x1280/aZILX5sD4EsdiGv4.mp4?tag=14",
+    "read_time": "2025-07-08T10:00:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3440,
+      "timestamp": "2025-07-08T10:00:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1249433,
+      "size_mb": 1.19,
+      "timestamp": "2025-07-08T10:00:44",
+      "download_attempts": 0
+    },
+    "full_text": "【2025年7月8日】今日資源已經更新！新增夢系列一部更新第2部分；另5小時資源連載結束；均置頂中！以下視頻與更新資源無關！ https://t.co/X94PtqRrum",
+    "publish_time": "2025-07-08T09:47:12"
+  },
+  {
+    "file_name": "GvTL6NQXEAA004x.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GvTL6NQXEAA004x.jpg",
+    "read_time": "2025-07-08T10:00:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3441,
+      "timestamp": "2025-07-08T10:00:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 95913,
+      "size_mb": 0.09,
+      "timestamp": "2025-07-08T10:00:48",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/uAaaDo4iDo",
+    "publish_time": "2025-07-08T09:53:11"
   }
 ]
