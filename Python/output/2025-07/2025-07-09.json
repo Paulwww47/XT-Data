@@ -1428,5 +1428,137 @@
     },
     "full_text": "https://t.co/RvqYay6WGY",
     "publish_time": "2025-07-09T20:56:57"
+  },
+  {
+    "file_name": "GvavI8cbkAAzMER.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GvavI8cbkAAzMER.jpg",
+    "read_time": "2025-07-09T22:01:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3535,
+      "timestamp": "2025-07-09T22:01:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 81891,
+      "size_mb": 0.08,
+      "timestamp": "2025-07-09T22:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/lEQc7iSLKB",
+    "publish_time": "2025-07-09T21:04:27"
+  },
+  {
+    "file_name": "JOFWTgCe_piAxuOo.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1942933438647898112/vid/avc1/1272x720/JOFWTgCe_piAxuOo.mp4?tag=21",
+    "read_time": "2025-07-09T22:01:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3536,
+      "timestamp": "2025-07-09T22:01:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3833631,
+      "size_mb": 3.66,
+      "timestamp": "2025-07-09T22:01:18",
+      "download_attempts": 0
+    },
+    "full_text": "来分享一下你们喜欢的肌肉男 我去养养眼 https://t.co/BjvCf5pYZO",
+    "publish_time": "2025-07-09T21:07:10"
+  },
+  {
+    "file_name": "GWuieQ_Ig5aJ_lKj.mp4",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1942904927266758658/vid/avc1/720x1280/GWuieQ_Ig5aJ_lKj.mp4?tag=14",
+    "read_time": "2025-07-09T22:01:16",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (61MB > 50MB)",
+      "timestamp": "2025-07-09T22:01:22",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 64122721,
+      "size_mb": 61.15,
+      "timestamp": "2025-07-09T22:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/muyoUvtpDW",
+    "publish_time": "2025-07-09T21:07:25"
+  },
+  {
+    "file_name": "GvazXFhbAAA8yc-.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GvazXFhbAAA8yc-.jpg",
+    "read_time": "2025-07-09T22:01:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3537,
+      "timestamp": "2025-07-09T22:01:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 33669,
+      "size_mb": 0.03,
+      "timestamp": "2025-07-09T22:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/B6G6G2BUY9",
+    "publish_time": "2025-07-09T21:22:54"
+  },
+  {
+    "file_name": "Gva8HmsaUAAFPlh.jpg",
+    "user": {
+      "screen_name": "lho11148311",
+      "name": "卡皮巴拉"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gva8HmsaUAAFPlh.jpg",
+    "read_time": "2025-07-09T22:01:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3538,
+      "timestamp": "2025-07-09T22:01:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 119849,
+      "size_mb": 0.11,
+      "timestamp": "2025-07-09T22:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "🫡 https://t.co/cotGmkKF5l",
+    "publish_time": "2025-07-09T22:01:11"
   }
 ]
