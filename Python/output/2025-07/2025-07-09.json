@@ -544,5 +544,31 @@
     },
     "full_text": "arshmanyzyz https://t.co/FZ6mC20UzS",
     "publish_time": "2025-07-09T10:44:37"
+  },
+  {
+    "file_name": "GvYr-kVaYAAtgvb.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GvYr-kVaYAAtgvb.jpg",
+    "read_time": "2025-07-09T12:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3501,
+      "timestamp": "2025-07-09T12:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 144130,
+      "size_mb": 0.14,
+      "timestamp": "2025-07-09T12:01:18",
+      "download_attempts": 0
+    },
+    "full_text": "arshmanyzyz https://t.co/oq3V6GJSt2",
+    "publish_time": "2025-07-09T11:31:24"
   }
 ]
