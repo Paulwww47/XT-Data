@@ -596,5 +596,31 @@
     },
     "full_text": "homan_wnbfpro https://t.co/ILidKWszJI",
     "publish_time": "2025-07-09T12:50:05"
+  },
+  {
+    "file_name": "GvZBiKzWkAA6zVy.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GvZBiKzWkAA6zVy.jpg",
+    "read_time": "2025-07-09T14:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3503,
+      "timestamp": "2025-07-09T14:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 68732,
+      "size_mb": 0.07,
+      "timestamp": "2025-07-09T14:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "ferry_0715 https://t.co/cewmkGkA05",
+    "publish_time": "2025-07-09T13:05:34"
   }
 ]
