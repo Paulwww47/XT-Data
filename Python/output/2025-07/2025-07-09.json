@@ -1496,14 +1496,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (61MB > 50MB)",
       "timestamp": "2025-07-09T22:01:22",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 64122721,
       "size_mb": 61.15,
-      "timestamp": "2025-07-09T22:01:22",
+      "timestamp": "2025-07-09T23:00:50",
       "download_attempts": 0
     },
     "full_text": "https://t.co/muyoUvtpDW",
@@ -1560,5 +1560,31 @@
     },
     "full_text": "🫡 https://t.co/cotGmkKF5l",
     "publish_time": "2025-07-09T22:01:11"
+  },
+  {
+    "file_name": "KbNfPSuDM3bqOJ3n.mp4",
+    "user": {
+      "screen_name": "lvkie253",
+      "name": "Lvkie"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1942955945300283392/vid/avc1/1124x632/KbNfPSuDM3bqOJ3n.mp4?tag=21",
+    "read_time": "2025-07-09T23:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3539,
+      "timestamp": "2025-07-09T23:00:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 6395689,
+      "size_mb": 6.1,
+      "timestamp": "2025-07-09T23:00:51",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/pQHwKpTQhn",
+    "publish_time": "2025-07-09T22:47:29"
   }
 ]
