@@ -427,5 +427,35 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1943272194777452929",
     "fullText": "1xhic https://t.co/1veayDijrq",
     "publishTime": "2025-07-10T19:32:50"
+  },
+  {
+    "user": {
+      "screenName": "koran0126",
+      "name": "코란"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvfrDxtW0AA4p66.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [
+      "https://youtube.com/@lanlanlanlanlanlan0126?si=4czLbw1kiKiPSbA_"
+    ],
+    "tweetUrl": "https://x.com/koran0126/status/1943280219554746572",
+    "fullText": "My YouTube channel ⬇️\n\nhttps://t.co/xxej14XLst https://t.co/e18dNWGU1i",
+    "publishTime": "2025-07-10T20:04:43"
+  },
+  {
+    "user": {
+      "screenName": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1943293617323544581/vid/avc1/720x1280/i4UJh56perGQfoGW.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/MuscleHunterX/status/1943293955090846021",
+    "fullText": "干什么都没心气 没意思 https://t.co/TjJaL1Y7vI",
+    "publishTime": "2025-07-10T20:59:18"
   }
 ]
