@@ -399,5 +399,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1943263275665482082",
     "fullText": "https://t.co/XvOYqG2jvZ",
     "publishTime": "2025-07-10T18:57:23"
+  },
+  {
+    "user": {
+      "screenName": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gvfhl5HakAEESas.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/markma58304799/status/1943269815713751067",
+    "fullText": "谁叫我？ https://t.co/1k2wR0r79Q",
+    "publishTime": "2025-07-10T19:23:22"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvfjwU-bcAEmmam.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1943272194777452929",
+    "fullText": "1xhic https://t.co/1veayDijrq",
+    "publishTime": "2025-07-10T19:32:50"
   }
 ]
