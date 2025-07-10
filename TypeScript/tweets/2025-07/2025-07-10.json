@@ -357,5 +357,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1943228341055820224",
     "fullText": "https://t.co/wUJJJUrVbr",
     "publishTime": "2025-07-10T16:38:34"
+  },
+  {
+    "user": {
+      "screenName": "nepo7788",
+      "name": "bwnz"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvfQLaqbcAAOShO.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/nepo7788/status/1943250666962719195",
+    "fullText": "缺个痰盂 https://t.co/q9U140u6o7",
+    "publishTime": "2025-07-10T18:07:17"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvfU-cBWwAAccG_.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1943255942964883558",
+    "fullText": "https://t.co/CzV8aUkMQI",
+    "publishTime": "2025-07-10T18:28:15"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvfbpbOXIAAf8tK.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1943263275665482082",
+    "fullText": "https://t.co/XvOYqG2jvZ",
+    "publishTime": "2025-07-10T18:57:23"
   }
 ]
