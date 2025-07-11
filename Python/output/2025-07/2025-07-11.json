@@ -820,14 +820,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (75MB > 50MB)",
       "timestamp": "2025-07-11T18:00:58",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 79314987,
       "size_mb": 75.64,
-      "timestamp": "2025-07-11T18:00:58",
+      "timestamp": "2025-07-11T19:01:37",
       "download_attempts": 0
     },
     "full_text": "kuupid 洗澡 https://t.co/3rvReNyqoh",
@@ -858,5 +858,83 @@
     },
     "full_text": "kuupid 电梯口 https://t.co/BE6B8PwQTi",
     "publish_time": "2025-07-11T17:34:40"
+  },
+  {
+    "file_name": "GvkaMpZa0AA36EJ.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GvkaMpZa0AA36EJ.jpg",
+    "read_time": "2025-07-11T19:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3619,
+      "timestamp": "2025-07-11T19:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 91317,
+      "size_mb": 0.09,
+      "timestamp": "2025-07-11T19:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "edward1008a https://t.co/H9u56V8bri",
+    "publish_time": "2025-07-11T18:09:09"
+  },
+  {
+    "file_name": "Gvki9iuakAABMgb.jpg",
+    "user": {
+      "screen_name": "nepo7788",
+      "name": "bwnz"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gvki9iuakAABMgb.jpg",
+    "read_time": "2025-07-11T19:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3620,
+      "timestamp": "2025-07-11T19:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 122206,
+      "size_mb": 0.12,
+      "timestamp": "2025-07-11T19:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "想被掏脑子的可以来报名了 https://t.co/su8E8bOdfN",
+    "publish_time": "2025-07-11T18:47:27"
+  },
+  {
+    "file_name": "Gvki9joWQAAuHU6.jpg",
+    "user": {
+      "screen_name": "nepo7788",
+      "name": "bwnz"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gvki9joWQAAuHU6.jpg",
+    "read_time": "2025-07-11T19:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3621,
+      "timestamp": "2025-07-11T19:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 132937,
+      "size_mb": 0.13,
+      "timestamp": "2025-07-11T19:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "想被掏脑子的可以来报名了 https://t.co/su8E8bOdfN",
+    "publish_time": "2025-07-11T18:47:27"
   }
 ]
