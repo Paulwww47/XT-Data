@@ -988,5 +988,137 @@
     },
     "full_text": "真服了，iPad打不开了，这是我专门存资源的\n前天出差丢耳机，今天睡醒黑屏iPad真他妈倒霉 https://t.co/FPQVzKPpjX",
     "publish_time": "2025-07-11T19:58:43"
+  },
+  {
+    "file_name": "Gvk0uACXYAEzqBj.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gvk0uACXYAEzqBj.jpg",
+    "read_time": "2025-07-11T21:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3624,
+      "timestamp": "2025-07-11T21:01:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 150800,
+      "size_mb": 0.14,
+      "timestamp": "2025-07-11T21:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "joeputra2 https://t.co/HI0TZpGwhj",
+    "publish_time": "2025-07-11T20:05:02"
+  },
+  {
+    "file_name": "Gvk0t_ca8AAPBrA.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gvk0t_ca8AAPBrA.jpg",
+    "read_time": "2025-07-11T21:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3625,
+      "timestamp": "2025-07-11T21:01:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 45959,
+      "size_mb": 0.04,
+      "timestamp": "2025-07-11T21:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "joeputra2 https://t.co/HI0TZpGwhj",
+    "publish_time": "2025-07-11T20:05:02"
+  },
+  {
+    "file_name": "MIv4xQU0zvAbSVTe.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1943604905341587456/vid/avc1/720x1280/MIv4xQU0zvAbSVTe.mp4?tag=14",
+    "read_time": "2025-07-11T21:01:24",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (70MB > 50MB)",
+      "timestamp": "2025-07-11T21:01:35",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 73642499,
+      "size_mb": 70.23,
+      "timestamp": "2025-07-11T21:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "kuupid 野外 https://t.co/lvCXHTKi9M",
+    "publish_time": "2025-07-11T20:33:31"
+  },
+  {
+    "file_name": "GvlBIuXXUAAFE3C.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GvlBIuXXUAAFE3C.jpg",
+    "read_time": "2025-07-11T21:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3626,
+      "timestamp": "2025-07-11T21:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 109014,
+      "size_mb": 0.1,
+      "timestamp": "2025-07-11T21:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Ue8VzjdCFK",
+    "publish_time": "2025-07-11T20:59:17"
+  },
+  {
+    "file_name": "GvlBIuTXkAAbfLS.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GvlBIuTXkAAbfLS.jpg",
+    "read_time": "2025-07-11T21:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3627,
+      "timestamp": "2025-07-11T21:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 264379,
+      "size_mb": 0.25,
+      "timestamp": "2025-07-11T21:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Ue8VzjdCFK",
+    "publish_time": "2025-07-11T20:59:17"
   }
 ]
