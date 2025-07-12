@@ -340,5 +340,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1943858609076769051",
     "fullText": "eayon https://t.co/zPjctgwAxe",
     "publishTime": "2025-07-12T10:23:02"
+  },
+  {
+    "user": {
+      "screenName": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvoCgkrbsAMVi9T.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/markma58304799/status/1943868959851528549",
+    "fullText": "不爱笑～ https://t.co/8owSDjN0Fj",
+    "publishTime": "2025-07-12T11:04:10"
+  },
+  {
+    "user": {
+      "screenName": "T527753733",
+      "name": "地空捣蛋"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvoIZm0XYAAu663.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/T527753733/status/1943875453564932512",
+    "fullText": "https://t.co/imfFScPgX2",
+    "publishTime": "2025-07-12T11:29:58"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvoKV1PbQAAIXun.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1943877570128490982",
+    "fullText": "mark.xiaohui https://t.co/P4oMr7hVFx",
+    "publishTime": "2025-07-12T11:38:22"
   }
 ]

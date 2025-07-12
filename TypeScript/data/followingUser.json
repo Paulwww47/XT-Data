@@ -511,23 +511,10 @@
       "name": "Fuyun",
       "screenName": "DearxLong",
       "createdAt": "Sun May 25 03:26:00 +0000 2025",
-      "description": "抖音号：DearxLong（亲爱的小龙）",
+      "description": "",
       "entities": {
         "description": {
           "urls": []
-        },
-        "url": {
-          "urls": [
-            {
-              "display_url": "dearxlong.gumroad.com",
-              "expanded_url": "https://dearxlong.gumroad.com",
-              "url": "https://t.co/ijCMZluqO2",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
         }
       },
       "profileBannerUrl": "",
@@ -1885,14 +1872,14 @@
       "name": "bwnz",
       "screenName": "nepo7788",
       "createdAt": "Fri Feb 16 15:36:08 +0000 2024",
-      "description": "👟🧦🍆",
+      "description": "👟🧦🍆🦶→味大 🉑出原味 爱健身 接曝光 推止推",
       "entities": {
         "description": {
           "urls": []
         }
       },
-      "profileBannerUrl": "",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1810644159826710529/wu5fTVZW_normal.jpg"
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1758515574509080576/1752283809",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1943845253737590784/EQko0WzO_normal.jpg"
     }
   },
   {
@@ -2752,10 +2739,10 @@
   {
     "restId": "1226351099000455173",
     "legacy": {
-      "name": "雄大哈",
+      "name": "雄大哈（上海）",
       "screenName": "Xiongdaha",
       "createdAt": "Sun Feb 09 03:45:06 +0000 2020",
-      "description": "不是网黄 | 照本 | 重庆 | 绿泡泡有门槛🚪｜分享一些美好时刻",
+      "description": "照本 | 绿泡泡有门槛🚪｜分享一些美好时刻",
       "entities": {
         "description": {
           "urls": []
