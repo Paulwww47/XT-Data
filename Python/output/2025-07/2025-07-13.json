@@ -102,5 +102,31 @@
     },
     "full_text": "大树挂辣椒 https://t.co/4wCrxmjCIk",
     "publish_time": "2025-07-13T00:37:54"
+  },
+  {
+    "file_name": "GvrBlpJWcAAvo_z.jpg",
+    "user": {
+      "screen_name": "Chris_SDD",
+      "name": "Chris (chrissdd.bsky.social)"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GvrBlpJWcAAvo_z.jpg",
+    "read_time": "2025-07-13T02:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3742,
+      "timestamp": "2025-07-13T02:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 180617,
+      "size_mb": 0.17,
+      "timestamp": "2025-07-13T02:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "✨✨ https://t.co/BPish20yx0",
+    "publish_time": "2025-07-13T01:01:41"
   }
 ]
