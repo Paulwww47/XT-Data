@@ -295,5 +295,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1944242272285208707",
     "fullText": "marcusxiaohui https://t.co/zQKlXvdF1m",
     "publishTime": "2025-07-13T11:47:34"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GvtlN-QWMAAbEFW.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1944258959852061162",
+    "fullText": "https://t.co/vU2dWoJCLp",
+    "publishTime": "2025-07-13T12:53:53"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gvtlkp5XMAAopwr.jpg",
+      "https://pbs.twimg.com/media/GvtlkpwXsAAI-u7.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1944259351268688379",
+    "fullText": "https://t.co/TzAN4J0E1E",
+    "publishTime": "2025-07-13T12:55:26"
   }
 ]
