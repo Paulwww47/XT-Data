@@ -466,5 +466,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1944708004777259205",
     "fullText": "scotty_ryan_ https://t.co/AK2vBGQKTJ",
     "publishTime": "2025-07-14T18:38:13"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gv0H_ZzaAAA0wBu.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1944719407986655368",
+    "fullText": "https://t.co/TXvQ2BhBvE",
+    "publishTime": "2025-07-14T19:23:32"
+  },
+  {
+    "user": {
+      "screenName": "Johnny1994fw",
+      "name": "天然呆呆呆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gv0OXCIbMAAMMFI.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Johnny1994fw/status/1944726430379807003",
+    "fullText": "https://t.co/LLfrLH5jfo",
+    "publishTime": "2025-07-14T19:51:26"
   }
 ]
