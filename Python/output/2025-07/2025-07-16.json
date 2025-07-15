@@ -518,5 +518,83 @@
     },
     "full_text": "https://t.co/cgEQzj4VF0",
     "publish_time": "2025-07-16T05:09:04"
+  },
+  {
+    "file_name": "Gv7jeMwXcAAcZJk.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gv7jeMwXcAAcZJk.jpg",
+    "read_time": "2025-07-16T07:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3932,
+      "timestamp": "2025-07-16T07:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 113133,
+      "size_mb": 0.11,
+      "timestamp": "2025-07-16T07:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "jinhoangvn https://t.co/Nj9HXPCDzU",
+    "publish_time": "2025-07-16T06:00:56"
+  },
+  {
+    "file_name": "earGg1WMlnpXQ2uy.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1945247094391910400/vid/avc1/720x1280/earGg1WMlnpXQ2uy.mp4?tag=14",
+    "read_time": "2025-07-16T07:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3933,
+      "timestamp": "2025-07-16T07:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 12100158,
+      "size_mb": 11.54,
+      "timestamp": "2025-07-16T07:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "繼續睡 https://t.co/O67aQju19l",
+    "publish_time": "2025-07-16T06:21:17"
+  },
+  {
+    "file_name": "cNZiH9Nv1PaRnzu9.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1945247646433828864/vid/avc1/720x1280/cNZiH9Nv1PaRnzu9.mp4?tag=14",
+    "read_time": "2025-07-16T07:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3934,
+      "timestamp": "2025-07-16T07:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4626415,
+      "size_mb": 4.41,
+      "timestamp": "2025-07-16T07:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "想增肌 https://t.co/dXfAtOMO4X",
+    "publish_time": "2025-07-16T06:23:00"
   }
 ]

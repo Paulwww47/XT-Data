@@ -252,5 +252,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1945229148143726714",
     "fullText": "https://t.co/cgEQzj4VF0",
     "publishTime": "2025-07-16T05:09:04"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gv7jeMwXcAAcZJk.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1945242202902606213",
+    "fullText": "jinhoangvn https://t.co/Nj9HXPCDzU",
+    "publishTime": "2025-07-16T06:00:56"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1945247094391910400/vid/avc1/720x1280/earGg1WMlnpXQ2uy.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1945247322348179804",
+    "fullText": "繼續睡 https://t.co/O67aQju19l",
+    "publishTime": "2025-07-16T06:21:17"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1945247646433828864/vid/avc1/720x1280/cNZiH9Nv1PaRnzu9.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1945247757393883550",
+    "fullText": "想增肌 https://t.co/dXfAtOMO4X",
+    "publishTime": "2025-07-16T06:23:00"
   }
 ]
