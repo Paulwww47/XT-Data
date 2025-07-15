@@ -236,5 +236,21 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1945222091009352182",
     "fullText": "caspar_rui https://t.co/V2xVCBoseT",
     "publishTime": "2025-07-16T04:41:01"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gv7XmDRb0AA1pqn.jpg",
+      "https://pbs.twimg.com/media/Gv7XmDRakAAjEKx.jpg",
+      "https://pbs.twimg.com/media/Gv7XmD_XUAAV3W6.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1945229148143726714",
+    "fullText": "https://t.co/cgEQzj4VF0",
+    "publishTime": "2025-07-16T05:09:04"
   }
 ]
