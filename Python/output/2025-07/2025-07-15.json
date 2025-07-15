@@ -1420,14 +1420,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (150MB > 50MB)",
       "timestamp": "2025-07-15T19:01:46",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 157357429,
       "size_mb": 150.07,
-      "timestamp": "2025-07-15T19:01:46",
+      "timestamp": "2025-07-15T20:00:56",
       "download_attempts": 0
     },
     "full_text": "肌肉男喷精超级多 https://t.co/2HNkxPQACc",
@@ -1510,5 +1510,187 @@
     },
     "full_text": "肌肉健身教练\n大家觉得这个健身教练年龄多大 感觉二十七八，但是又有一种大叔感，而不是让人觉得很老，很多人喜欢这一款 https://t.co/Tjsky4EzPf",
     "publish_time": "2025-07-15T18:39:30"
+  },
+  {
+    "file_name": "Gv5Mpu2WMAE7iuH.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gv5Mpu2WMAE7iuH.jpg",
+    "read_time": "2025-07-15T20:00:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3902,
+      "timestamp": "2025-07-15T20:00:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 103941,
+      "size_mb": 0.1,
+      "timestamp": "2025-07-15T20:00:56",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/yc9IPikA7k",
+    "publish_time": "2025-07-15T19:02:13"
+  },
+  {
+    "file_name": "Gv5RxhZbEAAHDuR.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gv5RxhZbEAAHDuR.jpg",
+    "read_time": "2025-07-15T20:00:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3903,
+      "timestamp": "2025-07-15T20:00:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 154807,
+      "size_mb": 0.15,
+      "timestamp": "2025-07-15T20:00:58",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/WoQNBsEQvM",
+    "publish_time": "2025-07-15T19:24:48"
+  },
+  {
+    "file_name": "Gv5SqwPXYAANzhE.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gv5SqwPXYAANzhE.jpg",
+    "read_time": "2025-07-15T20:00:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3904,
+      "timestamp": "2025-07-15T20:01:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 62555,
+      "size_mb": 0.06,
+      "timestamp": "2025-07-15T20:00:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/J7KToZBtxb",
+    "publish_time": "2025-07-15T19:28:31"
+  },
+  {
+    "file_name": "Gv5TebBW8AAYg_z.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gv5TebBW8AAYg_z.jpg",
+    "read_time": "2025-07-15T20:00:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3905,
+      "timestamp": "2025-07-15T20:01:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 132299,
+      "size_mb": 0.13,
+      "timestamp": "2025-07-15T20:01:00",
+      "download_attempts": 0
+    },
+    "full_text": "jiggglee https://t.co/IzoB8D9s7C",
+    "publish_time": "2025-07-15T19:31:49"
+  },
+  {
+    "file_name": "Gv5UDbebUAAkkAH.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gv5UDbebUAAkkAH.jpg",
+    "read_time": "2025-07-15T20:00:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3906,
+      "timestamp": "2025-07-15T20:01:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 214980,
+      "size_mb": 0.21,
+      "timestamp": "2025-07-15T20:01:02",
+      "download_attempts": 0
+    },
+    "full_text": "lamothyk https://t.co/oOki6Byjgr",
+    "publish_time": "2025-07-15T19:34:21"
+  },
+  {
+    "file_name": "Gv5UDbda4AI7swK.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gv5UDbda4AI7swK.jpg",
+    "read_time": "2025-07-15T20:00:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3907,
+      "timestamp": "2025-07-15T20:01:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 288035,
+      "size_mb": 0.27,
+      "timestamp": "2025-07-15T20:01:04",
+      "download_attempts": 0
+    },
+    "full_text": "lamothyk https://t.co/oOki6Byjgr",
+    "publish_time": "2025-07-15T19:34:21"
+  },
+  {
+    "file_name": "Gv5UDcIWUAA3zFy.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gv5UDcIWUAA3zFy.jpg",
+    "read_time": "2025-07-15T20:00:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3908,
+      "timestamp": "2025-07-15T20:01:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 146968,
+      "size_mb": 0.14,
+      "timestamp": "2025-07-15T20:01:05",
+      "download_attempts": 0
+    },
+    "full_text": "lamothyk https://t.co/oOki6Byjgr",
+    "publish_time": "2025-07-15T19:34:21"
   }
 ]
