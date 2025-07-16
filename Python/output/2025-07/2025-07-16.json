@@ -1758,14 +1758,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (115MB > 50MB)",
       "timestamp": "2025-07-16T20:01:39",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 121130894,
       "size_mb": 115.52,
-      "timestamp": "2025-07-16T20:01:39",
+      "timestamp": "2025-07-16T21:01:31",
       "download_attempts": 0
     },
     "full_text": "第一次被控就色到不行怎麼會這樣 feat.狼濕 part1 - FansOne 讓創作更有價值 阿凯 https://t.co/60CKbpb9w8",
@@ -1874,5 +1874,31 @@
     },
     "full_text": "🌅🌊 https://t.co/KAvTfOcm5q",
     "publish_time": "2025-07-16T19:41:50"
+  },
+  {
+    "file_name": "Gv-q9iSXkAEDQJL.jpg",
+    "user": {
+      "screen_name": "Wei_danda",
+      "name": "Wei蛋蛋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gv-q9iSXkAEDQJL.jpg",
+    "read_time": "2025-07-16T21:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3982,
+      "timestamp": "2025-07-16T21:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 91569,
+      "size_mb": 0.09,
+      "timestamp": "2025-07-16T21:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "嗯…… https://t.co/SZDyRoX5UO",
+    "publish_time": "2025-07-16T20:32:32"
   }
 ]
