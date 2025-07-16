@@ -1340,14 +1340,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (127MB > 50MB)",
       "timestamp": "2025-07-16T15:01:34",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 133324406,
       "size_mb": 127.15,
-      "timestamp": "2025-07-16T15:01:34",
+      "timestamp": "2025-07-16T16:01:19",
       "download_attempts": 0
     },
     "full_text": "https://t.co/9OSUSUNbbL",
@@ -1404,5 +1404,109 @@
     },
     "full_text": "🩲 https://t.co/vkhOQG1nyd",
     "publish_time": "2025-07-16T14:31:13"
+  },
+  {
+    "file_name": "Gv9hC3oX0AAGmNJ.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gv9hC3oX0AAGmNJ.jpg",
+    "read_time": "2025-07-16T16:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3965,
+      "timestamp": "2025-07-16T16:01:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 103364,
+      "size_mb": 0.1,
+      "timestamp": "2025-07-16T16:01:19",
+      "download_attempts": 0
+    },
+    "full_text": "太热了🥵 https://t.co/28tKnYG2O0",
+    "publish_time": "2025-07-16T15:09:36"
+  },
+  {
+    "file_name": "Gv9hC2uWMAAzDCD.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gv9hC2uWMAAzDCD.jpg",
+    "read_time": "2025-07-16T16:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3966,
+      "timestamp": "2025-07-16T16:01:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 109495,
+      "size_mb": 0.1,
+      "timestamp": "2025-07-16T16:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "太热了🥵 https://t.co/28tKnYG2O0",
+    "publish_time": "2025-07-16T15:09:36"
+  },
+  {
+    "file_name": "Gv9jq-FXIAAeRPF.jpg",
+    "user": {
+      "screen_name": "huahua6256",
+      "name": "花生6256"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gv9jq-FXIAAeRPF.jpg",
+    "read_time": "2025-07-16T16:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3967,
+      "timestamp": "2025-07-16T16:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 156931,
+      "size_mb": 0.15,
+      "timestamp": "2025-07-16T16:01:23",
+      "download_attempts": 0
+    },
+    "full_text": "凭此屏截图戳  👉 https://t.co/adudVqluRm  进群即可观看我所有的完整版视频，仅限粉丝  私信暗号 👉  44 https://t.co/X2yEwuoKWB",
+    "publish_time": "2025-07-16T15:21:05"
+  },
+  {
+    "file_name": "Gv9mIybXIAAsH7d.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gv9mIybXIAAsH7d.jpg",
+    "read_time": "2025-07-16T16:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 3968,
+      "timestamp": "2025-07-16T16:01:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 147727,
+      "size_mb": 0.14,
+      "timestamp": "2025-07-16T16:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/gOs11ubCeV",
+    "publish_time": "2025-07-16T15:31:50"
   }
 ]
