@@ -846,17 +846,43 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (120MB > 50MB)",
       "timestamp": "2025-07-17T14:01:23",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 126344093,
       "size_mb": 120.49,
-      "timestamp": "2025-07-17T14:01:23",
+      "timestamp": "2025-07-17T15:01:18",
       "download_attempts": 0
     },
     "full_text": "第一次被控就色到不行怎麼會這樣 feat.狼濕 part2 - FansOne 讓創作更有價值 -阿凯 https://t.co/KrfAzMGrmZ",
     "publish_time": "2025-07-17T13:31:26"
+  },
+  {
+    "file_name": "GwCb-JRWoAAoXam.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwCb-JRWoAAoXam.jpg",
+    "read_time": "2025-07-17T15:01:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4022,
+      "timestamp": "2025-07-17T15:01:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 145038,
+      "size_mb": 0.14,
+      "timestamp": "2025-07-17T15:01:18",
+      "download_attempts": 0
+    },
+    "full_text": "sky.chen_ https://t.co/36KArS3YYe",
+    "publish_time": "2025-07-17T14:05:31"
   }
 ]
