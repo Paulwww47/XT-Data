@@ -804,5 +804,59 @@
     },
     "full_text": "https://t.co/SCR3j2OyRK",
     "publish_time": "2025-07-17T12:37:46"
+  },
+  {
+    "file_name": "GwCP3omWwAAWoMQ.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwCP3omWwAAWoMQ.jpg",
+    "read_time": "2025-07-17T14:01:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4021,
+      "timestamp": "2025-07-17T14:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 83000,
+      "size_mb": 0.08,
+      "timestamp": "2025-07-17T14:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "xiaoyuuu_lyx https://t.co/TOEyRV99uW",
+    "publish_time": "2025-07-17T13:12:38"
+  },
+  {
+    "file_name": "XiKUjV_Kc6o_GooK.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1945715081016410112/vid/avc1/608x1080/XiKUjV_Kc6o_GooK.mp4?tag=14",
+    "read_time": "2025-07-17T14:01:11",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (120MB > 50MB)",
+      "timestamp": "2025-07-17T14:01:23",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 126344093,
+      "size_mb": 120.49,
+      "timestamp": "2025-07-17T14:01:23",
+      "download_attempts": 0
+    },
+    "full_text": "第一次被控就色到不行怎麼會這樣 feat.狼濕 part2 - FansOne 讓創作更有價值 -阿凯 https://t.co/KrfAzMGrmZ",
+    "publish_time": "2025-07-17T13:31:26"
   }
 ]
