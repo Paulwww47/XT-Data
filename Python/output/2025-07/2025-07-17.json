@@ -1014,5 +1014,31 @@
     },
     "full_text": "https://t.co/4onsNsL1gt",
     "publish_time": "2025-07-17T17:47:26"
+  },
+  {
+    "file_name": "7jjGSD-cotOJ-BvZ.mp4",
+    "user": {
+      "screen_name": "easychen",
+      "name": "EasyChen"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1945798823311544320/vid/avc1/720x1600/7jjGSD-cotOJ-BvZ.mp4?tag=14",
+    "read_time": "2025-07-17T19:01:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4028,
+      "timestamp": "2025-07-17T19:01:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 782872,
+      "size_mb": 0.75,
+      "timestamp": "2025-07-17T19:01:06",
+      "download_attempts": 0
+    },
+    "full_text": "#OMate 版的 #Ani  来了 😆 （其实就是加了个视频当背景） https://t.co/cii2wGU62D",
+    "publish_time": "2025-07-17T18:53:11"
   }
 ]
