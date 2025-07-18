@@ -502,20 +502,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GwHKErHboAAb8Pp.jpg",
     "read_time": "2025-07-18T13:00:57",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-07-18T13:01:19",
-      "notification_sent": false
+      "success": true,
+      "message_id": 4067,
+      "timestamp": "2025-07-18T14:01:28"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 206714,
       "size_mb": 0.2,
-      "timestamp": "2025-07-18T13:00:59",
+      "timestamp": "2025-07-18T14:01:27",
       "download_attempts": 0
     },
     "full_text": "https://t.co/fF6LYBPIsN",
@@ -676,5 +674,267 @@
     },
     "full_text": "博物馆男孩 合集¥40 \n需要可以私信我，老客户有优惠 https://t.co/NjPU3Ad8B6",
     "publish_time": "2025-07-18T12:25:17"
+  },
+  {
+    "file_name": "9924BPIqiDHDT8gf.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1946072995296137216/vid/avc1/406x720/9924BPIqiDHDT8gf.mp4?tag=21",
+    "read_time": "2025-07-18T14:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4068,
+      "timestamp": "2025-07-18T14:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 22785321,
+      "size_mb": 21.73,
+      "timestamp": "2025-07-18T14:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "韩国 大肌肉 https://t.co/ZY4Zu4nAj8",
+    "publish_time": "2025-07-18T13:05:07"
+  },
+  {
+    "file_name": "GwHZ70oXoAAWh_Z.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwHZ70oXoAAWh_Z.png",
+    "read_time": "2025-07-18T14:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4069,
+      "timestamp": "2025-07-18T14:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 818787,
+      "size_mb": 0.78,
+      "timestamp": "2025-07-18T14:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "没事多读书 https://t.co/eG30UFSdvh",
+    "publish_time": "2025-07-18T13:14:55"
+  },
+  {
+    "file_name": "GwHaA2Pa0AA_xln.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwHaA2Pa0AA_xln.jpg",
+    "read_time": "2025-07-18T14:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4070,
+      "timestamp": "2025-07-18T14:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 131403,
+      "size_mb": 0.13,
+      "timestamp": "2025-07-18T14:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/T8CQb62I29",
+    "publish_time": "2025-07-18T13:15:04"
+  },
+  {
+    "file_name": "Zy_CZf0nS81gCTo8.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1946074103711932416/vid/avc1/328x480/Zy_CZf0nS81gCTo8.mp4?tag=21",
+    "read_time": "2025-07-18T14:01:26",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (52MB > 50MB)",
+      "timestamp": "2025-07-18T14:01:40",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 55561332,
+      "size_mb": 52.99,
+      "timestamp": "2025-07-18T14:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "韩国直男 https://t.co/QK8YsmTj3E",
+    "publish_time": "2025-07-18T13:15:12"
+  },
+  {
+    "file_name": "NRSVfZ7ldYPv595R.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1946076294711525377/vid/avc1/404x720/NRSVfZ7ldYPv595R.mp4?tag=21",
+    "read_time": "2025-07-18T14:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4071,
+      "timestamp": "2025-07-18T14:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 25527103,
+      "size_mb": 24.34,
+      "timestamp": "2025-07-18T14:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "典型的韩国长相 https://t.co/7D2nmrZPeD",
+    "publish_time": "2025-07-18T13:18:47"
+  },
+  {
+    "file_name": "FfBEOnYNvBZPKyq4.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1946077197258891264/vid/avc1/406x720/FfBEOnYNvBZPKyq4.mp4?tag=21",
+    "read_time": "2025-07-18T14:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4072,
+      "timestamp": "2025-07-18T14:01:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 28138650,
+      "size_mb": 26.84,
+      "timestamp": "2025-07-18T14:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "韩国直男 https://t.co/KSI3lBpX4x",
+    "publish_time": "2025-07-18T13:21:36"
+  },
+  {
+    "file_name": "oY5jc5XNSdex3Otm.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1946077915898167296/vid/avc1/480x856/oY5jc5XNSdex3Otm.mp4?tag=21",
+    "read_time": "2025-07-18T14:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4073,
+      "timestamp": "2025-07-18T14:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 46661386,
+      "size_mb": 44.5,
+      "timestamp": "2025-07-18T14:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "韩国直男 https://t.co/GnG3X1qJY5",
+    "publish_time": "2025-07-18T13:29:32"
+  },
+  {
+    "file_name": "4qCOmJRASmzGQjSu.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1946079945807335424/vid/avc1/608x1080/4qCOmJRASmzGQjSu.mp4?tag=21",
+    "read_time": "2025-07-18T14:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4074,
+      "timestamp": "2025-07-18T14:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 21601985,
+      "size_mb": 20.6,
+      "timestamp": "2025-07-18T14:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "韩国肌肉男 https://t.co/ED4cHJ7441",
+    "publish_time": "2025-07-18T13:31:23"
+  },
+  {
+    "file_name": "GwHjMF-XUAAotSz.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwHjMF-XUAAotSz.jpg",
+    "read_time": "2025-07-18T14:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4075,
+      "timestamp": "2025-07-18T14:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 123954,
+      "size_mb": 0.12,
+      "timestamp": "2025-07-18T14:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "minhu.98 https://t.co/SMzQj2006M",
+    "publish_time": "2025-07-18T13:55:09"
+  },
+  {
+    "file_name": "GwHjZ2JaMAAo_Vo.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwHjZ2JaMAAo_Vo.jpg",
+    "read_time": "2025-07-18T14:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4076,
+      "timestamp": "2025-07-18T14:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 155132,
+      "size_mb": 0.15,
+      "timestamp": "2025-07-18T14:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "parksungwin https://t.co/HUpmh44GM1",
+    "publish_time": "2025-07-18T13:56:05"
   }
 ]
