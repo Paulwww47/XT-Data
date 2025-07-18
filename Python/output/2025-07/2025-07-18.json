@@ -768,14 +768,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (52MB > 50MB)",
       "timestamp": "2025-07-18T14:01:40",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 55561332,
       "size_mb": 52.99,
-      "timestamp": "2025-07-18T14:01:40",
+      "timestamp": "2025-07-18T15:01:01",
       "download_attempts": 0
     },
     "full_text": "韩国直男 https://t.co/QK8YsmTj3E",
@@ -936,5 +936,135 @@
     },
     "full_text": "parksungwin https://t.co/HUpmh44GM1",
     "publish_time": "2025-07-18T13:56:05"
+  },
+  {
+    "file_name": "GwHndoKXoAABBvz.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwHndoKXoAABBvz.jpg",
+    "read_time": "2025-07-18T15:01:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4077,
+      "timestamp": "2025-07-18T15:01:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 128591,
+      "size_mb": 0.12,
+      "timestamp": "2025-07-18T15:01:01",
+      "download_attempts": 0
+    },
+    "full_text": "zkjtop合集 （这个只有Telegram发）\n需要购买可私信 https://t.co/SbNTWKAiAk",
+    "publish_time": "2025-07-18T14:13:53"
+  },
+  {
+    "file_name": "GwHndoPWYAQuFcA.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwHndoPWYAQuFcA.jpg",
+    "read_time": "2025-07-18T15:01:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4078,
+      "timestamp": "2025-07-18T15:01:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 126585,
+      "size_mb": 0.12,
+      "timestamp": "2025-07-18T15:01:04",
+      "download_attempts": 0
+    },
+    "full_text": "zkjtop合集 （这个只有Telegram发）\n需要购买可私信 https://t.co/SbNTWKAiAk",
+    "publish_time": "2025-07-18T14:13:53"
+  },
+  {
+    "file_name": "GwHndoSXUAAz0Bg.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwHndoSXUAAz0Bg.jpg",
+    "read_time": "2025-07-18T15:01:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4079,
+      "timestamp": "2025-07-18T15:01:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 115206,
+      "size_mb": 0.11,
+      "timestamp": "2025-07-18T15:01:06",
+      "download_attempts": 0
+    },
+    "full_text": "zkjtop合集 （这个只有Telegram发）\n需要购买可私信 https://t.co/SbNTWKAiAk",
+    "publish_time": "2025-07-18T14:13:53"
+  },
+  {
+    "file_name": "GwHrQgFWsAA9Kid.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwHrQgFWsAA9Kid.jpg",
+    "read_time": "2025-07-18T15:01:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4080,
+      "timestamp": "2025-07-18T15:01:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 188856,
+      "size_mb": 0.18,
+      "timestamp": "2025-07-18T15:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "ujin.5 https://t.co/OtUX9KKG3N",
+    "publish_time": "2025-07-18T14:30:24"
+  },
+  {
+    "file_name": "GwHrvJFboAAACr8.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwHrvJFboAAACr8.jpg",
+    "read_time": "2025-07-18T15:01:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4081,
+      "timestamp": "2025-07-18T15:01:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 69775,
+      "size_mb": 0.07,
+      "timestamp": "2025-07-18T15:01:10",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/gC2gnqWauR",
+    "publish_time": "2025-07-18T14:32:30"
   }
 ]
