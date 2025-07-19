@@ -284,5 +284,31 @@
     },
     "full_text": "hero_\n٧_ https://t.co/A6iocJXKen",
     "publish_time": "2025-07-19T08:34:00"
+  },
+  {
+    "file_name": "GwLsiC1XwAAixM5.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwLsiC1XwAAixM5.jpg",
+    "read_time": "2025-07-19T10:01:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4117,
+      "timestamp": "2025-07-19T10:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 100889,
+      "size_mb": 0.1,
+      "timestamp": "2025-07-19T10:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "caspar_rui https://t.co/GDNhljvPYq",
+    "publish_time": "2025-07-19T09:14:27"
   }
 ]
