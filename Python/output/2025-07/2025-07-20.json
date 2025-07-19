@@ -284,5 +284,31 @@
     },
     "full_text": "https://t.co/e0XFnDiyIC",
     "publish_time": "2025-07-20T03:00:38"
+  },
+  {
+    "file_name": "GwPtbizXEAgrMSe.mp4",
+    "user": {
+      "screen_name": "liangguai1",
+      "name": "亮拐"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/GwPtbizXEAgrMSe.mp4",
+    "read_time": "2025-07-20T04:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4171,
+      "timestamp": "2025-07-20T04:01:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 68479,
+      "size_mb": 0.07,
+      "timestamp": "2025-07-20T04:01:18",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/z5lwj9FN1b",
+    "publish_time": "2025-07-20T03:56:57"
   }
 ]

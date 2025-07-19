@@ -126,5 +126,19 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1946646380854087860",
     "fullText": "https://t.co/e0XFnDiyIC",
     "publishTime": "2025-07-20T03:00:38"
+  },
+  {
+    "user": {
+      "screenName": "liangguai1",
+      "name": "亮拐"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/GwPtbizXEAgrMSe.mp4"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/liangguai1/status/1946660550609609033",
+    "fullText": "https://t.co/z5lwj9FN1b",
+    "publishTime": "2025-07-20T03:56:57"
   }
 ]
