@@ -8,20 +8,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GwO-trJW8AIaedA.png",
     "read_time": "2025-07-20T01:01:27",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-07-20T01:01:48",
-      "notification_sent": false
+      "success": true,
+      "message_id": 4162,
+      "timestamp": "2025-07-20T02:01:22"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 506003,
       "size_mb": 0.48,
-      "timestamp": "2025-07-20T01:01:27",
+      "timestamp": "2025-07-20T02:01:21",
       "download_attempts": 0
     },
     "full_text": "https://t.co/MLrtqfJdLe",
@@ -78,5 +76,109 @@
     },
     "full_text": "🥵 https://t.co/6BvNjdaeZZ",
     "publish_time": "2025-07-20T00:35:43"
+  },
+  {
+    "file_name": "GwPJKILWUAAKbfv.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwPJKILWUAAKbfv.jpg",
+    "read_time": "2025-07-20T02:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4163,
+      "timestamp": "2025-07-20T02:01:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 171003,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-20T02:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/EPgrkO8g2t",
+    "publish_time": "2025-07-20T01:18:28"
+  },
+  {
+    "file_name": "GwPJfFlaQAA2mSM.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwPJfFlaQAA2mSM.jpg",
+    "read_time": "2025-07-20T02:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4164,
+      "timestamp": "2025-07-20T02:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 406277,
+      "size_mb": 0.39,
+      "timestamp": "2025-07-20T02:01:23",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/FxYv1hFggh",
+    "publish_time": "2025-07-20T01:19:56"
+  },
+  {
+    "file_name": "GwPJyq_XsAEkYEk.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwPJyq_XsAEkYEk.jpg",
+    "read_time": "2025-07-20T02:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4165,
+      "timestamp": "2025-07-20T02:01:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 139972,
+      "size_mb": 0.13,
+      "timestamp": "2025-07-20T02:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/wo4ZHM3V3c",
+    "publish_time": "2025-07-20T01:21:14"
+  },
+  {
+    "file_name": "GwPMpBfX0AALgk-.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwPMpBfX0AALgk-.jpg",
+    "read_time": "2025-07-20T02:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4166,
+      "timestamp": "2025-07-20T02:01:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 124432,
+      "size_mb": 0.12,
+      "timestamp": "2025-07-20T02:01:26",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/SBR3Qq7ogH",
+    "publish_time": "2025-07-20T01:33:37"
   }
 ]
