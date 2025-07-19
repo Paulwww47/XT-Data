@@ -388,5 +388,57 @@
     },
     "full_text": "https://t.co/42qOwwicyx",
     "publish_time": "2025-07-20T05:59:21"
+  },
+  {
+    "file_name": "GwQQWbNWUAAUZQ-.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwQQWbNWUAAUZQ-.jpg",
+    "read_time": "2025-07-20T07:02:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4175,
+      "timestamp": "2025-07-20T07:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 197091,
+      "size_mb": 0.19,
+      "timestamp": "2025-07-20T07:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "ootd_beefgood https://t.co/LjGAguq4Zb",
+    "publish_time": "2025-07-20T06:29:26"
+  },
+  {
+    "file_name": "GwQQePwagAAPbDD.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwQQePwagAAPbDD.jpg",
+    "read_time": "2025-07-20T07:02:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4176,
+      "timestamp": "2025-07-20T07:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 168373,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-20T07:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "timyeung_1 https://t.co/eio9FifCvc",
+    "publish_time": "2025-07-20T06:29:58"
   }
 ]

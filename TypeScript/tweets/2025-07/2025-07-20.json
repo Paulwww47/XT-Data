@@ -182,5 +182,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1946691355918667964",
     "fullText": "https://t.co/42qOwwicyx",
     "publishTime": "2025-07-20T05:59:21"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwQQWbNWUAAUZQ-.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1946698925106442751",
+    "fullText": "ootd_beefgood https://t.co/LjGAguq4Zb",
+    "publishTime": "2025-07-20T06:29:26"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwQQePwagAAPbDD.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1946699058229514498",
+    "fullText": "timyeung_1 https://t.co/eio9FifCvc",
+    "publishTime": "2025-07-20T06:29:58"
   }
 ]
