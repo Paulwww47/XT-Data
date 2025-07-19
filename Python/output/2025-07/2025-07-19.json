@@ -1128,20 +1128,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GwNbehea8AAIX0q.jpg",
     "read_time": "2025-07-19T18:01:19",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-07-19T18:01:44",
-      "notification_sent": false
+      "success": true,
+      "message_id": 4151,
+      "timestamp": "2025-07-19T19:01:26"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 197108,
       "size_mb": 0.19,
-      "timestamp": "2025-07-19T18:01:24",
+      "timestamp": "2025-07-19T19:01:25",
       "download_attempts": 0
     },
     "full_text": "#top #muscle #swimming https://t.co/G7tMQt3GzZ",
@@ -1172,5 +1170,57 @@
     },
     "full_text": "When I'm at home alone every day https://t.co/iWyEBcUpgB",
     "publish_time": "2025-07-19T17:52:37"
+  },
+  {
+    "file_name": "GwNwNuGW8AExVNg.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwNwNuGW8AExVNg.jpg",
+    "read_time": "2025-07-19T19:01:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4152,
+      "timestamp": "2025-07-19T19:01:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 89600,
+      "size_mb": 0.09,
+      "timestamp": "2025-07-19T19:01:26",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/2QaBLVWFyw",
+    "publish_time": "2025-07-19T18:49:47"
+  },
+  {
+    "file_name": "GwNwTPJW4AACo9b.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwNwTPJW4AACo9b.jpg",
+    "read_time": "2025-07-19T19:01:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4153,
+      "timestamp": "2025-07-19T19:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 151791,
+      "size_mb": 0.14,
+      "timestamp": "2025-07-19T19:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "bambi_jnn https://t.co/vgLB6MR6NA",
+    "publish_time": "2025-07-19T18:50:10"
   }
 ]
