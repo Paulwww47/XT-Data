@@ -622,5 +622,111 @@
     },
     "full_text": "高温预警🥵 https://t.co/gV7fJFyAlm",
     "publish_time": "2025-07-19T12:35:27"
+  },
+  {
+    "file_name": "GwMjnSPa8AAB1Zw.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwMjnSPa8AAB1Zw.jpg",
+    "read_time": "2025-07-19T14:00:35",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-07-19T14:00:56",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 293259,
+      "size_mb": 0.28,
+      "timestamp": "2025-07-19T14:00:36",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/HK8QO9wG4u",
+    "publish_time": "2025-07-19T13:15:07"
+  },
+  {
+    "file_name": "GwMj1LQbEAARQZX.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwMj1LQbEAARQZX.jpg",
+    "read_time": "2025-07-19T14:00:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4130,
+      "timestamp": "2025-07-19T14:00:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 189380,
+      "size_mb": 0.18,
+      "timestamp": "2025-07-19T14:00:56",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/0CvXKBrhtz",
+    "publish_time": "2025-07-19T13:16:04"
+  },
+  {
+    "file_name": "GwMj5EzXUAA4Fi2.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwMj5EzXUAA4Fi2.jpg",
+    "read_time": "2025-07-19T14:00:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4131,
+      "timestamp": "2025-07-19T14:00:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 149057,
+      "size_mb": 0.14,
+      "timestamp": "2025-07-19T14:00:58",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Olb7HxHWii",
+    "publish_time": "2025-07-19T13:16:20"
+  },
+  {
+    "file_name": "GwMnKxpbEAAxLpm.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwMnKxpbEAAxLpm.jpg",
+    "read_time": "2025-07-19T14:00:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4132,
+      "timestamp": "2025-07-19T14:01:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 170411,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-19T14:00:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/lWuwYEhfzT",
+    "publish_time": "2025-07-19T13:30:39"
   }
 ]
