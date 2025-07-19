@@ -768,14 +768,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (490MB > 50MB)",
       "timestamp": "2025-07-19T16:02:10",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 514470109,
       "size_mb": 490.64,
-      "timestamp": "2025-07-19T16:02:10",
+      "timestamp": "2025-07-19T17:01:55",
       "download_attempts": 0
     },
     "full_text": "elishaw 系列 \n  eli总是锁住鸡巴 从来不打开，身材样貌都不错，就是好像没有鸡巴可以观赏，感觉缺少什么 https://t.co/hOTsnxLO48",
@@ -858,5 +858,187 @@
     },
     "full_text": "晒黑日记 https://t.co/jdKtAja11I",
     "publish_time": "2025-07-19T15:22:34"
+  },
+  {
+    "file_name": "GwNL9DCWMAEk4x3.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwNL9DCWMAEk4x3.jpg",
+    "read_time": "2025-07-19T17:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4139,
+      "timestamp": "2025-07-19T17:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 55190,
+      "size_mb": 0.05,
+      "timestamp": "2025-07-19T17:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "chattanatip https://t.co/3rOUM1s4nP",
+    "publish_time": "2025-07-19T16:11:21"
+  },
+  {
+    "file_name": "GwNRDw9W8AAVLxZ.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwNRDw9W8AAVLxZ.jpg",
+    "read_time": "2025-07-19T17:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4140,
+      "timestamp": "2025-07-19T17:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 157947,
+      "size_mb": 0.15,
+      "timestamp": "2025-07-19T17:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "caspar_rui https://t.co/Z2N8FPpngF",
+    "publish_time": "2025-07-19T16:33:40"
+  },
+  {
+    "file_name": "cCAnPwK9EK17V_tD.mp4",
+    "user": {
+      "screen_name": "LaFei2531",
+      "name": "小熊硬糖"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1946488606165520384/vid/avc1/720x1280/cCAnPwK9EK17V_tD.mp4?tag=21",
+    "read_time": "2025-07-19T17:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4141,
+      "timestamp": "2025-07-19T17:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1496374,
+      "size_mb": 1.43,
+      "timestamp": "2025-07-19T17:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "关于怎么黑的 https://t.co/aYSYAiKGKY",
+    "publish_time": "2025-07-19T16:34:14"
+  },
+  {
+    "file_name": "GwNWkV0XAAA5R74.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwNWkV0XAAA5R74.jpg",
+    "read_time": "2025-07-19T17:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4142,
+      "timestamp": "2025-07-19T17:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 139366,
+      "size_mb": 0.13,
+      "timestamp": "2025-07-19T17:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "韩国直男系列 ¥40 （仅Telegram）\n需要可以私信我 https://t.co/jRis1fKsSn",
+    "publish_time": "2025-07-19T16:57:47"
+  },
+  {
+    "file_name": "GwNWkV5WAAAY0Ec.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwNWkV5WAAAY0Ec.jpg",
+    "read_time": "2025-07-19T17:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4143,
+      "timestamp": "2025-07-19T17:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 117659,
+      "size_mb": 0.11,
+      "timestamp": "2025-07-19T17:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "韩国直男系列 ¥40 （仅Telegram）\n需要可以私信我 https://t.co/jRis1fKsSn",
+    "publish_time": "2025-07-19T16:57:47"
+  },
+  {
+    "file_name": "GwNWkVYaYAA9owh.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwNWkVYaYAA9owh.jpg",
+    "read_time": "2025-07-19T17:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4144,
+      "timestamp": "2025-07-19T17:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 132071,
+      "size_mb": 0.13,
+      "timestamp": "2025-07-19T17:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "韩国直男系列 ¥40 （仅Telegram）\n需要可以私信我 https://t.co/jRis1fKsSn",
+    "publish_time": "2025-07-19T16:57:47"
+  },
+  {
+    "file_name": "GwNWkV3XkAA-Caq.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwNWkV3XkAA-Caq.jpg",
+    "read_time": "2025-07-19T17:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4145,
+      "timestamp": "2025-07-19T17:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 127142,
+      "size_mb": 0.12,
+      "timestamp": "2025-07-19T17:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "韩国直男系列 ¥40 （仅Telegram）\n需要可以私信我 https://t.co/jRis1fKsSn",
+    "publish_time": "2025-07-19T16:57:47"
   }
 ]
