@@ -96,5 +96,35 @@
     "tweetUrl": "https://x.com/youdi/status/1946624482367746165",
     "fullText": "https://t.co/SBR3Qq7ogH",
     "publishTime": "2025-07-20T01:33:37"
+  },
+  {
+    "user": {
+      "screenName": "xidaojun1",
+      "name": "🐺西岛"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwPYtXXXEAAu2mb.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/xidaojun1/status/1946637752713220345",
+    "fullText": "https://t.co/6hIywuN5NH",
+    "publishTime": "2025-07-20T02:26:21"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwPgj06WwAAAcV1.jpg",
+      "https://pbs.twimg.com/media/GwPgj0zWIAEahtD.jpg",
+      "https://pbs.twimg.com/media/GwPgj09WkAEkVI6.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1946646380854087860",
+    "fullText": "https://t.co/e0XFnDiyIC",
+    "publishTime": "2025-07-20T03:00:38"
   }
 ]
