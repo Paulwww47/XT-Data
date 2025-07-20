@@ -138,20 +138,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GwVMFayXgAEyGCz.jpg",
     "read_time": "2025-07-21T06:01:03",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-07-21T06:01:24",
-      "notification_sent": false
+      "success": true,
+      "message_id": 4249,
+      "timestamp": "2025-07-21T07:00:57"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 129072,
       "size_mb": 0.12,
-      "timestamp": "2025-07-21T06:01:04",
+      "timestamp": "2025-07-21T07:00:56",
       "download_attempts": 0
     },
     "full_text": "https://t.co/TC3iX6kw2d",
@@ -234,5 +232,57 @@
     },
     "full_text": "https://t.co/TC3iX6kw2d",
     "publish_time": "2025-07-21T05:28:54"
+  },
+  {
+    "file_name": "GwVXNBZX0AIFdWq.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwVXNBZX0AIFdWq.jpg",
+    "read_time": "2025-07-21T07:00:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4250,
+      "timestamp": "2025-07-21T07:00:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 126931,
+      "size_mb": 0.12,
+      "timestamp": "2025-07-21T07:00:57",
+      "download_attempts": 0
+    },
+    "full_text": "lebillyboy https://t.co/PwVIqRXe4V",
+    "publish_time": "2025-07-21T06:17:28"
+  },
+  {
+    "file_name": "GwVXZF3aIAAWi8j.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwVXZF3aIAAWi8j.jpg",
+    "read_time": "2025-07-21T07:00:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4251,
+      "timestamp": "2025-07-21T07:01:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 179480,
+      "size_mb": 0.17,
+      "timestamp": "2025-07-21T07:00:58",
+      "download_attempts": 0
+    },
+    "full_text": "aidenyuan_ https://t.co/8VCXdWacUt",
+    "publish_time": "2025-07-21T06:18:18"
   }
 ]
