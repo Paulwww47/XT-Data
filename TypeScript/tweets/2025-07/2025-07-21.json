@@ -82,5 +82,22 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1947034495137546647",
     "fullText": "https://t.co/oCFG8kxGkr",
     "publishTime": "2025-07-21T04:42:52"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwVMFayXgAEyGCz.jpg",
+      "https://pbs.twimg.com/media/GwVMFauX0AICVQC.jpg",
+      "https://pbs.twimg.com/media/GwVMFamWsAQFEaN.jpg",
+      "https://pbs.twimg.com/media/GwVMFaAaYAAgKxw.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1947046078576046254",
+    "fullText": "https://t.co/TC3iX6kw2d",
+    "publishTime": "2025-07-21T05:28:54"
   }
 ]
