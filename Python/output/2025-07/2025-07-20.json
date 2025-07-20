@@ -726,5 +726,139 @@
     },
     "full_text": "https://t.co/J24ebUg8Oh",
     "publish_time": "2025-07-20T10:52:17"
+  },
+  {
+    "file_name": "GwRQCo0W0AA6ZqD.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwRQCo0W0AA6ZqD.jpg",
+    "read_time": "2025-07-20T12:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4189,
+      "timestamp": "2025-07-20T12:01:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 135456,
+      "size_mb": 0.13,
+      "timestamp": "2025-07-20T12:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/fMpa43KTYx",
+    "publish_time": "2025-07-20T11:07:43"
+  },
+  {
+    "file_name": "GwRTbChW8AAjpy8.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwRTbChW8AAjpy8.jpg",
+    "read_time": "2025-07-20T12:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4190,
+      "timestamp": "2025-07-20T12:01:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 142935,
+      "size_mb": 0.14,
+      "timestamp": "2025-07-20T12:01:23",
+      "download_attempts": 0
+    },
+    "full_text": "geneo.h https://t.co/tdwwaW0yqi",
+    "publish_time": "2025-07-20T11:22:28"
+  },
+  {
+    "file_name": "GwRY2g_XAAAqEzH.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwRY2g_XAAAqEzH.jpg",
+    "read_time": "2025-07-20T12:01:21",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-07-20T12:01:45",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 32814,
+      "size_mb": 0.03,
+      "timestamp": "2025-07-20T12:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Oqdb4vhzxj",
+    "publish_time": "2025-07-20T11:46:11"
+  },
+  {
+    "file_name": "ngj5o5BYE7vdc1vB.mp4",
+    "user": {
+      "screen_name": "Wei_danda",
+      "name": "Wei蛋蛋"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1946778637509730304/vid/avc1/720x1280/ngj5o5BYE7vdc1vB.mp4?tag=21",
+    "read_time": "2025-07-20T12:01:21",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-07-20T12:02:06",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 2605500,
+      "size_mb": 2.48,
+      "timestamp": "2025-07-20T12:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "黑皮！ https://t.co/9bM2cr78En",
+    "publish_time": "2025-07-20T11:46:30"
+  },
+  {
+    "file_name": "GwRan3LWkAAKBZ5.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwRan3LWkAAKBZ5.png",
+    "read_time": "2025-07-20T12:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4191,
+      "timestamp": "2025-07-20T12:02:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 541248,
+      "size_mb": 0.52,
+      "timestamp": "2025-07-20T12:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vwcmBqgW0R",
+    "publish_time": "2025-07-20T11:54:00"
   }
 ]
