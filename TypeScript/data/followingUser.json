@@ -2167,10 +2167,20 @@
       "name": "S.S.S",
       "screenName": "Salha_dh",
       "createdAt": "Thu Feb 09 04:44:59 +0000 2012",
-      "description": "原创直男调教🐶随缘更新\n\n预览图和收藏规则更新在纸飞机",
+      "description": "原创直男调教🐶随缘更新\n\n预览图和收藏规则更新在纸飞机\nhttps://t.co/59h0FQ8U10",
       "entities": {
         "description": {
-          "urls": []
+          "urls": [
+            {
+              "display_url": "t.me/+mtyIHou4Z8IxY…",
+              "expanded_url": "https://t.me/+mtyIHou4Z8IxYWI0",
+              "url": "https://t.co/59h0FQ8U10",
+              "indices": [
+                28,
+                51
+              ]
+            }
+          ]
         }
       },
       "profileBannerUrl": "",
