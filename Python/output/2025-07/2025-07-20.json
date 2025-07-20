@@ -788,20 +788,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GwRY2g_XAAAqEzH.jpg",
     "read_time": "2025-07-20T12:01:21",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-07-20T12:01:45",
-      "notification_sent": false
+      "success": true,
+      "message_id": 4194,
+      "timestamp": "2025-07-20T13:01:22"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 32814,
       "size_mb": 0.03,
-      "timestamp": "2025-07-20T12:01:25",
+      "timestamp": "2025-07-20T13:01:21",
       "download_attempts": 0
     },
     "full_text": "https://t.co/Oqdb4vhzxj",
@@ -816,20 +814,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1946778637509730304/vid/avc1/720x1280/ngj5o5BYE7vdc1vB.mp4?tag=21",
     "read_time": "2025-07-20T12:01:21",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-07-20T12:02:06",
-      "notification_sent": false
+      "success": true,
+      "message_id": 4195,
+      "timestamp": "2025-07-20T13:01:24"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 2605500,
       "size_mb": 2.48,
-      "timestamp": "2025-07-20T12:01:45",
+      "timestamp": "2025-07-20T13:01:22",
       "download_attempts": 0
     },
     "full_text": "黑皮！ https://t.co/9bM2cr78En",
@@ -860,5 +856,109 @@
     },
     "full_text": "https://t.co/vwcmBqgW0R",
     "publish_time": "2025-07-20T11:54:00"
+  },
+  {
+    "file_name": "GwRfGQDW0AAANlH.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwRfGQDW0AAANlH.png",
+    "read_time": "2025-07-20T13:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4196,
+      "timestamp": "2025-07-20T13:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 287782,
+      "size_mb": 0.27,
+      "timestamp": "2025-07-20T13:01:24",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/5QvfV3Hi35",
+    "publish_time": "2025-07-20T12:13:30"
+  },
+  {
+    "file_name": "GwRgJJqWkAIy2EA.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwRgJJqWkAIy2EA.jpg",
+    "read_time": "2025-07-20T13:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4197,
+      "timestamp": "2025-07-20T13:01:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 125080,
+      "size_mb": 0.12,
+      "timestamp": "2025-07-20T13:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/P4WFd5swqT",
+    "publish_time": "2025-07-20T12:18:04"
+  },
+  {
+    "file_name": "GwRkAUYWwAAtw4t.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwRkAUYWwAAtw4t.jpg",
+    "read_time": "2025-07-20T13:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4198,
+      "timestamp": "2025-07-20T13:01:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 99051,
+      "size_mb": 0.09,
+      "timestamp": "2025-07-20T13:01:26",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/91tZG9q520",
+    "publish_time": "2025-07-20T12:35:00"
+  },
+  {
+    "file_name": "GwRoGsFaUAAV95O.jpg",
+    "user": {
+      "screen_name": "captainshagang",
+      "name": "沙岗队长"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwRoGsFaUAAV95O.jpg",
+    "read_time": "2025-07-20T13:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4199,
+      "timestamp": "2025-07-20T13:01:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 127256,
+      "size_mb": 0.12,
+      "timestamp": "2025-07-20T13:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "上海一对一健身私 https://t.co/UZhHFlVSZU",
+    "publish_time": "2025-07-20T12:52:50"
   }
 ]
