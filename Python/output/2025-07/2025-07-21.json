@@ -778,14 +778,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (73MB > 50MB)",
       "timestamp": "2025-07-21T13:01:15",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 77032420,
       "size_mb": 73.46,
-      "timestamp": "2025-07-21T13:01:15",
+      "timestamp": "2025-07-21T14:01:04",
       "download_attempts": 0
     },
     "full_text": "眼镜肌肉小叔 https://t.co/TGEHuvLnTM",
@@ -806,14 +806,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (59MB > 50MB)",
       "timestamp": "2025-07-21T13:01:21",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 62655824,
       "size_mb": 59.75,
-      "timestamp": "2025-07-21T13:01:21",
+      "timestamp": "2025-07-21T14:01:10",
       "download_attempts": 0
     },
     "full_text": "眼镜肌肉小叔2 https://t.co/b2qESuMOwz",
@@ -834,14 +834,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (59MB > 50MB)",
       "timestamp": "2025-07-21T13:01:27",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 62900895,
       "size_mb": 59.99,
-      "timestamp": "2025-07-21T13:01:27",
+      "timestamp": "2025-07-21T14:01:15",
       "download_attempts": 0
     },
     "full_text": "体育生 https://t.co/aw0KaMykwY",
@@ -914,14 +914,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (113MB > 50MB)",
       "timestamp": "2025-07-21T13:01:45",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 119313893,
       "size_mb": 113.79,
-      "timestamp": "2025-07-21T13:01:45",
+      "timestamp": "2025-07-21T14:01:25",
       "download_attempts": 0
     },
     "full_text": "喜欢脱发帅哥的有福了 https://t.co/2i4XTAjkkT",
@@ -942,17 +942,147 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (56MB > 50MB)",
       "timestamp": "2025-07-21T13:01:46",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 59350077,
       "size_mb": 56.6,
-      "timestamp": "2025-07-21T13:01:46",
+      "timestamp": "2025-07-21T14:01:30",
       "download_attempts": 0
     },
     "full_text": "喜欢他去床上拿内裤的那个角度 后侧链很棒 https://t.co/PMzyzmiltl",
     "publish_time": "2025-07-21T12:54:53"
+  },
+  {
+    "file_name": "GwW1BcIWMAAReoO.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwW1BcIWMAAReoO.jpg",
+    "read_time": "2025-07-21T14:00:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4268,
+      "timestamp": "2025-07-21T14:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 107997,
+      "size_mb": 0.1,
+      "timestamp": "2025-07-21T14:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "都他妈给老子好好的 别被爱情折磨的遍体鳞伤 https://t.co/wZX13Xni75",
+    "publish_time": "2025-07-21T13:07:23"
+  },
+  {
+    "file_name": "GwW1BeSWsAAxbFu.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwW1BeSWsAAxbFu.jpg",
+    "read_time": "2025-07-21T14:00:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4269,
+      "timestamp": "2025-07-21T14:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 111107,
+      "size_mb": 0.11,
+      "timestamp": "2025-07-21T14:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "都他妈给老子好好的 别被爱情折磨的遍体鳞伤 https://t.co/wZX13Xni75",
+    "publish_time": "2025-07-21T13:07:23"
+  },
+  {
+    "file_name": "GwW-MN0W0AASmYF.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwW-MN0W0AASmYF.jpg",
+    "read_time": "2025-07-21T14:00:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4270,
+      "timestamp": "2025-07-21T14:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 104848,
+      "size_mb": 0.1,
+      "timestamp": "2025-07-21T14:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/GdRr6wHD8M",
+    "publish_time": "2025-07-21T13:47:25"
+  },
+  {
+    "file_name": "GwW_TWQWAAAlnek.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwW_TWQWAAAlnek.jpg",
+    "read_time": "2025-07-21T14:00:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4271,
+      "timestamp": "2025-07-21T14:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 117644,
+      "size_mb": 0.11,
+      "timestamp": "2025-07-21T14:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/RDJU1Qp9ZG",
+    "publish_time": "2025-07-21T13:52:17"
+  },
+  {
+    "file_name": "Yc3i4bx3Q16tU8gn.mp4",
+    "user": {
+      "screen_name": "vallen_8891",
+      "name": "Vallen_"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947174518222422017/vid/avc1/720x1280/Yc3i4bx3Q16tU8gn.mp4?tag=21",
+    "read_time": "2025-07-21T14:00:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4272,
+      "timestamp": "2025-07-21T14:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2708985,
+      "size_mb": 2.58,
+      "timestamp": "2025-07-21T14:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "In Taiwan here ,any Nice guy? \n\nhttps://t.co/molYt8caAh\nSome my sex vlog 🥴 https://t.co/Xw6GAHCeC0",
+    "publish_time": "2025-07-21T13:59:33"
   }
 ]
