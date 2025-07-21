@@ -404,14 +404,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (76MB > 50MB)",
       "timestamp": "2025-07-21T10:01:06",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 80267095,
       "size_mb": 76.55,
-      "timestamp": "2025-07-21T10:01:06",
+      "timestamp": "2025-07-21T11:01:45",
       "download_attempts": 0
     },
     "full_text": "hancross https://t.co/HEzb7Qcaoq",
@@ -426,20 +426,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1947106851692109824/vid/avc1/608x1080/BsWKLqJm5j-qxNLM.mp4?tag=21",
     "read_time": "2025-07-21T10:00:58",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-07-21T10:01:29",
-      "notification_sent": false
+      "success": true,
+      "message_id": 4258,
+      "timestamp": "2025-07-21T11:02:04"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 18669395,
       "size_mb": 17.8,
-      "timestamp": "2025-07-21T10:01:07",
+      "timestamp": "2025-07-21T11:01:45",
       "download_attempts": 0
     },
     "full_text": "阿超 https://t.co/uCLWXYBSAt",
@@ -470,5 +468,191 @@
     },
     "full_text": "阿超射精有点像机关枪，一股接一股喷的很快 https://t.co/QjF6CgsmXv",
     "publish_time": "2025-07-21T09:53:55"
+  },
+  {
+    "file_name": "4ZdtAIF1XjnxY7IK.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947116437031579648/vid/avc1/440x568/4ZdtAIF1XjnxY7IK.mp4?tag=21",
+    "read_time": "2025-07-21T11:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4259,
+      "timestamp": "2025-07-21T11:02:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 34855471,
+      "size_mb": 33.24,
+      "timestamp": "2025-07-21T11:02:07",
+      "download_attempts": 0
+    },
+    "full_text": "肌肉教练 https://t.co/xOjwpTDB1l",
+    "publish_time": "2025-07-21T10:17:50"
+  },
+  {
+    "file_name": "GwWO6goWcAEedhS.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwWO6goWcAEedhS.jpg",
+    "read_time": "2025-07-21T11:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4260,
+      "timestamp": "2025-07-21T11:02:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 150438,
+      "size_mb": 0.14,
+      "timestamp": "2025-07-21T11:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "rumo.li26 https://t.co/fV4bRaW1fO",
+    "publish_time": "2025-07-21T10:20:53"
+  },
+  {
+    "file_name": "q89j_e2H9bYPmtcA.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947119039056060421/vid/avc1/480x854/q89j_e2H9bYPmtcA.mp4?tag=21",
+    "read_time": "2025-07-21T11:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4261,
+      "timestamp": "2025-07-21T11:08:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 47958225,
+      "size_mb": 45.74,
+      "timestamp": "2025-07-21T11:08:09",
+      "download_attempts": 0
+    },
+    "full_text": "眼镜弟弟 https://t.co/6ZNx1GJhW7",
+    "publish_time": "2025-07-21T10:40:35"
+  },
+  {
+    "file_name": "jgProZFK_hUYQ33O.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947124572538470402/vid/avc1/720x1302/jgProZFK_hUYQ33O.mp4?tag=21",
+    "read_time": "2025-07-21T11:01:38",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (86MB > 50MB)",
+      "timestamp": "2025-07-21T11:08:23",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 90966041,
+      "size_mb": 86.75,
+      "timestamp": "2025-07-21T11:08:23",
+      "download_attempts": 0
+    },
+    "full_text": "低体脂 翘鸡巴教练 https://t.co/uZRVEluVCS",
+    "publish_time": "2025-07-21T10:47:38"
+  },
+  {
+    "file_name": "ze6XuaCY0HaH-DhQ.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947126338386567168/vid/avc1/592x720/ze6XuaCY0HaH-DhQ.mp4?tag=21",
+    "read_time": "2025-07-21T11:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4262,
+      "timestamp": "2025-07-21T11:08:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 32811367,
+      "size_mb": 31.29,
+      "timestamp": "2025-07-21T11:08:26",
+      "download_attempts": 0
+    },
+    "full_text": "射精像撒尿一样猛 https://t.co/aKgKmzdVrU",
+    "publish_time": "2025-07-21T10:51:03"
+  },
+  {
+    "file_name": "oVz73NgrMb0Ee_Zb.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947127198894424064/vid/avc1/548x718/oVz73NgrMb0Ee_Zb.mp4?tag=21",
+    "read_time": "2025-07-21T11:01:38",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (55MB > 50MB)",
+      "timestamp": "2025-07-21T11:08:35",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 58219093,
+      "size_mb": 55.52,
+      "timestamp": "2025-07-21T11:08:35",
+      "download_attempts": 0
+    },
+    "full_text": "健美比赛前来一发 https://t.co/vA8wlzf6MM",
+    "publish_time": "2025-07-21T10:56:58"
+  },
+  {
+    "file_name": "WNsT4Ow8qFwAR4ts.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947128833083154433/vid/avc1/396x720/WNsT4Ow8qFwAR4ts.mp4?tag=21",
+    "read_time": "2025-07-21T11:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4263,
+      "timestamp": "2025-07-21T11:08:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 33729993,
+      "size_mb": 32.17,
+      "timestamp": "2025-07-21T11:08:38",
+      "download_attempts": 0
+    },
+    "full_text": "肌肉小帅 https://t.co/NbImMyXyZV",
+    "publish_time": "2025-07-21T11:00:23"
   }
 ]
