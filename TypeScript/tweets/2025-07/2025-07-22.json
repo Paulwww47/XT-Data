@@ -240,5 +240,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1947401306446172390",
     "fullText": "https://t.co/j3ttTOpjp4",
     "publishTime": "2025-07-22T05:00:27"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwafMVDbEAE3MzK.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1947418932182454611",
+    "fullText": "tennilly https://t.co/SguEiiJuQO",
+    "publishTime": "2025-07-22T06:10:29"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwakwfJbEAEaMtb.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1947425047280554358",
+    "fullText": "https://t.co/jhh2yXlzFf",
+    "publishTime": "2025-07-22T06:34:47"
   }
 ]
