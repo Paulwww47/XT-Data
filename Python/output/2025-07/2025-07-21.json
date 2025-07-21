@@ -722,14 +722,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (57MB > 50MB)",
       "timestamp": "2025-07-21T12:01:33",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 60066635,
       "size_mb": 57.28,
-      "timestamp": "2025-07-21T12:01:33",
+      "timestamp": "2025-07-21T13:01:07",
       "download_attempts": 0
     },
     "full_text": "韩国肌肉帅 https://t.co/UmC0OGDmdg",
@@ -750,17 +750,209 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (322MB > 50MB)",
       "timestamp": "2025-07-21T12:02:00",
+      "notification_sent": true
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 338657337,
+      "size_mb": 322.97,
+      "timestamp": "2025-07-21T13:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "黑皮体育生 https://t.co/BDLbslz9oG",
+    "publish_time": "2025-07-21T11:47:41"
+  },
+  {
+    "file_name": "dIx_tVDXUEtCMixj.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947145020718325761/vid/avc1/536x720/dIx_tVDXUEtCMixj.mp4?tag=21",
+    "read_time": "2025-07-21T13:01:06",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (73MB > 50MB)",
+      "timestamp": "2025-07-21T13:01:15",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 338657337,
-      "size_mb": 322.97,
-      "timestamp": "2025-07-21T12:02:00",
+      "size": 77032420,
+      "size_mb": 73.46,
+      "timestamp": "2025-07-21T13:01:15",
       "download_attempts": 0
     },
-    "full_text": "黑皮体育生 https://t.co/BDLbslz9oG",
-    "publish_time": "2025-07-21T11:47:41"
+    "full_text": "眼镜肌肉小叔 https://t.co/TGEHuvLnTM",
+    "publish_time": "2025-07-21T12:06:08"
+  },
+  {
+    "file_name": "DLqi5z7maX46LblK.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947146099304837120/vid/avc1/776x1378/DLqi5z7maX46LblK.mp4?tag=21",
+    "read_time": "2025-07-21T13:01:06",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (59MB > 50MB)",
+      "timestamp": "2025-07-21T13:01:21",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 62655824,
+      "size_mb": 59.75,
+      "timestamp": "2025-07-21T13:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "眼镜肌肉小叔2 https://t.co/b2qESuMOwz",
+    "publish_time": "2025-07-21T12:09:42"
+  },
+  {
+    "file_name": "hUY3aVcXcr67hH64.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947146993752846336/vid/avc1/368x640/hUY3aVcXcr67hH64.mp4?tag=21",
+    "read_time": "2025-07-21T13:01:06",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (59MB > 50MB)",
+      "timestamp": "2025-07-21T13:01:27",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 62900895,
+      "size_mb": 59.99,
+      "timestamp": "2025-07-21T13:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "体育生 https://t.co/aw0KaMykwY",
+    "publish_time": "2025-07-21T12:14:43"
+  },
+  {
+    "file_name": "bTlNynXv_QIjYKfB.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947149222551097344/vid/avc1/408x720/bTlNynXv_QIjYKfB.mp4?tag=21",
+    "read_time": "2025-07-21T13:01:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4266,
+      "timestamp": "2025-07-21T13:01:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2469008,
+      "size_mb": 2.35,
+      "timestamp": "2025-07-21T13:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "长发和短发差别差别好大 https://t.co/7coxPiQMpU",
+    "publish_time": "2025-07-21T12:19:52"
+  },
+  {
+    "file_name": "9fffHp_J31aNndhY.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947149222312292352/vid/avc1/408x720/9fffHp_J31aNndhY.mp4?tag=21",
+    "read_time": "2025-07-21T13:01:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4267,
+      "timestamp": "2025-07-21T13:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 12946476,
+      "size_mb": 12.35,
+      "timestamp": "2025-07-21T13:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "长发和短发差别差别好大 https://t.co/7coxPiQMpU",
+    "publish_time": "2025-07-21T12:19:52"
+  },
+  {
+    "file_name": "8804KNkjhBgA19qE.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947150290979016704/vid/avc1/552x726/8804KNkjhBgA19qE.mp4?tag=21",
+    "read_time": "2025-07-21T13:01:06",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (113MB > 50MB)",
+      "timestamp": "2025-07-21T13:01:45",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 119313893,
+      "size_mb": 113.79,
+      "timestamp": "2025-07-21T13:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "喜欢脱发帅哥的有福了 https://t.co/2i4XTAjkkT",
+    "publish_time": "2025-07-21T12:30:28"
+  },
+  {
+    "file_name": "q7MNI8zQ-vBRLmwt.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947157574287319040/vid/avc1/544x728/q7MNI8zQ-vBRLmwt.mp4?tag=21",
+    "read_time": "2025-07-21T13:01:06",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (56MB > 50MB)",
+      "timestamp": "2025-07-21T13:01:46",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 59350077,
+      "size_mb": 56.6,
+      "timestamp": "2025-07-21T13:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "喜欢他去床上拿内裤的那个角度 后侧链很棒 https://t.co/PMzyzmiltl",
+    "publish_time": "2025-07-21T12:54:53"
   }
 ]
