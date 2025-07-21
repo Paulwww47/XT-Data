@@ -388,5 +388,87 @@
     },
     "full_text": "https://t.co/cNS7yXnwnZ\n\n🈶️射 https://t.co/5GcFHDqcEU",
     "publish_time": "2025-07-21T08:17:06"
+  },
+  {
+    "file_name": "VKuVmTL0HIzyIogG.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947099146575347712/vid/avc1/1080x1920/VKuVmTL0HIzyIogG.mp4?tag=21",
+    "read_time": "2025-07-21T10:00:58",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (76MB > 50MB)",
+      "timestamp": "2025-07-21T10:01:06",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 80267095,
+      "size_mb": 76.55,
+      "timestamp": "2025-07-21T10:01:06",
+      "download_attempts": 0
+    },
+    "full_text": "hancross https://t.co/HEzb7Qcaoq",
+    "publish_time": "2025-07-21T09:17:51"
+  },
+  {
+    "file_name": "BsWKLqJm5j-qxNLM.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947106851692109824/vid/avc1/608x1080/BsWKLqJm5j-qxNLM.mp4?tag=21",
+    "read_time": "2025-07-21T10:00:58",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-07-21T10:01:29",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 18669395,
+      "size_mb": 17.8,
+      "timestamp": "2025-07-21T10:01:07",
+      "download_attempts": 0
+    },
+    "full_text": "阿超 https://t.co/uCLWXYBSAt",
+    "publish_time": "2025-07-21T09:48:25"
+  },
+  {
+    "file_name": "TPw1bYXiO-_tej2G.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947112565290467329/vid/avc1/720x1280/TPw1bYXiO-_tej2G.mp4?tag=21",
+    "read_time": "2025-07-21T10:00:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4256,
+      "timestamp": "2025-07-21T10:01:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 24085733,
+      "size_mb": 22.97,
+      "timestamp": "2025-07-21T10:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "阿超射精有点像机关枪，一股接一股喷的很快 https://t.co/QjF6CgsmXv",
+    "publish_time": "2025-07-21T09:53:55"
   }
 ]
