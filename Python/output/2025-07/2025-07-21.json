@@ -562,14 +562,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (86MB > 50MB)",
       "timestamp": "2025-07-21T11:08:23",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 90966041,
       "size_mb": 86.75,
-      "timestamp": "2025-07-21T11:08:23",
+      "timestamp": "2025-07-21T12:01:18",
       "download_attempts": 0
     },
     "full_text": "低体脂 翘鸡巴教练 https://t.co/uZRVEluVCS",
@@ -616,14 +616,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (55MB > 50MB)",
       "timestamp": "2025-07-21T11:08:35",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 58219093,
       "size_mb": 55.52,
-      "timestamp": "2025-07-21T11:08:35",
+      "timestamp": "2025-07-21T12:01:23",
       "download_attempts": 0
     },
     "full_text": "健美比赛前来一发 https://t.co/vA8wlzf6MM",
@@ -654,5 +654,113 @@
     },
     "full_text": "肌肉小帅 https://t.co/NbImMyXyZV",
     "publish_time": "2025-07-21T11:00:23"
+  },
+  {
+    "file_name": "GwWY-QrbcAAFKdv.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwWY-QrbcAAFKdv.jpg",
+    "read_time": "2025-07-21T12:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4264,
+      "timestamp": "2025-07-21T12:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 213566,
+      "size_mb": 0.2,
+      "timestamp": "2025-07-21T12:01:23",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/1baMhd6Bfy",
+    "publish_time": "2025-07-21T11:05:17"
+  },
+  {
+    "file_name": "GwWZ-81XQAUEw_8.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwWZ-81XQAUEw_8.jpg",
+    "read_time": "2025-07-21T12:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4265,
+      "timestamp": "2025-07-21T12:01:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 126155,
+      "size_mb": 0.12,
+      "timestamp": "2025-07-21T12:01:26",
+      "download_attempts": 0
+    },
+    "full_text": "越看新超人 越顺眼～ 尤其看了电影以后 [哇] \n就是为啥 超人的排片 我们这边周天就两场而且看的人那么少？？？？ https://t.co/cqLLFoqH6k",
+    "publish_time": "2025-07-21T11:09:15"
+  },
+  {
+    "file_name": "HErIswTGl2DX4wJP.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947130123636842497/vid/avc1/308x540/HErIswTGl2DX4wJP.mp4?tag=21",
+    "read_time": "2025-07-21T12:01:09",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (57MB > 50MB)",
+      "timestamp": "2025-07-21T12:01:33",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 60066635,
+      "size_mb": 57.28,
+      "timestamp": "2025-07-21T12:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "韩国肌肉帅 https://t.co/UmC0OGDmdg",
+    "publish_time": "2025-07-21T11:16:03"
+  },
+  {
+    "file_name": "YTVQlM0LmLyanZuq.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947133466618810370/vid/avc1/448x960/YTVQlM0LmLyanZuq.mp4?tag=21",
+    "read_time": "2025-07-21T12:01:09",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (322MB > 50MB)",
+      "timestamp": "2025-07-21T12:02:00",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 338657337,
+      "size_mb": 322.97,
+      "timestamp": "2025-07-21T12:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "黑皮体育生 https://t.co/BDLbslz9oG",
+    "publish_time": "2025-07-21T11:47:41"
   }
 ]
