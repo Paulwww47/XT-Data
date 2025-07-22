@@ -728,5 +728,85 @@
     },
     "full_text": "还是上海的弟弟更耐操 https://t.co/gRuXOwedmk",
     "publish_time": "2025-07-22T08:41:28"
+  },
+  {
+    "file_name": "GwbVb3CaMAA49xK.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwbVb3CaMAA49xK.jpg",
+    "read_time": "2025-07-22T11:01:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4321,
+      "timestamp": "2025-07-22T11:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 129873,
+      "size_mb": 0.12,
+      "timestamp": "2025-07-22T11:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ZnVVkdBuoT",
+    "publish_time": "2025-07-22T10:07:28"
+  },
+  {
+    "file_name": "GwbXvjGbEAQ2wrO.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwbXvjGbEAQ2wrO.jpg",
+    "read_time": "2025-07-22T11:01:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4322,
+      "timestamp": "2025-07-22T11:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 79538,
+      "size_mb": 0.08,
+      "timestamp": "2025-07-22T11:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4g0cEb3vHF",
+    "publish_time": "2025-07-22T10:17:32"
+  },
+  {
+    "file_name": "Gwbbhf7bEAAak_d.jpg",
+    "user": {
+      "screen_name": "lilei92872270",
+      "name": "travelrtail"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gwbbhf7bEAAak_d.jpg",
+    "read_time": "2025-07-22T11:01:37",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-07-22T11:02:01",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 163214,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-22T11:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Fu3zjAskM4",
+    "publish_time": "2025-07-22T10:34:04"
   }
 ]
