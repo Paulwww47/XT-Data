@@ -1946,14 +1946,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (53MB > 50MB)",
       "timestamp": "2025-07-22T22:01:43",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 55713742,
       "size_mb": 53.13,
-      "timestamp": "2025-07-22T22:01:43",
+      "timestamp": "2025-07-22T23:01:44",
       "download_attempts": 0
     },
     "full_text": "傻逼  看脚 https://t.co/KdRUDtyhIH",
