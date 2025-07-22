@@ -790,23 +790,127 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/Gwbbhf7bEAAak_d.jpg",
     "read_time": "2025-07-22T11:01:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4324,
+      "timestamp": "2025-07-22T12:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 163214,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-22T12:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Fu3zjAskM4",
+    "publish_time": "2025-07-22T10:34:04"
+  },
+  {
+    "file_name": "GwbsnKobEAIw1yT.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwbsnKobEAIw1yT.png",
+    "read_time": "2025-07-22T12:01:35",
     "is_uploaded": false,
     "upload_info": {
       "success": false,
       "error_type": "api_error",
       "message": "Timed out",
-      "timestamp": "2025-07-22T11:02:01",
+      "timestamp": "2025-07-22T12:01:56",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 163214,
-      "size_mb": 0.16,
-      "timestamp": "2025-07-22T11:01:41",
+      "size": 633569,
+      "size_mb": 0.6,
+      "timestamp": "2025-07-22T12:01:36",
       "download_attempts": 0
     },
-    "full_text": "https://t.co/Fu3zjAskM4",
-    "publish_time": "2025-07-22T10:34:04"
+    "full_text": "https://t.co/jw61xe5tWf",
+    "publish_time": "2025-07-22T11:48:46"
+  },
+  {
+    "file_name": "Gwbs07TbEAI0Soi.jpg",
+    "user": {
+      "screen_name": "silveron21",
+      "name": "Silveron 威倫"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gwbs07TbEAI0Soi.jpg",
+    "read_time": "2025-07-22T12:01:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4325,
+      "timestamp": "2025-07-22T12:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 140137,
+      "size_mb": 0.13,
+      "timestamp": "2025-07-22T12:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "好久沒更新了 🫦🫦\nLong time no X 🫦🫦 https://t.co/tVp3HzMACj",
+    "publish_time": "2025-07-22T11:49:41"
+  },
+  {
+    "file_name": "Gwbs07TbEAYuxEC.jpg",
+    "user": {
+      "screen_name": "silveron21",
+      "name": "Silveron 威倫"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gwbs07TbEAYuxEC.jpg",
+    "read_time": "2025-07-22T12:01:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4326,
+      "timestamp": "2025-07-22T12:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 139293,
+      "size_mb": 0.13,
+      "timestamp": "2025-07-22T12:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "好久沒更新了 🫦🫦\nLong time no X 🫦🫦 https://t.co/tVp3HzMACj",
+    "publish_time": "2025-07-22T11:49:41"
+  },
+  {
+    "file_name": "Gwbuqk_acAACOG4.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gwbuqk_acAACOG4.jpg",
+    "read_time": "2025-07-22T12:01:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4327,
+      "timestamp": "2025-07-22T12:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 81186,
+      "size_mb": 0.08,
+      "timestamp": "2025-07-22T12:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Q0BLisJS49",
+    "publish_time": "2025-07-22T11:57:47"
   }
 ]
