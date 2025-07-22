@@ -1840,14 +1840,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (114MB > 50MB)",
       "timestamp": "2025-07-22T21:02:18",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 119622753,
       "size_mb": 114.08,
-      "timestamp": "2025-07-22T21:02:18",
+      "timestamp": "2025-07-22T22:01:38",
       "download_attempts": 0
     },
     "full_text": "反差 长得很帅 身材一般\n（我更喜欢身材好长得不好看的反差） https://t.co/efDRT3003Z",
@@ -1878,5 +1878,137 @@
     },
     "full_text": "淋雨 https://t.co/ESD5mEutKm",
     "publish_time": "2025-07-22T20:53:47"
+  },
+  {
+    "file_name": "3JZXQgFtDbIJ3-NF.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947643337487618049/vid/avc1/720x720/3JZXQgFtDbIJ3-NF.mp4?tag=21",
+    "read_time": "2025-07-22T22:01:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4364,
+      "timestamp": "2025-07-22T22:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1296219,
+      "size_mb": 1.24,
+      "timestamp": "2025-07-22T22:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "也是大树挂辣椒（看出来是谁自己知道就行了） https://t.co/4QovbV76Q5",
+    "publish_time": "2025-07-22T21:02:53"
+  },
+  {
+    "file_name": "GwdtZYobEAQf8Dj.jpg",
+    "user": {
+      "screen_name": "brooklyn29540",
+      "name": "不要问我从哪里来"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwdtZYobEAQf8Dj.jpg",
+    "read_time": "2025-07-22T22:01:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4365,
+      "timestamp": "2025-07-22T22:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 168699,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-22T22:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "新疆人真他妈的大，想看的给我转，好吧 https://t.co/2RMfjxgDsq",
+    "publish_time": "2025-07-22T21:11:24"
+  },
+  {
+    "file_name": "LWAgFTn5qU-IeNPK.mp4",
+    "user": {
+      "screen_name": "rrrrrrig_",
+      "name": "嗷呜有劲"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947647299653447682/vid/avc1/720x1280/LWAgFTn5qU-IeNPK.mp4?tag=21",
+    "read_time": "2025-07-22T22:01:37",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (53MB > 50MB)",
+      "timestamp": "2025-07-22T22:01:43",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 55713742,
+      "size_mb": 53.13,
+      "timestamp": "2025-07-22T22:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "傻逼  看脚 https://t.co/KdRUDtyhIH",
+    "publish_time": "2025-07-22T21:19:56"
+  },
+  {
+    "file_name": "Gwd4r9nbEAAmrKv.jpg",
+    "user": {
+      "screen_name": "qiaojiesheng777",
+      "name": "桥诘聖"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gwd4r9nbEAAmrKv.jpg",
+    "read_time": "2025-07-22T22:01:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4366,
+      "timestamp": "2025-07-22T22:01:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 184849,
+      "size_mb": 0.18,
+      "timestamp": "2025-07-22T22:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "溯溪☺️ https://t.co/iBupeHahex",
+    "publish_time": "2025-07-22T22:00:47"
+  },
+  {
+    "file_name": "Gwd4r9naAAA0KqU.jpg",
+    "user": {
+      "screen_name": "qiaojiesheng777",
+      "name": "桥诘聖"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gwd4r9naAAA0KqU.jpg",
+    "read_time": "2025-07-22T22:01:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4367,
+      "timestamp": "2025-07-22T22:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 206849,
+      "size_mb": 0.2,
+      "timestamp": "2025-07-22T22:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "溯溪☺️ https://t.co/iBupeHahex",
+    "publish_time": "2025-07-22T22:00:47"
   }
 ]
