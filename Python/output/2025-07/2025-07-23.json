@@ -138,23 +138,75 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GwfUoZjbwAEIF2C.jpg",
     "read_time": "2025-07-23T05:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4378,
+      "timestamp": "2025-07-23T06:00:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 142314,
+      "size_mb": 0.14,
+      "timestamp": "2025-07-23T06:00:44",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/3aaeTaC5im",
+    "publish_time": "2025-07-23T04:42:26"
+  },
+  {
+    "file_name": "Gwfl6CAbEAIpptN.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gwfl6CAbEAIpptN.jpg",
+    "read_time": "2025-07-23T06:00:44",
     "is_uploaded": false,
     "upload_info": {
       "success": false,
       "error_type": "api_error",
       "message": "Timed out",
-      "timestamp": "2025-07-23T05:01:29",
+      "timestamp": "2025-07-23T06:01:05",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 142314,
-      "size_mb": 0.14,
-      "timestamp": "2025-07-23T05:01:09",
+      "size": 94931,
+      "size_mb": 0.09,
+      "timestamp": "2025-07-23T06:00:45",
       "download_attempts": 0
     },
-    "full_text": "https://t.co/3aaeTaC5im",
-    "publish_time": "2025-07-23T04:42:26"
+    "full_text": "https://t.co/DnTqN0dgBS",
+    "publish_time": "2025-07-23T05:57:56"
+  },
+  {
+    "file_name": "GwfmdJbbEAQfHdG.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwfmdJbbEAQfHdG.jpg",
+    "read_time": "2025-07-23T06:00:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4379,
+      "timestamp": "2025-07-23T06:01:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 94529,
+      "size_mb": 0.09,
+      "timestamp": "2025-07-23T06:01:05",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/drxsGQEtIh",
+    "publish_time": "2025-07-23T06:00:19"
   }
 ]
