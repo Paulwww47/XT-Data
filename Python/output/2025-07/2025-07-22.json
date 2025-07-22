@@ -1812,17 +1812,71 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (82MB > 50MB)",
       "timestamp": "2025-07-22T20:01:39",
+      "notification_sent": true
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 86470028,
+      "size_mb": 82.46,
+      "timestamp": "2025-07-22T21:02:08",
+      "download_attempts": 0
+    },
+    "full_text": "韩国肌肉男 \n大叔感的少年 https://t.co/GE9fxjg1v3",
+    "publish_time": "2025-07-22T19:09:59"
+  },
+  {
+    "file_name": "-H4EZxZr35BOOoOi.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947627751092948993/vid/avc1/608x1080/-H4EZxZr35BOOoOi.mp4?tag=21",
+    "read_time": "2025-07-22T21:02:00",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (114MB > 50MB)",
+      "timestamp": "2025-07-22T21:02:18",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 86470028,
-      "size_mb": 82.46,
-      "timestamp": "2025-07-22T20:01:39",
+      "size": 119622753,
+      "size_mb": 114.08,
+      "timestamp": "2025-07-22T21:02:18",
       "download_attempts": 0
     },
-    "full_text": "韩国肌肉男 \n大叔感的少年 https://t.co/GE9fxjg1v3",
-    "publish_time": "2025-07-22T19:09:59"
+    "full_text": "反差 长得很帅 身材一般\n（我更喜欢身材好长得不好看的反差） https://t.co/efDRT3003Z",
+    "publish_time": "2025-07-22T20:12:12"
+  },
+  {
+    "file_name": "GwdpR1YaUAA-g5O.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwdpR1YaUAA-g5O.jpg",
+    "read_time": "2025-07-22T21:02:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4363,
+      "timestamp": "2025-07-22T21:02:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 140777,
+      "size_mb": 0.13,
+      "timestamp": "2025-07-22T21:02:18",
+      "download_attempts": 0
+    },
+    "full_text": "淋雨 https://t.co/ESD5mEutKm",
+    "publish_time": "2025-07-22T20:53:47"
   }
 ]
