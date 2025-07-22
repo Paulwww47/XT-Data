@@ -282,5 +282,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1947446243468382324",
     "fullText": "https://t.co/FYiutAgqyb",
     "publishTime": "2025-07-22T07:59:00"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gwa50lwbEAAxL2q.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1947448206910267431",
+    "fullText": "kapaopeh https://t.co/WJ1RjfCRUz",
+    "publishTime": "2025-07-22T08:06:49"
+  },
+  {
+    "user": {
+      "screenName": "muchuanze",
+      "name": "沐川泽"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwbBvT6a4AAx5a_.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/muchuanze/status/1947456930328543611",
+    "fullText": "还是上海的弟弟更耐操 https://t.co/gRuXOwedmk",
+    "publishTime": "2025-07-22T08:41:28"
   }
 ]
