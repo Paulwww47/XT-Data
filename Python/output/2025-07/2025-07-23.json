@@ -1130,20 +1130,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GwhKH7AbEAA-XFc.jpg",
     "read_time": "2025-07-23T14:00:47",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-07-23T14:01:17",
-      "notification_sent": false
+      "success": true,
+      "message_id": 4424,
+      "timestamp": "2025-07-23T15:00:38"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 255280,
       "size_mb": 0.24,
-      "timestamp": "2025-07-23T14:00:57",
+      "timestamp": "2025-07-23T15:00:37",
       "download_attempts": 0
     },
     "full_text": "https://t.co/wR2uGPLKN2",
@@ -1356,5 +1354,187 @@
     },
     "full_text": "https://t.co/P7SsCAisPO",
     "publish_time": "2025-07-23T13:18:43"
+  },
+  {
+    "file_name": "GwhU-1BbEAEdgDY.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwhU-1BbEAEdgDY.jpg",
+    "read_time": "2025-07-23T15:00:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4425,
+      "timestamp": "2025-07-23T15:00:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 168460,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-23T15:00:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/8QEhzWmw86",
+    "publish_time": "2025-07-23T14:03:12"
+  },
+  {
+    "file_name": "GwhWleObEAA-Mfr.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwhWleObEAA-Mfr.jpg",
+    "read_time": "2025-07-23T15:00:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4426,
+      "timestamp": "2025-07-23T15:00:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 296552,
+      "size_mb": 0.28,
+      "timestamp": "2025-07-23T15:00:55",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/BeXA5R7nUt",
+    "publish_time": "2025-07-23T14:10:13"
+  },
+  {
+    "file_name": "GwhWleNbEAY9PrT.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwhWleNbEAY9PrT.jpg",
+    "read_time": "2025-07-23T15:00:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4427,
+      "timestamp": "2025-07-23T15:00:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 204987,
+      "size_mb": 0.2,
+      "timestamp": "2025-07-23T15:00:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/BeXA5R7nUt",
+    "publish_time": "2025-07-23T14:10:13"
+  },
+  {
+    "file_name": "GwhWleNbsAIqBER.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwhWleNbsAIqBER.jpg",
+    "read_time": "2025-07-23T15:00:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4428,
+      "timestamp": "2025-07-23T15:01:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 106180,
+      "size_mb": 0.1,
+      "timestamp": "2025-07-23T15:00:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/BeXA5R7nUt",
+    "publish_time": "2025-07-23T14:10:13"
+  },
+  {
+    "file_name": "GwhXYmhbEAMHEnS.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwhXYmhbEAMHEnS.jpg",
+    "read_time": "2025-07-23T15:00:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4429,
+      "timestamp": "2025-07-23T15:01:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 137566,
+      "size_mb": 0.13,
+      "timestamp": "2025-07-23T15:01:00",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/nSDnLV2Opf",
+    "publish_time": "2025-07-23T14:13:42"
+  },
+  {
+    "file_name": "Gwhh8t_bEAAUOhK.jpg",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gwhh8t_bEAAUOhK.jpg",
+    "read_time": "2025-07-23T15:00:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4430,
+      "timestamp": "2025-07-23T15:01:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 92462,
+      "size_mb": 0.09,
+      "timestamp": "2025-07-23T15:01:01",
+      "download_attempts": 0
+    },
+    "full_text": "给宝子们搞一波福利💗凡是今天进我私密群👗的，将不收取任何费用， 24h免费进入观看我的所有视频完整版和写真！下方链接自取⬇️名额有限                                                                               电报私信👉：https://t.co/h0oek78jvY私信暗号👉: 777 https://t.co/dQj1g94NX4",
+    "publish_time": "2025-07-23T15:00:05"
+  },
+  {
+    "file_name": "h6olrM6x6q8he6my.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1947914534615920640/vid/avc1/720x1030/h6olrM6x6q8he6my.mp4?tag=21",
+    "read_time": "2025-07-23T15:00:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4431,
+      "timestamp": "2025-07-23T15:01:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1223881,
+      "size_mb": 1.17,
+      "timestamp": "2025-07-23T15:01:02",
+      "download_attempts": 0
+    },
+    "full_text": "给宝子们搞一波福利💗凡是今天进我私密群👗的，将不收取任何费用， 24h免费进入观看我的所有视频完整版和写真！下方链接自取⬇️名额有限                                                                               电报私信👉：https://t.co/h0oek78jvY私信暗号👉: 777 https://t.co/dQj1g94NX4",
+    "publish_time": "2025-07-23T15:00:05"
   }
 ]
