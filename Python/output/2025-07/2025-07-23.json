@@ -638,14 +638,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (64MB > 50MB)",
       "timestamp": "2025-07-23T12:01:11",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 67736153,
       "size_mb": 64.6,
-      "timestamp": "2025-07-23T12:01:11",
+      "timestamp": "2025-07-23T13:00:47",
       "download_attempts": 0
     },
     "full_text": "二选一 大家更喜欢哪个 https://t.co/HKh6MQkete",
@@ -666,14 +666,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (115MB > 50MB)",
       "timestamp": "2025-07-23T12:01:14",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 120731232,
       "size_mb": 115.14,
-      "timestamp": "2025-07-23T12:01:14",
+      "timestamp": "2025-07-23T13:00:48",
       "download_attempts": 0
     },
     "full_text": "这两个大家更喜欢哪个 https://t.co/guLW3868Se",
@@ -860,5 +860,161 @@
     },
     "full_text": "https://t.co/4k55yqFSeF",
     "publish_time": "2025-07-23T11:31:50"
+  },
+  {
+    "file_name": "Gwg-bp5bEAU2AJF.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gwg-bp5bEAU2AJF.jpg",
+    "read_time": "2025-07-23T13:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4405,
+      "timestamp": "2025-07-23T13:00:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 89408,
+      "size_mb": 0.09,
+      "timestamp": "2025-07-23T13:00:48",
+      "download_attempts": 0
+    },
+    "full_text": "最好的礼貌就是不要多管闲事 https://t.co/PObJMmqxZx",
+    "publish_time": "2025-07-23T12:24:42"
+  },
+  {
+    "file_name": "Gwg-bodbEAIe1wQ.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gwg-bodbEAIe1wQ.jpg",
+    "read_time": "2025-07-23T13:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4406,
+      "timestamp": "2025-07-23T13:00:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 104742,
+      "size_mb": 0.1,
+      "timestamp": "2025-07-23T13:00:50",
+      "download_attempts": 0
+    },
+    "full_text": "最好的礼貌就是不要多管闲事 https://t.co/PObJMmqxZx",
+    "publish_time": "2025-07-23T12:24:42"
+  },
+  {
+    "file_name": "Gwg-eZ5bEAQAZM3.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gwg-eZ5bEAQAZM3.jpg",
+    "read_time": "2025-07-23T13:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4407,
+      "timestamp": "2025-07-23T13:00:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 147111,
+      "size_mb": 0.14,
+      "timestamp": "2025-07-23T13:00:51",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/TnAQmtNR5m",
+    "publish_time": "2025-07-23T12:24:52"
+  },
+  {
+    "file_name": "Gwg_LL9bEAAF3iB.jpg",
+    "user": {
+      "screen_name": "Wei_danda",
+      "name": "Wei蛋蛋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gwg_LL9bEAAF3iB.jpg",
+    "read_time": "2025-07-23T13:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4408,
+      "timestamp": "2025-07-23T13:00:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 155097,
+      "size_mb": 0.15,
+      "timestamp": "2025-07-23T13:00:53",
+      "download_attempts": 0
+    },
+    "full_text": "想被取…… https://t.co/sX3m8uVo4g",
+    "publish_time": "2025-07-23T12:27:56"
+  },
+  {
+    "file_name": "GwhDQfNbEAASh2S.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwhDQfNbEAASh2S.jpg",
+    "read_time": "2025-07-23T13:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4409,
+      "timestamp": "2025-07-23T13:00:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 180801,
+      "size_mb": 0.17,
+      "timestamp": "2025-07-23T13:00:54",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/pfQFaacK2b",
+    "publish_time": "2025-07-23T12:45:46"
+  },
+  {
+    "file_name": "GwhEPNMbEAEqJuI.jpg",
+    "user": {
+      "screen_name": "Louiewe123",
+      "name": "Louiewe卤蛋头"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwhEPNMbEAEqJuI.jpg",
+    "read_time": "2025-07-23T13:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4410,
+      "timestamp": "2025-07-23T13:00:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 156801,
+      "size_mb": 0.15,
+      "timestamp": "2025-07-23T13:00:55",
+      "download_attempts": 0
+    },
+    "full_text": "🏨 https://t.co/xxkLOge7Re",
+    "publish_time": "2025-07-23T12:50:06"
   }
 ]
