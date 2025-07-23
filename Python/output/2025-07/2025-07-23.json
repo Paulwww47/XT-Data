@@ -2248,23 +2248,99 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GwiYxoHaQAAU8nc.jpg",
     "read_time": "2025-07-23T19:00:42",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-07-23T19:01:06",
-      "notification_sent": false
+      "success": true,
+      "message_id": 4460,
+      "timestamp": "2025-07-23T20:00:40"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 97222,
       "size_mb": 0.09,
-      "timestamp": "2025-07-23T19:00:46",
+      "timestamp": "2025-07-23T20:00:39",
       "download_attempts": 0
     },
     "full_text": "quebaner https://t.co/mBiUFRJeHB",
     "publish_time": "2025-07-23T18:59:23"
+  },
+  {
+    "file_name": "Gwiecm9aQAAxjKg.mp4",
+    "user": {
+      "screen_name": "mingtianyou_",
+      "name": "阿田"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/Gwiecm9aQAAxjKg.mp4",
+    "read_time": "2025-07-23T20:00:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4461,
+      "timestamp": "2025-07-23T20:00:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 52964,
+      "size_mb": 0.05,
+      "timestamp": "2025-07-23T20:00:40",
+      "download_attempts": 0
+    },
+    "full_text": "😆 https://t.co/frnCrrmDy3",
+    "publish_time": "2025-07-23T19:24:13"
+  },
+  {
+    "file_name": "GwimGzga4AAPRu6.jpg",
+    "user": {
+      "screen_name": "S20250608",
+      "name": "BOOM"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwimGzga4AAPRu6.jpg",
+    "read_time": "2025-07-23T20:00:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4462,
+      "timestamp": "2025-07-23T20:00:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 126576,
+      "size_mb": 0.12,
+      "timestamp": "2025-07-23T20:00:41",
+      "download_attempts": 0
+    },
+    "full_text": "#正装 #正装直男 \n关注👉@S20250608 https://t.co/9nwPY7N9MC",
+    "publish_time": "2025-07-23T19:57:38"
+  },
+  {
+    "file_name": "GwimGzTbMAEvtEn.jpg",
+    "user": {
+      "screen_name": "S20250608",
+      "name": "BOOM"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwimGzTbMAEvtEn.jpg",
+    "read_time": "2025-07-23T20:00:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4463,
+      "timestamp": "2025-07-23T20:00:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 137300,
+      "size_mb": 0.13,
+      "timestamp": "2025-07-23T20:00:43",
+      "download_attempts": 0
+    },
+    "full_text": "#正装 #正装直男 \n关注👉@S20250608 https://t.co/9nwPY7N9MC",
+    "publish_time": "2025-07-23T19:57:38"
   }
 ]

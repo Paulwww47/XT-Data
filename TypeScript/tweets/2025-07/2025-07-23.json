@@ -846,5 +846,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1947974822052684009",
     "fullText": "quebaner https://t.co/mBiUFRJeHB",
     "publishTime": "2025-07-23T18:59:23"
+  },
+  {
+    "user": {
+      "screenName": "mingtianyou_",
+      "name": "阿田"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/Gwiecm9aQAAxjKg.mp4"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/mingtianyou_/status/1947981069867012570",
+    "fullText": "😆 https://t.co/frnCrrmDy3",
+    "publishTime": "2025-07-23T19:24:13"
+  },
+  {
+    "user": {
+      "screenName": "S20250608",
+      "name": "BOOM"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwimGzga4AAPRu6.jpg",
+      "https://pbs.twimg.com/media/GwimGzTbMAEvtEn.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/S20250608/status/1947989481568518166",
+    "fullText": "#正装 #正装直男 \n关注👉@S20250608 https://t.co/9nwPY7N9MC",
+    "publishTime": "2025-07-23T19:57:38"
   }
 ]
