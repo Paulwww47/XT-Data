@@ -2368,5 +2368,31 @@
     },
     "full_text": "🫢 https://t.co/Na8PsZBjol",
     "publish_time": "2025-07-23T20:20:31"
+  },
+  {
+    "file_name": "GwjA_fqaoAE2qIu.jpg",
+    "user": {
+      "screen_name": "liangguai1",
+      "name": "亮拐"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwjA_fqaoAE2qIu.jpg",
+    "read_time": "2025-07-23T22:00:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4465,
+      "timestamp": "2025-07-23T22:00:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 63485,
+      "size_mb": 0.06,
+      "timestamp": "2025-07-23T22:00:55",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/fHBbPBWaJs",
+    "publish_time": "2025-07-23T21:55:07"
   }
 ]
