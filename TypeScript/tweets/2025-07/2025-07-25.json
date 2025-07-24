@@ -68,5 +68,19 @@
     "tweetUrl": "https://x.com/youdi/status/1948418717668581433",
     "fullText": "https://t.co/V07P00nBNK",
     "publishTime": "2025-07-25T00:23:16"
+  },
+  {
+    "user": {
+      "screenName": "S20250608",
+      "name": "BOOM"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1948432002577039362/vid/avc1/360x640/kH4kYGE8cEP37Ac7.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/S20250608/status/1948432069446795356",
+    "fullText": "这样的视频这位博主要价200元，你们觉得值吗？ https://t.co/pro5tTzUZR",
+    "publishTime": "2025-07-25T01:16:20"
   }
 ]

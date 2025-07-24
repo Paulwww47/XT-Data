@@ -128,5 +128,31 @@
     },
     "full_text": "https://t.co/V07P00nBNK",
     "publish_time": "2025-07-25T00:23:16"
+  },
+  {
+    "file_name": "kH4kYGE8cEP37Ac7.mp4",
+    "user": {
+      "screen_name": "S20250608",
+      "name": "BOOM"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1948432002577039362/vid/avc1/360x640/kH4kYGE8cEP37Ac7.mp4?tag=21",
+    "read_time": "2025-07-25T02:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4536,
+      "timestamp": "2025-07-25T02:00:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2375758,
+      "size_mb": 2.27,
+      "timestamp": "2025-07-25T02:00:47",
+      "download_attempts": 0
+    },
+    "full_text": "这样的视频这位博主要价200元，你们觉得值吗？ https://t.co/pro5tTzUZR",
+    "publish_time": "2025-07-25T01:16:20"
   }
 ]
