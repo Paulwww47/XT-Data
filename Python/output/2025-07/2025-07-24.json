@@ -1580,20 +1580,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1948409960326676480/vid/avc1/946x532/KYGzExSTlbD_lX_Z.mp4?tag=21",
     "read_time": "2025-07-25T00:00:40",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-07-25T00:01:08",
-      "notification_sent": false
+      "success": true,
+      "message_id": 4530,
+      "timestamp": "2025-07-25T01:00:47"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 3360954,
       "size_mb": 3.21,
-      "timestamp": "2025-07-25T00:00:47",
+      "timestamp": "2025-07-25T01:00:44",
       "download_attempts": 0
     },
     "full_text": "开滋！ https://t.co/j4VE979p3q",
