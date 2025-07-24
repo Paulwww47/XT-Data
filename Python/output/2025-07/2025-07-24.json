@@ -1168,5 +1168,117 @@
     },
     "full_text": "hwoooonn https://t.co/lt6W2hdGbR",
     "publish_time": "2025-07-24T18:49:40"
+  },
+  {
+    "file_name": "vPGo1dKnymhis0Ck.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1948320663489368064/vid/avc1/1920x1080/vPGo1dKnymhis0Ck.mp4?tag=21",
+    "read_time": "2025-07-24T20:01:04",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (269MB > 50MB)",
+      "timestamp": "2025-07-24T20:01:32",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 282462132,
+      "size_mb": 269.38,
+      "timestamp": "2025-07-24T20:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "chiafu https://t.co/tLqDRYqQ6j",
+    "publish_time": "2025-07-24T19:05:08"
+  },
+  {
+    "file_name": "Sok7wT65rx-g_maL.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1948320676416217088/vid/avc1/1920x1080/Sok7wT65rx-g_maL.mp4?tag=21",
+    "read_time": "2025-07-24T20:01:04",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (246MB > 50MB)",
+      "timestamp": "2025-07-24T20:01:56",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 258397333,
+      "size_mb": 246.43,
+      "timestamp": "2025-07-24T20:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "chiafu https://t.co/tLqDRYqQ6j",
+    "publish_time": "2025-07-24T19:05:08"
+  },
+  {
+    "file_name": "Ib3M-F_AoXxSHoXA.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1948320738932404224/vid/avc1/1920x1080/Ib3M-F_AoXxSHoXA.mp4?tag=21",
+    "read_time": "2025-07-24T20:01:04",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (345MB > 50MB)",
+      "timestamp": "2025-07-24T20:02:32",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 361842741,
+      "size_mb": 345.08,
+      "timestamp": "2025-07-24T20:02:32",
+      "download_attempts": 0
+    },
+    "full_text": "chiafu https://t.co/tLqDRYqQ6j",
+    "publish_time": "2025-07-24T19:05:08"
+  },
+  {
+    "file_name": "HZ5ZTgn0xNrROko6.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1948338918228668417/vid/avc1/1280x720/HZ5ZTgn0xNrROko6.mp4?tag=21",
+    "read_time": "2025-07-24T20:01:04",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (156MB > 50MB)",
+      "timestamp": "2025-07-24T20:02:46",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 164511612,
+      "size_mb": 156.89,
+      "timestamp": "2025-07-24T20:02:46",
+      "download_attempts": 0
+    },
+    "full_text": "dothebest https://t.co/jJCK6EXfjd",
+    "publish_time": "2025-07-24T19:47:11"
   }
 ]

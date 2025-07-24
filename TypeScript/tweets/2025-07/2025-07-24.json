@@ -525,5 +525,35 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1948334762524828009",
     "fullText": "hwoooonn https://t.co/lt6W2hdGbR",
     "publishTime": "2025-07-24T18:49:40"
+  },
+  {
+    "user": {
+      "screenName": "maletease",
+      "name": "MaleTease"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1948320663489368064/vid/avc1/1920x1080/vPGo1dKnymhis0Ck.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/1948320676416217088/vid/avc1/1920x1080/Sok7wT65rx-g_maL.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/1948320738932404224/vid/avc1/1920x1080/Ib3M-F_AoXxSHoXA.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/maletease/status/1948338656768401894",
+    "fullText": "chiafu https://t.co/tLqDRYqQ6j",
+    "publishTime": "2025-07-24T19:05:08"
+  },
+  {
+    "user": {
+      "screenName": "maletease",
+      "name": "MaleTease"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1948338918228668417/vid/avc1/1280x720/HZ5ZTgn0xNrROko6.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/maletease/status/1948349236724093012",
+    "fullText": "dothebest https://t.co/jJCK6EXfjd",
+    "publishTime": "2025-07-24T19:47:11"
   }
 ]
