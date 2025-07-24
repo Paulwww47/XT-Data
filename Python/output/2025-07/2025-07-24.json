@@ -1296,14 +1296,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (65MB > 50MB)",
       "timestamp": "2025-07-24T21:02:01",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 68582508,
       "size_mb": 65.41,
-      "timestamp": "2025-07-24T21:02:01",
+      "timestamp": "2025-07-24T22:00:42",
       "download_attempts": 0
     },
     "full_text": "反差  大肌肉和薄肌 大家更喜欢哪个 https://t.co/jMuODCcaej",
@@ -1324,17 +1324,121 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (63MB > 50MB)",
       "timestamp": "2025-07-24T21:02:07",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 66836998,
       "size_mb": 63.74,
-      "timestamp": "2025-07-24T21:02:07",
+      "timestamp": "2025-07-24T22:00:43",
       "download_attempts": 0
     },
     "full_text": "反差  大肌肉和薄肌 大家更喜欢哪个 https://t.co/jMuODCcaej",
     "publish_time": "2025-07-24T20:15:32"
+  },
+  {
+    "file_name": "GwoAmEjaYAAbiW9.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwoAmEjaYAAbiW9.jpg",
+    "read_time": "2025-07-24T22:00:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4520,
+      "timestamp": "2025-07-24T22:00:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 139701,
+      "size_mb": 0.13,
+      "timestamp": "2025-07-24T22:00:44",
+      "download_attempts": 0
+    },
+    "full_text": "累糊了😮‍💨 https://t.co/01rDRE0z30",
+    "publish_time": "2025-07-24T21:11:30"
+  },
+  {
+    "file_name": "GwoAmEUbIAAebNe.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwoAmEUbIAAebNe.jpg",
+    "read_time": "2025-07-24T22:00:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4521,
+      "timestamp": "2025-07-24T22:00:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 142422,
+      "size_mb": 0.14,
+      "timestamp": "2025-07-24T22:00:45",
+      "download_attempts": 0
+    },
+    "full_text": "累糊了😮‍💨 https://t.co/01rDRE0z30",
+    "publish_time": "2025-07-24T21:11:30"
+  },
+  {
+    "file_name": "GwoAmESbgAAWX77.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwoAmESbgAAWX77.jpg",
+    "read_time": "2025-07-24T22:00:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4522,
+      "timestamp": "2025-07-24T22:00:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 132775,
+      "size_mb": 0.13,
+      "timestamp": "2025-07-24T22:00:47",
+      "download_attempts": 0
+    },
+    "full_text": "累糊了😮‍💨 https://t.co/01rDRE0z30",
+    "publish_time": "2025-07-24T21:11:30"
+  },
+  {
+    "file_name": "GwoBzFPbcAAvtYE.jpg",
+    "user": {
+      "screen_name": "needcuminside",
+      "name": "Luke（"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwoBzFPbcAAvtYE.jpg",
+    "read_time": "2025-07-24T22:00:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4523,
+      "timestamp": "2025-07-24T22:00:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 79997,
+      "size_mb": 0.08,
+      "timestamp": "2025-07-24T22:00:48",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4FvbMJSAOy",
+    "publish_time": "2025-07-24T21:16:44"
   }
 ]
