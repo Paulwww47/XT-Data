@@ -96,5 +96,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1948860068096868510",
     "fullText": "double.k_seok https://t.co/jyQloSyW0A",
     "publishTime": "2025-07-26T05:37:02"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwvFNOpbUAAPjxj.jpg",
+      "https://pbs.twimg.com/media/GwvFNOrbgAAJO3R.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1948868099966411184",
+    "fullText": "khet_kang https://t.co/QR3MN3jAOs",
+    "publishTime": "2025-07-26T06:08:57"
+  },
+  {
+    "user": {
+      "screenName": "LaFei2531",
+      "name": "小熊硬糖"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwvMY3LbIAADlQH.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/LaFei2531/status/1948876004430373241",
+    "fullText": "好久好久好久没有doi了 https://t.co/aKm32ny6fr",
+    "publishTime": "2025-07-26T06:40:22"
   }
 ]
