@@ -1194,5 +1194,31 @@
     },
     "full_text": "https://t.co/SpFyoVSELP",
     "publish_time": "2025-07-25T15:17:35"
+  },
+  {
+    "file_name": "GwsKw9GbgAElei-.jpg",
+    "user": {
+      "screen_name": "SZionbaba",
+      "name": "zionbaba"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwsKw9GbgAElei-.jpg",
+    "read_time": "2025-07-25T17:01:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4578,
+      "timestamp": "2025-07-25T17:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 107565,
+      "size_mb": 0.1,
+      "timestamp": "2025-07-25T17:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "这么大一包\n喉咙会难受吧？ https://t.co/IGo9wGxUMf",
+    "publish_time": "2025-07-25T16:34:24"
   }
 ]
