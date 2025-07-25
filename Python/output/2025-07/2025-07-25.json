@@ -1308,23 +1308,203 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GwsedfzbgAUpSe4.png",
     "read_time": "2025-07-25T18:01:06",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-07-25T18:01:31",
-      "notification_sent": false
+      "success": true,
+      "message_id": 4583,
+      "timestamp": "2025-07-25T19:01:05"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 468963,
       "size_mb": 0.45,
-      "timestamp": "2025-07-25T18:01:11",
+      "timestamp": "2025-07-25T19:01:04",
       "download_attempts": 0
     },
     "full_text": "https://t.co/9H9Ha6hlT0",
     "publish_time": "2025-07-25T18:00:28"
+  },
+  {
+    "file_name": "GwsezU-aEAAnvuA.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwsezU-aEAAnvuA.jpg",
+    "read_time": "2025-07-25T19:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4584,
+      "timestamp": "2025-07-25T19:01:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 73024,
+      "size_mb": 0.07,
+      "timestamp": "2025-07-25T19:01:05",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/GQrS3pWsQe",
+    "publish_time": "2025-07-25T18:02:01"
+  },
+  {
+    "file_name": "Gwse71GbgAUm2jY.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gwse71GbgAUm2jY.jpg",
+    "read_time": "2025-07-25T19:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4585,
+      "timestamp": "2025-07-25T19:01:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 61069,
+      "size_mb": 0.06,
+      "timestamp": "2025-07-25T19:01:06",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/0jPkIqaIT7",
+    "publish_time": "2025-07-25T18:02:34"
+  },
+  {
+    "file_name": "GwshvXJbgAIj4dB.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwshvXJbgAIj4dB.jpg",
+    "read_time": "2025-07-25T19:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4586,
+      "timestamp": "2025-07-25T19:01:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 270929,
+      "size_mb": 0.26,
+      "timestamp": "2025-07-25T19:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/T36k29x12J",
+    "publish_time": "2025-07-25T18:14:46"
+  },
+  {
+    "file_name": "GwsiYwebgAMbxwm.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwsiYwebgAMbxwm.jpg",
+    "read_time": "2025-07-25T19:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4587,
+      "timestamp": "2025-07-25T19:01:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 168191,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-25T19:01:09",
+      "download_attempts": 0
+    },
+    "full_text": "怎么这么可爱？ https://t.co/dDUNCXr2UR",
+    "publish_time": "2025-07-25T18:17:37"
+  },
+  {
+    "file_name": "iE-r2rIGlKFUp1Ug.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1948690117000081408/vid/avc1/720x1272/iE-r2rIGlKFUp1Ug.mp4?tag=21",
+    "read_time": "2025-07-25T19:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4588,
+      "timestamp": "2025-07-25T19:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2006872,
+      "size_mb": 1.91,
+      "timestamp": "2025-07-25T19:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "欢迎来到我的私人空间——今天开通电报，可观看📷我的所有视频和写真 。（今日无需任何门槛粉丝福利) 电报私信我 : https://t.co/7AeIjBOsK4\n\n暗号：MMMM https://t.co/9OJWTzW20Y",
+    "publish_time": "2025-07-25T18:22:19"
+  },
+  {
+    "file_name": "-RJDHduZN8e8ldBG.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1948690117004328960/vid/avc1/720x1272/-RJDHduZN8e8ldBG.mp4?tag=21",
+    "read_time": "2025-07-25T19:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4589,
+      "timestamp": "2025-07-25T19:01:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1082210,
+      "size_mb": 1.03,
+      "timestamp": "2025-07-25T19:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "欢迎来到我的私人空间——今天开通电报，可观看📷我的所有视频和写真 。（今日无需任何门槛粉丝福利) 电报私信我 : https://t.co/7AeIjBOsK4\n\n暗号：MMMM https://t.co/9OJWTzW20Y",
+    "publish_time": "2025-07-25T18:22:19"
+  },
+  {
+    "file_name": "1oETltR58hEfHnTl.mp4",
+    "user": {
+      "screen_name": "brooklyn29540",
+      "name": "不要问我从哪里来"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1948695260034727936/vid/avc1/720x1280/1oETltR58hEfHnTl.mp4?tag=21",
+    "read_time": "2025-07-25T19:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4590,
+      "timestamp": "2025-07-25T19:01:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1520827,
+      "size_mb": 1.45,
+      "timestamp": "2025-07-25T19:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "简简单单四个菜，农村就这生活。哈哈哈，送给你们，后面的资源私信我。 https://t.co/4Eig9pCDBg",
+    "publish_time": "2025-07-25T18:42:28"
   }
 ]
