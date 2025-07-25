@@ -1022,20 +1022,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GwrfGpBa8AApl4Z.jpg",
     "read_time": "2025-07-25T14:00:29",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-07-25T14:00:50",
-      "notification_sent": false
+      "success": true,
+      "message_id": 4574,
+      "timestamp": "2025-07-25T15:01:01"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 131698,
       "size_mb": 0.13,
-      "timestamp": "2025-07-25T14:00:29",
+      "timestamp": "2025-07-25T15:01:00",
       "download_attempts": 0
     },
     "full_text": "https://t.co/KUoGkI3gW7",
@@ -1118,5 +1116,31 @@
     },
     "full_text": "anselm_cheng https://t.co/eNkMDgfxss",
     "publish_time": "2025-07-25T13:55:03"
+  },
+  {
+    "file_name": "Gwr1Hk8aEAA9yhN.jpg",
+    "user": {
+      "screen_name": "huahua6256",
+      "name": "花生6256"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gwr1Hk8aEAA9yhN.jpg",
+    "read_time": "2025-07-25T15:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4575,
+      "timestamp": "2025-07-25T15:01:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 167180,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-25T15:01:01",
+      "download_attempts": 0
+    },
+    "full_text": "凭此屏截图戳  👉 https://t.co/adudVqluRm  进群即可观看我所有的完整版视频，仅限粉丝  私信暗号 👉  花生 https://t.co/0YcfMoDF6e",
+    "publish_time": "2025-07-25T14:59:49"
   }
 ]
