@@ -1012,5 +1012,111 @@
     },
     "full_text": "https://t.co/nR32HdEyoV",
     "publish_time": "2025-07-25T12:46:07"
+  },
+  {
+    "file_name": "GwrfGpBa8AApl4Z.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwrfGpBa8AApl4Z.jpg",
+    "read_time": "2025-07-25T14:00:29",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-07-25T14:00:50",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 131698,
+      "size_mb": 0.13,
+      "timestamp": "2025-07-25T14:00:29",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/KUoGkI3gW7",
+    "publish_time": "2025-07-25T13:23:38"
+  },
+  {
+    "file_name": "GwrfP0ObgAYv6zC.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwrfP0ObgAYv6zC.jpg",
+    "read_time": "2025-07-25T14:00:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4570,
+      "timestamp": "2025-07-25T14:00:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 84551,
+      "size_mb": 0.08,
+      "timestamp": "2025-07-25T14:00:50",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/xxD81JcN4W",
+    "publish_time": "2025-07-25T13:24:15"
+  },
+  {
+    "file_name": "GwrfYBCaYAAFAUA.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwrfYBCaYAAFAUA.jpg",
+    "read_time": "2025-07-25T14:00:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4571,
+      "timestamp": "2025-07-25T14:00:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 136945,
+      "size_mb": 0.13,
+      "timestamp": "2025-07-25T14:00:51",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/9OQ43jgJNA",
+    "publish_time": "2025-07-25T13:24:49"
+  },
+  {
+    "file_name": "GwrmS-vbgAAfCzz.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwrmS-vbgAAfCzz.jpg",
+    "read_time": "2025-07-25T14:00:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4572,
+      "timestamp": "2025-07-25T14:00:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 171114,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-25T14:00:53",
+      "download_attempts": 0
+    },
+    "full_text": "anselm_cheng https://t.co/eNkMDgfxss",
+    "publish_time": "2025-07-25T13:55:03"
   }
 ]
