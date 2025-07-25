@@ -1220,5 +1220,111 @@
     },
     "full_text": "这么大一包\n喉咙会难受吧？ https://t.co/IGo9wGxUMf",
     "publish_time": "2025-07-25T16:34:24"
+  },
+  {
+    "file_name": "GwsUGYGbgAQwwLH.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwsUGYGbgAQwwLH.jpg",
+    "read_time": "2025-07-25T18:01:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4579,
+      "timestamp": "2025-07-25T18:01:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 111795,
+      "size_mb": 0.11,
+      "timestamp": "2025-07-25T18:01:06",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/CBI2JJNC88",
+    "publish_time": "2025-07-25T17:15:11"
+  },
+  {
+    "file_name": "GwsWZEYbIAADRNd.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwsWZEYbIAADRNd.jpg",
+    "read_time": "2025-07-25T18:01:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4580,
+      "timestamp": "2025-07-25T18:01:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 256245,
+      "size_mb": 0.24,
+      "timestamp": "2025-07-25T18:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/QfOnkLWSeD",
+    "publish_time": "2025-07-25T17:25:11"
+  },
+  {
+    "file_name": "GwseNkMbgAUAxHv.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwseNkMbgAUAxHv.jpg",
+    "read_time": "2025-07-25T18:01:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4581,
+      "timestamp": "2025-07-25T18:01:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 106978,
+      "size_mb": 0.1,
+      "timestamp": "2025-07-25T18:01:10",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/dqYxecBdDf",
+    "publish_time": "2025-07-25T17:59:23"
+  },
+  {
+    "file_name": "GwsedfzbgAUpSe4.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GwsedfzbgAUpSe4.png",
+    "read_time": "2025-07-25T18:01:06",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-07-25T18:01:31",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 468963,
+      "size_mb": 0.45,
+      "timestamp": "2025-07-25T18:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/9H9Ha6hlT0",
+    "publish_time": "2025-07-25T18:00:28"
   }
 ]
