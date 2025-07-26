@@ -284,5 +284,57 @@
     },
     "full_text": "joshuashuyue https://t.co/7LhfPe4syT",
     "publish_time": "2025-07-26T08:04:08"
+  },
+  {
+    "file_name": "sTs28nX7-YhCiSa1.mp4",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1948916387285794816/vid/avc1/720x1280/sTs28nX7-YhCiSa1.mp4?tag=21",
+    "read_time": "2025-07-26T10:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4612,
+      "timestamp": "2025-07-26T10:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2503991,
+      "size_mb": 2.39,
+      "timestamp": "2025-07-26T10:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/tnnFgpRxyO",
+    "publish_time": "2025-07-26T09:21:04"
+  },
+  {
+    "file_name": "Gwv1OxYagAAXGYi.jpg",
+    "user": {
+      "screen_name": "MarkMark_SSS",
+      "name": "列文马克（8.14-17北京 8.20-24上海"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gwv1OxYagAAXGYi.jpg",
+    "read_time": "2025-07-26T10:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4613,
+      "timestamp": "2025-07-26T10:01:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 175973,
+      "size_mb": 0.17,
+      "timestamp": "2025-07-26T10:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "美国我来了！ 🇺🇸 8.14-8.17在北京 https://t.co/vFpj5Vr9mr",
+    "publish_time": "2025-07-26T09:39:05"
   }
 ]

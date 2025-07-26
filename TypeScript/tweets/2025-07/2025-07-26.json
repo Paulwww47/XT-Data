@@ -139,5 +139,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1948897086940086367",
     "fullText": "joshuashuyue https://t.co/7LhfPe4syT",
     "publishTime": "2025-07-26T08:04:08"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1948916387285794816/vid/avc1/720x1280/sTs28nX7-YhCiSa1.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1948916447893487903",
+    "fullText": "https://t.co/tnnFgpRxyO",
+    "publishTime": "2025-07-26T09:21:04"
+  },
+  {
+    "user": {
+      "screenName": "MarkMark_SSS",
+      "name": "列文马克（8.14-17北京 8.20-24上海"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gwv1OxYagAAXGYi.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/MarkMark_SSS/status/1948920979436040236",
+    "fullText": "美国我来了！ 🇺🇸 8.14-8.17在北京 https://t.co/vFpj5Vr9mr",
+    "publishTime": "2025-07-26T09:39:05"
   }
 ]
