@@ -1204,20 +1204,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GwyYgEdawAEKIlc.jpg",
     "read_time": "2025-07-26T22:00:43",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-07-26T22:01:03",
-      "notification_sent": false
+      "success": true,
+      "message_id": 4648,
+      "timestamp": "2025-07-26T23:00:46"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 146331,
       "size_mb": 0.14,
-      "timestamp": "2025-07-26T22:00:43",
+      "timestamp": "2025-07-26T23:00:45",
       "download_attempts": 0
     },
     "full_text": "面膜时间 https://t.co/KTyMfdp20p",
