@@ -310,5 +310,59 @@
     },
     "full_text": "卧槽，这个这么帅，求个完整版。 https://t.co/NyAOATQj3K",
     "publish_time": "2025-07-27T01:51:22"
+  },
+  {
+    "file_name": "Gwz26I5agAAEUI9.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gwz26I5agAAEUI9.jpg",
+    "read_time": "2025-07-27T05:00:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4662,
+      "timestamp": "2025-07-27T05:00:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 166413,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-27T05:00:52",
+      "download_attempts": 0
+    },
+    "full_text": "gun_wrkout https://t.co/Y3swmrkcoF",
+    "publish_time": "2025-07-27T04:24:35"
+  },
+  {
+    "file_name": "DWlS1Hkbq0m809Qf.mp4",
+    "user": {
+      "screen_name": "uxy666",
+      "name": "uxy"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1949206829827006464/vid/avc1/720x1280/DWlS1Hkbq0m809Qf.mp4?tag=14",
+    "read_time": "2025-07-27T05:00:51",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-07-27T05:01:14",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 1004027,
+      "size_mb": 0.96,
+      "timestamp": "2025-07-27T05:00:54",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/cNS7yXmYyr\n\n骚宝宝 https://t.co/TcFYXr7nuu",
+    "publish_time": "2025-07-27T04:35:11"
   }
 ]
