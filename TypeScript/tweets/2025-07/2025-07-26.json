@@ -582,5 +582,19 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1949077145604522317",
     "fullText": "https://t.co/vU9pr6wB2H",
     "publishTime": "2025-07-26T19:59:38"
+  },
+  {
+    "user": {
+      "screenName": "HengYu1205",
+      "name": "HengYu"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1949088052355485696/vid/avc1/720x1280/ypp4AFgQHJX2rgco.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/HengYu1205/status/1949088188343177303",
+    "fullText": "https://t.co/IVX3fJFTOg",
+    "publishTime": "2025-07-26T20:43:31"
   }
 ]
