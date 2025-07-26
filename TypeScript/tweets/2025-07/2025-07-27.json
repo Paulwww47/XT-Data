@@ -111,5 +111,22 @@
     "tweetUrl": "https://x.com/youdi/status/1949150145993715747",
     "fullText": "https://t.co/13Eg9vW8rT",
     "publishTime": "2025-07-27T00:49:42"
+  },
+  {
+    "user": {
+      "screenName": "S20250608",
+      "name": "BOOM"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GwzT1WqbwAArIVS.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1949165652327256064/vid/avc1/364x640/Rm1IuSoiMN9GPerS.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/1949165652327182337/vid/avc1/364x640/r_oyif0vWebrk5tF.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/S20250608/status/1949165664792711242",
+    "fullText": "卧槽，这个这么帅，求个完整版。 https://t.co/NyAOATQj3K",
+    "publishTime": "2025-07-27T01:51:22"
   }
 ]
