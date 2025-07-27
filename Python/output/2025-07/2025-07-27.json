@@ -104,6 +104,32 @@
     "publish_time": "2025-07-27T00:07:37"
   },
   {
+    "file_name": "Gwy8S9cbcAAuJI-.jpg",
+    "user": {
+      "screen_name": "wq199792",
+      "name": "正装👔小叔-OFFICIAL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gwy8S9cbcAAuJI-.jpg",
+    "read_time": "2025-07-28T00:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4728,
+      "timestamp": "2025-07-28T00:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 109955,
+      "size_mb": 0.1,
+      "timestamp": "2025-07-28T00:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "哥哥说：好紧、放松点 https://t.co/AqVcEMHgRw",
+    "publish_time": "2025-07-27T00:08:37"
+  },
+  {
     "file_name": "GwzAn1ibUAABOCm.jpg",
     "user": {
       "screen_name": "eric_kk97",
@@ -1352,6 +1378,32 @@
     "publish_time": "2025-07-27T18:32:08"
   },
   {
+    "file_name": "vTiWSSK4zQrLO3WX.mp4",
+    "user": {
+      "screen_name": "wq199792",
+      "name": "正装👔小叔-OFFICIAL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1949419592817987584/vid/avc1/720x1270/vTiWSSK4zQrLO3WX.mp4?tag=14",
+    "read_time": "2025-07-28T00:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4729,
+      "timestamp": "2025-07-28T00:02:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5987590,
+      "size_mb": 5.71,
+      "timestamp": "2025-07-28T00:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "生气了😤 牛牛变大了生气😤 https://t.co/KnUKfPW1nY",
+    "publish_time": "2025-07-27T18:41:19"
+  },
+  {
     "file_name": "f58Qyp5iPdzR5U_e.mp4",
     "user": {
       "screen_name": "needcuminside",
@@ -1932,20 +1984,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/Gw3v-J0bgAApYz2.jpg",
     "read_time": "2025-07-27T23:01:20",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-07-27T23:01:41",
-      "notification_sent": false
+      "success": true,
+      "message_id": 4730,
+      "timestamp": "2025-07-28T00:02:09"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 94845,
       "size_mb": 0.09,
-      "timestamp": "2025-07-27T23:01:20",
+      "timestamp": "2025-07-28T00:02:08",
       "download_attempts": 0
     },
     "full_text": "去看看怎么回事？ https://t.co/IpQo0iUfKE",
