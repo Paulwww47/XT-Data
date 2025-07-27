@@ -508,5 +508,37 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1949382435571155089",
     "fullText": "https://t.co/wX5ZJXk0pc",
     "publishTime": "2025-07-27T16:12:45"
+  },
+  {
+    "user": {
+      "screenName": "xingruigege",
+      "name": "星睿"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gw2lvi9XAAAPqCr.jpg",
+      "https://pbs.twimg.com/media/Gw2lvi9WMAA8-uy.jpg",
+      "https://pbs.twimg.com/media/Gw2lvi-XAAAfPP7.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1949396449998815232/vid/avc1/720x1280/RbDyRtG9xzT6em6V.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/xingruigege/status/1949396523361460230",
+    "fullText": "骚狗自己戴好头套就跑过来吃了\n看到鸡吧就忍不住把头埋在里面 https://t.co/sHaShpQsY2",
+    "publishTime": "2025-07-27T17:08:43"
+  },
+  {
+    "user": {
+      "screenName": "liangguai1",
+      "name": "亮拐"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gw2m0NlbwAAZAhb.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/liangguai1/status/1949397712790798588",
+    "fullText": "https://t.co/VKX3d1TNj9",
+    "publishTime": "2025-07-27T17:13:27"
   }
 ]
