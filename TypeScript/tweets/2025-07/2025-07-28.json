@@ -583,5 +583,35 @@
     "tweetUrl": "https://x.com/liangguai1/status/1949710556111192394",
     "fullText": "https://t.co/T0QIFMpKJ2",
     "publishTime": "2025-07-28T13:56:35"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gw7Fa43akAAYXwI.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1949712761178755463",
+    "fullText": "anselm_cheng https://t.co/tzo93rQB37",
+    "publishTime": "2025-07-28T14:05:20"
+  },
+  {
+    "user": {
+      "screenName": "koran0126",
+      "name": "코란"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gw7OagdWMAEOdUT.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [
+      "https://youtu.be/mOs_EL8Mc3A"
+    ],
+    "tweetUrl": "https://x.com/koran0126/status/1949722650781384773",
+    "fullText": "https://t.co/hei0FJmsZE https://t.co/BWMmEDgWGv",
+    "publishTime": "2025-07-28T14:44:38"
   }
 ]
