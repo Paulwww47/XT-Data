@@ -127,5 +127,45 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1949600604004970581",
     "fullText": "joe_yuanbao https://t.co/aR0IdTodtA",
     "publishTime": "2025-07-28T06:39:40"
+  },
+  {
+    "user": {
+      "screenName": "Leon_pan999",
+      "name": "Leon"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Leon_pan999/status/1949623600459497742",
+    "fullText": "有多少肌肉男会看着爹的照片无脑发骚？ \n悄悄告诉爹 爹不会曝光你们的",
+    "publishTime": "2025-07-28T08:11:03"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gw55uJaasAECpDm.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1949629527795413166",
+    "fullText": "_eayon_ https://t.co/6mKJQd6O5T",
+    "publishTime": "2025-07-28T08:34:36"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gw55xACagAAq68X.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1949629576713523510",
+    "fullText": "https://t.co/fHUlZi3Py7",
+    "publishTime": "2025-07-28T08:34:48"
   }
 ]
