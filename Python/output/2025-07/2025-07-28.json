@@ -1246,5 +1246,137 @@
     },
     "full_text": "yy_in96 https://t.co/FMtArdjO8W",
     "publish_time": "2025-07-28T15:48:07"
+  },
+  {
+    "file_name": "Gw7f-vEbwAAXWeb.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gw7f-vEbwAAXWeb.jpg",
+    "read_time": "2025-07-28T17:00:52",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-07-28T17:01:13",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 155027,
+      "size_mb": 0.15,
+      "timestamp": "2025-07-28T17:00:53",
+      "download_attempts": 0
+    },
+    "full_text": "double.k_seok https://t.co/Lbg5a5v8wM",
+    "publish_time": "2025-07-28T16:01:23"
+  },
+  {
+    "file_name": "Gw7mK4Ub0AEs9Rv.jpg",
+    "user": {
+      "screen_name": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gw7mK4Ub0AEs9Rv.jpg",
+    "read_time": "2025-07-28T17:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4779,
+      "timestamp": "2025-07-28T17:01:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 232670,
+      "size_mb": 0.22,
+      "timestamp": "2025-07-28T17:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "Air temperature: 16°C ⬜️\nBody temperature: 36°C 🟦\nMood temperature: 90°C 🟥 https://t.co/SJdME0dqI2",
+    "publish_time": "2025-07-28T16:28:25"
+  },
+  {
+    "file_name": "Gw7mK49agAAbp84.jpg",
+    "user": {
+      "screen_name": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gw7mK49agAAbp84.jpg",
+    "read_time": "2025-07-28T17:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4780,
+      "timestamp": "2025-07-28T17:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 212579,
+      "size_mb": 0.2,
+      "timestamp": "2025-07-28T17:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "Air temperature: 16°C ⬜️\nBody temperature: 36°C 🟦\nMood temperature: 90°C 🟥 https://t.co/SJdME0dqI2",
+    "publish_time": "2025-07-28T16:28:25"
+  },
+  {
+    "file_name": "Gw7mK9CaIAAOwXV.jpg",
+    "user": {
+      "screen_name": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gw7mK9CaIAAOwXV.jpg",
+    "read_time": "2025-07-28T17:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4781,
+      "timestamp": "2025-07-28T17:01:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 217128,
+      "size_mb": 0.21,
+      "timestamp": "2025-07-28T17:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "Air temperature: 16°C ⬜️\nBody temperature: 36°C 🟦\nMood temperature: 90°C 🟥 https://t.co/SJdME0dqI2",
+    "publish_time": "2025-07-28T16:28:25"
+  },
+  {
+    "file_name": "Gw7mLBUaIAAyEX4.jpg",
+    "user": {
+      "screen_name": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gw7mLBUaIAAyEX4.jpg",
+    "read_time": "2025-07-28T17:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4782,
+      "timestamp": "2025-07-28T17:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 206861,
+      "size_mb": 0.2,
+      "timestamp": "2025-07-28T17:01:18",
+      "download_attempts": 0
+    },
+    "full_text": "Air temperature: 16°C ⬜️\nBody temperature: 36°C 🟦\nMood temperature: 90°C 🟥 https://t.co/SJdME0dqI2",
+    "publish_time": "2025-07-28T16:28:25"
   }
 ]

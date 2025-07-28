@@ -657,5 +657,36 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1949738627069853843",
     "fullText": "yy_in96 https://t.co/FMtArdjO8W",
     "publishTime": "2025-07-28T15:48:07"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gw7f-vEbwAAXWeb.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1949741964997615972",
+    "fullText": "double.k_seok https://t.co/Lbg5a5v8wM",
+    "publishTime": "2025-07-28T16:01:23"
+  },
+  {
+    "user": {
+      "screenName": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gw7mK4Ub0AEs9Rv.jpg",
+      "https://pbs.twimg.com/media/Gw7mK49agAAbp84.jpg",
+      "https://pbs.twimg.com/media/Gw7mK9CaIAAOwXV.jpg",
+      "https://pbs.twimg.com/media/Gw7mLBUaIAAyEX4.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/OT_SITH/status/1949748769668644927",
+    "fullText": "Air temperature: 16°C ⬜️\nBody temperature: 36°C 🟦\nMood temperature: 90°C 🟥 https://t.co/SJdME0dqI2",
+    "publishTime": "2025-07-28T16:28:25"
   }
 ]
