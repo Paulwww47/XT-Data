@@ -1256,20 +1256,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/Gw7f-vEbwAAXWeb.jpg",
     "read_time": "2025-07-28T17:00:52",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-07-28T17:01:13",
-      "notification_sent": false
+      "success": true,
+      "message_id": 4784,
+      "timestamp": "2025-07-28T18:00:51"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 155027,
       "size_mb": 0.15,
-      "timestamp": "2025-07-28T17:00:53",
+      "timestamp": "2025-07-28T18:00:50",
       "download_attempts": 0
     },
     "full_text": "double.k_seok https://t.co/Lbg5a5v8wM",
@@ -1378,5 +1376,135 @@
     },
     "full_text": "Air temperature: 16°C ⬜️\nBody temperature: 36°C 🟦\nMood temperature: 90°C 🟥 https://t.co/SJdME0dqI2",
     "publish_time": "2025-07-28T16:28:25"
+  },
+  {
+    "file_name": "Gw7uuhobkAEMvd4.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gw7uuhobkAEMvd4.jpg",
+    "read_time": "2025-07-28T18:00:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4785,
+      "timestamp": "2025-07-28T18:00:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 116109,
+      "size_mb": 0.11,
+      "timestamp": "2025-07-28T18:00:51",
+      "download_attempts": 0
+    },
+    "full_text": "ivancai https://t.co/YEbSDLkPuG",
+    "publish_time": "2025-07-28T17:05:48"
+  },
+  {
+    "file_name": "6xqbQ8qISKhRtUGm.mp4",
+    "user": {
+      "screen_name": "MarkMark_SSS",
+      "name": "列文马克（8.14-17北京 8.20-24上海"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1949757992586665984/vid/avc1/1280x720/6xqbQ8qISKhRtUGm.mp4?tag=21",
+    "read_time": "2025-07-28T18:00:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4786,
+      "timestamp": "2025-07-28T18:00:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7426471,
+      "size_mb": 7.08,
+      "timestamp": "2025-07-28T18:00:52",
+      "download_attempts": 0
+    },
+    "full_text": "Episode Seven 第七集：\n针灸治疗阳痿男大🪡 听闻有男大来找我互操满心欢喜，结果被我发现是个阳痿男😡话不多说针灸治疗一番，初次被穿刺💉展现出惊人的耐受力，不断收缩。三十七针头➕一根针灸针。看来就是要被虐才行，第二天终于早泄出了狗精… #穿刺 #虐睾 #重口 #刑S \n视频完整版22分钟，私信购买 https://t.co/8oRxOSrPBN",
+    "publish_time": "2025-07-28T17:05:59"
+  },
+  {
+    "file_name": "Gw75i67acAAqeqa.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gw75i67acAAqeqa.jpg",
+    "read_time": "2025-07-28T18:00:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4787,
+      "timestamp": "2025-07-28T18:00:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 160514,
+      "size_mb": 0.15,
+      "timestamp": "2025-07-28T18:00:56",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/PDfH2DKPP3",
+    "publish_time": "2025-07-28T17:53:08"
+  },
+  {
+    "file_name": "Gw76VztaQAAlVku.jpg",
+    "user": {
+      "screen_name": "T527753733",
+      "name": "地空捣蛋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gw76VztaQAAlVku.jpg",
+    "read_time": "2025-07-28T18:00:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4788,
+      "timestamp": "2025-07-28T18:00:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 162796,
+      "size_mb": 0.16,
+      "timestamp": "2025-07-28T18:00:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/AdPBM0m3G9",
+    "publish_time": "2025-07-28T17:56:34"
+  },
+  {
+    "file_name": "Gw76dfgaAAAQnEE.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gw76dfgaAAAQnEE.png",
+    "read_time": "2025-07-28T18:00:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4789,
+      "timestamp": "2025-07-28T18:00:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 653006,
+      "size_mb": 0.62,
+      "timestamp": "2025-07-28T18:00:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/GMWSixffwj",
+    "publish_time": "2025-07-28T17:57:12"
   }
 ]
