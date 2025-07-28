@@ -167,5 +167,49 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1949629576713523510",
     "fullText": "https://t.co/fHUlZi3Py7",
     "publishTime": "2025-07-28T08:34:48"
+  },
+  {
+    "user": {
+      "screenName": "uxy666",
+      "name": "uxy"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1949646931174760448/vid/avc1/720x1272/Kmt5OV-GeWAlCS4I.mp4?tag=14"
+    ],
+    "expandUrls": [
+      "https://t.me/+KXYyohZIZLcyZTE1"
+    ],
+    "tweetUrl": "https://x.com/uxy666/status/1949647367080173787",
+    "fullText": "https://t.co/cNS7yXmYyr https://t.co/dVwmOMx2cS",
+    "publishTime": "2025-07-28T09:45:29"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gw6KXldaUAA7mDC.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1949647833117659240",
+    "fullText": "https://t.co/O0h351ms1e",
+    "publishTime": "2025-07-28T09:47:20"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/Gvn9TknWQAAErNQ.mp4"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1949648026701545579",
+    "fullText": "https://t.co/EGYtLHKoyn",
+    "publishTime": "2025-07-28T09:48:06"
   }
 ]

@@ -362,5 +362,83 @@
     },
     "full_text": "https://t.co/fHUlZi3Py7",
     "publish_time": "2025-07-28T08:34:48"
+  },
+  {
+    "file_name": "Kmt5OV-GeWAlCS4I.mp4",
+    "user": {
+      "screen_name": "uxy666",
+      "name": "uxy"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1949646931174760448/vid/avc1/720x1272/Kmt5OV-GeWAlCS4I.mp4?tag=14",
+    "read_time": "2025-07-28T10:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4745,
+      "timestamp": "2025-07-28T10:01:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 46353201,
+      "size_mb": 44.21,
+      "timestamp": "2025-07-28T10:01:03",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/cNS7yXmYyr https://t.co/dVwmOMx2cS",
+    "publish_time": "2025-07-28T09:45:29"
+  },
+  {
+    "file_name": "Gw6KXldaUAA7mDC.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gw6KXldaUAA7mDC.jpg",
+    "read_time": "2025-07-28T10:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4746,
+      "timestamp": "2025-07-28T10:01:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 99416,
+      "size_mb": 0.09,
+      "timestamp": "2025-07-28T10:01:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/O0h351ms1e",
+    "publish_time": "2025-07-28T09:47:20"
+  },
+  {
+    "file_name": "Gvn9TknWQAAErNQ.mp4",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/Gvn9TknWQAAErNQ.mp4",
+    "read_time": "2025-07-28T10:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4747,
+      "timestamp": "2025-07-28T10:01:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 36845,
+      "size_mb": 0.04,
+      "timestamp": "2025-07-28T10:01:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/EGYtLHKoyn",
+    "publish_time": "2025-07-28T09:48:06"
   }
 ]
