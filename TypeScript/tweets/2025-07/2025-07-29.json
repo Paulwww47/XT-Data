@@ -211,5 +211,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1950024827395576031",
     "fullText": "boh_yeon https://t.co/iTaV7iU2Z0",
     "publishTime": "2025-07-29T10:45:23"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gw_rUOubUAAPmL_.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1950035903021535727",
+    "fullText": "I https://t.co/4aveWp1z95",
+    "publishTime": "2025-07-29T11:29:23"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gw_rWkEbUAELKJy.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1950035944478024000",
+    "fullText": "https://t.co/3761OrpkHC",
+    "publishTime": "2025-07-29T11:29:33"
   }
 ]
