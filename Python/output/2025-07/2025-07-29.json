@@ -190,20 +190,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/Gw-jhLJWMAAuaQG.jpg",
     "read_time": "2025-07-29T07:01:27",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-07-29T07:01:50",
-      "notification_sent": false
+      "success": true,
+      "message_id": 4820,
+      "timestamp": "2025-07-29T08:01:24"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 227559,
       "size_mb": 0.22,
-      "timestamp": "2025-07-29T07:01:30",
+      "timestamp": "2025-07-29T08:01:23",
       "download_attempts": 0
     },
     "full_text": "w_nning https://t.co/Fkpps7FvVk",
@@ -234,5 +232,31 @@
     },
     "full_text": "w_nning https://t.co/Fkpps7FvVk",
     "publish_time": "2025-07-29T06:15:43"
+  },
+  {
+    "file_name": "Gw-y_StWAAAvYZm.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gw-y_StWAAAvYZm.jpg",
+    "read_time": "2025-07-29T08:01:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4821,
+      "timestamp": "2025-07-29T08:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 89216,
+      "size_mb": 0.09,
+      "timestamp": "2025-07-29T08:01:24",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/jOQ5YrmRQS",
+    "publish_time": "2025-07-29T07:23:18"
   }
 ]
