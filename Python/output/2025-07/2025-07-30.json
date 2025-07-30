@@ -1204,23 +1204,75 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GxFxz2haIAAHD11.jpg",
     "read_time": "2025-07-30T16:01:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4906,
+      "timestamp": "2025-07-30T17:01:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 81593,
+      "size_mb": 0.08,
+      "timestamp": "2025-07-30T17:01:06",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Q2oYKCxWZd",
+    "publish_time": "2025-07-30T15:55:30"
+  },
+  {
+    "file_name": "GxF_LnAbUAAjfP-.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxF_LnAbUAAjfP-.jpg",
+    "read_time": "2025-07-30T17:01:06",
     "is_uploaded": false,
     "upload_info": {
       "success": false,
       "error_type": "api_error",
       "message": "Timed out",
-      "timestamp": "2025-07-30T16:01:31",
+      "timestamp": "2025-07-30T17:01:27",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 81593,
-      "size_mb": 0.08,
-      "timestamp": "2025-07-30T16:01:11",
+      "size": 130022,
+      "size_mb": 0.12,
+      "timestamp": "2025-07-30T17:01:07",
       "download_attempts": 0
     },
-    "full_text": "https://t.co/Q2oYKCxWZd",
-    "publish_time": "2025-07-30T15:55:30"
+    "full_text": "waterwolf_ego https://t.co/gYshf02aCr",
+    "publish_time": "2025-07-30T16:53:54"
+  },
+  {
+    "file_name": "GxGAANVaAAA40ji.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxGAANVaAAA40ji.jpg",
+    "read_time": "2025-07-30T17:01:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4907,
+      "timestamp": "2025-07-30T17:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 173396,
+      "size_mb": 0.17,
+      "timestamp": "2025-07-30T17:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/FPYSzcJKHc",
+    "publish_time": "2025-07-30T16:57:30"
   }
 ]

@@ -592,5 +592,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1950465258524725614",
     "fullText": "https://t.co/Q2oYKCxWZd",
     "publishTime": "2025-07-30T15:55:30"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxF_LnAbUAAjfP-.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1950479956812993004",
+    "fullText": "waterwolf_ego https://t.co/gYshf02aCr",
+    "publishTime": "2025-07-30T16:53:54"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxGAANVaAAA40ji.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1950480863189471517",
+    "fullText": "https://t.co/FPYSzcJKHc",
+    "publishTime": "2025-07-30T16:57:30"
   }
 ]
