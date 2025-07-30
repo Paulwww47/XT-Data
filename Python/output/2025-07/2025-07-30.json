@@ -1230,20 +1230,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GxF_LnAbUAAjfP-.jpg",
     "read_time": "2025-07-30T17:01:06",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-07-30T17:01:27",
-      "notification_sent": false
+      "success": true,
+      "message_id": 4909,
+      "timestamp": "2025-07-30T18:01:05"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 130022,
       "size_mb": 0.12,
-      "timestamp": "2025-07-30T17:01:07",
+      "timestamp": "2025-07-30T18:01:03",
       "download_attempts": 0
     },
     "full_text": "waterwolf_ego https://t.co/gYshf02aCr",
