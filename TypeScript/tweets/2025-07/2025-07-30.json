@@ -486,5 +486,39 @@
     "tweetUrl": "https://x.com/youdi/status/1950415352342728713",
     "fullText": "https://t.co/hwcu4RBp3B",
     "publishTime": "2025-07-30T12:37:11"
+  },
+  {
+    "user": {
+      "screenName": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxFS3USaEAAQvgW.jpg",
+      "https://pbs.twimg.com/media/GxFS3UCbUAEbsc8.jpg",
+      "https://pbs.twimg.com/media/GxFS3YVbQAAwmT6.jpg",
+      "https://pbs.twimg.com/media/GxFS3WqbUAEqIyz.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/OT_SITH/status/1950431228181541037",
+    "fullText": "He has always been passionate.\nHe has a lot to say to the sea. https://t.co/gxykrIurtJ",
+    "publishTime": "2025-07-30T13:40:16"
+  },
+  {
+    "user": {
+      "screenName": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1950434245664788484/vid/avc1/720x1272/sdwWUF6HRseNjJ2D.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/1950434244213559303/vid/avc1/720x1272/7s7jVd0CLsZOmoif.mp4?tag=21"
+    ],
+    "expandUrls": [
+      "http://t.me/ffgg0066"
+    ],
+    "tweetUrl": "https://x.com/MuscleHunterX/status/1950434319237075331",
+    "fullText": "进群即可观看我所有的完整版视频 👉https://t.co/nuvYHlWBiE 私信暗号 👉 M https://t.co/HFQiakfPF0",
+    "publishTime": "2025-07-30T13:52:33"
   }
 ]
