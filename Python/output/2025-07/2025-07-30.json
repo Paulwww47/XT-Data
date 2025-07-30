@@ -440,5 +440,31 @@
     },
     "full_text": "https://t.co/jTkuERbGwE",
     "publish_time": "2025-07-30T06:24:56"
+  },
+  {
+    "file_name": "GxEHQUFbUAIKT3R.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxEHQUFbUAIKT3R.jpg",
+    "read_time": "2025-07-30T09:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4876,
+      "timestamp": "2025-07-30T09:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 150550,
+      "size_mb": 0.14,
+      "timestamp": "2025-07-30T09:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "hwi_hhh https://t.co/PFZhTu7phH",
+    "publish_time": "2025-07-30T08:09:56"
   }
 ]
