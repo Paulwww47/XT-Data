@@ -1168,5 +1168,59 @@
     },
     "full_text": "有人要这双赛车蓝不，43的有点小了要出掉，私我 https://t.co/Ot1X2zWdYW",
     "publish_time": "2025-07-30T14:52:59"
+  },
+  {
+    "file_name": "GxFp_H5bUAA5w9s.jpg",
+    "user": {
+      "screen_name": "huahua6256",
+      "name": "花生6256"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxFp_H5bUAA5w9s.jpg",
+    "read_time": "2025-07-30T16:01:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 4904,
+      "timestamp": "2025-07-30T16:01:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 111671,
+      "size_mb": 0.11,
+      "timestamp": "2025-07-30T16:01:09",
+      "download_attempts": 0
+    },
+    "full_text": "凭此屏截图戳  👉 https://t.co/adudVqkX1O  进群即可观看我所有的完整版视频，仅限粉丝  私信暗号 👉  花生 https://t.co/XpfJN6r3GC",
+    "publish_time": "2025-07-30T15:21:19"
+  },
+  {
+    "file_name": "GxFxz2haIAAHD11.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxFxz2haIAAHD11.jpg",
+    "read_time": "2025-07-30T16:01:08",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-07-30T16:01:31",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 81593,
+      "size_mb": 0.08,
+      "timestamp": "2025-07-30T16:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Q2oYKCxWZd",
+    "publish_time": "2025-07-30T15:55:30"
   }
 ]
