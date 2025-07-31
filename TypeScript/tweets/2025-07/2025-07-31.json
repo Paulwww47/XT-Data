@@ -545,5 +545,49 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1950845310265405578",
     "fullText": "louiewe https://t.co/1hfuFEA4AE",
     "publishTime": "2025-07-31T17:05:41"
+  },
+  {
+    "user": {
+      "screenName": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxLbaoNbIAE-9UB.jpg",
+      "https://pbs.twimg.com/media/GxLbaowbYAAgHbC.jpg",
+      "https://pbs.twimg.com/media/GxLbapUb0AA0eM2.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/OT_SITH/status/1950862853004816853",
+    "fullText": "He says the sound of the wind on the beach is different. https://t.co/uLiRpfUDbg",
+    "publishTime": "2025-07-31T18:15:24"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxLdZCNbEAAW9bn.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1950865015956992050",
+    "fullText": "jindol_ https://t.co/FenISjicGS",
+    "publishTime": "2025-07-31T18:23:59"
+  },
+  {
+    "user": {
+      "screenName": "rrrrrrig_",
+      "name": "嗷呜有劲"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxLhqKvawAAxWll.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/rrrrrrig_/status/1950869710150766766",
+    "fullText": "https://t.co/rJgmbsJWik",
+    "publishTime": "2025-07-31T18:42:38"
   }
 ]
