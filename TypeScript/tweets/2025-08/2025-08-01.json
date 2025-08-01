@@ -270,5 +270,47 @@
     "tweetUrl": "https://x.com/HengYu1205/status/1951144405668159808",
     "fullText": "https://t.co/5yCMNQqCjT",
     "publishTime": "2025-08-01T12:54:11"
+  },
+  {
+    "user": {
+      "screenName": "DearxLong",
+      "name": "Fuyun"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://vimeo.com/1106363122"
+    ],
+    "tweetUrl": "https://x.com/DearxLong/status/1951146218307870936",
+    "fullText": "https://t.co/MUNaNYTIIF",
+    "publishTime": "2025-08-01T13:01:23"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxPhCyaaIAINcGi.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1951150507638317333",
+    "fullText": "2joey019_ https://t.co/EoWolDO7yg",
+    "publishTime": "2025-08-01T13:18:26"
+  },
+  {
+    "user": {
+      "screenName": "liangguai1",
+      "name": "亮拐"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxPoQ9EaIAQypFb.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/liangguai1/status/1951158450945401270",
+    "fullText": "https://t.co/zIy4R5PpZT",
+    "publishTime": "2025-08-01T13:50:00"
   }
 ]
