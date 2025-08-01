@@ -312,5 +312,19 @@
     "tweetUrl": "https://x.com/liangguai1/status/1951158450945401270",
     "fullText": "https://t.co/zIy4R5PpZT",
     "publishTime": "2025-08-01T13:50:00"
+  },
+  {
+    "user": {
+      "screenName": "koran0126",
+      "name": "코란"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://music.apple.com/de/album/nowhere-to-be/1827211284?i=1827211285&l=en-GB"
+    ],
+    "tweetUrl": "https://x.com/koran0126/status/1951163145612935467",
+    "fullText": "https://t.co/2HPNDBeRrS",
+    "publishTime": "2025-08-01T14:08:39"
   }
 ]
