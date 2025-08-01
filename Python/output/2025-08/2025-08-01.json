@@ -658,20 +658,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GxP90fJaIAICrwq.jpg",
     "read_time": "2025-08-01T16:00:53",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-01T16:01:15",
-      "notification_sent": false
+      "success": true,
+      "message_id": 5041,
+      "timestamp": "2025-08-01T17:00:53"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 213582,
       "size_mb": 0.2,
-      "timestamp": "2025-08-01T16:00:54",
+      "timestamp": "2025-08-01T17:00:51",
       "download_attempts": 0
     },
     "full_text": "ruchien320 https://t.co/TJn31V1lBn",
@@ -712,20 +710,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1951183163352576000/vid/avc1/720x720/LQnzeDKitJ76aN22.mp4?tag=21",
     "read_time": "2025-08-01T16:00:53",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-01T16:01:37",
-      "notification_sent": false
+      "success": true,
+      "message_id": 5042,
+      "timestamp": "2025-08-01T17:00:56"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 1941555,
       "size_mb": 1.85,
-      "timestamp": "2025-08-01T16:01:17",
+      "timestamp": "2025-08-01T17:00:53",
       "download_attempts": 0
     },
     "full_text": "欢迎来到我的私人空间—今天开通电报，可观看📷我的所有完整视频和写真❤️（今日无需任何门槛粉丝福利。\n电报私信我：https://t.co/WyRTzheGug\n暗号：999 https://t.co/Wq4J4WXBNE",
@@ -808,5 +804,109 @@
     },
     "full_text": "https://t.co/tu6v1EOXOW",
     "publish_time": "2025-08-01T15:42:44"
+  },
+  {
+    "file_name": "GxQG8IgaIAABWIh.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxQG8IgaIAABWIh.jpg",
+    "read_time": "2025-08-01T17:00:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5043,
+      "timestamp": "2025-08-01T17:00:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 142723,
+      "size_mb": 0.14,
+      "timestamp": "2025-08-01T17:00:56",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/bEXFdBdVcK",
+    "publish_time": "2025-08-01T16:04:36"
+  },
+  {
+    "file_name": "GxQG8IYaIAMZ0rj.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxQG8IYaIAMZ0rj.jpg",
+    "read_time": "2025-08-01T17:00:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5044,
+      "timestamp": "2025-08-01T17:00:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 114673,
+      "size_mb": 0.11,
+      "timestamp": "2025-08-01T17:00:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/bEXFdBdVcK",
+    "publish_time": "2025-08-01T16:04:36"
+  },
+  {
+    "file_name": "GxQHXSkaIAAXiZj.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxQHXSkaIAAXiZj.jpg",
+    "read_time": "2025-08-01T17:00:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5045,
+      "timestamp": "2025-08-01T17:00:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 99919,
+      "size_mb": 0.1,
+      "timestamp": "2025-08-01T17:00:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/JZXKzn8fPm",
+    "publish_time": "2025-08-01T16:06:10"
+  },
+  {
+    "file_name": "GxQMeBQbEAAcZA9.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxQMeBQbEAAcZA9.jpg",
+    "read_time": "2025-08-01T17:00:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5046,
+      "timestamp": "2025-08-01T17:00:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 109049,
+      "size_mb": 0.1,
+      "timestamp": "2025-08-01T17:00:58",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/pkhTfgJcvf",
+    "publish_time": "2025-08-01T16:28:09"
   }
 ]
