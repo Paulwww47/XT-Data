@@ -1314,14 +1314,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (60MB > 50MB)",
       "timestamp": "2025-08-02T18:00:54",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 63401256,
       "size_mb": 60.46,
-      "timestamp": "2025-08-02T18:00:54",
+      "timestamp": "2025-08-02T19:01:30",
       "download_attempts": 0
     },
     "full_text": "超级硬翘的巨根 https://t.co/68LzSDbBBz",
@@ -1404,5 +1404,135 @@
     },
     "full_text": "https://t.co/ll0J85v9x2",
     "publish_time": "2025-08-02T18:00:04"
+  },
+  {
+    "file_name": "GxV2pY6aMAAmTUK.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxV2pY6aMAAmTUK.jpg",
+    "read_time": "2025-08-02T19:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5130,
+      "timestamp": "2025-08-02T19:01:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 81709,
+      "size_mb": 0.08,
+      "timestamp": "2025-08-02T19:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/IPeG88xxJD",
+    "publish_time": "2025-08-02T18:50:35"
+  },
+  {
+    "file_name": "GxV2pZmbwAARt8u.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxV2pZmbwAARt8u.jpg",
+    "read_time": "2025-08-02T19:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5131,
+      "timestamp": "2025-08-02T19:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 76204,
+      "size_mb": 0.07,
+      "timestamp": "2025-08-02T19:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/IPeG88xxJD",
+    "publish_time": "2025-08-02T18:50:35"
+  },
+  {
+    "file_name": "GxV29rZaAAECSgE.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxV29rZaAAECSgE.jpg",
+    "read_time": "2025-08-02T19:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5132,
+      "timestamp": "2025-08-02T19:01:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 130222,
+      "size_mb": 0.12,
+      "timestamp": "2025-08-02T19:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/8FHiw8U8pz",
+    "publish_time": "2025-08-02T18:51:55"
+  },
+  {
+    "file_name": "GxV4klcaEAAEtdR.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxV4klcaEAAEtdR.jpg",
+    "read_time": "2025-08-02T19:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5133,
+      "timestamp": "2025-08-02T19:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 69367,
+      "size_mb": 0.07,
+      "timestamp": "2025-08-02T19:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/J5kN5MVKFi",
+    "publish_time": "2025-08-02T18:58:58"
+  },
+  {
+    "file_name": "GxV4kkBboAApDiI.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxV4kkBboAApDiI.jpg",
+    "read_time": "2025-08-02T19:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5134,
+      "timestamp": "2025-08-02T19:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 56873,
+      "size_mb": 0.05,
+      "timestamp": "2025-08-02T19:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/J5kN5MVKFi",
+    "publish_time": "2025-08-02T18:58:58"
   }
 ]
