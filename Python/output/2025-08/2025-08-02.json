@@ -1742,5 +1742,31 @@
     },
     "full_text": "https://t.co/iHqWCSptJl",
     "publish_time": "2025-08-02T20:53:27"
+  },
+  {
+    "file_name": "GxWdvesbcAErnlZ.jpg",
+    "user": {
+      "screen_name": "Leon_pan999",
+      "name": "Leon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxWdvesbcAErnlZ.jpg",
+    "read_time": "2025-08-02T22:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5143,
+      "timestamp": "2025-08-02T22:01:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 98926,
+      "size_mb": 0.09,
+      "timestamp": "2025-08-02T22:00:59",
+      "download_attempts": 0
+    },
+    "full_text": "收拾一下柜子🗄️ https://t.co/gAHxXuYgOc",
+    "publish_time": "2025-08-02T21:41:21"
   }
 ]
