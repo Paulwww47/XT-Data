@@ -280,5 +280,48 @@
     "tweetUrl": "https://x.com/youdi/status/1951478179790725607",
     "fullText": "https://t.co/cl2XrkyxHa",
     "publishTime": "2025-08-02T11:00:29"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxULQoPaQAAT4wa.jpg",
+      "https://pbs.twimg.com/media/GxULQoOaIAQqvPN.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1951478399626780679",
+    "fullText": "John https://t.co/yyt9UrFWN2",
+    "publishTime": "2025-08-02T11:01:21"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxUM1LYasAAs2VD.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1951480127289958578",
+    "fullText": "https://t.co/s8YJNDGIid",
+    "publishTime": "2025-08-02T11:08:13"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxUM_H3aIAEQce1.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1951480300380495924",
+    "fullText": "https://t.co/873eExleDL",
+    "publishTime": "2025-08-02T11:08:55"
   }
 ]
