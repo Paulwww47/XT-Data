@@ -54,5 +54,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1951793965063450721",
     "fullText": "https://t.co/u8ghZ5YQZO",
     "publishTime": "2025-08-03T07:55:18"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxYuTAAakAAzfYJ.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1951798402087547349",
+    "fullText": "sam7887020471 hugotang0505 https://t.co/HpRRfrJVka",
+    "publishTime": "2025-08-03T08:12:56"
+  },
+  {
+    "user": {
+      "screenName": "liangguai1",
+      "name": "亮拐"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxYzf8OaIAAZcOU.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/liangguai1/status/1951804127983304737",
+    "fullText": "https://t.co/urNuewWNnf",
+    "publishTime": "2025-08-03T08:35:41"
   }
 ]
