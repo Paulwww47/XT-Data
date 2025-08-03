@@ -113,5 +113,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1952107568849092669",
     "fullText": "https://t.co/CtpQCKM0h3",
     "publishTime": "2025-08-04T04:41:27"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxdTKvAboAAFbbw.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1952120414429466758",
+    "fullText": "simonli1203 https://t.co/ydIVQogvlU",
+    "publishTime": "2025-08-04T05:32:30"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxdTMzGbgAATG80.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1952120447124046061",
+    "fullText": "https://t.co/Rzsc3PdlhL",
+    "publishTime": "2025-08-04T05:32:37"
   }
 ]
