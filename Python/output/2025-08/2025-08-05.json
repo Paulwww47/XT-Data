@@ -258,5 +258,31 @@
     },
     "full_text": "https://t.co/ECv4swOh67",
     "publish_time": "2025-08-05T04:42:05"
+  },
+  {
+    "file_name": "GxifjpPasAAWAFS.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxifjpPasAAWAFS.jpg",
+    "read_time": "2025-08-05T06:00:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5284,
+      "timestamp": "2025-08-05T06:00:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 81791,
+      "size_mb": 0.08,
+      "timestamp": "2025-08-05T06:00:42",
+      "download_attempts": 0
+    },
+    "full_text": "joe_yuanbao https://t.co/85HvOXnp91",
+    "publish_time": "2025-08-05T05:44:43"
   }
 ]
