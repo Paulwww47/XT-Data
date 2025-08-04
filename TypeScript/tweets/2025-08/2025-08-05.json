@@ -26,5 +26,50 @@
     "tweetUrl": "https://x.com/youdi/status/1952413899455926369",
     "fullText": "https://t.co/3PDgteEVW8",
     "publishTime": "2025-08-05T00:58:42"
+  },
+  {
+    "user": {
+      "screenName": "HengYu1205",
+      "name": "HengYu"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gxhfg1yaMAElATZ.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/HengYu1205/status/1952415465797754904",
+    "fullText": "https://t.co/MZMuzDTgCV",
+    "publishTime": "2025-08-05T01:04:55"
+  },
+  {
+    "user": {
+      "screenName": "S20250608",
+      "name": "BOOM"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1952418546312720385/vid/avc1/720x1280/PN952vWGPsCP_KWO.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/S20250608/status/1952418625027256387",
+    "fullText": "阿达 https://t.co/IC0Sk0GSGY",
+    "publishTime": "2025-08-05T01:17:29"
+  },
+  {
+    "user": {
+      "screenName": "S20250608",
+      "name": "BOOM"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1952421891878330368/vid/avc1/800x720/JCqYgnQUe9Gkv0A5.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/1952421891865800704/vid/avc1/720x1274/iM-qEYJB9h2-WIkC.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/1952421891874115584/vid/avc1/720x720/Zr-QdZWcfMB0RCk8.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/1952421891869925376/vid/avc1/360x640/xRkILy-niXeBlsnI.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/S20250608/status/1952422009562136770",
+    "fullText": "#刘奕森\n谁还有他的料呀？ https://t.co/XBjIp1f63o",
+    "publishTime": "2025-08-05T01:30:55"
   }
 ]
