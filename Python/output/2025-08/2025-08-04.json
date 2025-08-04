@@ -554,23 +554,99 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/Gxeeh9QaIAA6knU.png",
     "read_time": "2025-08-04T11:01:57",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-04T11:02:25",
-      "notification_sent": false
+      "success": true,
+      "message_id": 5233,
+      "timestamp": "2025-08-04T12:01:29"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 443677,
       "size_mb": 0.42,
-      "timestamp": "2025-08-04T11:02:05",
+      "timestamp": "2025-08-04T12:01:28",
       "download_attempts": 0
     },
     "full_text": "https://t.co/n6cX87CgZd",
     "publish_time": "2025-08-04T11:01:46"
+  },
+  {
+    "file_name": "GxejNxnbkAAq6m1.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxejNxnbkAAq6m1.jpg",
+    "read_time": "2025-08-04T12:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5234,
+      "timestamp": "2025-08-04T12:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 185632,
+      "size_mb": 0.18,
+      "timestamp": "2025-08-04T12:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/OTrMOcFYuf",
+    "publish_time": "2025-08-04T11:22:14"
+  },
+  {
+    "file_name": "Rv36k6-2fODSEDrl.mp4",
+    "user": {
+      "screen_name": "LaFei2531",
+      "name": "小熊硬糖"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1952208418103848960/vid/avc1/1280x720/Rv36k6-2fODSEDrl.mp4?tag=21",
+    "read_time": "2025-08-04T12:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5235,
+      "timestamp": "2025-08-04T12:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1087105,
+      "size_mb": 1.04,
+      "timestamp": "2025-08-04T12:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "乳牛😈 https://t.co/DUAYfQQJ2Y",
+    "publish_time": "2025-08-04T11:22:29"
+  },
+  {
+    "file_name": "GxerGmHbIAAIBwF.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxerGmHbIAAIBwF.jpg",
+    "read_time": "2025-08-04T12:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5236,
+      "timestamp": "2025-08-04T12:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 145217,
+      "size_mb": 0.14,
+      "timestamp": "2025-08-04T12:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/3VJQGzphax",
+    "publish_time": "2025-08-04T11:56:44"
   }
 ]
