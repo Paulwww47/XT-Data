@@ -1506,5 +1506,59 @@
     },
     "full_text": "https://t.co/8YWDkdAnl7",
     "publish_time": "2025-08-04T18:43:23"
+  },
+  {
+    "file_name": "kaCm4KQ_s2ajBQcJ.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1952338509899218944/vid/avc1/720x1280/kaCm4KQ_s2ajBQcJ.mp4?tag=21",
+    "read_time": "2025-08-04T21:01:30",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-08-04T21:01:52",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 5183863,
+      "size_mb": 4.94,
+      "timestamp": "2025-08-04T21:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "给恋足的兄弟们 https://t.co/1I1vP67LgK",
+    "publish_time": "2025-08-04T20:05:30"
+  },
+  {
+    "file_name": "GxgbqdkbcAAs8JY.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxgbqdkbcAAs8JY.jpg",
+    "read_time": "2025-08-04T21:01:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5270,
+      "timestamp": "2025-08-04T21:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 256439,
+      "size_mb": 0.24,
+      "timestamp": "2025-08-04T21:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "wu_wei1991 https://t.co/8pNsoiDsh6",
+    "publish_time": "2025-08-04T20:08:29"
   }
 ]

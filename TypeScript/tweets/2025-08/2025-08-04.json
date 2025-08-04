@@ -644,5 +644,33 @@
     "tweetUrl": "https://x.com/youdi/status/1952319449559859529",
     "fullText": "https://t.co/8YWDkdAnl7",
     "publishTime": "2025-08-04T18:43:23"
+  },
+  {
+    "user": {
+      "screenName": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1952338509899218944/vid/avc1/720x1280/kaCm4KQ_s2ajBQcJ.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/MuscleHunterX/status/1952340114430169268",
+    "fullText": "给恋足的兄弟们 https://t.co/1I1vP67LgK",
+    "publishTime": "2025-08-04T20:05:30"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxgbqdkbcAAs8JY.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1952340862488440992",
+    "fullText": "wu_wei1991 https://t.co/8pNsoiDsh6",
+    "publishTime": "2025-08-04T20:08:29"
   }
 ]
