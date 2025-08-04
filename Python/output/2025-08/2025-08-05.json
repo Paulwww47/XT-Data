@@ -232,5 +232,31 @@
     },
     "full_text": "这周也去广州玩两天，可🈷️ https://t.co/Ub45BqPMo9",
     "publish_time": "2025-08-05T03:13:01"
+  },
+  {
+    "file_name": "GxiROIQaAAAFOIX.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxiROIQaAAAFOIX.jpg",
+    "read_time": "2025-08-05T05:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5283,
+      "timestamp": "2025-08-05T05:01:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 121518,
+      "size_mb": 0.12,
+      "timestamp": "2025-08-05T05:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ECv4swOh67",
+    "publish_time": "2025-08-05T04:42:05"
   }
 ]
