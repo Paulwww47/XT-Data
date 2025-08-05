@@ -659,5 +659,34 @@
     "tweetUrl": "https://x.com/huohuo0707330/status/1952682610498682897",
     "fullText": "洗澡一样 https://t.co/2Y0q1IpziA",
     "publishTime": "2025-08-05T18:46:28"
+  },
+  {
+    "user": {
+      "screenName": "koran0126",
+      "name": "코란"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxlY5PaWoAAiK6a.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/koran0126/status/1952689658464285005",
+    "fullText": "https://t.co/BJdsty2tYc",
+    "publishTime": "2025-08-05T19:14:28"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxlaC60awAAyFV6.jpg",
+      "https://pbs.twimg.com/media/GxlaC6ragAAJeE6.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1952690947231490129",
+    "fullText": "https://t.co/hAY2K2uKpD",
+    "publishTime": "2025-08-05T19:19:35"
   }
 ]
