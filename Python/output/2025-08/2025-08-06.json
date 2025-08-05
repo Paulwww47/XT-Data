@@ -362,5 +362,33 @@
     },
     "full_text": "https://t.co/Z3lNVoWAz6",
     "publish_time": "2025-08-06T04:46:29"
+  },
+  {
+    "file_name": "GxnvzWaawAIjvs9.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxnvzWaawAIjvs9.jpg",
+    "read_time": "2025-08-06T07:01:07",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-08-06T07:01:28",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 82135,
+      "size_mb": 0.08,
+      "timestamp": "2025-08-06T07:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ySLjBZiL2V",
+    "publish_time": "2025-08-06T06:13:48"
   }
 ]
