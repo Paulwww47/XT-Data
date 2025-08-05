@@ -688,5 +688,20 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1952690947231490129",
     "fullText": "https://t.co/hAY2K2uKpD",
     "publishTime": "2025-08-05T19:19:35"
+  },
+  {
+    "user": {
+      "screenName": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1952724892325220352/vid/avc1/720x1230/RHPpkwql5Xvtk-F6.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/1952724892266430464/vid/avc1/720x1154/aHVoPlY0-2DL_x3Q.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/MuscleHunterX/status/1952724952303472753",
+    "fullText": "饺子要吃烫烫的 男人要玩壮壮的 https://t.co/BjpxVnu9MM",
+    "publishTime": "2025-08-05T21:34:43"
   }
 ]
