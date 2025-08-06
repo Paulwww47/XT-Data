@@ -185,5 +185,35 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1953180973744713891",
     "fullText": "https://t.co/iNjHS62jvv",
     "publishTime": "2025-08-07T03:46:47"
+  },
+  {
+    "user": {
+      "screenName": "S20250608",
+      "name": "BOOM"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gxsd_taa0AADBLu.jpg",
+      "https://pbs.twimg.com/media/Gxsd_tabYAACvXK.jpg",
+      "https://pbs.twimg.com/media/Gxsd_tcbQAAT2oj.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/S20250608/status/1953187850314563641",
+    "fullText": "朱东林 https://t.co/Ij3CIRYitB",
+    "publishTime": "2025-08-07T04:14:06"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxskXpja4AAmClU.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1953194857893380501",
+    "fullText": "https://t.co/eh5Bzm8Gtm",
+    "publishTime": "2025-08-07T04:41:57"
   }
 ]
