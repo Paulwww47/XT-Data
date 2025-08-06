@@ -245,5 +245,34 @@
     "tweetUrl": "https://x.com/tkingjacksunday/status/1952897231998132524",
     "fullText": "I’m eating a salad when I could be eating Chili’s💔",
     "publishTime": "2025-08-06T08:59:17"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxobQaXa0AA9XL-.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1952903363563274551",
+    "fullText": "https://t.co/GTqv7M6HwD",
+    "publishTime": "2025-08-06T09:23:39"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gxof6oPawAQcHT3.jpg",
+      "https://pbs.twimg.com/media/Gxof6oFbgAAa8_U.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1952908486146441547",
+    "fullText": "marktototo https://t.co/OPfoInYBCf",
+    "publishTime": "2025-08-06T09:44:01"
   }
 ]
