@@ -492,5 +492,57 @@
     },
     "full_text": "marktototo https://t.co/OPfoInYBCf",
     "publish_time": "2025-08-06T09:44:01"
+  },
+  {
+    "file_name": "Gxol94gawAEqnVh.jpg",
+    "user": {
+      "screen_name": "easychen",
+      "name": "EasyChen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gxol94gawAEqnVh.jpg",
+    "read_time": "2025-08-06T11:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5360,
+      "timestamp": "2025-08-06T11:01:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 123364,
+      "size_mb": 0.12,
+      "timestamp": "2025-08-06T11:01:09",
+      "download_attempts": 0
+    },
+    "full_text": "#Easy同学正在独立开发  测试了下OpenAI 的开源模型，gpt-oss-20b ，在 MacMini M4 32G 上速度不错，能到 20+ token。思考速度很快，简单问题不到1s，看起来挺好…… 稍后仔细测测 https://t.co/KMjmMzvYjB",
+    "publish_time": "2025-08-06T10:10:29"
+  },
+  {
+    "file_name": "GxosKSgawAY5wVN.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxosKSgawAY5wVN.jpg",
+    "read_time": "2025-08-06T11:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5361,
+      "timestamp": "2025-08-06T11:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 109022,
+      "size_mb": 0.1,
+      "timestamp": "2025-08-06T11:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "hanghangzzh https://t.co/7TolH7nqQP",
+    "publish_time": "2025-08-06T10:37:31"
   }
 ]

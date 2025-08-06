@@ -274,5 +274,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1952908486146441547",
     "fullText": "marktototo https://t.co/OPfoInYBCf",
     "publishTime": "2025-08-06T09:44:01"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gxol94gawAEqnVh.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/easychen/status/1952915147741438206",
+    "fullText": "#Easy同学正在独立开发  测试了下OpenAI 的开源模型，gpt-oss-20b ，在 MacMini M4 32G 上速度不错，能到 20+ token。思考速度很快，简单问题不到1s，看起来挺好…… 稍后仔细测测 https://t.co/KMjmMzvYjB",
+    "publishTime": "2025-08-06T10:10:29"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxosKSgawAY5wVN.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1952921952295018617",
+    "fullText": "hanghangzzh https://t.co/7TolH7nqQP",
+    "publishTime": "2025-08-06T10:37:31"
   }
 ]
