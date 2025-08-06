@@ -372,23 +372,47 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GxnvzWaawAIjvs9.jpg",
     "read_time": "2025-08-06T07:01:07",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-06T07:01:28",
-      "notification_sent": false
+      "success": true,
+      "message_id": 5355,
+      "timestamp": "2025-08-06T08:01:21"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 82135,
       "size_mb": 0.08,
-      "timestamp": "2025-08-06T07:01:08",
+      "timestamp": "2025-08-06T08:01:20",
       "download_attempts": 0
     },
     "full_text": "https://t.co/ySLjBZiL2V",
     "publish_time": "2025-08-06T06:13:48"
+  },
+  {
+    "file_name": "P8hXdg821pyeWz0m.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1952879601237319680/vid/avc1/720x1280/P8hXdg821pyeWz0m.mp4?tag=21",
+    "read_time": "2025-08-06T08:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5356,
+      "timestamp": "2025-08-06T08:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 8370344,
+      "size_mb": 7.98,
+      "timestamp": "2025-08-06T08:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "平日 https://t.co/JaLScibvdf",
+    "publish_time": "2025-08-06T07:49:40"
   }
 ]
