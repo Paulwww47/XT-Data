@@ -1922,5 +1922,31 @@
     },
     "full_text": "晒红了 https://t.co/PAbCA4NtI9",
     "publish_time": "2025-08-06T19:45:52"
+  },
+  {
+    "file_name": "Gxq_CC_aMAArhVK.jpg",
+    "user": {
+      "screen_name": "Leon_pan999",
+      "name": "Leon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gxq_CC_aMAArhVK.jpg",
+    "read_time": "2025-08-06T22:00:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5415,
+      "timestamp": "2025-08-06T22:00:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 110981,
+      "size_mb": 0.11,
+      "timestamp": "2025-08-06T22:00:53",
+      "download_attempts": 0
+    },
+    "full_text": "臂围怎么练了这么久才34cm https://t.co/xhNjjIaj2g",
+    "publish_time": "2025-08-06T21:19:13"
   }
 ]
