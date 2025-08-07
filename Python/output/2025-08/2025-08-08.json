@@ -260,5 +260,59 @@
     },
     "full_text": "a6653578 https://t.co/8mUrhvfo31",
     "publish_time": "2025-08-08T04:53:55"
+  },
+  {
+    "file_name": "Gxx_vioboAAEkAw.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gxx_vioboAAEkAw.jpg",
+    "read_time": "2025-08-08T06:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5524,
+      "timestamp": "2025-08-08T06:01:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 174844,
+      "size_mb": 0.17,
+      "timestamp": "2025-08-08T06:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "jindol_ https://t.co/HOuJ1acGdo",
+    "publish_time": "2025-08-08T05:59:40"
+  },
+  {
+    "file_name": "Gxx_vipbgAAznLI.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gxx_vipbgAAznLI.jpg",
+    "read_time": "2025-08-08T06:01:17",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-08-08T06:01:39",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 145537,
+      "size_mb": 0.14,
+      "timestamp": "2025-08-08T06:01:19",
+      "download_attempts": 0
+    },
+    "full_text": "jindol_ https://t.co/HOuJ1acGdo",
+    "publish_time": "2025-08-08T05:59:40"
   }
 ]
