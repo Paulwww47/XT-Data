@@ -2366,5 +2366,59 @@
     },
     "full_text": "发现一个人妖网黄约了一个很帅的素人 \n没找到这个男的资料 \n长得像liam 我一开始以为是liam 结果一看不是 https://t.co/HxcsrKs1kU",
     "publish_time": "2025-08-07T21:54:49"
+  },
+  {
+    "file_name": "Gxws2maa0AAPB9z.jpg",
+    "user": {
+      "screen_name": "easychen",
+      "name": "EasyChen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gxws2maa0AAPB9z.jpg",
+    "read_time": "2025-08-08T00:00:47",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-08-08T00:01:08",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 69250,
+      "size_mb": 0.07,
+      "timestamp": "2025-08-08T00:00:47",
+      "download_attempts": 0
+    },
+    "full_text": "#Easy同学正在独立开发  这周又写应用内支付的功能了，因为这东西虚拟机不方便调试，每回都搞得很悲剧。踩坑回顾：\n\n1. 未完成交易一定要处理掉。\n\n无论是否成功都必须 completePurchase，否则用户下次无法发起新交易。查询未完成交易还得引入 in_app_pur… https://t.co/5qWX3T4mM4",
+    "publish_time": "2025-08-07T23:57:33"
+  },
+  {
+    "file_name": "GxwtVUjaoAAS9CG.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxwtVUjaoAAS9CG.jpg",
+    "read_time": "2025-08-08T00:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5512,
+      "timestamp": "2025-08-08T00:01:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 69777,
+      "size_mb": 0.07,
+      "timestamp": "2025-08-08T00:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "Tom Ford Fragrance Ad Campaign, 2007. https://t.co/69vGiGntR9",
+    "publish_time": "2025-08-07T23:59:36"
   }
 ]

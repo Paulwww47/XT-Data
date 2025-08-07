@@ -907,5 +907,33 @@
     "tweetUrl": "https://x.com/maletease/status/1953454786444996661",
     "fullText": "发现一个人妖网黄约了一个很帅的素人 \n没找到这个男的资料 \n长得像liam 我一开始以为是liam 结果一看不是 https://t.co/HxcsrKs1kU",
     "publishTime": "2025-08-07T21:54:49"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gxws2maa0AAPB9z.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/easychen/status/1953485674524623135",
+    "fullText": "#Easy同学正在独立开发  这周又写应用内支付的功能了，因为这东西虚拟机不方便调试，每回都搞得很悲剧。踩坑回顾：\n\n1. 未完成交易一定要处理掉。\n\n无论是否成功都必须 completePurchase，否则用户下次无法发起新交易。查询未完成交易还得引入 in_app_pur… https://t.co/5qWX3T4mM4",
+    "publishTime": "2025-08-07T23:57:33"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GxwtVUjaoAAS9CG.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1953486192038580628",
+    "fullText": "Tom Ford Fragrance Ad Campaign, 2007. https://t.co/69vGiGntR9",
+    "publishTime": "2025-08-07T23:59:36"
   }
 ]
