@@ -2354,14 +2354,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (51MB > 50MB)",
       "timestamp": "2025-08-07T22:01:26",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 54145448,
       "size_mb": 51.64,
-      "timestamp": "2025-08-07T22:01:26",
+      "timestamp": "2025-08-07T23:00:47",
       "download_attempts": 0
     },
     "full_text": "发现一个人妖网黄约了一个很帅的素人 \n没找到这个男的资料 \n长得像liam 我一开始以为是liam 结果一看不是 https://t.co/HxcsrKs1kU",
