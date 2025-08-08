@@ -738,20 +738,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GxzCMACbsAAfxH0.jpg",
     "read_time": "2025-08-08T11:02:01",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-08T11:02:30",
-      "notification_sent": false
+      "success": true,
+      "message_id": 5545,
+      "timestamp": "2025-08-08T12:01:13"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 154281,
       "size_mb": 0.15,
-      "timestamp": "2025-08-08T11:02:10",
+      "timestamp": "2025-08-08T12:01:12",
       "download_attempts": 0
     },
     "full_text": "https://t.co/FPJP9Cfx07",
@@ -782,5 +780,187 @@
     },
     "full_text": "https://t.co/kc3fGmgIYZ",
     "publish_time": "2025-08-08T10:50:24"
+  },
+  {
+    "file_name": "GxzHfj_aIAA8yv1.jpg",
+    "user": {
+      "screen_name": "leexuanchen_",
+      "name": "李煊辰"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxzHfj_aIAA8yv1.jpg",
+    "read_time": "2025-08-08T12:01:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5546,
+      "timestamp": "2025-08-08T12:01:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 245593,
+      "size_mb": 0.23,
+      "timestamp": "2025-08-08T12:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "卡哇1️⃣Ⓜ️\nVx：Ccccx1_ https://t.co/8ZWIcnGe8K",
+    "publish_time": "2025-08-08T11:13:10"
+  },
+  {
+    "file_name": "GxzHfj-bUAAhx7X.jpg",
+    "user": {
+      "screen_name": "leexuanchen_",
+      "name": "李煊辰"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxzHfj-bUAAhx7X.jpg",
+    "read_time": "2025-08-08T12:01:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5547,
+      "timestamp": "2025-08-08T12:01:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 266852,
+      "size_mb": 0.25,
+      "timestamp": "2025-08-08T12:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "卡哇1️⃣Ⓜ️\nVx：Ccccx1_ https://t.co/8ZWIcnGe8K",
+    "publish_time": "2025-08-08T11:13:10"
+  },
+  {
+    "file_name": "GxzHfj9bsAMH1I9.jpg",
+    "user": {
+      "screen_name": "leexuanchen_",
+      "name": "李煊辰"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxzHfj9bsAMH1I9.jpg",
+    "read_time": "2025-08-08T12:01:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5548,
+      "timestamp": "2025-08-08T12:01:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 196922,
+      "size_mb": 0.19,
+      "timestamp": "2025-08-08T12:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "卡哇1️⃣Ⓜ️\nVx：Ccccx1_ https://t.co/8ZWIcnGe8K",
+    "publish_time": "2025-08-08T11:13:10"
+  },
+  {
+    "file_name": "GxzH4ekbIAAUX0S.jpg",
+    "user": {
+      "screen_name": "iz3xf",
+      "name": "一丞"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxzH4ekbIAAUX0S.jpg",
+    "read_time": "2025-08-08T12:01:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5549,
+      "timestamp": "2025-08-08T12:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 322330,
+      "size_mb": 0.31,
+      "timestamp": "2025-08-08T12:01:18",
+      "download_attempts": 0
+    },
+    "full_text": "想你咯\nVx:Yi_cheng116688 https://t.co/5aX4h89hbQ",
+    "publish_time": "2025-08-08T11:14:55"
+  },
+  {
+    "file_name": "GxzH4ejbsAk5U9J.jpg",
+    "user": {
+      "screen_name": "iz3xf",
+      "name": "一丞"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxzH4ejbsAk5U9J.jpg",
+    "read_time": "2025-08-08T12:01:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5550,
+      "timestamp": "2025-08-08T12:01:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 154890,
+      "size_mb": 0.15,
+      "timestamp": "2025-08-08T12:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "想你咯\nVx:Yi_cheng116688 https://t.co/5aX4h89hbQ",
+    "publish_time": "2025-08-08T11:14:55"
+  },
+  {
+    "file_name": "GxzH4ema4AA7Tmy.jpg",
+    "user": {
+      "screen_name": "iz3xf",
+      "name": "一丞"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxzH4ema4AA7Tmy.jpg",
+    "read_time": "2025-08-08T12:01:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5551,
+      "timestamp": "2025-08-08T12:01:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 300058,
+      "size_mb": 0.29,
+      "timestamp": "2025-08-08T12:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "想你咯\nVx:Yi_cheng116688 https://t.co/5aX4h89hbQ",
+    "publish_time": "2025-08-08T11:14:55"
+  },
+  {
+    "file_name": "GxzH4exaAAAXTJk.jpg",
+    "user": {
+      "screen_name": "iz3xf",
+      "name": "一丞"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GxzH4exaAAAXTJk.jpg",
+    "read_time": "2025-08-08T12:01:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5552,
+      "timestamp": "2025-08-08T12:01:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 240113,
+      "size_mb": 0.23,
+      "timestamp": "2025-08-08T12:01:23",
+      "download_attempts": 0
+    },
+    "full_text": "想你咯\nVx:Yi_cheng116688 https://t.co/5aX4h89hbQ",
+    "publish_time": "2025-08-08T11:14:55"
   }
 ]
