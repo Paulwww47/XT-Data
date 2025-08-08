@@ -34,20 +34,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/Gx15-b0boAAfOMY.jpg",
     "read_time": "2025-08-09T01:01:56",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-09T01:02:19",
-      "notification_sent": false
+      "success": true,
+      "message_id": 5605,
+      "timestamp": "2025-08-09T02:01:31"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 130512,
       "size_mb": 0.12,
-      "timestamp": "2025-08-09T01:01:59",
+      "timestamp": "2025-08-09T02:01:30",
       "download_attempts": 0
     },
     "full_text": "Tom Ford for W Magazine by Steven Klein, 2005. https://t.co/jOXicMOvUD",
@@ -166,20 +164,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/Gx18OOvbsAIDz4f.png",
     "read_time": "2025-08-09T01:01:56",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-09T01:02:45",
-      "notification_sent": false
+      "success": true,
+      "message_id": 5606,
+      "timestamp": "2025-08-09T02:01:32"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 624045,
       "size_mb": 0.6,
-      "timestamp": "2025-08-09T01:02:25",
+      "timestamp": "2025-08-09T02:01:31",
       "download_attempts": 0
     },
     "full_text": "https://t.co/52qs6gaUWt",
@@ -262,5 +258,83 @@
     },
     "full_text": "睡觉💤 https://t.co/03goot6cjI",
     "publish_time": "2025-08-09T00:55:15"
+  },
+  {
+    "file_name": "bUnSjWVLHoXVEhXR.mp4",
+    "user": {
+      "screen_name": "Plaidpat",
+      "name": "熱男孩"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1953869848011837440/pu/vid/avc1/720x1280/bUnSjWVLHoXVEhXR.mp4?tag=12",
+    "read_time": "2025-08-09T02:01:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5607,
+      "timestamp": "2025-08-09T02:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 12246596,
+      "size_mb": 11.68,
+      "timestamp": "2025-08-09T02:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "直接给你们看他最最难见的露脸跳舞甩屌 这种极品大屌必然要给你们存一份档 不肉对你们还不是真爱？ https://t.co/B5YuPuVYdI",
+    "publish_time": "2025-08-09T01:24:58"
+  },
+  {
+    "file_name": "Gx2K2TdaMAAZqxG.jpg",
+    "user": {
+      "screen_name": "lvren51069",
+      "name": "律人"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gx2K2TdaMAAZqxG.jpg",
+    "read_time": "2025-08-09T02:01:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5608,
+      "timestamp": "2025-08-09T02:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 187723,
+      "size_mb": 0.18,
+      "timestamp": "2025-08-09T02:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "深夜更新两张 https://t.co/7ZQkHNEjZq",
+    "publish_time": "2025-08-09T01:26:42"
+  },
+  {
+    "file_name": "Gx2K2TYbsAI4Gg0.jpg",
+    "user": {
+      "screen_name": "lvren51069",
+      "name": "律人"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gx2K2TYbsAI4Gg0.jpg",
+    "read_time": "2025-08-09T02:01:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5609,
+      "timestamp": "2025-08-09T02:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 234238,
+      "size_mb": 0.22,
+      "timestamp": "2025-08-09T02:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "深夜更新两张 https://t.co/7ZQkHNEjZq",
+    "publish_time": "2025-08-09T01:26:42"
   }
 ]
