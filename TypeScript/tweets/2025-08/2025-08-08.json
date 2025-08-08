@@ -485,5 +485,22 @@
     "tweetUrl": "https://x.com/youdi/status/1953676403368747416",
     "fullText": "https://t.co/F5QiQ8Y4I5",
     "publishTime": "2025-08-08T12:35:26"
+  },
+  {
+    "user": {
+      "screenName": "xiaofeilius",
+      "name": "小肥刘"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gxzr7gKb0AAbT7f.jpg",
+      "https://pbs.twimg.com/media/Gxzr7gMbsAMdvV7.jpg",
+      "https://pbs.twimg.com/media/Gxzr7gQboAA4kLz.jpg",
+      "https://pbs.twimg.com/media/Gxzr7gUbwAA8GHV.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/xiaofeilius/status/1953695776032666061",
+    "fullText": "出体育生原味 https://t.co/eIp7Z00BiI",
+    "publishTime": "2025-08-08T13:52:25"
   }
 ]
