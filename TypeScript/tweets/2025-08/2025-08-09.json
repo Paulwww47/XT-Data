@@ -720,5 +720,48 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1954113825218895952",
     "fullText": "https://t.co/3e1n6N6zON",
     "publishTime": "2025-08-09T17:33:36"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1954124473592127488/vid/avc1/720x1280/019tWKucUfy05TM7.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1954124637324837279",
+    "fullText": "自己打 https://t.co/zQHpmDMXgN",
+    "publishTime": "2025-08-09T18:16:34"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx52RzKaIAALQRU.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1954129341937541134",
+    "fullText": "ray0601 https://t.co/dT7WYsJyMx",
+    "publishTime": "2025-08-09T18:35:15"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx55j2YbcAAuQmA.jpg",
+      "https://pbs.twimg.com/media/Gx55j2YasAAm247.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1954132950963909002",
+    "fullText": "neilakunis https://t.co/xlhm6WS63L",
+    "publishTime": "2025-08-09T18:49:36"
   }
 ]

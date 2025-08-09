@@ -1470,14 +1470,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (136MB > 50MB)",
       "timestamp": "2025-08-09T18:01:53",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 143136123,
       "size_mb": 136.51,
-      "timestamp": "2025-08-09T18:01:53",
+      "timestamp": "2025-08-09T19:01:55",
       "download_attempts": 0
     },
     "full_text": "binky 东南亚精牛 https://t.co/c6i3CwL4j1",
@@ -1508,5 +1508,109 @@
     },
     "full_text": "https://t.co/3e1n6N6zON",
     "publish_time": "2025-08-09T17:33:36"
+  },
+  {
+    "file_name": "019tWKucUfy05TM7.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1954124473592127488/vid/avc1/720x1280/019tWKucUfy05TM7.mp4?tag=21",
+    "read_time": "2025-08-09T19:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5654,
+      "timestamp": "2025-08-09T19:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 27331121,
+      "size_mb": 26.06,
+      "timestamp": "2025-08-09T19:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "自己打 https://t.co/zQHpmDMXgN",
+    "publish_time": "2025-08-09T18:16:34"
+  },
+  {
+    "file_name": "Gx52RzKaIAALQRU.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gx52RzKaIAALQRU.jpg",
+    "read_time": "2025-08-09T19:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5655,
+      "timestamp": "2025-08-09T19:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 103845,
+      "size_mb": 0.1,
+      "timestamp": "2025-08-09T19:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "ray0601 https://t.co/dT7WYsJyMx",
+    "publish_time": "2025-08-09T18:35:15"
+  },
+  {
+    "file_name": "Gx55j2YbcAAuQmA.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gx55j2YbcAAuQmA.jpg",
+    "read_time": "2025-08-09T19:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5656,
+      "timestamp": "2025-08-09T19:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 139614,
+      "size_mb": 0.13,
+      "timestamp": "2025-08-09T19:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "neilakunis https://t.co/xlhm6WS63L",
+    "publish_time": "2025-08-09T18:49:36"
+  },
+  {
+    "file_name": "Gx55j2YasAAm247.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gx55j2YasAAm247.jpg",
+    "read_time": "2025-08-09T19:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5657,
+      "timestamp": "2025-08-09T19:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 75895,
+      "size_mb": 0.07,
+      "timestamp": "2025-08-09T19:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "neilakunis https://t.co/xlhm6WS63L",
+    "publish_time": "2025-08-09T18:49:36"
   }
 ]
