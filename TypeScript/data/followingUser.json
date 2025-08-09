@@ -1348,22 +1348,6 @@
     }
   },
   {
-    "restId": "1045909015035867137",
-    "legacy": {
-      "name": "局部",
-      "screenName": "justeatmine",
-      "createdAt": "Sat Sep 29 05:31:56 +0000 2018",
-      "description": "身体多一个敏感点就多一个幸福。深圳",
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1045909015035867137/1668561743",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1678384247592321024/viUgKLeE_normal.jpg"
-    }
-  },
-  {
     "restId": "1756257691759202304",
     "legacy": {
       "name": "KevinLeeYoung",
