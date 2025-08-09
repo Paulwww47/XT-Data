@@ -692,5 +692,33 @@
     "tweetUrl": "https://x.com/youdi/status/1954101094792990878",
     "fullText": "https://t.co/LTKDuMIjN2",
     "publishTime": "2025-08-09T16:43:01"
+  },
+  {
+    "user": {
+      "screenName": "maletease",
+      "name": "MaleTease"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1954098686528827395/vid/avc1/720x1280/GXYXDQ-z9ihrvXVr.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/maletease/status/1954106047892730264",
+    "fullText": "binky 东南亚精牛 https://t.co/c6i3CwL4j1",
+    "publishTime": "2025-08-09T17:02:42"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx5oKWLagAAMoUS.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1954113825218895952",
+    "fullText": "https://t.co/3e1n6N6zON",
+    "publishTime": "2025-08-09T17:33:36"
   }
 ]
