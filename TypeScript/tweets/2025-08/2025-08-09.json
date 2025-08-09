@@ -405,5 +405,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1954055604211003569",
     "fullText": "louies_hunsom https://t.co/8PXzgURaz6",
     "publishTime": "2025-08-09T13:42:15"
+  },
+  {
+    "user": {
+      "screenName": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx44EVcbkAAlwnB.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/markma58304799/status/1954060946986709281",
+    "fullText": "😏 https://t.co/rXxBD5AxLa",
+    "publishTime": "2025-08-09T14:03:29"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx45Gqoa4AAD04z.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1954062081734717809",
+    "fullText": "mark.xiaohui https://t.co/grE9Mc4Vgs",
+    "publishTime": "2025-08-09T14:07:59"
   }
 ]
