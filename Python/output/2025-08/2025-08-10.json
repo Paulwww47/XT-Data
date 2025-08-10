@@ -320,20 +320,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1954377743417921536/vid/avc1/720x1280/Dv_9USt3-14hHGFw.mp4?tag=21",
     "read_time": "2025-08-10T12:01:13",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-10T12:01:35",
-      "notification_sent": false
+      "success": true,
+      "message_id": 5687,
+      "timestamp": "2025-08-10T13:00:48"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 8841092,
       "size_mb": 8.43,
-      "timestamp": "2025-08-10T12:01:14",
+      "timestamp": "2025-08-10T13:00:44",
       "download_attempts": 0
     },
     "full_text": "经过阅览大量的抖音擦边网妓投稿和视\n频和套路，分享一下我的心得！给大家总结一下抖音网妓的共同点。\n#抖音网红 #肌肉男 https://t.co/z523yEuYqt",
@@ -390,5 +388,109 @@
     },
     "full_text": "https://t.co/FgkGOfguwK",
     "publish_time": "2025-08-10T11:25:42"
+  },
+  {
+    "file_name": "Gx9o_HcbUAAoqSa.jpg",
+    "user": {
+      "screen_name": "captainshagang",
+      "name": "沙岗队长"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gx9o_HcbUAAoqSa.jpg",
+    "read_time": "2025-08-10T13:00:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5688,
+      "timestamp": "2025-08-10T13:00:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 124744,
+      "size_mb": 0.12,
+      "timestamp": "2025-08-10T13:00:48",
+      "download_attempts": 0
+    },
+    "full_text": "学生live对比图\n肌肉的厚度质量进步很多\n一周五节课肯定不是白上的\n所有的努力都将直接体现在自己身上 https://t.co/uwcZPRrQ7h",
+    "publish_time": "2025-08-10T12:15:40"
+  },
+  {
+    "file_name": "Gx9prNTbIAAaNqI.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gx9prNTbIAAaNqI.jpg",
+    "read_time": "2025-08-10T13:00:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5689,
+      "timestamp": "2025-08-10T13:00:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 33327,
+      "size_mb": 0.03,
+      "timestamp": "2025-08-10T13:00:49",
+      "download_attempts": 0
+    },
+    "full_text": "我知道我的问题出在哪里了，我无法拒绝别人！ https://t.co/qDyoX1zeob",
+    "publish_time": "2025-08-10T12:23:07"
+  },
+  {
+    "file_name": "Gx9qRNFbYAAQlp4.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gx9qRNFbYAAQlp4.jpg",
+    "read_time": "2025-08-10T13:00:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5690,
+      "timestamp": "2025-08-10T13:00:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 36881,
+      "size_mb": 0.04,
+      "timestamp": "2025-08-10T13:00:49",
+      "download_attempts": 0
+    },
+    "full_text": "我知道我的问题出在哪里了，我无法拒绝别人！ https://t.co/qDyoX1zeob",
+    "publish_time": "2025-08-10T12:23:07"
+  },
+  {
+    "file_name": "Gx9sQp5a0AANJNB.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gx9sQp5a0AANJNB.jpg",
+    "read_time": "2025-08-10T13:00:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5691,
+      "timestamp": "2025-08-10T13:00:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 219601,
+      "size_mb": 0.21,
+      "timestamp": "2025-08-10T13:00:50",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/krWgJgIFed",
+    "publish_time": "2025-08-10T12:30:01"
   }
 ]
