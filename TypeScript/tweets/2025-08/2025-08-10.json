@@ -569,5 +569,34 @@
     "tweetUrl": "https://x.com/Plaidpat/status/1954558134921347128",
     "fullText": "在说什么？ https://t.co/PIGAXI3dEs",
     "publishTime": "2025-08-10T22:59:07"
+  },
+  {
+    "user": {
+      "screenName": "T527753733",
+      "name": "地空捣蛋"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1954558612317351936/pu/vid/avc1/720x1280/WMGe5enO49nVXMv8.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/T527753733/status/1954558648124092515",
+    "fullText": "https://t.co/EXFpHLFQdy",
+    "publishTime": "2025-08-10T23:01:10"
+  },
+  {
+    "user": {
+      "screenName": "fangsheng10",
+      "name": "fangsheng"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx_9wt8WAAIctLl.jpg",
+      "https://pbs.twimg.com/media/Gx_9wt5X0AA5fhd.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/fangsheng10/status/1954559809404989734",
+    "fullText": "瘦了点吧 https://t.co/fHRYQGr177",
+    "publishTime": "2025-08-10T23:05:47"
   }
 ]
