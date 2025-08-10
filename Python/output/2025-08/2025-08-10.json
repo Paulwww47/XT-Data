@@ -310,5 +310,85 @@
     },
     "full_text": "https://t.co/MpsjgSJoCQ",
     "publish_time": "2025-08-10T09:14:59"
+  },
+  {
+    "file_name": "Dv_9USt3-14hHGFw.mp4",
+    "user": {
+      "screen_name": "S20250608",
+      "name": "BOOM"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1954377743417921536/vid/avc1/720x1280/Dv_9USt3-14hHGFw.mp4?tag=21",
+    "read_time": "2025-08-10T12:01:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-08-10T12:01:35",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 8841092,
+      "size_mb": 8.43,
+      "timestamp": "2025-08-10T12:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "经过阅览大量的抖音擦边网妓投稿和视\n频和套路，分享一下我的心得！给大家总结一下抖音网妓的共同点。\n#抖音网红 #肌肉男 https://t.co/z523yEuYqt",
+    "publish_time": "2025-08-10T11:02:46"
+  },
+  {
+    "file_name": "Gx9dgtnaUAAVnEd.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gx9dgtnaUAAVnEd.jpg",
+    "read_time": "2025-08-10T12:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5684,
+      "timestamp": "2025-08-10T12:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 99219,
+      "size_mb": 0.09,
+      "timestamp": "2025-08-10T12:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "louiewe https://t.co/roQ9TJCcdd",
+    "publish_time": "2025-08-10T11:25:32"
+  },
+  {
+    "file_name": "Gx9djNCbQAIS-eT.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gx9djNCbQAIS-eT.jpg",
+    "read_time": "2025-08-10T12:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5685,
+      "timestamp": "2025-08-10T12:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 92152,
+      "size_mb": 0.09,
+      "timestamp": "2025-08-10T12:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/FgkGOfguwK",
+    "publish_time": "2025-08-10T11:25:42"
   }
 ]
