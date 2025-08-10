@@ -83,5 +83,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1954295183325204867",
     "fullText": "gino_bai https://t.co/bEv1SufCM8",
     "publishTime": "2025-08-10T05:34:15"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx8hIaVaUAA6hcX.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1954317196521554286",
+    "fullText": "heneser https://t.co/PWjZ737fmY",
+    "publishTime": "2025-08-10T07:01:43"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1954320446922600449/vid/avc1/720x1280/sFUHZJVrx424YRka.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1954320502178324580",
+    "fullText": "https://t.co/T41a3vzH03",
+    "publishTime": "2025-08-10T07:14:51"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gx8tgHCbMAAX9LV.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1954330798527803659",
+    "fullText": "https://t.co/4xB18sGRbH",
+    "publishTime": "2025-08-10T07:55:46"
   }
 ]
