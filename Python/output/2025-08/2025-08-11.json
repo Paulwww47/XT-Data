@@ -190,20 +190,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1954716945347170304/vid/avc1/720x1026/1DkNq2mRs8fUZU7u.mp4?tag=21",
     "read_time": "2025-08-11T10:00:44",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-11T10:01:05",
-      "notification_sent": false
+      "success": true,
+      "message_id": 5729,
+      "timestamp": "2025-08-11T11:00:51"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 614884,
       "size_mb": 0.59,
-      "timestamp": "2025-08-11T10:00:44",
+      "timestamp": "2025-08-11T11:00:48",
       "download_attempts": 0
     },
     "full_text": "https://t.co/dVBOGzg2Ve",
@@ -286,5 +284,135 @@
     },
     "full_text": "alfie_ooshii https://t.co/sK6kCX1ZO5",
     "publish_time": "2025-08-11T09:31:09"
+  },
+  {
+    "file_name": "GyCWBs4awAANyPv.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyCWBs4awAANyPv.jpg",
+    "read_time": "2025-08-11T11:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5730,
+      "timestamp": "2025-08-11T11:00:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 107607,
+      "size_mb": 0.1,
+      "timestamp": "2025-08-11T11:00:51",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/K69XyKDVig",
+    "publish_time": "2025-08-11T10:10:56"
+  },
+  {
+    "file_name": "GyCdq4PbUAAz7QG.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyCdq4PbUAAz7QG.jpg",
+    "read_time": "2025-08-11T11:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5731,
+      "timestamp": "2025-08-11T11:00:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 148712,
+      "size_mb": 0.14,
+      "timestamp": "2025-08-11T11:00:52",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/cuUESerVJl",
+    "publish_time": "2025-08-11T10:44:23"
+  },
+  {
+    "file_name": "GyCeNH7bMAANUUO.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyCeNH7bMAANUUO.jpg",
+    "read_time": "2025-08-11T11:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5732,
+      "timestamp": "2025-08-11T11:00:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 89867,
+      "size_mb": 0.09,
+      "timestamp": "2025-08-11T11:00:53",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/lktYAZ8IkD",
+    "publish_time": "2025-08-11T10:46:42"
+  },
+  {
+    "file_name": "GyCfKuvaIAAteF3.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyCfKuvaIAAteF3.jpg",
+    "read_time": "2025-08-11T11:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5733,
+      "timestamp": "2025-08-11T11:00:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 61228,
+      "size_mb": 0.06,
+      "timestamp": "2025-08-11T11:00:54",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/6ULZBfjoOq",
+    "publish_time": "2025-08-11T10:50:53"
+  },
+  {
+    "file_name": "GyCfKtZaYAAMy3W.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyCfKtZaYAAMy3W.jpg",
+    "read_time": "2025-08-11T11:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5734,
+      "timestamp": "2025-08-11T11:00:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 56576,
+      "size_mb": 0.05,
+      "timestamp": "2025-08-11T11:00:55",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/6ULZBfjoOq",
+    "publish_time": "2025-08-11T10:50:53"
   }
 ]
