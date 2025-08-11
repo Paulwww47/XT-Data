@@ -502,20 +502,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1954758575928270848/vid/avc1/720x1276/CG8xOeAzqoSgduGm.mp4?tag=14",
     "read_time": "2025-08-11T13:00:45",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-11T13:01:06",
-      "notification_sent": false
+      "success": true,
+      "message_id": 5742,
+      "timestamp": "2025-08-11T14:00:49"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 6287998,
       "size_mb": 6.0,
-      "timestamp": "2025-08-11T13:00:45",
+      "timestamp": "2025-08-11T14:00:45",
       "download_attempts": 0
     },
     "full_text": "#Easy同学正在独立开发 因为发现有不少用户 OMate 来学外语，我们发布了一个新产品线：OMate Learn，AI 角色扮演 x 外语学习。演示见视频，官网 https://t.co/fWg6NlZYcn 可下载 https://t.co/3FA1fPl5dU",
@@ -598,5 +596,31 @@
     },
     "full_text": "https://t.co/htjSZEqsA3",
     "publish_time": "2025-08-11T12:41:55"
+  },
+  {
+    "file_name": "GyDBNLAa4AAyG1Z.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyDBNLAa4AAyG1Z.jpg",
+    "read_time": "2025-08-11T14:00:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5743,
+      "timestamp": "2025-08-11T14:00:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 99527,
+      "size_mb": 0.09,
+      "timestamp": "2025-08-11T14:00:49",
+      "download_attempts": 0
+    },
+    "full_text": "poehuang https://t.co/XUcWFTawrh",
+    "publish_time": "2025-08-11T13:19:35"
   }
 ]
