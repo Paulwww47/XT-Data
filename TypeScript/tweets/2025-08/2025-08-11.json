@@ -108,5 +108,48 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1954699325814214961",
     "fullText": "nnlovz https://t.co/JkQcyMSvjW",
     "publishTime": "2025-08-11T08:20:10"
+  },
+  {
+    "user": {
+      "screenName": "huahua6256",
+      "name": "花生6256"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1954716945347170304/vid/avc1/720x1026/1DkNq2mRs8fUZU7u.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/huahua6256/status/1954717002637115679",
+    "fullText": "https://t.co/dVBOGzg2Ve",
+    "publishTime": "2025-08-11T09:30:24"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyCMyBWbQAAcPYd.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1954717036137119963",
+    "fullText": "double.k_seok https://t.co/MuBoTIve7Y",
+    "publishTime": "2025-08-11T09:30:32"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyCM7D9akAAZTpL.jpg",
+      "https://pbs.twimg.com/media/GyCM7D4a0AAXuFc.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1954717190185525324",
+    "fullText": "alfie_ooshii https://t.co/sK6kCX1ZO5",
+    "publishTime": "2025-08-11T09:31:09"
   }
 ]
