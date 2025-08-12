@@ -621,5 +621,21 @@
     "tweetUrl": "https://x.com/youdi/status/1955228964529770950",
     "fullText": "https://t.co/Mjg3MOHhyw",
     "publishTime": "2025-08-12T19:24:46"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyJmuogaEAMqZUi.jpg",
+      "https://pbs.twimg.com/media/GyJmuolaUAAU7BT.jpg",
+      "https://pbs.twimg.com/media/GyJmuofaUAAoeWl.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1955238149296361592",
+    "fullText": "https://t.co/XZ0c804B7z",
+    "publishTime": "2025-08-12T20:01:16"
   }
 ]
