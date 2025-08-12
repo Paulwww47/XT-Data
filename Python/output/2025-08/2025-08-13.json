@@ -128,5 +128,33 @@
     },
     "full_text": "https://t.co/7MSY4edHV1",
     "publish_time": "2025-08-13T00:10:58"
+  },
+  {
+    "file_name": "aMdxrhjdWt2OyhBV.mp4",
+    "user": {
+      "screen_name": "Xiaochen651928",
+      "name": "小陈11"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1955328993827377152/pu/vid/avc1/1280x720/aMdxrhjdWt2OyhBV.mp4?tag=12",
+    "read_time": "2025-08-13T03:00:58",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-08-13T03:01:19",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 1153913,
+      "size_mb": 1.1,
+      "timestamp": "2025-08-13T03:00:58",
+      "download_attempts": 0
+    },
+    "full_text": "也是25年底了沉浸了好长一段时间，想和大家有过多的一些互动和交流，有没有想一起创作的呀，来私信互相了解一下～ https://t.co/RECXnP2ZLV",
+    "publish_time": "2025-08-13T02:02:22"
   }
 ]
