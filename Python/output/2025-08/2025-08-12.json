@@ -1454,5 +1454,31 @@
     },
     "full_text": "https://t.co/XZ0c804B7z",
     "publish_time": "2025-08-12T20:01:16"
+  },
+  {
+    "file_name": "xhW-d3SrT7M2mbqj.mp4",
+    "user": {
+      "screen_name": "AlwynShown",
+      "name": "F。our"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1955257070061867008/vid/avc1/720x1280/xhW-d3SrT7M2mbqj.mp4?tag=21",
+    "read_time": "2025-08-12T22:01:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5816,
+      "timestamp": "2025-08-12T22:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 10151634,
+      "size_mb": 9.68,
+      "timestamp": "2025-08-12T22:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "楼道！ https://t.co/aufvrrpE1G",
+    "publish_time": "2025-08-12T21:17:34"
   }
 ]
