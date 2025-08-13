@@ -130,7 +130,7 @@
       "name": "F。our",
       "screenName": "AlwynShown",
       "createdAt": "Sat Apr 18 04:43:19 +0000 2020",
-      "description": "苏B，1m，推止推，接定制，出🧦，私信没回就多发几遍，一般都会回。🚪52.0进群看无码，小号避难所@alwyn_shown",
+      "description": "苏B，1m，推止推，接定制，出🧦，私信没回就多发几遍，一般都会回。🚪52.0，进群看无码，小号避难所@alwyn_shown",
       "entities": {
         "description": {
           "urls": []
@@ -984,7 +984,7 @@
       "name": "眼镜控收藏夹",
       "screenName": "glassesmen1069",
       "createdAt": "Wed May 01 01:34:12 +0000 2024",
-      "description": "眼镜控收藏夹,重新开的号\n\n加电报会员群的联系我: https://t.co/jPdDhgMUx2\n以下网址为个人网盘&bluesky账号ID\nhttps://t.co/3AFq7nL8cs",
+      "description": "眼镜控收藏夹,重新开的号\n\n加电报会员群的联系我: https://t.co/jPdDhgMUx2\n电报聊天分享群(无需下载，点击即可加入)：\nhttps://t.co/JyPifpqNR4\n以下网址为个人网盘&bluesky账号ID\nhttps://t.co/3AFq7nL8cs",
       "entities": {
         "description": {
           "urls": [
@@ -998,12 +998,21 @@
               ]
             },
             {
+              "display_url": "t.me/glassesman1069",
+              "expanded_url": "https://t.me/glassesman1069",
+              "url": "https://t.co/JyPifpqNR4",
+              "indices": [
+                72,
+                95
+              ]
+            },
+            {
               "display_url": "1069419.xyz",
               "expanded_url": "https://1069419.xyz/",
               "url": "https://t.co/3AFq7nL8cs",
               "indices": [
-                72,
-                95
+                118,
+                141
               ]
             }
           ]
