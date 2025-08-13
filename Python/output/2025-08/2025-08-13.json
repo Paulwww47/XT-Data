@@ -1204,20 +1204,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GyOXc6oaQAA2Yj3.jpg",
     "read_time": "2025-08-13T19:00:40",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-13T19:01:00",
-      "notification_sent": false
+      "success": true,
+      "message_id": 5869,
+      "timestamp": "2025-08-13T20:00:39"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 91384,
       "size_mb": 0.09,
-      "timestamp": "2025-08-13T19:00:40",
+      "timestamp": "2025-08-13T20:00:38",
       "download_attempts": 0
     },
     "full_text": "hwang_salmon_185 https://t.co/sRwQtLJBS6",
@@ -1274,5 +1272,109 @@
     },
     "full_text": "https://t.co/TixfEX5BKK",
     "publish_time": "2025-08-13T18:18:19"
+  },
+  {
+    "file_name": "GyOjx6gaoAAB-l5.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyOjx6gaoAAB-l5.jpg",
+    "read_time": "2025-08-13T20:00:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5870,
+      "timestamp": "2025-08-13T20:00:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 142442,
+      "size_mb": 0.14,
+      "timestamp": "2025-08-13T20:00:39",
+      "download_attempts": 0
+    },
+    "full_text": "Kit Connor and Henry Cavill 🫦 https://t.co/m1yolsWY9p",
+    "publish_time": "2025-08-13T19:06:29"
+  },
+  {
+    "file_name": "GyOs46WbwAEmboO.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyOs46WbwAEmboO.jpg",
+    "read_time": "2025-08-13T20:00:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5871,
+      "timestamp": "2025-08-13T20:00:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 126492,
+      "size_mb": 0.12,
+      "timestamp": "2025-08-13T20:00:41",
+      "download_attempts": 0
+    },
+    "full_text": "khrononaut25h https://t.co/3Fuw1vzo7s",
+    "publish_time": "2025-08-13T19:46:16"
+  },
+  {
+    "file_name": "GyOupTMbMAAH-9i.jpg",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyOupTMbMAAH-9i.jpg",
+    "read_time": "2025-08-13T20:00:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5872,
+      "timestamp": "2025-08-13T20:00:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 342491,
+      "size_mb": 0.33,
+      "timestamp": "2025-08-13T20:00:43",
+      "download_attempts": 0
+    },
+    "full_text": "大阪観光 https://t.co/XKyCHgZdwN",
+    "publish_time": "2025-08-13T19:54:01"
+  },
+  {
+    "file_name": "GyOut46aoAAOlyU.jpg",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyOut46aoAAOlyU.jpg",
+    "read_time": "2025-08-13T20:00:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5873,
+      "timestamp": "2025-08-13T20:00:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 211854,
+      "size_mb": 0.2,
+      "timestamp": "2025-08-13T20:00:45",
+      "download_attempts": 0
+    },
+    "full_text": "実家最高\nピーマンの肉詰め好き好き大好き https://t.co/3Z4YmSA4qc",
+    "publish_time": "2025-08-13T19:55:04"
   }
 ]
