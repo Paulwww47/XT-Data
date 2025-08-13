@@ -582,5 +582,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1955562540840489403",
     "fullText": "wng_fit https://t.co/5s2sNtEcBW",
     "publishTime": "2025-08-13T17:30:16"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyOXc6oaQAA2Yj3.jpg",
+      "https://pbs.twimg.com/media/GyOXc6oa4AAA_H-.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1955573191700803641",
+    "fullText": "hwang_salmon_185 https://t.co/sRwQtLJBS6",
+    "publishTime": "2025-08-13T18:12:36"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyOYufia4AAlbdJ.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1955574629566943243",
+    "fullText": "https://t.co/TixfEX5BKK",
+    "publishTime": "2025-08-13T18:18:19"
   }
 ]
