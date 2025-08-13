@@ -127,5 +127,48 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1955392088893428221",
     "fullText": "morris89427 https://t.co/jjQXuvy2Ym",
     "publishTime": "2025-08-13T06:12:58"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyMGB0YaEAEUwou.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1955413297790152773",
+    "fullText": "sky.chen_ https://t.co/sJGHEpWN0g",
+    "publishTime": "2025-08-13T07:37:14"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyMGg2laEAAeZyP.jpg",
+      "https://pbs.twimg.com/media/GyMGg2iaEAIPR9r.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1955413830416339215",
+    "fullText": "https://t.co/OqYomer4HJ",
+    "publishTime": "2025-08-13T07:39:21"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1955418075177816064/vid/avc1/720x1280/03A7F7nGWoX8y_lJ.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1955418222729236929",
+    "fullText": "颱風假 https://t.co/GnFOI41oDT",
+    "publishTime": "2025-08-13T07:56:48"
   }
 ]
