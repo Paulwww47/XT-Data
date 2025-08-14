@@ -1704,14 +1704,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (190MB > 50MB)",
       "timestamp": "2025-08-14T20:01:56",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 199680237,
       "size_mb": 190.43,
-      "timestamp": "2025-08-14T20:01:56",
+      "timestamp": "2025-08-14T21:01:12",
       "download_attempts": 0
     },
     "full_text": "juunnn -part1 https://t.co/ZTIhQRYgsk",
