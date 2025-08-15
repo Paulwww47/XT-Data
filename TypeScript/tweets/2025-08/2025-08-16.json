@@ -83,5 +83,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1956450518894776772",
     "fullText": "joe_yuanbao https://t.co/BnQ2AmPjVl",
     "publishTime": "2025-08-16T04:18:47"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GybFzJfaYAAoeUP.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1956468576254386335",
+    "fullText": "xun_09.17 https://t.co/nWjN1Ud0SJ",
+    "publishTime": "2025-08-16T05:30:32"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GybK0SYbsAACuoL.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1956474093446066252",
+    "fullText": "2o9n https://t.co/qyDbqEhXeP",
+    "publishTime": "2025-08-16T05:52:28"
   }
 ]
