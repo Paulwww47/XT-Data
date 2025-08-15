@@ -499,5 +499,47 @@
     "tweetUrl": "https://x.com/Xiongdaha/status/1956293120766681315",
     "fullText": "分享了一张 jb 照： https://t.co/kIcY3w3HKn",
     "publishTime": "2025-08-15T17:53:20"
+  },
+  {
+    "user": {
+      "screenName": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyYrFMEa4AEozTM.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/FZchU5dnD944436/status/1956299424658768023",
+    "fullText": "串かつは椎茸がスキ夏の果て（ししとうも） https://t.co/fu5tIdS9mJ",
+    "publishTime": "2025-08-15T18:18:23"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyYwRNkbUAAzwjE.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1956304165321498733",
+    "fullText": "strt_mame24 https://t.co/r6pcBdCv73",
+    "publishTime": "2025-08-15T18:37:14"
+  },
+  {
+    "user": {
+      "screenName": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1956307767242964992/vid/avc1/720x1280/wL5i843FHfC5NJfn.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/FZchU5dnD944436/status/1956307884939129080",
+    "fullText": "マラビンタ https://t.co/g5cMfvTuFS",
+    "publishTime": "2025-08-15T18:52:00"
   }
 ]
