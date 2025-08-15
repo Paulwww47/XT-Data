@@ -154,5 +154,31 @@
     },
     "full_text": "懶得整理衣物 https://t.co/B5alYfuhS2",
     "publish_time": "2025-08-16T02:39:03"
+  },
+  {
+    "file_name": "Gya1YIJbwAAFbJI.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gya1YIJbwAAFbJI.jpg",
+    "read_time": "2025-08-16T05:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6016,
+      "timestamp": "2025-08-16T05:00:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 80834,
+      "size_mb": 0.08,
+      "timestamp": "2025-08-16T05:00:46",
+      "download_attempts": 0
+    },
+    "full_text": "joe_yuanbao https://t.co/BnQ2AmPjVl",
+    "publish_time": "2025-08-16T04:18:47"
   }
 ]
