@@ -541,5 +541,65 @@
     "tweetUrl": "https://x.com/FZchU5dnD944436/status/1956307884939129080",
     "fullText": "マラビンタ https://t.co/g5cMfvTuFS",
     "publishTime": "2025-08-15T18:52:00"
+  },
+  {
+    "user": {
+      "screenName": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyY2G7FaYAEu1Br.jpg",
+      "https://pbs.twimg.com/media/GyY1-sEa0AAetjV.jpg",
+      "https://pbs.twimg.com/media/GyY1_8dbAAAf91B.jpg",
+      "https://pbs.twimg.com/media/GyY2BNhawAAmKaF.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/FZchU5dnD944436/status/1956311015232258233",
+    "fullText": "ドピュっ！！！ https://t.co/2pNvLihXUp",
+    "publishTime": "2025-08-15T19:04:27"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyY-KNFa0AAhd4E.jpg",
+      "https://pbs.twimg.com/media/GyY-KNKbcAAIGWB.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1956319440444043557",
+    "fullText": "https://t.co/OMiAts9zPO",
+    "publishTime": "2025-08-15T19:37:55"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyY-PRcbkAA0cO8.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1956319525579702477",
+    "fullText": "https://t.co/oqxMqORGIP",
+    "publishTime": "2025-08-15T19:38:16"
+  },
+  {
+    "user": {
+      "screenName": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1956324471989829632/vid/avc1/720x1280/7n0-471xUaiGbcuZ.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/MuscleHunterX/status/1956324656606306468",
+    "fullText": "挺粗挺大挺骚 https://t.co/xXgGkl0zGD",
+    "publishTime": "2025-08-15T19:58:39"
   }
 ]

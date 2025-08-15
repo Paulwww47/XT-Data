@@ -1074,20 +1074,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GyYrFMEa4AEozTM.jpg",
     "read_time": "2025-08-15T19:00:51",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-15T19:01:12",
-      "notification_sent": false
+      "success": true,
+      "message_id": 5996,
+      "timestamp": "2025-08-15T20:00:51"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 204913,
       "size_mb": 0.2,
-      "timestamp": "2025-08-15T19:00:51",
+      "timestamp": "2025-08-15T20:00:50",
       "download_attempts": 0
     },
     "full_text": "串かつは椎茸がスキ夏の果て（ししとうも） https://t.co/fu5tIdS9mJ",
@@ -1128,23 +1126,229 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1956307767242964992/vid/avc1/720x1280/wL5i843FHfC5NJfn.mp4?tag=14",
     "read_time": "2025-08-15T19:00:51",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-15T19:01:34",
-      "notification_sent": false
+      "success": true,
+      "message_id": 5997,
+      "timestamp": "2025-08-15T20:00:53"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 924392,
       "size_mb": 0.88,
-      "timestamp": "2025-08-15T19:01:14",
+      "timestamp": "2025-08-15T20:00:51",
       "download_attempts": 0
     },
     "full_text": "マラビンタ https://t.co/g5cMfvTuFS",
     "publish_time": "2025-08-15T18:52:00"
+  },
+  {
+    "file_name": "GyY2G7FaYAEu1Br.jpg",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyY2G7FaYAEu1Br.jpg",
+    "read_time": "2025-08-15T20:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5998,
+      "timestamp": "2025-08-15T20:00:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 100879,
+      "size_mb": 0.1,
+      "timestamp": "2025-08-15T20:00:53",
+      "download_attempts": 0
+    },
+    "full_text": "ドピュっ！！！ https://t.co/2pNvLihXUp",
+    "publish_time": "2025-08-15T19:04:27"
+  },
+  {
+    "file_name": "GyY1-sEa0AAetjV.jpg",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyY1-sEa0AAetjV.jpg",
+    "read_time": "2025-08-15T20:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 5999,
+      "timestamp": "2025-08-15T20:00:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 107677,
+      "size_mb": 0.1,
+      "timestamp": "2025-08-15T20:00:54",
+      "download_attempts": 0
+    },
+    "full_text": "ドピュっ！！！ https://t.co/2pNvLihXUp",
+    "publish_time": "2025-08-15T19:04:27"
+  },
+  {
+    "file_name": "GyY1_8dbAAAf91B.jpg",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyY1_8dbAAAf91B.jpg",
+    "read_time": "2025-08-15T20:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6000,
+      "timestamp": "2025-08-15T20:00:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101680,
+      "size_mb": 0.1,
+      "timestamp": "2025-08-15T20:00:54",
+      "download_attempts": 0
+    },
+    "full_text": "ドピュっ！！！ https://t.co/2pNvLihXUp",
+    "publish_time": "2025-08-15T19:04:27"
+  },
+  {
+    "file_name": "GyY2BNhawAAmKaF.jpg",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyY2BNhawAAmKaF.jpg",
+    "read_time": "2025-08-15T20:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6001,
+      "timestamp": "2025-08-15T20:00:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 107666,
+      "size_mb": 0.1,
+      "timestamp": "2025-08-15T20:00:55",
+      "download_attempts": 0
+    },
+    "full_text": "ドピュっ！！！ https://t.co/2pNvLihXUp",
+    "publish_time": "2025-08-15T19:04:27"
+  },
+  {
+    "file_name": "GyY-KNFa0AAhd4E.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyY-KNFa0AAhd4E.jpg",
+    "read_time": "2025-08-15T20:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6002,
+      "timestamp": "2025-08-15T20:00:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 206741,
+      "size_mb": 0.2,
+      "timestamp": "2025-08-15T20:00:56",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/OMiAts9zPO",
+    "publish_time": "2025-08-15T19:37:55"
+  },
+  {
+    "file_name": "GyY-KNKbcAAIGWB.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyY-KNKbcAAIGWB.jpg",
+    "read_time": "2025-08-15T20:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6003,
+      "timestamp": "2025-08-15T20:00:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 223149,
+      "size_mb": 0.21,
+      "timestamp": "2025-08-15T20:00:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/OMiAts9zPO",
+    "publish_time": "2025-08-15T19:37:55"
+  },
+  {
+    "file_name": "GyY-PRcbkAA0cO8.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyY-PRcbkAA0cO8.jpg",
+    "read_time": "2025-08-15T20:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6004,
+      "timestamp": "2025-08-15T20:01:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 100621,
+      "size_mb": 0.1,
+      "timestamp": "2025-08-15T20:00:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/oqxMqORGIP",
+    "publish_time": "2025-08-15T19:38:16"
+  },
+  {
+    "file_name": "7n0-471xUaiGbcuZ.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1956324471989829632/vid/avc1/720x1280/7n0-471xUaiGbcuZ.mp4?tag=21",
+    "read_time": "2025-08-15T20:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6005,
+      "timestamp": "2025-08-15T20:01:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 987784,
+      "size_mb": 0.94,
+      "timestamp": "2025-08-15T20:01:00",
+      "download_attempts": 0
+    },
+    "full_text": "挺粗挺大挺骚 https://t.co/xXgGkl0zGD",
+    "publish_time": "2025-08-15T19:58:39"
   }
 ]
