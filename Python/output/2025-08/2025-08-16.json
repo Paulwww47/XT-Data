@@ -242,23 +242,73 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1956480217528344576/vid/avc1/800x720/qUXmuG3HFDe74Bl1.mp4?tag=21",
     "read_time": "2025-08-16T07:00:54",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-16T07:01:16",
-      "notification_sent": false
+      "success": true,
+      "message_id": 6020,
+      "timestamp": "2025-08-16T08:00:56"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 3102410,
       "size_mb": 2.96,
-      "timestamp": "2025-08-16T07:00:55",
+      "timestamp": "2025-08-16T08:00:53",
       "download_attempts": 0
     },
     "full_text": "刘奕森 爆料➕1 https://t.co/Rf8GyrtUF2",
     "publish_time": "2025-08-16T06:17:06"
+  },
+  {
+    "file_name": "GybhgxTaoAAEdDW.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GybhgxTaoAAEdDW.jpg",
+    "read_time": "2025-08-16T08:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6021,
+      "timestamp": "2025-08-16T08:00:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 188086,
+      "size_mb": 0.18,
+      "timestamp": "2025-08-16T08:00:56",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/cp2LthNOXj",
+    "publish_time": "2025-08-16T07:31:37"
+  },
+  {
+    "file_name": "GybjcNNaEAAc4w-.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GybjcNNaEAAc4w-.jpg",
+    "read_time": "2025-08-16T08:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6022,
+      "timestamp": "2025-08-16T08:00:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 130480,
+      "size_mb": 0.12,
+      "timestamp": "2025-08-16T08:00:57",
+      "download_attempts": 0
+    },
+    "full_text": "dylanhzI_ https://t.co/6m7Sywjpru",
+    "publish_time": "2025-08-16T07:40:02"
   }
 ]
