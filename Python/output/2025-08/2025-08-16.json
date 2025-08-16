@@ -1205,10 +1205,20 @@
     "url": "https://pbs.twimg.com/media/Gyeaf_1aIAAfSMy.jpg",
     "read_time": "2025-08-16T22:01:32",
     "is_uploaded": false,
-    "upload_info": {},
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-08-16T23:01:37",
+      "notification_sent": false
+    },
     "is_downloaded": false,
     "download_info": {
-      "download_attempts": 1
+      "download_attempts": 0,
+      "success": true,
+      "size": 146688,
+      "size_mb": 0.14,
+      "timestamp": "2025-08-16T23:01:17"
     },
     "full_text": "晒个太阳 https://t.co/MtzMzZc6mC",
     "publish_time": "2025-08-16T21:01:48"
@@ -1394,5 +1404,57 @@
     },
     "full_text": "俺の顔チンポはフリー素材 https://t.co/eaTXXjK0cN",
     "publish_time": "2025-08-16T21:59:43"
+  },
+  {
+    "file_name": "nyELB5XATZ96PVSf.mp4",
+    "user": {
+      "screen_name": "SSS_MarkMark",
+      "name": "列文马克（不接推广"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1956723197422043136/vid/avc1/720x1280/nyELB5XATZ96PVSf.mp4?tag=21",
+    "read_time": "2025-08-16T23:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6066,
+      "timestamp": "2025-08-16T23:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 121654,
+      "size_mb": 0.12,
+      "timestamp": "2025-08-16T23:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "晕了 最近给骚逼穿原味穿到脚底起皮…… #原味 https://t.co/hXGNFY6UPI",
+    "publish_time": "2025-08-16T22:22:24"
+  },
+  {
+    "file_name": "lv8BQUlRzao3BweS.mp4",
+    "user": {
+      "screen_name": "seemydogss",
+      "name": "记录畜生日常"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1956729601541234688/pu/vid/avc1/720x1280/lv8BQUlRzao3BweS.mp4?tag=12",
+    "read_time": "2025-08-16T23:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6068,
+      "timestamp": "2025-08-16T23:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3370830,
+      "size_mb": 3.21,
+      "timestamp": "2025-08-16T23:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/KyD4Lh6ZeA",
+    "publish_time": "2025-08-16T22:48:29"
   }
 ]
