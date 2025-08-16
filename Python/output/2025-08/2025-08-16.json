@@ -1048,20 +1048,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GyeCzoVbsAAdeYM.png",
     "read_time": "2025-08-16T20:01:03",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-16T20:01:24",
-      "notification_sent": false
+      "success": true,
+      "message_id": 6056,
+      "timestamp": "2025-08-16T21:01:20"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 262154,
       "size_mb": 0.25,
-      "timestamp": "2025-08-16T20:01:03",
+      "timestamp": "2025-08-16T21:01:19",
       "download_attempts": 0
     },
     "full_text": "https://t.co/irGCiBb4fQ",
@@ -1102,20 +1100,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1956681331079069696/vid/avc1/720x720/L04XSvz73SXV9eAL.mp4?tag=21",
     "read_time": "2025-08-16T20:01:03",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-16T20:01:47",
-      "notification_sent": false
+      "success": true,
+      "message_id": 6057,
+      "timestamp": "2025-08-16T21:01:23"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 3274726,
       "size_mb": 3.12,
-      "timestamp": "2025-08-16T20:01:26",
+      "timestamp": "2025-08-16T21:01:21",
       "download_attempts": 0
     },
     "full_text": "高铁暴露就是爽，肉棒硬得很\n专门为骚逼准备了四天的臭袜子\n#暴露 #1s #内射 #原味 #白袜 https://t.co/W2dpHEkcKH",
@@ -1172,5 +1168,31 @@
     },
     "full_text": "【福利群限时开放🎉】感恩粉丝一路相伴！今日重磅推出\"宠粉福利群\"，24小时内无门槛免费加入，解锁：\n✨独家4K高清视频\n✨未公开私人写真集\n👉速戳通道TG✈️：https://t.co/rCsSIUpWGe\n⚠️【暗号:xs】 秒通过（推特消息已爆仓，仅限群内互动哦~）\n🔥小贴士：前100名进群可领神秘资源 https://t.co/uWJmQhBqRj",
     "publish_time": "2025-08-16T19:45:52"
+  },
+  {
+    "file_name": "GyeUpWNagAAASsc.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyeUpWNagAAASsc.jpg",
+    "read_time": "2025-08-16T21:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6058,
+      "timestamp": "2025-08-16T21:01:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 128231,
+      "size_mb": 0.12,
+      "timestamp": "2025-08-16T21:01:23",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/UX7amZiZtq",
+    "publish_time": "2025-08-16T20:34:16"
   }
 ]
