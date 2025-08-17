@@ -440,5 +440,33 @@
     },
     "full_text": "早 https://t.co/ja5jEsEG7c",
     "publish_time": "2025-08-17T09:26:15"
+  },
+  {
+    "file_name": "GyhVMO8aAAANmzk.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyhVMO8aAAANmzk.jpg",
+    "read_time": "2025-08-17T11:01:04",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-08-17T11:01:25",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 124733,
+      "size_mb": 0.12,
+      "timestamp": "2025-08-17T11:01:04",
+      "download_attempts": 0
+    },
+    "full_text": "quebaner https://t.co/GBE91R88iy",
+    "publish_time": "2025-08-17T10:35:31"
   }
 ]
