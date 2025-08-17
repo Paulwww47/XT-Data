@@ -180,5 +180,111 @@
     },
     "full_text": "badassivan https://t.co/MgLrJMQEr0",
     "publish_time": "2025-08-18T04:34:36"
+  },
+  {
+    "file_name": "GyljC9JaIAAhM6O.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyljC9JaIAAhM6O.jpg",
+    "read_time": "2025-08-18T07:01:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6139,
+      "timestamp": "2025-08-18T07:01:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 132624,
+      "size_mb": 0.13,
+      "timestamp": "2025-08-18T07:01:09",
+      "download_attempts": 0
+    },
+    "full_text": "choujeffery https://t.co/AG87O6870h",
+    "publish_time": "2025-08-18T06:14:31"
+  },
+  {
+    "file_name": "Gylj9KRbkAAoOvC.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gylj9KRbkAAoOvC.jpg",
+    "read_time": "2025-08-18T07:01:08",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-08-18T07:01:30",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 159652,
+      "size_mb": 0.15,
+      "timestamp": "2025-08-18T07:01:10",
+      "download_attempts": 0
+    },
+    "full_text": "KkyuwOoO https://t.co/mZZq2wzZRH",
+    "publish_time": "2025-08-18T06:18:30"
+  },
+  {
+    "file_name": "Gylj9KkasAAiqzf.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gylj9KkasAAiqzf.jpg",
+    "read_time": "2025-08-18T07:01:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6140,
+      "timestamp": "2025-08-18T07:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 159557,
+      "size_mb": 0.15,
+      "timestamp": "2025-08-18T07:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "KkyuwOoO https://t.co/mZZq2wzZRH",
+    "publish_time": "2025-08-18T06:18:30"
+  },
+  {
+    "file_name": "GylkEjiawAA1nh2.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GylkEjiawAA1nh2.jpg",
+    "read_time": "2025-08-18T07:01:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6141,
+      "timestamp": "2025-08-18T07:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 217282,
+      "size_mb": 0.21,
+      "timestamp": "2025-08-18T07:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "Kkyuwoo0 https://t.co/3jOJIwhuIk",
+    "publish_time": "2025-08-18T06:19:00"
   }
 ]
