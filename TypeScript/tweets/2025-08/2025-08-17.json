@@ -280,5 +280,48 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1956934835102204029",
     "fullText": "sid _50d https://t.co/nBmmDDGEGD",
     "publishTime": "2025-08-17T12:23:17"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gyh7lxAa4AA4PiC.jpg",
+      "https://pbs.twimg.com/media/Gyh7lxFaUAEyIsc.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1956949943597281709",
+    "fullText": "_eayon https://t.co/Ru967tUlnG",
+    "publishTime": "2025-08-17T13:23:19"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gyh7uqcbcAANC8Y.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1956950085130145813",
+    "fullText": "https://t.co/RVOpVEzQ6P",
+    "publishTime": "2025-08-17T13:23:53"
+  },
+  {
+    "user": {
+      "screenName": "Louiewe123",
+      "name": "Louiewe卤蛋头"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1956956883476201472/vid/avc1/720x1280/jgDu6e9ot9rv1Siy.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Louiewe123/status/1956957040225460448",
+    "fullText": "居家服➡️健身服 https://t.co/PENvmyHu8U",
+    "publishTime": "2025-08-17T13:51:31"
   }
 ]
