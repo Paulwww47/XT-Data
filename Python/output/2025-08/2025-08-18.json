@@ -216,20 +216,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/Gylj9KRbkAAoOvC.jpg",
     "read_time": "2025-08-18T07:01:08",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-18T07:01:30",
-      "notification_sent": false
+      "success": true,
+      "message_id": 6143,
+      "timestamp": "2025-08-18T08:01:08"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 159652,
       "size_mb": 0.15,
-      "timestamp": "2025-08-18T07:01:10",
+      "timestamp": "2025-08-18T08:01:07",
       "download_attempts": 0
     },
     "full_text": "KkyuwOoO https://t.co/mZZq2wzZRH",
@@ -286,5 +284,57 @@
     },
     "full_text": "Kkyuwoo0 https://t.co/3jOJIwhuIk",
     "publish_time": "2025-08-18T06:19:00"
+  },
+  {
+    "file_name": "GylxsdbbIAAuiTZ.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GylxsdbbIAAuiTZ.jpg",
+    "read_time": "2025-08-18T08:01:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6144,
+      "timestamp": "2025-08-18T08:01:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 193415,
+      "size_mb": 0.18,
+      "timestamp": "2025-08-18T08:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "nick.fenway https://t.co/mTo7nku2Z3",
+    "publish_time": "2025-08-18T07:18:31"
+  },
+  {
+    "file_name": "68XXaBsogYLAbecz.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1957228449422295040/vid/avc1/720x1280/68XXaBsogYLAbecz.mp4?tag=21",
+    "read_time": "2025-08-18T08:01:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6145,
+      "timestamp": "2025-08-18T08:01:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2039983,
+      "size_mb": 1.95,
+      "timestamp": "2025-08-18T08:01:10",
+      "download_attempts": 0
+    },
+    "full_text": "很少這視角 https://t.co/4q6SKF0Rdt",
+    "publish_time": "2025-08-18T07:50:17"
   }
 ]

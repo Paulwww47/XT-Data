@@ -100,5 +100,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1957205549025824948",
     "fullText": "Kkyuwoo0 https://t.co/3jOJIwhuIk",
     "publishTime": "2025-08-18T06:19:00"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GylxsdbbIAAuiTZ.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1957220527418007860",
+    "fullText": "nick.fenway https://t.co/mTo7nku2Z3",
+    "publishTime": "2025-08-18T07:18:31"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1957228449422295040/vid/avc1/720x1280/68XXaBsogYLAbecz.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1957228521404895269",
+    "fullText": "很少這視角 https://t.co/4q6SKF0Rdt",
+    "publishTime": "2025-08-18T07:50:17"
   }
 ]
