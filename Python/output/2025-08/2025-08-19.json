@@ -102,5 +102,31 @@
     },
     "full_text": "我们猴子自己都看不惯自己 https://t.co/jXUx2hnB7a",
     "publish_time": "2025-08-19T02:39:22"
+  },
+  {
+    "file_name": "GyqXymDacAAmHcq.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyqXymDacAAmHcq.jpg",
+    "read_time": "2025-08-19T05:01:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6214,
+      "timestamp": "2025-08-19T05:01:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 66386,
+      "size_mb": 0.06,
+      "timestamp": "2025-08-19T05:01:06",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vaSYBTy3Rh",
+    "publish_time": "2025-08-19T04:43:26"
   }
 ]
