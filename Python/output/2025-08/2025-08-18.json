@@ -1740,5 +1740,83 @@
     },
     "full_text": "pandypony https://t.co/3LeuPjNeOg",
     "publish_time": "2025-08-18T18:44:30"
+  },
+  {
+    "file_name": "GyoZiH8bsAACxuA.jpg",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyoZiH8bsAACxuA.jpg",
+    "read_time": "2025-08-18T20:00:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6200,
+      "timestamp": "2025-08-18T20:00:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 72206,
+      "size_mb": 0.07,
+      "timestamp": "2025-08-18T20:00:43",
+      "download_attempts": 0
+    },
+    "full_text": "俺のガキ孕めオラッ https://t.co/ZDImIWqAKk",
+    "publish_time": "2025-08-18T19:32:16"
+  },
+  {
+    "file_name": "KiZ6tAnm17ALIyfS.mp4",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1957405038630072320/vid/avc1/584x1280/KiZ6tAnm17ALIyfS.mp4?tag=14",
+    "read_time": "2025-08-18T20:00:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6201,
+      "timestamp": "2025-08-18T20:00:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2917274,
+      "size_mb": 2.78,
+      "timestamp": "2025-08-18T20:00:45",
+      "download_attempts": 0
+    },
+    "full_text": "俺のガキ孕めオラッ https://t.co/ZDImIWqAKk",
+    "publish_time": "2025-08-18T19:32:16"
+  },
+  {
+    "file_name": "GyoawfLawAAOlhr.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyoawfLawAAOlhr.jpg",
+    "read_time": "2025-08-18T20:00:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6202,
+      "timestamp": "2025-08-18T20:00:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 126773,
+      "size_mb": 0.12,
+      "timestamp": "2025-08-18T20:00:48",
+      "download_attempts": 0
+    },
+    "full_text": "juzconam https://t.co/g2z6twwyxB",
+    "publish_time": "2025-08-18T19:37:10"
   }
 ]
