@@ -1818,5 +1818,31 @@
     },
     "full_text": "juzconam https://t.co/g2z6twwyxB",
     "publish_time": "2025-08-18T19:37:10"
+  },
+  {
+    "file_name": "Gyojr62aQAAaE-x.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gyojr62aQAAaE-x.jpg",
+    "read_time": "2025-08-18T21:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6203,
+      "timestamp": "2025-08-18T21:00:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 165231,
+      "size_mb": 0.16,
+      "timestamp": "2025-08-18T21:00:47",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/aS2p5DvLDU",
+    "publish_time": "2025-08-18T20:16:11"
   }
 ]
