@@ -1834,14 +1834,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (507MB > 50MB)",
       "timestamp": "2025-08-19T23:02:03",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 531770867,
       "size_mb": 507.14,
-      "timestamp": "2025-08-19T23:02:03",
+      "timestamp": "2025-08-20T00:00:51",
       "download_attempts": 0
     },
     "full_text": "juunnn 2 https://t.co/5jsTRv48Ys",
