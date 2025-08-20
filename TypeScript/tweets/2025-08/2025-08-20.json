@@ -491,5 +491,48 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1958074526635606102",
     "fullText": "https://t.co/yZXPjuKGra",
     "publishTime": "2025-08-20T15:52:01"
+  },
+  {
+    "user": {
+      "screenName": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gyx9xtKacAEiOrg.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/FZchU5dnD944436/status/1958078264620249540",
+    "fullText": "明日上野いこうかな～～ https://t.co/k5n8rqq4OC",
+    "publishTime": "2025-08-20T16:06:52"
+  },
+  {
+    "user": {
+      "screenName": "liangguai1",
+      "name": "亮拐"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyyDt3dacAQkStT.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/liangguai1/status/1958084828294967789",
+    "fullText": "https://t.co/9P1GD2LOQr",
+    "publishTime": "2025-08-20T16:32:57"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GyyHopHaYAA3xp-.jpg",
+      "https://pbs.twimg.com/media/GyyHopJagAANRu7.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1958089079960248586",
+    "fullText": "https://t.co/7UYmSwpFb6",
+    "publishTime": "2025-08-20T16:49:50"
   }
 ]
