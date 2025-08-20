@@ -1248,5 +1248,83 @@
     },
     "full_text": "https://t.co/7UYmSwpFb6",
     "publish_time": "2025-08-20T16:49:50"
+  },
+  {
+    "file_name": "vjngUT_j7_x0uyk9.mp4",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1958108111312683008/vid/avc1/1280x720/vjngUT_j7_x0uyk9.mp4?tag=14",
+    "read_time": "2025-08-20T19:00:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6333,
+      "timestamp": "2025-08-20T19:00:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3806204,
+      "size_mb": 3.63,
+      "timestamp": "2025-08-20T19:00:39",
+      "download_attempts": 0
+    },
+    "full_text": "水鉄砲みたいに飛ばします💦 https://t.co/4ubB1WZzR1",
+    "publish_time": "2025-08-20T18:07:59"
+  },
+  {
+    "file_name": "GyyiBFNaoAAB9PE.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyyiBFNaoAAB9PE.jpg",
+    "read_time": "2025-08-20T19:00:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6334,
+      "timestamp": "2025-08-20T19:00:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 188896,
+      "size_mb": 0.18,
+      "timestamp": "2025-08-20T19:00:43",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Er0JDe2qUA",
+    "publish_time": "2025-08-20T18:45:05"
+  },
+  {
+    "file_name": "GyyiBFSb0AA35e3.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GyyiBFSb0AA35e3.jpg",
+    "read_time": "2025-08-20T19:00:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6335,
+      "timestamp": "2025-08-20T19:00:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 113528,
+      "size_mb": 0.11,
+      "timestamp": "2025-08-20T19:00:44",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Er0JDe2qUA",
+    "publish_time": "2025-08-20T18:45:05"
   }
 ]
