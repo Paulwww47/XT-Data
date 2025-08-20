@@ -312,5 +312,57 @@
     },
     "full_text": "https://t.co/nv5m4dx6bQ",
     "publish_time": "2025-08-20T06:02:22"
+  },
+  {
+    "file_name": "GywJmxPaAAAQO_x.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GywJmxPaAAAQO_x.jpg",
+    "read_time": "2025-08-20T08:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6296,
+      "timestamp": "2025-08-20T08:00:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 195294,
+      "size_mb": 0.19,
+      "timestamp": "2025-08-20T08:00:53",
+      "download_attempts": 0
+    },
+    "full_text": "three_t48 https://t.co/K6iTlJiNAF",
+    "publish_time": "2025-08-20T07:39:12"
+  },
+  {
+    "file_name": "-bPn5i-2XUUbCWkw.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1957953460965634048/vid/avc1/720x1280/-bPn5i-2XUUbCWkw.mp4?tag=21",
+    "read_time": "2025-08-20T08:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6297,
+      "timestamp": "2025-08-20T08:00:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 9250667,
+      "size_mb": 8.82,
+      "timestamp": "2025-08-20T08:00:56",
+      "download_attempts": 0
+    },
+    "full_text": "才週三而已 https://t.co/c4eLMru4Ff",
+    "publish_time": "2025-08-20T07:51:25"
   }
 ]

@@ -128,5 +128,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1957926139336532435",
     "fullText": "https://t.co/nv5m4dx6bQ",
     "publishTime": "2025-08-20T06:02:22"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GywJmxPaAAAQO_x.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1957950505344442462",
+    "fullText": "three_t48 https://t.co/K6iTlJiNAF",
+    "publishTime": "2025-08-20T07:39:12"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1957953460965634048/vid/avc1/720x1280/-bPn5i-2XUUbCWkw.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1957953579651944566",
+    "fullText": "才週三而已 https://t.co/c4eLMru4Ff",
+    "publishTime": "2025-08-20T07:51:25"
   }
 ]
