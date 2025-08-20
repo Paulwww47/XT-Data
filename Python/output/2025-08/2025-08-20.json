@@ -452,20 +452,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/Gywqw34aUAAiPOd.jpg",
     "read_time": "2025-08-20T11:00:49",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-20T11:01:10",
-      "notification_sent": false
+      "success": true,
+      "message_id": 6307,
+      "timestamp": "2025-08-20T12:00:47"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 233334,
       "size_mb": 0.22,
-      "timestamp": "2025-08-20T11:00:50",
+      "timestamp": "2025-08-20T12:00:46",
       "download_attempts": 0
     },
     "full_text": "win.again_ https://t.co/swIgSJOeDc",
@@ -600,5 +598,83 @@
     },
     "full_text": "_y.c.22_ https://t.co/7FBNlVyXgW",
     "publish_time": "2025-08-20T10:27:56"
+  },
+  {
+    "file_name": "Ys6Rn2yj7tQAMQWm.mp4",
+    "user": {
+      "screen_name": "nepo7788",
+      "name": "bwnz"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1958002633790353411/vid/avc1/720x1280/Ys6Rn2yj7tQAMQWm.mp4?tag=21",
+    "read_time": "2025-08-20T12:00:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6308,
+      "timestamp": "2025-08-20T12:00:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3218272,
+      "size_mb": 3.07,
+      "timestamp": "2025-08-20T12:00:48",
+      "download_attempts": 0
+    },
+    "full_text": "无脑傻逼 来底下接着 在把你爹鞋舔干净\n无脑傻逼肥猪来私信你爹 操你妈的贱杂种 https://t.co/cHCL7eK9KZ",
+    "publish_time": "2025-08-20T11:06:37"
+  },
+  {
+    "file_name": "Gyw-Km_aYAA9FjU.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gyw-Km_aYAA9FjU.jpg",
+    "read_time": "2025-08-20T12:00:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6309,
+      "timestamp": "2025-08-20T12:00:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 130977,
+      "size_mb": 0.12,
+      "timestamp": "2025-08-20T12:00:50",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/pI7XcPV5YL",
+    "publish_time": "2025-08-20T11:28:50"
+  },
+  {
+    "file_name": "NiLCsKrLflGVNxtX.mp4",
+    "user": {
+      "screen_name": "Louiewe123",
+      "name": "Louiewe卤蛋头"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1958009116200235008/vid/avc1/720x1280/NiLCsKrLflGVNxtX.mp4?tag=14",
+    "read_time": "2025-08-20T12:00:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6310,
+      "timestamp": "2025-08-20T12:00:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1131333,
+      "size_mb": 1.08,
+      "timestamp": "2025-08-20T12:00:51",
+      "download_attempts": 0
+    },
+    "full_text": "男大➡️Daddy https://t.co/VPs6zmijlf",
+    "publish_time": "2025-08-20T11:32:26"
   }
 ]
