@@ -53,5 +53,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1958632707447238935",
     "fullText": "https://t.co/thFqm9gI2d",
     "publishTime": "2025-08-22T04:50:01"
+  },
+  {
+    "user": {
+      "screenName": "nepo7788",
+      "name": "bwnz"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1958643540789174272/vid/avc1/590x1280/e8tnBf4H6OF3St2Z.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/nepo7788/status/1958643604706271718",
+    "fullText": "大清早 有没有傻逼\n来私信老子 脑残傻逼 https://t.co/QTAdKw5wjV",
+    "publishTime": "2025-08-22T05:33:19"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gy6F6zUbsAAmqt6.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1958650140342067370",
+    "fullText": "jinhoangvn https://t.co/CAdAGgIYbi",
+    "publishTime": "2025-08-22T05:59:18"
   }
 ]
