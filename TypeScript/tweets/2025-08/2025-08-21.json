@@ -175,5 +175,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1958347777613934836",
     "fullText": "https://t.co/JGVptrD052",
     "publishTime": "2025-08-21T09:57:49"
+  },
+  {
+    "user": {
+      "screenName": "d461385024",
+      "name": "大茄子猛1"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gy15sWIbUAAlG2d.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/d461385024/status/1958355227591266319",
+    "fullText": "晨博 https://t.co/EZqxJtOKJK",
+    "publishTime": "2025-08-21T10:27:25"
+  },
+  {
+    "user": {
+      "screenName": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1958356329250394112/vid/avc1/720x1280/J3-FF8DniQz9mWus.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/FZchU5dnD944436/status/1958356406949781667",
+    "fullText": "ムクムク… https://t.co/4IYsYn3IUO",
+    "publishTime": "2025-08-21T10:32:06"
   }
 ]

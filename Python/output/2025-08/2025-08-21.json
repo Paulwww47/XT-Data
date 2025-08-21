@@ -466,5 +466,57 @@
     },
     "full_text": "https://t.co/JGVptrD052",
     "publish_time": "2025-08-21T09:57:49"
+  },
+  {
+    "file_name": "Gy15sWIbUAAlG2d.jpg",
+    "user": {
+      "screen_name": "d461385024",
+      "name": "大茄子猛1"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gy15sWIbUAAlG2d.jpg",
+    "read_time": "2025-08-21T11:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6364,
+      "timestamp": "2025-08-21T11:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 182687,
+      "size_mb": 0.17,
+      "timestamp": "2025-08-21T11:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "晨博 https://t.co/EZqxJtOKJK",
+    "publish_time": "2025-08-21T10:27:25"
+  },
+  {
+    "file_name": "J3-FF8DniQz9mWus.mp4",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1958356329250394112/vid/avc1/720x1280/J3-FF8DniQz9mWus.mp4?tag=14",
+    "read_time": "2025-08-21T11:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6365,
+      "timestamp": "2025-08-21T11:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2490570,
+      "size_mb": 2.38,
+      "timestamp": "2025-08-21T11:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "ムクムク… https://t.co/4IYsYn3IUO",
+    "publish_time": "2025-08-21T10:32:06"
   }
 ]
