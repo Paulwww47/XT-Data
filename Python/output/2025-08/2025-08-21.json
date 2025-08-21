@@ -1022,20 +1022,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1958427055957397504/vid/avc1/674x1076/4Y8v4ujvVFrPMy8g.mp4?tag=21",
     "read_time": "2025-08-21T16:01:14",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-21T16:01:36",
-      "notification_sent": false
+      "success": true,
+      "message_id": 6389,
+      "timestamp": "2025-08-21T17:00:38"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 2632749,
       "size_mb": 2.51,
-      "timestamp": "2025-08-21T16:01:15",
+      "timestamp": "2025-08-21T17:00:35",
       "download_attempts": 0
     },
     "full_text": "此动态不是广子是本人telegram.置顶\n❶博主本人telegram\n联系方式☞: https://t.co/9OGB5wjvtG\n进群暗号：999\n❷自己创了免费电报通知群（可看🐔📷）用于发布各种博主线下视频资源及博主各种露脸及不露脸✈️视频等海报\n❸电报官方下载👉  https://t.co/eMCUXmr526 https://t.co/iDb0FVZNSm",
@@ -1118,5 +1116,57 @@
     },
     "full_text": "https://t.co/SzNe2iNLfd",
     "publish_time": "2025-08-21T15:42:47"
+  },
+  {
+    "file_name": "Gy3RgTNbwAAka8Z.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gy3RgTNbwAAka8Z.jpg",
+    "read_time": "2025-08-21T17:00:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6390,
+      "timestamp": "2025-08-21T17:00:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 130432,
+      "size_mb": 0.12,
+      "timestamp": "2025-08-21T17:00:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/jdGq9sLnDi",
+    "publish_time": "2025-08-21T16:51:05"
+  },
+  {
+    "file_name": "Gy3RnCubwAA_gSl.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gy3RnCubwAA_gSl.jpg",
+    "read_time": "2025-08-21T17:00:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6391,
+      "timestamp": "2025-08-21T17:00:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 128027,
+      "size_mb": 0.12,
+      "timestamp": "2025-08-21T17:00:39",
+      "download_attempts": 0
+    },
+    "full_text": "randytjh https://t.co/2LMIuzqwYy",
+    "publish_time": "2025-08-21T16:51:32"
   }
 ]
