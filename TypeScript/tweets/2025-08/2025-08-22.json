@@ -96,5 +96,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1958655139046453284",
     "fullText": "f_finwasu https://t.co/SToEea8L4Q",
     "publishTime": "2025-08-22T06:19:09"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gy6U-b0bAAAvG8A.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1958666693640954102",
+    "fullText": "https://t.co/2cxBM8jcAA",
+    "publishTime": "2025-08-22T07:05:04"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gy6drezboAA1kPv.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1958676263364960330",
+    "fullText": "https://t.co/Qh4pxs3qaO",
+    "publishTime": "2025-08-22T07:43:06"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1958679156168040458/vid/avc1/720x1280/7j-RARGakFELxGyF.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1958679234089820593",
+    "fullText": "早 https://t.co/PkMenVv33w",
+    "publishTime": "2025-08-22T07:54:54"
   }
 ]
