@@ -1350,5 +1350,33 @@
     },
     "full_text": "🥷 https://t.co/3Pakp1DugM",
     "publish_time": "2025-08-22T20:50:55"
+  },
+  {
+    "file_name": "NHuSxCiuMYg-gcfk.mp4",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1958882387267657730/vid/avc1/1280x720/NHuSxCiuMYg-gcfk.mp4?tag=14",
+    "read_time": "2025-08-22T22:01:06",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-08-22T22:01:29",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 8115960,
+      "size_mb": 7.74,
+      "timestamp": "2025-08-22T22:01:07",
+      "download_attempts": 0
+    },
+    "full_text": "昨日２４会館でマラいっぱい褒めてもらえて嬉しかった https://t.co/Qz3nKRQ8CO",
+    "publish_time": "2025-08-22T21:24:00"
   }
 ]
