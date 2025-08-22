@@ -60,5 +60,33 @@
     "tweetUrl": "https://x.com/T527753733/status/1958942242749784278",
     "fullText": "今天火烧云太给力了。 https://t.co/NocHgrXST1",
     "publishTime": "2025-08-23T01:20:00"
+  },
+  {
+    "user": {
+      "screenName": "nepo7788",
+      "name": "bwnz"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1958974029525831680/vid/avc1/720x1264/15_D3nW7I3hcQwZA.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/nepo7788/status/1958974175940591725",
+    "fullText": "无脑傻逼来 https://t.co/dGa4Kv7Puv",
+    "publishTime": "2025-08-23T03:26:54"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gy-zzo1boAAgo3J.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1958982068786057473",
+    "fullText": "https://t.co/PMxxhHaMhC",
+    "publishTime": "2025-08-23T03:58:15"
   }
 ]
