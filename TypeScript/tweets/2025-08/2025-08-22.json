@@ -643,5 +643,48 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1958846761671565427",
     "fullText": "daichan_1996 https://t.co/JFdOf2rQj6",
     "publishTime": "2025-08-22T19:00:36"
+  },
+  {
+    "user": {
+      "screenName": "QingyWilderness",
+      "name": "青野Aono"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1958848245989584896/pu/vid/avc1/1280x720/RdfDJ-sV1alGZ7_V.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/QingyWilderness/status/1958848301396369838",
+    "fullText": "然后是② https://t.co/zWv2iVHdt9",
+    "publishTime": "2025-08-22T19:06:43"
+  },
+  {
+    "user": {
+      "screenName": "QingyWilderness",
+      "name": "青野Aono"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1958854595905777664/pu/vid/avc1/720x1280/Tbn9t_lEbB76KffO.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/QingyWilderness/status/1958854693742157996",
+    "fullText": "最后是② https://t.co/0DRDImxMhZ",
+    "publishTime": "2025-08-22T19:32:07"
+  },
+  {
+    "user": {
+      "screenName": "AlwynShown",
+      "name": "F。our"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gy9C6sCboAADd_6.jpg",
+      "https://pbs.twimg.com/media/Gy9C6sGbUAAzdxe.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/AlwynShown/status/1958857989508800738",
+    "fullText": "👨🏻‍🏫 https://t.co/qSIsRff3uO",
+    "publishTime": "2025-08-22T19:45:13"
   }
 ]
