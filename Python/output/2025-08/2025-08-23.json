@@ -1516,20 +1516,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GzB50lZakAAF4mj.jpg",
     "read_time": "2025-08-23T19:01:56",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-23T19:02:17",
-      "notification_sent": false
+      "success": true,
+      "message_id": 6569,
+      "timestamp": "2025-08-23T20:01:41"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 381049,
       "size_mb": 0.36,
-      "timestamp": "2025-08-23T19:01:56",
+      "timestamp": "2025-08-23T20:01:40",
       "download_attempts": 0
     },
     "full_text": "https://t.co/AwsjWqp3bK",
@@ -1648,23 +1646,47 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1959203295995863040/vid/avc1/720x1280/50bszgyn6Cq2JpRq.mp4?tag=21",
     "read_time": "2025-08-23T19:01:56",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-23T19:02:43",
-      "notification_sent": false
+      "success": true,
+      "message_id": 6570,
+      "timestamp": "2025-08-23T20:01:44"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 7187991,
       "size_mb": 6.86,
-      "timestamp": "2025-08-23T19:02:22",
+      "timestamp": "2025-08-23T20:01:41",
       "download_attempts": 0
     },
     "full_text": "肚子… https://t.co/xtDXuaWHSs",
     "publish_time": "2025-08-23T18:37:42"
+  },
+  {
+    "file_name": "GzCK-oZbsAAU9ep.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzCK-oZbsAAU9ep.jpg",
+    "read_time": "2025-08-23T20:01:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6571,
+      "timestamp": "2025-08-23T20:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 194123,
+      "size_mb": 0.19,
+      "timestamp": "2025-08-23T20:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "ziozxo https://t.co/zPPWNkwECM",
+    "publish_time": "2025-08-23T19:38:21"
   }
 ]
