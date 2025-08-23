@@ -315,5 +315,35 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1959072652385296524",
     "fullText": "https://t.co/4paKhrokgz",
     "publishTime": "2025-08-23T09:58:12"
+  },
+  {
+    "user": {
+      "screenName": "SSS_MarkMark",
+      "name": "列文马克（8.31-9.7上海出差）"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzAK6dDWIAEJZFw.jpg",
+      "https://pbs.twimg.com/media/GzAK6cZboAEA_o2.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/SSS_MarkMark/status/1959077852529221782",
+    "fullText": "第一次举报成功人 https://t.co/uGPqX3PGY2",
+    "publishTime": "2025-08-23T10:18:52"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzALqgiagAAEVQP.jpg",
+      "https://pbs.twimg.com/media/GzALqgpaQAAwwh8.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1959078669109879261",
+    "fullText": "mroat https://t.co/XUxOgeKsn5",
+    "publishTime": "2025-08-23T10:22:07"
   }
 ]
