@@ -2180,10 +2180,23 @@
       "name": "嗷呜有劲",
       "screenName": "rrrrrrig_",
       "createdAt": "Fri Feb 28 04:59:17 +0000 2025",
-      "description": "🥵 有事可以私信或者加Q 97661811",
+      "description": "🥵 有事需要直接加 Q 97661811",
       "entities": {
         "description": {
           "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/aowuyoujin",
+              "expanded_url": "https://t.me/aowuyoujin",
+              "url": "https://t.co/RIIjvrfeBn",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
         }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1895337912721698816/1753700318",
