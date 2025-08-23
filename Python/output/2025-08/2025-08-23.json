@@ -424,20 +424,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/Gy_Vvm_b0AAiQvp.jpg",
     "read_time": "2025-08-23T07:01:03",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-23T07:01:28",
-      "notification_sent": false
+      "success": true,
+      "message_id": 6523,
+      "timestamp": "2025-08-23T08:01:05"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 140585,
       "size_mb": 0.13,
-      "timestamp": "2025-08-23T07:01:08",
+      "timestamp": "2025-08-23T08:01:05",
       "download_attempts": 0
     },
     "full_text": "jammy_0806 https://t.co/p2Rwogzhpd",
@@ -494,5 +492,57 @@
     },
     "full_text": "あー痴態晒されたい https://t.co/kcOk1DREOM",
     "publish_time": "2025-08-23T06:35:45"
+  },
+  {
+    "file_name": "F7G6s6CAc8rOKUSr.mp4",
+    "user": {
+      "screen_name": "nepo7788",
+      "name": "bwnz"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1959028979467444224/vid/avc1/720x1280/F7G6s6CAc8rOKUSr.mp4?tag=21",
+    "read_time": "2025-08-23T08:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6524,
+      "timestamp": "2025-08-23T08:01:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1741473,
+      "size_mb": 1.66,
+      "timestamp": "2025-08-23T08:01:06",
+      "download_attempts": 0
+    },
+    "full_text": "傻逼 你爹一大早就他妈喷了\n还不他吗爬过来舔干净了 母蛆 https://t.co/LSt0qKR3nr",
+    "publish_time": "2025-08-23T07:05:17"
+  },
+  {
+    "file_name": "Gy_qoeuboAAxAX3.jpg",
+    "user": {
+      "screen_name": "Leon_pan999",
+      "name": "Leon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gy_qoeuboAAxAX3.jpg",
+    "read_time": "2025-08-23T08:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6525,
+      "timestamp": "2025-08-23T08:01:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 157122,
+      "size_mb": 0.15,
+      "timestamp": "2025-08-23T08:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "练腿日 吃个早饭出发🦶 https://t.co/dsZqgmfVWw",
+    "publish_time": "2025-08-23T07:57:48"
   }
 ]
