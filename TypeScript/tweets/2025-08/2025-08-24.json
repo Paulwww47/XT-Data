@@ -209,5 +209,19 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1959402140608385173",
     "fullText": "https://t.co/eKYeyX4ngG",
     "publishTime": "2025-08-24T07:47:28"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzE_tJ9boAAuLDO.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1959417364262654299",
+    "fullText": "https://t.co/GveqvSwhhM",
+    "publishTime": "2025-08-24T08:47:58"
   }
 ]
