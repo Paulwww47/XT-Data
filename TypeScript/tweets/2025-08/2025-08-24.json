@@ -725,5 +725,61 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1959556576123212128",
     "fullText": "xiblake https://t.co/uL5HWztmec",
     "publishTime": "2025-08-24T18:01:09"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/easychen/status/1959573904911167781",
+    "fullText": "独立开发可以和创业公司错开赛道，一般投资人是不投上限几千万 RMB的项目的……",
+    "publishTime": "2025-08-24T19:10:00"
+  },
+  {
+    "user": {
+      "screenName": "needcuminside",
+      "name": "Luke（"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzHQ5b7boAAx_Dn.jpg",
+      "https://pbs.twimg.com/media/GzHQ5b6aQAArPK4.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/needcuminside/status/1959577004002681136",
+    "fullText": "https://t.co/BjxG9i0wCw",
+    "publishTime": "2025-08-24T19:22:19"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzHSJpAbYAAMV04.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1959578381831577619",
+    "fullText": "https://t.co/11z73enF2m",
+    "publishTime": "2025-08-24T19:27:48"
+  },
+  {
+    "user": {
+      "screenName": "KevinLeeYoung92",
+      "name": "KevinLeeYoung"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzHYw4nbwAAWQXP.jpg",
+      "https://pbs.twimg.com/media/GzHYw4sawAAnTTD.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/KevinLeeYoung92/status/1959585661675278431",
+    "fullText": "📷@GOTESHOP https://t.co/Jy3bcJSoVc",
+    "publishTime": "2025-08-24T19:56:43"
   }
 ]
