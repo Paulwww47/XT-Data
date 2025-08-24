@@ -637,5 +637,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1959522091931521167",
     "fullText": "https://t.co/C0E9hHPwhv",
     "publishTime": "2025-08-24T15:44:07"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzGmRCBa4AAIvah.jpg",
+      "https://pbs.twimg.com/media/GzGmRCCagAAqjcL.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1959530132806279250",
+    "fullText": "gonejall https://t.co/UQXsyRBS4m",
+    "publishTime": "2025-08-24T16:16:04"
+  },
+  {
+    "user": {
+      "screenName": "Shiningshenyi",
+      "name": "青岛训兽师"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1959530246685818881/pu/vid/avc1/720x1280/dQFE7mlNRuh5aw3Z.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Shiningshenyi/status/1959530290365231379",
+    "fullText": "亲自测评，非常好用，私信寄出。 https://t.co/GERq9Mtd1F",
+    "publishTime": "2025-08-24T16:16:42"
   }
 ]

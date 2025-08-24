@@ -1314,14 +1314,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (113MB > 50MB)",
       "timestamp": "2025-08-24T16:01:41",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 119339098,
       "size_mb": 113.81,
-      "timestamp": "2025-08-24T16:01:41",
+      "timestamp": "2025-08-24T17:01:27",
       "download_attempts": 0
     },
     "full_text": "https://t.co/5bbIeSbrOf",
@@ -1378,5 +1378,83 @@
     },
     "full_text": "https://t.co/C0E9hHPwhv",
     "publish_time": "2025-08-24T15:44:07"
+  },
+  {
+    "file_name": "GzGmRCBa4AAIvah.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzGmRCBa4AAIvah.jpg",
+    "read_time": "2025-08-24T17:01:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6640,
+      "timestamp": "2025-08-24T17:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 139116,
+      "size_mb": 0.13,
+      "timestamp": "2025-08-24T17:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "gonejall https://t.co/UQXsyRBS4m",
+    "publish_time": "2025-08-24T16:16:04"
+  },
+  {
+    "file_name": "GzGmRCCagAAqjcL.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzGmRCCagAAqjcL.jpg",
+    "read_time": "2025-08-24T17:01:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6641,
+      "timestamp": "2025-08-24T17:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 157816,
+      "size_mb": 0.15,
+      "timestamp": "2025-08-24T17:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "gonejall https://t.co/UQXsyRBS4m",
+    "publish_time": "2025-08-24T16:16:04"
+  },
+  {
+    "file_name": "dQFE7mlNRuh5aw3Z.mp4",
+    "user": {
+      "screen_name": "Shiningshenyi",
+      "name": "青岛训兽师"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1959530246685818881/pu/vid/avc1/720x1280/dQFE7mlNRuh5aw3Z.mp4?tag=12",
+    "read_time": "2025-08-24T17:01:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6642,
+      "timestamp": "2025-08-24T17:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2716174,
+      "size_mb": 2.59,
+      "timestamp": "2025-08-24T17:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "亲自测评，非常好用，私信寄出。 https://t.co/GERq9Mtd1F",
+    "publish_time": "2025-08-24T16:16:42"
   }
 ]
