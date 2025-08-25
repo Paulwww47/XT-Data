@@ -271,5 +271,36 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1959804647004057772",
     "fullText": "https://t.co/4fTYXhG0c4",
     "publishTime": "2025-08-25T10:26:53"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzKvHiebEAAadD8.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1959821338400714820",
+    "fullText": "jiggglee https://t.co/dpba7gpN2E",
+    "publishTime": "2025-08-25T11:33:13"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzKwB_CbMAA6sV6.jpg",
+      "https://pbs.twimg.com/media/GzKwDT9bcAAB_6B.jpg",
+      "https://pbs.twimg.com/media/GzKwE70agAAg658.jpg",
+      "https://pbs.twimg.com/media/GzKwGkIaIAA3pbk.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/easychen/status/1959822433671864357",
+    "fullText": "#Easy同学正在独立开发 周末测试了下，想看看现在AI 编程到底能将构建最小可用产品（MVP）的速度提升到什么程度。\n\n答案比我想的好：一个 MVP 从想法到实现大概就一天（4～8 小时），我一个周末做了两个。不是玩具，是真实世界项目。一个Web，一个APP。\n\n第一个是 樱… https://t.co/JXpez3DtaT",
+    "publishTime": "2025-08-25T11:37:34"
   }
 ]
