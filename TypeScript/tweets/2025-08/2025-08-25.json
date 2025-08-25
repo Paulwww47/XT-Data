@@ -568,5 +568,35 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1959926444588724457",
     "fullText": "https://t.co/gM8Mus3Qv6",
     "publishTime": "2025-08-25T18:30:52"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzMdM8ybEAEjJcV.jpg",
+      "https://pbs.twimg.com/media/GzMdM8xaAAAxurf.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1959942378569269400",
+    "fullText": "lucaxcxcc https://t.co/25GeQbWIVC",
+    "publishTime": "2025-08-25T19:34:11"
+  },
+  {
+    "user": {
+      "screenName": "xiaojin20001112",
+      "name": "小金"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzMhkSRaEAAA6RU.jpg",
+      "https://pbs.twimg.com/media/GzMhkSOagAA47gi.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/xiaojin20001112/status/1959947192124469514",
+    "fullText": "https://t.co/qZ5ySW1slI",
+    "publishTime": "2025-08-25T19:53:19"
   }
 ]
