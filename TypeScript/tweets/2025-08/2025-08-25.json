@@ -331,5 +331,49 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1959840585894015412",
     "fullText": "zinhokm https://t.co/u6vvQ6Uwlz",
     "publishTime": "2025-08-25T12:49:42"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzLFT3YaQAAUJ1z.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/easychen/status/1959845746368479457",
+    "fullText": "#Easy同学正在独立开发  用 Dart 写 AI 太悲剧了，尤其是 BYOK 模式，不能和 firebase 集成的时候。😅 https://t.co/ANCby6P1qT",
+    "publishTime": "2025-08-25T13:10:12"
+  },
+  {
+    "user": {
+      "screenName": "Xiongdaha",
+      "name": "大哈 (重庆)"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzLL--cbwAAgvH2.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Xiongdaha/status/1959853079404380209",
+    "fullText": "二十天减重6斤✌️七夕有约吗🎋 https://t.co/KZXF3nKMNT",
+    "publishTime": "2025-08-25T13:39:21"
+  },
+  {
+    "user": {
+      "screenName": "uxy666",
+      "name": "uxy"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1959856601369804800/vid/avc1/720x1272/h8gK6sFPRkHeU2nn.mp4?tag=14"
+    ],
+    "expandUrls": [
+      "https://t.me/+KXYyohZIZLcyZTE1"
+    ],
+    "tweetUrl": "https://x.com/uxy666/status/1959856664234078412",
+    "fullText": "体育生的臀肌很诱人\n\nhttps://t.co/cNS7yXnwnZ https://t.co/oEMjFCSUDM",
+    "publishTime": "2025-08-25T13:53:35"
   }
 ]
