@@ -310,5 +310,85 @@
     },
     "full_text": "cmxjclz2000 https://t.co/3Ky1ZZs9CB",
     "publish_time": "2025-08-26T06:01:06"
+  },
+  {
+    "file_name": "PSokZNLZxJC1KXj8.mp4",
+    "user": {
+      "screen_name": "c558668",
+      "name": "0m"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1960110923072618496/vid/avc1/720x1280/PSokZNLZxJC1KXj8.mp4?tag=21",
+    "read_time": "2025-08-26T07:00:37",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (65MB > 50MB)",
+      "timestamp": "2025-08-26T07:00:38",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 69187704,
+      "size_mb": 65.98,
+      "timestamp": "2025-08-26T07:00:38",
+      "download_attempts": 0
+    },
+    "full_text": "被操尿了…… https://t.co/q2nNVMOcC0",
+    "publish_time": "2025-08-26T06:45:35"
+  },
+  {
+    "file_name": "GzO3H0TbUAAGOIo.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzO3H0TbUAAGOIo.jpg",
+    "read_time": "2025-08-26T07:00:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6760,
+      "timestamp": "2025-08-26T07:00:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 95053,
+      "size_mb": 0.09,
+      "timestamp": "2025-08-26T07:00:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/MfaB69vfLZ",
+    "publish_time": "2025-08-26T06:46:40"
+  },
+  {
+    "file_name": "GzO3H0PaIAAVzmf.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzO3H0PaIAAVzmf.jpg",
+    "read_time": "2025-08-26T07:00:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6761,
+      "timestamp": "2025-08-26T07:00:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 108556,
+      "size_mb": 0.1,
+      "timestamp": "2025-08-26T07:00:40",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/MfaB69vfLZ",
+    "publish_time": "2025-08-26T06:46:40"
   }
 ]
