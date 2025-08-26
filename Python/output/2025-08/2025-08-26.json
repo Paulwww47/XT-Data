@@ -1820,5 +1820,31 @@
     },
     "full_text": "https://t.co/jeILs4X4Qa",
     "publish_time": "2025-08-26T22:39:42"
+  },
+  {
+    "file_name": "GzSbqH4aoAAc0Zc.jpg",
+    "user": {
+      "screen_name": "xidaojun1",
+      "name": "🐺西岛"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzSbqH4aoAAc0Zc.jpg",
+    "read_time": "2025-08-27T00:01:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6817,
+      "timestamp": "2025-08-27T00:01:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 127610,
+      "size_mb": 0.12,
+      "timestamp": "2025-08-27T00:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ubZLQE9tjE",
+    "publish_time": "2025-08-26T23:25:12"
   }
 ]
