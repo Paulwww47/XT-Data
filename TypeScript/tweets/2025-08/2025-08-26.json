@@ -119,5 +119,48 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1960111613861908523",
     "fullText": "https://t.co/MfaB69vfLZ",
     "publishTime": "2025-08-26T06:46:40"
+  },
+  {
+    "user": {
+      "screenName": "xiaojin20001112",
+      "name": "小金"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzPMlA1a4AAd4eM.jpg",
+      "https://pbs.twimg.com/media/GzPMlA-agAAh5oI.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/xiaojin20001112/status/1960135220142956955",
+    "fullText": "今日门槛对折 外加视频验证 https://t.co/I5Hgkj3DhB",
+    "publishTime": "2025-08-26T08:20:28"
+  },
+  {
+    "user": {
+      "screenName": "rrrrrrig_",
+      "name": "嗷呜有劲"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1960137538053779457/vid/avc1/720x1280/r99ObaceirTgh7Io.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/rrrrrrig_/status/1960137623131107724",
+    "fullText": "https://t.co/AljTqCoKUQ",
+    "publishTime": "2025-08-26T08:30:01"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzPSgMEaYAAbVOx.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1960141718608888045",
+    "fullText": "https://t.co/5wcmNJwTg4",
+    "publishTime": "2025-08-26T08:46:18"
   }
 ]
