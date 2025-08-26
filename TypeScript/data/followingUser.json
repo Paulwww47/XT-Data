@@ -54,7 +54,7 @@
         }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1590197639144169473/1667993511",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1884638237861535744/KT0LmCKx_normal.jpg"
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1960351848034099200/QtHusVmH_normal.jpg"
     }
   },
   {
@@ -414,6 +414,35 @@
       },
       "profileBannerUrl": "",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1604963553882300416/HJ2Wy9DK_normal.jpg"
+    }
+  },
+  {
+    "restId": "1920095880620994560",
+    "legacy": {
+      "name": "Ji j",
+      "screenName": "Chenmingxxx",
+      "createdAt": "Wed May 07 12:38:36 +0000 2025",
+      "description": "资源预览电报群🔗在👇.Q3989241242",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/+92ibcF8Z6NRjN…",
+              "expanded_url": "https://t.me/+92ibcF8Z6NRjNDkx",
+              "url": "https://t.co/NxwgM6LWy9",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1920095880620994560/1756218452",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1920096032207335424/g57GY_Ml_normal.jpg"
     }
   },
   {
