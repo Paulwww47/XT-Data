@@ -1386,20 +1386,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GzXXnVga4Ac_Qes.jpg",
     "read_time": "2025-08-27T23:00:31",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-27T23:00:51",
-      "notification_sent": false
+      "success": true,
+      "message_id": 6877,
+      "timestamp": "2025-08-28T00:01:07"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 304650,
       "size_mb": 0.29,
-      "timestamp": "2025-08-27T23:00:31",
+      "timestamp": "2025-08-28T00:01:05",
       "download_attempts": 0
     },
     "full_text": "https://t.co/RvISFRtz3o",
@@ -1414,23 +1412,151 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GzXX0U2a4AAE6ZI.png",
     "read_time": "2025-08-27T23:00:31",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-27T23:01:12",
-      "notification_sent": false
+      "success": true,
+      "message_id": 6878,
+      "timestamp": "2025-08-28T00:01:08"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 669274,
       "size_mb": 0.64,
-      "timestamp": "2025-08-27T23:00:52",
+      "timestamp": "2025-08-28T00:01:07",
       "download_attempts": 0
     },
     "full_text": "https://t.co/LgKhXCcxkR",
     "publish_time": "2025-08-27T22:26:43"
+  },
+  {
+    "file_name": "lgQHjxF95Jq8ueAT.mp4",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1960724909069623298/vid/avc1/1280x720/lgQHjxF95Jq8ueAT.mp4?tag=14",
+    "read_time": "2025-08-28T00:01:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6879,
+      "timestamp": "2025-08-28T00:01:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3848299,
+      "size_mb": 3.67,
+      "timestamp": "2025-08-28T00:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "射精顔拡散されたい https://t.co/CQ7vYjS0lC",
+    "publish_time": "2025-08-27T23:24:33"
+  },
+  {
+    "file_name": "GzXnfUpa4Asgltx.jpg",
+    "user": {
+      "screen_name": "T527753733",
+      "name": "地空捣蛋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzXnfUpa4Asgltx.jpg",
+    "read_time": "2025-08-28T00:01:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6880,
+      "timestamp": "2025-08-28T00:01:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 138081,
+      "size_mb": 0.13,
+      "timestamp": "2025-08-28T00:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/PCKzkO5JPW",
+    "publish_time": "2025-08-27T23:34:58"
+  },
+  {
+    "file_name": "Gy9rUSkboAQGfy9.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gy9rUSkboAQGfy9.jpg",
+    "read_time": "2025-08-28T00:01:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6881,
+      "timestamp": "2025-08-28T00:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 84887,
+      "size_mb": 0.08,
+      "timestamp": "2025-08-28T00:01:12",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/VBawAOwGif",
+    "publish_time": "2025-08-27T23:41:01"
+  },
+  {
+    "file_name": "LPWu9DrW-6moM9q1.mp4",
+    "user": {
+      "screen_name": "sx84604818",
+      "name": "Rexsonic Man+ suits & socks"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1960731163770937348/pu/vid/avc1/720x918/LPWu9DrW-6moM9q1.mp4?tag=12",
+    "read_time": "2025-08-28T00:01:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6882,
+      "timestamp": "2025-08-28T00:01:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 499722,
+      "size_mb": 0.48,
+      "timestamp": "2025-08-28T00:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "👔西裝愛好者👔 https://t.co/y7ODbv6155",
+    "publish_time": "2025-08-27T23:50:42"
+  },
+  {
+    "file_name": "GzXs2ERa4AEUSjm.jpg",
+    "user": {
+      "screen_name": "sx84604818",
+      "name": "Rexsonic Man+ suits & socks"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzXs2ERa4AEUSjm.jpg",
+    "read_time": "2025-08-28T00:01:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 6883,
+      "timestamp": "2025-08-28T00:01:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 176364,
+      "size_mb": 0.17,
+      "timestamp": "2025-08-28T00:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "👔西裝愛好者👔 https://t.co/PNYpHPBO4N",
+    "publish_time": "2025-08-27T23:58:23"
   }
 ]
