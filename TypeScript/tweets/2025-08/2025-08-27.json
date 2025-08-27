@@ -184,5 +184,20 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1960505167134253515",
     "fullText": "https://t.co/hNnXFj0idY",
     "publishTime": "2025-08-27T08:50:30"
+  },
+  {
+    "user": {
+      "screenName": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1960521332040589312/vid/avc1/704x974/CXblG8WNy6EnSs5H.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/1960521332044783619/vid/avc1/720x1272/Ca6FlW_D0WyKGJHk.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/MuscleHunterX/status/1960521389737435583",
+    "fullText": "声音挺诱惑 https://t.co/fcFL80sL3W",
+    "publishTime": "2025-08-27T09:54:58"
   }
 ]
