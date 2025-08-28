@@ -141,5 +141,19 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1960896303485084025",
     "fullText": "Zoooooown https://t.co/WhBRmJlZ2Z",
     "publishTime": "2025-08-28T10:44:45"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzaG4_ha4AMsNzg.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1960903008054862030",
+    "fullText": "https://t.co/6XNveKks8M",
+    "publishTime": "2025-08-28T11:11:23"
   }
 ]
