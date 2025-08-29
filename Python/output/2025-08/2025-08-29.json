@@ -1750,20 +1750,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GzgixhHXwAA70cQ.jpg",
     "read_time": "2025-08-29T18:01:31",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-08-29T18:01:52",
-      "notification_sent": false
+      "success": true,
+      "message_id": 7020,
+      "timestamp": "2025-08-29T19:01:02"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 173375,
       "size_mb": 0.17,
-      "timestamp": "2025-08-29T18:01:31",
+      "timestamp": "2025-08-29T19:01:01",
       "download_attempts": 0
     },
     "full_text": "七夕门槛对折 送视频通话验证本人 随时可接 https://t.co/NDVuFGUEY9",
@@ -2002,5 +2000,109 @@
     },
     "full_text": "Fuck your pussy https://t.co/0b11AB0dMZ",
     "publish_time": "2025-08-29T17:49:10"
+  },
+  {
+    "file_name": "GzgvQTAbIAIvph0.jpg",
+    "user": {
+      "screen_name": "T527753733",
+      "name": "地空捣蛋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzgvQTAbIAIvph0.jpg",
+    "read_time": "2025-08-29T19:01:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7021,
+      "timestamp": "2025-08-29T19:01:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 228600,
+      "size_mb": 0.22,
+      "timestamp": "2025-08-29T19:01:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/zZtrr9Ipt9",
+    "publish_time": "2025-08-29T18:05:28"
+  },
+  {
+    "file_name": "GzgzPwGb0AA21IH.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzgzPwGb0AA21IH.jpg",
+    "read_time": "2025-08-29T19:01:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7022,
+      "timestamp": "2025-08-29T19:01:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 117512,
+      "size_mb": 0.11,
+      "timestamp": "2025-08-29T19:01:04",
+      "download_attempts": 0
+    },
+    "full_text": "randytjh https://t.co/DQ441dphob",
+    "publish_time": "2025-08-29T18:22:54"
+  },
+  {
+    "file_name": "Gzg4xYHbIAACAVx.jpg",
+    "user": {
+      "screen_name": "koran0126",
+      "name": "코란"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gzg4xYHbIAACAVx.jpg",
+    "read_time": "2025-08-29T19:01:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7023,
+      "timestamp": "2025-08-29T19:01:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 136035,
+      "size_mb": 0.13,
+      "timestamp": "2025-08-29T19:01:06",
+      "download_attempts": 0
+    },
+    "full_text": "Smelly https://t.co/D4bFPWyO4g",
+    "publish_time": "2025-08-29T18:47:04"
+  },
+  {
+    "file_name": "Gzg5qWNbkAA5onE.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gzg5qWNbkAA5onE.jpg",
+    "read_time": "2025-08-29T19:01:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7024,
+      "timestamp": "2025-08-29T19:01:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 142946,
+      "size_mb": 0.14,
+      "timestamp": "2025-08-29T19:01:07",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/oVVNW84Xlu",
+    "publish_time": "2025-08-29T18:50:56"
   }
 ]
