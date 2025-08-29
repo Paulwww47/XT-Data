@@ -1740,5 +1740,267 @@
     },
     "full_text": "sid_50d https://t.co/ONnSjoLIsN",
     "publish_time": "2025-08-29T15:04:52"
+  },
+  {
+    "file_name": "GzgixhHXwAA70cQ.jpg",
+    "user": {
+      "screen_name": "xiaojin20001112",
+      "name": "小金"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzgixhHXwAA70cQ.jpg",
+    "read_time": "2025-08-29T18:01:31",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-08-29T18:01:52",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 173375,
+      "size_mb": 0.17,
+      "timestamp": "2025-08-29T18:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "七夕门槛对折 送视频通话验证本人 随时可接 https://t.co/NDVuFGUEY9",
+    "publish_time": "2025-08-29T17:11:01"
+  },
+  {
+    "file_name": "GzgixbZWwAE-xIt.jpg",
+    "user": {
+      "screen_name": "xiaojin20001112",
+      "name": "小金"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzgixbZWwAE-xIt.jpg",
+    "read_time": "2025-08-29T18:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7010,
+      "timestamp": "2025-08-29T18:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 66731,
+      "size_mb": 0.06,
+      "timestamp": "2025-08-29T18:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "七夕门槛对折 送视频通话验证本人 随时可接 https://t.co/NDVuFGUEY9",
+    "publish_time": "2025-08-29T17:11:01"
+  },
+  {
+    "file_name": "GzgjEZfbkAANN5S.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzgjEZfbkAANN5S.jpg",
+    "read_time": "2025-08-29T18:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7011,
+      "timestamp": "2025-08-29T18:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 115754,
+      "size_mb": 0.11,
+      "timestamp": "2025-08-29T18:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/yBCFjarZHV",
+    "publish_time": "2025-08-29T17:12:14"
+  },
+  {
+    "file_name": "GzgotxtbkAMu4ST.jpg",
+    "user": {
+      "screen_name": "easychen",
+      "name": "EasyChen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzgotxtbkAMu4ST.jpg",
+    "read_time": "2025-08-29T18:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7012,
+      "timestamp": "2025-08-29T18:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 77077,
+      "size_mb": 0.07,
+      "timestamp": "2025-08-29T18:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "#Easy同学正在独立开发  Mac M4 Mini  32G 跑 bytedance/seed-oss-36b 。\n3.94 token/s ，速度不太行。\n\nqwen/qwen3-30b-a3b-2507 能到 42.82 token/s ，但只有 3b 激活，适合干输出多… https://t.co/i3fnN5zMSK",
+    "publish_time": "2025-08-29T17:37:01"
+  },
+  {
+    "file_name": "Gzgou7sbkAE5Cw0.jpg",
+    "user": {
+      "screen_name": "easychen",
+      "name": "EasyChen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gzgou7sbkAE5Cw0.jpg",
+    "read_time": "2025-08-29T18:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7013,
+      "timestamp": "2025-08-29T18:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 47659,
+      "size_mb": 0.05,
+      "timestamp": "2025-08-29T18:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "#Easy同学正在独立开发  Mac M4 Mini  32G 跑 bytedance/seed-oss-36b 。\n3.94 token/s ，速度不太行。\n\nqwen/qwen3-30b-a3b-2507 能到 42.82 token/s ，但只有 3b 激活，适合干输出多… https://t.co/i3fnN5zMSK",
+    "publish_time": "2025-08-29T17:37:01"
+  },
+  {
+    "file_name": "GzgqA5Pa8AARIl5.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzgqA5Pa8AARIl5.jpg",
+    "read_time": "2025-08-29T18:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7014,
+      "timestamp": "2025-08-29T18:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 119030,
+      "size_mb": 0.11,
+      "timestamp": "2025-08-29T18:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/hWQaPNSsJN",
+    "publish_time": "2025-08-29T17:42:34"
+  },
+  {
+    "file_name": "GzgqDqhbkAQOn9_.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzgqDqhbkAQOn9_.jpg",
+    "read_time": "2025-08-29T18:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7015,
+      "timestamp": "2025-08-29T18:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 121897,
+      "size_mb": 0.12,
+      "timestamp": "2025-08-29T18:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "jleeehoo https://t.co/vI5swX1a0i",
+    "publish_time": "2025-08-29T17:42:45"
+  },
+  {
+    "file_name": "GzgqDqhbkAM8tji.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzgqDqhbkAM8tji.jpg",
+    "read_time": "2025-08-29T18:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7016,
+      "timestamp": "2025-08-29T18:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 175389,
+      "size_mb": 0.17,
+      "timestamp": "2025-08-29T18:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "jleeehoo https://t.co/vI5swX1a0i",
+    "publish_time": "2025-08-29T17:42:45"
+  },
+  {
+    "file_name": "GzgqE0XbMAAbXxw.jpg",
+    "user": {
+      "screen_name": "koran0126",
+      "name": "코란"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzgqE0XbMAAbXxw.jpg",
+    "read_time": "2025-08-29T18:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7017,
+      "timestamp": "2025-08-29T18:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 80296,
+      "size_mb": 0.08,
+      "timestamp": "2025-08-29T18:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/quKABLBh4o",
+    "publish_time": "2025-08-29T17:42:50"
+  },
+  {
+    "file_name": "GzgrhgIaYAA2uAW.jpg",
+    "user": {
+      "screen_name": "koran0126",
+      "name": "코란"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzgrhgIaYAA2uAW.jpg",
+    "read_time": "2025-08-29T18:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7018,
+      "timestamp": "2025-08-29T18:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101816,
+      "size_mb": 0.1,
+      "timestamp": "2025-08-29T18:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "Fuck your pussy https://t.co/0b11AB0dMZ",
+    "publish_time": "2025-08-29T17:49:10"
   }
 ]
