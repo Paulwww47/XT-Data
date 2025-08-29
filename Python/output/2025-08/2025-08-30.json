@@ -180,5 +180,57 @@
     },
     "full_text": "https://t.co/A4sZgiULiU",
     "publish_time": "2025-08-30T05:37:31"
+  },
+  {
+    "file_name": "4NcnUcIxfhNrO4ro.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1961551458480132104/vid/avc1/720x1280/4NcnUcIxfhNrO4ro.mp4?tag=21",
+    "read_time": "2025-08-30T07:02:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7043,
+      "timestamp": "2025-08-30T07:02:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4651918,
+      "size_mb": 4.44,
+      "timestamp": "2025-08-30T07:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "繼續睡 https://t.co/6917EM0KKB",
+    "publish_time": "2025-08-30T06:08:25"
+  },
+  {
+    "file_name": "GzjbW7iaUAAANNh.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzjbW7iaUAAANNh.jpg",
+    "read_time": "2025-08-30T07:02:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7044,
+      "timestamp": "2025-08-30T07:02:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 92684,
+      "size_mb": 0.09,
+      "timestamp": "2025-08-30T07:02:07",
+      "download_attempts": 0
+    },
+    "full_text": "ferry_0715 https://t.co/yywbqKjCxh",
+    "publish_time": "2025-08-30T06:37:23"
   }
 ]
