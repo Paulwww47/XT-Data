@@ -1022,20 +1022,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GzljAHebkAInWa_.jpg",
     "read_time": "2025-08-30T17:00:33",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Internal server error during file upload",
-      "timestamp": "2025-08-30T17:00:39",
-      "notification_sent": false
+      "success": true,
+      "message_id": 7079,
+      "timestamp": "2025-08-30T18:00:34"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 91136,
       "size_mb": 0.09,
-      "timestamp": "2025-08-30T17:00:38",
+      "timestamp": "2025-08-30T18:00:33",
       "download_attempts": 0
     },
     "full_text": "https://t.co/XDP4iI6XyW",
@@ -1144,5 +1142,161 @@
     },
     "full_text": "七夕特别限定款！！！我一会晚点看转发量发视频 有做哦 https://t.co/4hIAjgNrLJ",
     "publish_time": "2025-08-30T16:35:26"
+  },
+  {
+    "file_name": "GzltJ7xbwAA90RQ.jpg",
+    "user": {
+      "screen_name": "koran0126",
+      "name": "코란"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzltJ7xbwAA90RQ.jpg",
+    "read_time": "2025-08-30T18:00:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7080,
+      "timestamp": "2025-08-30T18:00:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 183822,
+      "size_mb": 0.18,
+      "timestamp": "2025-08-30T18:00:35",
+      "download_attempts": 0
+    },
+    "full_text": "I wanna sex https://t.co/kxzNhbmNHp",
+    "publish_time": "2025-08-30T17:14:24"
+  },
+  {
+    "file_name": "GzltJ7xasAA214d.jpg",
+    "user": {
+      "screen_name": "koran0126",
+      "name": "코란"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzltJ7xasAA214d.jpg",
+    "read_time": "2025-08-30T18:00:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7081,
+      "timestamp": "2025-08-30T18:00:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 165773,
+      "size_mb": 0.16,
+      "timestamp": "2025-08-30T18:00:36",
+      "download_attempts": 0
+    },
+    "full_text": "I wanna sex https://t.co/kxzNhbmNHp",
+    "publish_time": "2025-08-30T17:14:24"
+  },
+  {
+    "file_name": "GzltcIUbIAAxrW1.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzltcIUbIAAxrW1.jpg",
+    "read_time": "2025-08-30T18:00:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7082,
+      "timestamp": "2025-08-30T18:00:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 114441,
+      "size_mb": 0.11,
+      "timestamp": "2025-08-30T18:00:37",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Mxs0ijJdBd",
+    "publish_time": "2025-08-30T17:15:38"
+  },
+  {
+    "file_name": "GzlxKpTbIAAT9Ee.jpg",
+    "user": {
+      "screen_name": "koran0126",
+      "name": "코란"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzlxKpTbIAAT9Ee.jpg",
+    "read_time": "2025-08-30T18:00:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7083,
+      "timestamp": "2025-08-30T18:00:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 97897,
+      "size_mb": 0.09,
+      "timestamp": "2025-08-30T18:00:39",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/8Llou03tpW https://t.co/whvl2XEGOO",
+    "publish_time": "2025-08-30T17:31:55"
+  },
+  {
+    "file_name": "GzlzpGlaQAALtHV.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzlzpGlaQAALtHV.jpg",
+    "read_time": "2025-08-30T18:00:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7084,
+      "timestamp": "2025-08-30T18:00:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 113553,
+      "size_mb": 0.11,
+      "timestamp": "2025-08-30T18:00:40",
+      "download_attempts": 0
+    },
+    "full_text": "r_kker https://t.co/2DmjEcwe45",
+    "publish_time": "2025-08-30T17:42:46"
+  },
+  {
+    "file_name": "GzlzpGfbsAA_CRg.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzlzpGfbsAA_CRg.jpg",
+    "read_time": "2025-08-30T18:00:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7085,
+      "timestamp": "2025-08-30T18:00:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 110068,
+      "size_mb": 0.1,
+      "timestamp": "2025-08-30T18:00:41",
+      "download_attempts": 0
+    },
+    "full_text": "r_kker https://t.co/2DmjEcwe45",
+    "publish_time": "2025-08-30T17:42:46"
   }
 ]
