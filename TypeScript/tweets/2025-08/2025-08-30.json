@@ -633,5 +633,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1961726277959975312",
     "fullText": "r_kker https://t.co/2DmjEcwe45",
     "publishTime": "2025-08-30T17:42:46"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gzl9f03a8AAd44S.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1961737104675029102",
+    "fullText": "aidenyuan_ https://t.co/tHP0WqZihq",
+    "publishTime": "2025-08-30T18:25:47"
+  },
+  {
+    "user": {
+      "screenName": "Leon_pan999",
+      "name": "Leon"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gzl-pWZaMAAo45c.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Leon_pan999/status/1961738372462100658",
+    "fullText": "休息中 https://t.co/fLS6k1kYoJ",
+    "publishTime": "2025-08-30T18:30:49"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzmCvAZbcAAI9IJ.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1961742862229647720",
+    "fullText": "https://t.co/fU2Nw5kPUx",
+    "publishTime": "2025-08-30T18:48:40"
   }
 ]
