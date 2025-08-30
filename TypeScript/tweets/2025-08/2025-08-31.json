@@ -81,5 +81,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1961895375499100194",
     "fullText": "he.hamlet https://t.co/0sTrJvgEBP",
     "publishTime": "2025-08-31T04:54:42"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzoZfdSa0AAoj-V.jpg",
+      "https://pbs.twimg.com/media/GzoZfWtbMAAsTcH.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1961908620846858690",
+    "fullText": "jronogan https://t.co/2P0lv6ysj5",
+    "publishTime": "2025-08-31T05:47:20"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzoZkfEbYAA8oKm.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1961908707291508811",
+    "fullText": "mark.xiaohui https://t.co/jA3m1sEg9E",
+    "publishTime": "2025-08-31T05:47:40"
   }
 ]
