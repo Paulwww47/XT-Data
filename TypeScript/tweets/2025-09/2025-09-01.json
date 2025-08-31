@@ -1,0 +1,30 @@
+[
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GztVg6GagAAIO9L.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1962256092152606884",
+    "fullText": "https://t.co/cYmuF5CAfl",
+    "publishTime": "2025-09-01T04:48:03"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1962256787060768768/pu/vid/avc1/720x1280/6AIdqJ4kC58sj8E_.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1962256816899076510",
+    "fullText": "https://t.co/vzKXmKY1FG",
+    "publishTime": "2025-09-01T04:50:56"
+  }
+]
