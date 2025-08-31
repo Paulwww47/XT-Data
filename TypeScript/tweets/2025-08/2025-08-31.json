@@ -641,5 +641,33 @@
     "tweetUrl": "https://x.com/easychen/status/1962090880749506905",
     "fullText": "#Easy同学正在独立开发  我大部分关于AI的想法，现在通过 MCP 都能完成了。但尴尬在于，它几乎什么都能做，又做得不太好，但「又不是不能用」非常让人纠结 😂",
     "publishTime": "2025-08-31T17:51:34"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzrC4uRaYAA5LFp.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1962094872942571617",
+    "fullText": "https://t.co/K812WXg6Az",
+    "publishTime": "2025-08-31T18:07:26"
+  },
+  {
+    "user": {
+      "screenName": "liangguai1",
+      "name": "亮拐"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzrMCbqacAAQZQE.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/liangguai1/status/1962104955730559348",
+    "fullText": "https://t.co/aiLUhNzG7D",
+    "publishTime": "2025-08-31T18:47:30"
   }
 ]
