@@ -442,5 +442,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1962026786482774053",
     "fullText": "https://t.co/IpGKsP9Qga",
     "publishTime": "2025-08-31T13:36:53"
+  },
+  {
+    "user": {
+      "screenName": "KevinLeeYoung92",
+      "name": "KevinLeeYoung"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzqMx5kbEAAf1gF.jpg",
+      "https://pbs.twimg.com/media/GzqMx5naoAApe9B.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/KevinLeeYoung92/status/1962035397472698371",
+    "fullText": "https://t.co/yerzN2dNvV",
+    "publishTime": "2025-08-31T14:11:06"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzqQFxkaQAA1YXY.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1962039022701986041",
+    "fullText": "b.baebe.b https://t.co/PArJY2hIZg",
+    "publishTime": "2025-08-31T14:25:30"
   }
 ]
