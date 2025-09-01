@@ -1020,5 +1020,19 @@
     "tweetUrl": "https://x.com/youdi/status/1962528109124858361",
     "fullText": "https://t.co/UHZ5xxq23X",
     "publishTime": "2025-09-01T22:48:57"
+  },
+  {
+    "user": {
+      "screenName": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1962535503670181890/vid/avc1/720x1280/9YmCD15YjGRI26_R.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/FZchU5dnD944436/status/1962535742430945624",
+    "fullText": "今撮り https://t.co/RyGJKtqw0H",
+    "publishTime": "2025-09-01T23:19:17"
   }
 ]

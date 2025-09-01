@@ -2494,5 +2494,31 @@
     },
     "full_text": "https://t.co/UHZ5xxq23X",
     "publish_time": "2025-09-01T22:48:57"
+  },
+  {
+    "file_name": "9YmCD15YjGRI26_R.mp4",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1962535503670181890/vid/avc1/720x1280/9YmCD15YjGRI26_R.mp4?tag=14",
+    "read_time": "2025-09-02T00:00:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7271,
+      "timestamp": "2025-09-02T00:00:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2384709,
+      "size_mb": 2.27,
+      "timestamp": "2025-09-02T00:00:46",
+      "download_attempts": 0
+    },
+    "full_text": "今撮り https://t.co/RyGJKtqw0H",
+    "publish_time": "2025-09-01T23:19:17"
   }
 ]
