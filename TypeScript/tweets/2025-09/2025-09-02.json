@@ -66,5 +66,19 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1962615583092134025",
     "fullText": "chenhainuoleo https://t.co/VHFUOFO5an",
     "publishTime": "2025-09-02T04:36:33"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1962632116061302784/vid/avc1/720x1280/mjQ55AyW1S0EdRoc.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1962632173204480250",
+    "fullText": "https://t.co/x8n01yIO83",
+    "publishTime": "2025-09-02T05:42:28"
   }
 ]

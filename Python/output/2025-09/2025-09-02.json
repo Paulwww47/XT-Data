@@ -76,5 +76,31 @@
     },
     "full_text": "chenhainuoleo https://t.co/VHFUOFO5an",
     "publish_time": "2025-09-02T04:36:33"
+  },
+  {
+    "file_name": "mjQ55AyW1S0EdRoc.mp4",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1962632116061302784/vid/avc1/720x1280/mjQ55AyW1S0EdRoc.mp4?tag=21",
+    "read_time": "2025-09-02T06:01:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7275,
+      "timestamp": "2025-09-02T06:01:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1600515,
+      "size_mb": 1.53,
+      "timestamp": "2025-09-02T06:01:12",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/x8n01yIO83",
+    "publish_time": "2025-09-02T05:42:28"
   }
 ]
