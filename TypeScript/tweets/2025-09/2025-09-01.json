@@ -676,5 +676,33 @@
     "tweetUrl": "https://x.com/youdi/status/1962438984799514920",
     "fullText": "https://t.co/9WmAxGoK0d",
     "publishTime": "2025-09-01T16:54:48"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzwFyBFaYAAyJFO.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1962449899360014596",
+    "fullText": "https://t.co/3cxj0iQHXW",
+    "publishTime": "2025-09-01T17:38:11"
+  },
+  {
+    "user": {
+      "screenName": "koran0126",
+      "name": "코란"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzwHoKbaMAAlepv.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/koran0126/status/1962451930711794060",
+    "fullText": "https://t.co/2uS65hskUm",
+    "publishTime": "2025-09-01T17:46:15"
   }
 ]
