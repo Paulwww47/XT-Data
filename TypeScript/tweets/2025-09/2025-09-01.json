@@ -398,5 +398,47 @@
     "tweetUrl": "https://x.com/maletease/status/1962349480088674423",
     "fullText": "截图 https://t.co/qO6IfzLMRs",
     "publishTime": "2025-09-01T10:59:09"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzuuQ5NaEAAM0VU.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1962353674350670235",
+    "fullText": "https://t.co/RxARR2JCAV",
+    "publishTime": "2025-09-01T11:15:49"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GzuwkPpawAAtHM5.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1962356207945216310",
+    "fullText": "https://t.co/6YNjfkKqLP",
+    "publishTime": "2025-09-01T11:25:53"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gzu0tSkakAAAS9p.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1962360758127473058",
+    "fullText": "https://t.co/8srduhFToT",
+    "publishTime": "2025-09-01T11:43:58"
   }
 ]
