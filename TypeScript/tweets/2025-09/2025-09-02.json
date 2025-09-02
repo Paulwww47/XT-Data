@@ -604,5 +604,35 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1962784682149568573",
     "fullText": "ootd_beefgood https://t.co/IllY6dcRa5",
     "publishTime": "2025-09-02T15:48:29"
+  },
+  {
+    "user": {
+      "screenName": "liangguai1",
+      "name": "亮拐"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gz081aHaoAEl0D6.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/liangguai1/status/1962791927641936119",
+    "fullText": "https://t.co/5JTVGUidoa",
+    "publishTime": "2025-09-02T16:17:17"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gz1AcpLaoAIdl7Y.jpg",
+      "https://pbs.twimg.com/media/Gz1AcpFaoAQ_hS4.jpg",
+      "https://pbs.twimg.com/media/Gz1AcpOaUAAfk_A.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1962795881255833627",
+    "fullText": "scooterrr101 https://t.co/XU4FTAL519",
+    "publishTime": "2025-09-02T16:32:59"
   }
 ]
