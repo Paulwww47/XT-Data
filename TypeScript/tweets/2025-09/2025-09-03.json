@@ -164,5 +164,51 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1962999049357033812",
     "fullText": "W199527 https://t.co/tPReJlRxLJ",
     "publishTime": "2025-09-03T06:00:18"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gz37xRyawAAgufT.jpg",
+      "https://pbs.twimg.com/media/Gz37xRlaEAAsZ5f.jpg",
+      "https://pbs.twimg.com/media/Gz37xRnaoAAam6m.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [
+      "http://whatzup.kim"
+    ],
+    "tweetUrl": "https://x.com/eric_kk97/status/1963001845082947920",
+    "fullText": "https://t.co/qJeySGZhVG https://t.co/2rvlHt9Bja",
+    "publishTime": "2025-09-03T06:11:25"
+  },
+  {
+    "user": {
+      "screenName": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://querie.me/answer/Nmo7LJpIGAz7qXTwvkK9?timestamp=1756851235"
+    ],
+    "tweetUrl": "https://x.com/FZchU5dnD944436/status/1963002480893297146",
+    "fullText": "ウケ気持ちいいけどキツマン過ぎてすぐ裂けちゃうからあんましないんだ\n\n#querie_FZchU5dnD944436\n\nhttps://t.co/tqmVRwtulZ",
+    "publishTime": "2025-09-03T06:13:56"
+  },
+  {
+    "user": {
+      "screenName": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1963007905718009858/vid/avc1/1280x720/CBmYrHgGbQcMJQ2R.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/FZchU5dnD944436/status/1963012735069003904",
+    "fullText": "横からのアングルが好き https://t.co/dQgJAtzFwA",
+    "publishTime": "2025-09-03T06:54:41"
   }
 ]
