@@ -1004,14 +1004,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (461MB > 50MB)",
       "timestamp": "2025-09-03T16:02:13",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 484288043,
       "size_mb": 461.85,
-      "timestamp": "2025-09-03T16:02:13",
+      "timestamp": "2025-09-03T17:01:23",
       "download_attempts": 0
     },
     "full_text": "王队系列 https://t.co/OLP23HL3JD",
@@ -1094,5 +1094,57 @@
     },
     "full_text": "https://t.co/Gm5dnzX8Rv",
     "publish_time": "2025-09-03T15:57:00"
+  },
+  {
+    "file_name": "Gz6LINBbMAAODSt.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gz6LINBbMAAODSt.jpg",
+    "read_time": "2025-09-03T17:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7377,
+      "timestamp": "2025-09-03T17:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 93731,
+      "size_mb": 0.09,
+      "timestamp": "2025-09-03T17:01:23",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/bPz5autjDX",
+    "publish_time": "2025-09-03T16:37:45"
+  },
+  {
+    "file_name": "Gz6QCQTbsAAgKBP.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gz6QCQTbsAAgKBP.jpg",
+    "read_time": "2025-09-03T17:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7378,
+      "timestamp": "2025-09-03T17:01:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 150454,
+      "size_mb": 0.14,
+      "timestamp": "2025-09-03T17:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/WSe1BPBs1B",
+    "publish_time": "2025-09-03T16:59:11"
   }
 ]
