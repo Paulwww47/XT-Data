@@ -449,5 +449,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1963102203339841762",
     "fullText": "https://t.co/NdhuRxkQES",
     "publishTime": "2025-09-03T12:50:12"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gz5eOF7aQAAxo-m.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1963110091349201196",
+    "fullText": "https://t.co/MDTTRLhOwX",
+    "publishTime": "2025-09-03T13:21:33"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gz5eQ7nboAAd2eJ.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1963110140284133759",
+    "fullText": "https://t.co/VQAlnhJ34L",
+    "publishTime": "2025-09-03T13:21:44"
+  },
+  {
+    "user": {
+      "screenName": "koran0126",
+      "name": "코란"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1963118762376499200/vid/avc1/720x1280/mUBKFJUbg5GdDVsX.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/koran0126/status/1963118839127818523",
+    "fullText": "Ummm? https://t.co/J7UU0IHTE6",
+    "publishTime": "2025-09-03T13:56:18"
   }
 ]
