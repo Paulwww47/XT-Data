@@ -886,5 +886,33 @@
     "tweetUrl": "https://x.com/xiaojin20001112/status/1963231365756797119",
     "fullText": "今日门槛99 https://t.co/KsrlkUAykP",
     "publishTime": "2025-09-03T21:23:27"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gz7Vm37aQAAvTgm.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/easychen/status/1963241365573407000",
+    "fullText": "#Easy同学正在独立开发 Kong 把 OpenMeter 收了。OpenMeter 算是目前功能做得最细的支持 ai 计费和套餐管理的开源产品。OMate Learn的计费就用的这个，他们家开源版只有 api 没有 ui，我还让 AI 写了个简陋的 … https://t.co/lmzojpIhip",
+    "publishTime": "2025-09-03T22:03:11"
+  },
+  {
+    "user": {
+      "screenName": "BlancaCarl80244",
+      "name": "女记者-莫莫"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gz7cuFfbAAAMnGk.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/BlancaCarl80244/status/1963249184770810226",
+    "fullText": "正式回归了哈！\n开启帮钓直男服务（有偿）可升级VIP进电报群可看每周直男视频更新，享受VIP钓直男价格，当然也可以不升级不进群，钓直男均不收定金！需要的宝宝们可以私信我！\n#钓直男\n#直男打飞机 https://t.co/IGNVD5OIlh",
+    "publishTime": "2025-09-03T22:34:15"
   }
 ]

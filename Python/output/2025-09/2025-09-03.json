@@ -1848,5 +1848,57 @@
     },
     "full_text": "今日门槛99 https://t.co/KsrlkUAykP",
     "publish_time": "2025-09-03T21:23:27"
+  },
+  {
+    "file_name": "Gz7Vm37aQAAvTgm.jpg",
+    "user": {
+      "screen_name": "easychen",
+      "name": "EasyChen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gz7Vm37aQAAvTgm.jpg",
+    "read_time": "2025-09-03T23:01:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7407,
+      "timestamp": "2025-09-03T23:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 125296,
+      "size_mb": 0.12,
+      "timestamp": "2025-09-03T23:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "#Easy同学正在独立开发 Kong 把 OpenMeter 收了。OpenMeter 算是目前功能做得最细的支持 ai 计费和套餐管理的开源产品。OMate Learn的计费就用的这个，他们家开源版只有 api 没有 ui，我还让 AI 写了个简陋的 … https://t.co/lmzojpIhip",
+    "publish_time": "2025-09-03T22:03:11"
+  },
+  {
+    "file_name": "Gz7cuFfbAAAMnGk.jpg",
+    "user": {
+      "screen_name": "BlancaCarl80244",
+      "name": "女记者-莫莫"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/Gz7cuFfbAAAMnGk.jpg",
+    "read_time": "2025-09-03T23:01:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7408,
+      "timestamp": "2025-09-03T23:01:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 106751,
+      "size_mb": 0.1,
+      "timestamp": "2025-09-03T23:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "正式回归了哈！\n开启帮钓直男服务（有偿）可升级VIP进电报群可看每周直男视频更新，享受VIP钓直男价格，当然也可以不升级不进群，钓直男均不收定金！需要的宝宝们可以私信我！\n#钓直男\n#直男打飞机 https://t.co/IGNVD5OIlh",
+    "publish_time": "2025-09-03T22:34:15"
   }
 ]
