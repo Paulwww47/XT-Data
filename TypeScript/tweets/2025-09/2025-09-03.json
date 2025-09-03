@@ -711,5 +711,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1963180042047144081",
     "fullText": "https://t.co/mXFoB0s6VZ",
     "publishTime": "2025-09-03T17:59:30"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gz6ppxAbUAASpm7.jpg",
+      "https://pbs.twimg.com/media/Gz6ppwoakAEjdN-.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1963193029126394252",
+    "fullText": "scott_treesongkiat https://t.co/DHKGRm6G3W",
+    "publishTime": "2025-09-03T18:51:07"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gz6psu-aEAAh42P.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1963193080150208728",
+    "fullText": "https://t.co/vaOLECbvUl",
+    "publishTime": "2025-09-03T18:51:19"
   }
 ]
