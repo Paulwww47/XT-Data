@@ -102,5 +102,31 @@
     },
     "full_text": "shawnshang_129 https://t.co/QnLYiaCoJl",
     "publish_time": "2025-09-05T04:59:54"
+  },
+  {
+    "file_name": "G0CB2nMbkAAlZ3z.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0CB2nMbkAAlZ3z.jpg",
+    "read_time": "2025-09-05T06:01:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7470,
+      "timestamp": "2025-09-05T06:01:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 127772,
+      "size_mb": 0.12,
+      "timestamp": "2025-09-05T06:01:03",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/VTG4iJs9rQ",
+    "publish_time": "2025-09-05T05:14:11"
   }
 ]
