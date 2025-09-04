@@ -1298,5 +1298,109 @@
     },
     "full_text": "https://t.co/wRYG6wgiP4",
     "publish_time": "2025-09-04T20:56:53"
+  },
+  {
+    "file_name": "G0AfcyIbEAEz9iL.jpg",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0AfcyIbEAEz9iL.jpg",
+    "read_time": "2025-09-04T23:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7459,
+      "timestamp": "2025-09-04T23:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 76146,
+      "size_mb": 0.07,
+      "timestamp": "2025-09-04T23:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "恥晒したい https://t.co/tCPJgp8vFQ",
+    "publish_time": "2025-09-04T22:04:22"
+  },
+  {
+    "file_name": "G0AhGkfbkAMex2r.jpg",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0AhGkfbkAMex2r.jpg",
+    "read_time": "2025-09-04T23:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7460,
+      "timestamp": "2025-09-04T23:01:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 83531,
+      "size_mb": 0.08,
+      "timestamp": "2025-09-04T23:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "猿すぎ https://t.co/N3WPXjJug1",
+    "publish_time": "2025-09-04T22:12:47"
+  },
+  {
+    "file_name": "naBVBCsTIoKol43z.mp4",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1963605808497004545/vid/avc1/720x1280/naBVBCsTIoKol43z.mp4?tag=14",
+    "read_time": "2025-09-04T23:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7461,
+      "timestamp": "2025-09-04T23:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2123986,
+      "size_mb": 2.03,
+      "timestamp": "2025-09-04T23:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "猿すぎ https://t.co/N3WPXjJug1",
+    "publish_time": "2025-09-04T22:12:47"
+  },
+  {
+    "file_name": "JdJqTPypi--yo5RQ.mp4",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1963608120967757824/vid/avc1/720x1280/JdJqTPypi--yo5RQ.mp4?tag=14",
+    "read_time": "2025-09-04T23:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7462,
+      "timestamp": "2025-09-04T23:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1516514,
+      "size_mb": 1.45,
+      "timestamp": "2025-09-04T23:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "アホすぎる https://t.co/Vu8CaEEYTU",
+    "publish_time": "2025-09-04T22:21:17"
   }
 ]
