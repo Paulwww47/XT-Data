@@ -125,5 +125,77 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1963371155081089460",
     "fullText": "https://t.co/Vllso0jEaN",
     "publishTime": "2025-09-04T06:38:55"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gz9bpuDawAA4E_D.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1963388741290266950",
+    "fullText": "https://t.co/4tsJUMxexP",
+    "publishTime": "2025-09-04T07:48:48"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1963389255981699073/vid/avc1/720x1280/yHszGLGe6854zb2I.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1963389396562186383",
+    "fullText": "玩一下 https://t.co/Fmn78xc7zb",
+    "publishTime": "2025-09-04T07:51:24"
+  },
+  {
+    "user": {
+      "screenName": "uxy666",
+      "name": "uxy"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1963389678637518849/vid/avc1/480x854/t74XbtD_6h__0klo.mp4?tag=14"
+    ],
+    "expandUrls": [
+      "https://t.me/+KXYyohZIZLcyZTE1"
+    ],
+    "tweetUrl": "https://x.com/uxy666/status/1963389764608168128",
+    "fullText": "免费分享完整视频进群\n\nhttps://t.co/cNS7yXnwnZ https://t.co/FZKijtiImH",
+    "publishTime": "2025-09-04T07:52:52"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1963389869063114753/vid/avc1/720x1280/fqfsuyOSn_zPvsJO.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1963389954920472616",
+    "fullText": "要出門了 https://t.co/ETWV45bDXq",
+    "publishTime": "2025-09-04T07:53:37"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gz9duBpaoAEE5cu.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1963391012753293485",
+    "fullText": "nguyen.hai95 https://t.co/xgSruADCF7",
+    "publishTime": "2025-09-04T07:57:50"
   }
 ]
