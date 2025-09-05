@@ -180,5 +180,31 @@
     },
     "full_text": "https://t.co/gL0kPchiZA",
     "publish_time": "2025-09-06T02:10:40"
+  },
+  {
+    "file_name": "G0G1x3VakAAAL4E.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0G1x3VakAAAL4E.jpg",
+    "read_time": "2025-09-06T04:01:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7540,
+      "timestamp": "2025-09-06T04:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 247489,
+      "size_mb": 0.24,
+      "timestamp": "2025-09-06T04:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "magaman70 https://t.co/w3Yj6962zw",
+    "publish_time": "2025-09-06T03:39:32"
   }
 ]
