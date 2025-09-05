@@ -1666,5 +1666,57 @@
     },
     "full_text": "lin__26 https://t.co/6yqRk4M7ok",
     "publish_time": "2025-09-05T18:52:51"
+  },
+  {
+    "file_name": "oD71zU1Y-esubWAm.mp4",
+    "user": {
+      "screen_name": "vallen_8891",
+      "name": "Vallen_"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1963924522220109824/vid/avc1/720x1280/oD71zU1Y-esubWAm.mp4?tag=21",
+    "read_time": "2025-09-05T20:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7528,
+      "timestamp": "2025-09-05T20:01:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2159056,
+      "size_mb": 2.06,
+      "timestamp": "2025-09-05T20:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "Quick happiness😳 https://t.co/MSO7sHytUj",
+    "publish_time": "2025-09-05T19:18:04"
+  },
+  {
+    "file_name": "G0FGv2BbYAA3QKq.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0FGv2BbYAA3QKq.jpg",
+    "read_time": "2025-09-05T20:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7529,
+      "timestamp": "2025-09-05T20:01:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 147677,
+      "size_mb": 0.14,
+      "timestamp": "2025-09-05T20:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "jayzzangg https://t.co/7Bn425QpFj",
+    "publish_time": "2025-09-05T19:34:26"
   }
 ]
