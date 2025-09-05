@@ -1770,5 +1770,31 @@
     },
     "full_text": "https://t.co/LmXuAeszPu",
     "publish_time": "2025-09-05T21:06:41"
+  },
+  {
+    "file_name": "G0F7YdraYAAAP-8.jpg",
+    "user": {
+      "screen_name": "captainshagang",
+      "name": "沙岗队长"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0F7YdraYAAAP-8.jpg",
+    "read_time": "2025-09-06T00:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7532,
+      "timestamp": "2025-09-06T00:01:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 117443,
+      "size_mb": 0.11,
+      "timestamp": "2025-09-06T00:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "上海的在哪里？来健身上课 https://t.co/cQjyYgJYx3",
+    "publish_time": "2025-09-05T23:24:24"
   }
 ]
