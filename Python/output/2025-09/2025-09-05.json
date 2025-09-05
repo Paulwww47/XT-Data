@@ -1744,5 +1744,31 @@
     },
     "full_text": "andrewhhl https://t.co/SpsJBmytz4",
     "publish_time": "2025-09-05T20:16:52"
+  },
+  {
+    "file_name": "G0Fb2yia8AA0ULN.jpg",
+    "user": {
+      "screen_name": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0Fb2yia8AA0ULN.jpg",
+    "read_time": "2025-09-05T22:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7531,
+      "timestamp": "2025-09-05T22:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 126292,
+      "size_mb": 0.12,
+      "timestamp": "2025-09-05T22:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/LmXuAeszPu",
+    "publish_time": "2025-09-05T21:06:41"
   }
 ]
