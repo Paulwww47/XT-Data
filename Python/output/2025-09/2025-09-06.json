@@ -1636,5 +1636,85 @@
     },
     "full_text": "https://t.co/s8uP5JlYy4",
     "publish_time": "2025-09-06T17:40:14"
+  },
+  {
+    "file_name": "G0KE83FasAAuyKV.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0KE83FasAAuyKV.jpg",
+    "read_time": "2025-09-06T19:00:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7596,
+      "timestamp": "2025-09-06T19:00:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 123178,
+      "size_mb": 0.12,
+      "timestamp": "2025-09-06T19:00:39",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/i2FAui7J0l",
+    "publish_time": "2025-09-06T18:44:41"
+  },
+  {
+    "file_name": "G0KFD-pbUAIyYh7.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0KFD-pbUAIyYh7.jpg",
+    "read_time": "2025-09-06T19:00:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7597,
+      "timestamp": "2025-09-06T19:00:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 125255,
+      "size_mb": 0.12,
+      "timestamp": "2025-09-06T19:00:41",
+      "download_attempts": 0
+    },
+    "full_text": "physical-min https://t.co/UZk2lcbcBh",
+    "publish_time": "2025-09-06T18:45:10"
+  },
+  {
+    "file_name": "RISEiPRr8L11mMNu.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1964279840716312579/vid/avc1/1080x1920/RISEiPRr8L11mMNu.mp4?tag=21",
+    "read_time": "2025-09-06T19:00:39",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (99MB > 50MB)",
+      "timestamp": "2025-09-06T19:00:52",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 104107071,
+      "size_mb": 99.28,
+      "timestamp": "2025-09-06T19:00:52",
+      "download_attempts": 0
+    },
+    "full_text": "bstrx https://t.co/Cc1BjnueDK",
+    "publish_time": "2025-09-06T18:54:54"
   }
 ]
