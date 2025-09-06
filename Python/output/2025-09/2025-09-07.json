@@ -146,14 +146,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (203MB > 50MB)",
       "timestamp": "2025-09-07T06:01:28",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 213695218,
       "size_mb": 203.8,
-      "timestamp": "2025-09-07T06:01:28",
+      "timestamp": "2025-09-07T07:01:47",
       "download_attempts": 0
     },
     "full_text": "水木龙 农牛 https://t.co/7DyrxcRNqU",
@@ -174,14 +174,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (134MB > 50MB)",
       "timestamp": "2025-09-07T06:01:39",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 141140032,
       "size_mb": 134.6,
-      "timestamp": "2025-09-07T06:01:39",
+      "timestamp": "2025-09-07T07:01:48",
       "download_attempts": 0
     },
     "full_text": "man999xx 肌肉大叔（肌肉老头🫣） https://t.co/tWgaWSDbau",
@@ -254,14 +254,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (105MB > 50MB)",
       "timestamp": "2025-09-07T06:01:55",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 110426157,
       "size_mb": 105.31,
-      "timestamp": "2025-09-07T06:01:55",
+      "timestamp": "2025-09-07T07:01:50",
       "download_attempts": 0
     },
     "full_text": "jsonyau https://t.co/qBxsCKVyec",
@@ -282,14 +282,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (131MB > 50MB)",
       "timestamp": "2025-09-07T06:02:11",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 138248656,
       "size_mb": 131.84,
-      "timestamp": "2025-09-07T06:02:11",
+      "timestamp": "2025-09-07T07:01:51",
       "download_attempts": 0
     },
     "full_text": "jsonyau https://t.co/qBxsCKVyec",
@@ -310,14 +310,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (111MB > 50MB)",
       "timestamp": "2025-09-07T06:02:25",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 117263608,
       "size_mb": 111.83,
-      "timestamp": "2025-09-07T06:02:25",
+      "timestamp": "2025-09-07T07:01:53",
       "download_attempts": 0
     },
     "full_text": "jsonyau https://t.co/qBxsCKVyec",
@@ -338,17 +338,203 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (129MB > 50MB)",
       "timestamp": "2025-09-07T06:02:44",
+      "notification_sent": true
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 135310636,
+      "size_mb": 129.04,
+      "timestamp": "2025-09-07T07:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "jsonyau https://t.co/qBxsCKVyec",
+    "publish_time": "2025-09-07T05:58:25"
+  },
+  {
+    "file_name": "Jva3sugiAAW_uOSj.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1964449721684287488/vid/avc1/960x1280/Jva3sugiAAW_uOSj.mp4?tag=21",
+    "read_time": "2025-09-07T07:01:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7617,
+      "timestamp": "2025-09-07T07:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 39177047,
+      "size_mb": 37.36,
+      "timestamp": "2025-09-07T07:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "Aurevoir https://t.co/NvAMIbmnhT",
+    "publish_time": "2025-09-07T06:06:01"
+  },
+  {
+    "file_name": "G0Mik8nbUAAF1Rd.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0Mik8nbUAAF1Rd.jpg",
+    "read_time": "2025-09-07T07:01:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7618,
+      "timestamp": "2025-09-07T07:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 140967,
+      "size_mb": 0.13,
+      "timestamp": "2025-09-07T07:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vG997WWC4I",
+    "publish_time": "2025-09-07T06:13:22"
+  },
+  {
+    "file_name": "G0MipfobUAYEazI.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0MipfobUAYEazI.jpg",
+    "read_time": "2025-09-07T07:01:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7619,
+      "timestamp": "2025-09-07T07:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 129857,
+      "size_mb": 0.12,
+      "timestamp": "2025-09-07T07:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/k9MwHV8z4o",
+    "publish_time": "2025-09-07T06:13:40"
+  },
+  {
+    "file_name": "aQ-u-IRaAICTBa_3.mp4",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1964452023694503936/vid/avc1/720x1280/aQ-u-IRaAICTBa_3.mp4?tag=14",
+    "read_time": "2025-09-07T07:01:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7620,
+      "timestamp": "2025-09-07T07:02:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1608562,
+      "size_mb": 1.53,
+      "timestamp": "2025-09-07T07:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "皮オナ https://t.co/P7O0hICxpv",
+    "publish_time": "2025-09-07T06:14:45"
+  },
+  {
+    "file_name": "HNv7n4M_yr886cxs.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1964454018199277569/vid/avc1/1920x1080/HNv7n4M_yr886cxs.mp4?tag=21",
+    "read_time": "2025-09-07T07:01:45",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (311MB > 50MB)",
+      "timestamp": "2025-09-07T07:02:33",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 135310636,
-      "size_mb": 129.04,
-      "timestamp": "2025-09-07T06:02:44",
+      "size": 326138550,
+      "size_mb": 311.03,
+      "timestamp": "2025-09-07T07:02:33",
       "download_attempts": 0
     },
-    "full_text": "jsonyau https://t.co/qBxsCKVyec",
-    "publish_time": "2025-09-07T05:58:25"
+    "full_text": "痞壹 X 体育生一凡 EVAN【超神】 \n带你超神带你飞  枪指蜜穴踏云回 https://t.co/KEQzlkYqJ0",
+    "publish_time": "2025-09-07T06:26:30"
+  },
+  {
+    "file_name": "GzxK4F_bYAADn6V.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GzxK4F_bYAADn6V.jpg",
+    "read_time": "2025-09-07T07:01:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7621,
+      "timestamp": "2025-09-07T07:02:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 135638,
+      "size_mb": 0.13,
+      "timestamp": "2025-09-07T07:02:33",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/YUIdJAVUSX",
+    "publish_time": "2025-09-07T06:40:00"
+  },
+  {
+    "file_name": "DYk1ydPLECPntISq.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1964459066874613763/vid/avc1/1920x1080/DYk1ydPLECPntISq.mp4?tag=21",
+    "read_time": "2025-09-07T07:01:45",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (448MB > 50MB)",
+      "timestamp": "2025-09-07T07:03:10",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 470728890,
+      "size_mb": 448.92,
+      "timestamp": "2025-09-07T07:03:10",
+      "download_attempts": 0
+    },
+    "full_text": "黑仔和bstrx https://t.co/PLbPGo8Yxv",
+    "publish_time": "2025-09-07T06:53:06"
   }
 ]
