@@ -1704,17 +1704,43 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (99MB > 50MB)",
       "timestamp": "2025-09-06T19:00:52",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 104107071,
       "size_mb": 99.28,
-      "timestamp": "2025-09-06T19:00:52",
+      "timestamp": "2025-09-06T20:00:43",
       "download_attempts": 0
     },
     "full_text": "bstrx https://t.co/Cc1BjnueDK",
     "publish_time": "2025-09-06T18:54:54"
+  },
+  {
+    "file_name": "tL0XS7nYKC13KqSX.mp4",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1964292859542327298/vid/avc1/1280x720/tL0XS7nYKC13KqSX.mp4?tag=14",
+    "read_time": "2025-09-06T20:00:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7598,
+      "timestamp": "2025-09-06T20:00:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2397093,
+      "size_mb": 2.29,
+      "timestamp": "2025-09-06T20:00:43",
+      "download_attempts": 0
+    },
+    "full_text": "射精最高\nお前らもっと射精しろ https://t.co/qh0FvAGFsW",
+    "publish_time": "2025-09-06T19:54:10"
   }
 ]
