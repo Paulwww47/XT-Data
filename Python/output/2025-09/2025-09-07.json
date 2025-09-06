@@ -76,5 +76,59 @@
     },
     "full_text": "https://t.co/tDnisy99IU",
     "publish_time": "2025-09-07T03:06:49"
+  },
+  {
+    "file_name": "4HltsfdTFqSglfgt.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1964423546052239360/vid/avc1/1080x1920/4HltsfdTFqSglfgt.mp4?tag=21",
+    "read_time": "2025-09-07T05:01:15",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (153MB > 50MB)",
+      "timestamp": "2025-09-07T05:01:30",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 160496581,
+      "size_mb": 153.06,
+      "timestamp": "2025-09-07T05:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "pecpal https://t.co/KqtZls1pTb",
+    "publish_time": "2025-09-07T04:25:06"
+  },
+  {
+    "file_name": "G0MMxT6bUAEt3D5.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0MMxT6bUAEt3D5.jpg",
+    "read_time": "2025-09-07T05:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7614,
+      "timestamp": "2025-09-07T05:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 104128,
+      "size_mb": 0.1,
+      "timestamp": "2025-09-07T05:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/jS7bk7P2vG",
+    "publish_time": "2025-09-07T04:38:05"
   }
 ]

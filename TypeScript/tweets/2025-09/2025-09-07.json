@@ -52,5 +52,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1964404942099402886",
     "fullText": "https://t.co/tDnisy99IU",
     "publishTime": "2025-09-07T03:06:49"
+  },
+  {
+    "user": {
+      "screenName": "maletease",
+      "name": "MaleTease"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1964423546052239360/vid/avc1/1080x1920/4HltsfdTFqSglfgt.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/maletease/status/1964424643751923925",
+    "fullText": "pecpal https://t.co/KqtZls1pTb",
+    "publishTime": "2025-09-07T04:25:06"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0MMxT6bUAEt3D5.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1964427909562880461",
+    "fullText": "https://t.co/jS7bk7P2vG",
+    "publishTime": "2025-09-07T04:38:05"
   }
 ]
