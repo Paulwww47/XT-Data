@@ -752,5 +752,31 @@
     },
     "full_text": "https://t.co/yXSR42fOPc",
     "publish_time": "2025-09-06T11:35:16"
+  },
+  {
+    "file_name": "G0I1i3dbUAA9mg2.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0I1i3dbUAA9mg2.jpg",
+    "read_time": "2025-09-06T13:00:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7562,
+      "timestamp": "2025-09-06T13:00:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 118183,
+      "size_mb": 0.11,
+      "timestamp": "2025-09-06T13:00:44",
+      "download_attempts": 0
+    },
+    "full_text": "jinhyunbin https://t.co/vV81l2xX3c",
+    "publish_time": "2025-09-06T12:57:45"
   }
 ]
