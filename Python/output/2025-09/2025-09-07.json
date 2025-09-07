@@ -470,14 +470,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (311MB > 50MB)",
       "timestamp": "2025-09-07T07:02:33",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 326138550,
       "size_mb": 311.03,
-      "timestamp": "2025-09-07T07:02:33",
+      "timestamp": "2025-09-07T08:01:26",
       "download_attempts": 0
     },
     "full_text": "痞壹 X 体育生一凡 EVAN【超神】 \n带你超神带你飞  枪指蜜穴踏云回 https://t.co/KEQzlkYqJ0",
@@ -524,17 +524,43 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (448MB > 50MB)",
       "timestamp": "2025-09-07T07:03:10",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 470728890,
       "size_mb": 448.92,
-      "timestamp": "2025-09-07T07:03:10",
+      "timestamp": "2025-09-07T08:01:33",
       "download_attempts": 0
     },
     "full_text": "黑仔和bstrx https://t.co/PLbPGo8Yxv",
     "publish_time": "2025-09-07T06:53:06"
+  },
+  {
+    "file_name": "G0MuNfjaQAAQgBY.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0MuNfjaQAAQgBY.jpg",
+    "read_time": "2025-09-07T08:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7622,
+      "timestamp": "2025-09-07T08:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 126699,
+      "size_mb": 0.12,
+      "timestamp": "2025-09-07T08:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "joshuashuyue https://t.co/E3rtXty4pp",
+    "publish_time": "2025-09-07T07:04:12"
   }
 ]
