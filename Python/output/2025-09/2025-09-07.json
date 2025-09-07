@@ -692,5 +692,57 @@
     },
     "full_text": "https://t.co/NGUoYsduSv",
     "publish_time": "2025-09-07T09:56:18"
+  },
+  {
+    "file_name": "YZbWNeiB8Bk6eDkJ.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1964510531643199494/vid/avc1/720x1280/YZbWNeiB8Bk6eDkJ.mp4?tag=21",
+    "read_time": "2025-09-07T11:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7628,
+      "timestamp": "2025-09-07T11:01:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 6260291,
+      "size_mb": 5.97,
+      "timestamp": "2025-09-07T11:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "白襪 https://t.co/FwU71HQUSL",
+    "publish_time": "2025-09-07T10:06:45"
+  },
+  {
+    "file_name": "ZSP8WHZPTiF8a_2U.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1964511121265872909/vid/avc1/720x1280/ZSP8WHZPTiF8a_2U.mp4?tag=21",
+    "read_time": "2025-09-07T11:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7629,
+      "timestamp": "2025-09-07T11:01:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4579420,
+      "size_mb": 4.37,
+      "timestamp": "2025-09-07T11:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/PUP0ZnC412",
+    "publish_time": "2025-09-07T10:09:02"
   }
 ]
