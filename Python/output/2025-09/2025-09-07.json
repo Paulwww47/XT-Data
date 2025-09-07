@@ -1930,14 +1930,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (68MB > 50MB)",
       "timestamp": "2025-09-07T22:01:05",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 71660856,
       "size_mb": 68.34,
-      "timestamp": "2025-09-07T22:01:05",
+      "timestamp": "2025-09-07T23:00:55",
       "download_attempts": 0
     },
     "full_text": "黑皮人夫 极透黑丝大脚粗口训狗  闻上头竟然展示无毛骚逼  教骚狗儿子放浪揉屁眼  骚爽淫荡  (视频长达8分钟  傻逼舔屏必射) https://t.co/Tf7VizANi7",
@@ -2020,5 +2020,57 @@
     },
     "full_text": "楼对面的男的每天晚上都全裸不拉窗帘，不知道是不是故意的，有次半夜醒来还看见他把灯开到最亮 对着窗户打飞机 感觉这样很刺激 https://t.co/g8TQKNzk1w",
     "publish_time": "2025-09-07T21:48:05"
+  },
+  {
+    "file_name": "G0P7guYboAEK_JJ.jpg",
+    "user": {
+      "screen_name": "captainshagang",
+      "name": "沙岗队长"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0P7guYboAEK_JJ.jpg",
+    "read_time": "2025-09-07T23:00:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7678,
+      "timestamp": "2025-09-07T23:00:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 137178,
+      "size_mb": 0.13,
+      "timestamp": "2025-09-07T23:00:55",
+      "download_attempts": 0
+    },
+    "full_text": "谁懂练腿的好处 https://t.co/yv8Mj1SD6p",
+    "publish_time": "2025-09-07T22:01:10"
+  },
+  {
+    "file_name": "G0QFvxCaAAEDRnR.jpg",
+    "user": {
+      "screen_name": "YCJ2023",
+      "name": "杨长进"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0QFvxCaAAEDRnR.jpg",
+    "read_time": "2025-09-07T23:00:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7679,
+      "timestamp": "2025-09-07T23:01:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 157284,
+      "size_mb": 0.15,
+      "timestamp": "2025-09-07T23:00:58",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/XrqSJwnjLL",
+    "publish_time": "2025-09-07T22:45:57"
   }
 ]
