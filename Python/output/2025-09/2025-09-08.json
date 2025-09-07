@@ -102,5 +102,31 @@
     },
     "full_text": "https://t.co/j88B6uKDzZ",
     "publish_time": "2025-09-08T01:46:31"
+  },
+  {
+    "file_name": "4souGIw-DQ_x-FZ2.mp4",
+    "user": {
+      "screen_name": "LiugangLogan",
+      "name": "刘刚Logan"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1964751952429920256/vid/avc1/720x1280/4souGIw-DQ_x-FZ2.mp4?tag=21",
+    "read_time": "2025-09-08T03:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7690,
+      "timestamp": "2025-09-08T03:00:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 322964,
+      "size_mb": 0.31,
+      "timestamp": "2025-09-08T03:00:52",
+      "download_attempts": 0
+    },
+    "full_text": "已出 https://t.co/q2LsrESQlq",
+    "publish_time": "2025-09-08T02:05:58"
   }
 ]
