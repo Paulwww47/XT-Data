@@ -377,5 +377,48 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1964537425415590337",
     "fullText": "https://t.co/DN5k9txfmI",
     "publishTime": "2025-09-07T11:53:16"
+  },
+  {
+    "user": {
+      "screenName": "xiaojin20001112",
+      "name": "小金"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1964541348633096192/pu/vid/avc1/960x544/ifV92PYMy4Le5sLu.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/xiaojin20001112/status/1964541496088219755",
+    "fullText": "今日入门槛 享完整新视频 https://t.co/aeJnWpQQBS",
+    "publishTime": "2025-09-07T12:09:26"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0N5Z5BbUAQAj6U.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1964547354847301791",
+    "fullText": "liuweikeee https://t.co/SnRRwlblCZ",
+    "publishTime": "2025-09-07T12:32:43"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0N6_0rbUAIfJhx.jpg",
+      "https://pbs.twimg.com/media/G0N6_0vaQAABugv.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1964549103968481706",
+    "fullText": "paoloamores https://t.co/o7LIShpWJf",
+    "publishTime": "2025-09-07T12:39:40"
   }
 ]
