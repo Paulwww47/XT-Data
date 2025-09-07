@@ -293,5 +293,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1964491975887098353",
     "fullText": "https://t.co/4eBx7dQF5T",
     "publishTime": "2025-09-07T08:52:40"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0NPn_CbUAI62ik.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1964501416900542739",
+    "fullText": "https://t.co/j9IjUBpPN6",
+    "publishTime": "2025-09-07T09:30:11"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0NQBlBaoAAUvwD.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1964501856354505136",
+    "fullText": "https://t.co/b6S6NpgrvB",
+    "publishTime": "2025-09-07T09:31:55"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0NVmbgaQAAH6Ac.png"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1964507992642207856",
+    "fullText": "https://t.co/NGUoYsduSv",
+    "publishTime": "2025-09-07T09:56:18"
   }
 ]
