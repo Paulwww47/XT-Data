@@ -183,5 +183,35 @@
     "tweetUrl": "https://x.com/iKwuen1111/status/1964840575070617925",
     "fullText": "早 https://t.co/GGOPTEqHQx",
     "publishTime": "2025-09-08T07:57:52"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0STlP4aoAEFPkO.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1964857611297460698",
+    "fullText": "https://t.co/PizBDWjHju",
+    "publishTime": "2025-09-08T09:05:34"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0SbthGakAEfwsi.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [
+      "https://www.fuckingyoung.com/boy"
+    ],
+    "tweetUrl": "https://x.com/youdi/status/1964866558272139367",
+    "fullText": "你的恶魔阿豆  more：https://t.co/yoIxhAptIU https://t.co/5R8K1DxMpf",
+    "publishTime": "2025-09-08T09:41:07"
   }
 ]
