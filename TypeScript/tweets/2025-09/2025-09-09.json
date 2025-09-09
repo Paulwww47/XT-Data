@@ -138,5 +138,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1965249483308237288",
     "fullText": "caspar_rui https://t.co/fEKWSwAqFU",
     "publishTime": "2025-09-09T11:02:44"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0YQ0Psa4AALIvM.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1965276782002860032",
+    "fullText": "https://t.co/gQvF3D4HFe",
+    "publishTime": "2025-09-09T12:51:12"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0YTC5VbYAAg4hX.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1965279232273383651",
+    "fullText": "https://t.co/xLRkalLh3L",
+    "publishTime": "2025-09-09T13:00:56"
   }
 ]
