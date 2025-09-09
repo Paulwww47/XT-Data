@@ -232,5 +232,31 @@
     },
     "full_text": "https://t.co/g0XKTOzWlX",
     "publish_time": "2025-09-09T10:44:13"
+  },
+  {
+    "file_name": "G0X3_OPbgAEOdQN.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0X3_OPbgAEOdQN.jpg",
+    "read_time": "2025-09-09T12:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7750,
+      "timestamp": "2025-09-09T12:01:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 93437,
+      "size_mb": 0.09,
+      "timestamp": "2025-09-09T12:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "caspar_rui https://t.co/fEKWSwAqFU",
+    "publish_time": "2025-09-09T11:02:44"
   }
 ]
