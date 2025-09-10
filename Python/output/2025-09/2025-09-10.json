@@ -882,5 +882,135 @@
     },
     "full_text": "https://t.co/UcI4XJ8v4T",
     "publish_time": "2025-09-10T17:57:48"
+  },
+  {
+    "file_name": "G0ejIFQbsAAJ7Va.jpg",
+    "user": {
+      "screen_name": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0ejIFQbsAAJ7Va.jpg",
+    "read_time": "2025-09-10T19:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7814,
+      "timestamp": "2025-09-10T19:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 144648,
+      "size_mb": 0.14,
+      "timestamp": "2025-09-10T19:01:18",
+      "download_attempts": 0
+    },
+    "full_text": "Hear the wind blowing. https://t.co/EVGbxyAC8l",
+    "publish_time": "2025-09-10T18:08:57"
+  },
+  {
+    "file_name": "G0ejWh5a0AAgiTQ.jpg",
+    "user": {
+      "screen_name": "koran0126",
+      "name": "코란"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0ejWh5a0AAgiTQ.jpg",
+    "read_time": "2025-09-10T19:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7815,
+      "timestamp": "2025-09-10T19:01:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 130768,
+      "size_mb": 0.12,
+      "timestamp": "2025-09-10T19:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/SYSR0XdCHd",
+    "publish_time": "2025-09-10T18:09:55"
+  },
+  {
+    "file_name": "8LHsKxfVvXVNMMqx.mp4",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1965721732737794049/vid/avc1/720x882/8LHsKxfVvXVNMMqx.mp4?tag=14",
+    "read_time": "2025-09-10T19:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7816,
+      "timestamp": "2025-09-10T19:01:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 623819,
+      "size_mb": 0.59,
+      "timestamp": "2025-09-10T19:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "これGIF画像にしてみたら面白かったんだけど\nGIFはセンシティブ設定できないから見せられない… https://t.co/6ekmXuA3Qz",
+    "publish_time": "2025-09-10T18:21:22"
+  },
+  {
+    "file_name": "G0eqL7WaIAICjgU.jpg",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0eqL7WaIAICjgU.jpg",
+    "read_time": "2025-09-10T19:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7817,
+      "timestamp": "2025-09-10T19:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 208464,
+      "size_mb": 0.2,
+      "timestamp": "2025-09-10T19:01:24",
+      "download_attempts": 0
+    },
+    "full_text": "生きよ、堕ちよ――。 https://t.co/5tMd7AMwTD",
+    "publish_time": "2025-09-10T18:43:13"
+  },
+  {
+    "file_name": "G0eqeqobEAAmDZI.jpg",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0eqeqobEAAmDZI.jpg",
+    "read_time": "2025-09-10T19:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7818,
+      "timestamp": "2025-09-10T19:01:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 94918,
+      "size_mb": 0.09,
+      "timestamp": "2025-09-10T19:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "生きよ、堕ちよ――。 https://t.co/5tMd7AMwTD",
+    "publish_time": "2025-09-10T18:43:13"
   }
 ]
