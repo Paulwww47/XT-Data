@@ -1808,17 +1808,147 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (142MB > 50MB)",
       "timestamp": "2025-09-11T18:02:01",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 149061355,
       "size_mb": 142.16,
-      "timestamp": "2025-09-11T18:02:01",
+      "timestamp": "2025-09-11T19:01:33",
       "download_attempts": 0
     },
     "full_text": "weibtm （更新到25-9-5 ） https://t.co/QqjqsdX3DN",
     "publish_time": "2025-09-11T18:00:43"
+  },
+  {
+    "file_name": "G0jrS-QaMAofCYS.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0jrS-QaMAofCYS.jpg",
+    "read_time": "2025-09-11T19:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7905,
+      "timestamp": "2025-09-11T19:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 137270,
+      "size_mb": 0.13,
+      "timestamp": "2025-09-11T19:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/acAKsGsd6i\nhttps://t.co/S8TKbYoew0\n阿显 （ 165cm 52kg） （更新到25-8-25）精瘦型 \n  大部分都是壹零  偶尔飞机 也\n做牛 （合作过 微翘 徐英雄 Myedging  alantop swang  nainoi  痞壹 joseph 等 ）合集¥20 需要可以私信我 https://t.co/urgBUlvVH2",
+    "publish_time": "2025-09-11T18:02:45"
+  },
+  {
+    "file_name": "G0jrZT0b0AAP0GZ.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0jrZT0b0AAP0GZ.jpg",
+    "read_time": "2025-09-11T19:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7906,
+      "timestamp": "2025-09-11T19:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 168864,
+      "size_mb": 0.16,
+      "timestamp": "2025-09-11T19:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "ethanng_ho https://t.co/GOoIZpYdEx",
+    "publish_time": "2025-09-11T18:03:09"
+  },
+  {
+    "file_name": "G0js-8ab0AAm9IH.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0js-8ab0AAm9IH.jpg",
+    "read_time": "2025-09-11T19:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7907,
+      "timestamp": "2025-09-11T19:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 135505,
+      "size_mb": 0.13,
+      "timestamp": "2025-09-11T19:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Ad1aeJkAc7",
+    "publish_time": "2025-09-11T18:10:07"
+  },
+  {
+    "file_name": "G0j1Rp6aMAACpTN.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0j1Rp6aMAACpTN.jpg",
+    "read_time": "2025-09-11T19:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7908,
+      "timestamp": "2025-09-11T19:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 95836,
+      "size_mb": 0.09,
+      "timestamp": "2025-09-11T19:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "kapaopeh https://t.co/8xkQC08ewk",
+    "publish_time": "2025-09-11T18:46:19"
+  },
+  {
+    "file_name": "G0j3HIyaMAMgbNt.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0j3HIyaMAMgbNt.jpg",
+    "read_time": "2025-09-11T19:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7909,
+      "timestamp": "2025-09-11T19:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 83724,
+      "size_mb": 0.08,
+      "timestamp": "2025-09-11T19:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Th8IaIu7IZ",
+    "publish_time": "2025-09-11T18:54:31"
   }
 ]
