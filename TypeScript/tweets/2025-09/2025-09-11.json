@@ -399,5 +399,45 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1965996234243821803",
     "fullText": "Conwaytam https://t.co/MxHV9Ai8u0",
     "publishTime": "2025-09-11T12:30:03"
+  },
+  {
+    "user": {
+      "screenName": "alvingoooo",
+      "name": "go"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/alvingoooo/status/1966024835496382863",
+    "fullText": "Where can I get this in indo",
+    "publishTime": "2025-09-11T14:23:42"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0i_vfhaMAQcz2t.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1966032065511698583",
+    "fullText": "x_hyeok https://t.co/qC7OP5Aow4",
+    "publishTime": "2025-09-11T14:52:26"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0jAN7faMAAyeem.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1966032587601932631",
+    "fullText": "jason_yeungck https://t.co/4lLVYgW6Up",
+    "publishTime": "2025-09-11T14:54:30"
   }
 ]
