@@ -369,5 +369,35 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1965987612864426141",
     "fullText": "ziozXO https://t.co/Ot2hjQszrF",
     "publishTime": "2025-09-11T11:55:47"
+  },
+  {
+    "user": {
+      "screenName": "koran0126",
+      "name": "코란"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1965990518757986304/vid/avc1/720x1280/1LchAKsYKxesr9ib.mp4?tag=21"
+    ],
+    "expandUrls": [
+      "https://onlyfans.com/1957929710/koran0126"
+    ],
+    "tweetUrl": "https://x.com/koran0126/status/1965990581362126911",
+    "fullText": "https://t.co/Bua3Dv9IwC https://t.co/h84V4VQgH0",
+    "publishTime": "2025-09-11T12:07:35"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0ifJ30aMAI6pcI.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1965996234243821803",
+    "fullText": "Conwaytam https://t.co/MxHV9Ai8u0",
+    "publishTime": "2025-09-11T12:30:03"
   }
 ]
