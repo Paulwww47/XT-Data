@@ -960,5 +960,31 @@
     },
     "full_text": "jason_yeungck https://t.co/4lLVYgW6Up",
     "publish_time": "2025-09-11T14:54:30"
+  },
+  {
+    "file_name": "G0jKqWdbgAAq7vE.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0jKqWdbgAAq7vE.jpg",
+    "read_time": "2025-09-11T16:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7873,
+      "timestamp": "2025-09-11T16:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 116215,
+      "size_mb": 0.11,
+      "timestamp": "2025-09-11T16:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/j3xm21FX9n",
+    "publish_time": "2025-09-11T15:40:12"
   }
 ]
