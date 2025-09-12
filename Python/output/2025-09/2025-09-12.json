@@ -1438,20 +1438,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G0ptbL9aIAAFrf8.jpg",
     "read_time": "2025-09-12T23:00:41",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-09-12T23:01:01",
-      "notification_sent": false
+      "success": true,
+      "message_id": 7981,
+      "timestamp": "2025-09-13T00:00:44"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 66892,
       "size_mb": 0.06,
-      "timestamp": "2025-09-12T23:00:41",
+      "timestamp": "2025-09-13T00:00:41",
       "download_attempts": 0
     },
     "full_text": "又回深圳完几天了 https://t.co/7h8pY0We9V",
@@ -1466,20 +1464,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G0ptbLiaYAAiwDB.jpg",
     "read_time": "2025-09-12T23:00:41",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-09-12T23:01:22",
-      "notification_sent": false
+      "success": true,
+      "message_id": 7982,
+      "timestamp": "2025-09-13T00:00:45"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 114048,
       "size_mb": 0.11,
-      "timestamp": "2025-09-12T23:01:02",
+      "timestamp": "2025-09-13T00:00:44",
       "download_attempts": 0
     },
     "full_text": "又回深圳完几天了 https://t.co/7h8pY0We9V",
@@ -1494,20 +1490,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G0ptbLza0AABHoc.jpg",
     "read_time": "2025-09-12T23:00:41",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-09-12T23:01:42",
-      "notification_sent": false
+      "success": true,
+      "message_id": 7983,
+      "timestamp": "2025-09-13T00:00:47"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 94425,
       "size_mb": 0.09,
-      "timestamp": "2025-09-12T23:01:22",
+      "timestamp": "2025-09-13T00:00:46",
       "download_attempts": 0
     },
     "full_text": "又回深圳完几天了 https://t.co/7h8pY0We9V",
@@ -1522,20 +1516,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G0pt4x9aMAEfT_1.jpg",
     "read_time": "2025-09-12T23:00:41",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-09-12T23:02:03",
-      "notification_sent": false
+      "success": true,
+      "message_id": 7984,
+      "timestamp": "2025-09-13T00:00:49"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 111835,
       "size_mb": 0.11,
-      "timestamp": "2025-09-12T23:01:42",
+      "timestamp": "2025-09-13T00:00:47",
       "download_attempts": 0
     },
     "full_text": "我的室友 https://t.co/5ea0A2mqei",
@@ -1550,20 +1542,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G0pt4yaaoAAb-hW.jpg",
     "read_time": "2025-09-12T23:00:41",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-09-12T23:02:23",
-      "notification_sent": false
+      "success": true,
+      "message_id": 7985,
+      "timestamp": "2025-09-13T00:00:50"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 114762,
       "size_mb": 0.11,
-      "timestamp": "2025-09-12T23:02:03",
+      "timestamp": "2025-09-13T00:00:49",
       "download_attempts": 0
     },
     "full_text": "我的室友 https://t.co/5ea0A2mqei",
@@ -1578,20 +1568,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G0ptqqJbQAAeKia.jpg",
     "read_time": "2025-09-12T23:00:41",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-09-12T23:02:43",
-      "notification_sent": false
+      "success": true,
+      "message_id": 7986,
+      "timestamp": "2025-09-13T00:00:52"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 180143,
       "size_mb": 0.17,
-      "timestamp": "2025-09-12T23:02:23",
+      "timestamp": "2025-09-13T00:00:50",
       "download_attempts": 0
     },
     "full_text": "https://t.co/bcqhQF9Tpm",
@@ -1606,20 +1594,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G0pvku9bMAAogl7.jpg",
     "read_time": "2025-09-12T23:00:41",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-09-12T23:03:04",
-      "notification_sent": false
+      "success": true,
+      "message_id": 7987,
+      "timestamp": "2025-09-13T00:00:54"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 175566,
       "size_mb": 0.17,
-      "timestamp": "2025-09-12T23:02:43",
+      "timestamp": "2025-09-13T00:00:52",
       "download_attempts": 0
     },
     "full_text": "https://t.co/gD38RWLD01",
@@ -1634,20 +1620,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G0pyImRaMAAOrJb.jpg",
     "read_time": "2025-09-12T23:00:41",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-09-12T23:03:24",
-      "notification_sent": false
+      "success": true,
+      "message_id": 7988,
+      "timestamp": "2025-09-13T00:00:55"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 60545,
       "size_mb": 0.06,
-      "timestamp": "2025-09-12T23:03:04",
+      "timestamp": "2025-09-13T00:00:54",
       "download_attempts": 0
     },
     "full_text": "中学⇒高校⇒大学⇒社会人１年目 https://t.co/BKJ9xY44EG",
@@ -1662,20 +1646,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G0pyJ3AbUAA0AYW.jpg",
     "read_time": "2025-09-12T23:00:41",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-09-12T23:03:44",
-      "notification_sent": false
+      "success": true,
+      "message_id": 7989,
+      "timestamp": "2025-09-13T00:00:56"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 83670,
       "size_mb": 0.08,
-      "timestamp": "2025-09-12T23:03:24",
+      "timestamp": "2025-09-13T00:00:55",
       "download_attempts": 0
     },
     "full_text": "中学⇒高校⇒大学⇒社会人１年目 https://t.co/BKJ9xY44EG",
@@ -1690,20 +1672,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G0pyLFtbUAAKyp9.jpg",
     "read_time": "2025-09-12T23:00:41",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-09-12T23:04:05",
-      "notification_sent": false
+      "success": true,
+      "message_id": 7990,
+      "timestamp": "2025-09-13T00:00:57"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 43804,
       "size_mb": 0.04,
-      "timestamp": "2025-09-12T23:03:44",
+      "timestamp": "2025-09-13T00:00:57",
       "download_attempts": 0
     },
     "full_text": "中学⇒高校⇒大学⇒社会人１年目 https://t.co/BKJ9xY44EG",
@@ -1718,20 +1698,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1966511761231880192/vid/avc1/848x720/qL-3wG0yQ9CCaWvj.mp4?tag=14",
     "read_time": "2025-09-12T23:00:41",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-09-12T23:04:26",
-      "notification_sent": false
+      "success": true,
+      "message_id": 7991,
+      "timestamp": "2025-09-13T00:01:00"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 3756139,
       "size_mb": 3.58,
-      "timestamp": "2025-09-12T23:04:05",
+      "timestamp": "2025-09-13T00:00:58",
       "download_attempts": 0
     },
     "full_text": "中学⇒高校⇒大学⇒社会人１年目 https://t.co/BKJ9xY44EG",
@@ -1746,23 +1724,47 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1966512074064019456/vid/avc1/720x1280/QbYmZpdu-dnvIL47.mp4?tag=21",
     "read_time": "2025-09-12T23:00:41",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-09-12T23:04:47",
-      "notification_sent": false
+      "success": true,
+      "message_id": 7992,
+      "timestamp": "2025-09-13T00:01:04"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 3852769,
       "size_mb": 3.67,
-      "timestamp": "2025-09-12T23:04:26",
+      "timestamp": "2025-09-13T00:01:01",
       "download_attempts": 0
     },
     "full_text": "试试白袜\n主页纸飞机群有惊喜 https://t.co/EReo71dZjs",
     "publish_time": "2025-09-12T22:40:16"
+  },
+  {
+    "file_name": "YzmjCMsW-aVJKIiB.mp4",
+    "user": {
+      "screen_name": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1966518115417899008/vid/avc1/720x1280/YzmjCMsW-aVJKIiB.mp4?tag=14",
+    "read_time": "2025-09-13T00:00:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 7993,
+      "timestamp": "2025-09-13T00:01:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7653544,
+      "size_mb": 7.3,
+      "timestamp": "2025-09-13T00:01:05",
+      "download_attempts": 0
+    },
+    "full_text": "新卒１年目 https://t.co/VFdyGJp1Va",
+    "publish_time": "2025-09-12T23:04:47"
   }
 ]
