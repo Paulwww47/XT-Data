@@ -653,5 +653,61 @@
     "tweetUrl": "https://x.com/youdi/status/1966476637576536565",
     "fullText": "https://t.co/x7TIQ5cSfs",
     "publishTime": "2025-09-12T20:19:00"
+  },
+  {
+    "user": {
+      "screenName": "mingtianyou_",
+      "name": "阿田"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1966499402119585792/vid/avc1/720x1280/acql2dvq7iyJ6r_L.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/mingtianyou_/status/1966499511108542958",
+    "fullText": "3頭 https://t.co/iB9xBYC2lj",
+    "publishTime": "2025-09-12T21:49:53"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0ppEqGa0AANeLQ.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1966499825836327028",
+    "fullText": "https://t.co/j57pAU8tMX",
+    "publishTime": "2025-09-12T21:51:08"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0ppSbuacAA2Pke.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1966500245509947517",
+    "fullText": "https://t.co/zmZiz0MGbV",
+    "publishTime": "2025-09-12T21:52:48"
+  },
+  {
+    "user": {
+      "screenName": "FZchU5dnD944436",
+      "name": "犬助"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1966501065781854208/vid/avc1/720x1280/lYcmElcKslkwy0hd.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/FZchU5dnD944436/status/1966501185499607239",
+    "fullText": "再掲 https://t.co/7urDo4EBym",
+    "publishTime": "2025-09-12T21:56:33"
   }
 ]
