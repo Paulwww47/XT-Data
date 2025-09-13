@@ -154,5 +154,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1966650049875898660",
     "fullText": "https://t.co/Yeku8Cv1KT",
     "publishTime": "2025-09-13T07:48:05"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0r66AsbkAAz2Qw.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1966660068033913136",
+    "fullText": "https://t.co/3gHpttk6pK",
+    "publishTime": "2025-09-13T08:27:53"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0sAlq4bcAAG0C3.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1966666315307119012",
+    "fullText": "https://t.co/WrdbfgghXU",
+    "publishTime": "2025-09-13T08:52:43"
   }
 ]
