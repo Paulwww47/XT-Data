@@ -506,5 +506,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1966832790252785841",
     "fullText": "https://t.co/pSkjEKFCDC",
     "publishTime": "2025-09-13T19:54:13"
+  },
+  {
+    "user": {
+      "screenName": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1966838984317038601/vid/avc1/720x1206/HyNJzWwgk6F_Jtnq.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/MuscleHunterX/status/1966839319441928608",
+    "fullText": "爱咋咋地 https://t.co/BWEfloQ4zX",
+    "publishTime": "2025-09-13T20:20:10"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0ujY2dbcAsoScA.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1966845314704568453",
+    "fullText": "hgjg1207 https://t.co/sChZJLyi5A",
+    "publishTime": "2025-09-13T20:43:59"
   }
 ]
