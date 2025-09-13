@@ -414,5 +414,57 @@
     },
     "full_text": "早安 晚上約到了嘿嘿 https://t.co/Xnl4AKvxVg",
     "publish_time": "2025-09-13T09:52:45"
+  },
+  {
+    "file_name": "G0sUN69bcAA366H.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0sUN69bcAA366H.jpg",
+    "read_time": "2025-09-13T11:01:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8010,
+      "timestamp": "2025-09-13T11:01:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 100319,
+      "size_mb": 0.1,
+      "timestamp": "2025-09-13T11:01:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/O1MomGG84B",
+    "publish_time": "2025-09-13T10:18:29"
+  },
+  {
+    "file_name": "SgidF3W9z2Is6fjI.mp4",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1966691301392609282/pu/vid/avc1/720x1280/SgidF3W9z2Is6fjI.mp4?tag=12",
+    "read_time": "2025-09-13T11:01:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8011,
+      "timestamp": "2025-09-13T11:01:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3584125,
+      "size_mb": 3.42,
+      "timestamp": "2025-09-13T11:01:05",
+      "download_attempts": 0
+    },
+    "full_text": "Shownu 🍼🍼 https://t.co/HoxTd9YQax",
+    "publish_time": "2025-09-13T10:32:12"
   }
 ]

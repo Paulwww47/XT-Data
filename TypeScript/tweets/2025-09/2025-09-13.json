@@ -224,5 +224,33 @@
     "tweetUrl": "https://x.com/iKwuen1111/status/1966681424729129442",
     "fullText": "早安 晚上約到了嘿嘿 https://t.co/Xnl4AKvxVg",
     "publishTime": "2025-09-13T09:52:45"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0sUN69bcAA366H.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1966687898843165088",
+    "fullText": "https://t.co/O1MomGG84B",
+    "publishTime": "2025-09-13T10:18:29"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1966691301392609282/pu/vid/avc1/720x1280/SgidF3W9z2Is6fjI.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1966691351623590035",
+    "fullText": "Shownu 🍼🍼 https://t.co/HoxTd9YQax",
+    "publishTime": "2025-09-13T10:32:12"
   }
 ]
