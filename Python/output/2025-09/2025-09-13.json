@@ -336,5 +336,83 @@
     },
     "full_text": "https://t.co/WrdbfgghXU",
     "publish_time": "2025-09-13T08:52:43"
+  },
+  {
+    "file_name": "G0ptPf8bsAANv4A.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0ptPf8bsAANv4A.jpg",
+    "read_time": "2025-09-13T10:01:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8007,
+      "timestamp": "2025-09-13T10:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 206844,
+      "size_mb": 0.2,
+      "timestamp": "2025-09-13T10:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/w3aK9HVnBz",
+    "publish_time": "2025-09-13T09:08:00"
+  },
+  {
+    "file_name": "G0sNzk-aYAAzq-P.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0sNzk-aYAAzq-P.jpg",
+    "read_time": "2025-09-13T10:01:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8008,
+      "timestamp": "2025-09-13T10:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 75361,
+      "size_mb": 0.07,
+      "timestamp": "2025-09-13T10:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/J2Gg9GB1Ft",
+    "publish_time": "2025-09-13T09:50:27"
+  },
+  {
+    "file_name": "MN7ty53k-y6UQA0p.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1966681320219963392/vid/avc1/720x1280/MN7ty53k-y6UQA0p.mp4?tag=21",
+    "read_time": "2025-09-13T10:01:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8009,
+      "timestamp": "2025-09-13T10:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 8082655,
+      "size_mb": 7.71,
+      "timestamp": "2025-09-13T10:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "早安 晚上約到了嘿嘿 https://t.co/Xnl4AKvxVg",
+    "publish_time": "2025-09-13T09:52:45"
   }
 ]
