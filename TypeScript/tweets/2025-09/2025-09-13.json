@@ -140,5 +140,19 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1966635234373628210",
     "fullText": "classic_sun https://t.co/8TepCmBRiU",
     "publishTime": "2025-09-13T06:49:12"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0rxy0xbcAAWdvJ.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1966650049875898660",
+    "fullText": "https://t.co/Yeku8Cv1KT",
+    "publishTime": "2025-09-13T07:48:05"
   }
 ]
