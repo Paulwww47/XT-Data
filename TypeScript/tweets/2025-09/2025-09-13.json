@@ -336,5 +336,19 @@
     "tweetUrl": "https://x.com/youdi/status/1966721233979953457",
     "fullText": "https://t.co/qTu2CVk7X3",
     "publishTime": "2025-09-13T12:30:56"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0s8UfZboAE8u9d.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1966731996845236391",
+    "fullText": "https://t.co/8nHOn9mAjm",
+    "publishTime": "2025-09-13T13:13:42"
   }
 ]
