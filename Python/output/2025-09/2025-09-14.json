@@ -666,14 +666,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (67MB > 50MB)",
       "timestamp": "2025-09-14T15:01:23",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 71023833,
       "size_mb": 67.73,
-      "timestamp": "2025-09-14T15:01:23",
+      "timestamp": "2025-09-14T16:01:40",
       "download_attempts": 0
     },
     "full_text": "“老公 不可以  坏蛋 啊啊啊……” https://t.co/eJIyKiNPF2",
