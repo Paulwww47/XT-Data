@@ -612,17 +612,97 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (54MB > 50MB)",
       "timestamp": "2025-09-14T14:01:31",
+      "notification_sent": true
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 57135969,
+      "size_mb": 54.49,
+      "timestamp": "2025-09-14T15:01:18",
+      "download_attempts": 0
+    },
+    "full_text": "還沒射 https://t.co/sFh3OwCYzQ",
+    "publish_time": "2025-09-14T13:35:14"
+  },
+  {
+    "file_name": "23OQNuP_auYkkfSI.mp4",
+    "user": {
+      "screen_name": "Leon_nayuanyu",
+      "name": "Leon_NYY"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1967109560591933440/vid/avc1/1280x678/23OQNuP_auYkkfSI.mp4?tag=21",
+    "read_time": "2025-09-14T15:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8061,
+      "timestamp": "2025-09-14T15:01:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3541052,
+      "size_mb": 3.38,
+      "timestamp": "2025-09-14T15:01:19",
+      "download_attempts": 0
+    },
+    "full_text": "为了回馈广大粉丝对我的支持！凡是今天进我福利群🌹的将不收取任何费用，24h免费对我的粉丝们限时无门槛🏧进入，可观看所有视频和写真！\n领取方式🌸：https://t.co/UiwltLpj3Z\n唯一暗号🌿：L\n（注意素质） https://t.co/ycvnyXnN2F",
+    "publish_time": "2025-09-14T14:15:25"
+  },
+  {
+    "file_name": "hrx7jq0fqLm1MidD.mp4",
+    "user": {
+      "screen_name": "fanglangnantu",
+      "name": "放浪男徒"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1967109823922900992/vid/avc1/720x1280/hrx7jq0fqLm1MidD.mp4?tag=21",
+    "read_time": "2025-09-14T15:01:17",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (67MB > 50MB)",
+      "timestamp": "2025-09-14T15:01:23",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 57135969,
-      "size_mb": 54.49,
-      "timestamp": "2025-09-14T14:01:31",
+      "size": 71023833,
+      "size_mb": 67.73,
+      "timestamp": "2025-09-14T15:01:23",
       "download_attempts": 0
     },
-    "full_text": "還沒射 https://t.co/sFh3OwCYzQ",
-    "publish_time": "2025-09-14T13:35:14"
+    "full_text": "“老公 不可以  坏蛋 啊啊啊……” https://t.co/eJIyKiNPF2",
+    "publish_time": "2025-09-14T14:19:33"
+  },
+  {
+    "file_name": "G0yXwZibcAQYUA2.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G0yXwZibcAQYUA2.jpg",
+    "read_time": "2025-09-14T15:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8062,
+      "timestamp": "2025-09-14T15:01:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 121522,
+      "size_mb": 0.12,
+      "timestamp": "2025-09-14T15:01:23",
+      "download_attempts": 0
+    },
+    "full_text": "louiewe https://t.co/dZIX0ooFhV",
+    "publish_time": "2025-09-14T14:31:40"
   }
 ]
