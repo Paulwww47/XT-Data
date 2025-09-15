@@ -1058,14 +1058,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (84MB > 50MB)",
       "timestamp": "2025-09-15T18:00:54",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 88191727,
       "size_mb": 84.11,
-      "timestamp": "2025-09-15T18:00:54",
+      "timestamp": "2025-09-15T19:00:59",
       "download_attempts": 0
     },
     "full_text": "阿凯 我最喜欢的眼镜男应该是这个样子 https://t.co/yAiWnHMMHX",
@@ -1112,17 +1112,121 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (75MB > 50MB)",
       "timestamp": "2025-09-15T18:01:02",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 78864829,
       "size_mb": 75.21,
-      "timestamp": "2025-09-15T18:01:02",
+      "timestamp": "2025-09-15T19:01:06",
       "download_attempts": 0
     },
     "full_text": "阿凯 https://t.co/U3N72jJNWP",
     "publish_time": "2025-09-15T17:47:13"
+  },
+  {
+    "file_name": "LAO4sf2p-aTgRPGU.mp4",
+    "user": {
+      "screen_name": "biehaowotuimao",
+      "name": "别薅我腿毛"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1967528947417227264/vid/avc1/720x1280/LAO4sf2p-aTgRPGU.mp4?tag=21",
+    "read_time": "2025-09-15T19:00:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8125,
+      "timestamp": "2025-09-15T19:01:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1976791,
+      "size_mb": 1.89,
+      "timestamp": "2025-09-15T19:01:06",
+      "download_attempts": 0
+    },
+    "full_text": "🎉给宝宝们搞一波福利❤️‍🔥 🔝感谢宝宝们一路相伴！今天限时福利开放啦🎊\n24小时免费进入观看我的所有视频完整版和写真🤩下方链接自取🥳名额有限哦🔥 \n电报私信；    https://t.co/Xrbek1jQNC\n私信暗号👉别 https://t.co/V0b72L3EaS",
+    "publish_time": "2025-09-15T18:00:49"
+  },
+  {
+    "file_name": "cAkK4jb7F22glKCc.mp4",
+    "user": {
+      "screen_name": "biehaowotuimao",
+      "name": "别薅我腿毛"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1967528947450863616/vid/avc1/720x1280/cAkK4jb7F22glKCc.mp4?tag=21",
+    "read_time": "2025-09-15T19:00:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8126,
+      "timestamp": "2025-09-15T19:01:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3338968,
+      "size_mb": 3.18,
+      "timestamp": "2025-09-15T19:01:10",
+      "download_attempts": 0
+    },
+    "full_text": "🎉给宝宝们搞一波福利❤️‍🔥 🔝感谢宝宝们一路相伴！今天限时福利开放啦🎊\n24小时免费进入观看我的所有视频完整版和写真🤩下方链接自取🥳名额有限哦🔥 \n电报私信；    https://t.co/Xrbek1jQNC\n私信暗号👉别 https://t.co/V0b72L3EaS",
+    "publish_time": "2025-09-15T18:00:49"
+  },
+  {
+    "file_name": "G04RW4va0AAsuoq.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G04RW4va0AAsuoq.jpg",
+    "read_time": "2025-09-15T19:00:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8127,
+      "timestamp": "2025-09-15T19:01:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 118944,
+      "size_mb": 0.11,
+      "timestamp": "2025-09-15T19:01:12",
+      "download_attempts": 0
+    },
+    "full_text": "i.geon.i https://t.co/s8Zl9kDqM5",
+    "publish_time": "2025-09-15T18:01:25"
+  },
+  {
+    "file_name": "G04YuP3bwAAbfLq.jpg",
+    "user": {
+      "screen_name": "huohuo0707330",
+      "name": "嚯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G04YuP3bwAAbfLq.jpg",
+    "read_time": "2025-09-15T19:00:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8128,
+      "timestamp": "2025-09-15T19:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 217953,
+      "size_mb": 0.21,
+      "timestamp": "2025-09-15T19:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "不能颓了  要立起来 https://t.co/54nIFqio9c",
+    "publish_time": "2025-09-15T18:33:37"
   }
 ]
