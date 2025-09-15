@@ -666,14 +666,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (55MB > 50MB)",
       "timestamp": "2025-09-15T14:01:25",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 57983050,
       "size_mb": 55.3,
-      "timestamp": "2025-09-15T14:01:25",
+      "timestamp": "2025-09-15T15:01:22",
       "download_attempts": 0
     },
     "full_text": "littleb017 https://t.co/dGXGoagDqz",
@@ -704,5 +704,135 @@
     },
     "full_text": "omg 我一个小透明都有高仿号了。\n注意防骗，没有小号。这些都是骗子！ https://t.co/sXc0hiUQYT",
     "publish_time": "2025-09-15T13:35:04"
+  },
+  {
+    "file_name": "G03asfQbYAAyu8e.jpg",
+    "user": {
+      "screen_name": "koran0126",
+      "name": "코란"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G03asfQbYAAyu8e.jpg",
+    "read_time": "2025-09-15T15:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8110,
+      "timestamp": "2025-09-15T15:01:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 148011,
+      "size_mb": 0.14,
+      "timestamp": "2025-09-15T15:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/feICiKBQD7",
+    "publish_time": "2025-09-15T14:02:36"
+  },
+  {
+    "file_name": "gOFhYu27H-GAqCjp.mp4",
+    "user": {
+      "screen_name": "d461385024",
+      "name": "大茄子猛1"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1967469953243881472/vid/avc1/720x1280/gOFhYu27H-GAqCjp.mp4?tag=21",
+    "read_time": "2025-09-15T15:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8111,
+      "timestamp": "2025-09-15T15:01:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2345808,
+      "size_mb": 2.24,
+      "timestamp": "2025-09-15T15:01:24",
+      "download_attempts": 0
+    },
+    "full_text": "每日晨勃 https://t.co/EwU5o000pb",
+    "publish_time": "2025-09-15T14:06:25"
+  },
+  {
+    "file_name": "6Jh3xUhxQNLieaYk.mp4",
+    "user": {
+      "screen_name": "Leon_nayuanyu",
+      "name": "Leon_NYY"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1967474916363849728/vid/avc1/1280x678/6Jh3xUhxQNLieaYk.mp4?tag=21",
+    "read_time": "2025-09-15T15:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8112,
+      "timestamp": "2025-09-15T15:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3060293,
+      "size_mb": 2.92,
+      "timestamp": "2025-09-15T15:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "为了回馈广大粉丝对我的支持！凡是今天进我福利群🌹的将不收取任何费用，24h免费对我的粉丝们限时无门槛🏧进入，可观看所有视频和写真！\n领取方式🌸：https://t.co/UiwltLpj3Z\n唯一暗号🌿：L\n（注意素质） https://t.co/fTMbR7Gt3T",
+    "publish_time": "2025-09-15T14:32:43"
+  },
+  {
+    "file_name": "G03j3D0bgAANhMm.jpg",
+    "user": {
+      "screen_name": "SSS_MarkMark",
+      "name": "列文马克（停互推"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G03j3D0bgAANhMm.jpg",
+    "read_time": "2025-09-15T15:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8113,
+      "timestamp": "2025-09-15T15:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 50962,
+      "size_mb": 0.05,
+      "timestamp": "2025-09-15T15:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "妈的 为啥无法撤销转推 https://t.co/OXheEMcUgv",
+    "publish_time": "2025-09-15T14:42:40"
+  },
+  {
+    "file_name": "G03j3D1bcAAa8kJ.jpg",
+    "user": {
+      "screen_name": "SSS_MarkMark",
+      "name": "列文马克（停互推"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G03j3D1bcAAa8kJ.jpg",
+    "read_time": "2025-09-15T15:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8114,
+      "timestamp": "2025-09-15T15:01:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 72163,
+      "size_mb": 0.07,
+      "timestamp": "2025-09-15T15:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "妈的 为啥无法撤销转推 https://t.co/OXheEMcUgv",
+    "publish_time": "2025-09-15T14:42:40"
   }
 ]
