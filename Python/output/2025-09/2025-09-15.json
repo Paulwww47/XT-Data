@@ -466,5 +466,111 @@
     },
     "full_text": "kimo.ka1 https://t.co/Jbd1s34nh3",
     "publish_time": "2025-09-15T10:05:18"
+  },
+  {
+    "file_name": "G03D0UVaMAAFIA8.jpg",
+    "user": {
+      "screen_name": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G03D0UVaMAAFIA8.jpg",
+    "read_time": "2025-09-15T13:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8103,
+      "timestamp": "2025-09-15T13:01:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 163651,
+      "size_mb": 0.16,
+      "timestamp": "2025-09-15T13:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "🏊‍♂️ https://t.co/wyGOTElsqO",
+    "publish_time": "2025-09-15T12:22:38"
+  },
+  {
+    "file_name": "8-jUbR4iPPPUF_tZ.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1967441490109435904/vid/avc1/854x480/8-jUbR4iPPPUF_tZ.mp4?tag=21",
+    "read_time": "2025-09-15T13:01:15",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (86MB > 50MB)",
+      "timestamp": "2025-09-15T13:01:25",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 91031139,
+      "size_mb": 86.81,
+      "timestamp": "2025-09-15T13:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "asdf950117 （这个系列是韩国的 更新到了8月底 onlyfans合计打包¥30 ）\nhttps://t.co/Kkk2Xst94B https://t.co/q0DPZMvRVD",
+    "publish_time": "2025-09-15T12:40:30"
+  },
+  {
+    "file_name": "G03LkTDb0AAz9CI.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G03LkTDb0AAz9CI.jpg",
+    "read_time": "2025-09-15T13:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8104,
+      "timestamp": "2025-09-15T13:01:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 86119,
+      "size_mb": 0.08,
+      "timestamp": "2025-09-15T13:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ElR3mLo31Z",
+    "publish_time": "2025-09-15T12:56:33"
+  },
+  {
+    "file_name": "G03LunfagAAQRxe.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G03LunfagAAQRxe.jpg",
+    "read_time": "2025-09-15T13:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8105,
+      "timestamp": "2025-09-15T13:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 159055,
+      "size_mb": 0.15,
+      "timestamp": "2025-09-15T13:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/2RYWecPRkc",
+    "publish_time": "2025-09-15T12:57:21"
   }
 ]
