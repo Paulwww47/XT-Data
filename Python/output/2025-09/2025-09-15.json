@@ -508,14 +508,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (86MB > 50MB)",
       "timestamp": "2025-09-15T13:01:25",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 91031139,
       "size_mb": 86.81,
-      "timestamp": "2025-09-15T13:01:25",
+      "timestamp": "2025-09-15T14:01:11",
       "download_attempts": 0
     },
     "full_text": "asdf950117 （这个系列是韩国的 更新到了8月底 onlyfans合计打包¥30 ）\nhttps://t.co/Kkk2Xst94B https://t.co/q0DPZMvRVD",
@@ -572,5 +572,137 @@
     },
     "full_text": "https://t.co/2RYWecPRkc",
     "publish_time": "2025-09-15T12:57:21"
+  },
+  {
+    "file_name": "G03NGEEbIAAjXTT.jpg",
+    "user": {
+      "screen_name": "SZionbaba",
+      "name": "zionbaba"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G03NGEEbIAAjXTT.jpg",
+    "read_time": "2025-09-15T14:01:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8106,
+      "timestamp": "2025-09-15T14:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 172748,
+      "size_mb": 0.16,
+      "timestamp": "2025-09-15T14:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "现在流行什么来着？gooner？ https://t.co/2gtx3VXJCC",
+    "publish_time": "2025-09-15T13:03:11"
+  },
+  {
+    "file_name": "G03PNnxaIAAi5X8.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G03PNnxaIAAi5X8.jpg",
+    "read_time": "2025-09-15T14:01:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8107,
+      "timestamp": "2025-09-15T14:01:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 173336,
+      "size_mb": 0.17,
+      "timestamp": "2025-09-15T14:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "1f_okey https://t.co/f6tPMcwJUq",
+    "publish_time": "2025-09-15T13:12:26"
+  },
+  {
+    "file_name": "xfYnEWjLRrV9VPjX.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1967449392677314560/vid/avc1/1080x1920/xfYnEWjLRrV9VPjX.mp4?tag=21",
+    "read_time": "2025-09-15T14:01:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8108,
+      "timestamp": "2025-09-15T14:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 20694973,
+      "size_mb": 19.74,
+      "timestamp": "2025-09-15T14:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "asdf950117 https://t.co/C1fbqR08x8",
+    "publish_time": "2025-09-15T13:15:04"
+  },
+  {
+    "file_name": "Ezs4Zn8XpfOwbKwT.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1967457875615186944/vid/avc1/854x480/Ezs4Zn8XpfOwbKwT.mp4?tag=21",
+    "read_time": "2025-09-15T14:01:10",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (55MB > 50MB)",
+      "timestamp": "2025-09-15T14:01:25",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 57983050,
+      "size_mb": 55.3,
+      "timestamp": "2025-09-15T14:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "littleb017 https://t.co/dGXGoagDqz",
+    "publish_time": "2025-09-15T13:23:41"
+  },
+  {
+    "file_name": "G03UUNka4AAHTFg.jpg",
+    "user": {
+      "screen_name": "Mcsswest",
+      "name": "没有脑袋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G03UUNka4AAHTFg.jpg",
+    "read_time": "2025-09-15T14:01:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8109,
+      "timestamp": "2025-09-15T14:01:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 67059,
+      "size_mb": 0.06,
+      "timestamp": "2025-09-15T14:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "omg 我一个小透明都有高仿号了。\n注意防骗，没有小号。这些都是骗子！ https://t.co/sXc0hiUQYT",
+    "publish_time": "2025-09-15T13:35:04"
   }
 ]
