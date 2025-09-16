@@ -888,5 +888,33 @@
     "tweetUrl": "https://x.com/jiejiejiejie666/status/1967904799124492344",
     "fullText": "https://t.co/2jDe0Hy1cs",
     "publishTime": "2025-09-16T18:54:00"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0-KD1db0AAk6nq.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1967943759007715542",
+    "fullText": "https://t.co/XLdc3rDc1F",
+    "publishTime": "2025-09-16T21:28:49"
+  },
+  {
+    "user": {
+      "screenName": "koran0126",
+      "name": "코란"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G0-LDOobwAEjn0e.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/koran0126/status/1967944455639781865",
+    "fullText": "https://t.co/nGNetoov2y",
+    "publishTime": "2025-09-16T21:31:35"
   }
 ]
