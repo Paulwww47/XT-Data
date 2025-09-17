@@ -311,5 +311,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1968208451739513089",
     "fullText": "scott_treesongkiat https://t.co/5vcxVJX3q7",
     "publishTime": "2025-09-17T15:00:37"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1CBuS-aEAgXYwK.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1968215677745193270",
+    "fullText": "nguyen.hai95 https://t.co/CBik9qzcQn",
+    "publishTime": "2025-09-17T15:29:19"
+  },
+  {
+    "user": {
+      "screenName": "koran0126",
+      "name": "코란"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1CByhzaEAc6FBU.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/koran0126/status/1968215749887135981",
+    "fullText": "https://t.co/hlrF8pwEA5",
+    "publishTime": "2025-09-17T15:29:37"
   }
 ]
