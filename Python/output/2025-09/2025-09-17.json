@@ -950,14 +950,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (61MB > 50MB)",
       "timestamp": "2025-09-17T21:01:37",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 64491042,
       "size_mb": 61.5,
-      "timestamp": "2025-09-17T21:01:37",
+      "timestamp": "2025-09-17T22:01:31",
       "download_attempts": 0
     },
     "full_text": "samuelrain https://t.co/SLsGjTzMKh",
