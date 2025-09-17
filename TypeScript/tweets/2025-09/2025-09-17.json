@@ -182,5 +182,45 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1968148158682398987",
     "fullText": "arshmanyzyz https://t.co/TADTRKSHcb",
     "publishTime": "2025-09-17T11:01:02"
+  },
+  {
+    "user": {
+      "screenName": "SSS_MarkMark",
+      "name": "列文马克"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/SSS_MarkMark/status/1968157475695464558",
+    "fullText": "今年国庆出国计划全泡汤了\n导致现在哪里也不想去 抑郁了\n🫠",
+    "publishTime": "2025-09-17T11:38:03"
+  },
+  {
+    "user": {
+      "screenName": "Xiongdaha",
+      "name": "大哈"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1968162604788121600/vid/avc1/720x960/eRk5C5c1hE7KgJwJ.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Xiongdaha/status/1968162672031268888",
+    "fullText": "给他们拍结合处🤳 https://t.co/MFsI3fcaui",
+    "publishTime": "2025-09-17T11:58:42"
+  },
+  {
+    "user": {
+      "screenName": "koran0126",
+      "name": "코란"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1BRomwaIAABKjt.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/koran0126/status/1968162802838934015",
+    "fullText": "https://t.co/45ypT1yPyy",
+    "publishTime": "2025-09-17T11:59:13"
   }
 ]
