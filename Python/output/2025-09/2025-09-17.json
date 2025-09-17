@@ -596,5 +596,83 @@
     },
     "full_text": "https://t.co/hlrF8pwEA5",
     "publish_time": "2025-09-17T15:29:37"
+  },
+  {
+    "file_name": "G1CJl7HbcAAavlH.jpg",
+    "user": {
+      "screen_name": "captainshagang",
+      "name": "沙岗队长"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G1CJl7HbcAAavlH.jpg",
+    "read_time": "2025-09-17T17:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8250,
+      "timestamp": "2025-09-17T17:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 140752,
+      "size_mb": 0.13,
+      "timestamp": "2025-09-17T17:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "🧊 https://t.co/p1Eh8Sxy2o",
+    "publish_time": "2025-09-17T16:03:42"
+  },
+  {
+    "file_name": "G1CSXk2bUAA4urZ.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G1CSXk2bUAA4urZ.jpg",
+    "read_time": "2025-09-17T17:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8251,
+      "timestamp": "2025-09-17T17:01:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 214763,
+      "size_mb": 0.2,
+      "timestamp": "2025-09-17T17:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "jacob.93 https://t.co/0Sfrh8Mbne",
+    "publish_time": "2025-09-17T16:42:02"
+  },
+  {
+    "file_name": "G1CScPOakAAUNpq.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G1CScPOakAAUNpq.jpg",
+    "read_time": "2025-09-17T17:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8252,
+      "timestamp": "2025-09-17T17:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 139371,
+      "size_mb": 0.13,
+      "timestamp": "2025-09-17T17:01:19",
+      "download_attempts": 0
+    },
+    "full_text": "khsccs https://t.co/wjYYNsPtK5",
+    "publish_time": "2025-09-17T16:42:21"
   }
 ]
