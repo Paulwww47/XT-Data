@@ -1673,10 +1673,23 @@
       "name": "刘刚Logan",
       "screenName": "LiugangLogan",
       "createdAt": "Sat Jul 13 03:38:53 +0000 2024",
-      "description": "B站/抖音/小红书：刘刚Logan    佛系出🩲🧦",
+      "description": "B站/抖音/小红书：刘刚Logan 佛系出🩲🧦",
       "entities": {
         "description": {
           "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/liuganglogan?i…",
+              "expanded_url": "https://www.instagram.com/liuganglogan?igsh=MWt1cGNtb3R1ZGQ0OA%3D%3D&utm_source=qr",
+              "url": "https://t.co/W1JYbx8uy8",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
         }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1811968457740812289/1720842383",
@@ -1928,6 +1941,22 @@
     }
   },
   {
+    "restId": "1254746280686809088",
+    "legacy": {
+      "name": "三角板",
+      "screenName": "mmmmqaz0",
+      "createdAt": "Mon Apr 27 12:16:48 +0000 2020",
+      "description": "base上海，22薄肌0.5，喜欢痞子和可爱的。合作私信，微🚪99",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1254746280686809088/1611727833",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1948019147797098496/2gi3WtLD_normal.jpg"
+    }
+  },
+  {
     "restId": "1533126307181379586",
     "legacy": {
       "name": "沐川泽",
@@ -2037,6 +2066,22 @@
       },
       "profileBannerUrl": "",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1271372478120472576/7MJYIl81_normal.jpg"
+    }
+  },
+  {
+    "restId": "1412443981980471296",
+    "legacy": {
+      "name": "RawX",
+      "screenName": "O08Vk",
+      "createdAt": "Tue Jul 06 16:11:16 +0000 2021",
+      "description": "base北京",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1412443981980471296/1756798504",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1753603164777877505/zOG021mQ_normal.jpg"
     }
   },
   {
@@ -3128,6 +3173,32 @@
       },
       "profileBannerUrl": "",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1533047222668886016/_aR_P7QS_normal.jpg"
+    }
+  },
+  {
+    "restId": "141455690",
+    "legacy": {
+      "name": "HARUEHUN AIRRY 邮递员",
+      "screenName": "youdi",
+      "createdAt": "Sat May 08 04:15:24 +0000 2010",
+      "description": "HARUEHUN AIRRY Collection - more：https://t.co/tvSHl8JVU0",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "FuckingYoung.com",
+              "expanded_url": "http://FuckingYoung.com",
+              "url": "https://t.co/tvSHl8JVU0",
+              "indices": [
+                33,
+                56
+              ]
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/141455690/1758103492",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1638820484077981696/saPEibDJ_normal.jpg"
     }
   },
   {
