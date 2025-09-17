@@ -492,5 +492,59 @@
     },
     "full_text": "bigtaka0918 https://t.co/uZBdsE3tZb",
     "publish_time": "2025-09-17T14:00:45"
+  },
+  {
+    "file_name": "C5RE7BjtTGaycQYr.mp4",
+    "user": {
+      "screen_name": "Leon_nayuanyu",
+      "name": "Leon_NYY"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1968202286712360960/vid/avc1/1280x678/C5RE7BjtTGaycQYr.mp4?tag=21",
+    "read_time": "2025-09-17T15:01:23",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-09-17T15:01:47",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 16445577,
+      "size_mb": 15.68,
+      "timestamp": "2025-09-17T15:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "为了回馈广大粉丝对我的支持！凡是今天进我福利群🌹的将不收取任何费用，24h免费对我的粉丝们限时无门槛🏧进入，可观看所有视频和写真！\n领取方式🌸：https://t.co/UiwltLpj3Z\n唯一暗号🌿：L\n（注意素质） https://t.co/hvxe3LhWb5",
+    "publish_time": "2025-09-17T14:36:39"
+  },
+  {
+    "file_name": "G1B7J25aEAAKZap.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G1B7J25aEAAKZap.jpg",
+    "read_time": "2025-09-17T15:01:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8245,
+      "timestamp": "2025-09-17T15:01:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 75235,
+      "size_mb": 0.07,
+      "timestamp": "2025-09-17T15:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "scott_treesongkiat https://t.co/5vcxVJX3q7",
+    "publish_time": "2025-09-17T15:00:37"
   }
 ]
