@@ -440,5 +440,57 @@
     },
     "full_text": "phonghoangle176 https://t.co/Q39jbUeBQb",
     "publish_time": "2025-09-17T12:44:20"
+  },
+  {
+    "file_name": "G1BtdC3aYAAPZxr.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G1BtdC3aYAAPZxr.jpg",
+    "read_time": "2025-09-17T14:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8243,
+      "timestamp": "2025-09-17T14:01:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 81291,
+      "size_mb": 0.08,
+      "timestamp": "2025-09-17T14:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "bigtaka0918 https://t.co/uZBdsE3tZb",
+    "publish_time": "2025-09-17T14:00:45"
+  },
+  {
+    "file_name": "G1BtdC-aEAE6LmP.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G1BtdC-aEAE6LmP.jpg",
+    "read_time": "2025-09-17T14:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8244,
+      "timestamp": "2025-09-17T14:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 88589,
+      "size_mb": 0.08,
+      "timestamp": "2025-09-17T14:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "bigtaka0918 https://t.co/uZBdsE3tZb",
+    "publish_time": "2025-09-17T14:00:45"
   }
 ]
