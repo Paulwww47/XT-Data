@@ -739,5 +739,34 @@
     "tweetUrl": "https://x.com/AlwynShown/status/1968674511131136106",
     "fullText": "🫧 https://t.co/4o23sAUU32",
     "publishTime": "2025-09-18T21:52:34"
+  },
+  {
+    "user": {
+      "screenName": "needcuminside",
+      "name": "Luke（"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1Iqy9IaIAAq_kc.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/needcuminside/status/1968683048225866113",
+    "fullText": "https://t.co/A5iXHToEIy",
+    "publishTime": "2025-09-18T22:26:29"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1IqrXraQAIzhqS.jpg",
+      "https://pbs.twimg.com/media/G1Iq5qPaQAAmEGB.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/easychen/status/1968683176932388900",
+    "fullText": "#Easy同学正在独立开发  Kiro 的邀请码终于拿到了，写了个项目测试了下：\n\n1. 规划开发搞得很细致，设计得很细而且规范\n2. 开发起来太久了，一次性开发有10多个一级task，\n3. 单元测试全通过了，然后跑起来一堆的错误\n4. 交互做得非常糙，输入框都不支持拖拽文件… https://t.co/l2KXzgGp7G",
+    "publishTime": "2025-09-18T22:27:00"
   }
 ]
