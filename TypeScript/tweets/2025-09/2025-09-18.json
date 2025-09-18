@@ -307,5 +307,35 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1968540185232298452",
     "fullText": "quebaner https://t.co/gqp26tYJRE",
     "publishTime": "2025-09-18T12:58:48"
+  },
+  {
+    "user": {
+      "screenName": "koran0126",
+      "name": "코란"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1968542343491149824/vid/avc1/720x1280/CukpvhYJyqJANPKr.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/koran0126/status/1968542432452297172",
+    "fullText": "https://t.co/eA4utwzoB7",
+    "publishTime": "2025-09-18T13:07:44"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1Gs7fpbgAAnGlv.jpg",
+      "https://pbs.twimg.com/media/G1Gs7fqaUAA11BC.jpg",
+      "https://pbs.twimg.com/media/G1Gs7f0boAAnCzB.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1968544661129273570",
+    "fullText": "rucas_cutler https://t.co/f6kDXQyFQO",
+    "publishTime": "2025-09-18T13:16:35"
   }
 ]
