@@ -151,5 +151,19 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1968476847831925046",
     "fullText": "https://t.co/Mq0L8hwIGg",
     "publishTime": "2025-09-18T08:47:07"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1F7IoKbkAAK1ch.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1968489907304960287",
+    "fullText": "https://t.co/UOrvKoZWlX",
+    "publishTime": "2025-09-18T09:39:01"
   }
 ]
