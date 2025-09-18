@@ -996,23 +996,73 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G1HSVOpaAAAoTx9.jpg",
     "read_time": "2025-09-18T16:01:15",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-09-18T16:01:36",
-      "notification_sent": false
+      "success": true,
+      "message_id": 8309,
+      "timestamp": "2025-09-18T17:01:15"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 81402,
       "size_mb": 0.08,
-      "timestamp": "2025-09-18T16:01:15",
+      "timestamp": "2025-09-18T17:01:14",
       "download_attempts": 0
     },
     "full_text": "这是真舒服  就是裹的东西太多  图文不符 https://t.co/tr0VSNnEzI",
     "publish_time": "2025-09-18T16:00:00"
+  },
+  {
+    "file_name": "G1Hdx1oagAAjjMv.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G1Hdx1oagAAjjMv.jpg",
+    "read_time": "2025-09-18T17:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8310,
+      "timestamp": "2025-09-18T17:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 204555,
+      "size_mb": 0.2,
+      "timestamp": "2025-09-18T17:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "duymai2024 https://t.co/oY9kw4N1A8",
+    "publish_time": "2025-09-18T16:50:00"
+  },
+  {
+    "file_name": "G1Hd7MnbMAAdYuU.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G1Hd7MnbMAAdYuU.jpg",
+    "read_time": "2025-09-18T17:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8311,
+      "timestamp": "2025-09-18T17:01:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 136278,
+      "size_mb": 0.13,
+      "timestamp": "2025-09-18T17:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "xieliu10 https://t.co/myJ8GQ89Gd",
+    "publish_time": "2025-09-18T16:50:38"
   }
 ]
