@@ -258,5 +258,31 @@
     },
     "full_text": "比例尺 https://t.co/0wwHvwURuX",
     "publish_time": "2025-09-18T07:53:01"
+  },
+  {
+    "file_name": "G1FvQioaQAAudtk.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G1FvQioaQAAudtk.jpg",
+    "read_time": "2025-09-18T09:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8279,
+      "timestamp": "2025-09-18T09:01:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 114781,
+      "size_mb": 0.11,
+      "timestamp": "2025-09-18T09:01:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Mq0L8hwIGg",
+    "publish_time": "2025-09-18T08:47:07"
   }
 ]
