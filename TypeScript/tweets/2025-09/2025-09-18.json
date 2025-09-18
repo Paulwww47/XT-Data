@@ -79,5 +79,63 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1968435336645624036",
     "fullText": "https://t.co/kYvaGw0Sx2",
     "publishTime": "2025-09-18T06:02:10"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1FZKhoaQAAoR8d.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1968452556159606787",
+    "fullText": "https://t.co/vxUP3F2oxx",
+    "publishTime": "2025-09-18T07:10:36"
+  },
+  {
+    "user": {
+      "screenName": "koran0126",
+      "name": "코란"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1FbkqbasAAsUl3.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1968455197547708416/vid/avc1/1280x720/yQr5mc3vu79ukvPQ.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/koran0126/status/1968455277814104352",
+    "fullText": "https://t.co/c2yO8asi9w",
+    "publishTime": "2025-09-18T07:21:25"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1968462606089494528/vid/avc1/720x1280/PzatrIG0xpkwFBKl.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1968462746170614159",
+    "fullText": "週四 https://t.co/YDNIur70cO",
+    "publishTime": "2025-09-18T07:51:05"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1968463071053234176/vid/avc1/720x1280/wvq0WaoxeVH8f6Qx.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1968463231808086204",
+    "fullText": "比例尺 https://t.co/0wwHvwURuX",
+    "publishTime": "2025-09-18T07:53:01"
   }
 ]

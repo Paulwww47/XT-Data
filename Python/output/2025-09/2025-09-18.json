@@ -128,5 +128,135 @@
     },
     "full_text": "https://t.co/kYvaGw0Sx2",
     "publish_time": "2025-09-18T06:02:10"
+  },
+  {
+    "file_name": "G1FZKhoaQAAoR8d.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G1FZKhoaQAAoR8d.jpg",
+    "read_time": "2025-09-18T08:01:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8274,
+      "timestamp": "2025-09-18T08:01:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 136129,
+      "size_mb": 0.13,
+      "timestamp": "2025-09-18T08:01:07",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vxUP3F2oxx",
+    "publish_time": "2025-09-18T07:10:36"
+  },
+  {
+    "file_name": "G1FbkqbasAAsUl3.jpg",
+    "user": {
+      "screen_name": "koran0126",
+      "name": "코란"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G1FbkqbasAAsUl3.jpg",
+    "read_time": "2025-09-18T08:01:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8275,
+      "timestamp": "2025-09-18T08:01:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 114067,
+      "size_mb": 0.11,
+      "timestamp": "2025-09-18T08:01:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/c2yO8asi9w",
+    "publish_time": "2025-09-18T07:21:25"
+  },
+  {
+    "file_name": "yQr5mc3vu79ukvPQ.mp4",
+    "user": {
+      "screen_name": "koran0126",
+      "name": "코란"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1968455197547708416/vid/avc1/1280x720/yQr5mc3vu79ukvPQ.mp4?tag=21",
+    "read_time": "2025-09-18T08:01:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8276,
+      "timestamp": "2025-09-18T08:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1586392,
+      "size_mb": 1.51,
+      "timestamp": "2025-09-18T08:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/c2yO8asi9w",
+    "publish_time": "2025-09-18T07:21:25"
+  },
+  {
+    "file_name": "PzatrIG0xpkwFBKl.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1968462606089494528/vid/avc1/720x1280/PzatrIG0xpkwFBKl.mp4?tag=21",
+    "read_time": "2025-09-18T08:01:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8277,
+      "timestamp": "2025-09-18T08:01:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4475734,
+      "size_mb": 4.27,
+      "timestamp": "2025-09-18T08:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "週四 https://t.co/YDNIur70cO",
+    "publish_time": "2025-09-18T07:51:05"
+  },
+  {
+    "file_name": "wvq0WaoxeVH8f6Qx.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1968463071053234176/vid/avc1/720x1280/wvq0WaoxeVH8f6Qx.mp4?tag=21",
+    "read_time": "2025-09-18T08:01:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8278,
+      "timestamp": "2025-09-18T08:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4786486,
+      "size_mb": 4.56,
+      "timestamp": "2025-09-18T08:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "比例尺 https://t.co/0wwHvwURuX",
+    "publish_time": "2025-09-18T07:53:01"
   }
 ]
