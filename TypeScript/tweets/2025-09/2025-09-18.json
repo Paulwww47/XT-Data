@@ -574,5 +574,33 @@
     "tweetUrl": "https://x.com/youdi/status/1968624040844591532",
     "fullText": "https://t.co/gBvUkwAcb2",
     "publishTime": "2025-09-18T18:32:01"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1968637154114088960/vid/avc1/720x1280/5zzg7F-awMhstwC9.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1968637248120782872",
+    "fullText": "吃晚餐 https://t.co/Hc037URPUF",
+    "publishTime": "2025-09-18T19:24:30"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1IG5hvaQAYdh6_.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1968643578672152927",
+    "fullText": "yeguangna https://t.co/kg772TTtaa",
+    "publishTime": "2025-09-18T19:49:39"
   }
 ]

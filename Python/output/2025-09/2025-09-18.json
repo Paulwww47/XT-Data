@@ -1246,5 +1246,57 @@
     },
     "full_text": "https://t.co/gBvUkwAcb2",
     "publish_time": "2025-09-18T18:32:01"
+  },
+  {
+    "file_name": "5zzg7F-awMhstwC9.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1968637154114088960/vid/avc1/720x1280/5zzg7F-awMhstwC9.mp4?tag=21",
+    "read_time": "2025-09-18T20:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8319,
+      "timestamp": "2025-09-18T20:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5586070,
+      "size_mb": 5.33,
+      "timestamp": "2025-09-18T20:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "吃晚餐 https://t.co/Hc037URPUF",
+    "publish_time": "2025-09-18T19:24:30"
+  },
+  {
+    "file_name": "G1IG5hvaQAYdh6_.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G1IG5hvaQAYdh6_.jpg",
+    "read_time": "2025-09-18T20:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8320,
+      "timestamp": "2025-09-18T20:01:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 187500,
+      "size_mb": 0.18,
+      "timestamp": "2025-09-18T20:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "yeguangna https://t.co/kg772TTtaa",
+    "publish_time": "2025-09-18T19:49:39"
   }
 ]
