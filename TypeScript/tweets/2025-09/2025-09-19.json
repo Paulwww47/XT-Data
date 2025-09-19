@@ -505,5 +505,63 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1968940466772246970",
     "fullText": "https://t.co/gn3jreXPEc",
     "publishTime": "2025-09-19T15:29:23"
+  },
+  {
+    "user": {
+      "screenName": "huohuo0707330",
+      "name": "嚯"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1Mct3QaQAEJJOl.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/huohuo0707330/status/1968949044379549985",
+    "fullText": "大课间1小时 https://t.co/23W81iluNF",
+    "publishTime": "2025-09-19T16:03:28"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1968950303631507456/pu/vid/avc1/720x1280/DjpPMGYHZn86Mudz.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1968950341258662396",
+    "fullText": "https://t.co/keFcztd6fz",
+    "publishTime": "2025-09-19T16:08:37"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1Mm67saQAAK4AU.jpg",
+      "https://pbs.twimg.com/media/G1Mm671a8AAMAoG.jpg",
+      "https://pbs.twimg.com/media/G1Mm67tawAA3-Hm.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1968960263769456795",
+    "fullText": "orangefrees https://t.co/CZx922XGNr",
+    "publishTime": "2025-09-19T16:48:03"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1MndmzakAAo_Qx.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1968960858010350056",
+    "fullText": "https://t.co/BDnhhgrdYd",
+    "publishTime": "2025-09-19T16:50:24"
   }
 ]
