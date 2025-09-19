@@ -214,5 +214,47 @@
     "tweetUrl": "https://x.com/youdi/status/1968834534817792174",
     "fullText": "https://t.co/GPDbHB6Qsx",
     "publishTime": "2025-09-19T08:28:26"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1LE8NmaQAIP00B.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1968852532756934933",
+    "fullText": "https://t.co/TqRuyoW5ju",
+    "publishTime": "2025-09-19T09:39:57"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1LE-TKasAAkU7c.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1968852568819515675",
+    "fullText": "https://t.co/OrrrYSo5aU",
+    "publishTime": "2025-09-19T09:40:06"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1LIdV2aMAAwGdu.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1968856399452193058",
+    "fullText": "https://t.co/ygd6iJNEFX",
+    "publishTime": "2025-09-19T09:55:19"
   }
 ]
