@@ -620,5 +620,48 @@
     "tweetUrl": "https://x.com/youdi/status/1968985486891921720",
     "fullText": "https://t.co/5piqnpTzOx",
     "publishTime": "2025-09-19T18:28:16"
+  },
+  {
+    "user": {
+      "screenName": "fangsheng10",
+      "name": "fangsheng"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1NG4rsa8AAFFkn.jpg",
+      "https://pbs.twimg.com/media/G1NG4robQAATsMN.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/fangsheng10/status/1968995413333016843",
+    "fullText": "三亚跑个步也太夸张了吧 https://t.co/RmFxtAgDi8",
+    "publishTime": "2025-09-19T19:07:43"
+  },
+  {
+    "user": {
+      "screenName": "LiugangLogan",
+      "name": "刘刚Logan"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1969000834907136001/vid/avc1/720x1280/_XENO6kvmiR_YCZI.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/LiugangLogan/status/1969000900279545992",
+    "fullText": "做自己喜欢的事，顺便赚点钱。\n我喜欢搞黄色，顺便赚点钱😜 https://t.co/By4cb1pmsF",
+    "publishTime": "2025-09-19T19:29:31"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1NPcmLbwAARWQv.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1969004820381282602",
+    "fullText": "yvesllc https://t.co/J7uM4U3NiX",
+    "publishTime": "2025-09-19T19:45:06"
   }
 ]
