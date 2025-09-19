@@ -1272,5 +1272,31 @@
     },
     "full_text": "https://t.co/60UiOEghZd",
     "publish_time": "2025-09-19T21:08:29"
+  },
+  {
+    "file_name": "G1NzQC1aMAAptrQ.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G1NzQC1aMAAptrQ.png",
+    "read_time": "2025-09-19T23:01:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8384,
+      "timestamp": "2025-09-19T23:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 816381,
+      "size_mb": 0.78,
+      "timestamp": "2025-09-19T23:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ihMquSjydM",
+    "publish_time": "2025-09-19T22:21:54"
   }
 ]
