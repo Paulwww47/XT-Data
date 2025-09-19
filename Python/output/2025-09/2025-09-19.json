@@ -492,5 +492,31 @@
     },
     "full_text": "chanzixiang https://t.co/tqrGSPD9hz",
     "publish_time": "2025-09-19T10:59:24"
+  },
+  {
+    "file_name": "H1Isplo1IUwob7Gs.mp4",
+    "user": {
+      "screen_name": "koran0126",
+      "name": "코란"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1968886493004648448/vid/avc1/320x568/H1Isplo1IUwob7Gs.mp4?tag=21",
+    "read_time": "2025-09-19T12:00:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8354,
+      "timestamp": "2025-09-19T12:00:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 326821,
+      "size_mb": 0.31,
+      "timestamp": "2025-09-19T12:00:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/mcjIoGdvdr",
+    "publish_time": "2025-09-19T11:54:58"
   }
 ]

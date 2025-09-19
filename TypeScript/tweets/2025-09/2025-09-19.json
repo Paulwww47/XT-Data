@@ -312,5 +312,31 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1968872526362423324",
     "fullText": "chanzixiang https://t.co/tqrGSPD9hz",
     "publishTime": "2025-09-19T10:59:24"
+  },
+  {
+    "user": {
+      "screenName": "d461385024",
+      "name": "大茄子猛1"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/d461385024/status/1968881803214651743",
+    "fullText": "有骚逼想试试狼牙套吗",
+    "publishTime": "2025-09-19T11:36:16"
+  },
+  {
+    "user": {
+      "screenName": "koran0126",
+      "name": "코란"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1968886493004648448/vid/avc1/320x568/H1Isplo1IUwob7Gs.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/koran0126/status/1968886507768262994",
+    "fullText": "https://t.co/mcjIoGdvdr",
+    "publishTime": "2025-09-19T11:54:58"
   }
 ]
