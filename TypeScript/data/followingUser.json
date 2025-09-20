@@ -32,6 +32,32 @@
     }
   },
   {
+    "restId": "1959362831654256640",
+    "legacy": {
+      "name": "717_Tui",
+      "screenName": "717_Tui",
+      "createdAt": "Sat Aug 23 21:11:26 +0000 2025",
+      "description": "原创内容且看且珍惜  所有内容目录都在电报（先进备用）电报https://t.co/2erEMjCZEg",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "t.me/+wLcVv5YSM3YwN…",
+              "expanded_url": "https://t.me/+wLcVv5YSM3YwNTc1",
+              "url": "https://t.co/2erEMjCZEg",
+              "indices": [
+                29,
+                52
+              ]
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1959362950151712768/tUBzc_Hf_normal.jpg"
+    }
+  },
+  {
     "restId": "1218021350725447680",
     "legacy": {
       "name": "啊这直男",
