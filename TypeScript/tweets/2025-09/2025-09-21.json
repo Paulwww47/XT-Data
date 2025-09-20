@@ -168,5 +168,20 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1969504638975328664",
     "fullText": "https://t.co/xdNDjxabvh",
     "publishTime": "2025-09-21T04:51:12"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1UiCGXbQAEt_lf.jpg",
+      "https://pbs.twimg.com/media/G1UiCGaagAA1sOt.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1969517838290600390",
+    "fullText": "https://t.co/mYr0qluXaD",
+    "publishTime": "2025-09-21T05:43:39"
   }
 ]
