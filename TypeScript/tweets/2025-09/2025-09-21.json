@@ -509,5 +509,22 @@
     "tweetUrl": "https://x.com/koran0126/status/1969716838130147442",
     "fullText": "https://t.co/QBZbFve5dO",
     "publishTime": "2025-09-21T18:54:24"
+  },
+  {
+    "user": {
+      "screenName": "LiugangLogan",
+      "name": "刘刚Logan"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1XbqxTWsAAB0bA.jpg",
+      "https://pbs.twimg.com/media/G1XbqxSXwAASLpr.jpg",
+      "https://pbs.twimg.com/media/G1XbqxYWkAElzC7.jpg",
+      "https://pbs.twimg.com/media/G1XbqxuWEAAH0kJ.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/LiugangLogan/status/1969721954803339621",
+    "fullText": "一周，有射 https://t.co/gNxVyNQRLD",
+    "publishTime": "2025-09-21T19:14:44"
   }
 ]
