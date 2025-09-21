@@ -429,20 +429,10 @@
       "name": "彩虹少年",
       "screenName": "CaiShao53784",
       "createdAt": "Fri Oct 27 04:36:51 +0000 2023",
-      "description": "黑教练的新号，个人电报频道https://t.co/11eI5KrILM 。",
+      "description": "有些人走着走着就散了",
       "entities": {
         "description": {
-          "urls": [
-            {
-              "display_url": "t.me/heijxz",
-              "expanded_url": "https://t.me/heijxz",
-              "url": "https://t.co/11eI5KrILM",
-              "indices": [
-                13,
-                36
-              ]
-            }
-          ]
+          "urls": []
         }
       },
       "profileBannerUrl": "",
