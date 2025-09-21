@@ -544,5 +544,31 @@
     },
     "full_text": "昨天吵架了，在他操我的时候打了他一巴掌！让他话多 https://t.co/6Pk6VrvM8P",
     "publish_time": "2025-09-21T12:01:07"
+  },
+  {
+    "file_name": "G1WCBKnbQAcuZBz.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G1WCBKnbQAcuZBz.jpg",
+    "read_time": "2025-09-21T13:01:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8464,
+      "timestamp": "2025-09-21T13:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 124008,
+      "size_mb": 0.12,
+      "timestamp": "2025-09-21T13:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/hmFKwC7mdD",
+    "publish_time": "2025-09-21T12:43:00"
   }
 ]
