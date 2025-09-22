@@ -1454,5 +1454,57 @@
     },
     "full_text": "https://t.co/LbPaMEle0H",
     "publish_time": "2025-09-22T20:12:50"
+  },
+  {
+    "file_name": "G1c-03bbkAIaT-q.jpg",
+    "user": {
+      "screen_name": "needcuminside",
+      "name": "Luke（"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G1c-03bbkAIaT-q.jpg",
+    "read_time": "2025-09-22T22:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8537,
+      "timestamp": "2025-09-22T22:01:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 58185,
+      "size_mb": 0.06,
+      "timestamp": "2025-09-22T22:01:05",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/oRWzqd0Mel",
+    "publish_time": "2025-09-22T21:06:24"
+  },
+  {
+    "file_name": "HLDnj5hXDKGDd9Th.mp4",
+    "user": {
+      "screen_name": "rrrrrrig_",
+      "name": "嗷呜有劲"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1970124674307952641/vid/avc1/720x1278/HLDnj5hXDKGDd9Th.mp4?tag=21",
+    "read_time": "2025-09-22T22:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8538,
+      "timestamp": "2025-09-22T22:01:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 31196079,
+      "size_mb": 29.75,
+      "timestamp": "2025-09-22T22:01:07",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/JBhDqhPh6R",
+    "publish_time": "2025-09-22T21:58:06"
   }
 ]
