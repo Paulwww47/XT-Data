@@ -54,5 +54,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1970240872219623722",
     "fullText": "John https://t.co/7AoD4Fi5EJ",
     "publishTime": "2025-09-23T05:36:43"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1e8hUwaoAIznK6.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1970250648542421286",
+    "fullText": "aken.kang https://t.co/yWwTPGEY2N",
+    "publishTime": "2025-09-23T06:15:34"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1e8nDhacAA1qXk.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1970250748501082296",
+    "fullText": "haozi1696 https://t.co/4QDMvFsBmq",
+    "publishTime": "2025-09-23T06:15:58"
   }
 ]
