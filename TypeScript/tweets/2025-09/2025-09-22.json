@@ -148,5 +148,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1969928716731187269",
     "fullText": "ts.kamino https://t.co/FHBzLWNeu6",
     "publishTime": "2025-09-22T08:56:20"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1aZ7bSa0AAbnzk.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1969931277802594340",
+    "fullText": "https://t.co/ZRTeQzKD6g",
+    "publishTime": "2025-09-22T09:06:30"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1alOM2bUAETB1U.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1969943560721187123",
+    "fullText": "https://t.co/ZD0Jmljv2A",
+    "publishTime": "2025-09-22T09:55:19"
   }
 ]
