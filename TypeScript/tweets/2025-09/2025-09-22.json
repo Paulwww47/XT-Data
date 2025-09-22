@@ -686,5 +686,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1970080057654992926",
     "fullText": "1998.303 https://t.co/IreSB3s8RT",
     "publishTime": "2025-09-22T18:57:42"
+  },
+  {
+    "user": {
+      "screenName": "DeepFFist",
+      "name": "DeepFFist"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1cnXQya4AE7UHR.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/DeepFFist/status/1970086650790424893",
+    "fullText": "保洁阿姨能不能把玻璃擦干净😒 https://t.co/qMsA5pX0We",
+    "publishTime": "2025-09-22T19:23:54"
+  },
+  {
+    "user": {
+      "screenName": "Plaidpat",
+      "name": "Aquatic"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1970089494683508736/vid/avc1/1270x720/oJjWy0SSKYHoui5-.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Plaidpat/status/1970090140031709563",
+    "fullText": "哥哥 相信你还在 会回来跟我们说让我们担心了 #于朦胧 #白真上神 #白真 #Yumenglong https://t.co/usb3APZH1K",
+    "publishTime": "2025-09-22T19:37:46"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1cshNXaIAAfXNR.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1970092316397588819",
+    "fullText": "Icren25 https://t.co/aKvZSiKTiJ",
+    "publishTime": "2025-09-22T19:46:25"
   }
 ]
