@@ -26,5 +26,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1970226952087965763",
     "fullText": "fitness.likei https://t.co/LwxMdacR46",
     "publishTime": "2025-09-23T04:41:25"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1etNvaaQAAIHFX.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1970233819367383387",
+    "fullText": "https://t.co/hPJ47cX3tk",
+    "publishTime": "2025-09-23T05:08:42"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1ezoRgaoAYADCh.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1970240872219623722",
+    "fullText": "John https://t.co/7AoD4Fi5EJ",
+    "publishTime": "2025-09-23T05:36:43"
   }
 ]
