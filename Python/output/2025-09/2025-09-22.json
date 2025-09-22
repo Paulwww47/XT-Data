@@ -1272,5 +1272,31 @@
     },
     "full_text": "anselm_cheng https://t.co/ueHzViz7mr",
     "publish_time": "2025-09-22T15:48:50"
+  },
+  {
+    "file_name": "G1cAfnPaUAALlyK.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G1cAfnPaUAALlyK.jpg",
+    "read_time": "2025-09-22T17:01:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8530,
+      "timestamp": "2025-09-22T17:01:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 128915,
+      "size_mb": 0.12,
+      "timestamp": "2025-09-22T17:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/21RU8c0yPz",
+    "publish_time": "2025-09-22T16:34:05"
   }
 ]
