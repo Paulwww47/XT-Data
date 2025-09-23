@@ -340,5 +340,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1970396508219744426",
     "fullText": "ch1k025 https://t.co/qCc3i5AOV3",
     "publishTime": "2025-09-23T15:55:10"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1hJsuCbsAAdy0O.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1970405876361240676",
+    "fullText": "yawarukas https://t.co/MvK9HU8j5Z",
+    "publishTime": "2025-09-23T16:32:23"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1hJ9DCaoAQ3pvG.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1970406156775633116",
+    "fullText": "https://t.co/Z893y1zuxG",
+    "publishTime": "2025-09-23T16:33:30"
   }
 ]
