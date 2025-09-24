@@ -55,5 +55,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1970940817939497086",
     "fullText": "https://t.co/MC5nXnx3JM",
     "publishTime": "2025-09-25T03:58:03"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1pA0swa8AEdDYX.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1970959066580349150",
+    "fullText": "dearnelson https://t.co/nIAaQMkVkr",
+    "publishTime": "2025-09-25T05:10:34"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1pA-cqasAAfR7U.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1970959233064763519",
+    "fullText": "https://t.co/ZBpUVhHMTW",
+    "publishTime": "2025-09-25T05:11:14"
   }
 ]
