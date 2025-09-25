@@ -934,5 +934,31 @@
     },
     "full_text": "maxhoangg https://t.co/swYLmmt23Q",
     "publish_time": "2025-09-25T16:53:58"
+  },
+  {
+    "file_name": "G1rw77PaYAAFU1U.mp4",
+    "user": {
+      "screen_name": "KevinLeeYoung92",
+      "name": "KevinLeeYoung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/G1rw77PaYAAFU1U.mp4",
+    "read_time": "2025-09-25T18:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8678,
+      "timestamp": "2025-09-25T18:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 43478,
+      "size_mb": 0.04,
+      "timestamp": "2025-09-25T18:01:48",
+      "download_attempts": 0
+    },
+    "full_text": "还行 https://t.co/I39pqCUVEd",
+    "publish_time": "2025-09-25T18:00:08"
   }
 ]
