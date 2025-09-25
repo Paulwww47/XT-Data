@@ -466,5 +466,31 @@
     },
     "full_text": "https://t.co/fDSK1O550h",
     "publish_time": "2025-09-26T03:52:12"
+  },
+  {
+    "file_name": "17jUszzaOIQ52_oa.mp4",
+    "user": {
+      "screen_name": "LaFei2531",
+      "name": "小熊硬糖"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1971317766901858308/vid/avc1/720x1280/17jUszzaOIQ52_oa.mp4?tag=21",
+    "read_time": "2025-09-26T05:00:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8719,
+      "timestamp": "2025-09-26T05:01:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 175226,
+      "size_mb": 0.17,
+      "timestamp": "2025-09-26T05:00:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/EjVDm26NLN",
+    "publish_time": "2025-09-26T04:55:58"
   }
 ]
