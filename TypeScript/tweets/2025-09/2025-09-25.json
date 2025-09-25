@@ -140,5 +140,47 @@
     "tweetUrl": "https://x.com/junglewildwild/status/1970990530768273499",
     "fullText": "https://t.co/zc05fsSIxr",
     "publishTime": "2025-09-25T07:15:36"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1971002802764963840/vid/avc1/720x1280/UkyU_b3MvBSmbxiT.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1971002886042812900",
+    "fullText": "趕緊出門了 https://t.co/A9EZgUQlV0",
+    "publishTime": "2025-09-25T08:04:42"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1pzcrxaAAEoZCL.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1971014728299446546",
+    "fullText": "https://t.co/yW0VTFFeGf",
+    "publishTime": "2025-09-25T08:51:45"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1pzfvvaYAEfMES.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1971014781894307865",
+    "fullText": "https://t.co/rXkl9xFXLM",
+    "publishTime": "2025-09-25T08:51:58"
   }
 ]
