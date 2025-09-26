@@ -1740,5 +1740,59 @@
     },
     "full_text": "https://t.co/nJUHOi9sew",
     "publish_time": "2025-09-26T14:48:37"
+  },
+  {
+    "file_name": "uNNQ1Y6zGwDBJ7sW.mp4",
+    "user": {
+      "screen_name": "Plaidpat",
+      "name": "SBOY"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1971473395964325888/vid/avc1/720x1280/uNNQ1Y6zGwDBJ7sW.mp4?tag=14",
+    "read_time": "2025-09-26T16:02:01",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (91MB > 50MB)",
+      "timestamp": "2025-09-26T16:02:02",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 95526221,
+      "size_mb": 91.1,
+      "timestamp": "2025-09-26T16:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "试一下能不能发长版 https://t.co/BZY8dc9nas",
+    "publish_time": "2025-09-26T15:16:08"
+  },
+  {
+    "file_name": "G1wYJgnakAAYl5t.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G1wYJgnakAAYl5t.jpg",
+    "read_time": "2025-09-26T16:02:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8768,
+      "timestamp": "2025-09-26T16:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 135464,
+      "size_mb": 0.13,
+      "timestamp": "2025-09-26T16:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ACoo7G0MdK",
+    "publish_time": "2025-09-26T15:29:49"
   }
 ]
