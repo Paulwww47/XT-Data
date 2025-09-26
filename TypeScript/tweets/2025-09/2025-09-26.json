@@ -766,5 +766,48 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1971477293769031827",
     "fullText": "https://t.co/ACoo7G0MdK",
     "publishTime": "2025-09-26T15:29:49"
+  },
+  {
+    "user": {
+      "screenName": "Plaidpat",
+      "name": "SBOY"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://x.com/Plaidpat/status/1971367521963082125?t=-AlTb6ASLx5L4B5WYo1q6g&s=19"
+    ],
+    "tweetUrl": "https://x.com/Plaidpat/status/1971490127596908590",
+    "fullText": "https://t.co/eAJ6rMZdLE",
+    "publishTime": "2025-09-26T16:20:49"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1wm7pQaAAEtTEz.jpg",
+      "https://pbs.twimg.com/media/G1wm7pNaAAM3jz8.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1971493553558913447",
+    "fullText": "https://t.co/Kd5GzViovM",
+    "publishTime": "2025-09-26T16:34:26"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G1wnB8EaAAI6Y8I.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1971493657032392783",
+    "fullText": "sansasoom https://t.co/Zwdc3W4Ws4",
+    "publishTime": "2025-09-26T16:34:51"
   }
 ]
