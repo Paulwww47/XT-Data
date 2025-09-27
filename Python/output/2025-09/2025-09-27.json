@@ -518,5 +518,187 @@
     },
     "full_text": "🐮 https://t.co/kAl5TorzhW",
     "publish_time": "2025-09-27T10:34:55"
+  },
+  {
+    "file_name": "G10kxjmboAAkM8_.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G10kxjmboAAkM8_.jpg",
+    "read_time": "2025-09-27T12:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8810,
+      "timestamp": "2025-09-27T12:01:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 155113,
+      "size_mb": 0.15,
+      "timestamp": "2025-09-27T12:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "ajwoo https://t.co/0LrpF4S6Fk",
+    "publish_time": "2025-09-27T11:03:29"
+  },
+  {
+    "file_name": "Q4dp2Th1HolJyyqf.mp4",
+    "user": {
+      "screen_name": "ran9592",
+      "name": "코란"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1971778201363042304/vid/avc1/720x1280/Q4dp2Th1HolJyyqf.mp4?tag=21",
+    "read_time": "2025-09-27T12:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8811,
+      "timestamp": "2025-09-27T12:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3014392,
+      "size_mb": 2.87,
+      "timestamp": "2025-09-27T12:01:23",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/J3DIHqCkal",
+    "publish_time": "2025-09-27T11:25:53"
+  },
+  {
+    "file_name": "G10qO6sbcAA_Tfq.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G10qO6sbcAA_Tfq.jpg",
+    "read_time": "2025-09-27T12:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8812,
+      "timestamp": "2025-09-27T12:01:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 66804,
+      "size_mb": 0.06,
+      "timestamp": "2025-09-27T12:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "xieliu10 https://t.co/zG7WGtD66m",
+    "publish_time": "2025-09-27T11:27:19"
+  },
+  {
+    "file_name": "G10wIqtaUAApmkN.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G10wIqtaUAApmkN.jpg",
+    "read_time": "2025-09-27T12:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8813,
+      "timestamp": "2025-09-27T12:01:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 44637,
+      "size_mb": 0.04,
+      "timestamp": "2025-09-27T12:01:26",
+      "download_attempts": 0
+    },
+    "full_text": "预览片段 （原价大约20美元一部） https://t.co/MqNtIDSFWp",
+    "publish_time": "2025-09-27T11:54:09"
+  },
+  {
+    "file_name": "8wqVo8XfZnv94B6O.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1971784775397765121/vid/avc1/720x1280/8wqVo8XfZnv94B6O.mp4?tag=21",
+    "read_time": "2025-09-27T12:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8814,
+      "timestamp": "2025-09-27T12:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2874404,
+      "size_mb": 2.74,
+      "timestamp": "2025-09-27T12:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "预览片段 （原价大约20美元一部） https://t.co/MqNtIDSFWp",
+    "publish_time": "2025-09-27T11:54:09"
+  },
+  {
+    "file_name": "HwwK9QUlQ2PXE2WS.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1971784789905887232/vid/avc1/720x1280/HwwK9QUlQ2PXE2WS.mp4?tag=21",
+    "read_time": "2025-09-27T12:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8815,
+      "timestamp": "2025-09-27T12:01:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3134281,
+      "size_mb": 2.99,
+      "timestamp": "2025-09-27T12:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "预览片段 （原价大约20美元一部） https://t.co/MqNtIDSFWp",
+    "publish_time": "2025-09-27T11:54:09"
+  },
+  {
+    "file_name": "M8aTlGXOTAYdH6wB.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1971784869039804416/vid/avc1/1080x1920/M8aTlGXOTAYdH6wB.mp4?tag=21",
+    "read_time": "2025-09-27T12:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8816,
+      "timestamp": "2025-09-27T12:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4164469,
+      "size_mb": 3.97,
+      "timestamp": "2025-09-27T12:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "预览片段 （原价大约20美元一部） https://t.co/MqNtIDSFWp",
+    "publish_time": "2025-09-27T11:54:09"
   }
 ]
