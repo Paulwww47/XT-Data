@@ -1392,14 +1392,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (99MB > 50MB)",
       "timestamp": "2025-09-27T18:02:05",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 104307609,
       "size_mb": 99.48,
-      "timestamp": "2025-09-27T18:02:05",
+      "timestamp": "2025-09-27T19:01:27",
       "download_attempts": 0
     },
     "full_text": "帅哦 再发个高清版 https://t.co/cfa35XGLaz",
@@ -1482,5 +1482,31 @@
     },
     "full_text": "消费现场 https://t.co/x5iqmedcBy",
     "publish_time": "2025-09-27T17:53:01"
+  },
+  {
+    "file_name": "G12KZ1yb0AYCHXF.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G12KZ1yb0AYCHXF.jpg",
+    "read_time": "2025-09-27T19:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8846,
+      "timestamp": "2025-09-27T19:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 68368,
+      "size_mb": 0.07,
+      "timestamp": "2025-09-27T19:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "_uique https://t.co/qXrXMECCcU",
+    "publish_time": "2025-09-27T18:27:29"
   }
 ]
