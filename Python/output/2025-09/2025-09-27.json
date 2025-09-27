@@ -1350,5 +1350,137 @@
     },
     "full_text": "射過後再小玩一下 https://t.co/6ArSzh8jU1",
     "publish_time": "2025-09-27T16:28:15"
+  },
+  {
+    "file_name": "cKVMA2djB8oBxSLf.mp4",
+    "user": {
+      "screen_name": "Achao94711",
+      "name": "有点感觉了"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1971864095206133760/pu/vid/avc1/720x900/cKVMA2djB8oBxSLf.mp4?tag=12",
+    "read_time": "2025-09-27T18:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8842,
+      "timestamp": "2025-09-27T18:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2542965,
+      "size_mb": 2.43,
+      "timestamp": "2025-09-27T18:01:51",
+      "download_attempts": 0
+    },
+    "full_text": "11万粉了3年真实原创博主，信誉至上，服务第一，只为给你提供最高质量的视频🎬\n电报私信👉：https://t.co/jX3EaJi1VD\n私信暗号👉:23 https://t.co/LdS8fDewOg",
+    "publish_time": "2025-09-27T17:06:59"
+  },
+  {
+    "file_name": "KX45Y2r2dcFvsvK6.mp4",
+    "user": {
+      "screen_name": "Plaidpat",
+      "name": "SBOY"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1971864731397795840/vid/avc1/720x1280/KX45Y2r2dcFvsvK6.mp4?tag=14",
+    "read_time": "2025-09-27T18:01:51",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (99MB > 50MB)",
+      "timestamp": "2025-09-27T18:02:05",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 104307609,
+      "size_mb": 99.48,
+      "timestamp": "2025-09-27T18:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "帅哦 再发个高清版 https://t.co/cfa35XGLaz",
+    "publish_time": "2025-09-27T17:12:03"
+  },
+  {
+    "file_name": "G12AAMQb0AYEBAS.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G12AAMQb0AYEBAS.jpg",
+    "read_time": "2025-09-27T18:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8843,
+      "timestamp": "2025-09-27T18:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 83859,
+      "size_mb": 0.08,
+      "timestamp": "2025-09-27T18:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "aoaodu1 https://t.co/8zSbsjvBA5",
+    "publish_time": "2025-09-27T17:42:03"
+  },
+  {
+    "file_name": "G12AFaBb0AQgJBj.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G12AFaBb0AQgJBj.jpg",
+    "read_time": "2025-09-27T18:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8844,
+      "timestamp": "2025-09-27T18:02:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 99475,
+      "size_mb": 0.09,
+      "timestamp": "2025-09-27T18:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "linhx.Ivh https://t.co/PMiWu1Ez9H",
+    "publish_time": "2025-09-27T17:42:25"
+  },
+  {
+    "file_name": "SDwQB9c8Cx0AaTLv.mp4",
+    "user": {
+      "screen_name": "Plaidpat",
+      "name": "SBOY"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1971875630728802304/pu/vid/avc1/720x1280/SDwQB9c8Cx0AaTLv.mp4?tag=12",
+    "read_time": "2025-09-27T18:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8845,
+      "timestamp": "2025-09-27T18:02:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5698167,
+      "size_mb": 5.43,
+      "timestamp": "2025-09-27T18:02:08",
+      "download_attempts": 0
+    },
+    "full_text": "消费现场 https://t.co/x5iqmedcBy",
+    "publish_time": "2025-09-27T17:53:01"
   }
 ]
