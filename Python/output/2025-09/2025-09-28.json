@@ -856,5 +856,83 @@
     },
     "full_text": "多消耗点  回家喝酒了😅 https://t.co/zMBExJXJGM",
     "publish_time": "2025-09-28T16:47:41"
+  },
+  {
+    "file_name": "G17BX2BbgAAhO2O.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G17BX2BbgAAhO2O.jpg",
+    "read_time": "2025-09-28T18:02:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8898,
+      "timestamp": "2025-09-28T18:02:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 154366,
+      "size_mb": 0.15,
+      "timestamp": "2025-09-28T18:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "ybseoul https://t.co/x57dxzIeWo",
+    "publish_time": "2025-09-28T17:06:08"
+  },
+  {
+    "file_name": "G17BdWvaUAAHim9.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G17BdWvaUAAHim9.jpg",
+    "read_time": "2025-09-28T18:02:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8899,
+      "timestamp": "2025-09-28T18:02:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 172178,
+      "size_mb": 0.16,
+      "timestamp": "2025-09-28T18:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "trnwang.y https://t.co/lrP8hks8Ag",
+    "publish_time": "2025-09-28T17:06:31"
+  },
+  {
+    "file_name": "VF-la_xHucuCq8uW.mp4",
+    "user": {
+      "screen_name": "LiugangLogan",
+      "name": "刘刚Logan"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1972238589070086144/vid/avc1/720x1280/VF-la_xHucuCq8uW.mp4?tag=21",
+    "read_time": "2025-09-28T18:02:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8900,
+      "timestamp": "2025-09-28T18:02:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 448191,
+      "size_mb": 0.43,
+      "timestamp": "2025-09-28T18:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "已出 https://t.co/17MD9NBzJD",
+    "publish_time": "2025-09-28T17:55:18"
   }
 ]
