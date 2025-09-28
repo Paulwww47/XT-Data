@@ -544,5 +544,61 @@
     "tweetUrl": "https://x.com/LiugangLogan/status/1972238679323337152",
     "fullText": "已出 https://t.co/17MD9NBzJD",
     "publishTime": "2025-09-28T17:55:18"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G17PVJebUAACWyD.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1972241653454012620",
+    "fullText": "https://t.co/6yG5bNPRl8",
+    "publishTime": "2025-09-28T18:07:07"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G17PZBSaUAABvK2.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1972241720571310084",
+    "fullText": "einryun https://t.co/RcEUcfVGyX",
+    "publishTime": "2025-09-28T18:07:23"
+  },
+  {
+    "user": {
+      "screenName": "Blacksheep1s",
+      "name": "黑羊"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G17PnISbcAAFESv.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Blacksheep1s/status/1972241965610921997",
+    "fullText": "在成都～ https://t.co/jnqdhXBmUH",
+    "publishTime": "2025-09-28T18:08:21"
+  },
+  {
+    "user": {
+      "screenName": "KevinLeeYoung92",
+      "name": "KevinLeeYoung"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1972243242428284929/vid/avc1/720x1280/hdqoEbsFV1ssgkOz.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/KevinLeeYoung92/status/1972243331494318330",
+    "fullText": "📹 @sunmeeter89 https://t.co/SBYxpefLqs",
+    "publishTime": "2025-09-28T18:13:47"
   }
 ]
