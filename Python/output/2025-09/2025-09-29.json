@@ -622,5 +622,83 @@
     },
     "full_text": "训练后 https://t.co/XnJq5rwSc5",
     "publish_time": "2025-09-29T13:41:39"
+  },
+  {
+    "file_name": "G1_lUe5bwAA4Rjd.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G1_lUe5bwAA4Rjd.jpg",
+    "read_time": "2025-09-29T15:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8935,
+      "timestamp": "2025-09-29T15:00:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 103382,
+      "size_mb": 0.1,
+      "timestamp": "2025-09-29T15:00:48",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/jLq68XTNoE",
+    "publish_time": "2025-09-29T14:21:48"
+  },
+  {
+    "file_name": "G1_nYAjbEAAWivw.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G1_nYAjbEAAWivw.jpg",
+    "read_time": "2025-09-29T15:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8936,
+      "timestamp": "2025-09-29T15:00:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 118563,
+      "size_mb": 0.11,
+      "timestamp": "2025-09-29T15:00:50",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/hvC5JITxEH",
+    "publish_time": "2025-09-29T14:30:42"
+  },
+  {
+    "file_name": "G1_nypCb0AApJZp.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G1_nypCb0AApJZp.jpg",
+    "read_time": "2025-09-29T15:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8937,
+      "timestamp": "2025-09-29T15:00:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 124161,
+      "size_mb": 0.12,
+      "timestamp": "2025-09-29T15:00:51",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/gqiwpEZbjJ",
+    "publish_time": "2025-09-29T14:32:30"
   }
 ]
