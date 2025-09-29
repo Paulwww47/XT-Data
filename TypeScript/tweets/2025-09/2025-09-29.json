@@ -363,5 +363,19 @@
     "tweetUrl": "https://x.com/youdi/status/1972550030327529710",
     "fullText": "https://t.co/gqiwpEZbjJ",
     "publishTime": "2025-09-29T14:32:30"
+  },
+  {
+    "user": {
+      "screenName": "LiugangLogan",
+      "name": "刘刚Logan"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1972560113798955008/vid/avc1/720x1280/tTsC1UahNLSGDD_W.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/LiugangLogan/status/1972560141355745586",
+    "fullText": "看似带锁，实则……… https://t.co/D1w0w60ON2",
+    "publishTime": "2025-09-29T15:12:40"
   }
 ]
