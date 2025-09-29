@@ -570,5 +570,57 @@
     },
     "full_text": "https://t.co/PhSZJvvop1",
     "publish_time": "2025-09-29T12:33:14"
+  },
+  {
+    "file_name": "G1_YFy5a0AA7tdl.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G1_YFy5a0AA7tdl.jpg",
+    "read_time": "2025-09-29T14:01:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8933,
+      "timestamp": "2025-09-29T14:01:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 130480,
+      "size_mb": 0.12,
+      "timestamp": "2025-09-29T14:01:06",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/7Zmnz5r6oj",
+    "publish_time": "2025-09-29T13:23:52"
+  },
+  {
+    "file_name": "G1_cKKbbgAAm6qU.jpg",
+    "user": {
+      "screen_name": "captainshagang",
+      "name": "沙岗队长"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G1_cKKbbgAAm6qU.jpg",
+    "read_time": "2025-09-29T14:01:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8934,
+      "timestamp": "2025-09-29T14:01:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 185612,
+      "size_mb": 0.18,
+      "timestamp": "2025-09-29T14:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "训练后 https://t.co/XnJq5rwSc5",
+    "publish_time": "2025-09-29T13:41:39"
   }
 ]
