@@ -458,14 +458,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (209MB > 50MB)",
       "timestamp": "2025-09-30T11:01:15",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 219465398,
       "size_mb": 209.3,
-      "timestamp": "2025-09-30T11:01:15",
+      "timestamp": "2025-09-30T12:00:54",
       "download_attempts": 0
     },
     "full_text": "kent-jp https://t.co/bvAQoiluvE",
@@ -486,14 +486,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (115MB > 50MB)",
       "timestamp": "2025-09-30T11:01:29",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 121227383,
       "size_mb": 115.61,
-      "timestamp": "2025-09-30T11:01:29",
+      "timestamp": "2025-09-30T12:00:55",
       "download_attempts": 0
     },
     "full_text": "jsonyau https://t.co/5gRPk5PaZG",
@@ -514,14 +514,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (76MB > 50MB)",
       "timestamp": "2025-09-30T11:01:38",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 80231071,
       "size_mb": 76.51,
-      "timestamp": "2025-09-30T11:01:38",
+      "timestamp": "2025-09-30T12:00:55",
       "download_attempts": 0
     },
     "full_text": "jsonyau https://t.co/5gRPk5PaZG",
@@ -698,14 +698,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (133MB > 50MB)",
       "timestamp": "2025-09-30T11:02:01",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 140101921,
       "size_mb": 133.61,
-      "timestamp": "2025-09-30T11:02:01",
+      "timestamp": "2025-09-30T12:00:56",
       "download_attempts": 0
     },
     "full_text": "jsonyau https://t.co/kHbVpAOosX",
@@ -726,17 +726,69 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (142MB > 50MB)",
       "timestamp": "2025-09-30T11:02:19",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 149704032,
       "size_mb": 142.77,
-      "timestamp": "2025-09-30T11:02:19",
+      "timestamp": "2025-09-30T12:00:57",
       "download_attempts": 0
     },
     "full_text": "jsonyau https://t.co/kHbVpAOosX",
     "publish_time": "2025-09-30T10:56:42"
+  },
+  {
+    "file_name": "G2EBdNaaUAAT7l2.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G2EBdNaaUAAT7l2.png",
+    "read_time": "2025-09-30T12:00:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8987,
+      "timestamp": "2025-09-30T12:00:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 887134,
+      "size_mb": 0.85,
+      "timestamp": "2025-09-30T12:00:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/VvdnGsUXoL",
+    "publish_time": "2025-09-30T11:03:07"
+  },
+  {
+    "file_name": "6ThiWnKvlUgA6N8U.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1972858368906993664/vid/avc1/1080x1440/6ThiWnKvlUgA6N8U.mp4?tag=21",
+    "read_time": "2025-09-30T12:00:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8988,
+      "timestamp": "2025-09-30T12:01:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 51803076,
+      "size_mb": 49.4,
+      "timestamp": "2025-09-30T12:01:04",
+      "download_attempts": 0
+    },
+    "full_text": "taebeom_25 https://t.co/IuESqxZuUS",
+    "publish_time": "2025-09-30T11:11:47"
   }
 ]

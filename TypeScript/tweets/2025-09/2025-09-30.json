@@ -300,5 +300,33 @@
     "tweetUrl": "https://x.com/maletease/status/1972858111884173433",
     "fullText": "jsonyau https://t.co/kHbVpAOosX",
     "publishTime": "2025-09-30T10:56:42"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2EBdNaaUAAT7l2.png"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1972859728691875876",
+    "fullText": "https://t.co/VvdnGsUXoL",
+    "publishTime": "2025-09-30T11:03:07"
+  },
+  {
+    "user": {
+      "screenName": "maletease",
+      "name": "MaleTease"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1972858368906993664/vid/avc1/1080x1440/6ThiWnKvlUgA6N8U.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/maletease/status/1972861909914599759",
+    "fullText": "taebeom_25 https://t.co/IuESqxZuUS",
+    "publishTime": "2025-09-30T11:11:47"
   }
 ]
