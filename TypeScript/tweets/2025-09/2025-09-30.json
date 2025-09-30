@@ -713,5 +713,33 @@
     "tweetUrl": "https://x.com/xiguauitra/status/1972963026518335897",
     "fullText": "在重庆玩两天 https://t.co/5YDcCUM5xj",
     "publishTime": "2025-09-30T17:53:36"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2FnRQibEAAtXC2.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1972971662154096888",
+    "fullText": "93_mozzi https://t.co/9embuG5X7T",
+    "publishTime": "2025-09-30T18:27:54"
+  },
+  {
+    "user": {
+      "screenName": "lho11148311",
+      "name": "卡皮巴拉"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1972977811636776960/vid/avc1/720x1280/uespKHC_Cx8iJ8PB.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/lho11148311/status/1972978017686474835",
+    "fullText": "#昆明 #粗1️⃣ https://t.co/3LGVH6pWxQ",
+    "publishTime": "2025-09-30T18:53:10"
   }
 ]
