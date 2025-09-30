@@ -378,14 +378,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (97MB > 50MB)",
       "timestamp": "2025-09-30T10:05:26",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 102650570,
       "size_mb": 97.9,
-      "timestamp": "2025-09-30T10:05:26",
+      "timestamp": "2025-09-30T11:00:55",
       "download_attempts": 0
     },
     "full_text": "kent-jp系列 ，比较少的日本不打马赛克博主  长相是我的菜 如果能戴个眼镜就更完美了 https://t.co/AotQp3jCyM",
@@ -442,5 +442,301 @@
     },
     "full_text": "woogi_on https://t.co/Iy3vC8FrrA",
     "publish_time": "2025-09-30T10:04:19"
+  },
+  {
+    "file_name": "XpTrT1bRCzRyBmre.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1972844755769053184/vid/avc1/1920x1080/XpTrT1bRCzRyBmre.mp4?tag=21",
+    "read_time": "2025-09-30T11:00:54",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (209MB > 50MB)",
+      "timestamp": "2025-09-30T11:01:15",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 219465398,
+      "size_mb": 209.3,
+      "timestamp": "2025-09-30T11:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "kent-jp https://t.co/bvAQoiluvE",
+    "publish_time": "2025-09-30T10:17:57"
+  },
+  {
+    "file_name": "3DCW4TWl5aFCWofz.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1972849088145305600/vid/avc1/1080x1920/3DCW4TWl5aFCWofz.mp4?tag=21",
+    "read_time": "2025-09-30T11:00:54",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (115MB > 50MB)",
+      "timestamp": "2025-09-30T11:01:29",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 121227383,
+      "size_mb": 115.61,
+      "timestamp": "2025-09-30T11:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "jsonyau https://t.co/5gRPk5PaZG",
+    "publish_time": "2025-09-30T10:36:39"
+  },
+  {
+    "file_name": "GjQeJRF7kkIDxe4o.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1972849099813883904/vid/avc1/1080x1920/GjQeJRF7kkIDxe4o.mp4?tag=21",
+    "read_time": "2025-09-30T11:00:54",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (76MB > 50MB)",
+      "timestamp": "2025-09-30T11:01:38",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 80231071,
+      "size_mb": 76.51,
+      "timestamp": "2025-09-30T11:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "jsonyau https://t.co/5gRPk5PaZG",
+    "publish_time": "2025-09-30T10:36:39"
+  },
+  {
+    "file_name": "G2D8sYYbQAACK5z.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G2D8sYYbQAACK5z.jpg",
+    "read_time": "2025-09-30T11:00:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8981,
+      "timestamp": "2025-09-30T11:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 94654,
+      "size_mb": 0.09,
+      "timestamp": "2025-09-30T11:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/1cqbUgUEwR",
+    "publish_time": "2025-09-30T10:42:19"
+  },
+  {
+    "file_name": "G2D9Uyga8AA2opr.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G2D9Uyga8AA2opr.jpg",
+    "read_time": "2025-09-30T11:00:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8982,
+      "timestamp": "2025-09-30T11:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 194396,
+      "size_mb": 0.19,
+      "timestamp": "2025-09-30T11:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/85EXoY3jai",
+    "publish_time": "2025-09-30T10:45:08"
+  },
+  {
+    "file_name": "G2D-3vubwAES6qd.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G2D-3vubwAES6qd.jpg",
+    "read_time": "2025-09-30T11:00:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8983,
+      "timestamp": "2025-09-30T11:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 163426,
+      "size_mb": 0.16,
+      "timestamp": "2025-09-30T11:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "fitness.likei https://t.co/yQX8Li6Nex",
+    "publish_time": "2025-09-30T10:51:47"
+  },
+  {
+    "file_name": "G2D_zpfaAAA2IqJ.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G2D_zpfaAAA2IqJ.jpg",
+    "read_time": "2025-09-30T11:00:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8984,
+      "timestamp": "2025-09-30T11:01:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 144071,
+      "size_mb": 0.14,
+      "timestamp": "2025-09-30T11:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "hyeonyul_kim https://t.co/DNU8uDtAxE",
+    "publish_time": "2025-09-30T10:55:53"
+  },
+  {
+    "file_name": "G2D_7OcaMAALNI0.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G2D_7OcaMAALNI0.jpg",
+    "read_time": "2025-09-30T11:00:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8985,
+      "timestamp": "2025-09-30T11:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 127476,
+      "size_mb": 0.12,
+      "timestamp": "2025-09-30T11:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/QTamTTI8pn",
+    "publish_time": "2025-09-30T10:56:26"
+  },
+  {
+    "file_name": "G2D_7OhaUAAKrge.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G2D_7OhaUAAKrge.jpg",
+    "read_time": "2025-09-30T11:00:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8986,
+      "timestamp": "2025-09-30T11:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 122784,
+      "size_mb": 0.12,
+      "timestamp": "2025-09-30T11:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/QTamTTI8pn",
+    "publish_time": "2025-09-30T10:56:26"
+  },
+  {
+    "file_name": "0OlavZiLnZ7CRnqA.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1972853109983711232/vid/avc1/1080x1920/0OlavZiLnZ7CRnqA.mp4?tag=21",
+    "read_time": "2025-09-30T11:00:54",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (133MB > 50MB)",
+      "timestamp": "2025-09-30T11:02:01",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 140101921,
+      "size_mb": 133.61,
+      "timestamp": "2025-09-30T11:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "jsonyau https://t.co/kHbVpAOosX",
+    "publish_time": "2025-09-30T10:56:42"
+  },
+  {
+    "file_name": "P0L9DZJuxm6EL9GI.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1972853124210855936/vid/avc1/1080x1920/P0L9DZJuxm6EL9GI.mp4?tag=21",
+    "read_time": "2025-09-30T11:00:54",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (142MB > 50MB)",
+      "timestamp": "2025-09-30T11:02:19",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 149704032,
+      "size_mb": 142.77,
+      "timestamp": "2025-09-30T11:02:19",
+      "download_attempts": 0
+    },
+    "full_text": "jsonyau https://t.co/kHbVpAOosX",
+    "publish_time": "2025-09-30T10:56:42"
   }
 ]
