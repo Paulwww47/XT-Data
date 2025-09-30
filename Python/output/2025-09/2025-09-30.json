@@ -936,14 +936,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (451MB > 50MB)",
       "timestamp": "2025-09-30T14:02:13",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 473411109,
       "size_mb": 451.48,
-      "timestamp": "2025-09-30T14:02:13",
+      "timestamp": "2025-09-30T15:02:00",
       "download_attempts": 0
     },
     "full_text": "taebeom_25 https://t.co/O7EfWcwlIx",
@@ -1052,5 +1052,31 @@
     },
     "full_text": "10000.bog2 https://t.co/SopVvUtSJ7",
     "publish_time": "2025-09-30T13:50:39"
+  },
+  {
+    "file_name": "G2EyijQbIAAYybn.jpg",
+    "user": {
+      "screen_name": "SZionbaba",
+      "name": "zionbaba"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G2EyijQbIAAYybn.jpg",
+    "read_time": "2025-09-30T15:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8998,
+      "timestamp": "2025-09-30T15:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 176302,
+      "size_mb": 0.17,
+      "timestamp": "2025-09-30T15:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "想喝丝袜奶茶吗？ https://t.co/CYXxWgtpzv",
+    "publish_time": "2025-09-30T14:37:33"
   }
 ]
