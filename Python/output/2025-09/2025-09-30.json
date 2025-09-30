@@ -336,5 +336,111 @@
     },
     "full_text": "https://t.co/kaQtOie1XN",
     "publish_time": "2025-09-30T08:40:10"
+  },
+  {
+    "file_name": "ucJ657_YguXwlb6s.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1972833439532605440/vid/avc1/1080x1920/ucJ657_YguXwlb6s.mp4?tag=21",
+    "read_time": "2025-09-30T10:05:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8978,
+      "timestamp": "2025-09-30T10:05:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 29247303,
+      "size_mb": 27.89,
+      "timestamp": "2025-09-30T10:05:08",
+      "download_attempts": 0
+    },
+    "full_text": "kent-jp https://t.co/Ni3v1iO7Et",
+    "publish_time": "2025-09-30T09:19:56"
+  },
+  {
+    "file_name": "nxvo7-Jkr_MbeYVK.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1972834579557052416/vid/avc1/1080x1920/nxvo7-Jkr_MbeYVK.mp4?tag=21",
+    "read_time": "2025-09-30T10:05:05",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (97MB > 50MB)",
+      "timestamp": "2025-09-30T10:05:26",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 102650570,
+      "size_mb": 97.9,
+      "timestamp": "2025-09-30T10:05:26",
+      "download_attempts": 0
+    },
+    "full_text": "kent-jp系列 ，比较少的日本不打马赛克博主  长相是我的菜 如果能戴个眼镜就更完美了 https://t.co/AotQp3jCyM",
+    "publish_time": "2025-09-30T09:56:48"
+  },
+  {
+    "file_name": "G2D0AWYaMAA0sH-.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G2D0AWYaMAA0sH-.jpg",
+    "read_time": "2025-09-30T10:05:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8979,
+      "timestamp": "2025-09-30T10:05:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 70063,
+      "size_mb": 0.07,
+      "timestamp": "2025-09-30T10:05:26",
+      "download_attempts": 0
+    },
+    "full_text": "woogi_on https://t.co/Iy3vC8FrrA",
+    "publish_time": "2025-09-30T10:04:19"
+  },
+  {
+    "file_name": "G2D0AWXaoAAULIc.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G2D0AWXaoAAULIc.jpg",
+    "read_time": "2025-09-30T10:05:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 8980,
+      "timestamp": "2025-09-30T10:05:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 129758,
+      "size_mb": 0.12,
+      "timestamp": "2025-09-30T10:05:27",
+      "download_attempts": 0
+    },
+    "full_text": "woogi_on https://t.co/Iy3vC8FrrA",
+    "publish_time": "2025-09-30T10:04:19"
   }
 ]

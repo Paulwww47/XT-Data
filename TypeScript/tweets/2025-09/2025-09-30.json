@@ -142,5 +142,48 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1972823753697661034",
     "fullText": "https://t.co/kaQtOie1XN",
     "publishTime": "2025-09-30T08:40:10"
+  },
+  {
+    "user": {
+      "screenName": "maletease",
+      "name": "MaleTease"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1972833439532605440/vid/avc1/1080x1920/ucJ657_YguXwlb6s.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/maletease/status/1972833759058915810",
+    "fullText": "kent-jp https://t.co/Ni3v1iO7Et",
+    "publishTime": "2025-09-30T09:19:56"
+  },
+  {
+    "user": {
+      "screenName": "maletease",
+      "name": "MaleTease"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1972834579557052416/vid/avc1/1080x1920/nxvo7-Jkr_MbeYVK.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/maletease/status/1972843039023616095",
+    "fullText": "kent-jp系列 ，比较少的日本不打马赛克博主  长相是我的菜 如果能戴个眼镜就更完美了 https://t.co/AotQp3jCyM",
+    "publishTime": "2025-09-30T09:56:48"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2D0AWYaMAA0sH-.jpg",
+      "https://pbs.twimg.com/media/G2D0AWXaoAAULIc.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1972844929207664689",
+    "fullText": "woogi_on https://t.co/Iy3vC8FrrA",
+    "publishTime": "2025-09-30T10:04:19"
   }
 ]
