@@ -26,5 +26,35 @@
     "tweetUrl": "https://x.com/Xiongdaha/status/1973062667842499010",
     "fullText": "想了… https://t.co/afvdcYiwZo",
     "publishTime": "2025-10-01T00:29:32"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2H4NRmaUAAwcZH.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [
+      "http://ethan.today"
+    ],
+    "tweetUrl": "https://x.com/eric_kk97/status/1973131024709329111",
+    "fullText": "https://t.co/UuDhDkhdrH https://t.co/eZnxaJE8UT",
+    "publishTime": "2025-10-01T05:01:09"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2H4UsLa8AAjoUy.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1973131151494750653",
+    "fullText": "https://t.co/NW3d35O4Rr",
+    "publishTime": "2025-10-01T05:01:40"
   }
 ]
