@@ -768,14 +768,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (90MB > 50MB)",
       "timestamp": "2025-10-02T17:01:47",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 94907530,
       "size_mb": 90.51,
-      "timestamp": "2025-10-02T17:01:47",
+      "timestamp": "2025-10-02T18:01:06",
       "download_attempts": 0
     },
     "full_text": "当傻逼点进这个十二分钟的视频，最后都是张开腿 伸着舌头 露着屁眼 眼神迷离  无脑般的跟着爹将自己的骚精伴随着超大声的叫床，无比骚爽地阵阵喷涌而出  这就是爹拍视频分享视频的意义，对吗？傻逼骚狗！ https://t.co/k6cahbmtWR",
@@ -1040,5 +1040,109 @@
     },
     "full_text": "狗狗是用来疼的🥰 https://t.co/sAzPWGA0QR",
     "publish_time": "2025-10-02T16:43:22"
+  },
+  {
+    "file_name": "G2PqRaUaoAAATSD.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G2PqRaUaoAAATSD.jpg",
+    "read_time": "2025-10-02T18:01:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9109,
+      "timestamp": "2025-10-02T18:01:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 121705,
+      "size_mb": 0.12,
+      "timestamp": "2025-10-02T18:01:06",
+      "download_attempts": 0
+    },
+    "full_text": "johnsonlin.94 https://t.co/QDqhjQwwUr",
+    "publish_time": "2025-10-02T17:17:14"
+  },
+  {
+    "file_name": "G2PqfJRaAAEyrGL.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G2PqfJRaAAEyrGL.jpg",
+    "read_time": "2025-10-02T18:01:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9110,
+      "timestamp": "2025-10-02T18:01:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 115730,
+      "size_mb": 0.11,
+      "timestamp": "2025-10-02T18:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/avGfnsoQvb",
+    "publish_time": "2025-10-02T17:18:10"
+  },
+  {
+    "file_name": "G2PvqRAaEAACWTN.jpg",
+    "user": {
+      "screen_name": "mmmmqaz0",
+      "name": "三角板"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G2PvqRAaEAACWTN.jpg",
+    "read_time": "2025-10-02T18:01:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9111,
+      "timestamp": "2025-10-02T18:01:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 49617,
+      "size_mb": 0.05,
+      "timestamp": "2025-10-02T18:01:09",
+      "download_attempts": 0
+    },
+    "full_text": "撅着呢 https://t.co/hTRD3nHmwy",
+    "publish_time": "2025-10-02T17:40:46"
+  },
+  {
+    "file_name": "G2Pwum9aAAAiNyS.jpg",
+    "user": {
+      "screen_name": "captainshagang",
+      "name": "沙岗队长"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G2Pwum9aAAAiNyS.jpg",
+    "read_time": "2025-10-02T18:01:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9112,
+      "timestamp": "2025-10-02T18:01:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 166241,
+      "size_mb": 0.16,
+      "timestamp": "2025-10-02T18:01:10",
+      "download_attempts": 0
+    },
+    "full_text": "蹲完腿 https://t.co/B1VpnSdCQU",
+    "publish_time": "2025-10-02T17:45:27"
   }
 ]
