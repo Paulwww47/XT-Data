@@ -206,5 +206,57 @@
     },
     "full_text": "hipookkk https://t.co/uOdg6CfW0Q",
     "publish_time": "2025-10-02T06:13:56"
+  },
+  {
+    "file_name": "6nCCIC_wu7A0A5GY.mp4",
+    "user": {
+      "screen_name": "ssslll05",
+      "name": "close to"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1973543681438142464/vid/avc1/720x1280/6nCCIC_wu7A0A5GY.mp4?tag=21",
+    "read_time": "2025-10-02T09:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9078,
+      "timestamp": "2025-10-02T09:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7231266,
+      "size_mb": 6.9,
+      "timestamp": "2025-10-02T09:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/3cSQmO3zLH\n全天免费看，苹果用户复制自带浏览器下载，安卓用户UC浏览器扫码下载 https://t.co/NmdovkUIcT",
+    "publish_time": "2025-10-02T08:23:11"
+  },
+  {
+    "file_name": "G2NwXn1WMAA_jht.jpg",
+    "user": {
+      "screen_name": "ssslll05",
+      "name": "close to"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G2NwXn1WMAA_jht.jpg",
+    "read_time": "2025-10-02T09:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9079,
+      "timestamp": "2025-10-02T09:01:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 93548,
+      "size_mb": 0.09,
+      "timestamp": "2025-10-02T09:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "安卓手机二维码 https://t.co/Vx4yzPiroX",
+    "publish_time": "2025-10-02T08:24:41"
   }
 ]
