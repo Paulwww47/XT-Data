@@ -1274,5 +1274,31 @@
     },
     "full_text": "这个角度还挺好看的感觉 https://t.co/fWwB2kOVmV",
     "publish_time": "2025-10-02T20:57:41"
+  },
+  {
+    "file_name": "G2Q2vhhawAAV5pG.jpg",
+    "user": {
+      "screen_name": "fangsheng10",
+      "name": "fangsheng"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G2Q2vhhawAAV5pG.jpg",
+    "read_time": "2025-10-02T23:01:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9118,
+      "timestamp": "2025-10-02T23:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 206949,
+      "size_mb": 0.2,
+      "timestamp": "2025-10-02T23:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "💛 https://t.co/JWR6tzBAx9",
+    "publish_time": "2025-10-02T22:51:22"
   }
 ]
