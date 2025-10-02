@@ -251,5 +251,53 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1973605946963403101",
     "fullText": "https://t.co/tScD7wU4NH",
     "publishTime": "2025-10-02T12:28:20"
+  },
+  {
+    "user": {
+      "screenName": "SSS_MarkMark",
+      "name": "列文马克"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2OvwVNa4AAGUqJ.jpg",
+      "https://pbs.twimg.com/media/G2OvwVMbMAAhD4o.jpg",
+      "https://pbs.twimg.com/media/G2OvwVQaAAAH5C_.jpg",
+      "https://pbs.twimg.com/media/G2OvwVMaIAYScc3.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/SSS_MarkMark/status/1973614323689001167",
+    "fullText": "多毛骚逼推找我买原味🧦正巧脚上那双故意穿了很久焦黄，到货后狂射好几次激发性欲。\n😅\n！！最后发现竟然是关注了我两百多天的抖音粉丝🎵 https://t.co/34gcKbk5pe",
+    "publishTime": "2025-10-02T13:01:37"
+  },
+  {
+    "user": {
+      "screenName": "SSS_MarkMark",
+      "name": "列文马克"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2Ov8V9aIAQSnFm.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/SSS_MarkMark/status/1973614522113106107",
+    "fullText": "没想到这么快就被认出来…刚到车站 https://t.co/8bFPUmIVxq",
+    "publishTime": "2025-10-02T13:02:24"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2Ox9_2aIAMy1_2.jpg",
+      "https://pbs.twimg.com/media/G2Ox_q4bIAAJkh-.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [
+      "https://github.com/easychen/aideer"
+    ],
+    "tweetUrl": "https://x.com/easychen/status/1973616788069032345",
+    "fullText": "#Easy同学正在独立开发  刚刚把前两周手痒写的AI素材管理工具AiDeer开源了。https://t.co/y9W1vPXvR3 \n\n主要是用来管理角色卡、AI生的图和视频。可以按目录整理，另外支持写笔记，特别是备注提示词。\n\n也支持自动从图片中提取提… https://t.co/X07sYo1MUT",
+    "publishTime": "2025-10-02T13:11:24"
   }
 ]
