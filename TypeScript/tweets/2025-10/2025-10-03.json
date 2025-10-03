@@ -333,5 +333,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1974089551129002169",
     "fullText": "choy_ian https://t.co/fen4r5gI5f",
     "publishTime": "2025-10-03T20:30:00"
+  },
+  {
+    "user": {
+      "screenName": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1974098275553980421/vid/avc1/720x720/qbp7d5A5bVJQVxFP.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/MuscleHunterX/status/1974098354348212670",
+    "fullText": "国庆都干什么了 https://t.co/LoiRcDCUuC",
+    "publishTime": "2025-10-03T21:04:59"
+  },
+  {
+    "user": {
+      "screenName": "LiugangLogan",
+      "name": "刘刚Logan"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2Vo9ktaEAAdKX7.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/LiugangLogan/status/1974099426038911007",
+    "fullText": "素质低一分，快乐多一吨 https://t.co/dINndzyrcv",
+    "publishTime": "2025-10-03T21:09:14"
   }
 ]
