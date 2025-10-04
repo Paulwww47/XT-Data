@@ -456,17 +456,43 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (95MB > 50MB)",
       "timestamp": "2025-10-04T13:01:28",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 100564976,
       "size_mb": 95.91,
-      "timestamp": "2025-10-04T13:01:28",
+      "timestamp": "2025-10-04T14:01:10",
       "download_attempts": 0
     },
     "full_text": "肌肉操肌肉 翘臀操翘臀 低体脂操低体脂 无声对低吟 绝对的放浪形骸之内之外 https://t.co/1h7JRDj8jC",
     "publish_time": "2025-10-04T12:33:58"
+  },
+  {
+    "file_name": "G2ZHKfAbsAA-s81.mp4",
+    "user": {
+      "screen_name": "mmmmqaz0",
+      "name": "三角板"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/G2ZHKfAbsAA-s81.mp4",
+    "read_time": "2025-10-04T14:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9171,
+      "timestamp": "2025-10-04T14:01:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 41875,
+      "size_mb": 0.04,
+      "timestamp": "2025-10-04T14:01:10",
+      "download_attempts": 0
+    },
+    "full_text": "喝多了就喜欢拍拍拍 https://t.co/uG33lztXU9",
+    "publish_time": "2025-10-04T13:20:07"
   }
 ]
