@@ -115,5 +115,33 @@
     "tweetUrl": "https://x.com/lvren51069/status/1974638329502298129",
     "fullText": "很涨 https://t.co/NctH3LB7VT",
     "publishTime": "2025-10-05T08:50:39"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1974648768445530112/vid/avc1/720x1280/CtSHaGd8qFWSrkq6.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1974648858090287341",
+    "fullText": "起床 https://t.co/mTCRoiukyi",
+    "publishTime": "2025-10-05T09:32:29"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2dexqeaQAARBGw.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1974651179717276139",
+    "fullText": "yongiant https://t.co/a8eYCSIc6c",
+    "publishTime": "2025-10-05T09:41:43"
   }
 ]
