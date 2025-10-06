@@ -1550,14 +1550,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (379MB > 50MB)",
       "timestamp": "2025-10-07T00:02:06",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 397645384,
       "size_mb": 379.22,
-      "timestamp": "2025-10-07T00:02:06",
+      "timestamp": "2025-10-07T01:01:57",
       "download_attempts": 0
     },
     "full_text": "八爪鱼系列 https://t.co/5K3S5LJqDh",
