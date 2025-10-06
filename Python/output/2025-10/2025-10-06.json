@@ -1080,17 +1080,43 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (54MB > 50MB)",
       "timestamp": "2025-10-06T16:01:04",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 57070443,
       "size_mb": 54.43,
-      "timestamp": "2025-10-06T16:01:04",
+      "timestamp": "2025-10-06T17:00:43",
       "download_attempts": 0
     },
     "full_text": "肌肉拉丝臀腿打桩机 @fanglangnantu https://t.co/nNwTLk4BAK",
     "publish_time": "2025-10-06T15:50:42"
+  },
+  {
+    "file_name": "nYnI51Wb7092UwMO.mp4",
+    "user": {
+      "screen_name": "xiaojin20001112",
+      "name": "小金"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1975112343370579968/pu/vid/avc1/1280x720/nYnI51Wb7092UwMO.mp4?tag=12",
+    "read_time": "2025-10-06T17:00:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9280,
+      "timestamp": "2025-10-06T17:00:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1167820,
+      "size_mb": 1.11,
+      "timestamp": "2025-10-06T17:00:44",
+      "download_attempts": 0
+    },
+    "full_text": "国庆最后一天99享全部视频。外送视频验证 https://t.co/JEbr9pkiLT",
+    "publish_time": "2025-10-06T16:14:27"
   }
 ]
