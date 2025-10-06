@@ -528,5 +528,19 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1975134252498108532",
     "fullText": "https://t.co/9mNASmVqgC",
     "publishTime": "2025-10-06T17:41:16"
+  },
+  {
+    "user": {
+      "screenName": "Exp_lam",
+      "name": "~Exp(λ)"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2kkPUgakAAkREr.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Exp_lam/status/1975149788636332188",
+    "fullText": "https://t.co/W0l8nRBT75",
+    "publishTime": "2025-10-06T18:43:00"
   }
 ]
