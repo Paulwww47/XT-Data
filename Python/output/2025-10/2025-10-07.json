@@ -232,5 +232,31 @@
     },
     "full_text": "https://t.co/CHpkFxppAW",
     "publish_time": "2025-10-07T00:55:46"
+  },
+  {
+    "file_name": "G2mCO39aYAAiwQJ.jpg",
+    "user": {
+      "screen_name": "Exp_lam",
+      "name": "~Exp(λ)"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G2mCO39aYAAiwQJ.jpg",
+    "read_time": "2025-10-07T02:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9306,
+      "timestamp": "2025-10-07T02:01:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 219416,
+      "size_mb": 0.21,
+      "timestamp": "2025-10-07T02:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/867yEpvrtc",
+    "publish_time": "2025-10-07T01:33:35"
   }
 ]
