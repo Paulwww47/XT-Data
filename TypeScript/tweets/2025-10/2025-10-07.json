@@ -368,5 +368,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1975492421548224728",
     "fullText": "peng_miles18 https://t.co/2q8MXTq8Rw",
     "publishTime": "2025-10-07T17:24:30"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2pzrwsbAAEt-1c.jpg",
+      "https://pbs.twimg.com/media/G2pzrwwawAAxBek.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1975518588086993026",
+    "fullText": "einryun https://t.co/7CKNYde954",
+    "publishTime": "2025-10-07T19:08:29"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2pz0RmbIAMfveV.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1975518733402841486",
+    "fullText": "https://t.co/OkAcQbtZLQ",
+    "publishTime": "2025-10-07T19:09:04"
   }
 ]
