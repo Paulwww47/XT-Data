@@ -325,5 +325,48 @@
     "tweetUrl": "https://x.com/max06734521/status/1975470026036813953",
     "fullText": "啧…….味很大 https://t.co/8TWMq9Rkf2",
     "publishTime": "2025-10-07T15:55:31"
+  },
+  {
+    "user": {
+      "screenName": "YoungOu123",
+      "name": "Young Ou"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1975489093816778752/vid/avc1/720x1280/1IoYEssGAw9omwtX.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/1975489093816799232/vid/avc1/1280x720/0PlvtWzE3K73DZC0.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/YoungOu123/status/1975489332816580957",
+    "fullText": "能让你爽的事，我顺手就做了 https://t.co/DxkTmeiFxj",
+    "publishTime": "2025-10-07T17:12:14"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2pbr36aQAAXh5h.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1975492201632440664",
+    "fullText": "https://t.co/R60lYc8Zht",
+    "publishTime": "2025-10-07T17:23:38"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2pb4rbbIAcDSMb.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1975492421548224728",
+    "fullText": "peng_miles18 https://t.co/2q8MXTq8Rw",
+    "publishTime": "2025-10-07T17:24:30"
   }
 ]
