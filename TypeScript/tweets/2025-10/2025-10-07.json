@@ -172,5 +172,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1975386889126617177",
     "fullText": "thatcls https://t.co/AwTKmV0MAb",
     "publishTime": "2025-10-07T10:25:09"
+  },
+  {
+    "user": {
+      "screenName": "ran9592",
+      "name": "코란"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2oI5IBW4AATU9v.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/ran9592/status/1975401169099903447",
+    "fullText": "https://t.co/Y0X6qT2gHH",
+    "publishTime": "2025-10-07T11:21:54"
+  },
+  {
+    "user": {
+      "screenName": "fanglangnantu",
+      "name": "放浪男徒"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2oLAsabIAUrFsa.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/fanglangnantu/status/1975403504866078829",
+    "fullText": "明天所处位置：深圳！ https://t.co/p6efQw3Hpj",
+    "publishTime": "2025-10-07T11:31:11"
   }
 ]
