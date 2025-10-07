@@ -362,5 +362,31 @@
     },
     "full_text": "ysk_chip https://t.co/V8VgkKpO98",
     "publish_time": "2025-10-07T05:07:52"
+  },
+  {
+    "file_name": "G2nTG_vbYAAENNh.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G2nTG_vbYAAENNh.jpg",
+    "read_time": "2025-10-07T08:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9311,
+      "timestamp": "2025-10-07T08:01:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 105338,
+      "size_mb": 0.1,
+      "timestamp": "2025-10-07T08:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/opbQ8G2Tws",
+    "publish_time": "2025-10-07T07:26:55"
   }
 ]
