@@ -518,5 +518,31 @@
     },
     "full_text": "明天所处位置：深圳！ https://t.co/p6efQw3Hpj",
     "publish_time": "2025-10-07T11:31:11"
+  },
+  {
+    "file_name": "G2ocDTwW4AAJnb4.jpg",
+    "user": {
+      "screen_name": "lilei92872270",
+      "name": "travelrtail"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G2ocDTwW4AAJnb4.jpg",
+    "read_time": "2025-10-07T13:00:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9317,
+      "timestamp": "2025-10-07T13:00:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 147043,
+      "size_mb": 0.14,
+      "timestamp": "2025-10-07T13:00:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/dqC8g11mXX",
+    "publish_time": "2025-10-07T12:45:39"
   }
 ]
