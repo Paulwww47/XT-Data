@@ -1562,6 +1562,35 @@
     }
   },
   {
+    "restId": "1762370668795170816",
+    "legacy": {
+      "name": "jus",
+      "screenName": "Jus1314520",
+      "createdAt": "Tue Feb 27 06:54:54 +0000 2024",
+      "description": "获取完整版请移至 @zhinanyinxiang",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/kk9983",
+              "expanded_url": "https://linktr.ee/kk9983",
+              "url": "https://t.co/Xb0TaDr9YH",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1762370668795170816/1709018363",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1762376530305626112/DPD_W33Y_normal.jpg"
+    }
+  },
+  {
     "restId": "1756257691759202304",
     "legacy": {
       "name": "KevinLeeYoung",

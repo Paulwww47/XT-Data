@@ -424,5 +424,19 @@
     "tweetUrl": "https://x.com/Exp_lam/status/1975861457947693370",
     "fullText": "https://t.co/rO5OavB8X2",
     "publishTime": "2025-10-08T17:50:55"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2vCZkmbsAAJkeE.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1975886611104825816",
+    "fullText": "https://t.co/ZGejImtNKP",
+    "publishTime": "2025-10-08T19:30:52"
   }
 ]
