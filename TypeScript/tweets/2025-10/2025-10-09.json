@@ -602,5 +602,33 @@
     "tweetUrl": "https://x.com/youdi/status/1976292336306106470",
     "fullText": "https://t.co/aYGil6UoEM",
     "publishTime": "2025-10-09T22:23:05"
+  },
+  {
+    "user": {
+      "screenName": "Exp_lam",
+      "name": "~Exp(λ)"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G20_Z-IaIAA06qG.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Exp_lam/status/1976305560380375174",
+    "fullText": "Old pic https://t.co/mEMyNaHNAy",
+    "publishTime": "2025-10-09T23:15:38"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G21HSm4bwAIC5F0.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1976314202173387044",
+    "fullText": "https://t.co/pIWc68R6Pd",
+    "publishTime": "2025-10-09T23:49:58"
   }
 ]
