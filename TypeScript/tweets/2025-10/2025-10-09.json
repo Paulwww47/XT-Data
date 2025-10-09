@@ -226,5 +226,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1976103268196679904",
     "fullText": "https://t.co/4eDcc5EasL",
     "publishTime": "2025-10-09T09:51:48"
+  },
+  {
+    "user": {
+      "screenName": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1976109104847519747/vid/avc1/720x1280/FLvKX8y8wwCBqr8Q.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/BBoy1069/status/1976109169121034298",
+    "fullText": "【2025年10月9日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/ppzisaSHc2",
+    "publishTime": "2025-10-09T10:15:14"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G2yRX8-aAAIts8Q.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1976114190160200081",
+    "fullText": "https://t.co/Ng1d1tXebJ",
+    "publishTime": "2025-10-09T10:35:12"
   }
 ]
