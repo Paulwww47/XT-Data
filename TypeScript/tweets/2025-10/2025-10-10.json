@@ -39,5 +39,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1976368889618629107",
     "fullText": "jronogan https://t.co/8jl98zUMxM",
     "publishTime": "2025-10-10T03:27:17"
+  },
+  {
+    "user": {
+      "screenName": "ran9592",
+      "name": "코란"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1976378139577040896/vid/avc1/720x1280/WYN7IxiYRwvYhWtP.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/ran9592/status/1976378221336936856",
+    "fullText": "https://t.co/zv7kyUElsg",
+    "publishTime": "2025-10-10T04:04:21"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G22M4OvaAAQ-qXv.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1976390716734775666",
+    "fullText": "an9us92 https://t.co/09z2UWQzm0",
+    "publishTime": "2025-10-10T04:54:01"
   }
 ]
