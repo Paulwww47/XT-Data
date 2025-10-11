@@ -1246,5 +1246,31 @@
     },
     "full_text": "https://t.co/lM3ifclg11",
     "publish_time": "2025-10-11T22:31:19"
+  },
+  {
+    "file_name": "G2_V_p3bgAAq4NQ.jpg",
+    "user": {
+      "screen_name": "YCJ2023",
+      "name": "杨长进"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G2_V_p3bgAAq4NQ.jpg",
+    "read_time": "2025-10-12T00:01:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9549,
+      "timestamp": "2025-10-12T00:01:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 73065,
+      "size_mb": 0.07,
+      "timestamp": "2025-10-12T00:01:51",
+      "download_attempts": 0
+    },
+    "full_text": "🥵 https://t.co/XJmdUua8HY",
+    "publish_time": "2025-10-11T23:30:25"
   }
 ]
