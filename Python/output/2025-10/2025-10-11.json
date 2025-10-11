@@ -154,5 +154,57 @@
     },
     "full_text": "saifah_intarachai https://t.co/sRiHrOnVLJ",
     "publish_time": "2025-10-11T08:00:50"
+  },
+  {
+    "file_name": "G28HL5LbMAAHJhC.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G28HL5LbMAAHJhC.jpg",
+    "read_time": "2025-10-11T09:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9507,
+      "timestamp": "2025-10-11T09:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 199584,
+      "size_mb": 0.19,
+      "timestamp": "2025-10-11T09:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/nAS0nMnBdw",
+    "publish_time": "2025-10-11T08:26:51"
+  },
+  {
+    "file_name": "eCLTcVVaiRcQPjQu.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1976812894751993856/vid/avc1/360x640/eCLTcVVaiRcQPjQu.mp4?tag=14",
+    "read_time": "2025-10-11T09:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9508,
+      "timestamp": "2025-10-11T09:01:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2299295,
+      "size_mb": 2.19,
+      "timestamp": "2025-10-11T09:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "【2025年10月11日】今日資源已經更新！FANS投稿的資源不錯置頂中！以下視頻與更新資源無關！ https://t.co/1CiRWDk5qy",
+    "publish_time": "2025-10-11T08:51:52"
   }
 ]
