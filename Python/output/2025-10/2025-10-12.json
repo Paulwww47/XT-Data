@@ -1610,5 +1610,31 @@
     },
     "full_text": "https://t.co/wkXaT2co8E",
     "publish_time": "2025-10-12T22:31:13"
+  },
+  {
+    "file_name": "pQPLWcBFgpmtQfPU.mp4",
+    "user": {
+      "screen_name": "easychen",
+      "name": "EasyChen"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1977398127167754240/vid/avc1/720x1280/pQPLWcBFgpmtQfPU.mp4?tag=14",
+    "read_time": "2025-10-13T00:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9612,
+      "timestamp": "2025-10-13T00:01:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4397987,
+      "size_mb": 4.19,
+      "timestamp": "2025-10-13T00:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "OMate 更新到 1.5.0 了，新增了和图片聊天功能（雾）。做了介绍视频。目前还在内测，下周官网会更新。 https://t.co/ALZwyrTXoX",
+    "publish_time": "2025-10-12T23:39:14"
   }
 ]

@@ -736,5 +736,31 @@
     "tweetUrl": "https://x.com/rrrrrrig_/status/1977381547591266348",
     "fullText": "https://t.co/wkXaT2co8E",
     "publishTime": "2025-10-12T22:31:13"
+  },
+  {
+    "user": {
+      "screenName": "maletease",
+      "name": "MaleTease"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/maletease/status/1977393323850473627",
+    "fullText": "列表专用帖，一些库存我贴在这个帖子下面，这样更容易找 \n😀也可以私信我 或者telegram 找我 （telegram搜 @shelter123456）",
+    "publishTime": "2025-10-12T23:18:01"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1977398127167754240/vid/avc1/720x1280/pQPLWcBFgpmtQfPU.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/easychen/status/1977398665187570093",
+    "fullText": "OMate 更新到 1.5.0 了，新增了和图片聊天功能（雾）。做了介绍视频。目前还在内测，下周官网会更新。 https://t.co/ALZwyrTXoX",
+    "publishTime": "2025-10-12T23:39:14"
   }
 ]
