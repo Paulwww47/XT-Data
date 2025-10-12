@@ -1584,5 +1584,31 @@
     },
     "full_text": "https://t.co/gzERF031OP",
     "publish_time": "2025-10-12T21:49:09"
+  },
+  {
+    "file_name": "ZMSquCMGTnUx0O5h.mp4",
+    "user": {
+      "screen_name": "rrrrrrig_",
+      "name": "嗷呜有劲"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1977381288479948800/vid/avc1/720x1280/ZMSquCMGTnUx0O5h.mp4?tag=21",
+    "read_time": "2025-10-12T23:01:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9611,
+      "timestamp": "2025-10-12T23:01:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 11617547,
+      "size_mb": 11.08,
+      "timestamp": "2025-10-12T23:01:12",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/wkXaT2co8E",
+    "publish_time": "2025-10-12T22:31:13"
   }
 ]

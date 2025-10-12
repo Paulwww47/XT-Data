@@ -722,5 +722,19 @@
     "tweetUrl": "https://x.com/youdi/status/1977370961889415312",
     "fullText": "https://t.co/gzERF031OP",
     "publishTime": "2025-10-12T21:49:09"
+  },
+  {
+    "user": {
+      "screenName": "rrrrrrig_",
+      "name": "嗷呜有劲"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1977381288479948800/vid/avc1/720x1280/ZMSquCMGTnUx0O5h.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/rrrrrrig_/status/1977381547591266348",
+    "fullText": "https://t.co/wkXaT2co8E",
+    "publishTime": "2025-10-12T22:31:13"
   }
 ]
