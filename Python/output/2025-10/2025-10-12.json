@@ -960,5 +960,57 @@
     },
     "full_text": "liangguai https://t.co/le9E3SWZcJ",
     "publish_time": "2025-10-12T15:33:04"
+  },
+  {
+    "file_name": "G3C6zxsbQAA1PA7.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3C6zxsbQAA1PA7.jpg",
+    "read_time": "2025-10-12T17:01:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9587,
+      "timestamp": "2025-10-12T17:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 148046,
+      "size_mb": 0.14,
+      "timestamp": "2025-10-12T17:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "marktototo🍆 https://t.co/BGtmcs7gOj",
+    "publish_time": "2025-10-12T16:10:07"
+  },
+  {
+    "file_name": "G3DD4LrbsAEToi6.jpg",
+    "user": {
+      "screen_name": "xidaojun1",
+      "name": "🐺西岛"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3DD4LrbsAEToi6.jpg",
+    "read_time": "2025-10-12T17:01:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9588,
+      "timestamp": "2025-10-12T17:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 159766,
+      "size_mb": 0.15,
+      "timestamp": "2025-10-12T17:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "喝了三层还是这样 https://t.co/mLq8jaAvLn",
+    "publish_time": "2025-10-12T16:49:45"
   }
 ]
