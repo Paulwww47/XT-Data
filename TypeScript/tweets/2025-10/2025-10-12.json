@@ -578,5 +578,34 @@
     "tweetUrl": "https://x.com/youdi/status/1977313463891529905",
     "fullText": "https://t.co/vfJ0cWI8JN",
     "publishTime": "2025-10-12T18:00:41"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3DUncWa8AAcp63.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1977314098288488818",
+    "fullText": "https://t.co/xSnE7rWnWc",
+    "publishTime": "2025-10-12T18:03:12"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3De1XTa0AA5PQ-.jpg",
+      "https://pbs.twimg.com/media/G3De1XZbQAAeHTi.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1977325250196181473",
+    "fullText": "https://t.co/jpJVy1PYsi",
+    "publishTime": "2025-10-12T18:47:31"
   }
 ]
