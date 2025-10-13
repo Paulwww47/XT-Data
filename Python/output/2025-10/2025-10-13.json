@@ -388,5 +388,83 @@
     },
     "full_text": "nguyen.hai95 https://t.co/yNw4WYRJWl",
     "publish_time": "2025-10-13T09:54:24"
+  },
+  {
+    "file_name": "G3GxM7ebUAAFI3z.jpg",
+    "user": {
+      "screen_name": "d461385024",
+      "name": "大茄子猛1"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3GxM7ebUAAFI3z.jpg",
+    "read_time": "2025-10-13T11:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9628,
+      "timestamp": "2025-10-13T11:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 108010,
+      "size_mb": 0.1,
+      "timestamp": "2025-10-13T11:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "今天在重庆，不10的可以找我 https://t.co/oBzgbONpMh",
+    "publish_time": "2025-10-13T10:06:38"
+  },
+  {
+    "file_name": "_N8V9Q7tjurwDA_1.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1977562835107581952/vid/avc1/416x834/_N8V9Q7tjurwDA_1.mp4?tag=14",
+    "read_time": "2025-10-13T11:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9629,
+      "timestamp": "2025-10-13T11:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5269294,
+      "size_mb": 5.03,
+      "timestamp": "2025-10-13T11:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "【2025年10月13日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/M31XlqlIdD",
+    "publish_time": "2025-10-13T10:31:50"
+  },
+  {
+    "file_name": "G3G5KzRa4AAbY2o.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3G5KzRa4AAbY2o.jpg",
+    "read_time": "2025-10-13T11:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9630,
+      "timestamp": "2025-10-13T11:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101124,
+      "size_mb": 0.1,
+      "timestamp": "2025-10-13T11:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "lee_sun_photo https://t.co/wKBIm2FU75",
+    "publish_time": "2025-10-13T10:41:26"
   }
 ]
