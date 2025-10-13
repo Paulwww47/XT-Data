@@ -1688,5 +1688,83 @@
     },
     "full_text": "kitebaby1 https://t.co/WZH9bBaBnB",
     "publish_time": "2025-10-13T18:59:51"
+  },
+  {
+    "file_name": "G3IwOYNbEAAWGZQ.jpg",
+    "user": {
+      "screen_name": "d461385024",
+      "name": "大茄子猛1"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3IwOYNbEAAWGZQ.jpg",
+    "read_time": "2025-10-13T20:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9692,
+      "timestamp": "2025-10-13T20:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 128350,
+      "size_mb": 0.12,
+      "timestamp": "2025-10-13T20:01:26",
+      "download_attempts": 0
+    },
+    "full_text": "在重庆观音桥了，有好玩的吗？盲盒？ https://t.co/hQUgDh9HDu",
+    "publish_time": "2025-10-13T19:21:37"
+  },
+  {
+    "file_name": "G3IyXV3XYAAWCWq.jpg",
+    "user": {
+      "screen_name": "ran9592",
+      "name": "코란"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3IyXV3XYAAWCWq.jpg",
+    "read_time": "2025-10-13T20:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9693,
+      "timestamp": "2025-10-13T20:01:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 132630,
+      "size_mb": 0.13,
+      "timestamp": "2025-10-13T20:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/tqVxzGuY5d",
+    "publish_time": "2025-10-13T19:30:57"
+  },
+  {
+    "file_name": "G3IzW3KbYAAeQOW.jpg",
+    "user": {
+      "screen_name": "AlwynShown",
+      "name": "F。our"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3IzW3KbYAAeQOW.jpg",
+    "read_time": "2025-10-13T20:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9694,
+      "timestamp": "2025-10-13T20:01:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 113632,
+      "size_mb": 0.11,
+      "timestamp": "2025-10-13T20:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "🚗 https://t.co/859KxbFn0J",
+    "publish_time": "2025-10-13T19:35:18"
   }
 ]
