@@ -1782,14 +1782,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (149MB > 50MB)",
       "timestamp": "2025-10-13T21:01:38",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 156415907,
       "size_mb": 149.17,
-      "timestamp": "2025-10-13T21:01:38",
+      "timestamp": "2025-10-13T22:01:44",
       "download_attempts": 0
     },
     "full_text": "stright_vn56 https://t.co/ZAhJpMsE1k",
@@ -1914,17 +1914,303 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (131MB > 50MB)",
       "timestamp": "2025-10-13T21:01:49",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 138069309,
       "size_mb": 131.67,
-      "timestamp": "2025-10-13T21:01:49",
+      "timestamp": "2025-10-13T22:01:46",
       "download_attempts": 0
     },
     "full_text": "brycejaxxx https://t.co/rupSsmtg5O",
     "publish_time": "2025-10-13T20:57:16"
+  },
+  {
+    "file_name": "G3JIVSjaoAAFsut.jpg",
+    "user": {
+      "screen_name": "Chaostuu1",
+      "name": "Chaos"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3JIVSjaoAAFsut.jpg",
+    "read_time": "2025-10-13T22:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9699,
+      "timestamp": "2025-10-13T22:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 226176,
+      "size_mb": 0.22,
+      "timestamp": "2025-10-13T22:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/rJQN8MYM5M",
+    "publish_time": "2025-10-13T21:06:55"
+  },
+  {
+    "file_name": "G3JIVKTbAAAMnLF.jpg",
+    "user": {
+      "screen_name": "Chaostuu1",
+      "name": "Chaos"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3JIVKTbAAAMnLF.jpg",
+    "read_time": "2025-10-13T22:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9700,
+      "timestamp": "2025-10-13T22:01:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 188001,
+      "size_mb": 0.18,
+      "timestamp": "2025-10-13T22:01:49",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/rJQN8MYM5M",
+    "publish_time": "2025-10-13T21:06:55"
+  },
+  {
+    "file_name": "G3JIVE_aYAAEfxG.jpg",
+    "user": {
+      "screen_name": "Chaostuu1",
+      "name": "Chaos"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3JIVE_aYAAEfxG.jpg",
+    "read_time": "2025-10-13T22:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9701,
+      "timestamp": "2025-10-13T22:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 113346,
+      "size_mb": 0.11,
+      "timestamp": "2025-10-13T22:01:51",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/rJQN8MYM5M",
+    "publish_time": "2025-10-13T21:06:55"
+  },
+  {
+    "file_name": "G3JIVEwaAAAR0yw.jpg",
+    "user": {
+      "screen_name": "Chaostuu1",
+      "name": "Chaos"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3JIVEwaAAAR0yw.jpg",
+    "read_time": "2025-10-13T22:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9702,
+      "timestamp": "2025-10-13T22:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 108749,
+      "size_mb": 0.1,
+      "timestamp": "2025-10-13T22:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/rJQN8MYM5M",
+    "publish_time": "2025-10-13T21:06:55"
+  },
+  {
+    "file_name": "G3JLwUjWgAA-kN8.jpg",
+    "user": {
+      "screen_name": "ran9592",
+      "name": "코란"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3JLwUjWgAA-kN8.jpg",
+    "read_time": "2025-10-13T22:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9703,
+      "timestamp": "2025-10-13T22:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 127181,
+      "size_mb": 0.12,
+      "timestamp": "2025-10-13T22:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "Which one you prefer https://t.co/BP1vMOvdxf",
+    "publish_time": "2025-10-13T21:21:52"
+  },
+  {
+    "file_name": "G3JLwUqWUAA_EiP.jpg",
+    "user": {
+      "screen_name": "ran9592",
+      "name": "코란"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3JLwUqWUAA_EiP.jpg",
+    "read_time": "2025-10-13T22:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9704,
+      "timestamp": "2025-10-13T22:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 127523,
+      "size_mb": 0.12,
+      "timestamp": "2025-10-13T22:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "Which one you prefer https://t.co/BP1vMOvdxf",
+    "publish_time": "2025-10-13T21:21:52"
+  },
+  {
+    "file_name": "G3JMH3bakAAu_ff.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3JMH3bakAAu_ff.jpg",
+    "read_time": "2025-10-13T22:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9705,
+      "timestamp": "2025-10-13T22:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 133124,
+      "size_mb": 0.13,
+      "timestamp": "2025-10-13T22:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "brycejaxxx https://t.co/XuQ8mSi9up",
+    "publish_time": "2025-10-13T21:23:30"
+  },
+  {
+    "file_name": "G3JMH3RaMAAX8IL.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3JMH3RaMAAX8IL.jpg",
+    "read_time": "2025-10-13T22:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9706,
+      "timestamp": "2025-10-13T22:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 135030,
+      "size_mb": 0.13,
+      "timestamp": "2025-10-13T22:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "brycejaxxx https://t.co/XuQ8mSi9up",
+    "publish_time": "2025-10-13T21:23:30"
+  },
+  {
+    "file_name": "G3JMH3TbMAASVhE.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3JMH3TbMAASVhE.jpg",
+    "read_time": "2025-10-13T22:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9707,
+      "timestamp": "2025-10-13T22:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 138726,
+      "size_mb": 0.13,
+      "timestamp": "2025-10-13T22:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "brycejaxxx https://t.co/XuQ8mSi9up",
+    "publish_time": "2025-10-13T21:23:30"
+  },
+  {
+    "file_name": "G3JMH3QawAA2Nsk.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3JMH3QawAA2Nsk.jpg",
+    "read_time": "2025-10-13T22:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9708,
+      "timestamp": "2025-10-13T22:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 140597,
+      "size_mb": 0.13,
+      "timestamp": "2025-10-13T22:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "brycejaxxx https://t.co/XuQ8mSi9up",
+    "publish_time": "2025-10-13T21:23:30"
+  },
+  {
+    "file_name": "G3JSBhWbUAAYfmK.jpg",
+    "user": {
+      "screen_name": "d461385024",
+      "name": "大茄子猛1"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3JSBhWbUAAYfmK.jpg",
+    "read_time": "2025-10-13T22:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9709,
+      "timestamp": "2025-10-13T22:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 111121,
+      "size_mb": 0.11,
+      "timestamp": "2025-10-13T22:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "重庆在 https://t.co/czJE7QZPvw",
+    "publish_time": "2025-10-13T21:49:17"
   }
 ]
