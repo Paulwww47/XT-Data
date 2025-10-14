@@ -440,5 +440,85 @@
     },
     "full_text": "😱 https://t.co/H7bpzYJfqL",
     "publish_time": "2025-10-14T11:56:11"
+  },
+  {
+    "file_name": "jBeatPlKt2ckZDQK.mp4",
+    "user": {
+      "screen_name": "O08Vk",
+      "name": "RawX"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1977948349757259776/vid/avc1/720x1280/jBeatPlKt2ckZDQK.mp4?tag=21",
+    "read_time": "2025-10-14T13:01:19",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (61MB > 50MB)",
+      "timestamp": "2025-10-14T13:01:20",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 64769812,
+      "size_mb": 61.77,
+      "timestamp": "2025-10-14T13:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "go fuck yourself！ https://t.co/NhEYWowooM",
+    "publish_time": "2025-10-14T12:06:27"
+  },
+  {
+    "file_name": "G3MbMG1aQAAWxdT.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3MbMG1aQAAWxdT.jpg",
+    "read_time": "2025-10-14T13:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9733,
+      "timestamp": "2025-10-14T13:01:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 152158,
+      "size_mb": 0.15,
+      "timestamp": "2025-10-14T13:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vwwqNDs1kS",
+    "publish_time": "2025-10-14T12:28:13"
+  },
+  {
+    "file_name": "G3MgbNAaMAALb6G.jpg",
+    "user": {
+      "screen_name": "MuscleFlexGod",
+      "name": "Muscle Fighter"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3MgbNAaMAALb6G.jpg",
+    "read_time": "2025-10-14T13:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9734,
+      "timestamp": "2025-10-14T13:01:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 76898,
+      "size_mb": 0.07,
+      "timestamp": "2025-10-14T13:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "終於找回了帳號\n之前都一直太忙\n懶得搞 https://t.co/ykRUaYiLci",
+    "publish_time": "2025-10-14T12:51:03"
   }
 ]
