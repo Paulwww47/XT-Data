@@ -456,14 +456,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (61MB > 50MB)",
       "timestamp": "2025-10-14T13:01:20",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 64769812,
       "size_mb": 61.77,
-      "timestamp": "2025-10-14T13:01:20",
+      "timestamp": "2025-10-14T14:01:29",
       "download_attempts": 0
     },
     "full_text": "go fuck yourself！ https://t.co/NhEYWowooM",
@@ -520,5 +520,31 @@
     },
     "full_text": "終於找回了帳號\n之前都一直太忙\n懶得搞 https://t.co/ykRUaYiLci",
     "publish_time": "2025-10-14T12:51:03"
+  },
+  {
+    "file_name": "G3Mvl3RaEAAnS7b.jpg",
+    "user": {
+      "screen_name": "fanglangnantu",
+      "name": "放浪男徒"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3Mvl3RaEAAnS7b.jpg",
+    "read_time": "2025-10-14T14:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9735,
+      "timestamp": "2025-10-14T14:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 145918,
+      "size_mb": 0.14,
+      "timestamp": "2025-10-14T14:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "肌肉牛🐮请找肌肉农@yawenbrother https://t.co/zNSXlWv9iP",
+    "publish_time": "2025-10-14T13:57:19"
   }
 ]
