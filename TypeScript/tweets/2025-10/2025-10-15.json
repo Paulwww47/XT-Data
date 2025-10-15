@@ -381,5 +381,35 @@
     "tweetUrl": "https://x.com/ran9592/status/1978430079169438076",
     "fullText": "https://t.co/4XOC5iZF82",
     "publishTime": "2025-10-15T19:57:42"
+  },
+  {
+    "user": {
+      "screenName": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3T9tMnbUAAs9jT.jpg",
+      "https://pbs.twimg.com/media/G3T9tMqasAAb7ZA.jpg",
+      "https://pbs.twimg.com/media/G3T9tMqaIAA7NoI.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/markma58304799/status/1978485102981341590",
+    "fullText": "钟爱白色 https://t.co/FSa4tP5FBa",
+    "publishTime": "2025-10-15T23:36:21"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3T_yOjaoAASjgT.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1978487385613861193",
+    "fullText": "https://t.co/JLxqel4D2i",
+    "publishTime": "2025-10-15T23:45:25"
   }
 ]

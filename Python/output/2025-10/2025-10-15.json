@@ -247,7 +247,7 @@
       "success": false,
       "error_type": "api_error",
       "message": "Photo_invalid_dimensions",
-      "timestamp": "2025-10-15T23:00:43",
+      "timestamp": "2025-10-16T00:00:42",
       "notification_sent": false
     },
     "is_downloaded": false,
@@ -255,7 +255,7 @@
       "success": true,
       "size": 19147,
       "size_mb": 0.02,
-      "timestamp": "2025-10-15T23:00:41",
+      "timestamp": "2025-10-16T00:00:41",
       "download_attempts": 0
     },
     "full_text": "#Easy同学正在独立开发 最近折腾了一把语音输入，最终效果还不错🤠  https://t.co/tvnagzs3Dc https://t.co/YquIN5JgmZ",
@@ -275,7 +275,7 @@
       "success": false,
       "error_type": "api_error",
       "message": "Photo_invalid_dimensions",
-      "timestamp": "2025-10-15T23:00:44",
+      "timestamp": "2025-10-16T00:00:44",
       "notification_sent": false
     },
     "is_downloaded": false,
@@ -283,7 +283,7 @@
       "success": true,
       "size": 20436,
       "size_mb": 0.02,
-      "timestamp": "2025-10-15T23:00:43",
+      "timestamp": "2025-10-16T00:00:42",
       "download_attempts": 0
     },
     "full_text": "#Easy同学正在独立开发 最近折腾了一把语音输入，最终效果还不错🤠  https://t.co/tvnagzs3Dc https://t.co/YquIN5JgmZ",
@@ -704,5 +704,109 @@
     },
     "full_text": "https://t.co/4XOC5iZF82",
     "publish_time": "2025-10-15T19:57:42"
+  },
+  {
+    "file_name": "G3T9tMnbUAAs9jT.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3T9tMnbUAAs9jT.jpg",
+    "read_time": "2025-10-16T00:00:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9788,
+      "timestamp": "2025-10-16T00:00:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 121062,
+      "size_mb": 0.12,
+      "timestamp": "2025-10-16T00:00:44",
+      "download_attempts": 0
+    },
+    "full_text": "钟爱白色 https://t.co/FSa4tP5FBa",
+    "publish_time": "2025-10-15T23:36:21"
+  },
+  {
+    "file_name": "G3T9tMqasAAb7ZA.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3T9tMqasAAb7ZA.jpg",
+    "read_time": "2025-10-16T00:00:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9789,
+      "timestamp": "2025-10-16T00:00:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 128079,
+      "size_mb": 0.12,
+      "timestamp": "2025-10-16T00:00:47",
+      "download_attempts": 0
+    },
+    "full_text": "钟爱白色 https://t.co/FSa4tP5FBa",
+    "publish_time": "2025-10-15T23:36:21"
+  },
+  {
+    "file_name": "G3T9tMqaIAA7NoI.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3T9tMqaIAA7NoI.jpg",
+    "read_time": "2025-10-16T00:00:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9790,
+      "timestamp": "2025-10-16T00:00:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 158779,
+      "size_mb": 0.15,
+      "timestamp": "2025-10-16T00:00:50",
+      "download_attempts": 0
+    },
+    "full_text": "钟爱白色 https://t.co/FSa4tP5FBa",
+    "publish_time": "2025-10-15T23:36:21"
+  },
+  {
+    "file_name": "G3T_yOjaoAASjgT.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3T_yOjaoAASjgT.jpg",
+    "read_time": "2025-10-16T00:00:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9791,
+      "timestamp": "2025-10-16T00:00:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 162786,
+      "size_mb": 0.16,
+      "timestamp": "2025-10-16T00:00:52",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/JLxqel4D2i",
+    "publish_time": "2025-10-15T23:45:25"
   }
 ]
