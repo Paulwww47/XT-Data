@@ -247,7 +247,7 @@
       "success": false,
       "error_type": "api_error",
       "message": "Photo_invalid_dimensions",
-      "timestamp": "2025-10-15T14:01:37",
+      "timestamp": "2025-10-15T15:01:30",
       "notification_sent": false
     },
     "is_downloaded": false,
@@ -255,7 +255,7 @@
       "success": true,
       "size": 19147,
       "size_mb": 0.02,
-      "timestamp": "2025-10-15T14:01:35",
+      "timestamp": "2025-10-15T15:01:29",
       "download_attempts": 0
     },
     "full_text": "#Easy同学正在独立开发 最近折腾了一把语音输入，最终效果还不错🤠  https://t.co/tvnagzs3Dc https://t.co/YquIN5JgmZ",
@@ -275,7 +275,7 @@
       "success": false,
       "error_type": "api_error",
       "message": "Photo_invalid_dimensions",
-      "timestamp": "2025-10-15T14:01:38",
+      "timestamp": "2025-10-15T15:01:31",
       "notification_sent": false
     },
     "is_downloaded": false,
@@ -283,7 +283,7 @@
       "success": true,
       "size": 20436,
       "size_mb": 0.02,
-      "timestamp": "2025-10-15T14:01:37",
+      "timestamp": "2025-10-15T15:01:30",
       "download_attempts": 0
     },
     "full_text": "#Easy同学正在独立开发 最近折腾了一把语音输入，最终效果还不错🤠  https://t.co/tvnagzs3Dc https://t.co/YquIN5JgmZ",
@@ -366,5 +366,57 @@
     },
     "full_text": "激情水泵，在線噴射💦💦 https://t.co/CFf31muEyf",
     "publish_time": "2025-10-15T13:37:03"
+  },
+  {
+    "file_name": "G3R-qZfbEAAxSAG.jpg",
+    "user": {
+      "screen_name": "r1929979006488",
+      "name": "i"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3R-qZfbEAAxSAG.jpg",
+    "read_time": "2025-10-15T15:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9775,
+      "timestamp": "2025-10-15T15:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 118137,
+      "size_mb": 0.11,
+      "timestamp": "2025-10-15T15:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/j8w1XwKjzb",
+    "publish_time": "2025-10-15T14:21:16"
+  },
+  {
+    "file_name": "G3SBRr6bIAAP4hk.jpg",
+    "user": {
+      "screen_name": "LiugangLogan",
+      "name": "刘刚Logan"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3SBRr6bIAAP4hk.jpg",
+    "read_time": "2025-10-15T15:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9776,
+      "timestamp": "2025-10-15T15:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101168,
+      "size_mb": 0.1,
+      "timestamp": "2025-10-15T15:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "开始变胖 https://t.co/ihHZrFfQdx",
+    "publish_time": "2025-10-15T14:32:41"
   }
 ]
