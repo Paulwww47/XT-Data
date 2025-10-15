@@ -247,7 +247,7 @@
       "success": false,
       "error_type": "api_error",
       "message": "Photo_invalid_dimensions",
-      "timestamp": "2025-10-15T19:02:00",
+      "timestamp": "2025-10-15T20:01:36",
       "notification_sent": false
     },
     "is_downloaded": false,
@@ -255,7 +255,7 @@
       "success": true,
       "size": 19147,
       "size_mb": 0.02,
-      "timestamp": "2025-10-15T19:01:59",
+      "timestamp": "2025-10-15T20:01:34",
       "download_attempts": 0
     },
     "full_text": "#Easy同学正在独立开发 最近折腾了一把语音输入，最终效果还不错🤠  https://t.co/tvnagzs3Dc https://t.co/YquIN5JgmZ",
@@ -275,7 +275,7 @@
       "success": false,
       "error_type": "api_error",
       "message": "Photo_invalid_dimensions",
-      "timestamp": "2025-10-15T19:02:01",
+      "timestamp": "2025-10-15T20:01:38",
       "notification_sent": false
     },
     "is_downloaded": false,
@@ -283,7 +283,7 @@
       "success": true,
       "size": 20436,
       "size_mb": 0.02,
-      "timestamp": "2025-10-15T19:02:00",
+      "timestamp": "2025-10-15T20:01:36",
       "download_attempts": 0
     },
     "full_text": "#Easy同学正在独立开发 最近折腾了一把语音输入，最终效果还不错🤠  https://t.co/tvnagzs3Dc https://t.co/YquIN5JgmZ",
@@ -626,5 +626,83 @@
     },
     "full_text": "需要好的睡眠 https://t.co/3WMU3NXfgT",
     "publish_time": "2025-10-15T18:28:00"
+  },
+  {
+    "file_name": "G3TCeyNaUAAl3lS.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3TCeyNaUAAl3lS.jpg",
+    "read_time": "2025-10-15T20:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9785,
+      "timestamp": "2025-10-15T20:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 97508,
+      "size_mb": 0.09,
+      "timestamp": "2025-10-15T20:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/fGYWdJZvIL",
+    "publish_time": "2025-10-15T19:17:34"
+  },
+  {
+    "file_name": "SX6YM9hKJTpELFxa.mp4",
+    "user": {
+      "screen_name": "YCJ2023",
+      "name": "杨长进"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1978426704067723264/vid/avc1/720x1280/SX6YM9hKJTpELFxa.mp4?tag=21",
+    "read_time": "2025-10-15T20:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9786,
+      "timestamp": "2025-10-15T20:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 631992,
+      "size_mb": 0.6,
+      "timestamp": "2025-10-15T20:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "🤪🧠 https://t.co/8ETjuaZIUX",
+    "publish_time": "2025-10-15T19:44:34"
+  },
+  {
+    "file_name": "G3TLq0xWQAA2Vjm.jpg",
+    "user": {
+      "screen_name": "ran9592",
+      "name": "코란"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3TLq0xWQAA2Vjm.jpg",
+    "read_time": "2025-10-15T20:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9787,
+      "timestamp": "2025-10-15T20:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 140602,
+      "size_mb": 0.13,
+      "timestamp": "2025-10-15T20:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4XOC5iZF82",
+    "publish_time": "2025-10-15T19:57:42"
   }
 ]
