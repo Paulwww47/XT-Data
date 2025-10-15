@@ -247,7 +247,7 @@
       "success": false,
       "error_type": "api_error",
       "message": "Photo_invalid_dimensions",
-      "timestamp": "2025-10-15T13:01:06",
+      "timestamp": "2025-10-15T14:01:37",
       "notification_sent": false
     },
     "is_downloaded": false,
@@ -255,7 +255,7 @@
       "success": true,
       "size": 19147,
       "size_mb": 0.02,
-      "timestamp": "2025-10-15T13:01:04",
+      "timestamp": "2025-10-15T14:01:35",
       "download_attempts": 0
     },
     "full_text": "#Easy同学正在独立开发 最近折腾了一把语音输入，最终效果还不错🤠  https://t.co/tvnagzs3Dc https://t.co/YquIN5JgmZ",
@@ -275,7 +275,7 @@
       "success": false,
       "error_type": "api_error",
       "message": "Photo_invalid_dimensions",
-      "timestamp": "2025-10-15T13:01:08",
+      "timestamp": "2025-10-15T14:01:38",
       "notification_sent": false
     },
     "is_downloaded": false,
@@ -283,7 +283,7 @@
       "success": true,
       "size": 20436,
       "size_mb": 0.02,
-      "timestamp": "2025-10-15T13:01:06",
+      "timestamp": "2025-10-15T14:01:37",
       "download_attempts": 0
     },
     "full_text": "#Easy同学正在独立开发 最近折腾了一把语音输入，最终效果还不错🤠  https://t.co/tvnagzs3Dc https://t.co/YquIN5JgmZ",
@@ -340,5 +340,31 @@
     },
     "full_text": "sansasoom https://t.co/AQYqouplDk",
     "publish_time": "2025-10-15T12:41:19"
+  },
+  {
+    "file_name": "sXYoG-NOBnRhqG_U.mp4",
+    "user": {
+      "screen_name": "liangqu111",
+      "name": "Leo qu"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1978334104509874176/vid/avc1/1280x720/sXYoG-NOBnRhqG_U.mp4?tag=21",
+    "read_time": "2025-10-15T14:01:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9774,
+      "timestamp": "2025-10-15T14:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3281271,
+      "size_mb": 3.13,
+      "timestamp": "2025-10-15T14:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "激情水泵，在線噴射💦💦 https://t.co/CFf31muEyf",
+    "publish_time": "2025-10-15T13:37:03"
   }
 ]
