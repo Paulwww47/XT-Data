@@ -206,5 +206,31 @@
     },
     "full_text": "還有2天 https://t.co/PnLWZn1uKr",
     "publish_time": "2025-10-15T07:52:17"
+  },
+  {
+    "file_name": "G3QueLRbEAAtroa.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3QueLRbEAAtroa.jpg",
+    "read_time": "2025-10-15T09:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9771,
+      "timestamp": "2025-10-15T09:01:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 121955,
+      "size_mb": 0.12,
+      "timestamp": "2025-10-15T09:01:05",
+      "download_attempts": 0
+    },
+    "full_text": "liuweikeee https://t.co/rofZzttF39",
+    "publish_time": "2025-10-15T08:30:54"
   }
 ]
