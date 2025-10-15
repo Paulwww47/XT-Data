@@ -232,5 +232,61 @@
     },
     "full_text": "liuweikeee https://t.co/rofZzttF39",
     "publish_time": "2025-10-15T08:30:54"
+  },
+  {
+    "file_name": "G3Q7ISpbIAAu1sH.jpg",
+    "user": {
+      "screen_name": "easychen",
+      "name": "EasyChen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3Q7ISpbIAAu1sH.jpg",
+    "read_time": "2025-10-15T10:01:04",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Photo_invalid_dimensions",
+      "timestamp": "2025-10-15T10:01:05",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 19147,
+      "size_mb": 0.02,
+      "timestamp": "2025-10-15T10:01:04",
+      "download_attempts": 0
+    },
+    "full_text": "#Easy同学正在独立开发 最近折腾了一把语音输入，最终效果还不错🤠  https://t.co/tvnagzs3Dc https://t.co/YquIN5JgmZ",
+    "publish_time": "2025-10-15T09:26:56"
+  },
+  {
+    "file_name": "G3Q7MDhbsAAG8jp.jpg",
+    "user": {
+      "screen_name": "easychen",
+      "name": "EasyChen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3Q7MDhbsAAG8jp.jpg",
+    "read_time": "2025-10-15T10:01:04",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Photo_invalid_dimensions",
+      "timestamp": "2025-10-15T10:01:06",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 20436,
+      "size_mb": 0.02,
+      "timestamp": "2025-10-15T10:01:05",
+      "download_attempts": 0
+    },
+    "full_text": "#Easy同学正在独立开发 最近折腾了一把语音输入，最终效果还不错🤠  https://t.co/tvnagzs3Dc https://t.co/YquIN5JgmZ",
+    "publish_time": "2025-10-15T09:26:56"
   }
 ]

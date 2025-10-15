@@ -124,5 +124,22 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1978257237241151522",
     "fullText": "liuweikeee https://t.co/rofZzttF39",
     "publishTime": "2025-10-15T08:30:54"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3Q7ISpbIAAu1sH.jpg",
+      "https://pbs.twimg.com/media/G3Q7MDhbsAAG8jp.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [
+      "https://ft07.com/mac-voice-input-journey/"
+    ],
+    "tweetUrl": "https://x.com/easychen/status/1978271340424515723",
+    "fullText": "#Easy同学正在独立开发 最近折腾了一把语音输入，最终效果还不错🤠  https://t.co/tvnagzs3Dc https://t.co/YquIN5JgmZ",
+    "publishTime": "2025-10-15T09:26:56"
   }
 ]
