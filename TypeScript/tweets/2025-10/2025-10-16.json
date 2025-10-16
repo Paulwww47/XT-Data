@@ -365,5 +365,35 @@
     "tweetUrl": "https://x.com/youdi/status/1978714106015191389",
     "fullText": "https://t.co/0EzslXgNR1",
     "publishTime": "2025-10-16T14:46:20"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3XWesJaQAAhy8m.jpg",
+      "https://pbs.twimg.com/media/G3XWesbaQAAxSk3.jpg",
+      "https://pbs.twimg.com/media/G3XWesJaEAAFjRA.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1978723440355119455",
+    "fullText": "野好 https://t.co/JPEEr3EwR3",
+    "publishTime": "2025-10-16T15:23:25"
+  },
+  {
+    "user": {
+      "screenName": "captainshagang",
+      "name": "沙岗队长"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3XepV1aIAARGQ5.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/captainshagang/status/1978732419617300672",
+    "fullText": "每天下午眯一会 https://t.co/iomaQvR51z",
+    "publishTime": "2025-10-16T15:59:06"
   }
 ]
