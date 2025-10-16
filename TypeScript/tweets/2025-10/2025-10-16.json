@@ -509,5 +509,33 @@
     "tweetUrl": "https://x.com/r1929979006488/status/1978805877059538953",
     "fullText": "https://t.co/6SOwYfHqu2",
     "publishTime": "2025-10-16T20:51:00"
+  },
+  {
+    "user": {
+      "screenName": "rrrrrrig_",
+      "name": "嗷呜有劲"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1978822733984391168/vid/avc1/720x1280/cZCPDya6euj6gIwU.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/rrrrrrig_/status/1978823083973619937",
+    "fullText": "舔～ 我草！舔～ 我草！ https://t.co/ouTzHFc53Y",
+    "publishTime": "2025-10-16T21:59:22"
+  },
+  {
+    "user": {
+      "screenName": "KevinLeeYoung92",
+      "name": "KevinLeeYoung"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3YxUQFagAA2FYt.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/KevinLeeYoung92/status/1978823322977571240",
+    "fullText": "https://t.co/HJ6E79KYkM",
+    "publishTime": "2025-10-16T22:00:19"
   }
 ]

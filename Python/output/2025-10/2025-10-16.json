@@ -1038,5 +1038,57 @@
     },
     "full_text": "https://t.co/6SOwYfHqu2",
     "publish_time": "2025-10-16T20:51:00"
+  },
+  {
+    "file_name": "cZCPDya6euj6gIwU.mp4",
+    "user": {
+      "screen_name": "rrrrrrig_",
+      "name": "嗷呜有劲"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1978822733984391168/vid/avc1/720x1280/cZCPDya6euj6gIwU.mp4?tag=21",
+    "read_time": "2025-10-16T22:01:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9832,
+      "timestamp": "2025-10-16T22:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 35155556,
+      "size_mb": 33.53,
+      "timestamp": "2025-10-16T22:01:07",
+      "download_attempts": 0
+    },
+    "full_text": "舔～ 我草！舔～ 我草！ https://t.co/ouTzHFc53Y",
+    "publish_time": "2025-10-16T21:59:22"
+  },
+  {
+    "file_name": "G3YxUQFagAA2FYt.jpg",
+    "user": {
+      "screen_name": "KevinLeeYoung92",
+      "name": "KevinLeeYoung"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3YxUQFagAA2FYt.jpg",
+    "read_time": "2025-10-16T22:01:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9833,
+      "timestamp": "2025-10-16T22:01:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 69625,
+      "size_mb": 0.07,
+      "timestamp": "2025-10-16T22:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/HJ6E79KYkM",
+    "publish_time": "2025-10-16T22:00:19"
   }
 ]
