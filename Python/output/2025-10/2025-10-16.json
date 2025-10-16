@@ -518,5 +518,57 @@
     },
     "full_text": "https://t.co/CUPazhuMFO",
     "publish_time": "2025-10-16T09:53:42"
+  },
+  {
+    "file_name": "G3Wdph3WsAAMzcP.jpg",
+    "user": {
+      "screen_name": "Louiewe123",
+      "name": "Louiewe卤蛋头"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3Wdph3WsAAMzcP.jpg",
+    "read_time": "2025-10-16T12:00:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9812,
+      "timestamp": "2025-10-16T12:01:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 104803,
+      "size_mb": 0.1,
+      "timestamp": "2025-10-16T12:01:01",
+      "download_attempts": 0
+    },
+    "full_text": "王府系列所有内容已更新完！感谢大家对于《王府秘史》的支持和反馈，想要的宝贝可以点击下方链接观看。\n\n完整版请访问：\nhttps://t.co/Sua7sAVMZP https://t.co/jLaMWtHXt0",
+    "publish_time": "2025-10-16T11:15:09"
+  },
+  {
+    "file_name": "HZoGCvfvzU68QqsS.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1978661176964972544/vid/avc1/624x832/HZoGCvfvzU68QqsS.mp4?tag=14",
+    "read_time": "2025-10-16T12:00:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9813,
+      "timestamp": "2025-10-16T12:01:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1112253,
+      "size_mb": 1.06,
+      "timestamp": "2025-10-16T12:01:04",
+      "download_attempts": 0
+    },
+    "full_text": "【2025年10月16日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/3w3xM3NRQB",
+    "publish_time": "2025-10-16T11:16:27"
   }
 ]
