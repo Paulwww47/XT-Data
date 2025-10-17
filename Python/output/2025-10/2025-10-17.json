@@ -258,5 +258,31 @@
     },
     "full_text": "korgi_is_home https://t.co/g3IzhWZ6vs",
     "publish_time": "2025-10-17T15:03:45"
+  },
+  {
+    "file_name": "G3cz1SjWIAA1gVb.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3cz1SjWIAA1gVb.jpg",
+    "read_time": "2025-10-17T17:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9864,
+      "timestamp": "2025-10-17T17:01:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 80644,
+      "size_mb": 0.08,
+      "timestamp": "2025-10-17T17:01:24",
+      "download_attempts": 0
+    },
+    "full_text": "dylanblued https://t.co/wlPnXg3QnW",
+    "publish_time": "2025-10-17T16:49:46"
   }
 ]
