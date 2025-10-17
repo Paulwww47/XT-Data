@@ -40,14 +40,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (188MB > 50MB)",
       "timestamp": "2025-10-18T02:02:21",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 197753500,
       "size_mb": 188.59,
-      "timestamp": "2025-10-18T02:02:21",
+      "timestamp": "2025-10-18T03:01:53",
       "download_attempts": 0
     },
     "full_text": "mastersim5 https://t.co/oKyBrGaEgf",
