@@ -232,5 +232,31 @@
     },
     "full_text": "shawn_liew https://t.co/629G8U5yV2",
     "publish_time": "2025-10-17T14:52:09"
+  },
+  {
+    "file_name": "G3cbkRhXcAAvIfN.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3cbkRhXcAAvIfN.jpg",
+    "read_time": "2025-10-17T16:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9863,
+      "timestamp": "2025-10-17T16:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 140824,
+      "size_mb": 0.13,
+      "timestamp": "2025-10-17T16:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "korgi_is_home https://t.co/g3IzhWZ6vs",
+    "publish_time": "2025-10-17T15:03:45"
   }
 ]
