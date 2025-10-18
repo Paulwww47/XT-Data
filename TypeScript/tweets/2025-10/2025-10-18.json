@@ -195,5 +195,49 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1979367391231643735",
     "fullText": "yian.zay1 https://t.co/PAsI02NMR2",
     "publishTime": "2025-10-18T10:02:15"
+  },
+  {
+    "user": {
+      "screenName": "jiejiejiejie666",
+      "name": "许愿胸肌"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3gyRPBW4AABc00.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/jiejiejiejie666/status/1979387317665325177",
+    "fullText": "morning https://t.co/jR9Oya1Qw2",
+    "publishTime": "2025-10-18T11:21:26"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1979382885619490816/vid/avc1/720x1280/jE8ZGC_TK0D7hJJk.mp4?tag=14"
+    ],
+    "expandUrls": [
+      "https://download.omate.org/omate-1.6.0-pro-b168.apk"
+    ],
+    "tweetUrl": "https://x.com/easychen/status/1979390456590221719",
+    "fullText": "#Easy同学正在独立开发  OMate1.6: 带图聊天上线。看得见 · 更懂你 。内测下载地址  https://t.co/xqLNQsJd6E https://t.co/ElLhGolJ4M",
+    "publishTime": "2025-10-18T11:33:54"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "mens daily"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3g2TtDXwAAs5n5.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1979391758187532458",
+    "fullText": "alvin_oooooi https://t.co/fPOApcWKg8",
+    "publishTime": "2025-10-18T11:39:05"
   }
 ]
