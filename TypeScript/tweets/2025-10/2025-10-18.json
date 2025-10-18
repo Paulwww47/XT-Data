@@ -638,5 +638,35 @@
     "tweetUrl": "https://x.com/youdi/status/1979562168686412195",
     "fullText": "https://t.co/q9GtD4d43S",
     "publishTime": "2025-10-18T22:56:14"
+  },
+  {
+    "user": {
+      "screenName": "Xiongdaha",
+      "name": "雄大哈(20 号北京)"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1979564693078298624/vid/avc1/720x1280/yE6VJ3565Wyp785d.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Xiongdaha/status/1979564783038030125",
+    "fullText": "体验了一把打桩机🫨压着我疯狂输出打桩一个半小时，结束腿都软了🥲 https://t.co/LJWOGMAlrN",
+    "publishTime": "2025-10-18T23:06:37"
+  },
+  {
+    "user": {
+      "screenName": "FinalNoC",
+      "name": "final No C"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3jWrqeWIAAsqBQ.jpg",
+      "https://pbs.twimg.com/media/G3jWrpuWQAA3s6w.jpg",
+      "https://pbs.twimg.com/media/G3jWrpqX0AAWpr8.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/FinalNoC/status/1979568088527020456",
+    "fullText": "又是一个大树挂辣椒… https://t.co/LkpiS7hRfX",
+    "publishTime": "2025-10-18T23:19:45"
   }
 ]
