@@ -694,14 +694,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (185MB > 50MB)",
       "timestamp": "2025-10-18T16:02:29",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 194838058,
       "size_mb": 185.81,
-      "timestamp": "2025-10-18T16:02:29",
+      "timestamp": "2025-10-18T17:01:36",
       "download_attempts": 0
     },
     "full_text": "dukehunky https://t.co/ifqGRwTtO1",
@@ -784,5 +784,135 @@
     },
     "full_text": "dukehunky https://t.co/O4D4ptEJxP",
     "publish_time": "2025-10-18T15:13:37"
+  },
+  {
+    "file_name": "G3h5x8mW4AE_6EJ.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3h5x8mW4AE_6EJ.jpg",
+    "read_time": "2025-10-18T17:01:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9914,
+      "timestamp": "2025-10-18T17:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 132320,
+      "size_mb": 0.13,
+      "timestamp": "2025-10-18T17:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "06 dukehunky 合集 https://t.co/giCZjV3o5x",
+    "publish_time": "2025-10-18T16:33:54"
+  },
+  {
+    "file_name": "G3h5x7cWUAAjFCE.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3h5x7cWUAAjFCE.jpg",
+    "read_time": "2025-10-18T17:01:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9915,
+      "timestamp": "2025-10-18T17:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 135897,
+      "size_mb": 0.13,
+      "timestamp": "2025-10-18T17:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "06 dukehunky 合集 https://t.co/giCZjV3o5x",
+    "publish_time": "2025-10-18T16:33:54"
+  },
+  {
+    "file_name": "G3h5x8QWAAEM-29.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3h5x8QWAAEM-29.jpg",
+    "read_time": "2025-10-18T17:01:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9916,
+      "timestamp": "2025-10-18T17:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 125052,
+      "size_mb": 0.12,
+      "timestamp": "2025-10-18T17:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "06 dukehunky 合集 https://t.co/giCZjV3o5x",
+    "publish_time": "2025-10-18T16:33:54"
+  },
+  {
+    "file_name": "G3h5x88XQAAFmqQ.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3h5x88XQAAFmqQ.jpg",
+    "read_time": "2025-10-18T17:01:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9917,
+      "timestamp": "2025-10-18T17:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 137857,
+      "size_mb": 0.13,
+      "timestamp": "2025-10-18T17:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "06 dukehunky 合集 https://t.co/giCZjV3o5x",
+    "publish_time": "2025-10-18T16:33:54"
+  },
+  {
+    "file_name": "G3h8lwJWoAAiUUc.jpg",
+    "user": {
+      "screen_name": "fanglangnantu",
+      "name": "放浪男徒"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3h8lwJWoAAiUUc.jpg",
+    "read_time": "2025-10-18T17:01:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9918,
+      "timestamp": "2025-10-18T17:01:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 86866,
+      "size_mb": 0.08,
+      "timestamp": "2025-10-18T17:01:49",
+      "download_attempts": 0
+    },
+    "full_text": "这人@mrkizs 粉丝比我还多 偷下我发过或者下架的视频和图片 还装作是本人视频 大家小心被骗 好几个地方看他用赛奇mrkizs署名 想想很气人 在国外粉丝帮我举报一下 https://t.co/6NGqr2gCHx",
+    "publish_time": "2025-10-18T16:46:18"
   }
 ]
