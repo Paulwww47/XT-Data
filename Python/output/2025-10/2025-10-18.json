@@ -1174,5 +1174,57 @@
     },
     "full_text": "https://t.co/ByPjmDFmNH",
     "publish_time": "2025-10-18T20:52:18"
+  },
+  {
+    "file_name": "G3i30MlXkAA-ldp.jpg",
+    "user": {
+      "screen_name": "easychen",
+      "name": "EasyChen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3i30MlXkAA-ldp.jpg",
+    "read_time": "2025-10-18T22:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9929,
+      "timestamp": "2025-10-18T22:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 93849,
+      "size_mb": 0.09,
+      "timestamp": "2025-10-18T22:01:23",
+      "download_attempts": 0
+    },
+    "full_text": "#Easy同学正在独立开发 划词不止能翻译，Select2AI，可以将划词内容发送给 AI 进行自定义加工，然后复制到剪贴板、回填、下载为文件或者发送给 Server 酱。\n\n最狠的是还支持随文字同步发送截图，可以将网页上的数据一键整理为 Markdown 表格和 CSV。自用一周效率提升明显，感兴趣的同学可以试试 https://t.co/RvYm1lgzDC",
+    "publish_time": "2025-10-18T21:05:12"
+  },
+  {
+    "file_name": "G3i6cBHXAAA1wP2.jpg",
+    "user": {
+      "screen_name": "easychen",
+      "name": "EasyChen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3i6cBHXAAA1wP2.jpg",
+    "read_time": "2025-10-18T22:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9930,
+      "timestamp": "2025-10-18T22:01:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 104588,
+      "size_mb": 0.1,
+      "timestamp": "2025-10-18T22:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "#Easy同学正在独立开发  AI 给我带来最大的时间节省第一是写代码，第二是写文档。第三就是生成各种上架商店的资料之类的，比如图中这个，把代码丢给它生成，直接节省半小时到一小时 https://t.co/hvju1MRzZh",
+    "publish_time": "2025-10-18T21:16:23"
   }
 ]
