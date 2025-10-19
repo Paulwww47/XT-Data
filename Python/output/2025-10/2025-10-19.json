@@ -206,5 +206,31 @@
     },
     "full_text": "andrewhhl https://t.co/rsRCsTwES7",
     "publish_time": "2025-10-19T09:53:38"
+  },
+  {
+    "file_name": "G3lscqsWgAAoFY4.jpg",
+    "user": {
+      "screen_name": "captainshagang",
+      "name": "沙岗队长"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3lscqsWgAAoFY4.jpg",
+    "read_time": "2025-10-19T11:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9947,
+      "timestamp": "2025-10-19T11:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 166375,
+      "size_mb": 0.16,
+      "timestamp": "2025-10-19T11:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "一夜入秋🍂 https://t.co/BW5m4PHXYs",
+    "publish_time": "2025-10-19T10:14:06"
   }
 ]
