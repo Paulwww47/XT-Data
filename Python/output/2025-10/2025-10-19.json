@@ -830,5 +830,83 @@
     },
     "full_text": "https://t.co/uEawU8vVN8",
     "publish_time": "2025-10-19T16:41:35"
+  },
+  {
+    "file_name": "G3nJpNAWMAAaDLQ.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3nJpNAWMAAaDLQ.jpg",
+    "read_time": "2025-10-19T18:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9971,
+      "timestamp": "2025-10-19T18:01:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 153103,
+      "size_mb": 0.15,
+      "timestamp": "2025-10-19T18:01:02",
+      "download_attempts": 0
+    },
+    "full_text": "arshmanyzyz https://t.co/OxC5vP6bd8",
+    "publish_time": "2025-10-19T17:01:16"
+  },
+  {
+    "file_name": "G3nPCalXoAA7wdo.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3nPCalXoAA7wdo.jpg",
+    "read_time": "2025-10-19T18:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9972,
+      "timestamp": "2025-10-19T18:01:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 205086,
+      "size_mb": 0.2,
+      "timestamp": "2025-10-19T18:01:04",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/YuyqJ8rmgQ",
+    "publish_time": "2025-10-19T17:24:50"
+  },
+  {
+    "file_name": "G3nPCacWUAAwJVD.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "mens daily"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3nPCacWUAAwJVD.jpg",
+    "read_time": "2025-10-19T18:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 9973,
+      "timestamp": "2025-10-19T18:01:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 139820,
+      "size_mb": 0.13,
+      "timestamp": "2025-10-19T18:01:06",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/YuyqJ8rmgQ",
+    "publish_time": "2025-10-19T17:24:50"
   }
 ]
