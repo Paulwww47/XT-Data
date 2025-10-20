@@ -1116,5 +1116,57 @@
     },
     "full_text": "chen_yong_1125 https://t.co/2I6wYS4Nsc",
     "publish_time": "2025-10-20T19:00:03"
+  },
+  {
+    "file_name": "G3suyK-W4AE0oBZ.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G3suyK-W4AE0oBZ.jpg",
+    "read_time": "2025-10-20T20:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 10035,
+      "timestamp": "2025-10-20T20:01:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 205452,
+      "size_mb": 0.2,
+      "timestamp": "2025-10-20T20:01:23",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/XzQmWWXxuL",
+    "publish_time": "2025-10-20T19:01:38"
+  },
+  {
+    "file_name": "Q8IyrQWY3G-F7Ilo.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1980238793308319744/vid/avc1/720x1280/Q8IyrQWY3G-F7Ilo.mp4?tag=21",
+    "read_time": "2025-10-20T20:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 10036,
+      "timestamp": "2025-10-20T20:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 10256248,
+      "size_mb": 9.78,
+      "timestamp": "2025-10-20T20:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "老人去一年一度的遊行有哪些意義？ https://t.co/e1mbCZxpbI",
+    "publish_time": "2025-10-20T19:45:49"
   }
 ]

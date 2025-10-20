@@ -508,5 +508,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1980227506801463459",
     "fullText": "chen_yong_1125 https://t.co/2I6wYS4Nsc",
     "publishTime": "2025-10-20T19:00:03"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3suyK-W4AE0oBZ.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1980227907378434259",
+    "fullText": "https://t.co/XzQmWWXxuL",
+    "publishTime": "2025-10-20T19:01:38"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1980238793308319744/vid/avc1/720x1280/Q8IyrQWY3G-F7Ilo.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1980239024611819908",
+    "fullText": "老人去一年一度的遊行有哪些意義？ https://t.co/e1mbCZxpbI",
+    "publishTime": "2025-10-20T19:45:49"
   }
 ]
