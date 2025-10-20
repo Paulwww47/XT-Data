@@ -141,5 +141,61 @@
     "tweetUrl": "https://x.com/r1929979006488/status/1980087998093074903",
     "fullText": "形状好明显 https://t.co/l3p0zIZUe0",
     "publishTime": "2025-10-20T09:45:41"
+  },
+  {
+    "user": {
+      "screenName": "captainshagang",
+      "name": "沙岗队长"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3q3ZawXMAAd9FG.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/captainshagang/status/1980096640829796645",
+    "fullText": "https://t.co/BzqmVM7nhL",
+    "publishTime": "2025-10-20T10:20:02"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3q4L3hXgAATiqZ.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1980097506953552225",
+    "fullText": "yyeddy https://t.co/SQuyXDi0j6",
+    "publishTime": "2025-10-20T10:23:28"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G3q4Pj-WoAAL1M0.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1980097572258906225",
+    "fullText": "iamleontw89 https://t.co/4PvhsmmIr6",
+    "publishTime": "2025-10-20T10:23:44"
+  },
+  {
+    "user": {
+      "screenName": "SZionbaba",
+      "name": "zionbaba"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1980098667076857856/pu/vid/avc1/720x960/Yl-tRugo7vYsu_2y.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/SZionbaba/status/1980098685347541423",
+    "fullText": "从来没买到过能包裹完的✈️🍺 https://t.co/VA2dRbh7SQ",
+    "publishTime": "2025-10-20T10:28:09"
   }
 ]
