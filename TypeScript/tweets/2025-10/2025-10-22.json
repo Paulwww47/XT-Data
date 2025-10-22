@@ -166,5 +166,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1980757088130490585",
     "fullText": "https://t.co/HDIandkVXe",
     "publishTime": "2025-10-22T06:04:25"
+  },
+  {
+    "user": {
+      "screenName": "josephmrkao",
+      "name": "185籃球體育生Joseph"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "http://portaly.cc/Josephmrkao"
+    ],
+    "tweetUrl": "https://x.com/josephmrkao/status/1980772713104044206",
+    "fullText": "https://t.co/P5HW26Y5Q8",
+    "publishTime": "2025-10-22T07:06:30"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G30fZ85XgAAFzIA.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1980773948469178689",
+    "fullText": "https://t.co/UZAav0Qocp",
+    "publishTime": "2025-10-22T07:11:24"
   }
 ]
