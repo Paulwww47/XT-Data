@@ -310,5 +310,57 @@
     },
     "full_text": "https://t.co/3GlDvn24E8",
     "publish_time": "2025-10-23T05:23:39"
+  },
+  {
+    "file_name": "zrus9DRndPMClfIg.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1981131641234829312/vid/avc1/720x1280/zrus9DRndPMClfIg.mp4?tag=21",
+    "read_time": "2025-10-23T07:01:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 10180,
+      "timestamp": "2025-10-23T07:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 12575877,
+      "size_mb": 11.99,
+      "timestamp": "2025-10-23T07:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "都還沒整理準備預訂 https://t.co/WCHWtFk6W7",
+    "publish_time": "2025-10-23T06:53:23"
+  },
+  {
+    "file_name": "G35micaXwAAUYD-.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G35micaXwAAUYD-.jpg",
+    "read_time": "2025-10-23T07:01:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 10181,
+      "timestamp": "2025-10-23T07:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 198649,
+      "size_mb": 0.19,
+      "timestamp": "2025-10-23T07:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/rVh5Vawbh4",
+    "publish_time": "2025-10-23T07:00:41"
   }
 ]

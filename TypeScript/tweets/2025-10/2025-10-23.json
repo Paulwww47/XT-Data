@@ -113,5 +113,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1981109219018613174",
     "fullText": "https://t.co/3GlDvn24E8",
     "publishTime": "2025-10-23T05:23:39"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1981131641234829312/vid/avc1/720x1280/zrus9DRndPMClfIg.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1981131801352687672",
+    "fullText": "都還沒整理準備預訂 https://t.co/WCHWtFk6W7",
+    "publishTime": "2025-10-23T06:53:23"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G35micaXwAAUYD-.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1981133637447012465",
+    "fullText": "https://t.co/rVh5Vawbh4",
+    "publishTime": "2025-10-23T07:00:41"
   }
 ]
