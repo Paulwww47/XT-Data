@@ -570,5 +570,57 @@
     },
     "full_text": "laputazk https://t.co/TSqwjooHop",
     "publish_time": "2025-10-22T09:44:08"
+  },
+  {
+    "file_name": "G31IQAZWwAEBqXn.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G31IQAZWwAEBqXn.jpg",
+    "read_time": "2025-10-22T11:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 10132,
+      "timestamp": "2025-10-22T11:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 103844,
+      "size_mb": 0.1,
+      "timestamp": "2025-10-22T11:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/PTNeOqGTVZ",
+    "publish_time": "2025-10-22T10:09:53"
+  },
+  {
+    "file_name": "IBY6e2ivkmn69y-c.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1980822304612311041/vid/avc1/720x1280/IBY6e2ivkmn69y-c.mp4?tag=14",
+    "read_time": "2025-10-22T11:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 10133,
+      "timestamp": "2025-10-22T11:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4454209,
+      "size_mb": 4.25,
+      "timestamp": "2025-10-22T11:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "【2025年10月22日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/0DwdDl04J3",
+    "publish_time": "2025-10-22T10:23:48"
   }
 ]
