@@ -714,5 +714,31 @@
     "tweetUrl": "https://x.com/youdi/status/1981590758722568677",
     "fullText": "https://t.co/6cqw3Fwp9F",
     "publishTime": "2025-10-24T13:17:07"
+  },
+  {
+    "user": {
+      "screenName": "huohuo0707330",
+      "name": "嚯"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/huohuo0707330/status/1981605588170875183",
+    "fullText": "没事儿刷推也不能打开小红书的关注页\n怎么都tm这么好看😭",
+    "publishTime": "2025-10-24T14:16:03"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4AZfo-XgAErTe7.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1981611903802831171",
+    "fullText": "https://t.co/sj5aWqLL1p",
+    "publishTime": "2025-10-24T14:41:09"
   }
 ]
