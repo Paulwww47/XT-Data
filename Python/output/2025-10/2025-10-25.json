@@ -1350,5 +1350,33 @@
     },
     "full_text": "trophymuscle https://t.co/3dU2unBFJD",
     "publish_time": "2025-10-25T19:44:07"
+  },
+  {
+    "file_name": "d9nFkZDnfd-FZyZ-.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1982050956561821696/vid/avc1/1080x1920/d9nFkZDnfd-FZyZ-.mp4?tag=21",
+    "read_time": "2025-10-25T21:01:30",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (84MB > 50MB)",
+      "timestamp": "2025-10-25T21:01:38",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 88835624,
+      "size_mb": 84.72,
+      "timestamp": "2025-10-25T21:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "trophymuscle https://t.co/WP6KMZ2Gwx",
+    "publish_time": "2025-10-25T20:15:42"
   }
 ]
