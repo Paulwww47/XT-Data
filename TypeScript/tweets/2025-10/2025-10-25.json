@@ -636,5 +636,19 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1982037489847275971",
     "fullText": "https://t.co/POdxZxIpaD",
     "publishTime": "2025-10-25T18:52:16"
+  },
+  {
+    "user": {
+      "screenName": "maletease",
+      "name": "MaleTease"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1982046356693721088/vid/avc1/608x1080/2Bnpz9cSk2tDMESE.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/maletease/status/1982050536317935843",
+    "fullText": "trophymuscle https://t.co/3dU2unBFJD",
+    "publishTime": "2025-10-25T19:44:07"
   }
 ]
