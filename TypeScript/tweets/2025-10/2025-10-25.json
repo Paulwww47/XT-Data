@@ -436,5 +436,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1981963927560024083",
     "fullText": "tuby0525 https://t.co/inxl9rTzXc",
     "publishTime": "2025-10-25T13:59:58"
+  },
+  {
+    "user": {
+      "screenName": "neon385908",
+      "name": "ne on"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1981971230417625088/vid/avc1/720x1280/6yVBjfVHYO56W302.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/neon385908/status/1981971302513549680",
+    "fullText": "植物农 https://t.co/kmTIq4628c",
+    "publishTime": "2025-10-25T14:29:16"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4FirywXoAAv-m0.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1981973824515031433",
+    "fullText": "https://t.co/YMYo5WB96U",
+    "publishTime": "2025-10-25T14:39:17"
+  },
+  {
+    "user": {
+      "screenName": "SSS_MarkMark",
+      "name": "列文马克（10.25-31北京）"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4FlA1PXkAA4L9u.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/SSS_MarkMark/status/1981976395912974840",
+    "fullText": "Food delivery 😃 https://t.co/rAwqvb6uze",
+    "publishTime": "2025-10-25T14:49:30"
   }
 ]
