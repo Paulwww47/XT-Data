@@ -1430,5 +1430,31 @@
     },
     "full_text": "0013 trophymuscle https://t.co/rY1ZGqbDJe",
     "publish_time": "2025-10-25T21:16:33"
+  },
+  {
+    "file_name": "saf8Tm2fShL1rQNp.mp4",
+    "user": {
+      "screen_name": "FinalNoC",
+      "name": "final No C"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1982091527720415232/vid/avc1/720x1280/saf8Tm2fShL1rQNp.mp4?tag=21",
+    "read_time": "2025-10-25T23:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 10375,
+      "timestamp": "2025-10-25T23:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1847759,
+      "size_mb": 1.76,
+      "timestamp": "2025-10-25T23:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "好聪明啊，一教就会，让张嘴就张嘴，让吸就吸 https://t.co/cTvlaDtz1i",
+    "publish_time": "2025-10-25T22:27:15"
   }
 ]
