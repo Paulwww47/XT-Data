@@ -518,5 +518,31 @@
     },
     "full_text": "https://t.co/MMVB60mfOY",
     "publish_time": "2025-10-26T10:54:58"
+  },
+  {
+    "file_name": "G4J-GlfXgAAMoTu.jpg",
+    "user": {
+      "screen_name": "LiugangLogan",
+      "name": "刘刚Logan"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G4J-GlfXgAAMoTu.jpg",
+    "read_time": "2025-10-26T12:01:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 10401,
+      "timestamp": "2025-10-26T12:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 117106,
+      "size_mb": 0.11,
+      "timestamp": "2025-10-26T12:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "谁喜欢的光脚？评论区认领一下 https://t.co/Cvgv32Wmw2",
+    "publish_time": "2025-10-26T11:17:34"
   }
 ]
