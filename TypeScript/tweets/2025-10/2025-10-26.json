@@ -355,5 +355,31 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1982331752585859237",
     "fullText": "syusyusyupo https://t.co/CvlSjiCEW2",
     "publishTime": "2025-10-26T14:21:34"
+  },
+  {
+    "user": {
+      "screenName": "neon385908",
+      "name": "ne on"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/neon385908/status/1982355193208725949",
+    "fullText": "尼玛护照丢了",
+    "publishTime": "2025-10-26T15:54:43"
+  },
+  {
+    "user": {
+      "screenName": "captainshagang",
+      "name": "沙岗队长"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4K-szcWwAAzsvo.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/captainshagang/status/1982356471112487402",
+    "fullText": "又到了高弹当秋衣秋裤的季节😬 https://t.co/lL1WgmlMAF",
+    "publishTime": "2025-10-26T15:59:47"
   }
 ]
