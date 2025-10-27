@@ -240,5 +240,19 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1982672551882203179",
     "fullText": "https://t.co/5rrlnTpTGC",
     "publishTime": "2025-10-27T12:55:47"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4PfxpMWkAEwtP2.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1982674314613944399",
+    "fullText": "https://t.co/xshS58ENyw",
+    "publishTime": "2025-10-27T13:02:47"
   }
 ]
