@@ -1450,12 +1450,38 @@
     }
   },
   {
+    "restId": "1980908462453469184",
+    "legacy": {
+      "name": "JB4QJ",
+      "screenName": "jb4qj",
+      "createdAt": "Wed Oct 22 08:06:18 +0000 2025",
+      "description": "小众原创 完整内容比预览更精彩\n防失联：https://t.co/0C1hqtcyTs",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "t.me/jubao4quanjia6…",
+              "expanded_url": "http://t.me/jubao4quanjia666666",
+              "url": "https://t.co/0C1hqtcyTs",
+              "indices": [
+                20,
+                43
+              ]
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1980908558733778944/Mlwi8v_I_normal.png"
+    }
+  },
+  {
     "restId": "1423948049617850378",
     "legacy": {
       "name": "杰尼龟🐢",
       "screenName": "Jeff07751908",
       "createdAt": "Sat Aug 07 10:04:19 +0000 2021",
-      "description": "",
+      "description": "想看什么私信我， v🚪66",
       "entities": {
         "description": {
           "urls": []
@@ -1692,7 +1718,7 @@
       "name": "IVK",
       "screenName": "klspbr",
       "createdAt": "Sun Feb 25 15:35:50 +0000 2024",
-      "description": "喜欢模子哥 含有成人内容仅限18+🔞 辨别正确看待 投稿/版权可私信",
+      "description": "喜欢模子哥 小众/Boy art 含有成人内容仅限18+🔞 辨别正确看待 投稿/版权可私信",
       "entities": {
         "description": {
           "urls": []
@@ -2587,7 +2613,7 @@
       "name": "鸡肉卷",
       "screenName": "Salha_dh",
       "createdAt": "Thu Feb 09 04:44:59 +0000 2012",
-      "description": "原创\n纸飞机群预览图已更新到☞NO.69☜",
+      "description": "原创\n纸飞机群预览图已更新到☞NO.70☜",
       "entities": {
         "description": {
           "urls": []
