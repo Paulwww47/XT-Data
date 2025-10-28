@@ -702,5 +702,24 @@
     "tweetUrl": "https://x.com/Leon_pan999/status/1983151891422064836",
     "fullText": "这也太… https://t.co/vRIKfaCGaO",
     "publishTime": "2025-10-28T20:40:30"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4Wflv-acAA-T-v.jpg",
+      "https://pbs.twimg.com/media/G4WfqySasAYrrfS.jpg",
+      "https://pbs.twimg.com/media/G4WfudPaYAEsInd.jpg",
+      "https://pbs.twimg.com/media/G4WfyIXbAAAX6rI.png"
+    ],
+    "videos": [],
+    "expandUrls": [
+      "https://sc3.ft07.com/mcp"
+    ],
+    "tweetUrl": "https://x.com/easychen/status/1983166913409888264",
+    "fullText": "#Easy同学正在独立开发 wegent 配合 Server酱MCP（ https://t.co/gwwul8RNkZ ） 挺好用，弄完了可以在手机收到通知。就是细节还可以优化下，比如那个 git仓库的搜索不太灵，我这个几百个仓库经常要找半天；以及任务不能暂停和重来。\n\n话说… https://t.co/QwnPGIfow5",
+    "publishTime": "2025-10-28T21:40:12"
   }
 ]
