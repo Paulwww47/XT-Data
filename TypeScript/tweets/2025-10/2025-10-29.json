@@ -283,5 +283,36 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1983411614507561224",
     "fullText": "https://t.co/Y5T8hCEQYj",
     "publishTime": "2025-10-29T13:52:33"
+  },
+  {
+    "user": {
+      "screenName": "captainshagang",
+      "name": "沙岗队长"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4aD4fgagAIGKTw.jpg",
+      "https://pbs.twimg.com/media/G4aD4fgasAIOwPM.jpg",
+      "https://pbs.twimg.com/media/G4aD4fhbYAA7OGs.jpg",
+      "https://pbs.twimg.com/media/G4aD4fnaMAE3vAi.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/captainshagang/status/1983417698941055232",
+    "fullText": "🤍白色高弹驭帅13 https://t.co/JLEipyk7SM",
+    "publishTime": "2025-10-29T14:16:44"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4aExbRasAArmsE.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1983418675752473026",
+    "fullText": "https://t.co/WcpXO7E3H7",
+    "publishTime": "2025-10-29T14:20:37"
   }
 ]
