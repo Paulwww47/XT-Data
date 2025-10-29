@@ -559,5 +559,33 @@
     "tweetUrl": "https://x.com/AlwynShown/status/1983507256315457591",
     "fullText": "👤 https://t.co/Orju5V2vhX",
     "publishTime": "2025-10-29T20:12:36"
+  },
+  {
+    "user": {
+      "screenName": "Talismanian",
+      "name": "Talisman"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4bhNfWaYAA5dcc.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Talismanian/status/1983520325875994648",
+    "fullText": "🦵🏻 https://t.co/kme70r1Emi",
+    "publishTime": "2025-10-29T21:04:32"
+  },
+  {
+    "user": {
+      "screenName": "Jeff07751908",
+      "name": "杰尼龟🐢"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1983524318480138241/vid/avc1/720x1280/P1RY4kVcnWEWXmOH.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Jeff07751908/status/1983524401032339825",
+    "fullText": "这个杯子真的超级舒服 https://t.co/1JPmZJ2AGx",
+    "publishTime": "2025-10-29T21:20:43"
   }
 ]

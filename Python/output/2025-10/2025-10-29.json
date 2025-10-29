@@ -1298,5 +1298,57 @@
     },
     "full_text": "👤 https://t.co/Orju5V2vhX",
     "publish_time": "2025-10-29T20:12:36"
+  },
+  {
+    "file_name": "G4bhNfWaYAA5dcc.jpg",
+    "user": {
+      "screen_name": "Talismanian",
+      "name": "Talisman"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G4bhNfWaYAA5dcc.jpg",
+    "read_time": "2025-10-29T22:01:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 10583,
+      "timestamp": "2025-10-29T22:01:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 199942,
+      "size_mb": 0.19,
+      "timestamp": "2025-10-29T22:01:06",
+      "download_attempts": 0
+    },
+    "full_text": "🦵🏻 https://t.co/kme70r1Emi",
+    "publish_time": "2025-10-29T21:04:32"
+  },
+  {
+    "file_name": "P1RY4kVcnWEWXmOH.mp4",
+    "user": {
+      "screen_name": "Jeff07751908",
+      "name": "杰尼龟🐢"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1983524318480138241/vid/avc1/720x1280/P1RY4kVcnWEWXmOH.mp4?tag=21",
+    "read_time": "2025-10-29T22:01:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 10584,
+      "timestamp": "2025-10-29T22:01:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3908819,
+      "size_mb": 3.73,
+      "timestamp": "2025-10-29T22:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "这个杯子真的超级舒服 https://t.co/1JPmZJ2AGx",
+    "publish_time": "2025-10-29T21:20:43"
   }
 ]
