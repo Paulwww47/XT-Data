@@ -501,5 +501,48 @@
     "tweetUrl": "https://x.com/youdi/status/1983488624235888881",
     "fullText": "https://t.co/nop2raQuZE",
     "publishTime": "2025-10-29T18:58:34"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4bJvToaAAAksZ0.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1983494506117742970",
+    "fullText": "https://t.co/lOAvw5KUaI",
+    "publishTime": "2025-10-29T19:21:56"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4bLMB7akAAwHZk.jpg",
+      "https://pbs.twimg.com/media/G4bLNWUbYAABoxb.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/easychen/status/1983496134933832081",
+    "fullText": "#Easy同学正在独立开发 Google 搞了个 pomelli，可以根据官网生成营销素材。用OMate官网测试了下，还算能用。不过现在经常超时 😂 https://t.co/LTxwMEztUq",
+    "publishTime": "2025-10-29T19:28:24"
+  },
+  {
+    "user": {
+      "screenName": "xiaofeilius",
+      "name": "小肥刘"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4bSDzxboAAAo43.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/xiaofeilius/status/1983503669908709411",
+    "fullText": "在累50天 https://t.co/2S8R05apTw",
+    "publishTime": "2025-10-29T19:58:21"
   }
 ]
