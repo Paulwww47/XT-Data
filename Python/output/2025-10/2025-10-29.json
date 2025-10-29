@@ -1444,14 +1444,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (55MB > 50MB)",
       "timestamp": "2025-10-29T23:01:32",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 58095161,
       "size_mb": 55.4,
-      "timestamp": "2025-10-29T23:01:32",
+      "timestamp": "2025-10-30T00:01:13",
       "download_attempts": 0
     },
     "full_text": "想看什么留言 https://t.co/vEaIfSJY2F",
@@ -1482,5 +1482,57 @@
     },
     "full_text": "王府系列所有内容已更新完！感谢大家对于《王府秘史》的支持和反馈，想要的宝贝可以点击下方链接观看。\n\n完整版请访问：\nhttps://t.co/Sua7sAWkPn https://t.co/M0Ti3yFrmD",
     "publish_time": "2025-10-29T22:34:02"
+  },
+  {
+    "file_name": "D-QX9TR3K8NkeUiO.mp4",
+    "user": {
+      "screen_name": "klspbr",
+      "name": "小帅气"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1983550318622154752/pu/vid/avc1/720x1280/D-QX9TR3K8NkeUiO.mp4?tag=12",
+    "read_time": "2025-10-30T00:01:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 10589,
+      "timestamp": "2025-10-30T00:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2139096,
+      "size_mb": 2.04,
+      "timestamp": "2025-10-30T00:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "有点害羞😳 太好看啦 https://t.co/UNyjGqyawN",
+    "publish_time": "2025-10-29T23:03:58"
+  },
+  {
+    "file_name": "G4cB3G0a4AAN1oT.jpg",
+    "user": {
+      "screen_name": "xidaojun1",
+      "name": "🐺西岛"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G4cB3G0a4AAN1oT.jpg",
+    "read_time": "2025-10-30T00:01:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 10590,
+      "timestamp": "2025-10-30T00:01:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 51845,
+      "size_mb": 0.05,
+      "timestamp": "2025-10-30T00:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "💦 https://t.co/IgANhonSYU",
+    "publish_time": "2025-10-29T23:27:08"
   }
 ]
