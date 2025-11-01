@@ -232,5 +232,57 @@
     },
     "full_text": "https://t.co/hzatz7Bi2G",
     "publish_time": "2025-11-02T02:12:04"
+  },
+  {
+    "file_name": "ad_S64m8CfMFCqit.mp4",
+    "user": {
+      "screen_name": "klspbr",
+      "name": "小帅气"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1984701625319972864/pu/vid/avc1/720x1280/ad_S64m8CfMFCqit.mp4?tag=12",
+    "read_time": "2025-11-02T04:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 10782,
+      "timestamp": "2025-11-02T04:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7539992,
+      "size_mb": 7.19,
+      "timestamp": "2025-11-02T04:01:24",
+      "download_attempts": 0
+    },
+    "full_text": "18岁的小辉总 直男 https://t.co/GOA3fos649",
+    "publish_time": "2025-11-02T03:19:19"
+  },
+  {
+    "file_name": "G4sUUkPbQAIxy5B.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G4sUUkPbQAIxy5B.jpg",
+    "read_time": "2025-11-02T04:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 10783,
+      "timestamp": "2025-11-02T04:01:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 99227,
+      "size_mb": 0.09,
+      "timestamp": "2025-11-02T04:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "_eayon_ https://t.co/PFu2N90Ja4",
+    "publish_time": "2025-11-02T03:21:43"
   }
 ]
