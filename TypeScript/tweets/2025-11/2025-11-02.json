@@ -40,5 +40,61 @@
     "tweetUrl": "https://x.com/youdi/status/1984665200365355054",
     "fullText": "https://t.co/RiJfUmwjkV",
     "publishTime": "2025-11-02T00:53:51"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4r6pbibQAQRxD6.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1984674177698447599",
+    "fullText": "https://t.co/pHOVU7iUME",
+    "publishTime": "2025-11-02T01:29:32"
+  },
+  {
+    "user": {
+      "screenName": "klspbr",
+      "name": "小帅气"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1984676940402360320/pu/vid/avc1/720x1280/suAqlCOG1hwovH3G.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/klspbr/status/1984677116865024236",
+    "fullText": "好帅啊 喜欢到冒泡泡 https://t.co/1mXXeJml8Z",
+    "publishTime": "2025-11-02T01:41:12"
+  },
+  {
+    "user": {
+      "screenName": "klspbr",
+      "name": "小帅气"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://x.com/klspbr/status/1984677116865024236?t=W3bVnyAJyk_7lVUsHt_jjQ&s=19"
+    ],
+    "tweetUrl": "https://x.com/klspbr/status/1984677528062115960",
+    "fullText": "一分钟版\nhttps://t.co/8tKKDuLNpF",
+    "publishTime": "2025-11-02T01:42:50"
+  },
+  {
+    "user": {
+      "screenName": "klspbr",
+      "name": "小帅气"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4sACLpXUAAFCt0.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/klspbr/status/1984680103180452333",
+    "fullText": "贴一张帅照哦 https://t.co/uZBBppJaHc",
+    "publishTime": "2025-11-02T01:53:04"
   }
 ]
