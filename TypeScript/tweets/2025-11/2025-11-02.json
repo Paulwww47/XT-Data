@@ -307,5 +307,33 @@
     "tweetUrl": "https://x.com/captainshagang/status/1984811508862456189",
     "fullText": "🥷🦶🏻 https://t.co/gHiLYkxMq9",
     "publishTime": "2025-11-02T10:35:14"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4uEl__bQAA9zPv.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1984825851855454335",
+    "fullText": "https://t.co/5kTpb9ecUp",
+    "publishTime": "2025-11-02T11:32:14"
+  },
+  {
+    "user": {
+      "screenName": "Exp_lam",
+      "name": "~Exp(λ)"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4uKRJwbgAAnKWL.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Exp_lam/status/1984832117772337249",
+    "fullText": "https://t.co/kERauSKstO",
+    "publishTime": "2025-11-02T11:57:07"
   }
 ]
