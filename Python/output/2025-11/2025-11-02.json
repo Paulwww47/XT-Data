@@ -986,5 +986,31 @@
     },
     "full_text": "yezihan1994 https://t.co/QPaZGj37pH",
     "publish_time": "2025-11-02T16:46:05"
+  },
+  {
+    "file_name": "G4vP2dUasAAdwlM.mp4",
+    "user": {
+      "screen_name": "KevinLeeYoung92",
+      "name": "KevinLeeYoung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/G4vP2dUasAAdwlM.mp4",
+    "read_time": "2025-11-02T18:01:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 10811,
+      "timestamp": "2025-11-02T18:01:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 38524,
+      "size_mb": 0.04,
+      "timestamp": "2025-11-02T18:01:02",
+      "download_attempts": 0
+    },
+    "full_text": "6号上海🙋 https://t.co/LLSoGCn3VM",
+    "publish_time": "2025-11-02T17:01:05"
   }
 ]
