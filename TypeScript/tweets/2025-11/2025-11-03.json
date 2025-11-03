@@ -69,5 +69,19 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1985092571702739009",
     "fullText": "https://t.co/WtSzhBfyaS",
     "publishTime": "2025-11-03T05:12:04"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1985131919898804224/vid/avc1/720x1280/_OvJO329Se1D5RSY.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1985131998751740411",
+    "fullText": "https://t.co/vckCBAKVcF",
+    "publishTime": "2025-11-03T07:48:45"
   }
 ]
