@@ -586,7 +586,7 @@
       "name": "Chris",
       "screenName": "Chris_SDD",
       "createdAt": "Thu Dec 12 14:32:34 +0000 2013",
-      "description": "• Artist & Illustrator • he/they • My Ko-fi link: https://t.co/gEiABr2Lnm • Tumblr: https://t.co/Tvc7dJzn47",
+      "description": "• Artist & Illustrator • he/they • My Ko-fi link: https://t.co/gEiABr2Lnm • Tumblr: https://t.co/Tvc7dJzn47\n• Patreon: https://t.co/JMKmGKbcSv",
       "entities": {
         "description": {
           "urls": [
@@ -606,6 +606,15 @@
               "indices": [
                 84,
                 107
+              ]
+            },
+            {
+              "display_url": "patreon.com/chrissdd",
+              "expanded_url": "https://www.patreon.com/chrissdd",
+              "url": "https://t.co/JMKmGKbcSv",
+              "indices": [
+                119,
+                142
               ]
             }
           ]
