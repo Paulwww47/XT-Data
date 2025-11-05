@@ -805,5 +805,19 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1986023981447872862",
     "fullText": "https://t.co/IsqThi44z1",
     "publishTime": "2025-11-05T18:53:10"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4_dJZCaoAAUphh.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/easychen/status/1986049267107295603",
+    "fullText": "刚发现还能添加网页 😃 https://t.co/X2S6kHhhjv",
+    "publishTime": "2025-11-05T20:33:38"
   }
 ]
