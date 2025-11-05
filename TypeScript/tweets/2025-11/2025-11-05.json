@@ -765,5 +765,45 @@
     "tweetUrl": "https://x.com/Chris_SDD/status/1986001742048141764",
     "fullText": "Alt version up on https://t.co/lRn7q8uuME !",
     "publishTime": "2025-11-05T17:24:48"
+  },
+  {
+    "user": {
+      "screenName": "SSS_MarkMark",
+      "name": "列文马克"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/SSS_MarkMark/status/1986014754511741294",
+    "fullText": "好想有一颗大蛋蛋…为什么我的蛋这么小",
+    "publishTime": "2025-11-05T18:16:30"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4_F_ijbkAAyST-.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1986023662244520264",
+    "fullText": "julianzhangyan https://t.co/ngwtDCPyzv",
+    "publishTime": "2025-11-05T18:51:54"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G4_GSF_bgAEVMqJ.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1986023981447872862",
+    "fullText": "https://t.co/IsqThi44z1",
+    "publishTime": "2025-11-05T18:53:10"
   }
 ]
