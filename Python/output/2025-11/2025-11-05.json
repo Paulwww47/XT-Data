@@ -388,5 +388,57 @@
     },
     "full_text": "link_zaun https://t.co/o9a6hc9q7X",
     "publish_time": "2025-11-05T04:57:24"
+  },
+  {
+    "file_name": "G48uR5ybAAAlYiZ.jpg",
+    "user": {
+      "screen_name": "r1929979006488",
+      "name": "i"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G48uR5ybAAAlYiZ.jpg",
+    "read_time": "2025-11-05T08:00:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 10965,
+      "timestamp": "2025-11-05T08:00:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 107760,
+      "size_mb": 0.1,
+      "timestamp": "2025-11-05T08:00:36",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/SntWz3r5hv",
+    "publish_time": "2025-11-05T07:49:03"
+  },
+  {
+    "file_name": "G48uVTnbQAACTFI.jpg",
+    "user": {
+      "screen_name": "r1929979006488",
+      "name": "i"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G48uVTnbQAACTFI.jpg",
+    "read_time": "2025-11-05T08:00:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 10966,
+      "timestamp": "2025-11-05T08:00:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 145747,
+      "size_mb": 0.14,
+      "timestamp": "2025-11-05T08:00:39",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/TCBLGEq9mh",
+    "publish_time": "2025-11-05T07:49:17"
   }
 ]
