@@ -943,5 +943,50 @@
     "tweetUrl": "https://x.com/ssslll05/status/1986400186810171636",
     "fullText": "快手666 https://t.co/sBGlA1AqlH",
     "publishTime": "2025-11-06T19:48:04"
+  },
+  {
+    "user": {
+      "screenName": "luckygu56139221",
+      "name": "艾克斯X"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5EhgBca4AA4WQo.jpg",
+      "https://pbs.twimg.com/media/G5EhgB8awAAJ2rl.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/luckygu56139221/status/1986405786269196467",
+    "fullText": "这样就不用打码了 https://t.co/q6q6HP7nar",
+    "publishTime": "2025-11-06T20:10:19"
+  },
+  {
+    "user": {
+      "screenName": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1986410485957496832/vid/avc1/720x992/95BMMg5qzZvkaGAF.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/MuscleHunterX/status/1986410576680264125",
+    "fullText": "可圈可点 https://t.co/1ZYZnTfaRM",
+    "publishTime": "2025-11-06T20:29:21"
+  },
+  {
+    "user": {
+      "screenName": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5EryO4aoAADL-B.jpg",
+      "https://pbs.twimg.com/media/G5EryO4bIAgaPOh.jpg",
+      "https://pbs.twimg.com/media/G5EryO3bIAMtyi9.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/markma58304799/status/1986417065532793032",
+    "fullText": "增了两个月毫无长进 https://t.co/DdQhyhLgv4",
+    "publishTime": "2025-11-06T20:55:08"
   }
 ]
