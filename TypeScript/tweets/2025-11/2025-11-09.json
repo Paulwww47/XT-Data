@@ -84,5 +84,33 @@
     "tweetUrl": "https://x.com/MJ_lvS/status/1987257811357802697",
     "fullText": "https://t.co/1MJTAc48Nf",
     "publishTime": "2025-11-09T04:35:58"
+  },
+  {
+    "user": {
+      "screenName": "MJ_lvS",
+      "name": "张平白"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://x.com/i/spaces/1ynJOMWeAqyKR"
+    ],
+    "tweetUrl": "https://x.com/MJ_lvS/status/1987270996240502908",
+    "fullText": "https://t.co/ECwtxpzqkY",
+    "publishTime": "2025-11-09T05:28:21"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5Q0sMvbwAAy-L8.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1987271274058633560",
+    "fullText": "erichd https://t.co/P6QrjGK8YT",
+    "publishTime": "2025-11-09T05:29:28"
   }
 ]
