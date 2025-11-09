@@ -1142,5 +1142,111 @@
     },
     "full_text": "https://t.co/vPx8Y3Li6b",
     "publish_time": "2025-11-09T17:59:49"
+  },
+  {
+    "file_name": "G5TmQ5LaEAAa46h.jpg",
+    "user": {
+      "screen_name": "QingyWilderness",
+      "name": "青野Aono"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G5TmQ5LaEAAa46h.jpg",
+    "read_time": "2025-11-09T19:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 11309,
+      "timestamp": "2025-11-09T19:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 111609,
+      "size_mb": 0.11,
+      "timestamp": "2025-11-09T19:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "存货多的发不完了慢慢来吧.jpg https://t.co/VyDSHVXREN",
+    "publish_time": "2025-11-09T18:25:17"
+  },
+  {
+    "file_name": "G5TmQ42bEAANEdZ.jpg",
+    "user": {
+      "screen_name": "QingyWilderness",
+      "name": "青野Aono"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G5TmQ42bEAANEdZ.jpg",
+    "read_time": "2025-11-09T19:01:32",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-11-09T19:01:57",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 107349,
+      "size_mb": 0.1,
+      "timestamp": "2025-11-09T19:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "存货多的发不完了慢慢来吧.jpg https://t.co/VyDSHVXREN",
+    "publish_time": "2025-11-09T18:25:17"
+  },
+  {
+    "file_name": "G5TsXQrbAAEuj7Y.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G5TsXQrbAAEuj7Y.jpg",
+    "read_time": "2025-11-09T19:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 11310,
+      "timestamp": "2025-11-09T19:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 126012,
+      "size_mb": 0.12,
+      "timestamp": "2025-11-09T19:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "quebaner https://t.co/Sa2h6KjYwu",
+    "publish_time": "2025-11-09T18:51:57"
+  },
+  {
+    "file_name": "G5TscBnbYAA-Gep.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G5TscBnbYAA-Gep.jpg",
+    "read_time": "2025-11-09T19:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 11311,
+      "timestamp": "2025-11-09T19:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 115452,
+      "size_mb": 0.11,
+      "timestamp": "2025-11-09T19:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/a0eaaPAmSO",
+    "publish_time": "2025-11-09T18:52:16"
   }
 ]
