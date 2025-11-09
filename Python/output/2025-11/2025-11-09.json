@@ -414,5 +414,57 @@
     },
     "full_text": "https://t.co/RjyALNh0Sj",
     "publish_time": "2025-11-09T08:26:08"
+  },
+  {
+    "file_name": "KMF4zgH3MQGiGPRI.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1987328472906436608/vid/avc1/720x1280/KMF4zgH3MQGiGPRI.mp4?tag=21",
+    "read_time": "2025-11-09T10:00:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 11279,
+      "timestamp": "2025-11-09T10:00:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 14538332,
+      "size_mb": 13.86,
+      "timestamp": "2025-11-09T10:00:44",
+      "download_attempts": 0
+    },
+    "full_text": "早 https://t.co/pLZniPoyUA",
+    "publish_time": "2025-11-09T09:17:15"
+  },
+  {
+    "file_name": "G5Rq74-aMAEKhHz.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G5Rq74-aMAEKhHz.jpg",
+    "read_time": "2025-11-09T10:00:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 11280,
+      "timestamp": "2025-11-09T10:00:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101302,
+      "size_mb": 0.1,
+      "timestamp": "2025-11-09T10:00:48",
+      "download_attempts": 0
+    },
+    "full_text": "tum_marnin https://t.co/B3jvjmTCFD",
+    "publish_time": "2025-11-09T09:26:28"
   }
 ]
