@@ -50,5 +50,31 @@
     },
     "full_text": "https://t.co/qcwEg1r5vG",
     "publish_time": "2025-11-12T01:31:46"
+  },
+  {
+    "file_name": "G5fq6rcbcAMhRMV.jpg",
+    "user": {
+      "screen_name": "Alfred_yh_",
+      "name": "机械臂Luk"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G5fq6rcbcAMhRMV.jpg",
+    "read_time": "2025-11-12T03:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 11474,
+      "timestamp": "2025-11-12T03:01:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 102469,
+      "size_mb": 0.1,
+      "timestamp": "2025-11-12T03:00:59",
+      "download_attempts": 0
+    },
+    "full_text": "什么时候才能发live https://t.co/YDVDRRfO7I",
+    "publish_time": "2025-11-12T02:41:08"
   }
 ]
