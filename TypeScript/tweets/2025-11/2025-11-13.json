@@ -125,5 +125,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1988714267215032436",
     "fullText": "imjasperz https://t.co/stUFp6UY1Y",
     "publishTime": "2025-11-13T05:03:24"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5mKdlMacAAP3yz.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1988772953904017542",
+    "fullText": "https://t.co/AFhLCZP8Uc",
+    "publishTime": "2025-11-13T08:56:36"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1958594371005120512/vid/avc1/720x1280/ma0yDMOUygc_MsYW.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1988772991006863585",
+    "fullText": "https://t.co/jzXphC7Yq2",
+    "publishTime": "2025-11-13T08:56:45"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G5mKmd1acAIjSW9.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1988773106199196033",
+    "fullText": "https://t.co/6rIg4UyiS7",
+    "publishTime": "2025-11-13T08:57:12"
   }
 ]
