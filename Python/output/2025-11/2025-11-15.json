@@ -1360,20 +1360,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1989639771128582145/vid/avc1/720x1280/ex-qFY-0nn6Bygey.mp4?tag=14",
     "read_time": "2025-11-15T19:00:56",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-11-15T19:01:41",
-      "notification_sent": false
+      "success": true,
+      "message_id": 11737,
+      "timestamp": "2025-11-15T20:01:13"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 3352418,
       "size_mb": 3.2,
-      "timestamp": "2025-11-15T19:01:21",
+      "timestamp": "2025-11-15T20:01:09",
       "download_attempts": 0
     },
     "full_text": "北京石油二代 穿着收藏款球鞋紧身裤球袜球衣 在家给主人做狗 一口一个打球打的再好也是主人的狗 无比羞耻 用球鞋玩几把最后喷射高高的浓精 https://t.co/FROFIHo7tX",
@@ -1482,5 +1480,109 @@
     },
     "full_text": "我与抖音势不两立 啊啊啊啊啊 https://t.co/hGIreXXKeO",
     "publish_time": "2025-11-15T18:50:49"
+  },
+  {
+    "file_name": "G5yuQEWbkAMG1dS.jpg",
+    "user": {
+      "screen_name": "lim002066971",
+      "name": "稀饭粥粥"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G5yuQEWbkAMG1dS.jpg",
+    "read_time": "2025-11-15T20:01:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 11738,
+      "timestamp": "2025-11-15T20:01:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 214100,
+      "size_mb": 0.2,
+      "timestamp": "2025-11-15T20:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "练了 https://t.co/DmdR2A1nk5",
+    "publish_time": "2025-11-15T19:28:34"
+  },
+  {
+    "file_name": "G5yuQEXawAEeq_9.jpg",
+    "user": {
+      "screen_name": "lim002066971",
+      "name": "稀饭粥粥"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G5yuQEXawAEeq_9.jpg",
+    "read_time": "2025-11-15T20:01:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 11739,
+      "timestamp": "2025-11-15T20:01:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 193386,
+      "size_mb": 0.18,
+      "timestamp": "2025-11-15T20:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "练了 https://t.co/DmdR2A1nk5",
+    "publish_time": "2025-11-15T19:28:34"
+  },
+  {
+    "file_name": "G5yuQEUaIAAavJI.jpg",
+    "user": {
+      "screen_name": "lim002066971",
+      "name": "稀饭粥粥"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G5yuQEUaIAAavJI.jpg",
+    "read_time": "2025-11-15T20:01:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 11740,
+      "timestamp": "2025-11-15T20:01:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 185972,
+      "size_mb": 0.18,
+      "timestamp": "2025-11-15T20:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "练了 https://t.co/DmdR2A1nk5",
+    "publish_time": "2025-11-15T19:28:34"
+  },
+  {
+    "file_name": "G5yzMFfbAAAxjgT.jpg",
+    "user": {
+      "screen_name": "Leon_pan999",
+      "name": "Leon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G5yzMFfbAAAxjgT.jpg",
+    "read_time": "2025-11-15T20:01:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 11741,
+      "timestamp": "2025-11-15T20:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 72884,
+      "size_mb": 0.07,
+      "timestamp": "2025-11-15T20:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "还是得亲自上手教啊🤔 https://t.co/f4jzO1gzXC",
+    "publish_time": "2025-11-15T19:50:03"
   }
 ]
