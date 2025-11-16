@@ -53,5 +53,49 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1989845477815456017",
     "fullText": "https://t.co/yWTyXeOI41",
     "publishTime": "2025-11-16T07:58:26"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G51a_9SbQAEUHv_.jpg",
+      "https://pbs.twimg.com/media/G51a_9VbkAYkEdg.jpg",
+      "https://pbs.twimg.com/media/G51a_9SbIAAIA6v.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1989846671086555208",
+    "fullText": "https://t.co/EC2Gj1qm9B",
+    "publishTime": "2025-11-16T08:03:10"
+  },
+  {
+    "user": {
+      "screenName": "rrrrrrig_",
+      "name": "嗷呜有劲"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1989848500763586560/vid/avc1/1280x720/eN-sViJYeIn7I3tf.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/rrrrrrig_/status/1989848748097450231",
+    "fullText": "https://t.co/YZRbvXSvUP",
+    "publishTime": "2025-11-16T08:11:25"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1989851050455748608/vid/avc1/720x1280/1BgkK6vLuIZlQ_0q.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1989851128142705046",
+    "fullText": "外面好吵 https://t.co/KcAwldoOdX",
+    "publishTime": "2025-11-16T08:20:53"
   }
 ]
