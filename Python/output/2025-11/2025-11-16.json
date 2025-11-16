@@ -1386,20 +1386,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1990021671798095873/vid/avc1/480x854/C9ysrJJONWaYoNqC.mp4?tag=14",
     "read_time": "2025-11-16T20:01:37",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-11-16T20:02:24",
-      "notification_sent": false
+      "success": true,
+      "message_id": 11816,
+      "timestamp": "2025-11-16T21:00:56"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 329804,
       "size_mb": 0.31,
-      "timestamp": "2025-11-16T20:02:04",
+      "timestamp": "2025-11-16T21:00:53",
       "download_attempts": 0
     },
     "full_text": "2米职业篮球运动员训练后的49码大脚 https://t.co/pvOo6aB1HK",
@@ -1466,20 +1464,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/ext_tw_video/1990022477963997184/pu/vid/avc1/720x1280/WqajnF7Tu71BEpgW.mp4?tag=12",
     "read_time": "2025-11-16T20:01:37",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-11-16T20:03:16",
-      "notification_sent": false
+      "success": true,
+      "message_id": 11817,
+      "timestamp": "2025-11-16T21:00:59"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 5302988,
       "size_mb": 5.06,
-      "timestamp": "2025-11-16T20:02:55",
+      "timestamp": "2025-11-16T21:00:56",
       "download_attempts": 0
     },
     "full_text": "不爱弄这种手搓5nm 纯爱心 今天也是认证爱你的形状🫶 https://t.co/pXG8w1cDSA",
@@ -1614,5 +1610,161 @@
     },
     "full_text": "https://t.co/GmKBwNsoHC",
     "publish_time": "2025-11-16T19:57:51"
+  },
+  {
+    "file_name": "ZyLctUVqiZGvWVP3.mp4",
+    "user": {
+      "screen_name": "r1929979006488",
+      "name": "i"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1990028058699702272/vid/avc1/1280x592/ZyLctUVqiZGvWVP3.mp4?tag=21",
+    "read_time": "2025-11-16T21:00:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 11818,
+      "timestamp": "2025-11-16T21:01:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 869663,
+      "size_mb": 0.83,
+      "timestamp": "2025-11-16T21:00:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/K3ynktTDLn",
+    "publish_time": "2025-11-16T20:04:05"
+  },
+  {
+    "file_name": "G54DyRRXQAAyw_e.jpg",
+    "user": {
+      "screen_name": "luckygu56139221",
+      "name": "艾克斯X"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G54DyRRXQAAyw_e.jpg",
+    "read_time": "2025-11-16T21:00:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 11819,
+      "timestamp": "2025-11-16T21:01:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 107042,
+      "size_mb": 0.1,
+      "timestamp": "2025-11-16T21:01:01",
+      "download_attempts": 0
+    },
+    "full_text": "辣鸡后侧链，需要个魔鬼筋肉s教练狠狠的拷打了。 https://t.co/zYDMUNCUtx",
+    "publish_time": "2025-11-16T20:20:37"
+  },
+  {
+    "file_name": "G54D40GbMAAK8ZV.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 邮递员"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G54D40GbMAAK8ZV.jpg",
+    "read_time": "2025-11-16T21:00:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 11820,
+      "timestamp": "2025-11-16T21:01:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 161164,
+      "size_mb": 0.15,
+      "timestamp": "2025-11-16T21:01:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/PaxNOZ8NWU",
+    "publish_time": "2025-11-16T20:22:00"
+  },
+  {
+    "file_name": "Z4rr903iORtgNpSH.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1990038484741238784/vid/avc1/720x878/Z4rr903iORtgNpSH.mp4?tag=21",
+    "read_time": "2025-11-16T21:00:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 11821,
+      "timestamp": "2025-11-16T21:01:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 625235,
+      "size_mb": 0.6,
+      "timestamp": "2025-11-16T21:01:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/OW7HrGfMhK",
+    "publish_time": "2025-11-16T20:45:37"
+  },
+  {
+    "file_name": "G54KK3_aUAIe21w.jpg",
+    "user": {
+      "screen_name": "liangguai1",
+      "name": "亮拐"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G54KK3_aUAIe21w.jpg",
+    "read_time": "2025-11-16T21:00:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 11822,
+      "timestamp": "2025-11-16T21:01:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 178868,
+      "size_mb": 0.17,
+      "timestamp": "2025-11-16T21:01:03",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/shGk4HSFqx",
+    "publish_time": "2025-11-16T20:48:36"
+  },
+  {
+    "file_name": "G54LY_qbEAADdu4.jpg",
+    "user": {
+      "screen_name": "wzhimself",
+      "name": "hebe（武汉）互推"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G54LY_qbEAADdu4.jpg",
+    "read_time": "2025-11-16T21:00:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 11823,
+      "timestamp": "2025-11-16T21:01:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 59419,
+      "size_mb": 0.06,
+      "timestamp": "2025-11-16T21:01:04",
+      "download_attempts": 0
+    },
+    "full_text": "武汉 换照合适可约 https://t.co/OVPXLTz3Ia",
+    "publish_time": "2025-11-16T20:53:51"
   }
 ]
