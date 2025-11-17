@@ -417,5 +417,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1990328562273120400",
     "fullText": "https://t.co/mINs8PDnN2",
     "publishTime": "2025-11-17T15:58:02"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G58TpcyaQAAuiYl.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1990331168970182918",
+    "fullText": "joe_yuanbao https://t.co/1HZQA4yZP4",
+    "publishTime": "2025-11-17T16:08:23"
+  },
+  {
+    "user": {
+      "screenName": "klspbr",
+      "name": "小帅气"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1990341675206524929/pu/vid/avc1/544x960/ZjDz2_xkqKs5n-to.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/klspbr/status/1990341828046983264",
+    "fullText": "其他现场视角 事件原因暂不明确 https://t.co/RYLJpOyzGI",
+    "publishTime": "2025-11-17T16:50:45"
   }
 ]

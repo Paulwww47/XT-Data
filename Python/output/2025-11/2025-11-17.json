@@ -1012,5 +1012,57 @@
     },
     "full_text": "https://t.co/mINs8PDnN2",
     "publish_time": "2025-11-17T15:58:02"
+  },
+  {
+    "file_name": "G58TpcyaQAAuiYl.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G58TpcyaQAAuiYl.jpg",
+    "read_time": "2025-11-17T17:01:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 11878,
+      "timestamp": "2025-11-17T17:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 91573,
+      "size_mb": 0.09,
+      "timestamp": "2025-11-17T17:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "joe_yuanbao https://t.co/1HZQA4yZP4",
+    "publish_time": "2025-11-17T16:08:23"
+  },
+  {
+    "file_name": "ZjDz2_xkqKs5n-to.mp4",
+    "user": {
+      "screen_name": "klspbr",
+      "name": "小帅气"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1990341675206524929/pu/vid/avc1/544x960/ZjDz2_xkqKs5n-to.mp4?tag=12",
+    "read_time": "2025-11-17T17:01:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 11879,
+      "timestamp": "2025-11-17T17:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1676559,
+      "size_mb": 1.6,
+      "timestamp": "2025-11-17T17:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "其他现场视角 事件原因暂不明确 https://t.co/RYLJpOyzGI",
+    "publish_time": "2025-11-17T16:50:45"
   }
 ]
