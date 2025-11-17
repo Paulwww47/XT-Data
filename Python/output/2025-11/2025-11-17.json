@@ -1626,14 +1626,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (79MB > 50MB)",
       "timestamp": "2025-11-18T00:02:26",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 83540220,
       "size_mb": 79.67,
-      "timestamp": "2025-11-18T00:02:26",
+      "timestamp": "2025-11-18T01:01:27",
       "download_attempts": 0
     },
     "full_text": "阿凯\n這次屁眼被支配的爽感有點不太妙……part.2 - FansOne 讓創作更有價值 https://t.co/fTp1pq0bs3",
