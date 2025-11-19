@@ -262,5 +262,63 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1990990344838926783",
     "fullText": "kitebaby1 https://t.co/C0MAUhgVTy",
     "publishTime": "2025-11-19T11:47:43"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6Fqa4raIAE_si_.jpg",
+      "https://pbs.twimg.com/media/G6FqdawbgAA9fu_.jpg",
+      "https://pbs.twimg.com/media/G6FqgEWbMAANBF0.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/easychen/status/1990995340582137861",
+    "fullText": "#Easy同学正在独立开发 Google 的 Antigravity 也来了，可以免费用 Gemini 3 Pro。意外的还能用 claude sonnet 4.5 ……  给的额度不详，看起来是冲着 ClaudeCode 的额度去的，也是 5 小时的配额限制。\n\n唯一的问题是，Antigravity  貌似没有选项可以 disable http2，要开全局… https://t.co/XScSGQl7d6",
+    "publishTime": "2025-11-19T12:07:34"
+  },
+  {
+    "user": {
+      "screenName": "Love_Nelson1",
+      "name": "Magnificent（苏州）"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Love_Nelson1/status/1990996963685511412",
+    "fullText": "在苏州",
+    "publishTime": "2025-11-19T12:14:01"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6F1H_DaAAAT6SW.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1991001295029956654",
+    "fullText": "xybxcb https://t.co/1tTwhyr6cH",
+    "publishTime": "2025-11-19T12:31:14"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6F1STAa8AAH0p5.jpg",
+      "https://pbs.twimg.com/media/G6F1SMea0AAITGq.jpg",
+      "https://pbs.twimg.com/media/G6F1SMgagAA7av9.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1991001472017052152",
+    "fullText": "yuhsiang0101 https://t.co/HLqME1FdBZ",
+    "publishTime": "2025-11-19T12:31:56"
   }
 ]
