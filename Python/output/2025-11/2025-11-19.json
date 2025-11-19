@@ -1464,20 +1464,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1991093240779755521/vid/avc1/1280x590/tMZMLbXvOqQuis0L.mp4?tag=21",
     "read_time": "2025-11-19T19:00:44",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "timestamp": "2025-11-19T19:01:24",
-      "notification_sent": false
+      "success": true,
+      "message_id": 12055,
+      "timestamp": "2025-11-19T20:01:30"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 1274237,
       "size_mb": 1.22,
-      "timestamp": "2025-11-19T19:01:04",
+      "timestamp": "2025-11-19T20:01:27",
       "download_attempts": 0
     },
     "full_text": "有没有熊s 来私信一下 \n只要胖s 胖狗 https://t.co/KUSLHKHMf0",
@@ -1560,5 +1558,31 @@
     },
     "full_text": "https://t.co/LZX0WhLWdp",
     "publish_time": "2025-11-19T18:53:55"
+  },
+  {
+    "file_name": "mmiIvp92DmasvsBo.mp4",
+    "user": {
+      "screen_name": "klspbr",
+      "name": "小帅气"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1991110681593081856/pu/vid/avc1/720x1280/mmiIvp92DmasvsBo.mp4?tag=12",
+    "read_time": "2025-11-19T20:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12056,
+      "timestamp": "2025-11-19T20:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5307371,
+      "size_mb": 5.06,
+      "timestamp": "2025-11-19T20:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "可爱又大 好喜欢哪 https://t.co/Bb4U17u5NN",
+    "publish_time": "2025-11-19T19:47:03"
   }
 ]
