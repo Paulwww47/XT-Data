@@ -320,5 +320,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1991001472017052152",
     "fullText": "yuhsiang0101 https://t.co/HLqME1FdBZ",
     "publishTime": "2025-11-19T12:31:56"
+  },
+  {
+    "user": {
+      "screenName": "LiugangLogan",
+      "name": "刘刚Logan"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6F8z5obMAQ0WL0.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/LiugangLogan/status/1991009750075732283",
+    "fullText": "https://t.co/D1IZzghaRa",
+    "publishTime": "2025-11-19T13:04:50"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6F_e50aoAAX920.jpg",
+      "https://pbs.twimg.com/media/G6F_e5zboAAhsp4.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1991012686818390330",
+    "fullText": "https://t.co/f96ujRPlJ9",
+    "publishTime": "2025-11-19T13:16:30"
   }
 ]
