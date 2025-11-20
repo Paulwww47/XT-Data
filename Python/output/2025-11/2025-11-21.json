@@ -164,20 +164,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G6OtxAXacAMloV_.jpg",
     "read_time": "2025-11-21T06:01:41",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-11-21T06:02:02",
-      "notification_sent": false
+      "success": true,
+      "message_id": 12152,
+      "timestamp": "2025-11-21T07:02:14"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 113902,
       "size_mb": 0.11,
-      "timestamp": "2025-11-21T06:01:41",
+      "timestamp": "2025-11-21T07:02:13",
       "download_attempts": 0
     },
     "full_text": "https://t.co/OgYecnLR2C",
@@ -260,5 +258,83 @@
     },
     "full_text": "想要了 https://t.co/ZCYGXAMEG0",
     "publish_time": "2025-11-21T06:00:38"
+  },
+  {
+    "file_name": "nKZbeVKjk6EGl7tp.mp4",
+    "user": {
+      "screen_name": "AFD8864",
+      "name": "小七次朗（科目三）"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1991627852287266816/vid/avc1/720x1280/nKZbeVKjk6EGl7tp.mp4?tag=21",
+    "read_time": "2025-11-21T07:02:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12153,
+      "timestamp": "2025-11-21T07:02:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2299342,
+      "size_mb": 2.19,
+      "timestamp": "2025-11-21T07:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "特别想要了 https://t.co/jg0m3Op8Kx",
+    "publish_time": "2025-11-21T06:01:26"
+  },
+  {
+    "file_name": "G6O75GraoAABmOC.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6O75GraoAABmOC.jpg",
+    "read_time": "2025-11-21T07:02:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12154,
+      "timestamp": "2025-11-21T07:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101261,
+      "size_mb": 0.1,
+      "timestamp": "2025-11-21T07:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/MQuKgggexd",
+    "publish_time": "2025-11-21T06:57:23"
+  },
+  {
+    "file_name": "G6O8DW-bIAAAXPq.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6O8DW-bIAAAXPq.jpg",
+    "read_time": "2025-11-21T07:02:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12155,
+      "timestamp": "2025-11-21T07:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 114540,
+      "size_mb": 0.11,
+      "timestamp": "2025-11-21T07:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ZbxWTqHhTa",
+    "publish_time": "2025-11-21T06:58:05"
   }
 ]
