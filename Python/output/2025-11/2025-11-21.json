@@ -372,20 +372,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G6PU_S9acAA97B2.jpg",
     "read_time": "2025-11-21T09:01:40",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-11-21T09:02:03",
-      "notification_sent": false
+      "success": true,
+      "message_id": 12160,
+      "timestamp": "2025-11-21T10:01:40"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 104200,
       "size_mb": 0.1,
-      "timestamp": "2025-11-21T09:01:43",
+      "timestamp": "2025-11-21T10:01:39",
       "download_attempts": 0
     },
     "full_text": "好看吗 https://t.co/x9qvYkG2jW",
@@ -442,5 +440,57 @@
     },
     "full_text": "好看吗 https://t.co/x9qvYkG2jW",
     "publish_time": "2025-11-21T08:47:07"
+  },
+  {
+    "file_name": "G6PbXwwaQAAtBOK.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6PbXwwaQAAtBOK.jpg",
+    "read_time": "2025-11-21T10:01:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12161,
+      "timestamp": "2025-11-21T10:01:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 122240,
+      "size_mb": 0.12,
+      "timestamp": "2025-11-21T10:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ZbFgDoMva4 https://t.co/QaWsffbT5M",
+    "publish_time": "2025-11-21T09:14:55"
+  },
+  {
+    "file_name": "G6PjLlbacAIL099.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6PjLlbacAIL099.jpg",
+    "read_time": "2025-11-21T10:01:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12162,
+      "timestamp": "2025-11-21T10:01:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 93724,
+      "size_mb": 0.09,
+      "timestamp": "2025-11-21T10:01:48",
+      "download_attempts": 0
+    },
+    "full_text": "rhapsodys https://t.co/RNEwbeWZHU",
+    "publish_time": "2025-11-21T09:49:03"
   }
 ]
