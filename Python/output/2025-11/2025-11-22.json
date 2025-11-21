@@ -60,23 +60,73 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G6TiTwxagAA-t05.jpg",
     "read_time": "2025-11-22T05:00:43",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-11-22T05:01:04",
-      "notification_sent": false
+      "success": true,
+      "message_id": 12216,
+      "timestamp": "2025-11-22T06:00:45"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 153291,
       "size_mb": 0.15,
-      "timestamp": "2025-11-22T05:00:44",
+      "timestamp": "2025-11-22T06:00:44",
       "download_attempts": 0
     },
     "full_text": "rainstoplo https://t.co/St5eCHaCEj",
     "publish_time": "2025-11-22T04:23:43"
+  },
+  {
+    "file_name": "G6TuiGrbsAAWOvn.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6TuiGrbsAAWOvn.jpg",
+    "read_time": "2025-11-22T06:00:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12217,
+      "timestamp": "2025-11-22T06:00:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 113779,
+      "size_mb": 0.11,
+      "timestamp": "2025-11-22T06:00:45",
+      "download_attempts": 0
+    },
+    "full_text": "gamzaro https://t.co/XPZXHhpHmr",
+    "publish_time": "2025-11-22T05:17:07"
+  },
+  {
+    "file_name": "G6TuqivacAAFKgu.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6TuqivacAAFKgu.jpg",
+    "read_time": "2025-11-22T06:00:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12218,
+      "timestamp": "2025-11-22T06:00:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 188509,
+      "size_mb": 0.18,
+      "timestamp": "2025-11-22T06:00:47",
+      "download_attempts": 0
+    },
+    "full_text": "nacha1995_🍆🍆🍆 https://t.co/Hx4lwm12so",
+    "publish_time": "2025-11-22T05:17:42"
   }
 ]
