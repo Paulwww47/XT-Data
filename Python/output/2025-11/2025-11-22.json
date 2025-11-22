@@ -1464,20 +1464,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G6XXgalakAAoGip.jpg",
     "read_time": "2025-11-22T23:00:50",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-11-22T23:01:11",
-      "notification_sent": false
+      "success": true,
+      "message_id": 12277,
+      "timestamp": "2025-11-23T00:00:45"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 212890,
       "size_mb": 0.2,
-      "timestamp": "2025-11-22T23:00:50",
+      "timestamp": "2025-11-23T00:00:43",
       "download_attempts": 0
     },
     "full_text": "剪秋🍂 https://t.co/6jSstRdX2v",
@@ -1612,5 +1610,57 @@
     },
     "full_text": "虽然已经认识到本频道发紧身没人看但是还能怎么办呢就这么点能发了😇 https://t.co/a3ODHByjza",
     "publish_time": "2025-11-22T22:40:10"
+  },
+  {
+    "file_name": "G6XmidhaYAEMlgK.jpg",
+    "user": {
+      "screen_name": "zuoximuhao1111S",
+      "name": "佐夕木豪"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6XmidhaYAEMlgK.jpg",
+    "read_time": "2025-11-23T00:00:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12278,
+      "timestamp": "2025-11-23T00:00:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 131773,
+      "size_mb": 0.13,
+      "timestamp": "2025-11-23T00:00:45",
+      "download_attempts": 0
+    },
+    "full_text": "抱着舔 https://t.co/0CoM9T9zgl",
+    "publish_time": "2025-11-22T23:20:41"
+  },
+  {
+    "file_name": "G6Xmidka0AAyXWw.jpg",
+    "user": {
+      "screen_name": "zuoximuhao1111S",
+      "name": "佐夕木豪"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6Xmidka0AAyXWw.jpg",
+    "read_time": "2025-11-23T00:00:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12279,
+      "timestamp": "2025-11-23T00:00:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 130945,
+      "size_mb": 0.12,
+      "timestamp": "2025-11-23T00:00:47",
+      "download_attempts": 0
+    },
+    "full_text": "抱着舔 https://t.co/0CoM9T9zgl",
+    "publish_time": "2025-11-22T23:20:41"
   }
 ]
