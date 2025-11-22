@@ -164,20 +164,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G6UBan_bkAE1nCJ.jpg",
     "read_time": "2025-11-22T07:00:46",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-11-22T07:01:09",
-      "notification_sent": false
+      "success": true,
+      "message_id": 12223,
+      "timestamp": "2025-11-22T08:00:48"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 79477,
       "size_mb": 0.08,
-      "timestamp": "2025-11-22T07:00:49",
+      "timestamp": "2025-11-22T08:00:47",
       "download_attempts": 0
     },
     "full_text": "jayzoros https://t.co/3FrdoAfnmA",
