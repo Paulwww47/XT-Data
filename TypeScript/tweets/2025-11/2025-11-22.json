@@ -532,5 +532,37 @@
     "tweetUrl": "https://x.com/youdi/status/1992179230608884183",
     "fullText": "Tim Hauw https://t.co/3rYrIwzN3v",
     "publishTime": "2025-11-22T18:31:56"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1992186024387387392/vid/avc1/720x1280/C7RogEwelkisA__g.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1992186519692718510",
+    "fullText": "https://t.co/bsukuyyGPZ",
+    "publishTime": "2025-11-22T19:00:53"
+  },
+  {
+    "user": {
+      "screenName": "YoungOu123",
+      "name": "Young Ou"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6WzSURb0AA1i7C.jpg",
+      "https://pbs.twimg.com/media/G6WzSUSaQAABA09.jpg",
+      "https://pbs.twimg.com/media/G6WzSUQb0AAU8Ro.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1992195537479815168/vid/avc1/720x1280/ToIS1dozOrTIzfJa.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/YoungOu123/status/1992195766492987621",
+    "fullText": "我下手有轻重 https://t.co/tQV9tIioCJ",
+    "publishTime": "2025-11-22T19:37:38"
   }
 ]
