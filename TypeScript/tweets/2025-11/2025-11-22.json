@@ -384,5 +384,50 @@
     "tweetUrl": "https://x.com/r1929979006488/status/1992091092674900415",
     "fullText": "https://t.co/mBeczc1jWU",
     "publishTime": "2025-11-22T12:41:42"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1992080399108050944/vid/avc1/720x720/R61dq5hNubve7Kw2.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1992096136983883944",
+    "fullText": "https://t.co/Biq5kJ5uS9",
+    "publishTime": "2025-11-22T13:01:45"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6VaSVHaQAAjwFQ.jpg",
+      "https://pbs.twimg.com/media/G6VaSVJbEAA7iEd.jpg",
+      "https://pbs.twimg.com/media/G6VaSVLa8AAUnkx.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1992097686200467478",
+    "fullText": "eayon_ https://t.co/MLEzPkPyDD",
+    "publishTime": "2025-11-22T13:07:54"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6VebabbYAAjOqI.jpg",
+      "https://pbs.twimg.com/media/G6VebaaaUAAL1eR.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1992102240170180726",
+    "fullText": "callus_ace_sanghyeok https://t.co/pFtdsBLfKr",
+    "publishTime": "2025-11-22T13:26:00"
   }
 ]
