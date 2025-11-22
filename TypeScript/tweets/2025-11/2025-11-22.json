@@ -488,5 +488,49 @@
     "tweetUrl": "https://x.com/neon385908/status/1992132351414177855",
     "fullText": "getting old https://t.co/NUAeMFj3vX",
     "publishTime": "2025-11-22T15:25:39"
+  },
+  {
+    "user": {
+      "screenName": "Louiewe123",
+      "name": "Louiewe卤蛋头"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1992173987414364160/vid/avc1/720x1280/bRXsrykpw9l67ho3.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Louiewe123/status/1992175078491226222",
+    "fullText": "微信小程序搜“超牛”，26号晚上7点不见不散😉 https://t.co/lcL8wQbZId",
+    "publishTime": "2025-11-22T18:15:26"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1992177853644021761/vid/avc1/478x850/Lhu3nf1NRCIPDy6Z.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1992178165247320500",
+    "fullText": "https://t.co/HoFsoTcmnY",
+    "publishTime": "2025-11-22T18:27:42"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6WkbukboAAG7zM.jpg",
+      "https://pbs.twimg.com/media/G6WkbrvbUAAzSiu.jpg",
+      "https://pbs.twimg.com/media/G6WkbulaEAAwC5L.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1992179230608884183",
+    "fullText": "Tim Hauw https://t.co/3rYrIwzN3v",
+    "publishTime": "2025-11-22T18:31:56"
   }
 ]
