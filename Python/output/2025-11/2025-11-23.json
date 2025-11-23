@@ -528,20 +528,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1992381325555453952/vid/avc1/720x1280/kkc-UZnqeFmvPz4A.mp4?tag=21",
     "read_time": "2025-11-23T08:01:26",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-11-23T08:01:57",
-      "notification_sent": false
+      "success": true,
+      "message_id": 12309,
+      "timestamp": "2025-11-23T09:00:51"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 7363807,
       "size_mb": 7.02,
-      "timestamp": "2025-11-23T08:01:36",
+      "timestamp": "2025-11-23T09:00:46",
       "download_attempts": 0
     },
     "full_text": "太陽好亮 https://t.co/R9crU4OZ00",
@@ -598,5 +596,137 @@
     },
     "full_text": "操你妈肥母猪 滚过来含着你爹 https://t.co/caoZTLsXJd",
     "publish_time": "2025-11-23T07:58:32"
+  },
+  {
+    "file_name": "wn9LDR3KqI-rgVZB.mp4",
+    "user": {
+      "screen_name": "w9qbr",
+      "name": "那城的城"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1992388411366473728/vid/avc1/720x1280/wn9LDR3KqI-rgVZB.mp4?tag=21",
+    "read_time": "2025-11-23T09:00:45",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-11-23T09:01:12",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 3472005,
+      "size_mb": 3.31,
+      "timestamp": "2025-11-23T09:00:52",
+      "download_attempts": 0
+    },
+    "full_text": "#寝室暴露 #晨勃 in醒 谁吃 https://t.co/GeGol5IeEI",
+    "publish_time": "2025-11-23T08:23:31"
+  },
+  {
+    "file_name": "G6ZlCKRacAEkTYq.jpg",
+    "user": {
+      "screen_name": "lim002066971",
+      "name": "稀饭粥粥"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6ZlCKRacAEkTYq.jpg",
+    "read_time": "2025-11-23T09:00:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12310,
+      "timestamp": "2025-11-23T09:01:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 168215,
+      "size_mb": 0.16,
+      "timestamp": "2025-11-23T09:01:12",
+      "download_attempts": 0
+    },
+    "full_text": "圈粉全粉🔒🐶🍆 https://t.co/0Q1KKQCAqJ",
+    "publish_time": "2025-11-23T08:33:24"
+  },
+  {
+    "file_name": "G6ZlCKWbcAAJjLd.jpg",
+    "user": {
+      "screen_name": "lim002066971",
+      "name": "稀饭粥粥"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6ZlCKWbcAAJjLd.jpg",
+    "read_time": "2025-11-23T09:00:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12311,
+      "timestamp": "2025-11-23T09:01:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 154003,
+      "size_mb": 0.15,
+      "timestamp": "2025-11-23T09:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "圈粉全粉🔒🐶🍆 https://t.co/0Q1KKQCAqJ",
+    "publish_time": "2025-11-23T08:33:24"
+  },
+  {
+    "file_name": "G6ZlCKTbEAA5RKj.jpg",
+    "user": {
+      "screen_name": "lim002066971",
+      "name": "稀饭粥粥"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6ZlCKTbEAA5RKj.jpg",
+    "read_time": "2025-11-23T09:00:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12312,
+      "timestamp": "2025-11-23T09:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 139405,
+      "size_mb": 0.13,
+      "timestamp": "2025-11-23T09:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "圈粉全粉🔒🐶🍆 https://t.co/0Q1KKQCAqJ",
+    "publish_time": "2025-11-23T08:33:24"
+  },
+  {
+    "file_name": "G6ZlWwBaMAAwnjI.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6ZlWwBaMAAwnjI.jpg",
+    "read_time": "2025-11-23T09:00:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12313,
+      "timestamp": "2025-11-23T09:01:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 93997,
+      "size_mb": 0.09,
+      "timestamp": "2025-11-23T09:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "kapaopeh https://t.co/UquDpJBEft",
+    "publish_time": "2025-11-23T08:34:45"
   }
 ]
