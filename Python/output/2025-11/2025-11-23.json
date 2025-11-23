@@ -2234,5 +2234,85 @@
     },
     "full_text": "gzacc https://t.co/IWE6rJm1Na",
     "publish_time": "2025-11-23T18:44:11"
+  },
+  {
+    "file_name": "V1SC_zq-ZUDympNi.mp4",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1992552223109484545/vid/avc1/720x1080/V1SC_zq-ZUDympNi.mp4?tag=21",
+    "read_time": "2025-11-23T20:00:59",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-11-23T20:01:21",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 5149581,
+      "size_mb": 4.91,
+      "timestamp": "2025-11-23T20:01:00",
+      "download_attempts": 0
+    },
+    "full_text": "谁敢闻😏 https://t.co/9M2XeSmco9",
+    "publish_time": "2025-11-23T19:14:27"
+  },
+  {
+    "file_name": "G6b342faEAA0vfl.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6b342faEAA0vfl.jpg",
+    "read_time": "2025-11-23T20:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12379,
+      "timestamp": "2025-11-23T20:01:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 115383,
+      "size_mb": 0.11,
+      "timestamp": "2025-11-23T20:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "nguyen.hai95 https://t.co/9zTE5BWqaz",
+    "publish_time": "2025-11-23T19:14:57"
+  },
+  {
+    "file_name": "G6b632ybsAAe7dA.jpg",
+    "user": {
+      "screen_name": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6b632ybsAAe7dA.jpg",
+    "read_time": "2025-11-23T20:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12380,
+      "timestamp": "2025-11-23T20:01:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 162859,
+      "size_mb": 0.16,
+      "timestamp": "2025-11-23T20:01:23",
+      "download_attempts": 0
+    },
+    "full_text": "☀️ https://t.co/pFjvcKbfdA",
+    "publish_time": "2025-11-23T19:27:59"
   }
 ]

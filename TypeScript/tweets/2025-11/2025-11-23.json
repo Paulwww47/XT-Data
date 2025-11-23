@@ -902,5 +902,59 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1992544704710283288",
     "fullText": "gzacc https://t.co/IWE6rJm1Na",
     "publishTime": "2025-11-23T18:44:11"
+  },
+  {
+    "user": {
+      "screenName": "RuiHengJin",
+      "name": "H."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1992552223109484545/vid/avc1/720x1080/V1SC_zq-ZUDympNi.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/RuiHengJin/status/1992552318592794685",
+    "fullText": "谁敢闻😏 https://t.co/9M2XeSmco9",
+    "publishTime": "2025-11-23T19:14:27"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6b342faEAA0vfl.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1992552445894144154",
+    "fullText": "nguyen.hai95 https://t.co/9zTE5BWqaz",
+    "publishTime": "2025-11-23T19:14:57"
+  },
+  {
+    "user": {
+      "screenName": "QingyWilderness",
+      "name": "青野Aono"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/QingyWilderness/status/1992555617597444474",
+    "fullText": "买了个杯子长得有点像自己，就是会大喊大叫",
+    "publishTime": "2025-11-23T19:27:33"
+  },
+  {
+    "user": {
+      "screenName": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6b632ybsAAe7dA.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/OT_SITH/status/1992555725495910599",
+    "fullText": "☀️ https://t.co/pFjvcKbfdA",
+    "publishTime": "2025-11-23T19:27:59"
   }
 ]
