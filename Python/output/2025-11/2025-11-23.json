@@ -944,20 +944,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G6aAYAzbUAAJUU_.jpg",
     "read_time": "2025-11-23T11:00:45",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-11-23T11:01:08",
-      "notification_sent": false
+      "success": true,
+      "message_id": 12326,
+      "timestamp": "2025-11-23T12:00:48"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 138524,
       "size_mb": 0.13,
-      "timestamp": "2025-11-23T11:00:48",
+      "timestamp": "2025-11-23T12:00:47",
       "download_attempts": 0
     },
     "full_text": "ryoma_fukushi https://t.co/kwLmZhKfWf",
@@ -972,23 +970,671 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1992425720648531968/vid/avc1/480x854/p0ZfyYuf1wvtj5MT.mp4?tag=14",
     "read_time": "2025-11-23T11:00:45",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-11-23T11:01:29",
-      "notification_sent": false
+      "success": true,
+      "message_id": 12327,
+      "timestamp": "2025-11-23T12:00:50"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 2177016,
       "size_mb": 2.08,
-      "timestamp": "2025-11-23T11:01:09",
+      "timestamp": "2025-11-23T12:00:48",
       "download_attempts": 0
     },
     "full_text": "【2025年11月23日】今日資源已經更新！以下視頻你們懂的！ https://t.co/I48QnrtDdX",
     "publish_time": "2025-11-23T10:51:41"
+  },
+  {
+    "file_name": "G6aG709aUAA2Tn3.jpg",
+    "user": {
+      "screen_name": "dun032148910181",
+      "name": "段"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6aG709aUAA2Tn3.jpg",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12328,
+      "timestamp": "2025-11-23T12:00:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 173231,
+      "size_mb": 0.17,
+      "timestamp": "2025-11-23T12:00:50",
+      "download_attempts": 0
+    },
+    "full_text": "这也是经典老图了，看着这组图射过几次，被围观硬着洗澡被偷拍 #偷拍 #洗澡偷拍 #暴露 https://t.co/qAR84R7gfy",
+    "publish_time": "2025-11-23T11:01:38"
+  },
+  {
+    "file_name": "G6aG70-bYAASe_u.jpg",
+    "user": {
+      "screen_name": "dun032148910181",
+      "name": "段"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6aG70-bYAASe_u.jpg",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12329,
+      "timestamp": "2025-11-23T12:00:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 163196,
+      "size_mb": 0.16,
+      "timestamp": "2025-11-23T12:00:52",
+      "download_attempts": 0
+    },
+    "full_text": "这也是经典老图了，看着这组图射过几次，被围观硬着洗澡被偷拍 #偷拍 #洗澡偷拍 #暴露 https://t.co/qAR84R7gfy",
+    "publish_time": "2025-11-23T11:01:38"
+  },
+  {
+    "file_name": "G6aG71AacAAZSHN.jpg",
+    "user": {
+      "screen_name": "dun032148910181",
+      "name": "段"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6aG71AacAAZSHN.jpg",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12330,
+      "timestamp": "2025-11-23T12:00:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 167402,
+      "size_mb": 0.16,
+      "timestamp": "2025-11-23T12:00:52",
+      "download_attempts": 0
+    },
+    "full_text": "这也是经典老图了，看着这组图射过几次，被围观硬着洗澡被偷拍 #偷拍 #洗澡偷拍 #暴露 https://t.co/qAR84R7gfy",
+    "publish_time": "2025-11-23T11:01:38"
+  },
+  {
+    "file_name": "5ilrKy9s2ZhbBSs9.mp4",
+    "user": {
+      "screen_name": "dun032148910181",
+      "name": "段"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1992428781160800256/vid/avc1/640x1280/5ilrKy9s2ZhbBSs9.mp4?tag=21",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12331,
+      "timestamp": "2025-11-23T12:00:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 6779011,
+      "size_mb": 6.46,
+      "timestamp": "2025-11-23T12:00:54",
+      "download_attempts": 0
+    },
+    "full_text": "这是真正的极限暴露了吧，被一群人围观打飞机，骚逼听见一群人的起哄嘲笑越打越来劲 #偷拍 #极限暴露 #打飞机 https://t.co/QN6zKn1B6d",
+    "publish_time": "2025-11-23T11:04:44"
+  },
+  {
+    "file_name": "G6aIJmDboAAWyVA.jpg",
+    "user": {
+      "screen_name": "dun032148910181",
+      "name": "段"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6aIJmDboAAWyVA.jpg",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12332,
+      "timestamp": "2025-11-23T12:00:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 214759,
+      "size_mb": 0.2,
+      "timestamp": "2025-11-23T12:00:55",
+      "download_attempts": 0
+    },
+    "full_text": "老板没穿内裤漏屌了，要不要提醒他 #暴露 #走光 #偷拍 #露出 https://t.co/31qkdESuYz",
+    "publish_time": "2025-11-23T11:06:49"
+  },
+  {
+    "file_name": "dP3w3dpqyoexK94i.mp4",
+    "user": {
+      "screen_name": "dun032148910181",
+      "name": "段"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1992429956236976128/vid/avc1/632x1280/dP3w3dpqyoexK94i.mp4?tag=21",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12333,
+      "timestamp": "2025-11-23T12:00:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1637451,
+      "size_mb": 1.56,
+      "timestamp": "2025-11-23T12:00:57",
+      "download_attempts": 0
+    },
+    "full_text": "完了6年的好兄弟是这样的，每天当着我面打飞机，炫耀他的大屌 #暴露 #偷拍 #打飞机 https://t.co/2jryQZdK9e",
+    "publish_time": "2025-11-23T11:08:38"
+  },
+  {
+    "file_name": "K6Wjwt3mF1_oVDXB.mp4",
+    "user": {
+      "screen_name": "dun032148910181",
+      "name": "段"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1992430267836030977/vid/avc1/676x1280/K6Wjwt3mF1_oVDXB.mp4?tag=21",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12334,
+      "timestamp": "2025-11-23T12:00:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2169381,
+      "size_mb": 2.07,
+      "timestamp": "2025-11-23T12:00:58",
+      "download_attempts": 0
+    },
+    "full_text": "偷拍对面楼暴露打飞机 #暴露 #偷拍 #打飞机 https://t.co/lNrnHKjf2z",
+    "publish_time": "2025-11-23T11:10:15"
+  },
+  {
+    "file_name": "Xqzr3UrKx49uXM0p.mp4",
+    "user": {
+      "screen_name": "dun032148910181",
+      "name": "段"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1992430267840278528/vid/avc1/694x1280/Xqzr3UrKx49uXM0p.mp4?tag=21",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12335,
+      "timestamp": "2025-11-23T12:01:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1989879,
+      "size_mb": 1.9,
+      "timestamp": "2025-11-23T12:00:59",
+      "download_attempts": 0
+    },
+    "full_text": "偷拍对面楼暴露打飞机 #暴露 #偷拍 #打飞机 https://t.co/lNrnHKjf2z",
+    "publish_time": "2025-11-23T11:10:15"
+  },
+  {
+    "file_name": "oRpT17pODtayp8CD.mp4",
+    "user": {
+      "screen_name": "dun032148910181",
+      "name": "段"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1992430721441701888/vid/avc1/720x830/oRpT17pODtayp8CD.mp4?tag=21",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12336,
+      "timestamp": "2025-11-23T12:01:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1543468,
+      "size_mb": 1.47,
+      "timestamp": "2025-11-23T12:01:01",
+      "download_attempts": 0
+    },
+    "full_text": "昨晚去澡堂了，发现好多帅哥，给你们拍下来欣赏欣赏 #澡堂偷拍 https://t.co/hUpAyRYoh4",
+    "publish_time": "2025-11-23T11:11:41"
+  },
+  {
+    "file_name": "5k1wOx9z4X6XcST3.mp4",
+    "user": {
+      "screen_name": "dun032148910181",
+      "name": "段"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1992431116826083328/vid/avc1/888x480/5k1wOx9z4X6XcST3.mp4?tag=21",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12337,
+      "timestamp": "2025-11-23T12:01:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 903632,
+      "size_mb": 0.86,
+      "timestamp": "2025-11-23T12:01:02",
+      "download_attempts": 0
+    },
+    "full_text": "这个也帅，有点精神小伙的感觉 #澡堂偷拍 #偷拍直男 https://t.co/7FEMxCr0NY",
+    "publish_time": "2025-11-23T11:13:14"
+  },
+  {
+    "file_name": "G6aKCSFa0AAYm7_.jpg",
+    "user": {
+      "screen_name": "dun032148910181",
+      "name": "段"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6aKCSFa0AAYm7_.jpg",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12338,
+      "timestamp": "2025-11-23T12:01:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 55787,
+      "size_mb": 0.05,
+      "timestamp": "2025-11-23T12:01:03",
+      "download_attempts": 0
+    },
+    "full_text": "偷拍个人夫，洗澡的时候偷拍他了，没想到在吃饭的时候又碰到他了，屌挺大的，但没机会拍到正面 #澡堂偷拍 #偷拍 #露脸 https://t.co/ej9mAzfnqG",
+    "publish_time": "2025-11-23T11:15:16"
+  },
+  {
+    "file_name": "R46mvQ-DQ8rlfNSA.mp4",
+    "user": {
+      "screen_name": "dun032148910181",
+      "name": "段"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1992431656976973825/vid/avc1/720x1126/R46mvQ-DQ8rlfNSA.mp4?tag=21",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12339,
+      "timestamp": "2025-11-23T12:01:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 470642,
+      "size_mb": 0.45,
+      "timestamp": "2025-11-23T12:01:04",
+      "download_attempts": 0
+    },
+    "full_text": "偷拍个人夫，洗澡的时候偷拍他了，没想到在吃饭的时候又碰到他了，屌挺大的，但没机会拍到正面 #澡堂偷拍 #偷拍 #露脸 https://t.co/ej9mAzfnqG",
+    "publish_time": "2025-11-23T11:15:16"
+  },
+  {
+    "file_name": "G6aKhiAaAAAucZa.jpg",
+    "user": {
+      "screen_name": "dun032148910181",
+      "name": "段"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6aKhiAaAAAucZa.jpg",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12340,
+      "timestamp": "2025-11-23T12:01:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 185457,
+      "size_mb": 0.18,
+      "timestamp": "2025-11-23T12:01:05",
+      "download_attempts": 0
+    },
+    "full_text": "我怀疑他发现我偷拍了 还一直在我面前走动 是不是有暴露癖 #澡堂偷拍 #暴露 #露脸 https://t.co/GBaMzsOJAN",
+    "publish_time": "2025-11-23T11:17:14"
+  },
+  {
+    "file_name": "G6aKhh4agAEuINb.jpg",
+    "user": {
+      "screen_name": "dun032148910181",
+      "name": "段"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6aKhh4agAEuINb.jpg",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12341,
+      "timestamp": "2025-11-23T12:01:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 162373,
+      "size_mb": 0.15,
+      "timestamp": "2025-11-23T12:01:06",
+      "download_attempts": 0
+    },
+    "full_text": "我怀疑他发现我偷拍了 还一直在我面前走动 是不是有暴露癖 #澡堂偷拍 #暴露 #露脸 https://t.co/GBaMzsOJAN",
+    "publish_time": "2025-11-23T11:17:14"
+  },
+  {
+    "file_name": "G6aKhh-aIAAx4MM.jpg",
+    "user": {
+      "screen_name": "dun032148910181",
+      "name": "段"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6aKhh-aIAAx4MM.jpg",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12342,
+      "timestamp": "2025-11-23T12:01:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 217036,
+      "size_mb": 0.21,
+      "timestamp": "2025-11-23T12:01:07",
+      "download_attempts": 0
+    },
+    "full_text": "我怀疑他发现我偷拍了 还一直在我面前走动 是不是有暴露癖 #澡堂偷拍 #暴露 #露脸 https://t.co/GBaMzsOJAN",
+    "publish_time": "2025-11-23T11:17:14"
+  },
+  {
+    "file_name": "G6aK9GdbQAAz6ib.jpg",
+    "user": {
+      "screen_name": "dun032148910181",
+      "name": "段"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6aK9GdbQAAz6ib.jpg",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12343,
+      "timestamp": "2025-11-23T12:01:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 191848,
+      "size_mb": 0.18,
+      "timestamp": "2025-11-23T12:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "朋友喝醉了，以前上厕所的时候看见他屌挺大的，趁这个机会扒下来看看，硬了这么大 #偷拍 #偷拍直男 https://t.co/vbGwBigkWq",
+    "publish_time": "2025-11-23T11:19:05"
+  },
+  {
+    "file_name": "G6aK9GeagAAyp_z.jpg",
+    "user": {
+      "screen_name": "dun032148910181",
+      "name": "段"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6aK9GeagAAyp_z.jpg",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12344,
+      "timestamp": "2025-11-23T12:01:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 132577,
+      "size_mb": 0.13,
+      "timestamp": "2025-11-23T12:01:09",
+      "download_attempts": 0
+    },
+    "full_text": "朋友喝醉了，以前上厕所的时候看见他屌挺大的，趁这个机会扒下来看看，硬了这么大 #偷拍 #偷拍直男 https://t.co/vbGwBigkWq",
+    "publish_time": "2025-11-23T11:19:05"
+  },
+  {
+    "file_name": "G6aK9GbagAABvqa.jpg",
+    "user": {
+      "screen_name": "dun032148910181",
+      "name": "段"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6aK9GbagAABvqa.jpg",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12345,
+      "timestamp": "2025-11-23T12:01:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 149823,
+      "size_mb": 0.14,
+      "timestamp": "2025-11-23T12:01:10",
+      "download_attempts": 0
+    },
+    "full_text": "朋友喝醉了，以前上厕所的时候看见他屌挺大的，趁这个机会扒下来看看，硬了这么大 #偷拍 #偷拍直男 https://t.co/vbGwBigkWq",
+    "publish_time": "2025-11-23T11:19:05"
+  },
+  {
+    "file_name": "SwDLb3v5X5-cvY_e.mp4",
+    "user": {
+      "screen_name": "dun032148910181",
+      "name": "段"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1992432973799718912/vid/avc1/888x484/SwDLb3v5X5-cvY_e.mp4?tag=21",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12346,
+      "timestamp": "2025-11-23T12:01:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1051923,
+      "size_mb": 1.0,
+      "timestamp": "2025-11-23T12:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "监控系列，男生没忍住射到床上了 #监控偷拍 #偷拍 #射精 https://t.co/FMJyye5tHz",
+    "publish_time": "2025-11-23T11:20:36"
+  },
+  {
+    "file_name": "v9jG4KhtT7cG7fws.mp4",
+    "user": {
+      "screen_name": "dun032148910181",
+      "name": "段"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1992433475056705537/vid/avc1/888x478/v9jG4KhtT7cG7fws.mp4?tag=21",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12347,
+      "timestamp": "2025-11-23T12:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1113178,
+      "size_mb": 1.06,
+      "timestamp": "2025-11-23T12:01:12",
+      "download_attempts": 0
+    },
+    "full_text": "朋友去送外卖了，跟我说以他多年送外卖的经验，这个人会全裸拿外卖，所以以前拿手机拍了视频，没想到真是 #偷拍 #暴露 https://t.co/qYFbnNaxad",
+    "publish_time": "2025-11-23T11:22:37"
+  },
+  {
+    "file_name": "H_mOrC3pC34EgPTZ.mp4",
+    "user": {
+      "screen_name": "dun032148910181",
+      "name": "段"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1992433734449299456/vid/avc1/720x1186/H_mOrC3pC34EgPTZ.mp4?tag=21",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12348,
+      "timestamp": "2025-11-23T12:01:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1951662,
+      "size_mb": 1.86,
+      "timestamp": "2025-11-23T12:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "拍到两个大屌帅哥 #偷拍 #澡堂 https://t.co/xAgpaanFyv",
+    "publish_time": "2025-11-23T11:23:56"
+  },
+  {
+    "file_name": "G6aRofCaEAARvkn.jpg",
+    "user": {
+      "screen_name": "Chaostuu1",
+      "name": "Chaos"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6aRofCaEAARvkn.jpg",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12349,
+      "timestamp": "2025-11-23T12:01:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 183711,
+      "size_mb": 0.18,
+      "timestamp": "2025-11-23T12:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "🧦 https://t.co/zbAm4PHsHA",
+    "publish_time": "2025-11-23T11:48:23"
+  },
+  {
+    "file_name": "G6aRomyaMAA5YR7.jpg",
+    "user": {
+      "screen_name": "Chaostuu1",
+      "name": "Chaos"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6aRomyaMAA5YR7.jpg",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12350,
+      "timestamp": "2025-11-23T12:01:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 207207,
+      "size_mb": 0.2,
+      "timestamp": "2025-11-23T12:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "🧦 https://t.co/zbAm4PHsHA",
+    "publish_time": "2025-11-23T11:48:23"
+  },
+  {
+    "file_name": "G6aRoXVbgAAjbx3.jpg",
+    "user": {
+      "screen_name": "Chaostuu1",
+      "name": "Chaos"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6aRoXVbgAAjbx3.jpg",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12351,
+      "timestamp": "2025-11-23T12:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 152110,
+      "size_mb": 0.15,
+      "timestamp": "2025-11-23T12:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "🧦 https://t.co/zbAm4PHsHA",
+    "publish_time": "2025-11-23T11:48:23"
+  },
+  {
+    "file_name": "44l1rs6MoShOtIa6.mp4",
+    "user": {
+      "screen_name": "Chaostuu1",
+      "name": "Chaos"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1992440003503460352/pu/vid/avc1/720x1280/44l1rs6MoShOtIa6.mp4?tag=12",
+    "read_time": "2025-11-23T12:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12352,
+      "timestamp": "2025-11-23T12:01:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 850528,
+      "size_mb": 0.81,
+      "timestamp": "2025-11-23T12:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "🧦 https://t.co/zbAm4PHsHA",
+    "publish_time": "2025-11-23T11:48:23"
   }
 ]
