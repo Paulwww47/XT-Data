@@ -414,5 +414,189 @@
     },
     "full_text": "https://t.co/ICLNb9udZ2",
     "publish_time": "2025-11-23T06:12:59"
+  },
+  {
+    "file_name": "G6ZRXfgbkAAavgP.jpg",
+    "user": {
+      "screen_name": "lim002066971",
+      "name": "稀饭粥粥"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6ZRXfgbkAAavgP.jpg",
+    "read_time": "2025-11-23T08:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12302,
+      "timestamp": "2025-11-23T08:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 157126,
+      "size_mb": 0.15,
+      "timestamp": "2025-11-23T08:01:26",
+      "download_attempts": 0
+    },
+    "full_text": "剃了毛 https://t.co/WmIMbbpOpC",
+    "publish_time": "2025-11-23T07:07:31"
+  },
+  {
+    "file_name": "G6ZRXffacAAasXk.jpg",
+    "user": {
+      "screen_name": "lim002066971",
+      "name": "稀饭粥粥"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6ZRXffacAAasXk.jpg",
+    "read_time": "2025-11-23T08:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12303,
+      "timestamp": "2025-11-23T08:01:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 158401,
+      "size_mb": 0.15,
+      "timestamp": "2025-11-23T08:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "剃了毛 https://t.co/WmIMbbpOpC",
+    "publish_time": "2025-11-23T07:07:31"
+  },
+  {
+    "file_name": "G6ZSeKeaUAARHqx.mp4",
+    "user": {
+      "screen_name": "lim002066971",
+      "name": "稀饭粥粥"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/G6ZSeKeaUAARHqx.mp4",
+    "read_time": "2025-11-23T08:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12304,
+      "timestamp": "2025-11-23T08:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 25749,
+      "size_mb": 0.02,
+      "timestamp": "2025-11-23T08:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "光溜溜 https://t.co/nbdknazhQr",
+    "publish_time": "2025-11-23T07:12:24"
+  },
+  {
+    "file_name": "G6ZZf3MaUAAfH1V.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6ZZf3MaUAAfH1V.jpg",
+    "read_time": "2025-11-23T08:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12305,
+      "timestamp": "2025-11-23T08:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 87468,
+      "size_mb": 0.08,
+      "timestamp": "2025-11-23T08:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "andrewtianyl https://t.co/1zGx4yVEyI",
+    "publish_time": "2025-11-23T07:42:56"
+  },
+  {
+    "file_name": "kkc-UZnqeFmvPz4A.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1992381325555453952/vid/avc1/720x1280/kkc-UZnqeFmvPz4A.mp4?tag=21",
+    "read_time": "2025-11-23T08:01:26",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-11-23T08:01:57",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 7363807,
+      "size_mb": 7.02,
+      "timestamp": "2025-11-23T08:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "太陽好亮 https://t.co/R9crU4OZ00",
+    "publish_time": "2025-11-23T07:55:34"
+  },
+  {
+    "file_name": "AOkN9vzfzx57HOzz.mp4",
+    "user": {
+      "screen_name": "nepo7788",
+      "name": "bwnz"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1992382145835544576/vid/avc1/720x1280/AOkN9vzfzx57HOzz.mp4?tag=21",
+    "read_time": "2025-11-23T08:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12306,
+      "timestamp": "2025-11-23T08:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1743743,
+      "size_mb": 1.66,
+      "timestamp": "2025-11-23T08:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "操你妈肥母猪 滚过来含着你爹 https://t.co/caoZTLsXJd",
+    "publish_time": "2025-11-23T07:58:32"
+  },
+  {
+    "file_name": "XwdLqWQnAz25hrPH.mp4",
+    "user": {
+      "screen_name": "nepo7788",
+      "name": "bwnz"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1992382145827082240/vid/avc1/720x1280/XwdLqWQnAz25hrPH.mp4?tag=21",
+    "read_time": "2025-11-23T08:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12307,
+      "timestamp": "2025-11-23T08:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1018104,
+      "size_mb": 0.97,
+      "timestamp": "2025-11-23T08:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "操你妈肥母猪 滚过来含着你爹 https://t.co/caoZTLsXJd",
+    "publish_time": "2025-11-23T07:58:32"
   }
 ]
