@@ -1932,20 +1932,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/ext_tw_video/1992477753388773376/pu/vid/avc1/720x862/tgfesNuTwKh3RerF.mp4?tag=12",
     "read_time": "2025-11-23T15:01:29",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-11-23T15:01:51",
-      "notification_sent": false
+      "success": true,
+      "message_id": 12367,
+      "timestamp": "2025-11-23T16:00:54"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 3569750,
       "size_mb": 3.4,
-      "timestamp": "2025-11-23T15:01:30",
+      "timestamp": "2025-11-23T16:00:49",
       "download_attempts": 0
     },
     "full_text": "为了回馈广大粉丝对我的支持！今天进我福利群🌹的将不收取任何费用，免费对我的粉丝们无门槛🏧进入，可观看所有视频和写真！\n推特X上私信的一律不回复哦 电报私我\n 点击自动跳转 https://t.co/JaiC6jVQgE\n进群暗号  zz\n下载纸飞机地址：https://t.co/gE4XOyaKC8 https://t.co/jZq8xeTdW5",
@@ -1986,23 +1984,73 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1992487704110792704/vid/avc1/720x1280/ctL2ipj89-JEemF_.mp4?tag=21",
     "read_time": "2025-11-23T15:01:29",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-11-23T15:02:16",
-      "notification_sent": false
+      "success": true,
+      "message_id": 12368,
+      "timestamp": "2025-11-23T16:00:58"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 14482904,
       "size_mb": 13.81,
-      "timestamp": "2025-11-23T15:01:55",
+      "timestamp": "2025-11-23T16:00:55",
       "download_attempts": 0
     },
     "full_text": "https://t.co/sOTGmedqmP",
     "publish_time": "2025-11-23T14:58:42"
+  },
+  {
+    "file_name": "G6bG_BybAAAym-H.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6bG_BybAAAym-H.jpg",
+    "read_time": "2025-11-23T16:00:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12369,
+      "timestamp": "2025-11-23T16:00:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 135493,
+      "size_mb": 0.13,
+      "timestamp": "2025-11-23T16:00:58",
+      "download_attempts": 0
+    },
+    "full_text": "xiaoning0622 https://t.co/Qbs4VpqBMK",
+    "publish_time": "2025-11-23T15:41:29"
+  },
+  {
+    "file_name": "TjUZ2pfMDp5Uo0qC.mp4",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1992498671288774656/vid/avc1/720x1280/TjUZ2pfMDp5Uo0qC.mp4?tag=21",
+    "read_time": "2025-11-23T16:00:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12370,
+      "timestamp": "2025-11-23T16:01:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1961392,
+      "size_mb": 1.87,
+      "timestamp": "2025-11-23T16:00:59",
+      "download_attempts": 0
+    },
+    "full_text": "xiaoning0622 https://t.co/Qbs4VpqBMK",
+    "publish_time": "2025-11-23T15:41:29"
   }
 ]
