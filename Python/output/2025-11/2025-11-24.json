@@ -1,0 +1,30 @@
+[
+  {
+    "file_name": "bjU1-pnbd34emxvl.mp4",
+    "user": {
+      "screen_name": "the_littlepeng",
+      "name": "地空捣蛋"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1992641404649283585/vid/avc1/720x1280/bjU1-pnbd34emxvl.mp4?tag=21",
+    "read_time": "2025-11-24T02:01:02",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-11-24T02:01:24",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 4528255,
+      "size_mb": 4.32,
+      "timestamp": "2025-11-24T02:01:02",
+      "download_attempts": 0
+    },
+    "full_text": "2025快过去了，今年拍摄做了一些尝试，其实几个平台发上来的图都不过10%，拍摄的视频也就几个信得过的基友分享一下，已经不敢发了。 https://t.co/zTr8ej9MIH",
+    "publish_time": "2025-11-24T01:08:47"
+  }
+]
