@@ -2244,20 +2244,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1992552223109484545/vid/avc1/720x1080/V1SC_zq-ZUDympNi.mp4?tag=21",
     "read_time": "2025-11-23T20:00:59",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-11-23T20:01:21",
-      "notification_sent": false
+      "success": true,
+      "message_id": 12382,
+      "timestamp": "2025-11-23T21:01:04"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 5149581,
       "size_mb": 4.91,
-      "timestamp": "2025-11-23T20:01:00",
+      "timestamp": "2025-11-23T21:00:59",
       "download_attempts": 0
     },
     "full_text": "谁敢闻😏 https://t.co/9M2XeSmco9",
@@ -2314,5 +2312,239 @@
     },
     "full_text": "☀️ https://t.co/pFjvcKbfdA",
     "publish_time": "2025-11-23T19:27:59"
+  },
+  {
+    "file_name": "G6cCpi7bcAAj01f.jpg",
+    "user": {
+      "screen_name": "lim002066971",
+      "name": "稀饭粥粥"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6cCpi7bcAAj01f.jpg",
+    "read_time": "2025-11-23T21:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12383,
+      "timestamp": "2025-11-23T21:01:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 74297,
+      "size_mb": 0.07,
+      "timestamp": "2025-11-23T21:01:04",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/qNMdl4bchy",
+    "publish_time": "2025-11-23T20:02:04"
+  },
+  {
+    "file_name": "G6cCpjGbwAAbDrO.jpg",
+    "user": {
+      "screen_name": "lim002066971",
+      "name": "稀饭粥粥"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6cCpjGbwAAbDrO.jpg",
+    "read_time": "2025-11-23T21:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12384,
+      "timestamp": "2025-11-23T21:01:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 76542,
+      "size_mb": 0.07,
+      "timestamp": "2025-11-23T21:01:05",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/qNMdl4bchy",
+    "publish_time": "2025-11-23T20:02:04"
+  },
+  {
+    "file_name": "G6cCpjEa0AAeLqU.jpg",
+    "user": {
+      "screen_name": "lim002066971",
+      "name": "稀饭粥粥"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6cCpjEa0AAeLqU.jpg",
+    "read_time": "2025-11-23T21:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12385,
+      "timestamp": "2025-11-23T21:01:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 51067,
+      "size_mb": 0.05,
+      "timestamp": "2025-11-23T21:01:06",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/qNMdl4bchy",
+    "publish_time": "2025-11-23T20:02:04"
+  },
+  {
+    "file_name": "G6cDaPNacAAi2fS.jpg",
+    "user": {
+      "screen_name": "shejishi2020",
+      "name": "摄肌师"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6cDaPNacAAi2fS.jpg",
+    "read_time": "2025-11-23T21:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12386,
+      "timestamp": "2025-11-23T21:01:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 119498,
+      "size_mb": 0.11,
+      "timestamp": "2025-11-23T21:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "【上新了·模特】男大弟弟，性欲爆表 https://t.co/XUE42a1dSm",
+    "publish_time": "2025-11-23T20:05:18"
+  },
+  {
+    "file_name": "G6cES93b0AAKSjJ.jpg",
+    "user": {
+      "screen_name": "shejishi2020",
+      "name": "摄肌师"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6cES93b0AAKSjJ.jpg",
+    "read_time": "2025-11-23T21:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12387,
+      "timestamp": "2025-11-23T21:01:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 139939,
+      "size_mb": 0.13,
+      "timestamp": "2025-11-23T21:01:10",
+      "download_attempts": 0
+    },
+    "full_text": "【上新了·模特】三十而已，性感体毛 https://t.co/0Z128Avlad",
+    "publish_time": "2025-11-23T20:09:11"
+  },
+  {
+    "file_name": "G6cHBMjbEAAa9e5.jpg",
+    "user": {
+      "screen_name": "brooklyn29540",
+      "name": "不要问我从哪里来"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6cHBMjbEAAa9e5.jpg",
+    "read_time": "2025-11-23T21:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12388,
+      "timestamp": "2025-11-23T21:01:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 58191,
+      "size_mb": 0.06,
+      "timestamp": "2025-11-23T21:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "上新了姐妹。需要的私信。 https://t.co/P69Lk15IvE",
+    "publish_time": "2025-11-23T20:21:08"
+  },
+  {
+    "file_name": "G6cHBMnbcAAiCyT.jpg",
+    "user": {
+      "screen_name": "brooklyn29540",
+      "name": "不要问我从哪里来"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6cHBMnbcAAiCyT.jpg",
+    "read_time": "2025-11-23T21:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12389,
+      "timestamp": "2025-11-23T21:01:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 56068,
+      "size_mb": 0.05,
+      "timestamp": "2025-11-23T21:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "上新了姐妹。需要的私信。 https://t.co/P69Lk15IvE",
+    "publish_time": "2025-11-23T20:21:08"
+  },
+  {
+    "file_name": "aUftGN5NfsrXtBlt.mp4",
+    "user": {
+      "screen_name": "zzzzzu2778",
+      "name": "小粥爱喝奶"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1992570167281512448/vid/avc1/720x1280/aUftGN5NfsrXtBlt.mp4?tag=21",
+    "read_time": "2025-11-23T21:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12390,
+      "timestamp": "2025-11-23T21:01:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2619808,
+      "size_mb": 2.5,
+      "timestamp": "2025-11-23T21:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "被爸爸在车里面内设配种\n他夸我好会扭\n然后我就扭得更带劲了\n一股暖流设紧握的🖊️里\n他说要给我生小孩\n我说要还他一个足球队 https://t.co/KlquOfceuK",
+    "publish_time": "2025-11-23T20:27:14"
+  },
+  {
+    "file_name": "G6cP-JBbQAAgqRP.jpg",
+    "user": {
+      "screen_name": "lilei92872270",
+      "name": "travelrtail"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6cP-JBbQAAgqRP.jpg",
+    "read_time": "2025-11-23T21:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12391,
+      "timestamp": "2025-11-23T21:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 191419,
+      "size_mb": 0.18,
+      "timestamp": "2025-11-23T21:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/nJyiwz4C5Z",
+    "publish_time": "2025-11-23T21:00:11"
   }
 ]
