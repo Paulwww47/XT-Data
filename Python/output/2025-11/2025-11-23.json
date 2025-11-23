@@ -2140,20 +2140,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G6bh6qraAAANJNZ.jpg",
     "read_time": "2025-11-23T18:00:53",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-11-23T18:01:19",
-      "notification_sent": false
+      "success": true,
+      "message_id": 12376,
+      "timestamp": "2025-11-23T19:00:49"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 157850,
       "size_mb": 0.15,
-      "timestamp": "2025-11-23T18:00:59",
+      "timestamp": "2025-11-23T19:00:49",
       "download_attempts": 0
     },
     "full_text": "📷 @sunmeeter89 \n🩲 @GOTESHOP https://t.co/E5lyb6MteU",
@@ -2184,5 +2182,57 @@
     },
     "full_text": "上一版特效没用好，重剪了一版\n185白袜高弹体育生发骚，事实证明不一定要脱光衣服才具吸引力，只要够骚也能把你迷的神魂颠倒😂 https://t.co/YClxqMZpKW",
     "publish_time": "2025-11-23T17:40:47"
+  },
+  {
+    "file_name": "G6bw2IzboAERUqA.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6bw2IzboAERUqA.jpg",
+    "read_time": "2025-11-23T19:00:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12377,
+      "timestamp": "2025-11-23T19:00:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 105884,
+      "size_mb": 0.1,
+      "timestamp": "2025-11-23T19:00:49",
+      "download_attempts": 0
+    },
+    "full_text": "gzacc https://t.co/IWE6rJm1Na",
+    "publish_time": "2025-11-23T18:44:11"
+  },
+  {
+    "file_name": "G6bw2IwaAAAdN-q.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6bw2IwaAAAdN-q.jpg",
+    "read_time": "2025-11-23T19:00:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12378,
+      "timestamp": "2025-11-23T19:00:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 120878,
+      "size_mb": 0.12,
+      "timestamp": "2025-11-23T19:00:51",
+      "download_attempts": 0
+    },
+    "full_text": "gzacc https://t.co/IWE6rJm1Na",
+    "publish_time": "2025-11-23T18:44:11"
   }
 ]
