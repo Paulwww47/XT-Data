@@ -882,5 +882,113 @@
     },
     "full_text": "jayxji https://t.co/FJ9IrglLzE",
     "publish_time": "2025-11-23T09:55:44"
+  },
+  {
+    "file_name": "G6Z_MiEaUAAfKnd.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6Z_MiEaUAAfKnd.jpg",
+    "read_time": "2025-11-23T11:00:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12322,
+      "timestamp": "2025-11-23T11:00:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 151413,
+      "size_mb": 0.14,
+      "timestamp": "2025-11-23T11:00:45",
+      "download_attempts": 0
+    },
+    "full_text": "thl1711 https://t.co/fWPxRkMBwz",
+    "publish_time": "2025-11-23T10:27:38"
+  },
+  {
+    "file_name": "G6Z_Mh7a4AAgPK2.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6Z_Mh7a4AAgPK2.jpg",
+    "read_time": "2025-11-23T11:00:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12323,
+      "timestamp": "2025-11-23T11:00:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 71781,
+      "size_mb": 0.07,
+      "timestamp": "2025-11-23T11:00:47",
+      "download_attempts": 0
+    },
+    "full_text": "thl1711 https://t.co/fWPxRkMBwz",
+    "publish_time": "2025-11-23T10:27:38"
+  },
+  {
+    "file_name": "G6aAYAzbUAAJUU_.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6aAYAzbUAAJUU_.jpg",
+    "read_time": "2025-11-23T11:00:45",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-11-23T11:01:08",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 138524,
+      "size_mb": 0.13,
+      "timestamp": "2025-11-23T11:00:48",
+      "download_attempts": 0
+    },
+    "full_text": "ryoma_fukushi https://t.co/kwLmZhKfWf",
+    "publish_time": "2025-11-23T10:32:48"
+  },
+  {
+    "file_name": "p0ZfyYuf1wvtj5MT.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1992425720648531968/vid/avc1/480x854/p0ZfyYuf1wvtj5MT.mp4?tag=14",
+    "read_time": "2025-11-23T11:00:45",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-11-23T11:01:29",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 2177016,
+      "size_mb": 2.08,
+      "timestamp": "2025-11-23T11:01:09",
+      "download_attempts": 0
+    },
+    "full_text": "【2025年11月23日】今日資源已經更新！以下視頻你們懂的！ https://t.co/I48QnrtDdX",
+    "publish_time": "2025-11-23T10:51:41"
   }
 ]
