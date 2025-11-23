@@ -1922,5 +1922,87 @@
     },
     "full_text": "xiaoning0622 https://t.co/Z6tE1K2GZe",
     "publish_time": "2025-11-23T13:57:53"
+  },
+  {
+    "file_name": "tgfesNuTwKh3RerF.mp4",
+    "user": {
+      "screen_name": "Achao94711",
+      "name": "有点感觉了"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1992477753388773376/pu/vid/avc1/720x862/tgfesNuTwKh3RerF.mp4?tag=12",
+    "read_time": "2025-11-23T15:01:29",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-11-23T15:01:51",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 3569750,
+      "size_mb": 3.4,
+      "timestamp": "2025-11-23T15:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "为了回馈广大粉丝对我的支持！今天进我福利群🌹的将不收取任何费用，免费对我的粉丝们无门槛🏧进入，可观看所有视频和写真！\n推特X上私信的一律不回复哦 电报私我\n 点击自动跳转 https://t.co/JaiC6jVQgE\n进群暗号  zz\n下载纸飞机地址：https://t.co/gE4XOyaKC8 https://t.co/jZq8xeTdW5",
+    "publish_time": "2025-11-23T14:18:23"
+  },
+  {
+    "file_name": "G6a2V3CaQAABYkQ.jpg",
+    "user": {
+      "screen_name": "captainshagang",
+      "name": "沙岗队长"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6a2V3CaQAABYkQ.jpg",
+    "read_time": "2025-11-23T15:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12364,
+      "timestamp": "2025-11-23T15:01:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 144542,
+      "size_mb": 0.14,
+      "timestamp": "2025-11-23T15:01:51",
+      "download_attempts": 0
+    },
+    "full_text": "♨️ https://t.co/4P9LDdaBXp",
+    "publish_time": "2025-11-23T14:28:35"
+  },
+  {
+    "file_name": "ctL2ipj89-JEemF_.mp4",
+    "user": {
+      "screen_name": "w9qbr",
+      "name": "那城的城"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1992487704110792704/vid/avc1/720x1280/ctL2ipj89-JEemF_.mp4?tag=21",
+    "read_time": "2025-11-23T15:01:29",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-11-23T15:02:16",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 14482904,
+      "size_mb": 13.81,
+      "timestamp": "2025-11-23T15:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/sOTGmedqmP",
+    "publish_time": "2025-11-23T14:58:42"
   }
 ]
