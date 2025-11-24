@@ -154,5 +154,33 @@
     },
     "full_text": "biu 1999 https://t.co/CuHyxzpJVC",
     "publish_time": "2025-11-25T04:41:59"
+  },
+  {
+    "file_name": "G6jKRc-bwAExIET.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6jKRc-bwAExIET.jpg",
+    "read_time": "2025-11-25T06:00:53",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-11-25T06:01:13",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 197702,
+      "size_mb": 0.19,
+      "timestamp": "2025-11-25T06:00:53",
+      "download_attempts": 0
+    },
+    "full_text": "nono_no195 https://t.co/b8Lb9iWMcp",
+    "publish_time": "2025-11-25T05:12:37"
   }
 ]
