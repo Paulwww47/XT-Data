@@ -840,20 +840,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1992867791977029632/vid/avc1/718x1280/wQNhZURzOfm5VOfs.mp4?tag=21",
     "read_time": "2025-11-24T17:00:52",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-11-24T17:01:14",
-      "notification_sent": false
+      "success": true,
+      "message_id": 12446,
+      "timestamp": "2025-11-24T18:00:59"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 6255485,
       "size_mb": 5.97,
-      "timestamp": "2025-11-24T17:00:53",
+      "timestamp": "2025-11-24T18:00:55",
       "download_attempts": 0
     },
     "full_text": "屁眼惩戒2（完整版：6分钟） https://t.co/E9IFQ45XOy",
@@ -962,5 +960,31 @@
     },
     "full_text": "💦💦💦 https://t.co/ArXuERp5dr",
     "publish_time": "2025-11-24T16:57:16"
+  },
+  {
+    "file_name": "G6gj-k0aIAA8v5o.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6gj-k0aIAA8v5o.jpg",
+    "read_time": "2025-11-24T18:00:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12447,
+      "timestamp": "2025-11-24T18:01:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 161831,
+      "size_mb": 0.15,
+      "timestamp": "2025-11-24T18:00:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/5epqq4pGhK",
+    "publish_time": "2025-11-24T17:06:04"
   }
 ]
