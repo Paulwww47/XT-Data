@@ -452,5 +452,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1992882398997234072",
     "fullText": "https://t.co/5epqq4pGhK",
     "publishTime": "2025-11-24T17:06:04"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1992904175177564160/vid/avc1/720x1280/scxD_nIAIK1Vg-yM.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1992904267515167136",
+    "fullText": "上班好累 睡一下 https://t.co/7sZKmSyF6D",
+    "publishTime": "2025-11-24T18:32:58"
+  },
+  {
+    "user": {
+      "screenName": "ran9592",
+      "name": "코란"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6g86pjWUAA0V9p.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/ran9592/status/1992909819473527025",
+    "fullText": "https://t.co/DRrrs8J8uE",
+    "publishTime": "2025-11-24T18:55:02"
   }
 ]
