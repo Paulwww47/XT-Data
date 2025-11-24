@@ -125,5 +125,45 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1992754211931795910",
     "fullText": "https://t.co/YK2B09zaK5",
     "publishTime": "2025-11-24T08:36:42"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6e65rRagAA6bsl.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1992766865853321255",
+    "fullText": "https://t.co/uonoiJKN4F",
+    "publishTime": "2025-11-24T09:26:59"
+  },
+  {
+    "user": {
+      "screenName": "wanqingav",
+      "name": "清婉"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/wanqingav/status/1992770702307705068",
+    "fullText": "\"早上起床后去公园散步，清新的空气！🌳\"",
+    "publishTime": "2025-11-24T09:42:13"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6fAXtMa4AA4FCM.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1992772880371941866",
+    "fullText": "https://t.co/NDpyhtqo1W",
+    "publishTime": "2025-11-24T09:50:53"
   }
 ]
