@@ -164,20 +164,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G6jKRc-bwAExIET.jpg",
     "read_time": "2025-11-25T06:00:53",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-11-25T06:01:13",
-      "notification_sent": false
+      "success": true,
+      "message_id": 12457,
+      "timestamp": "2025-11-25T07:00:47"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 197702,
       "size_mb": 0.19,
-      "timestamp": "2025-11-25T06:00:53",
+      "timestamp": "2025-11-25T07:00:46",
       "download_attempts": 0
     },
     "full_text": "nono_no195 https://t.co/b8Lb9iWMcp",
