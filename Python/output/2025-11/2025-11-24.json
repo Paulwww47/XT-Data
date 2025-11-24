@@ -388,5 +388,31 @@
     },
     "full_text": "Kw_98_ https://t.co/NRyZjXD6qQ",
     "publish_time": "2025-11-24T10:50:49"
+  },
+  {
+    "file_name": "G6fb1GbbUAAgzyv.jpg",
+    "user": {
+      "screen_name": "Exp_lam",
+      "name": "~Exp(λ)"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6fb1GbbUAAgzyv.jpg",
+    "read_time": "2025-11-24T12:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12422,
+      "timestamp": "2025-11-24T12:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 139948,
+      "size_mb": 0.13,
+      "timestamp": "2025-11-24T12:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/czFCyS28pI",
+    "publish_time": "2025-11-24T11:50:57"
   }
 ]
