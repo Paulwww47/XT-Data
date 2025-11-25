@@ -157,5 +157,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1993155685190976002",
     "fullText": "khun1229 https://t.co/AcqSJWHCcU",
     "publishTime": "2025-11-25T11:12:01"
+  },
+  {
+    "user": {
+      "screenName": "lim002066971",
+      "name": "稀饭粥粥"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6kzb-ubwAYj7eq.jpg",
+      "https://pbs.twimg.com/media/G6kzb-pbwAA5rgK.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/lim002066971/status/1993180891460649205",
+    "fullText": "https://t.co/JriDYIyDoU",
+    "publishTime": "2025-11-25T12:52:10"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6k0LJQbwAYwVw2.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1993181684133773491",
+    "fullText": "https://t.co/KghRAZneg2",
+    "publishTime": "2025-11-25T12:55:19"
   }
 ]
