@@ -611,7 +611,7 @@
       "success": false,
       "error_type": "api_error",
       "message": "Timed out",
-      "timestamp": "2025-11-25T15:00:58",
+      "timestamp": "2025-11-25T16:01:38",
       "notification_sent": false
     },
     "is_downloaded": false,
@@ -619,7 +619,7 @@
       "success": true,
       "size": 4620862,
       "size_mb": 4.41,
-      "timestamp": "2025-11-25T15:00:37",
+      "timestamp": "2025-11-25T16:01:17",
       "download_attempts": 0
     },
     "full_text": "主页更新总赶不上节奏，好多完整版视频和独家原创都没来得及发，这次专门整理成了粉丝福利！今日进群无套路免费领：全版视频+限定写真（24小时有效），纯宠老粉～ \n进群私信我Tg👉 :  https://t.co/ECmiI7OORb\n认准暗号：07\nTg下载地址～ https://t.co/gE4XOyaKC8 https://t.co/fOWmWKnuM9",
@@ -650,5 +650,57 @@
     },
     "full_text": "午后阳光 https://t.co/O6pRD0tn4P",
     "publish_time": "2025-11-25T14:36:34"
+  },
+  {
+    "file_name": "G6laUU9bwAIDZqG.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6laUU9bwAIDZqG.jpg",
+    "read_time": "2025-11-25T16:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12478,
+      "timestamp": "2025-11-25T16:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 81494,
+      "size_mb": 0.08,
+      "timestamp": "2025-11-25T16:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "thdzhn https://t.co/1xMwSTPwvd",
+    "publish_time": "2025-11-25T15:41:58"
+  },
+  {
+    "file_name": "G6lbVdzaoAAeAK7.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6lbVdzaoAAeAK7.jpg",
+    "read_time": "2025-11-25T16:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12479,
+      "timestamp": "2025-11-25T16:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 206078,
+      "size_mb": 0.2,
+      "timestamp": "2025-11-25T16:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "tse_tse_lin https://t.co/kOkokQSPvC",
+    "publish_time": "2025-11-25T15:46:25"
   }
 ]
