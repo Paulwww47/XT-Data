@@ -346,20 +346,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1993143007890255872/vid/avc1/720x1280/P-8e9yIlQGGtHgMc.mp4?tag=14",
     "read_time": "2025-11-25T11:00:35",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-11-25T11:00:56",
-      "notification_sent": false
+      "success": true,
+      "message_id": 12466,
+      "timestamp": "2025-11-25T12:00:48"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 889170,
       "size_mb": 0.85,
-      "timestamp": "2025-11-25T11:00:35",
+      "timestamp": "2025-11-25T12:00:44",
       "download_attempts": 0
     },
     "full_text": "https://t.co/NvIzs1cBpq",
@@ -374,23 +372,47 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1993149360595775488/vid/avc1/720x1280/lsikFaSP6kYuZvyB.mp4?tag=14",
     "read_time": "2025-11-25T11:00:35",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-11-25T11:01:17",
-      "notification_sent": false
+      "success": true,
+      "message_id": 12467,
+      "timestamp": "2025-11-25T12:00:53"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 5174442,
       "size_mb": 4.93,
-      "timestamp": "2025-11-25T11:00:56",
+      "timestamp": "2025-11-25T12:00:48",
       "download_attempts": 0
     },
     "full_text": "【2025年11月25日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/F1v4wnIcSH",
     "publish_time": "2025-11-25T10:47:15"
+  },
+  {
+    "file_name": "G6kch7nbAAAWODV.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6kch7nbAAAWODV.jpg",
+    "read_time": "2025-11-25T12:00:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12468,
+      "timestamp": "2025-11-25T12:00:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 123014,
+      "size_mb": 0.12,
+      "timestamp": "2025-11-25T12:00:53",
+      "download_attempts": 0
+    },
+    "full_text": "khun1229 https://t.co/AcqSJWHCcU",
+    "publish_time": "2025-11-25T11:12:01"
   }
 ]
