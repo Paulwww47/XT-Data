@@ -186,5 +186,48 @@
     "tweetUrl": "https://x.com/youdi/status/1993181684133773491",
     "fullText": "https://t.co/KghRAZneg2",
     "publishTime": "2025-11-25T12:55:19"
+  },
+  {
+    "user": {
+      "screenName": "Leon_pan999",
+      "name": "Leon"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1993187765551570944/vid/avc1/720x1278/L2WMV-tcfRW7tgn6.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Leon_pan999/status/1993187826289279480",
+    "fullText": "操喉杯 https://t.co/h56QhNaUdP",
+    "publishTime": "2025-11-25T13:19:44"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6k-jhwbkAAty2z.png"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/easychen/status/1993193257787179136",
+    "fullText": "#Easy同学正在独立开发 LMStuido 终于支持 Kimi Linear 了 https://t.co/CQx4m1dbZZ",
+    "publishTime": "2025-11-25T13:41:19"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6k_alAacAAkIw9.jpg",
+      "https://pbs.twimg.com/media/G6k_ak-bwAAFI2A.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1993194040825962831",
+    "fullText": "kimjiwook_01 https://t.co/dQ1LInJm2M",
+    "publishTime": "2025-11-25T13:44:25"
   }
 ]
