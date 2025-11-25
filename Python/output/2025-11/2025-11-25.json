@@ -336,5 +336,61 @@
     },
     "full_text": "https://t.co/p0Cl3X6qb0",
     "publish_time": "2025-11-25T09:08:42"
+  },
+  {
+    "file_name": "P-8e9yIlQGGtHgMc.mp4",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1993143007890255872/vid/avc1/720x1280/P-8e9yIlQGGtHgMc.mp4?tag=14",
+    "read_time": "2025-11-25T11:00:35",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-11-25T11:00:56",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 889170,
+      "size_mb": 0.85,
+      "timestamp": "2025-11-25T11:00:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/NvIzs1cBpq",
+    "publish_time": "2025-11-25T10:32:26"
+  },
+  {
+    "file_name": "lsikFaSP6kYuZvyB.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1993149360595775488/vid/avc1/720x1280/lsikFaSP6kYuZvyB.mp4?tag=14",
+    "read_time": "2025-11-25T11:00:35",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-11-25T11:01:17",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 5174442,
+      "size_mb": 4.93,
+      "timestamp": "2025-11-25T11:00:56",
+      "download_attempts": 0
+    },
+    "full_text": "【2025年11月25日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/F1v4wnIcSH",
+    "publish_time": "2025-11-25T10:47:15"
   }
 ]
