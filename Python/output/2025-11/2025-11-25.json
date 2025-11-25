@@ -611,7 +611,7 @@
       "success": false,
       "error_type": "api_error",
       "message": "Timed out",
-      "timestamp": "2025-11-25T16:01:38",
+      "timestamp": "2025-11-25T17:01:13",
       "notification_sent": false
     },
     "is_downloaded": false,
@@ -619,7 +619,7 @@
       "success": true,
       "size": 4620862,
       "size_mb": 4.41,
-      "timestamp": "2025-11-25T16:01:17",
+      "timestamp": "2025-11-25T17:00:53",
       "download_attempts": 0
     },
     "full_text": "主页更新总赶不上节奏，好多完整版视频和独家原创都没来得及发，这次专门整理成了粉丝福利！今日进群无套路免费领：全版视频+限定写真（24小时有效），纯宠老粉～ \n进群私信我Tg👉 :  https://t.co/ECmiI7OORb\n认准暗号：07\nTg下载地址～ https://t.co/gE4XOyaKC8 https://t.co/fOWmWKnuM9",
@@ -702,5 +702,57 @@
     },
     "full_text": "tse_tse_lin https://t.co/kOkokQSPvC",
     "publish_time": "2025-11-25T15:46:25"
+  },
+  {
+    "file_name": "G6ljWoPbwAMZf-d.jpg",
+    "user": {
+      "screen_name": "junhui69535021",
+      "name": "子濤"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6ljWoPbwAMZf-d.jpg",
+    "read_time": "2025-11-25T17:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12481,
+      "timestamp": "2025-11-25T17:01:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 173568,
+      "size_mb": 0.17,
+      "timestamp": "2025-11-25T17:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "一個人很好，但是兩個人更完美 https://t.co/rPqJk0Q8qZ",
+    "publish_time": "2025-11-25T16:21:27"
+  },
+  {
+    "file_name": "LFLWFHSBA66tIV7b.mp4",
+    "user": {
+      "screen_name": "huahua6256",
+      "name": "花生6256"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1993243094335340549/vid/avc1/720x1280/LFLWFHSBA66tIV7b.mp4?tag=21",
+    "read_time": "2025-11-25T17:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12482,
+      "timestamp": "2025-11-25T17:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 616709,
+      "size_mb": 0.59,
+      "timestamp": "2025-11-25T17:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "最近同志净网，为了避免视频和谐\n所以本人特地搭建福利小窝🎉独家完整视频\n免费领取 没有门槛🚪带暗号来：花生\n飞机：https://t.co/vDsGCvM4kq\n飞机下载地址 https://t.co/l7d9mMFBm3 https://t.co/h2G4zh2mL8",
+    "publish_time": "2025-11-25T16:59:36"
   }
 ]
