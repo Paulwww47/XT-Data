@@ -596,5 +596,59 @@
     },
     "full_text": "kimjiwook_01 https://t.co/dQ1LInJm2M",
     "publish_time": "2025-11-25T13:44:25"
+  },
+  {
+    "file_name": "6tMzKq5BbM9jCkl2.mp4",
+    "user": {
+      "screen_name": "Achao94711",
+      "name": "有点感觉了"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1993201393692532736/pu/vid/avc1/720x1280/6tMzKq5BbM9jCkl2.mp4?tag=12",
+    "read_time": "2025-11-25T15:00:36",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2025-11-25T15:00:58",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 4620862,
+      "size_mb": 4.41,
+      "timestamp": "2025-11-25T15:00:37",
+      "download_attempts": 0
+    },
+    "full_text": "主页更新总赶不上节奏，好多完整版视频和独家原创都没来得及发，这次专门整理成了粉丝福利！今日进群无套路免费领：全版视频+限定写真（24小时有效），纯宠老粉～ \n进群私信我Tg👉 :  https://t.co/ECmiI7OORb\n认准暗号：07\nTg下载地址～ https://t.co/gE4XOyaKC8 https://t.co/fOWmWKnuM9",
+    "publish_time": "2025-11-25T14:14:11"
+  },
+  {
+    "file_name": "G6lLVixbMAAT6e_.jpg",
+    "user": {
+      "screen_name": "ModdyChen",
+      "name": "舒克"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6lLVixbMAAT6e_.jpg",
+    "read_time": "2025-11-25T15:00:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12476,
+      "timestamp": "2025-11-25T15:01:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 150262,
+      "size_mb": 0.14,
+      "timestamp": "2025-11-25T15:00:58",
+      "download_attempts": 0
+    },
+    "full_text": "午后阳光 https://t.co/O6pRD0tn4P",
+    "publish_time": "2025-11-25T14:36:34"
   }
 ]
