@@ -970,23 +970,99 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/1993288598486220801/vid/avc1/720x1102/oMjN_bos5nCEyFOC.mp4?tag=21",
     "read_time": "2025-11-25T20:01:02",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2025-11-25T21:01:10",
-      "notification_sent": false
+      "success": true,
+      "message_id": 12496,
+      "timestamp": "2025-11-25T22:00:55"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 10062828,
       "size_mb": 9.6,
-      "timestamp": "2025-11-25T21:00:49",
+      "timestamp": "2025-11-25T22:00:51",
       "download_attempts": 0
     },
     "full_text": "所有视频都有完整版📸进群即可获得\n           ［每日更新百部视频］\n  ［有我露脸，空降，收藏视频］\n想进群看更多完整视频电报私信我↓\n✅唯一电报👉🏻 https://t.co/ZWsnGJXgYM\n   ［进群私信］暗号：S\n\n没有电报的可以在这里下载👉🏻 https://t.co/xGW9LaDCoA\n⚠️只回复电报，推特私信一律不回！ https://t.co/XqxCKaxdPb",
     "publish_time": "2025-11-25T20:00:41"
+  },
+  {
+    "file_name": "G6mlVYSbwAIS_3d.jpg",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6mlVYSbwAIS_3d.jpg",
+    "read_time": "2025-11-25T22:00:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12497,
+      "timestamp": "2025-11-25T22:00:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 31027,
+      "size_mb": 0.03,
+      "timestamp": "2025-11-25T22:00:55",
+      "download_attempts": 0
+    },
+    "full_text": "贴脸开大🦶 https://t.co/GhA3y1feMn",
+    "publish_time": "2025-11-25T21:09:43"
+  },
+  {
+    "file_name": "G6mq0OkawAAsdTZ.jpg",
+    "user": {
+      "screen_name": "Salha_dh",
+      "name": "鸡肉卷"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6mq0OkawAAsdTZ.jpg",
+    "read_time": "2025-11-25T22:00:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12498,
+      "timestamp": "2025-11-25T22:00:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 117991,
+      "size_mb": 0.11,
+      "timestamp": "2025-11-25T22:00:57",
+      "download_attempts": 0
+    },
+    "full_text": "后续来咯😛黑皮体育生学长硬度无敌 https://t.co/wFevvPZGJg",
+    "publish_time": "2025-11-25T21:33:41"
+  },
+  {
+    "file_name": "G6mq0kTbwAMSi4A.jpg",
+    "user": {
+      "screen_name": "Salha_dh",
+      "name": "鸡肉卷"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6mq0kTbwAMSi4A.jpg",
+    "read_time": "2025-11-25T22:00:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12499,
+      "timestamp": "2025-11-25T22:00:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 183209,
+      "size_mb": 0.17,
+      "timestamp": "2025-11-25T22:00:58",
+      "download_attempts": 0
+    },
+    "full_text": "后续来咯😛黑皮体育生学长硬度无敌 https://t.co/wFevvPZGJg",
+    "publish_time": "2025-11-25T21:33:41"
   }
 ]
