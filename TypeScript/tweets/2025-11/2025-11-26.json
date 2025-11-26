@@ -239,5 +239,33 @@
     "tweetUrl": "https://x.com/youdi/status/1993513798192554486",
     "fullText": "展示锻炼成果 https://t.co/1SsPIofcEV",
     "publishTime": "2025-11-26T10:55:01"
+  },
+  {
+    "user": {
+      "screenName": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1993518314522656774/vid/avc1/720x1280/oVPkdPZi2N1LQ_XK.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/BBoy1069/status/1993518367047926252",
+    "fullText": "【2025年11月26日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/dL9VdnqhBZ",
+    "publishTime": "2025-11-26T11:13:11"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1993513825354891268/vid/avc1/720x720/YFExEHBiM0lX5oJQ.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1993529575784300821",
+    "fullText": "我的上铺舍友 https://t.co/sVVeRT0vX1",
+    "publishTime": "2025-11-26T11:57:43"
   }
 ]
