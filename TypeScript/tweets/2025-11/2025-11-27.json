@@ -71,5 +71,33 @@
     "tweetUrl": "https://x.com/fangsheng10/status/1993726060404592756",
     "fullText": "🫥 https://t.co/HCuVHsSiK6",
     "publishTime": "2025-11-27T00:58:29"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1993728136203431936/vid/avc1/720x1280/AHZkve8uVygt_NMA.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1993728190234370516",
+    "fullText": "来吧。 我会帮忙的.... 但是等等 https://t.co/0E7oG939bd",
+    "publishTime": "2025-11-27T01:06:56"
+  },
+  {
+    "user": {
+      "screenName": "ModdyChen",
+      "name": "舒克"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6spPnzbgAACDiY.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/ModdyChen/status/1993732624884391977",
+    "fullText": "晚安\n\n# https://t.co/edt3eKpsQy",
+    "publishTime": "2025-11-27T01:24:34"
   }
 ]
