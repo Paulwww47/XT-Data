@@ -1064,5 +1064,57 @@
     },
     "full_text": "晚上🕒7点见喽 https://t.co/zUoTQZ7Y0t",
     "publish_time": "2025-11-26T16:34:53"
+  },
+  {
+    "file_name": "G6q4yFfboAAl8RK.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6q4yFfboAAl8RK.jpg",
+    "read_time": "2025-11-26T19:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12543,
+      "timestamp": "2025-11-26T19:01:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 166612,
+      "size_mb": 0.16,
+      "timestamp": "2025-11-26T19:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/rlQeMBwKPh",
+    "publish_time": "2025-11-26T17:13:10"
+  },
+  {
+    "file_name": "Ct0GCO_B09gsAYi8.mp4",
+    "user": {
+      "screen_name": "easychen",
+      "name": "EasyChen"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1993635998866227200/vid/avc1/720x1602/Ct0GCO_B09gsAYi8.mp4?tag=14",
+    "read_time": "2025-11-26T19:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12544,
+      "timestamp": "2025-11-26T19:01:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2424802,
+      "size_mb": 2.31,
+      "timestamp": "2025-11-26T19:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "#Easy同学正在独立开发  OMate 1.8 发布了，咱也支持小程序了（误） https://t.co/sNlgrgPuVX https://t.co/ZJ9oftB0tB",
+    "publish_time": "2025-11-26T19:00:50"
   }
 ]

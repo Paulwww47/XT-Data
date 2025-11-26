@@ -485,5 +485,35 @@
     "tweetUrl": "https://x.com/Louiewe123/status/1993599495892808072",
     "fullText": "因超牛商城评论区有些敏感图片，小程序要求尽快处理，新用户搜索小程序可能会搜索不到，我们正在处理解决，这几天有新粉丝可以先关注我们公众号进入商城。",
     "publishTime": "2025-11-26T16:35:33"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6q4yFfboAAl8RK.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1993608961904570655",
+    "fullText": "https://t.co/rlQeMBwKPh",
+    "publishTime": "2025-11-26T17:13:10"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1993635998866227200/vid/avc1/720x1602/Ct0GCO_B09gsAYi8.mp4?tag=14"
+    ],
+    "expandUrls": [
+      "https://hub.moon9.ca/t/omate-1-8-0-beta-live-page/21"
+    ],
+    "tweetUrl": "https://x.com/easychen/status/1993636054612550140",
+    "fullText": "#Easy同学正在独立开发  OMate 1.8 发布了，咱也支持小程序了（误） https://t.co/sNlgrgPuVX https://t.co/ZJ9oftB0tB",
+    "publishTime": "2025-11-26T19:00:50"
   }
 ]
