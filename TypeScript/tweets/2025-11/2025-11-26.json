@@ -640,5 +640,31 @@
     "tweetUrl": "https://x.com/Alfred_yh_/status/1993696147198878045",
     "fullText": "需要一张脸来接 https://t.co/Q16AKXIELm",
     "publishTime": "2025-11-26T22:59:37"
+  },
+  {
+    "user": {
+      "screenName": "KevinLeeYoung92",
+      "name": "KevinLeeYoung"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/KevinLeeYoung92/status/1993701712134336770",
+    "fullText": "🥵",
+    "publishTime": "2025-11-26T23:21:44"
+  },
+  {
+    "user": {
+      "screenName": "HengYu1205",
+      "name": "HengYu"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6sOZgXbMAAAayg.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/HengYu1205/status/1993703176508457429",
+    "fullText": "https://t.co/cajsvfPkS8",
+    "publishTime": "2025-11-26T23:27:33"
   }
 ]
