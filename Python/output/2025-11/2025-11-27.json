@@ -1340,17 +1340,43 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (58MB > 50MB)",
       "timestamp": "2025-11-27T18:01:02",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 60881330,
       "size_mb": 58.06,
-      "timestamp": "2025-11-27T18:01:02",
+      "timestamp": "2025-11-27T19:01:00",
       "download_attempts": 0
     },
     "full_text": "https://t.co/V3KyrponEw",
     "publish_time": "2025-11-27T17:54:35"
+  },
+  {
+    "file_name": "G6wYZtBaMAAi5fv.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6wYZtBaMAAi5fv.jpg",
+    "read_time": "2025-11-27T19:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12607,
+      "timestamp": "2025-11-27T19:01:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 231601,
+      "size_mb": 0.22,
+      "timestamp": "2025-11-27T19:01:00",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vMqveF6m77",
+    "publish_time": "2025-11-27T18:49:25"
   }
 ]
