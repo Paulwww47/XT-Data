@@ -514,5 +514,49 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1993963629289636159",
     "fullText": "dwany1 https://t.co/Xd3bnyvZ1Q",
     "publishTime": "2025-11-27T16:42:29"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6wBgulaEAAQqke.jpg",
+      "https://pbs.twimg.com/media/G6wBguoa0AMMoZv.jpg",
+      "https://pbs.twimg.com/media/G6wBgukbYAAmvuR.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1993970402549514482",
+    "fullText": "Tom Daley https://t.co/y1OBlZ43tK",
+    "publishTime": "2025-11-27T17:09:24"
+  },
+  {
+    "user": {
+      "screenName": "huohuo0707330",
+      "name": "嚯"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6wK_jPa0AM7WV7.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/huohuo0707330/status/1993980836526379017",
+    "fullText": "3/4下肢🦵🏼\n划水 https://t.co/GnXc70HxaK",
+    "publishTime": "2025-11-27T17:50:52"
+  },
+  {
+    "user": {
+      "screenName": "rrrrrrig_",
+      "name": "嗷呜有劲"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1993980434007707648/vid/avc1/720x1280/243DHTkKoy4waQoY.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/rrrrrrig_/status/1993981773865206211",
+    "fullText": "https://t.co/V3KyrponEw",
+    "publishTime": "2025-11-27T17:54:35"
   }
 ]

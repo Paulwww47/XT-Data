@@ -1220,5 +1220,137 @@
     },
     "full_text": "dwany1 https://t.co/Xd3bnyvZ1Q",
     "publish_time": "2025-11-27T16:42:29"
+  },
+  {
+    "file_name": "G6wBgulaEAAQqke.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6wBgulaEAAQqke.jpg",
+    "read_time": "2025-11-27T18:00:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12603,
+      "timestamp": "2025-11-27T18:00:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 124645,
+      "size_mb": 0.12,
+      "timestamp": "2025-11-27T18:00:56",
+      "download_attempts": 0
+    },
+    "full_text": "Tom Daley https://t.co/y1OBlZ43tK",
+    "publish_time": "2025-11-27T17:09:24"
+  },
+  {
+    "file_name": "G6wBguoa0AMMoZv.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6wBguoa0AMMoZv.jpg",
+    "read_time": "2025-11-27T18:00:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12604,
+      "timestamp": "2025-11-27T18:01:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 174545,
+      "size_mb": 0.17,
+      "timestamp": "2025-11-27T18:00:58",
+      "download_attempts": 0
+    },
+    "full_text": "Tom Daley https://t.co/y1OBlZ43tK",
+    "publish_time": "2025-11-27T17:09:24"
+  },
+  {
+    "file_name": "G6wBgukbYAAmvuR.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6wBgukbYAAmvuR.jpg",
+    "read_time": "2025-11-27T18:00:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12605,
+      "timestamp": "2025-11-27T18:01:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 174068,
+      "size_mb": 0.17,
+      "timestamp": "2025-11-27T18:01:00",
+      "download_attempts": 0
+    },
+    "full_text": "Tom Daley https://t.co/y1OBlZ43tK",
+    "publish_time": "2025-11-27T17:09:24"
+  },
+  {
+    "file_name": "G6wK_jPa0AM7WV7.jpg",
+    "user": {
+      "screen_name": "huohuo0707330",
+      "name": "嚯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6wK_jPa0AM7WV7.jpg",
+    "read_time": "2025-11-27T18:00:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12606,
+      "timestamp": "2025-11-27T18:01:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 170061,
+      "size_mb": 0.16,
+      "timestamp": "2025-11-27T18:01:01",
+      "download_attempts": 0
+    },
+    "full_text": "3/4下肢🦵🏼\n划水 https://t.co/GnXc70HxaK",
+    "publish_time": "2025-11-27T17:50:52"
+  },
+  {
+    "file_name": "243DHTkKoy4waQoY.mp4",
+    "user": {
+      "screen_name": "rrrrrrig_",
+      "name": "嗷呜有劲"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1993980434007707648/vid/avc1/720x1280/243DHTkKoy4waQoY.mp4?tag=21",
+    "read_time": "2025-11-27T18:00:56",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (58MB > 50MB)",
+      "timestamp": "2025-11-27T18:01:02",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 60881330,
+      "size_mb": 58.06,
+      "timestamp": "2025-11-27T18:01:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/V3KyrponEw",
+    "publish_time": "2025-11-27T17:54:35"
   }
 ]
