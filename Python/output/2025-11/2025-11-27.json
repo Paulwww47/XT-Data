@@ -674,5 +674,57 @@
     },
     "full_text": "zuohzo https://t.co/QiSXY0IuUH",
     "publish_time": "2025-11-27T10:02:31"
+  },
+  {
+    "file_name": "G6uvB1Za0AEIMlf.jpg",
+    "user": {
+      "screen_name": "lim002066971",
+      "name": "稀饭粥粥"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G6uvB1Za0AEIMlf.jpg",
+    "read_time": "2025-11-27T12:01:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12582,
+      "timestamp": "2025-11-27T12:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 94827,
+      "size_mb": 0.09,
+      "timestamp": "2025-11-27T12:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/CxRoO2YGvT",
+    "publish_time": "2025-11-27T11:09:02"
+  },
+  {
+    "file_name": "ecxmSk9TrIGWJ1l4.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1993890479021412352/vid/avc1/720x1280/ecxmSk9TrIGWJ1l4.mp4?tag=14",
+    "read_time": "2025-11-27T12:01:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12583,
+      "timestamp": "2025-11-27T12:01:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1903426,
+      "size_mb": 1.82,
+      "timestamp": "2025-11-27T12:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "【2025年11月27日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/Fnt5tthYrB",
+    "publish_time": "2025-11-27T11:59:09"
   }
 ]
