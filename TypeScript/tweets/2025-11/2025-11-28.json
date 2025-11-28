@@ -115,5 +115,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1994189079949303891",
     "fullText": "https://t.co/OYCqOuIeDH",
     "publishTime": "2025-11-28T07:38:21"
+  },
+  {
+    "user": {
+      "screenName": "Love_Nelson1",
+      "name": "Magnificent"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6zbk0la0AAniwL.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Love_Nelson1/status/1994210170503639363",
+    "fullText": "醒了 https://t.co/ZIIYF4sqOy",
+    "publishTime": "2025-11-28T09:02:09"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G6zcn6Zb0AAQu5Q.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1994211319428657211",
+    "fullText": "https://t.co/CnyRKqenmf",
+    "publishTime": "2025-11-28T09:06:43"
   }
 ]
