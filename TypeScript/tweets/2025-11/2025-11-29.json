@@ -168,5 +168,37 @@
     "tweetUrl": "https://x.com/youdi/status/1994601855884955838",
     "fullText": "#健身日常 https://t.co/Ok9aAhVqCh",
     "publishTime": "2025-11-29T10:58:35"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G65FrlgbkAgHt2c.jpg",
+      "https://pbs.twimg.com/media/G65FrlZbkAQS5yo.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [
+      "http://ultra.bond"
+    ],
+    "tweetUrl": "https://x.com/eric_kk97/status/1994608306124722235",
+    "fullText": "https://t.co/mwFbHoO8Dp https://t.co/ZpgjFEzt7U",
+    "publishTime": "2025-11-29T11:24:12"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G65JGFibkAI6won.jpg",
+      "https://pbs.twimg.com/media/G65JF-3asAAOI-S.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1994612124229013666",
+    "fullText": "https://t.co/6415H3ftho",
+    "publishTime": "2025-11-29T11:39:23"
   }
 ]
