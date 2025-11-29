@@ -1366,14 +1366,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (90MB > 50MB)",
       "timestamp": "2025-11-29T23:01:11",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 95082323,
       "size_mb": 90.68,
-      "timestamp": "2025-11-29T23:01:11",
+      "timestamp": "2025-11-30T00:01:09",
       "download_attempts": 0
     },
     "full_text": "https://t.co/a4F6iPu1lM",
@@ -1534,5 +1534,31 @@
     },
     "full_text": "https://t.co/AinpZsruRV",
     "publish_time": "2025-11-29T22:50:14"
+  },
+  {
+    "file_name": "G67snrybkAAfR-b.jpg",
+    "user": {
+      "screen_name": "huohuo0707330",
+      "name": "嚯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G67snrybkAAfR-b.jpg",
+    "read_time": "2025-11-30T00:01:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12769,
+      "timestamp": "2025-11-30T00:01:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 45513,
+      "size_mb": 0.04,
+      "timestamp": "2025-11-30T00:01:09",
+      "download_attempts": 0
+    },
+    "full_text": "人菜瘾大 https://t.co/sXYyGZHr5K",
+    "publish_time": "2025-11-29T23:33:35"
   }
 ]
