@@ -362,5 +362,31 @@
     },
     "full_text": "https://t.co/SFo6hpZ0Ul",
     "publish_time": "2025-11-30T05:54:53"
+  },
+  {
+    "file_name": "5kyt7TaXvFHU3IBx.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1994914236875862016/vid/avc1/720x1280/5kyt7TaXvFHU3IBx.mp4?tag=21",
+    "read_time": "2025-11-30T08:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12784,
+      "timestamp": "2025-11-30T08:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4040106,
+      "size_mb": 3.85,
+      "timestamp": "2025-11-30T08:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "又太早醒來 https://t.co/HgTsViZzgc",
+    "publish_time": "2025-11-30T07:40:12"
   }
 ]
