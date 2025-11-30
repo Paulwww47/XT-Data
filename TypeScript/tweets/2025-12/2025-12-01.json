@@ -137,5 +137,33 @@
     "tweetUrl": "https://x.com/Haoyun7666/status/1995175083946701250",
     "fullText": "额 https://t.co/S5mg6stSqM",
     "publishTime": "2025-12-01T00:56:23"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7BNZQ8b0AArT6G.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1995179739733209242",
+    "fullText": "https://t.co/bb8Hh3o6KR",
+    "publishTime": "2025-12-01T01:14:53"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1995182087624966144/vid/avc1/720x720/ik24TS1s_9ER_0vX.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1995185550706565489",
+    "fullText": "跳的还行吗？ https://t.co/fpUNcbbBau",
+    "publishTime": "2025-12-01T01:37:58"
   }
 ]
