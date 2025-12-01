@@ -309,5 +309,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1995301779245035736",
     "fullText": "https://t.co/eIpK2PvMhw",
     "publishTime": "2025-12-01T09:19:49"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7DJJSFbEAAADk5.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1995315804469133379",
+    "fullText": "https://t.co/tociSKU78R",
+    "publishTime": "2025-12-01T10:15:33"
+  },
+  {
+    "user": {
+      "screenName": "RuiHengJin",
+      "name": "H."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1995317743210622976/vid/avc1/720x1080/qq1N9FAo2fyyVRWK.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/RuiHengJin/status/1995317841202184657",
+    "fullText": "公厕展示雄具（完整：5分钟） https://t.co/jStmpEmh4f",
+    "publishTime": "2025-12-01T10:23:39"
   }
 ]
