@@ -1246,5 +1246,57 @@
     },
     "full_text": "https://t.co/7WSCEKmQfh",
     "publish_time": "2025-12-02T22:52:22"
+  },
+  {
+    "file_name": "MkyuyGwy9fCjGJ7C.mp4",
+    "user": {
+      "screen_name": "Salha_dh",
+      "name": "鸡肉卷"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1995878278905954306/pu/vid/avc1/720x1280/MkyuyGwy9fCjGJ7C.mp4?tag=12",
+    "read_time": "2025-12-03T00:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12976,
+      "timestamp": "2025-12-03T00:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 6066917,
+      "size_mb": 5.79,
+      "timestamp": "2025-12-03T00:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "让狗狗再给大家展示个一泻千里吧 https://t.co/keb6wDUf22",
+    "publish_time": "2025-12-02T23:32:46"
+  },
+  {
+    "file_name": "G7LMoTzbYAAoneL.jpg",
+    "user": {
+      "screen_name": "needcuminside",
+      "name": "Luke（"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G7LMoTzbYAAoneL.jpg",
+    "read_time": "2025-12-03T00:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 12977,
+      "timestamp": "2025-12-03T00:01:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 107957,
+      "size_mb": 0.1,
+      "timestamp": "2025-12-03T00:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/R2EHeyqUqY",
+    "publish_time": "2025-12-02T23:47:44"
   }
 ]
