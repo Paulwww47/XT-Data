@@ -212,5 +212,31 @@
     "tweetUrl": "https://x.com/youdi/status/1995696543270404141",
     "fullText": "住在酒店的几种人： https://t.co/pCbrYfQzi7",
     "publishTime": "2025-12-02T11:28:28"
+  },
+  {
+    "user": {
+      "screenName": "luckygu56139221",
+      "name": "艾克斯X"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/luckygu56139221/status/1995724632918204660",
+    "fullText": "好想学跳舞",
+    "publishTime": "2025-12-02T13:20:05"
+  },
+  {
+    "user": {
+      "screenName": "ModdyChen",
+      "name": "舒克"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1995732162268856320/vid/avc1/720x1280/rMQzJuK8qigXxX4r.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/ModdyChen/status/1995732812549263615",
+    "fullText": "之前抖音发过的视频，被和谐了… https://t.co/EpvbQRo2Vf",
+    "publishTime": "2025-12-02T13:52:36"
   }
 ]
