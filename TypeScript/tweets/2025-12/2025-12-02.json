@@ -296,5 +296,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1995763402900406509",
     "fullText": "itsthej_way https://t.co/QDOzOzEuQl",
     "publishTime": "2025-12-02T15:54:09"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1995760625348448256/vid/avc1/404x720/algsfqYm427Ewg1q.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1995765185898799299",
+    "fullText": "https://t.co/Sv1Aagx7pf",
+    "publishTime": "2025-12-02T16:01:14"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7Js77wawAAZCeq.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1995777367110045857",
+    "fullText": "xunblock https://t.co/AWTM3Ob2Bf",
+    "publishTime": "2025-12-02T16:49:38"
+  },
+  {
+    "user": {
+      "screenName": "SummerSonCold1",
+      "name": "SummerSonCold"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7JtQoRbgAQ9FeH.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/SummerSonCold1/status/1995777725626548507",
+    "fullText": "🥵 https://t.co/I3y23Bsfh4",
+    "publishTime": "2025-12-02T16:51:04"
   }
 ]
