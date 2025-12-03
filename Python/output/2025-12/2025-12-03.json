@@ -1428,5 +1428,31 @@
     },
     "full_text": "https://t.co/FiagT87LbS",
     "publish_time": "2025-12-03T22:57:16"
+  },
+  {
+    "file_name": "G7QNkbta8AA5QWA.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G7QNkbta8AA5QWA.jpg",
+    "read_time": "2025-12-04T00:01:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13033,
+      "timestamp": "2025-12-04T00:01:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 77120,
+      "size_mb": 0.07,
+      "timestamp": "2025-12-04T00:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/1yNF4ZE4Kd",
+    "publish_time": "2025-12-03T23:09:57"
   }
 ]
