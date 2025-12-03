@@ -212,5 +212,19 @@
     "tweetUrl": "https://x.com/youdi/status/1996059489217511616",
     "fullText": "刚拍的 https://t.co/E5Y9StoA7y",
     "publishTime": "2025-12-03T11:30:41"
+  },
+  {
+    "user": {
+      "screenName": "Love_Nelson1",
+      "name": "Magnificent"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7OI6fbbMAAKHLy.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Love_Nelson1/status/1996089611207295295",
+    "fullText": "https://t.co/S9QewLqKfM",
+    "publishTime": "2025-12-03T13:30:23"
   }
 ]
