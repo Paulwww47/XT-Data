@@ -882,5 +882,57 @@
     },
     "full_text": "nguyen.hai95 https://t.co/tkeHIwOrnb",
     "publish_time": "2025-12-03T16:43:23"
+  },
+  {
+    "file_name": "G7O942ZboAIyi9N.jpg",
+    "user": {
+      "screen_name": "captainshagang",
+      "name": "沙岗队长"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G7O942ZboAIyi9N.jpg",
+    "read_time": "2025-12-03T18:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13012,
+      "timestamp": "2025-12-03T18:01:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 107891,
+      "size_mb": 0.1,
+      "timestamp": "2025-12-03T18:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "45 https://t.co/0ONK7tf8O9",
+    "publish_time": "2025-12-03T17:21:48"
+  },
+  {
+    "file_name": "G7O-rz-asAAGv2w.jpg",
+    "user": {
+      "screen_name": "tnzhfng41",
+      "name": "近战法师Daniel"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G7O-rz-asAAGv2w.jpg",
+    "read_time": "2025-12-03T18:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13013,
+      "timestamp": "2025-12-03T18:01:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 92136,
+      "size_mb": 0.09,
+      "timestamp": "2025-12-03T18:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/xwMPW76j06",
+    "publish_time": "2025-12-03T17:25:21"
   }
 ]
