@@ -567,5 +567,47 @@
     "tweetUrl": "https://x.com/fangsheng10/status/1996955790130008153",
     "fullText": "https://t.co/OJQCRviVUj",
     "publishTime": "2025-12-05T22:52:16"
+  },
+  {
+    "user": {
+      "screenName": "RuiHengJin",
+      "name": "H."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1996962451519426562/vid/avc1/720x960/6gBhLiqV_BKLMYQW.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/RuiHengJin/status/1996962633766129774",
+    "fullText": "小母狗专属视角😏 https://t.co/1LD8jf2vUh",
+    "publishTime": "2025-12-05T23:19:28"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1996968804694519808/vid/avc1/720x1280/330tfPMiFZHHsrph.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1996971931804094505",
+    "fullText": "https://t.co/XRRvsxLgiO",
+    "publishTime": "2025-12-05T23:56:25"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7ardAebwAABueE.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1996972032639332441",
+    "fullText": "https://t.co/QEOOs5wkxs",
+    "publishTime": "2025-12-05T23:56:49"
   }
 ]
