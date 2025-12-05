@@ -232,5 +232,31 @@
     },
     "full_text": "陽光很亮 https://t.co/eyxiQWiNWq",
     "publish_time": "2025-12-05T07:53:33"
+  },
+  {
+    "file_name": "9EXHMRr-SmtL4qU4.mp4",
+    "user": {
+      "screen_name": "rrrrrrig_",
+      "name": "嗷呜有劲"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1996737718450286592/vid/avc1/720x1278/9EXHMRr-SmtL4qU4.mp4?tag=21",
+    "read_time": "2025-12-05T09:01:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13113,
+      "timestamp": "2025-12-05T09:01:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 21258938,
+      "size_mb": 20.27,
+      "timestamp": "2025-12-05T09:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/TeFxDJN8HM",
+    "publish_time": "2025-12-05T08:26:45"
   }
 ]
