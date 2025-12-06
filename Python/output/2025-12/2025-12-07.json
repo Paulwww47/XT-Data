@@ -76,5 +76,31 @@
     },
     "full_text": "https://t.co/fTFWLialVE",
     "publish_time": "2025-12-07T00:49:32"
+  },
+  {
+    "file_name": "G7gOHq6aoAAZtzW.jpg",
+    "user": {
+      "screen_name": "MJ_lvS",
+      "name": "张平白"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G7gOHq6aoAAZtzW.jpg",
+    "read_time": "2025-12-07T02:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13242,
+      "timestamp": "2025-12-07T02:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 73387,
+      "size_mb": 0.07,
+      "timestamp": "2025-12-07T02:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/hyMdnlUQG3",
+    "publish_time": "2025-12-07T01:46:17"
   }
 ]
