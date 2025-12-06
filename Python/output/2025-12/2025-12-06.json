@@ -1402,5 +1402,31 @@
     },
     "full_text": "https://t.co/FauiItSJMu",
     "publish_time": "2025-12-06T17:03:48"
+  },
+  {
+    "file_name": "G7emrRQaMAAoIWE.jpg",
+    "user": {
+      "screen_name": "6ujiaxing",
+      "name": "小东东（互推中）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G7emrRQaMAAoIWE.jpg",
+    "read_time": "2025-12-06T19:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13214,
+      "timestamp": "2025-12-06T19:01:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 137090,
+      "size_mb": 0.13,
+      "timestamp": "2025-12-06T19:01:05",
+      "download_attempts": 0
+    },
+    "full_text": "第一次拍 https://t.co/buKRBGGGWW",
+    "publish_time": "2025-12-06T18:14:20"
   }
 ]
