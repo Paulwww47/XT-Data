@@ -1912,17 +1912,69 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (58MB > 50MB)",
       "timestamp": "2025-12-06T23:01:37",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 61187263,
       "size_mb": 58.35,
-      "timestamp": "2025-12-06T23:01:37",
+      "timestamp": "2025-12-07T01:01:49",
       "download_attempts": 0
     },
     "full_text": "各种姿势肉入倒膜看个够吧👅🥵 https://t.co/Wa6KdK1Zxu",
     "publish_time": "2025-12-06T22:58:10"
+  },
+  {
+    "file_name": "G7fzNr1aAAAmdlE.jpg",
+    "user": {
+      "screen_name": "r1929979006488",
+      "name": "i"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G7fzNr1aAAAmdlE.jpg",
+    "read_time": "2025-12-07T01:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13237,
+      "timestamp": "2025-12-07T01:01:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 111791,
+      "size_mb": 0.11,
+      "timestamp": "2025-12-07T01:01:49",
+      "download_attempts": 0
+    },
+    "full_text": "约等于没穿 https://t.co/cY5owNWzwW",
+    "publish_time": "2025-12-06T23:48:46"
+  },
+  {
+    "file_name": "G7fzNrpbkAAsq4B.jpg",
+    "user": {
+      "screen_name": "r1929979006488",
+      "name": "i"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G7fzNrpbkAAsq4B.jpg",
+    "read_time": "2025-12-07T01:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13238,
+      "timestamp": "2025-12-07T01:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 165503,
+      "size_mb": 0.16,
+      "timestamp": "2025-12-07T01:01:51",
+      "download_attempts": 0
+    },
+    "full_text": "约等于没穿 https://t.co/cY5owNWzwW",
+    "publish_time": "2025-12-06T23:48:46"
   }
 ]
