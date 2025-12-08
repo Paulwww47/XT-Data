@@ -258,5 +258,31 @@
     },
     "full_text": "日落与野兽 https://t.co/dhbllUi1EE",
     "publish_time": "2025-12-08T10:30:55"
+  },
+  {
+    "file_name": "G7nXpRMbYAATmiC.jpg",
+    "user": {
+      "screen_name": "lim002066971",
+      "name": "稀饭粥粥"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G7nXpRMbYAATmiC.jpg",
+    "read_time": "2025-12-08T12:01:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13292,
+      "timestamp": "2025-12-08T12:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 196970,
+      "size_mb": 0.19,
+      "timestamp": "2025-12-08T12:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/p4VuKM8BVP",
+    "publish_time": "2025-12-08T11:05:41"
   }
 ]
