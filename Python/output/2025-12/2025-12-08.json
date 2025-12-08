@@ -284,5 +284,31 @@
     },
     "full_text": "https://t.co/p4VuKM8BVP",
     "publish_time": "2025-12-08T11:05:41"
+  },
+  {
+    "file_name": "svakMQ2isJiVhA8s.mp4",
+    "user": {
+      "screen_name": "Xiongdaha",
+      "name": "帕丁顿熊（成都）"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1997880914702159872/vid/avc1/720x1056/svakMQ2isJiVhA8s.mp4?tag=21",
+    "read_time": "2025-12-08T13:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13293,
+      "timestamp": "2025-12-08T13:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 239747,
+      "size_mb": 0.23,
+      "timestamp": "2025-12-08T13:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/0bU409dlyv",
+    "publish_time": "2025-12-08T12:08:26"
   }
 ]
