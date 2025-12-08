@@ -358,5 +358,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/1997953649511928077",
     "fullText": "double.k_seok https://t.co/OTDppXnboT",
     "publishTime": "2025-12-08T16:57:24"
+  },
+  {
+    "user": {
+      "screenName": "KevinLeeYoung92",
+      "name": "KevinLeeYoung"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7o5Q2sawAA-oOl.jpg",
+      "https://pbs.twimg.com/media/G7o5Q2sbAAEupNT.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/KevinLeeYoung92/status/1997972354027364853",
+    "fullText": "https://t.co/9ioB6KGURH",
+    "publishTime": "2025-12-08T18:11:44"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1997980102026797056/vid/avc1/720x1280/KP2N-4cmVIM2TIOG.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/1997980230124777915",
+    "fullText": "下班後晚飯前 https://t.co/L4nLNGIEi1",
+    "publishTime": "2025-12-08T18:43:02"
   }
 ]
