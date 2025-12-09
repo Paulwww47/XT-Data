@@ -414,5 +414,57 @@
     },
     "full_text": "https://t.co/Nf88qXvBxK",
     "publish_time": "2025-12-09T10:50:44"
+  },
+  {
+    "file_name": "G7soBvHaUAApwSx.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G7soBvHaUAApwSx.jpg",
+    "read_time": "2025-12-09T12:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13344,
+      "timestamp": "2025-12-09T12:01:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 170392,
+      "size_mb": 0.16,
+      "timestamp": "2025-12-09T12:01:04",
+      "download_attempts": 0
+    },
+    "full_text": "这一类男人应该叫什么？ https://t.co/iyd5BgtSYm",
+    "publish_time": "2025-12-09T11:34:55"
+  },
+  {
+    "file_name": "2Tkfpe1kYohajIGo.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1998238313069858816/vid/avc1/1280x720/2Tkfpe1kYohajIGo.mp4?tag=14",
+    "read_time": "2025-12-09T12:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13345,
+      "timestamp": "2025-12-09T12:01:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3290546,
+      "size_mb": 3.14,
+      "timestamp": "2025-12-09T12:01:07",
+      "download_attempts": 0
+    },
+    "full_text": "【2025年12月9日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/EFFQWTjTC7",
+    "publish_time": "2025-12-09T11:48:44"
   }
 ]
