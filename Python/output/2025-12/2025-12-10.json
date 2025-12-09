@@ -180,5 +180,31 @@
     },
     "full_text": "ryanboy0305 https://t.co/LkKphhYUV9",
     "publish_time": "2025-12-10T04:59:28"
+  },
+  {
+    "file_name": "G7wqEXlagAApfRn.jpg",
+    "user": {
+      "screen_name": "xiguauitra",
+      "name": "西瓜"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G7wqEXlagAApfRn.jpg",
+    "read_time": "2025-12-10T07:01:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13390,
+      "timestamp": "2025-12-10T07:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 102998,
+      "size_mb": 0.1,
+      "timestamp": "2025-12-10T07:01:12",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/P0lmLBryXZ",
+    "publish_time": "2025-12-10T06:22:19"
   }
 ]
