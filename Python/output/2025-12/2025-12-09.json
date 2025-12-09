@@ -856,5 +856,83 @@
     },
     "full_text": "周末做了个重生模拟器角色卡，玩起来比看网文有意思，就是几十轮后容易忘掉前边剧情😂\n\n优化后，通过【定时剧情总结】+【RAG查询总结】+【角色数据库】来维持剧情，现在80轮了还没崩。\n\nDeepSeek3.2推剧情，每次不到1万token。每4轮Qwen3 Next80B总结剧情和更新角色库。平均每轮成本差不多 5 分钱。 https://t.co/41k4egZA0l",
     "publish_time": "2025-12-09T17:56:54"
+  },
+  {
+    "file_name": "G7uDEGgasAA6bDc.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G7uDEGgasAA6bDc.jpg",
+    "read_time": "2025-12-09T19:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13361,
+      "timestamp": "2025-12-09T19:01:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 99094,
+      "size_mb": 0.09,
+      "timestamp": "2025-12-09T19:01:05",
+      "download_attempts": 0
+    },
+    "full_text": "leonnnn097 https://t.co/fe7Xe0bDyZ",
+    "publish_time": "2025-12-09T18:14:10"
+  },
+  {
+    "file_name": "G7uDEGZbsAIT5mF.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G7uDEGZbsAIT5mF.jpg",
+    "read_time": "2025-12-09T19:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13362,
+      "timestamp": "2025-12-09T19:01:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 171991,
+      "size_mb": 0.16,
+      "timestamp": "2025-12-09T19:01:06",
+      "download_attempts": 0
+    },
+    "full_text": "leonnnn097 https://t.co/fe7Xe0bDyZ",
+    "publish_time": "2025-12-09T18:14:10"
+  },
+  {
+    "file_name": "G7uLvWYbwAAIYuw.jpg",
+    "user": {
+      "screen_name": "mmmmqaz0",
+      "name": "三角板"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G7uLvWYbwAAIYuw.jpg",
+    "read_time": "2025-12-09T19:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13363,
+      "timestamp": "2025-12-09T19:01:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 68941,
+      "size_mb": 0.07,
+      "timestamp": "2025-12-09T19:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "天冷了要穿秋裤了 https://t.co/da29SqVlb7",
+    "publish_time": "2025-12-09T18:50:33"
   }
 ]

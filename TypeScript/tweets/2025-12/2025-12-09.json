@@ -383,5 +383,34 @@
     "tweetUrl": "https://x.com/easychen/status/1998331009042198630",
     "fullText": "周末做了个重生模拟器角色卡，玩起来比看网文有意思，就是几十轮后容易忘掉前边剧情😂\n\n优化后，通过【定时剧情总结】+【RAG查询总结】+【角色数据库】来维持剧情，现在80轮了还没崩。\n\nDeepSeek3.2推剧情，每次不到1万token。每4轮Qwen3 Next80B总结剧情和更新角色库。平均每轮成本差不多 5 分钱。 https://t.co/41k4egZA0l",
     "publishTime": "2025-12-09T17:56:54"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7uDEGgasAA6bDc.jpg",
+      "https://pbs.twimg.com/media/G7uDEGZbsAIT5mF.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1998335353430716419",
+    "fullText": "leonnnn097 https://t.co/fe7Xe0bDyZ",
+    "publishTime": "2025-12-09T18:14:10"
+  },
+  {
+    "user": {
+      "screenName": "mmmmqaz0",
+      "name": "三角板"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7uLvWYbwAAIYuw.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/mmmmqaz0/status/1998344512339587119",
+    "fullText": "天冷了要穿秋裤了 https://t.co/da29SqVlb7",
+    "publishTime": "2025-12-09T18:50:33"
   }
 ]
