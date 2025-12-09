@@ -778,5 +778,83 @@
     },
     "full_text": "https://t.co/CszrI0qGqx",
     "publish_time": "2025-12-09T16:34:32"
+  },
+  {
+    "file_name": "G7t6Hk2bMAEu3Kb.jpg",
+    "user": {
+      "screen_name": "captainshagang",
+      "name": "沙岗队长"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G7t6Hk2bMAEu3Kb.jpg",
+    "read_time": "2025-12-09T18:01:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13358,
+      "timestamp": "2025-12-09T18:01:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 147057,
+      "size_mb": 0.14,
+      "timestamp": "2025-12-09T18:01:02",
+      "download_attempts": 0
+    },
+    "full_text": "近在咫尺 https://t.co/4AFuGoWrn7",
+    "publish_time": "2025-12-09T17:33:34"
+  },
+  {
+    "file_name": "LPuTtoH9vJsE2okX.mp4",
+    "user": {
+      "screen_name": "klspbr",
+      "name": "小帅气"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1998330025301422080/pu/vid/avc1/720x1280/LPuTtoH9vJsE2okX.mp4?tag=12",
+    "read_time": "2025-12-09T18:01:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13359,
+      "timestamp": "2025-12-09T18:01:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7602554,
+      "size_mb": 7.25,
+      "timestamp": "2025-12-09T18:01:04",
+      "download_attempts": 0
+    },
+    "full_text": "三秦大地 多出雄俊男子 关中腹地 抚育硬朗魄体 典型的中国陕西历史文化沉淀厚重感的帅哥 雄伟的线条和美貌的五官 造就独属陕西的男子风貌 https://t.co/1QVQkXuZNO",
+    "publish_time": "2025-12-09T17:54:03"
+  },
+  {
+    "file_name": "FCxXABPVCAGuTUBB.mp4",
+    "user": {
+      "screen_name": "easychen",
+      "name": "EasyChen"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1998330273281593344/vid/avc1/720x1516/FCxXABPVCAGuTUBB.mp4?tag=14",
+    "read_time": "2025-12-09T18:01:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13360,
+      "timestamp": "2025-12-09T18:01:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3573334,
+      "size_mb": 3.41,
+      "timestamp": "2025-12-09T18:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "周末做了个重生模拟器角色卡，玩起来比看网文有意思，就是几十轮后容易忘掉前边剧情😂\n\n优化后，通过【定时剧情总结】+【RAG查询总结】+【角色数据库】来维持剧情，现在80轮了还没崩。\n\nDeepSeek3.2推剧情，每次不到1万token。每4轮Qwen3 Next80B总结剧情和更新角色库。平均每轮成本差不多 5 分钱。 https://t.co/41k4egZA0l",
+    "publish_time": "2025-12-09T17:56:54"
   }
 ]

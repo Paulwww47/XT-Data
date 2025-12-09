@@ -341,5 +341,47 @@
     "tweetUrl": "https://x.com/youdi/status/1998310279709601872",
     "fullText": "https://t.co/CszrI0qGqx",
     "publishTime": "2025-12-09T16:34:32"
+  },
+  {
+    "user": {
+      "screenName": "captainshagang",
+      "name": "沙岗队长"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7t6Hk2bMAEu3Kb.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/captainshagang/status/1998325136135716895",
+    "fullText": "近在咫尺 https://t.co/4AFuGoWrn7",
+    "publishTime": "2025-12-09T17:33:34"
+  },
+  {
+    "user": {
+      "screenName": "klspbr",
+      "name": "小帅气"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1998330025301422080/pu/vid/avc1/720x1280/LPuTtoH9vJsE2okX.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/klspbr/status/1998330293749502453",
+    "fullText": "三秦大地 多出雄俊男子 关中腹地 抚育硬朗魄体 典型的中国陕西历史文化沉淀厚重感的帅哥 雄伟的线条和美貌的五官 造就独属陕西的男子风貌 https://t.co/1QVQkXuZNO",
+    "publishTime": "2025-12-09T17:54:03"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1998330273281593344/vid/avc1/720x1516/FCxXABPVCAGuTUBB.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/easychen/status/1998331009042198630",
+    "fullText": "周末做了个重生模拟器角色卡，玩起来比看网文有意思，就是几十轮后容易忘掉前边剧情😂\n\n优化后，通过【定时剧情总结】+【RAG查询总结】+【角色数据库】来维持剧情，现在80轮了还没崩。\n\nDeepSeek3.2推剧情，每次不到1万token。每4轮Qwen3 Next80B总结剧情和更新角色库。平均每轮成本差不多 5 分钱。 https://t.co/41k4egZA0l",
+    "publishTime": "2025-12-09T17:56:54"
   }
 ]
