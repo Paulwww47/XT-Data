@@ -254,5 +254,36 @@
     "tweetUrl": "https://x.com/youdi/status/1998677024475590851",
     "fullText": "https://t.co/RRA2vd0cN9",
     "publishTime": "2025-12-10T16:51:50"
+  },
+  {
+    "user": {
+      "screenName": "shemingyu",
+      "name": "你的梦"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7zGJDpbAAAL5LP.jpg",
+      "https://pbs.twimg.com/media/G7zGJEza8AAzreE.jpg",
+      "https://pbs.twimg.com/media/G7zGJElbsAAtf0T.jpg",
+      "https://pbs.twimg.com/media/G7zGJEOaMAAfgjh.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/shemingyu/status/1998690287980359911",
+    "fullText": "嘻嘻 杭州 https://t.co/cyonyCXf8Y",
+    "publishTime": "2025-12-10T17:44:33"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7zJz-2aMAAJ4B-.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/1998694234631922092",
+    "fullText": "scott_treesongkiat https://t.co/M3h5cgnyHd",
+    "publishTime": "2025-12-10T18:00:14"
   }
 ]
