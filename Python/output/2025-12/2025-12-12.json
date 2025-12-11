@@ -269,12 +269,76 @@
     "url": "https://video.twimg.com/amplify_video/1999196408654757888/vid/avc1/1920x1080/808KmCOpoivmfr-o.mp4?tag=21",
     "read_time": "2025-12-12T05:01:26",
     "is_uploaded": false,
-    "upload_info": {},
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (182MB > 50MB)",
+      "timestamp": "2025-12-12T06:01:41",
+      "notification_sent": false
+    },
     "is_downloaded": false,
     "download_info": {
-      "download_attempts": 1
+      "download_attempts": 0,
+      "success": true,
+      "size": 191146191,
+      "size_mb": 182.29,
+      "timestamp": "2025-12-12T06:01:41"
     },
     "full_text": "kenottvip https://t.co/4xJoqVFbHw",
     "publish_time": "2025-12-12T04:33:00"
+  },
+  {
+    "file_name": "GX1tL_5soD8iVWu2.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1999217206044033028/vid/avc1/1080x1920/GX1tL_5soD8iVWu2.mp4?tag=21",
+    "read_time": "2025-12-12T06:01:25",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (199MB > 50MB)",
+      "timestamp": "2025-12-12T06:01:43",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 208797315,
+      "size_mb": 199.12,
+      "timestamp": "2025-12-12T06:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "直男沦陷系列  (500) https://t.co/HtvrHPw6aC",
+    "publish_time": "2025-12-12T05:05:37"
+  },
+  {
+    "file_name": "G76sBdlagAAHGT5.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G76sBdlagAAHGT5.jpg",
+    "read_time": "2025-12-12T06:01:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13486,
+      "timestamp": "2025-12-12T06:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 81586,
+      "size_mb": 0.08,
+      "timestamp": "2025-12-12T06:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "chengchangfan https://t.co/QPBIBMgb0T",
+    "publish_time": "2025-12-12T05:07:03"
   }
 ]
