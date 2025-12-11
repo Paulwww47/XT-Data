@@ -274,15 +274,15 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (182MB > 50MB)",
       "timestamp": "2025-12-12T06:01:41",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "download_attempts": 0,
       "success": true,
       "size": 191146191,
       "size_mb": 182.29,
-      "timestamp": "2025-12-12T06:01:41"
+      "timestamp": "2025-12-12T07:02:07"
     },
     "full_text": "kenottvip https://t.co/4xJoqVFbHw",
     "publish_time": "2025-12-12T04:33:00"
@@ -302,14 +302,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (199MB > 50MB)",
       "timestamp": "2025-12-12T06:01:43",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 208797315,
       "size_mb": 199.12,
-      "timestamp": "2025-12-12T06:01:43",
+      "timestamp": "2025-12-12T07:02:07",
       "download_attempts": 0
     },
     "full_text": "直男沦陷系列  (500) https://t.co/HtvrHPw6aC",
