@@ -268,5 +268,45 @@
     "tweetUrl": "https://x.com/fanglangnantu/status/1999343052587172149",
     "fullText": "限时福利！",
     "publishTime": "2025-12-12T12:58:24"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G78aPn8agAUbSua.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/1999345617609666882",
+    "fullText": "https://t.co/9GUdWlh5dn",
+    "publishTime": "2025-12-12T13:08:35"
+  },
+  {
+    "user": {
+      "screenName": "RuiHengJin",
+      "name": "H."
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G78aohdagAIit2O.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/RuiHengJin/status/1999346052827316277",
+    "fullText": "在广州上学12月份be like👇 https://t.co/nFWlYb6gLk",
+    "publishTime": "2025-12-12T13:10:19"
+  },
+  {
+    "user": {
+      "screenName": "fanglangnantu",
+      "name": "放浪男徒 @广州"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/fanglangnantu/status/1999357088926171616",
+    "fullText": "点赞少 就变成限时福利了",
+    "publishTime": "2025-12-12T13:54:10"
   }
 ]
