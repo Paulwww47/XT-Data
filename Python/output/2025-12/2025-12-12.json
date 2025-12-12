@@ -340,5 +340,57 @@
     },
     "full_text": "chengchangfan https://t.co/QPBIBMgb0T",
     "publish_time": "2025-12-12T05:07:03"
+  },
+  {
+    "file_name": "nTJ7ewf0iaoOWrI3.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1999265972499406848/vid/avc1/720x1280/nTJ7ewf0iaoOWrI3.mp4?tag=21",
+    "read_time": "2025-12-12T08:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13488,
+      "timestamp": "2025-12-12T08:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5439226,
+      "size_mb": 5.19,
+      "timestamp": "2025-12-12T08:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "明天又放假了 https://t.co/IesaByKAHM",
+    "publish_time": "2025-12-12T07:52:29"
+  },
+  {
+    "file_name": "uHfOausDteIFppP_.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1999266612680249344/vid/avc1/720x1280/uHfOausDteIFppP_.mp4?tag=21",
+    "read_time": "2025-12-12T08:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13489,
+      "timestamp": "2025-12-12T08:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 8080032,
+      "size_mb": 7.71,
+      "timestamp": "2025-12-12T08:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "懶惰 https://t.co/YXajYTwQnd",
+    "publish_time": "2025-12-12T07:55:05"
   }
 ]
