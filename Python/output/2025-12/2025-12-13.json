@@ -830,5 +830,111 @@
     },
     "full_text": "https://t.co/CNC7Jx5eoP",
     "publish_time": "2025-12-13T21:51:40"
+  },
+  {
+    "file_name": "oaYmjnfLLv2sLgZZ.mp4",
+    "user": {
+      "screen_name": "Maxzhaoz",
+      "name": "小白一枚"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1999848715855757313/vid/avc1/1280x720/oaYmjnfLLv2sLgZZ.mp4?tag=21",
+    "read_time": "2025-12-13T23:01:19",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (79MB > 50MB)",
+      "timestamp": "2025-12-13T23:01:27",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 83024534,
+      "size_mb": 79.18,
+      "timestamp": "2025-12-13T23:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "洗个澡 https://t.co/bpwjCKFpCb",
+    "publish_time": "2025-12-13T22:30:44"
+  },
+  {
+    "file_name": "G8DkgU4awAAIqcL.jpg",
+    "user": {
+      "screen_name": "Maxzhaoz",
+      "name": "小白一枚"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G8DkgU4awAAIqcL.jpg",
+    "read_time": "2025-12-13T23:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13569,
+      "timestamp": "2025-12-13T23:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 85824,
+      "size_mb": 0.08,
+      "timestamp": "2025-12-13T23:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/qJaahuo9AQ",
+    "publish_time": "2025-12-13T22:30:47"
+  },
+  {
+    "file_name": "G8Dk0D0aoAEwoUn.jpg",
+    "user": {
+      "screen_name": "Maxzhaoz",
+      "name": "小白一枚"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G8Dk0D0aoAEwoUn.jpg",
+    "read_time": "2025-12-13T23:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13570,
+      "timestamp": "2025-12-13T23:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 55472,
+      "size_mb": 0.05,
+      "timestamp": "2025-12-13T23:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/XklngFfGWs",
+    "publish_time": "2025-12-13T22:32:08"
+  },
+  {
+    "file_name": "G8DqZ_Aa8AEQBqe.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G8DqZ_Aa8AEQBqe.png",
+    "read_time": "2025-12-13T23:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13571,
+      "timestamp": "2025-12-13T23:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 307484,
+      "size_mb": 0.29,
+      "timestamp": "2025-12-13T23:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/IMJNAsAfiB",
+    "publish_time": "2025-12-13T22:56:38"
   }
 ]
