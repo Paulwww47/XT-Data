@@ -14,14 +14,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (220MB > 50MB)",
       "timestamp": "2025-12-15T01:01:46",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 231237609,
       "size_mb": 220.53,
-      "timestamp": "2025-12-15T01:01:46",
+      "timestamp": "2025-12-15T02:01:32",
       "download_attempts": 0
     },
     "full_text": "井绳 https://t.co/A0zPKaERbv",
@@ -68,17 +68,45 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (216MB > 50MB)",
       "timestamp": "2025-12-15T01:02:13",
+      "notification_sent": true
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 226842495,
+      "size_mb": 216.33,
+      "timestamp": "2025-12-15T02:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "子韩s https://t.co/4jAvsz5sn3",
+    "publish_time": "2025-12-15T00:55:20"
+  },
+  {
+    "file_name": "iK0iT1mFmIGM7Idw.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2000248409240825857/vid/avc1/1080x1920/iK0iT1mFmIGM7Idw.mp4?tag=21",
+    "read_time": "2025-12-15T02:01:30",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (180MB > 50MB)",
+      "timestamp": "2025-12-15T02:01:35",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 226842495,
-      "size_mb": 216.33,
-      "timestamp": "2025-12-15T01:02:13",
+      "size": 188801955,
+      "size_mb": 180.06,
+      "timestamp": "2025-12-15T02:01:35",
       "download_attempts": 0
     },
-    "full_text": "子韩s https://t.co/4jAvsz5sn3",
-    "publish_time": "2025-12-15T00:55:20"
+    "full_text": "u419047263 https://t.co/p22C7jN9M5",
+    "publish_time": "2025-12-15T01:18:09"
   }
 ]
