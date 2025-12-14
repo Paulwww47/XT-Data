@@ -124,14 +124,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (111MB > 50MB)",
       "timestamp": "2025-12-15T06:01:44",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 116987553,
       "size_mb": 111.57,
-      "timestamp": "2025-12-15T06:01:44",
+      "timestamp": "2025-12-15T07:01:27",
       "download_attempts": 0
     },
     "full_text": "直男沦陷系列 (262) https://t.co/0JbDdfhL2v",
@@ -152,14 +152,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (65MB > 50MB)",
       "timestamp": "2025-12-15T06:01:50",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 68289542,
       "size_mb": 65.13,
-      "timestamp": "2025-12-15T06:01:50",
+      "timestamp": "2025-12-15T07:01:28",
       "download_attempts": 0
     },
     "full_text": "letmesuckyourjj https://t.co/H5RsBKj8aq",
@@ -206,17 +206,69 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (136MB > 50MB)",
       "timestamp": "2025-12-15T06:02:14",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 143617011,
       "size_mb": 136.96,
-      "timestamp": "2025-12-15T06:02:14",
+      "timestamp": "2025-12-15T07:01:32",
       "download_attempts": 0
     },
     "full_text": "凯 不小心又玩太久了，假屌真的不要亂拿出來玩耶🤪🤪🤪（影片） _ FansOne 讓創作更有價值 https://t.co/Wa2mFFeKKB",
     "publish_time": "2025-12-15T05:56:46"
+  },
+  {
+    "file_name": "kP6yy2inLoIdUvFE.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2000326960254185473/vid/avc1/608x1080/kP6yy2inLoIdUvFE.mp4?tag=21",
+    "read_time": "2025-12-15T07:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13630,
+      "timestamp": "2025-12-15T07:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 42486193,
+      "size_mb": 40.52,
+      "timestamp": "2025-12-15T07:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "森不热 https://t.co/BZWUrxuafg",
+    "publish_time": "2025-12-15T06:11:29"
+  },
+  {
+    "file_name": "KaBfuO60_Odiwbdt.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2000328001800613894/vid/avc1/946x1080/KaBfuO60_Odiwbdt.mp4?tag=21",
+    "read_time": "2025-12-15T07:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13631,
+      "timestamp": "2025-12-15T07:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 12131577,
+      "size_mb": 11.57,
+      "timestamp": "2025-12-15T07:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "按摩师06_球员的加训第一部_FansOne_讓創作更有價值 https://t.co/4N02sW5L2m",
+    "publish_time": "2025-12-15T06:15:26"
   }
 ]
