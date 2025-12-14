@@ -96,14 +96,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (180MB > 50MB)",
       "timestamp": "2025-12-15T02:01:35",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 188801955,
       "size_mb": 180.06,
-      "timestamp": "2025-12-15T02:01:35",
+      "timestamp": "2025-12-15T03:01:53",
       "download_attempts": 0
     },
     "full_text": "u419047263 https://t.co/p22C7jN9M5",
