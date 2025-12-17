@@ -570,5 +570,31 @@
     },
     "full_text": "蛇胆 https://t.co/b6U8kqCWtn",
     "publish_time": "2025-12-17T17:11:01"
+  },
+  {
+    "file_name": "U2wfmfIUQqOBaF45.mp4",
+    "user": {
+      "screen_name": "shemingyu",
+      "name": "你的梦"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2001233811032662016/vid/avc1/720x1280/U2wfmfIUQqOBaF45.mp4?tag=21",
+    "read_time": "2025-12-17T19:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13733,
+      "timestamp": "2025-12-17T19:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2820142,
+      "size_mb": 2.69,
+      "timestamp": "2025-12-17T19:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "谁敢在健身房这样？我敢！ https://t.co/vsvlDX9MBn",
+    "publish_time": "2025-12-17T18:12:18"
   }
 ]
