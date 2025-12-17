@@ -544,5 +544,31 @@
     },
     "full_text": "karlbbbbb https://t.co/yJvBfEGuSX",
     "publish_time": "2025-12-17T16:25:54"
+  },
+  {
+    "file_name": "eFYTPzq7d33gOByT.mp4",
+    "user": {
+      "screen_name": "LiugangLogan",
+      "name": "刘刚Logan"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2001218507888058368/vid/avc1/720x1280/eFYTPzq7d33gOByT.mp4?tag=21",
+    "read_time": "2025-12-17T18:01:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13732,
+      "timestamp": "2025-12-17T18:01:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 396340,
+      "size_mb": 0.38,
+      "timestamp": "2025-12-17T18:01:01",
+      "download_attempts": 0
+    },
+    "full_text": "蛇胆 https://t.co/b6U8kqCWtn",
+    "publish_time": "2025-12-17T17:11:01"
   }
 ]
