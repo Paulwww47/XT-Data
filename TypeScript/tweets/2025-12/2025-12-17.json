@@ -40,5 +40,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2001060293410218153",
     "fullText": "james_shih510 https://t.co/C1imkcP0AP",
     "publishTime": "2025-12-17T06:42:06"
+  },
+  {
+    "user": {
+      "screenName": "lim002066971",
+      "name": "稀饭粥粥"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8U70r6bgAAvRh5.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/lim002066971/status/2001071391333109996",
+    "fullText": "morning https://t.co/8DOZV2J8e2",
+    "publishTime": "2025-12-17T07:26:12"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8VDSpya4AEXY1o.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2001079602685603874",
+    "fullText": "nico_shan https://t.co/gWEfQe1e1F",
+    "publishTime": "2025-12-17T07:58:50"
   }
 ]
