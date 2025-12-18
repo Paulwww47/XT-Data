@@ -3139,6 +3139,22 @@
     }
   },
   {
+    "restId": "1836649757726642180",
+    "legacy": {
+      "name": "开团我最帅",
+      "screenName": "snkrss01",
+      "createdAt": "Thu Sep 19 06:13:29 +0000 2024",
+      "description": "🍆 抖音乱评会拉黑",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2001110446934515713/xjswnnkk_normal.jpg"
+    }
+  },
+  {
     "restId": "1155391710",
     "legacy": {
       "name": "无脸猫SPHYNX（深圳）",
