@@ -76,5 +76,57 @@
     },
     "full_text": "https://t.co/b16K733qMC",
     "publish_time": "2025-12-18T08:03:30"
+  },
+  {
+    "file_name": "G8ah10kakAMIrzp.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G8ah10kakAMIrzp.jpg",
+    "read_time": "2025-12-18T10:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13745,
+      "timestamp": "2025-12-18T10:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 125329,
+      "size_mb": 0.12,
+      "timestamp": "2025-12-18T10:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "zeric_gym https://t.co/tkOt5KHEFO",
+    "publish_time": "2025-12-18T09:30:24"
+  },
+  {
+    "file_name": "G8aiFwkakAYctUW.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G8aiFwkakAYctUW.jpg",
+    "read_time": "2025-12-18T10:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13746,
+      "timestamp": "2025-12-18T10:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 146961,
+      "size_mb": 0.14,
+      "timestamp": "2025-12-18T10:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/JgIBxxendE",
+    "publish_time": "2025-12-18T09:31:30"
   }
 ]
