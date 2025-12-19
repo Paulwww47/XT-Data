@@ -40,14 +40,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (73MB > 50MB)",
       "timestamp": "2025-12-20T01:01:51",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 77268998,
       "size_mb": 73.69,
-      "timestamp": "2025-12-20T01:01:51",
+      "timestamp": "2025-12-20T02:01:54",
       "download_attempts": 0
     },
     "full_text": "kent-jp https://t.co/8FovnwWIwm",
