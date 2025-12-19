@@ -172,14 +172,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (182MB > 50MB)",
       "timestamp": "2025-12-19T08:01:47",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 191749655,
       "size_mb": 182.87,
-      "timestamp": "2025-12-19T08:01:47",
+      "timestamp": "2025-12-19T09:01:28",
       "download_attempts": 0
     },
     "full_text": "kengojp https://t.co/dtIWRA3eJJ",
@@ -200,14 +200,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (216MB > 50MB)",
       "timestamp": "2025-12-19T08:02:08",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 227397254,
       "size_mb": 216.86,
-      "timestamp": "2025-12-19T08:02:08",
+      "timestamp": "2025-12-19T09:01:30",
       "download_attempts": 0
     },
     "full_text": "joshyandlocky https://t.co/9GDgCv9blx",
@@ -228,14 +228,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (222MB > 50MB)",
       "timestamp": "2025-12-19T08:02:28",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 233820206,
       "size_mb": 222.99,
-      "timestamp": "2025-12-19T08:02:28",
+      "timestamp": "2025-12-19T09:01:32",
       "download_attempts": 0
     },
     "full_text": "joshyandlocky https://t.co/KU8D9IHkY8",
@@ -266,5 +266,83 @@
     },
     "full_text": "asibalong https://t.co/LKCxIc16lK",
     "publish_time": "2025-12-19T07:57:27"
+  },
+  {
+    "file_name": "G8fjuerbkAAwoJP.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G8fjuerbkAAwoJP.jpg",
+    "read_time": "2025-12-19T09:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13790,
+      "timestamp": "2025-12-19T09:01:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 90590,
+      "size_mb": 0.09,
+      "timestamp": "2025-12-19T09:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/VLSVnatQmY",
+    "publish_time": "2025-12-19T08:56:44"
+  },
+  {
+    "file_name": "G8fj86Za0AA8bO3.jpg",
+    "user": {
+      "screen_name": "snkrss01",
+      "name": "开团我最帅"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G8fj86Za0AA8bO3.jpg",
+    "read_time": "2025-12-19T09:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13791,
+      "timestamp": "2025-12-19T09:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 109008,
+      "size_mb": 0.1,
+      "timestamp": "2025-12-19T09:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "可以被你们随便玩吗？谁说劳资推不浑的～ https://t.co/biS1KbNjvu",
+    "publish_time": "2025-12-19T08:57:46"
+  },
+  {
+    "file_name": "G8fj86UagAAabVY.jpg",
+    "user": {
+      "screen_name": "snkrss01",
+      "name": "开团我最帅"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G8fj86UagAAabVY.jpg",
+    "read_time": "2025-12-19T09:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 13792,
+      "timestamp": "2025-12-19T09:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 109606,
+      "size_mb": 0.1,
+      "timestamp": "2025-12-19T09:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "可以被你们随便玩吗？谁说劳资推不浑的～ https://t.co/biS1KbNjvu",
+    "publish_time": "2025-12-19T08:57:46"
   }
 ]
