@@ -1490,19 +1490,6 @@
       "entities": {
         "description": {
           "urls": []
-        },
-        "url": {
-          "urls": [
-            {
-              "display_url": "instagram.com/kwuen07?igsh=O…",
-              "expanded_url": "https://www.instagram.com/kwuen07?igsh=OGQ5ZDc2ODk2ZA==",
-              "url": "https://t.co/EEB3N1RVMJ",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
         }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1061102705190424578/1567341640",
@@ -2553,7 +2540,7 @@
       "name": "Muscle Hunter",
       "screenName": "MuscleHunterX",
       "createdAt": "Thu Feb 07 16:38:04 +0000 2019",
-      "description": "肌肉控 直男信息无可奉告 想空手套白狼的不用找我试",
+      "description": "肌肉控 直男信息无可奉告 想空手套白狼的不用找我",
       "entities": {
         "description": {
           "urls": []
