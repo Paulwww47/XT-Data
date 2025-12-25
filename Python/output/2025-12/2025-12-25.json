@@ -1460,5 +1460,57 @@
     },
     "full_text": "quebaner https://t.co/GXDayjCiuZ",
     "publish_time": "2025-12-25T19:48:34"
+  },
+  {
+    "file_name": "ZOYiT_DNWllGfcA0.mp4",
+    "user": {
+      "screen_name": "AFD8864",
+      "name": "小七次朗（科目三）"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2004162920268353536/vid/avc1/720x1174/ZOYiT_DNWllGfcA0.mp4?tag=21",
+    "read_time": "2025-12-25T21:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14100,
+      "timestamp": "2025-12-25T21:01:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1470889,
+      "size_mb": 1.4,
+      "timestamp": "2025-12-25T21:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "开始囖 https://t.co/9WnMGbHNVv",
+    "publish_time": "2025-12-25T20:11:10"
+  },
+  {
+    "file_name": "G9BAwN4a0AA92Hz.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G9BAwN4a0AA92Hz.jpg",
+    "read_time": "2025-12-25T21:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14101,
+      "timestamp": "2025-12-25T21:01:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 112358,
+      "size_mb": 0.11,
+      "timestamp": "2025-12-25T21:01:18",
+      "download_attempts": 0
+    },
+    "full_text": "yuknmr https://t.co/TP79tkjAaR",
+    "publish_time": "2025-12-25T20:51:02"
   }
 ]
