@@ -339,5 +339,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2004536456635978223",
     "fullText": "https://t.co/KSbrmMa042",
     "publishTime": "2025-12-26T20:55:08"
+  },
+  {
+    "user": {
+      "screenName": "RuiHengJin",
+      "name": "H."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2004541333722304512/vid/avc1/720x1080/EBF7NHrotSYBvifG.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/RuiHengJin/status/2004541457718485264",
+    "fullText": "闷在鞋里一整天，白袜都给你干却黑😅 https://t.co/GxEXAHMk0D",
+    "publishTime": "2025-12-26T21:15:00"
+  },
+  {
+    "user": {
+      "screenName": "captainshagang",
+      "name": "沙岗队长"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9GRIVZaQAAddnG.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/captainshagang/status/2004542889490321848",
+    "fullText": "上海健身一对一私 https://t.co/WvLBRlEr6y",
+    "publishTime": "2025-12-26T21:20:42"
   }
 ]
