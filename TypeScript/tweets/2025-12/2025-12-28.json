@@ -106,5 +106,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2005092615910567942",
     "fullText": "karlbbbbb https://t.co/XB1MiMo3Ft",
     "publishTime": "2025-12-28T09:45:07"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2005097843586195456/vid/avc1/720x1280/gIbemaLwZ9ctQKtG.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/2005097973664153627",
+    "fullText": "早 又在牙痛 https://t.co/Td23QHPx2f",
+    "publishTime": "2025-12-28T10:06:24"
+  },
+  {
+    "user": {
+      "screenName": "brooklyn29540",
+      "name": "不要问我从哪里来"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9OLApUaYAA_hif.jpg",
+      "https://pbs.twimg.com/media/G9OLApVbgAInbF4.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/brooklyn29540/status/2005099112853803307",
+    "fullText": "圣诞快乐呗 https://t.co/cOzoNVeJIO",
+    "publishTime": "2025-12-28T10:10:56"
   }
 ]
