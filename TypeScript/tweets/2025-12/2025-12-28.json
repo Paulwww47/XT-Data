@@ -64,5 +64,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2005076443982901714",
     "fullText": "https://t.co/EjVu2x3Wg1",
     "publishTime": "2025-12-28T08:40:51"
+  },
+  {
+    "user": {
+      "screenName": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2005090817585938435/vid/avc1/720x1280/lP8FDKsSVNpBLRiq.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/BBoy1069/status/2005090888872349726",
+    "fullText": "【2025年12月28日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/WA8dwUCkvR",
+    "publishTime": "2025-12-28T09:38:15"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9OFBb2bAAAuuLl.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2005092524839633104",
+    "fullText": "jason_\n_tan https://t.co/1Oqb42l9of",
+    "publishTime": "2025-12-28T09:44:45"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9OFGeXbgAEUkev.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2005092615910567942",
+    "fullText": "karlbbbbb https://t.co/XB1MiMo3Ft",
+    "publishTime": "2025-12-28T09:45:07"
   }
 ]
