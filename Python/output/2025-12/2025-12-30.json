@@ -76,5 +76,59 @@
     },
     "full_text": "BKK till 1/6\nAnything? 🤪 https://t.co/Uxz06W4D5n",
     "publish_time": "2025-12-30T01:32:14"
+  },
+  {
+    "file_name": "VXcl5N5B4zOsqu9Y.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2005762477456531456/vid/avc1/720x1280/VXcl5N5B4zOsqu9Y.mp4?tag=21",
+    "read_time": "2025-12-30T07:00:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14268,
+      "timestamp": "2025-12-30T07:01:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5304466,
+      "size_mb": 5.06,
+      "timestamp": "2025-12-30T07:00:57",
+      "download_attempts": 0
+    },
+    "full_text": "清晨 https://t.co/p747jAH3mt",
+    "publish_time": "2025-12-30T06:07:15"
+  },
+  {
+    "file_name": "5l-BFv9-F_RmT3nT.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2005770067561328640/vid/avc1/1080x1920/5l-BFv9-F_RmT3nT.mp4?tag=21",
+    "read_time": "2025-12-30T07:00:56",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (474MB > 50MB)",
+      "timestamp": "2025-12-30T07:01:47",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 497058378,
+      "size_mb": 474.03,
+      "timestamp": "2025-12-30T07:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "zkjtop  188男大肌肉体育生第一部 https://t.co/fBJQu5ULAv",
+    "publish_time": "2025-12-30T06:53:42"
   }
 ]
