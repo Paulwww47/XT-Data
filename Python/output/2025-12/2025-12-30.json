@@ -118,14 +118,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (474MB > 50MB)",
       "timestamp": "2025-12-30T07:01:47",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 497058378,
       "size_mb": 474.03,
-      "timestamp": "2025-12-30T07:01:47",
+      "timestamp": "2025-12-30T08:01:49",
       "download_attempts": 0
     },
     "full_text": "zkjtop  188男大肌肉体育生第一部 https://t.co/fBJQu5ULAv",
