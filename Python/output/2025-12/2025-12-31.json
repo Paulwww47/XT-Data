@@ -336,5 +336,31 @@
     },
     "full_text": "022 sgties https://t.co/ttFjJSConl",
     "publish_time": "2025-12-31T03:08:18"
+  },
+  {
+    "file_name": "lW-MG8RxjN9Mu5aj.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2006117989293383680/vid/avc1/720x1280/lW-MG8RxjN9Mu5aj.mp4?tag=21",
+    "read_time": "2025-12-31T06:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14322,
+      "timestamp": "2025-12-31T06:01:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 8746096,
+      "size_mb": 8.34,
+      "timestamp": "2025-12-31T06:01:50",
+      "download_attempts": 0
+    },
+    "full_text": "凌晨 https://t.co/zfcWsGrIsD",
+    "publish_time": "2025-12-31T05:40:00"
   }
 ]

@@ -1031,7 +1031,7 @@
           "urls": []
         }
       },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1558674751308337153/1760554850",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1558674751308337153/1767113975",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1979260127384354816/8zylXNJ2_normal.jpg"
     }
   },
@@ -3024,10 +3024,23 @@
       "name": "嗷呜有劲",
       "screenName": "rrrrrrig_",
       "createdAt": "Fri Feb 28 04:59:17 +0000 2025",
-      "description": "嗷呜我本人在深圳 超专业超认真SPA 绝不敷衍 毛遂自荐  spa和视频的事都可以加QQ  97661811 注明来意 无事勿扰 全网同名 照片分身号：@aowuyoujin",
+      "description": "嗷呜我本人在深圳 超专业超认真SPA 绝不敷衍 毛遂自荐 spa和视频的事都可以加QQ 97661811 注明来意 无事勿扰 全网同名 照片分身号：@aowuyoujin",
       "entities": {
         "description": {
           "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/aowuyoujin",
+              "expanded_url": "https://t.me/aowuyoujin",
+              "url": "https://t.co/RIIjvreGLP",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
         }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1895337912721698816/1753700318",
