@@ -1324,5 +1324,31 @@
     },
     "full_text": "marktototo https://t.co/0aqOT4YRUs",
     "publish_time": "2025-12-31T21:47:58"
+  },
+  {
+    "file_name": "Q8Ik0QVuIOwg1k9U.mp4",
+    "user": {
+      "screen_name": "alwyn_shown",
+      "name": "Alwyn Lu"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2006365331099705344/vid/avc1/720x1280/Q8Ik0QVuIOwg1k9U.mp4?tag=21",
+    "read_time": "2025-12-31T23:00:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14362,
+      "timestamp": "2025-12-31T23:00:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 8345775,
+      "size_mb": 7.96,
+      "timestamp": "2025-12-31T23:00:52",
+      "download_attempts": 0
+    },
+    "full_text": "🚗 https://t.co/UQ2VxNlo0j",
+    "publish_time": "2025-12-31T22:03:17"
   }
 ]
