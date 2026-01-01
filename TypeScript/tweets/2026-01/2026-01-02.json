@@ -54,5 +54,34 @@
     "tweetUrl": "https://x.com/snkrss01/status/2006775916802998566",
     "fullText": "过气擦边推特博主而已 https://t.co/LsLTepU3dr",
     "publishTime": "2026-01-02T01:13:57"
+  },
+  {
+    "user": {
+      "screenName": "max06734521",
+      "name": "🪳大王🪳"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9mUPYPa0AAvTKp.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/max06734521/status/2006798119712006352",
+    "fullText": "想听脏话 https://t.co/aku5Bj0UPa",
+    "publishTime": "2026-01-02T02:42:10"
+  },
+  {
+    "user": {
+      "screenName": "hwjjhww",
+      "name": "吃得饱（厦门）"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2006799835194970112/vid/avc1/720x1280/dMRTt7b1WOjzNUr-.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/2006799835203252226/vid/avc1/720x1280/KteFV_SwWpxxJFs1.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/hwjjhww/status/2006800254855950469",
+    "fullText": "在元旦自己在宿舍想怎么玩就怎么玩太爽 https://t.co/5wpJtB5rhP",
+    "publishTime": "2026-01-02T02:50:39"
   }
 ]
