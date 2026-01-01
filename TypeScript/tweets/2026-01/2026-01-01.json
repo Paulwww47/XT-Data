@@ -90,5 +90,48 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2006541527993176177",
     "fullText": "marktototo https://t.co/KNTrwb3c2w",
     "publishTime": "2026-01-01T09:42:34"
+  },
+  {
+    "user": {
+      "screenName": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2006549813459038211/vid/avc1/720x1280/slR5kgwpwkuOxbT7.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/BBoy1069/status/2006549876256178434",
+    "fullText": "【2026年1月1日】祝大家新年快樂，一切順遂！今日資源已經更新！以下視頻與更新內容無關！ https://t.co/Nch5khSugw",
+    "publishTime": "2026-01-01T10:15:45"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9i68NWaMAIl2de.jpg",
+      "https://pbs.twimg.com/media/G9i68NVbkAAGyb8.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2006559184930877596",
+    "fullText": "xiaoning 0622 https://t.co/QTWrQeuxpE",
+    "publishTime": "2026-01-01T10:52:44"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9i7CZsbIAAv1_X.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2006559288647647654",
+    "fullText": "jinhoangvn https://t.co/wG30eNdQUB",
+    "publishTime": "2026-01-01T10:53:09"
   }
 ]
