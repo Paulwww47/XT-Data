@@ -190,13 +190,39 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G9mZR_zaEAA94RN.jpg",
     "read_time": "2026-01-02T04:01:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14428,
+      "timestamp": "2026-01-02T05:01:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "download_attempts": 0,
+      "success": true,
+      "size": 33393,
+      "size_mb": 0.03,
+      "timestamp": "2026-01-02T05:01:33"
+    },
+    "full_text": "男大自己加骚的很，不能视频语音就别去打扰了 https://t.co/lEHNNaf4wg",
+    "publish_time": "2026-01-02T03:04:09"
+  },
+  {
+    "file_name": "G9mp_LzaMAIjaQZ.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G9mp_LzaMAIjaQZ.jpg",
+    "read_time": "2026-01-02T05:01:33",
     "is_uploaded": false,
     "upload_info": {},
     "is_downloaded": false,
     "download_info": {
       "download_attempts": 1
     },
-    "full_text": "男大自己加骚的很，不能视频语音就别去打扰了 https://t.co/lEHNNaf4wg",
-    "publish_time": "2026-01-02T03:04:09"
+    "full_text": "0504.antonio https://t.co/EYtdrXfoBc",
+    "publish_time": "2026-01-02T04:17:08"
   }
 ]
