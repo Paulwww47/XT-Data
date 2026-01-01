@@ -112,11 +112,19 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G9mUPYPa0AAvTKp.jpg",
     "read_time": "2026-01-02T03:00:59",
-    "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": false,
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14427,
+      "timestamp": "2026-01-02T04:01:52"
+    },
+    "is_downloaded": true,
     "download_info": {
-      "download_attempts": 1
+      "download_attempts": 0,
+      "success": true,
+      "size": 100824,
+      "size_mb": 0.1,
+      "timestamp": "2026-01-02T04:01:50"
     },
     "full_text": "想听脏话 https://t.co/aku5Bj0UPa",
     "publish_time": "2026-01-02T02:42:10"
@@ -172,5 +180,23 @@
     },
     "full_text": "在元旦自己在宿舍想怎么玩就怎么玩太爽 https://t.co/5wpJtB5rhP",
     "publish_time": "2026-01-02T02:50:39"
+  },
+  {
+    "file_name": "G9mZR_zaEAA94RN.jpg",
+    "user": {
+      "screen_name": "PageColclo99813",
+      "name": "抖音网红收割机"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G9mZR_zaEAA94RN.jpg",
+    "read_time": "2026-01-02T04:01:50",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": false,
+    "download_info": {
+      "download_attempts": 1
+    },
+    "full_text": "男大自己加骚的很，不能视频语音就别去打扰了 https://t.co/lEHNNaf4wg",
+    "publish_time": "2026-01-02T03:04:09"
   }
 ]
