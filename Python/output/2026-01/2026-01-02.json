@@ -606,11 +606,19 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G9ozTStaMAUmzVI.jpg",
     "read_time": "2026-01-02T15:00:47",
-    "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": false,
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14448,
+      "timestamp": "2026-01-02T16:00:54"
+    },
+    "is_downloaded": true,
     "download_info": {
-      "download_attempts": 1
+      "download_attempts": 0,
+      "success": true,
+      "size": 127401,
+      "size_mb": 0.12,
+      "timestamp": "2026-01-02T16:00:52"
     },
     "full_text": "https://t.co/eJEDzxLq0L",
     "publish_time": "2026-01-02T14:17:05"
@@ -718,5 +726,31 @@
     },
     "full_text": "为了回馈粉丝刚创了福利群。24小时免费入群领取！本人所有完整版视频+私人写真照，\n唯一通道TG : https://t.co/9YEsvaIVFA\n私信暗号👉： 222\n手慢无，24小时后关群！冲就对了～ https://t.co/vZADVYhLrD",
     "publish_time": "2026-01-02T14:52:17"
+  },
+  {
+    "file_name": "rsiTbmuvw96o_wtS.mp4",
+    "user": {
+      "screen_name": "pfejui",
+      "name": "啊这直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2006984004604395520/vid/avc1/720x1204/rsiTbmuvw96o_wtS.mp4?tag=21",
+    "read_time": "2026-01-02T16:00:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14449,
+      "timestamp": "2026-01-02T16:00:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1197156,
+      "size_mb": 1.14,
+      "timestamp": "2026-01-02T16:00:55",
+      "download_attempts": 0
+    },
+    "full_text": "来吧展示 https://t.co/6jJNS2f5Q9",
+    "publish_time": "2026-01-02T15:01:06"
   }
 ]
