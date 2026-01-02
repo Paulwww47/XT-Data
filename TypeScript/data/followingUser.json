@@ -296,6 +296,22 @@
     }
   },
   {
+    "restId": "1251370668387708928",
+    "legacy": {
+      "name": "F。our",
+      "screenName": "AlywnShown",
+      "createdAt": "Sat Apr 18 04:43:19 +0000 2020",
+      "description": "苏B，top brat，推止推 丨 私信没回就多发几遍，一般都会回 丨 🚪进电报群看无码 丨 小号避难所@alwyn_shown 丨",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1251370668387708928/1749643331",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1999377852740042754/w7FxldW1_normal.jpg"
+    }
+  },
+  {
     "restId": "988733585958912000",
     "legacy": {
       "name": "安猪大王",
@@ -1038,7 +1054,7 @@
   {
     "restId": "1558674751308337153",
     "legacy": {
-      "name": "放浪男徒 @深圳｜1月2日福州",
+      "name": "放浪男徒 @深圳 @福州",
       "screenName": "fanglangnantu",
       "createdAt": "Sun Aug 14 04:40:06 +0000 2022",
       "description": "Adult Content！成人内容！Top1️⃣ 不约！169加VX！防走丢预约关注私 @MilkingNANTU",
@@ -1078,6 +1094,32 @@
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1092996699046465536/1564302917",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1153701708448464896/1bDta60q_normal.jpg"
+    }
+  },
+  {
+    "restId": "1982189099382685696",
+    "legacy": {
+      "name": "菠萝🍍",
+      "screenName": "FerrimanLo15897",
+      "createdAt": "Sat Oct 25 20:54:44 +0000 2025",
+      "description": "原创TP和采访博主｜预览群https://t.co/JCom3WYC0W",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "t.me/+UbZ7lMkT1x80M…",
+              "expanded_url": "https://t.me/+UbZ7lMkT1x80MDU1",
+              "url": "https://t.co/JCom3WYC0W",
+              "indices": [
+                13,
+                36
+              ]
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1991556894344036353/nGj99QR6_normal.jpg"
     }
   },
   {
