@@ -521,5 +521,36 @@
     "tweetUrl": "https://x.com/tnzhfng41/status/2007043040960287038",
     "fullText": "https://t.co/TfTNPl8gF1",
     "publishTime": "2026-01-02T18:55:24"
+  },
+  {
+    "user": {
+      "screenName": "RuiHengJin",
+      "name": "H."
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9p8IgRbgAEi68l.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/RuiHengJin/status/2007053083369722226",
+    "fullText": "提神醒脑😅 https://t.co/4IaWOUHkdr",
+    "publishTime": "2026-01-02T19:35:18"
+  },
+  {
+    "user": {
+      "screenName": "alwyn_shown",
+      "name": "Alwyn Lu"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9p-uombcAAIMYg.jpg",
+      "https://pbs.twimg.com/media/G9p-uooagAAAjKs.jpg",
+      "https://pbs.twimg.com/media/G9p-uoibcAAJr1E.jpg",
+      "https://pbs.twimg.com/media/G9p-uonawAArhv0.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/alwyn_shown/status/2007055946594623856",
+    "fullText": "小尾巴～ https://t.co/YowgRNTv31",
+    "publishTime": "2026-01-02T19:46:41"
   }
 ]

@@ -976,14 +976,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (53MB > 50MB)",
       "timestamp": "2026-01-02T19:01:04",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 55975562,
       "size_mb": 53.38,
-      "timestamp": "2026-01-02T19:01:04",
+      "timestamp": "2026-01-02T20:01:14",
       "download_attempts": 0
     },
     "full_text": "祝大家2026元旦快乐🎉💕\nHappy new year🫶\n\n#白袜 #粗腿 #solo #飞机杯 \n白袜粗腿在床上顶操白膜飞机杯😽双腿夹着屁股蛋子不停操着逼心 光脚白袜幻想在顶着骚逼🛁上翘鸡巴顶🆙爽不爽🤤爷们儿飞机杯就该这么操 没忍住最后烟花🎆喷涌而出 射在了衣服上🐍来吃爹浓精👅 https://t.co/3z68QfMgY9",
@@ -1040,5 +1040,135 @@
     },
     "full_text": "https://t.co/TfTNPl8gF1",
     "publish_time": "2026-01-02T18:55:24"
+  },
+  {
+    "file_name": "G9p8IgRbgAEi68l.jpg",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G9p8IgRbgAEi68l.jpg",
+    "read_time": "2026-01-02T20:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14460,
+      "timestamp": "2026-01-02T20:01:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 241365,
+      "size_mb": 0.23,
+      "timestamp": "2026-01-02T20:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "提神醒脑😅 https://t.co/4IaWOUHkdr",
+    "publish_time": "2026-01-02T19:35:18"
+  },
+  {
+    "file_name": "G9p-uombcAAIMYg.jpg",
+    "user": {
+      "screen_name": "alwyn_shown",
+      "name": "Alwyn Lu"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G9p-uombcAAIMYg.jpg",
+    "read_time": "2026-01-02T20:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14461,
+      "timestamp": "2026-01-02T20:01:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 102862,
+      "size_mb": 0.1,
+      "timestamp": "2026-01-02T20:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "小尾巴～ https://t.co/YowgRNTv31",
+    "publish_time": "2026-01-02T19:46:41"
+  },
+  {
+    "file_name": "G9p-uooagAAAjKs.jpg",
+    "user": {
+      "screen_name": "alwyn_shown",
+      "name": "Alwyn Lu"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G9p-uooagAAAjKs.jpg",
+    "read_time": "2026-01-02T20:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14462,
+      "timestamp": "2026-01-02T20:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 105370,
+      "size_mb": 0.1,
+      "timestamp": "2026-01-02T20:01:19",
+      "download_attempts": 0
+    },
+    "full_text": "小尾巴～ https://t.co/YowgRNTv31",
+    "publish_time": "2026-01-02T19:46:41"
+  },
+  {
+    "file_name": "G9p-uoibcAAJr1E.jpg",
+    "user": {
+      "screen_name": "alwyn_shown",
+      "name": "Alwyn Lu"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G9p-uoibcAAJr1E.jpg",
+    "read_time": "2026-01-02T20:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14463,
+      "timestamp": "2026-01-02T20:01:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 121413,
+      "size_mb": 0.12,
+      "timestamp": "2026-01-02T20:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "小尾巴～ https://t.co/YowgRNTv31",
+    "publish_time": "2026-01-02T19:46:41"
+  },
+  {
+    "file_name": "G9p-uonawAArhv0.jpg",
+    "user": {
+      "screen_name": "alwyn_shown",
+      "name": "Alwyn Lu"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G9p-uonawAArhv0.jpg",
+    "read_time": "2026-01-02T20:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14464,
+      "timestamp": "2026-01-02T20:01:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 123278,
+      "size_mb": 0.12,
+      "timestamp": "2026-01-02T20:01:23",
+      "download_attempts": 0
+    },
+    "full_text": "小尾巴～ https://t.co/YowgRNTv31",
+    "publish_time": "2026-01-02T19:46:41"
   }
 ]
