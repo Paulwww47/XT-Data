@@ -112,11 +112,19 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G9rJj96aAAAg3VF.jpg",
     "read_time": "2026-01-03T02:01:26",
-    "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": false,
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14477,
+      "timestamp": "2026-01-03T05:01:26"
+    },
+    "is_downloaded": true,
     "download_info": {
-      "download_attempts": 3
+      "download_attempts": 0,
+      "success": true,
+      "size": 61087,
+      "size_mb": 0.06,
+      "timestamp": "2026-01-03T05:01:24"
     },
     "full_text": "https://t.co/pZda80SMgf",
     "publish_time": "2026-01-03T01:13:35"
