@@ -216,11 +216,19 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G9mp_LzaMAIjaQZ.jpg",
     "read_time": "2026-01-02T05:01:33",
-    "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": false,
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14429,
+      "timestamp": "2026-01-02T10:01:12"
+    },
+    "is_downloaded": true,
     "download_info": {
-      "download_attempts": 5
+      "download_attempts": 0,
+      "success": true,
+      "size": 103945,
+      "size_mb": 0.1,
+      "timestamp": "2026-01-02T10:01:10"
     },
     "full_text": "0504.antonio https://t.co/EYtdrXfoBc",
     "publish_time": "2026-01-02T04:17:08"
@@ -234,11 +242,19 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G9nkyu5bUAAZDtg.jpg",
     "read_time": "2026-01-02T09:01:23",
-    "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": false,
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14430,
+      "timestamp": "2026-01-02T10:01:14"
+    },
+    "is_downloaded": true,
     "download_info": {
-      "download_attempts": 1
+      "download_attempts": 0,
+      "success": true,
+      "size": 178249,
+      "size_mb": 0.17,
+      "timestamp": "2026-01-02T10:01:12"
     },
     "full_text": "https://t.co/T8DufdRqpr",
     "publish_time": "2026-01-02T08:34:03"
@@ -252,13 +268,47 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G9npRHEaMAQLm_k.jpg",
     "read_time": "2026-01-02T09:01:23",
-    "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": false,
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14431,
+      "timestamp": "2026-01-02T10:01:16"
+    },
+    "is_downloaded": true,
     "download_info": {
-      "download_attempts": 1
+      "download_attempts": 0,
+      "success": true,
+      "size": 103504,
+      "size_mb": 0.1,
+      "timestamp": "2026-01-02T10:01:14"
     },
     "full_text": "https://t.co/SBtRznzosT",
     "publish_time": "2026-01-02T08:53:37"
+  },
+  {
+    "file_name": "5fuWrEGOIPo7b5WN.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2006905132156596227/vid/avc1/720x1280/5fuWrEGOIPo7b5WN.mp4?tag=14",
+    "read_time": "2026-01-02T10:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14432,
+      "timestamp": "2026-01-02T10:01:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1860149,
+      "size_mb": 1.77,
+      "timestamp": "2026-01-02T10:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年1月2日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/oM1iBfdaGL",
+    "publish_time": "2026-01-02T09:47:32"
   }
 ]

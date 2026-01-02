@@ -139,5 +139,19 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2006891596705649015",
     "fullText": "https://t.co/SBtRznzosT",
     "publishTime": "2026-01-02T08:53:37"
+  },
+  {
+    "user": {
+      "screenName": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2006905132156596227/vid/avc1/720x1280/5fuWrEGOIPo7b5WN.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/BBoy1069/status/2006905164607991809",
+    "fullText": "【2026年1月2日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/oM1iBfdaGL",
+    "publishTime": "2026-01-02T09:47:32"
   }
 ]
