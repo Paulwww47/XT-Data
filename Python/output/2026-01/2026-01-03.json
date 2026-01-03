@@ -138,11 +138,19 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G9sMYiwasAAtRWO.jpg",
     "read_time": "2026-01-03T07:00:51",
-    "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": false,
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14478,
+      "timestamp": "2026-01-03T08:00:46"
+    },
+    "is_downloaded": true,
     "download_info": {
-      "download_attempts": 1
+      "download_attempts": 0,
+      "success": true,
+      "size": 68035,
+      "size_mb": 0.06,
+      "timestamp": "2026-01-03T08:00:44"
     },
     "full_text": "https://t.co/RWfFrDNHsG",
     "publish_time": "2026-01-03T06:05:31"
@@ -160,7 +168,7 @@
     "upload_info": {},
     "is_downloaded": false,
     "download_info": {
-      "download_attempts": 1
+      "download_attempts": 2
     },
     "full_text": "https://t.co/SVLjUokF1j",
     "publish_time": "2026-01-03T06:27:36"
@@ -178,9 +186,27 @@
     "upload_info": {},
     "is_downloaded": false,
     "download_info": {
-      "download_attempts": 1
+      "download_attempts": 2
     },
     "full_text": "https://t.co/AA4LgL3GTT",
     "publish_time": "2026-01-03T06:27:47"
+  },
+  {
+    "file_name": "G9seEcMb0AAExi1.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G9seEcMb0AAExi1.jpg",
+    "read_time": "2026-01-03T08:00:44",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": false,
+    "download_info": {
+      "download_attempts": 1
+    },
+    "full_text": "https://t.co/FuxdLnEYBS",
+    "publish_time": "2026-01-03T07:22:47"
   }
 ]
