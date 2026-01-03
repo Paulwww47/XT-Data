@@ -882,5 +882,31 @@
     },
     "full_text": "sicababx https://t.co/kPT0my0cUh",
     "publish_time": "2026-01-03T16:38:30"
+  },
+  {
+    "file_name": "G9u6fmPbYAAZDOp.jpg",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G9u6fmPbYAAZDOp.jpg",
+    "read_time": "2026-01-03T19:00:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14507,
+      "timestamp": "2026-01-03T19:00:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101204,
+      "size_mb": 0.1,
+      "timestamp": "2026-01-03T19:00:53",
+      "download_attempts": 0
+    },
+    "full_text": "🖕️🖕️🖕️ https://t.co/djTWbBHGEG",
+    "publish_time": "2026-01-03T18:46:41"
   }
 ]
