@@ -168,7 +168,7 @@
     "upload_info": {},
     "is_downloaded": false,
     "download_info": {
-      "download_attempts": 3
+      "download_attempts": 4
     },
     "full_text": "https://t.co/SVLjUokF1j",
     "publish_time": "2026-01-03T06:27:36"
@@ -186,7 +186,7 @@
     "upload_info": {},
     "is_downloaded": false,
     "download_info": {
-      "download_attempts": 3
+      "download_attempts": 4
     },
     "full_text": "https://t.co/AA4LgL3GTT",
     "publish_time": "2026-01-03T06:27:47"
@@ -204,9 +204,71 @@
     "upload_info": {},
     "is_downloaded": false,
     "download_info": {
-      "download_attempts": 2
+      "download_attempts": 3
     },
     "full_text": "https://t.co/FuxdLnEYBS",
     "publish_time": "2026-01-03T07:22:47"
+  },
+  {
+    "file_name": "7i2eOL18c3e0o1kD.mp4",
+    "user": {
+      "screen_name": "HausofWord",
+      "name": "WordWang"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2007266261445816320/vid/avc1/720x1280/7i2eOL18c3e0o1kD.mp4?tag=21",
+    "read_time": "2026-01-03T10:00:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14479,
+      "timestamp": "2026-01-03T10:00:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 370296,
+      "size_mb": 0.35,
+      "timestamp": "2026-01-03T10:00:52",
+      "download_attempts": 0
+    },
+    "full_text": "🤳 https://t.co/YgsDTeApWH",
+    "publish_time": "2026-01-03T09:42:38"
+  },
+  {
+    "file_name": "G9tAN2Mb0AM7B8R.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G9tAN2Mb0AM7B8R.jpg",
+    "read_time": "2026-01-03T10:00:51",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": false,
+    "download_info": {
+      "download_attempts": 1
+    },
+    "full_text": "undong_eun_sigdan https://t.co/UmsH6TJSU3",
+    "publish_time": "2026-01-03T09:51:59"
+  },
+  {
+    "file_name": "G9tAU1naMAA3T-t.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G9tAU1naMAA3T-t.jpg",
+    "read_time": "2026-01-03T10:00:51",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": false,
+    "download_info": {
+      "download_attempts": 1
+    },
+    "full_text": "superisaacl https://t.co/ggyAkmMufR",
+    "publish_time": "2026-01-03T09:52:27"
   }
 ]
