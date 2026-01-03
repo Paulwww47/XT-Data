@@ -243,5 +243,21 @@
     "tweetUrl": "https://x.com/youdi/status/2007295786019881271",
     "fullText": "https://t.co/QCT9CFp526",
     "publishTime": "2026-01-03T11:39:43"
+  },
+  {
+    "user": {
+      "screenName": "shemingyu",
+      "name": "你的梦"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9trPQEasAAXUB2.jpg",
+      "https://pbs.twimg.com/media/G9trPH0asAA3upW.jpg",
+      "https://pbs.twimg.com/media/G9trPHxaEAIfaSa.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/shemingyu/status/2007315978800234508",
+    "fullText": "被踩了 https://t.co/r8Texz4bMY",
+    "publishTime": "2026-01-03T12:59:58"
   }
 ]
