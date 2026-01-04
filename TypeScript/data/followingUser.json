@@ -3457,32 +3457,6 @@
     }
   },
   {
-    "restId": "201232156",
-    "legacy": {
-      "name": "拾精不昧",
-      "screenName": "sJBM_j",
-      "createdAt": "Mon Oct 11 11:51:44 +0000 2010",
-      "description": "视频为剧本拍摄，原创内容不添加二手视频凑数，需要完整版可私信，不免费 https://t.co/1BbTSITLe8",
-      "entities": {
-        "description": {
-          "urls": [
-            {
-              "display_url": "t.me/Sjbm_s",
-              "expanded_url": "https://t.me/Sjbm_s",
-              "url": "https://t.co/1BbTSITLe8",
-              "indices": [
-                35,
-                58
-              ]
-            }
-          ]
-        }
-      },
-      "profileBannerUrl": "",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2006763565991239680/SULDziV4_normal.jpg"
-    }
-  },
-  {
     "restId": "1540865372055695360",
     "legacy": {
       "name": "Ml",
