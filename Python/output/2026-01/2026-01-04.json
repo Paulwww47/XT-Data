@@ -1402,5 +1402,85 @@
     },
     "full_text": "老图新发～ https://t.co/SYMe87umFg",
     "publish_time": "2026-01-04T21:33:24"
+  },
+  {
+    "file_name": "RwLTDGsiZORptSaQ.mp4",
+    "user": {
+      "screen_name": "josephmrkao",
+      "name": "185 Joseph"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2007631065167572992/vid/avc1/2160x3840/RwLTDGsiZORptSaQ.mp4?tag=21",
+    "read_time": "2026-01-04T23:00:49",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (51MB > 50MB)",
+      "timestamp": "2026-01-04T23:00:50",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 54182302,
+      "size_mb": 51.67,
+      "timestamp": "2026-01-04T23:00:50",
+      "download_attempts": 0
+    },
+    "full_text": "Fallin’ Nonstop, all strength, no restraint.🖤🌀 @AceWet333 https://t.co/sOTvmq3T79",
+    "publish_time": "2026-01-04T22:05:00"
+  },
+  {
+    "file_name": "G90zttkaAAEX7N5.jpg",
+    "user": {
+      "screen_name": "captainshagang",
+      "name": "沙岗队长"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G90zttkaAAEX7N5.jpg",
+    "read_time": "2026-01-04T23:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14580,
+      "timestamp": "2026-01-04T23:00:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 122479,
+      "size_mb": 0.12,
+      "timestamp": "2026-01-04T23:00:50",
+      "download_attempts": 0
+    },
+    "full_text": "眯会 https://t.co/ceZL61S6se",
+    "publish_time": "2026-01-04T22:14:20"
+  },
+  {
+    "file_name": "G904wzNbsAAtb1F.jpg",
+    "user": {
+      "screen_name": "junjunshiheihei",
+      "name": "JunJun"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G904wzNbsAAtb1F.jpg",
+    "read_time": "2026-01-04T23:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14581,
+      "timestamp": "2026-01-04T23:00:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 176030,
+      "size_mb": 0.17,
+      "timestamp": "2026-01-04T23:00:52",
+      "download_attempts": 0
+    },
+    "full_text": "胡志明这家浴室绝了。以及，这次是真的体验了在浴室撸铁健身了🤣充血后很爽 https://t.co/Q7dYeWLrpK",
+    "publish_time": "2026-01-04T22:36:23"
   }
 ]
