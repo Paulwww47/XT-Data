@@ -389,5 +389,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2007701974343659673",
     "fullText": "navyboy89 https://t.co/IJJKbKsxAa",
     "publishTime": "2026-01-04T14:33:46"
+  },
+  {
+    "user": {
+      "screenName": "d461385024",
+      "name": "大茄子猛1"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9zXdcIasAIbfJa.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/d461385024/status/2007716444763763182",
+    "fullText": "新年快乐 https://t.co/90yniaH2Jw",
+    "publishTime": "2026-01-04T15:31:16"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9zZIaMaAAApiBn.jpg",
+      "https://pbs.twimg.com/media/G9zZK8CaUAA0gKC.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/2007718362697347091",
+    "fullText": "https://t.co/YYz36lKr1i",
+    "publishTime": "2026-01-04T15:38:53"
   }
 ]
