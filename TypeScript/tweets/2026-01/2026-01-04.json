@@ -597,5 +597,22 @@
     "tweetUrl": "https://x.com/lovesamoyed_tw/status/2007798548751151383",
     "fullText": "New update on my of, link in bio",
     "publishTime": "2026-01-04T20:57:31"
+  },
+  {
+    "user": {
+      "screenName": "alwyn_shown",
+      "name": "Alwyn Lu"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G90qSwxbsAAYkiG.jpg",
+      "https://pbs.twimg.com/media/G90qSwvbQAETTNM.jpg",
+      "https://pbs.twimg.com/media/G90qSwwasAAq0Ld.jpg",
+      "https://pbs.twimg.com/media/G90qSy0bgAAwHUB.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/alwyn_shown/status/2007807578374590941",
+    "fullText": "老图新发～ https://t.co/SYMe87umFg",
+    "publishTime": "2026-01-04T21:33:24"
   }
 ]
