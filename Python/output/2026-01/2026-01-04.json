@@ -1418,14 +1418,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (51MB > 50MB)",
       "timestamp": "2026-01-04T23:00:50",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 54182302,
       "size_mb": 51.67,
-      "timestamp": "2026-01-04T23:00:50",
+      "timestamp": "2026-01-05T00:00:52",
       "download_attempts": 0
     },
     "full_text": "Fallin’ Nonstop, all strength, no restraint.🖤🌀 @AceWet333 https://t.co/sOTvmq3T79",
@@ -1482,5 +1482,213 @@
     },
     "full_text": "胡志明这家浴室绝了。以及，这次是真的体验了在浴室撸铁健身了🤣充血后很爽 https://t.co/Q7dYeWLrpK",
     "publish_time": "2026-01-04T22:36:23"
+  },
+  {
+    "file_name": "G91AI7tbMAAx1dA.jpg",
+    "user": {
+      "screen_name": "tnzhfng41",
+      "name": "近战法师Daniel"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G91AI7tbMAAx1dA.jpg",
+    "read_time": "2026-01-05T00:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14582,
+      "timestamp": "2026-01-05T00:00:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 96542,
+      "size_mb": 0.09,
+      "timestamp": "2026-01-05T00:00:52",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/k7Vc2ZuZRl",
+    "publish_time": "2026-01-04T23:08:38"
+  },
+  {
+    "file_name": "G91AalPbIAEtMTk.jpg",
+    "user": {
+      "screen_name": "BlancaCarl80244",
+      "name": "尼日利亚医美女记者-莫莫"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G91AalPbIAEtMTk.jpg",
+    "read_time": "2026-01-05T00:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14583,
+      "timestamp": "2026-01-05T00:00:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 105010,
+      "size_mb": 0.1,
+      "timestamp": "2026-01-05T00:00:55",
+      "download_attempts": 0
+    },
+    "full_text": "咳！好长一段时间不走搞笑路线了，这是又逼我走搞笑路线了？一天天的呀，不知道说啥好😂 https://t.co/634644W2a7",
+    "publish_time": "2026-01-04T23:09:51"
+  },
+  {
+    "file_name": "G91AalNaEAA6r16.jpg",
+    "user": {
+      "screen_name": "BlancaCarl80244",
+      "name": "尼日利亚医美女记者-莫莫"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G91AalNaEAA6r16.jpg",
+    "read_time": "2026-01-05T00:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14584,
+      "timestamp": "2026-01-05T00:00:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 75105,
+      "size_mb": 0.07,
+      "timestamp": "2026-01-05T00:00:57",
+      "download_attempts": 0
+    },
+    "full_text": "咳！好长一段时间不走搞笑路线了，这是又逼我走搞笑路线了？一天天的呀，不知道说啥好😂 https://t.co/634644W2a7",
+    "publish_time": "2026-01-04T23:09:51"
+  },
+  {
+    "file_name": "G91AalSaYAAfmdy.jpg",
+    "user": {
+      "screen_name": "BlancaCarl80244",
+      "name": "尼日利亚医美女记者-莫莫"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G91AalSaYAAfmdy.jpg",
+    "read_time": "2026-01-05T00:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14585,
+      "timestamp": "2026-01-05T00:01:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 71939,
+      "size_mb": 0.07,
+      "timestamp": "2026-01-05T00:00:58",
+      "download_attempts": 0
+    },
+    "full_text": "咳！好长一段时间不走搞笑路线了，这是又逼我走搞笑路线了？一天天的呀，不知道说啥好😂 https://t.co/634644W2a7",
+    "publish_time": "2026-01-04T23:09:51"
+  },
+  {
+    "file_name": "G91Jdaha8AAC8nl.jpg",
+    "user": {
+      "screen_name": "iz3xf",
+      "name": "一丞"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G91Jdaha8AAC8nl.jpg",
+    "read_time": "2026-01-05T00:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14586,
+      "timestamp": "2026-01-05T00:01:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 147576,
+      "size_mb": 0.14,
+      "timestamp": "2026-01-05T00:01:00",
+      "download_attempts": 0
+    },
+    "full_text": "遇到最好的你\n\nVx:Yi_cheng116688\n你们也加啊，说不定也会遇到 https://t.co/XwPqfxvv73",
+    "publish_time": "2026-01-04T23:49:26"
+  },
+  {
+    "file_name": "G91JdaebIAEv-xS.jpg",
+    "user": {
+      "screen_name": "iz3xf",
+      "name": "一丞"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G91JdaebIAEv-xS.jpg",
+    "read_time": "2026-01-05T00:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14587,
+      "timestamp": "2026-01-05T00:01:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 149247,
+      "size_mb": 0.14,
+      "timestamp": "2026-01-05T00:01:02",
+      "download_attempts": 0
+    },
+    "full_text": "遇到最好的你\n\nVx:Yi_cheng116688\n你们也加啊，说不定也会遇到 https://t.co/XwPqfxvv73",
+    "publish_time": "2026-01-04T23:49:26"
+  },
+  {
+    "file_name": "G91JdalbYAAsJQm.jpg",
+    "user": {
+      "screen_name": "iz3xf",
+      "name": "一丞"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G91JdalbYAAsJQm.jpg",
+    "read_time": "2026-01-05T00:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14588,
+      "timestamp": "2026-01-05T00:01:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 276443,
+      "size_mb": 0.26,
+      "timestamp": "2026-01-05T00:01:03",
+      "download_attempts": 0
+    },
+    "full_text": "遇到最好的你\n\nVx:Yi_cheng116688\n你们也加啊，说不定也会遇到 https://t.co/XwPqfxvv73",
+    "publish_time": "2026-01-04T23:49:26"
+  },
+  {
+    "file_name": "G91JdaiagAAM9JU.jpg",
+    "user": {
+      "screen_name": "iz3xf",
+      "name": "一丞"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G91JdaiagAAM9JU.jpg",
+    "read_time": "2026-01-05T00:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14589,
+      "timestamp": "2026-01-05T00:01:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 133594,
+      "size_mb": 0.13,
+      "timestamp": "2026-01-05T00:01:05",
+      "download_attempts": 0
+    },
+    "full_text": "遇到最好的你\n\nVx:Yi_cheng116688\n你们也加啊，说不定也会遇到 https://t.co/XwPqfxvv73",
+    "publish_time": "2026-01-04T23:49:26"
   }
 ]
