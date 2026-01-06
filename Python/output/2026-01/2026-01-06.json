@@ -482,14 +482,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (294MB > 50MB)",
       "timestamp": "2026-01-06T10:01:23",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 309242102,
       "size_mb": 294.92,
-      "timestamp": "2026-01-06T10:01:23",
+      "timestamp": "2026-01-06T11:01:13",
       "download_attempts": 0
     },
     "full_text": "Post_'Over_20_minutes_of_@theprinceofedging_stroking_my_massive https://t.co/mh3ML9uKgL",
