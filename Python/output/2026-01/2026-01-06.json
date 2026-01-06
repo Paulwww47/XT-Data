@@ -520,5 +520,57 @@
     },
     "full_text": "#新头像 https://t.co/WTfkS8GXhj",
     "publish_time": "2026-01-06T09:50:17"
+  },
+  {
+    "file_name": "udi5BGVwNmxNfHWc.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2008375978150817797/vid/avc1/720x1280/udi5BGVwNmxNfHWc.mp4?tag=14",
+    "read_time": "2026-01-06T12:00:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14657,
+      "timestamp": "2026-01-06T12:00:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2182310,
+      "size_mb": 2.08,
+      "timestamp": "2026-01-06T12:00:40",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年1月6日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/qVwT3jtAw4",
+    "publish_time": "2026-01-06T11:12:24"
+  },
+  {
+    "file_name": "G98zodAbcAAocF7.jpg",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G98zodAbcAAocF7.jpg",
+    "read_time": "2026-01-06T12:00:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14658,
+      "timestamp": "2026-01-06T12:00:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 180583,
+      "size_mb": 0.17,
+      "timestamp": "2026-01-06T12:00:44",
+      "download_attempts": 0
+    },
+    "full_text": "来领取你的专属玩物🫵 https://t.co/xeBG4LbcZL",
+    "publish_time": "2026-01-06T11:30:57"
   }
 ]

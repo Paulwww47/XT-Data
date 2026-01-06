@@ -173,5 +173,33 @@
     "tweetUrl": "https://x.com/junjunshiheihei/status/2008355408864485648",
     "fullText": "#新头像 https://t.co/WTfkS8GXhj",
     "publishTime": "2026-01-06T09:50:17"
+  },
+  {
+    "user": {
+      "screenName": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2008375978150817797/vid/avc1/720x1280/udi5BGVwNmxNfHWc.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/BBoy1069/status/2008376072849793247",
+    "fullText": "【2026年1月6日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/qVwT3jtAw4",
+    "publishTime": "2026-01-06T11:12:24"
+  },
+  {
+    "user": {
+      "screenName": "RuiHengJin",
+      "name": "H."
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G98zodAbcAAocF7.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/RuiHengJin/status/2008380740766232669",
+    "fullText": "来领取你的专属玩物🫵 https://t.co/xeBG4LbcZL",
+    "publishTime": "2026-01-06T11:30:57"
   }
 ]
