@@ -347,5 +347,33 @@
     "tweetUrl": "https://x.com/M6rtYt/status/2008901550241128475",
     "fullText": "缺一个杯子 https://t.co/NI9B8gVXdB",
     "publishTime": "2026-01-07T22:00:27"
+  },
+  {
+    "user": {
+      "screenName": "alvingoooo",
+      "name": "go"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-EPLhQacAAPPa2.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/alvingoooo/status/2008903606163181760",
+    "fullText": "The lighting 🤌🤌🤌 https://t.co/TBlFCFiU43",
+    "publishTime": "2026-01-07T22:08:37"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-ETrVBbgAAJs_E.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/2008908608722079748",
+    "fullText": "https://t.co/yqA7q912vZ",
+    "publishTime": "2026-01-07T22:28:30"
   }
 ]
