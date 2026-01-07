@@ -64,6 +64,45 @@
     }
   },
   {
+    "restId": "2008545176252542982",
+    "legacy": {
+      "name": "Xisgreat",
+      "screenName": "666jbwd4qj666",
+      "createdAt": "Tue Jan 06 14:24:34 +0000 2026",
+      "description": "小众原创略贵 单卖无群 预览只会比内容更精彩 需打电话水印在视频\n防失联&更多预览：https://t.co/qtTXjqhahX\nqq977421414",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "t.me/jubao4quanjia6…",
+              "expanded_url": "http://t.me/jubao4quanjia666666",
+              "url": "https://t.co/qtTXjqhahX",
+              "indices": [
+                42,
+                65
+              ]
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/jubao4quanjia6…",
+              "expanded_url": "http://t.me/jubao4quanjia666666",
+              "url": "https://t.co/qtTXjqhahX",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2008545176252542982/1767753865",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2008731413152231427/XpEoVP7-_normal.jpg"
+    }
+  },
+  {
     "restId": "1968855540437852160",
     "legacy": {
       "name": "小东东",
@@ -493,20 +532,10 @@
       "name": "尼日利亚医美女记者-莫莫",
       "screenName": "BlancaCarl80244",
       "createdAt": "Wed Sep 18 18:25:58 +0000 2024",
-      "description": "尼日利亚医美女院长在韩国指导医美！兼国内直男指导！业务注：有偿💰，二道贩子或者同行请勿扰！会员群💰288（不限年限，持续更新，所有视频均原创自我保护，有水印，介意者勿扰）联系需有电报号沟通，电报：https://t.co/uCApYi787W",
+      "description": "尼日利亚医美女院长在韩国指导医美！兼国内直男指导！业务注：有偿💰，二道贩子或者同行请勿扰！会员群💰288（不限年限，持续更新，所有视频均原创自我保护，有水印，介意者勿扰）联系需有电报号沟通（请私信我进群）",
       "entities": {
         "description": {
-          "urls": [
-            {
-              "display_url": "t.me/NrlyMoMo",
-              "expanded_url": "https://t.me/NrlyMoMo",
-              "url": "https://t.co/uCApYi787W",
-              "indices": [
-                98,
-                121
-              ]
-            }
-          ]
+          "urls": []
         }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1836471679675174913/1767548376",
@@ -1828,6 +1857,22 @@
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1001513504115904513/1639301083",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1493084699287240705/4nf2WzBD_normal.jpg"
+    }
+  },
+  {
+    "restId": "1868309815614947328",
+    "legacy": {
+      "name": "我在",
+      "screenName": "JORYCDB",
+      "createdAt": "Sun Dec 15 14:59:14 +0000 2024",
+      "description": "",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1868309815614947328/1734277192",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1868320008717348864/4hOVmh6v_normal.jpg"
     }
   },
   {
