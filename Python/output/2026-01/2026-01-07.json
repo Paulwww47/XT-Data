@@ -502,20 +502,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G-D6nVQawAAFwlm.jpg",
     "read_time": "2026-01-07T21:00:59",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "timestamp": "2026-01-07T21:01:38",
-      "notification_sent": false
+      "success": true,
+      "message_id": 14698,
+      "timestamp": "2026-01-07T22:00:52"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 133420,
       "size_mb": 0.13,
-      "timestamp": "2026-01-07T21:01:00",
+      "timestamp": "2026-01-07T22:00:50",
       "download_attempts": 0
     },
     "full_text": "老图补全计划 https://t.co/MWqSaSDltJ",
@@ -530,20 +528,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G-D6nVVbUAABgSJ.jpg",
     "read_time": "2026-01-07T21:00:59",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "timestamp": "2026-01-07T21:02:09",
-      "notification_sent": false
+      "success": true,
+      "message_id": 14699,
+      "timestamp": "2026-01-07T22:00:53"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 123688,
       "size_mb": 0.12,
-      "timestamp": "2026-01-07T21:01:38",
+      "timestamp": "2026-01-07T22:00:52",
       "download_attempts": 0
     },
     "full_text": "老图补全计划 https://t.co/MWqSaSDltJ",
@@ -558,20 +554,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/G-D6nVOaYAAOCRN.jpg",
     "read_time": "2026-01-07T21:00:59",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7331602120:AAHcanRe0ILuKp4q9G9Zgz9r1GS1R6Wp0ic/sendPhoto (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x7f1f5ba65600>: Failed to establish a new connection: [Errno 101] Network is unreachable'))",
-      "timestamp": "2026-01-07T21:02:31",
-      "notification_sent": false
+      "success": true,
+      "message_id": 14700,
+      "timestamp": "2026-01-07T22:00:55"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 111072,
       "size_mb": 0.11,
-      "timestamp": "2026-01-07T21:02:09",
+      "timestamp": "2026-01-07T22:00:54",
       "download_attempts": 0
     },
     "full_text": "老图补全计划 https://t.co/MWqSaSDltJ",
@@ -602,5 +596,83 @@
     },
     "full_text": "老图补全计划 https://t.co/MWqSaSDltJ",
     "publish_time": "2026-01-07T20:38:47"
+  },
+  {
+    "file_name": "8n74Pp-ySEpSBFjP.mp4",
+    "user": {
+      "screen_name": "lmuati",
+      "name": "地空捣蛋"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2008899445828747265/vid/avc1/720x1280/8n74Pp-ySEpSBFjP.mp4?tag=21",
+    "read_time": "2026-01-07T22:00:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14701,
+      "timestamp": "2026-01-07T22:00:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 784596,
+      "size_mb": 0.75,
+      "timestamp": "2026-01-07T22:00:55",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/YvW9t5JYCZ",
+    "publish_time": "2026-01-07T21:52:16"
+  },
+  {
+    "file_name": "G-EMTJeasAARjab.jpg",
+    "user": {
+      "screen_name": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G-EMTJeasAARjab.jpg",
+    "read_time": "2026-01-07T22:00:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14702,
+      "timestamp": "2026-01-07T22:01:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 96071,
+      "size_mb": 0.09,
+      "timestamp": "2026-01-07T22:00:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/QsLs0BnLrZ",
+    "publish_time": "2026-01-07T21:56:03"
+  },
+  {
+    "file_name": "_PI1jMxGUjC-vw2x.mp4",
+    "user": {
+      "screen_name": "M6rtYt",
+      "name": "蛋蛋超人"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2008901480330498048/vid/avc1/720x1280/_PI1jMxGUjC-vw2x.mp4?tag=21",
+    "read_time": "2026-01-07T22:00:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14703,
+      "timestamp": "2026-01-07T22:01:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1780191,
+      "size_mb": 1.7,
+      "timestamp": "2026-01-07T22:01:01",
+      "download_attempts": 0
+    },
+    "full_text": "缺一个杯子 https://t.co/NI9B8gVXdB",
+    "publish_time": "2026-01-07T22:00:27"
   }
 ]
