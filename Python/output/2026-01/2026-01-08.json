@@ -222,15 +222,15 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (343MB > 50MB)",
       "timestamp": "2026-01-08T11:02:03",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "download_attempts": 0,
       "success": true,
       "size": 359808828,
       "size_mb": 343.14,
-      "timestamp": "2026-01-08T11:02:03"
+      "timestamp": "2026-01-08T12:01:24"
     },
     "full_text": "清风野火系列 https://t.co/dEFO2EW6PW",
     "publish_time": "2026-01-08T09:59:53"
@@ -260,5 +260,83 @@
     },
     "full_text": "https://t.co/NUtK0mFQ4m",
     "publish_time": "2026-01-08T10:21:55"
+  },
+  {
+    "file_name": "G-HIunCa0AA7EGY.jpg",
+    "user": {
+      "screen_name": "LiugangLogan",
+      "name": "刘刚Logan"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G-HIunCa0AA7EGY.jpg",
+    "read_time": "2026-01-08T12:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14859,
+      "timestamp": "2026-01-08T12:01:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 104885,
+      "size_mb": 0.1,
+      "timestamp": "2026-01-08T12:01:24",
+      "download_attempts": 0
+    },
+    "full_text": "更新 https://t.co/4gEd9orKMX",
+    "publish_time": "2026-01-08T11:39:18"
+  },
+  {
+    "file_name": "bOWNjbzcWUNaFu4U.mp4",
+    "user": {
+      "screen_name": "d461385024",
+      "name": "大茄子"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2009107931875438592/vid/avc1/720x1280/bOWNjbzcWUNaFu4U.mp4?tag=21",
+    "read_time": "2026-01-08T12:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14860,
+      "timestamp": "2026-01-08T12:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1586225,
+      "size_mb": 1.51,
+      "timestamp": "2026-01-08T12:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "最近空 https://t.co/yDOqdAJtF2",
+    "publish_time": "2026-01-08T11:40:46"
+  },
+  {
+    "file_name": "_v_wMEOjVg_lyGFa.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2009108039283216384/vid/avc1/720x1280/_v_wMEOjVg_lyGFa.mp4?tag=14",
+    "read_time": "2026-01-08T12:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14861,
+      "timestamp": "2026-01-08T12:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2365221,
+      "size_mb": 2.26,
+      "timestamp": "2026-01-08T12:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年1月8日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/gXKdHZC2xA",
+    "publish_time": "2026-01-08T11:41:16"
   }
 ]
