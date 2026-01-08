@@ -217,12 +217,48 @@
     "url": "https://video.twimg.com/amplify_video/2009059304155103232/vid/avc1/1080x1920/U72EWN_g1mMG42Sy.mp4?tag=21",
     "read_time": "2026-01-08T10:01:20",
     "is_uploaded": false,
-    "upload_info": {},
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (343MB > 50MB)",
+      "timestamp": "2026-01-08T11:02:03",
+      "notification_sent": false
+    },
     "is_downloaded": false,
     "download_info": {
-      "download_attempts": 1
+      "download_attempts": 0,
+      "success": true,
+      "size": 359808828,
+      "size_mb": 343.14,
+      "timestamp": "2026-01-08T11:02:03"
     },
     "full_text": "清风野火系列 https://t.co/dEFO2EW6PW",
     "publish_time": "2026-01-08T09:59:53"
+  },
+  {
+    "file_name": "G-G2_dsa0AMNZ-_.mp4",
+    "user": {
+      "screen_name": "neon385908",
+      "name": "ne on"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/G-G2_dsa0AMNZ-_.mp4",
+    "read_time": "2026-01-08T11:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 14858,
+      "timestamp": "2026-01-08T11:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 65745,
+      "size_mb": 0.06,
+      "timestamp": "2026-01-08T11:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/NUtK0mFQ4m",
+    "publish_time": "2026-01-08T10:21:55"
   }
 ]
