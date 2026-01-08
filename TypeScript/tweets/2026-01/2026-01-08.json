@@ -110,5 +110,19 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2009066134797242579",
     "fullText": "berlinsun https://t.co/K6k5qdipnV",
     "publishTime": "2026-01-08T08:54:27"
+  },
+  {
+    "user": {
+      "screenName": "maletease",
+      "name": "MaleTease"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2009059304155103232/vid/avc1/1080x1920/U72EWN_g1mMG42Sy.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/maletease/status/2009082600615498190",
+    "fullText": "清风野火系列 https://t.co/dEFO2EW6PW",
+    "publishTime": "2026-01-08T09:59:53"
   }
 ]
