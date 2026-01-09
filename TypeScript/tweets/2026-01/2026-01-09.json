@@ -253,5 +253,35 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2009458903843786830",
     "fullText": "https://t.co/HenEKl8zas",
     "publishTime": "2026-01-09T10:55:11"
+  },
+  {
+    "user": {
+      "screenName": "d461385024",
+      "name": "大茄子"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-Md8HeaQAAznjm.jpg",
+      "https://pbs.twimg.com/media/G-Md8Hda8AAibgd.jpg",
+      "https://pbs.twimg.com/media/G-Md8HsacAEcOPy.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/d461385024/status/2009482822176911679",
+    "fullText": "早上仪式 https://t.co/MI369JqHWc",
+    "publishTime": "2026-01-09T12:30:13"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-MffTDaQAAlCCp.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2009484486589993065",
+    "fullText": "mnick_1116 https://t.co/ZZXoGXroYI",
+    "publishTime": "2026-01-09T12:36:50"
   }
 ]
