@@ -123,5 +123,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2009359304005128250",
     "fullText": "https://t.co/jN0F00BDkU",
     "publishTime": "2026-01-09T04:19:24"
+  },
+  {
+    "user": {
+      "screenName": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-Lk8rObgAANNT6.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/junglewildwild/status/2009420121924866456",
+    "fullText": "https://t.co/5bx14I6229",
+    "publishTime": "2026-01-09T08:21:04"
+  },
+  {
+    "user": {
+      "screenName": "huohuo0707330",
+      "name": "嚯"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-LrogNWMAEvueH.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/huohuo0707330/status/2009427472865989082",
+    "fullText": "第一周期还是有点效果  涨了1kg  早晨空腹目测也大了些 https://t.co/7FfBJnhSiJ",
+    "publishTime": "2026-01-09T08:50:17"
+  },
+  {
+    "user": {
+      "screenName": "junjunshiheihei",
+      "name": "JunJun"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2009427644480409603/vid/avc1/720x1280/DgVL9oz_W7xF0YHB.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/junjunshiheihei/status/2009427714596626688",
+    "fullText": "很后悔那天吃了双效果冻，死活射不出来，憋到回来后终于释放了 https://t.co/SC6WX66s0U",
+    "publishTime": "2026-01-09T08:51:15"
   }
 ]
