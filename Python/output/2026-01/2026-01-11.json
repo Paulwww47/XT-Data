@@ -986,5 +986,59 @@
     },
     "full_text": "腿日(但没练腿) https://t.co/PAnbdalDC3",
     "publish_time": "2026-01-11T19:12:44"
+  },
+  {
+    "file_name": "rjXkSqY5AXO6OhE8.mp4",
+    "user": {
+      "screen_name": "alwyn_shown",
+      "name": "Alwyn Lu"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2010329662422188032/vid/avc1/2160x3840/rjXkSqY5AXO6OhE8.mp4?tag=21",
+    "read_time": "2026-01-11T21:01:45",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (80MB > 50MB)",
+      "timestamp": "2026-01-11T21:01:52",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 83915342,
+      "size_mb": 80.03,
+      "timestamp": "2026-01-11T21:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "🚘 https://t.co/EUBUHoFc4D",
+    "publish_time": "2026-01-11T20:37:06"
+  },
+  {
+    "file_name": "G-Yk7k-bYAAnwOQ.jpg",
+    "user": {
+      "screen_name": "lovesamoyed_tw",
+      "name": "Samoyed Lover🐶"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G-Yk7k-bYAAnwOQ.jpg",
+    "read_time": "2026-01-11T21:01:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15039,
+      "timestamp": "2026-01-11T21:01:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 75331,
+      "size_mb": 0.07,
+      "timestamp": "2026-01-11T21:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "New update on my of🤤 https://t.co/TMhA2OOExv",
+    "publish_time": "2026-01-11T20:56:07"
   }
 ]
