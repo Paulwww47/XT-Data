@@ -518,5 +518,57 @@
     },
     "full_text": "晨博 https://t.co/ZcaXsBW3wL",
     "publish_time": "2026-01-12T11:53:17"
+  },
+  {
+    "file_name": "G-cUvEMaEAAXcBh.jpg",
+    "user": {
+      "screen_name": "snkrss01",
+      "name": "开团我最帅"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G-cUvEMaEAAXcBh.jpg",
+    "read_time": "2026-01-12T15:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15064,
+      "timestamp": "2026-01-12T15:00:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 117683,
+      "size_mb": 0.11,
+      "timestamp": "2026-01-12T15:00:49",
+      "download_attempts": 0
+    },
+    "full_text": "外翻了🌹 https://t.co/XQ80h8wy0Y",
+    "publish_time": "2026-01-12T14:23:48"
+  },
+  {
+    "file_name": "G-caJZyakAASh9j.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G-caJZyakAASh9j.jpg",
+    "read_time": "2026-01-12T15:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15065,
+      "timestamp": "2026-01-12T15:00:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 96601,
+      "size_mb": 0.09,
+      "timestamp": "2026-01-12T15:00:51",
+      "download_attempts": 0
+    },
+    "full_text": "shineenick https://t.co/nuoH4E551p",
+    "publish_time": "2026-01-12T14:47:26"
   }
 ]
