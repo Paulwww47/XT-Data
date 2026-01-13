@@ -349,10 +349,23 @@
       "name": "嗷呜有劲",
       "screenName": "aowuyoujin",
       "createdAt": "Sun Mar 09 14:35:05 +0000 2025",
-      "description": "视频分身号：@rrrrrrig_ 嗷呜在深圳 超专业Spa 需要可加QQ:  294477802 注明来意 无事勿扰 豆瓣 小红书 抖音 翻咔 闲鱼都同名为：嗷呜有劲",
+      "description": "视频分身号：@rrrrrrig_ 嗷呜在深圳 超专业Spa 需要可加QQ: 294477802 注明来意 无事勿扰 豆瓣 小红书 抖音 翻咔 闲鱼都同名为：嗷呜有劲",
       "entities": {
         "description": {
           "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/aowuyoujin",
+              "expanded_url": "https://t.me/aowuyoujin",
+              "url": "https://t.co/98e4LTJs2f",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
         }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1898744283387363328/1761663532",
@@ -3623,7 +3636,7 @@
       "name": "开团我最帅",
       "screenName": "snkrss01",
       "createdAt": "Thu Sep 19 06:13:29 +0000 2024",
-      "description": "🍆 抖音乱评会拉黑",
+      "description": "🍆 东北人 抖音乱评会拉黑",
       "entities": {
         "description": {
           "urls": []
