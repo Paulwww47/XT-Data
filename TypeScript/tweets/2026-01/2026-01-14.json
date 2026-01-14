@@ -383,5 +383,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2011385164853915767",
     "fullText": "https://t.co/CA0i6uXlg2",
     "publishTime": "2026-01-14T18:29:27"
+  },
+  {
+    "user": {
+      "screenName": "Louiewe123",
+      "name": "Louiewe卤蛋头"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2011404443074584576/vid/avc1/720x1280/pDW5Rl7fqyI0MLnC.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Louiewe123/status/2011404522661581100",
+    "fullText": "微信搜“超牛”小程序，1月16号周五晚上7点见。 https://t.co/ZidnIATVJ4",
+    "publishTime": "2026-01-14T19:46:22"
+  },
+  {
+    "user": {
+      "screenName": "raphaw_w",
+      "name": "RalphW."
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-ny17-X0AAyLKy.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/raphaw_w/status/2011405723587187091",
+    "fullText": "鸡巴真的是越来越黑了… https://t.co/QDkUp2NcFw",
+    "publishTime": "2026-01-14T19:51:09"
   }
 ]
