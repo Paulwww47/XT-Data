@@ -1229,45 +1229,6 @@
     }
   },
   {
-    "restId": "1998424193277538304",
-    "legacy": {
-      "name": "Adrian Freeman",
-      "screenName": "FreemanAdr11942",
-      "createdAt": "Tue Dec 09 16:07:18 +0000 2025",
-      "description": "qq977421414 \n防失联&更多预览 请关注https://t.co/so35xepOhu\n原创略贵 小众资源 实际内容比预览更好看\n购入需打电话水印",
-      "entities": {
-        "description": {
-          "urls": [
-            {
-              "display_url": "t.me/jubao4quanjia6…",
-              "expanded_url": "http://t.me/jubao4quanjia666666",
-              "url": "https://t.co/so35xepOhu",
-              "indices": [
-                25,
-                48
-              ]
-            }
-          ]
-        },
-        "url": {
-          "urls": [
-            {
-              "display_url": "t.me/jubao4quanjia6…",
-              "expanded_url": "http://t.me/jubao4quanjia666666",
-              "url": "https://t.co/so35xepOhu",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        }
-      },
-      "profileBannerUrl": "",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1999024110958186496/3RjGfW58_normal.jpg"
-    }
-  },
-  {
     "restId": "1229016004992229376",
     "legacy": {
       "name": "friendlyfun",
