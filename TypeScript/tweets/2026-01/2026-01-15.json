@@ -38,5 +38,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2011523762706166169",
     "fullText": "https://t.co/JnrIobZSzr",
     "publishTime": "2026-01-15T03:40:11"
+  },
+  {
+    "user": {
+      "screenName": "SummerSonCold1",
+      "name": "SummerSonCold"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-plIWKbQAIfG9C.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/SummerSonCold1/status/2011531384616337470",
+    "fullText": "https://t.co/65gVqgyX1e",
+    "publishTime": "2026-01-15T04:10:29"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-ppd_8b0AE1tm-.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2011536152126521756",
+    "fullText": "https://t.co/RwFaWWCmV0",
+    "publishTime": "2026-01-15T04:29:25"
   }
 ]
