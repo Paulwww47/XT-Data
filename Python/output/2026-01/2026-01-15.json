@@ -690,17 +690,43 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (65MB > 50MB)",
       "timestamp": "2026-01-15T19:01:13",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 68997779,
       "size_mb": 65.8,
-      "timestamp": "2026-01-15T19:01:13",
+      "timestamp": "2026-01-15T20:01:16",
       "download_attempts": 0
     },
     "full_text": "狼湿 https://t.co/FhiEQcVG0Z",
     "publish_time": "2026-01-15T18:34:17"
+  },
+  {
+    "file_name": "G-s0qNWaYAAgQg1.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G-s0qNWaYAAgQg1.jpg",
+    "read_time": "2026-01-15T20:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15357,
+      "timestamp": "2026-01-15T20:01:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 160545,
+      "size_mb": 0.15,
+      "timestamp": "2026-01-15T20:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/RE6R9yGh2L",
+    "publish_time": "2026-01-15T19:17:11"
   }
 ]
