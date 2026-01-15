@@ -359,5 +359,19 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2011759564195328333",
     "fullText": "https://t.co/RE6R9yGh2L",
     "publishTime": "2026-01-15T19:17:11"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-tJXLRbQAIAAfn.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/2011782403388563648",
+    "fullText": "https://t.co/GrKGV1vQDU",
+    "publishTime": "2026-01-15T20:47:56"
   }
 ]
