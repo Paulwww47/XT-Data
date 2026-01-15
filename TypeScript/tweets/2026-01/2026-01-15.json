@@ -171,5 +171,23 @@
     "tweetUrl": "https://x.com/hwjjhww/status/2011657898527690858",
     "fullText": "电报群会持续更新有人要进嘛 https://t.co/szJ4LQx4O5",
     "publishTime": "2026-01-15T12:33:12"
+  },
+  {
+    "user": {
+      "screenName": "Chaostuu1",
+      "name": "Chaos"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-riC_0XkAAHLcE.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2011668724907196418/pu/vid/avc1/720x1280/dud0oq7NV0J_N-12.mp4?tag=12",
+      "https://video.twimg.com/ext_tw_video/2011668758176178177/pu/vid/avc1/720x1280/u8knsu5TSg2OvmZs.mp4?tag=12",
+      "https://video.twimg.com/ext_tw_video/2011668786726961152/pu/vid/avc1/720x1280/JF1Z41P2UtmlXv8Y.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Chaostuu1/status/2011668810332586144",
+    "fullText": "https://t.co/FVUUvbIuHc",
+    "publishTime": "2026-01-15T13:16:34"
   }
 ]
