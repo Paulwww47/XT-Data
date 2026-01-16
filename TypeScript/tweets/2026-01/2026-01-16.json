@@ -238,5 +238,19 @@
     "tweetUrl": "https://x.com/junglewildwild/status/2012007464305361173",
     "fullText": "https://t.co/VAKnRzCpGH",
     "publishTime": "2026-01-16T11:42:15"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://github.com/easychen/pushdeer/tree/main/push"
+    ],
+    "tweetUrl": "https://x.com/easychen/status/2012019743738511481",
+    "fullText": "#Easy同学正在独立开发 PushDeer的推送证书更新了。使用自架版的同学需要手动更新一下。不然下个月就用不了咯。 https://t.co/Z5YARmgm6c",
+    "publishTime": "2026-01-16T12:31:03"
   }
 ]
