@@ -76,5 +76,31 @@
     },
     "full_text": "https://t.co/2pBIDl0wGm",
     "publish_time": "2026-01-17T03:57:04"
+  },
+  {
+    "file_name": "0SGnQVahIGtQLBtw.mp4",
+    "user": {
+      "screen_name": "lytail111",
+      "name": "条野太狼"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2012263138750775302/vid/avc1/720x1280/0SGnQVahIGtQLBtw.mp4?tag=21",
+    "read_time": "2026-01-17T05:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15412,
+      "timestamp": "2026-01-17T05:01:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4500068,
+      "size_mb": 4.29,
+      "timestamp": "2026-01-17T05:01:50",
+      "download_attempts": 0
+    },
+    "full_text": "有没有狗来 https://t.co/k5B62TPgwj",
+    "publish_time": "2026-01-17T04:38:29"
   }
 ]
