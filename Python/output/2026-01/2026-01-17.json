@@ -846,14 +846,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (87MB > 50MB)",
       "timestamp": "2026-01-17T14:01:32",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 91895569,
       "size_mb": 87.64,
-      "timestamp": "2026-01-17T14:01:32",
+      "timestamp": "2026-01-17T15:01:26",
       "download_attempts": 0
     },
     "full_text": "覆面射射play  昨天没发出来\n放了三遍凑时长 (*￣3￣)╭♡ https://t.co/Eaj9ZXHeor",
@@ -936,5 +936,57 @@
     },
     "full_text": "https://t.co/gWZUrkPxjQ",
     "publish_time": "2026-01-17T13:58:53"
+  },
+  {
+    "file_name": "G-2GNtkaAAA6K6-.jpg",
+    "user": {
+      "screen_name": "huohuo0707330",
+      "name": "嚯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G-2GNtkaAAA6K6-.jpg",
+    "read_time": "2026-01-17T15:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15444,
+      "timestamp": "2026-01-17T15:01:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 207760,
+      "size_mb": 0.2,
+      "timestamp": "2026-01-17T15:01:26",
+      "download_attempts": 0
+    },
+    "full_text": "说来有趣  曾经和一位深圳安家的宁夏x友在北京的辽宁大厦有过激情两小时  \n真的是绝美人妻  可以称为最完美的艳遇  现在回家每天路过都撩拨一下心弦🙇🏿‍♂️ https://t.co/pWt6ViceVR",
+    "publish_time": "2026-01-17T14:30:29"
+  },
+  {
+    "file_name": "G-2HVsIbEAEESwj.jpg",
+    "user": {
+      "screen_name": "YCJ2023",
+      "name": "杨长进"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G-2HVsIbEAEESwj.jpg",
+    "read_time": "2026-01-17T15:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15445,
+      "timestamp": "2026-01-17T15:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 117139,
+      "size_mb": 0.11,
+      "timestamp": "2026-01-17T15:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "🥵看看那里 https://t.co/oszWQ7wow8",
+    "publish_time": "2026-01-17T14:35:23"
   }
 ]
