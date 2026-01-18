@@ -1090,5 +1090,111 @@
     },
     "full_text": "被谁扇了一巴掌？ https://t.co/6HBZBBxXHY",
     "publish_time": "2026-01-18T21:19:28"
+  },
+  {
+    "file_name": "9FACNaO_cuWUQ9Z7.mp4",
+    "user": {
+      "screen_name": "josephmrkao",
+      "name": "185 Joseph"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2012812841229664257/vid/avc1/3840x2160/9FACNaO_cuWUQ9Z7.mp4?tag=21",
+    "read_time": "2026-01-18T23:01:50",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (56MB > 50MB)",
+      "timestamp": "2026-01-18T23:01:57",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 59740157,
+      "size_mb": 56.97,
+      "timestamp": "2026-01-18T23:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "《午後浪漫盒》Aft.Keepsake 🔒01\n\n像在窺視一場\n原本只屬於我們的午後聊天\n初認識 @MUSC_EDGE \n卻在不知不覺中\n想把這個斯文俊帥的大男孩 🙋‍♂️\n留在記憶裡，哪怕只是一小段\n把那份悄悄滾燙的悸動 ❤️\n慢慢滴落，分享給你……\n\nPeeking into an aft. meant only for us.\nJust met Marcus, and somehow https://t.co/bDoEy4gdNR",
+    "publish_time": "2026-01-18T22:07:00"
+  },
+  {
+    "file_name": "G-858VIW4AAy3wj.jpg",
+    "user": {
+      "screen_name": "717_Tui",
+      "name": "Guaguagua_Men"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G-858VIW4AAy3wj.jpg",
+    "read_time": "2026-01-18T23:01:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15508,
+      "timestamp": "2026-01-18T23:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 39459,
+      "size_mb": 0.04,
+      "timestamp": "2026-01-18T23:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "老熟人新编瓜呱🐸群TG https://t.co/cEGy36QBPB https://t.co/lyglyqygDc",
+    "publish_time": "2026-01-18T22:14:13"
+  },
+  {
+    "file_name": "ppi1xdrdzGlDGY2I.mp4",
+    "user": {
+      "screen_name": "717_Tui",
+      "name": "Guaguagua_Men"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2012891943139672065/vid/avc1/720x1280/ppi1xdrdzGlDGY2I.mp4?tag=21",
+    "read_time": "2026-01-18T23:01:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15509,
+      "timestamp": "2026-01-18T23:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2749205,
+      "size_mb": 2.62,
+      "timestamp": "2026-01-18T23:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "哇 熟男大哥嗨起来好会说坏话 https://t.co/Dl9xmtmFpU",
+    "publish_time": "2026-01-18T22:17:13"
+  },
+  {
+    "file_name": "G-9Ca_AWsAA93r6.jpg",
+    "user": {
+      "screen_name": "asuitedguy89",
+      "name": "HotMandarinTeacher"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G-9Ca_AWsAA93r6.jpg",
+    "read_time": "2026-01-18T23:01:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15510,
+      "timestamp": "2026-01-18T23:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 174971,
+      "size_mb": 0.17,
+      "timestamp": "2026-01-18T23:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "Editing credit @hanssch_photo https://t.co/usGFThVuz8",
+    "publish_time": "2026-01-18T22:51:19"
   }
 ]
