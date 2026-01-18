@@ -1106,14 +1106,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (56MB > 50MB)",
       "timestamp": "2026-01-18T23:01:57",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 59740157,
       "size_mb": 56.97,
-      "timestamp": "2026-01-18T23:01:57",
+      "timestamp": "2026-01-19T00:01:10",
       "download_attempts": 0
     },
     "full_text": "《午後浪漫盒》Aft.Keepsake 🔒01\n\n像在窺視一場\n原本只屬於我們的午後聊天\n初認識 @MUSC_EDGE \n卻在不知不覺中\n想把這個斯文俊帥的大男孩 🙋‍♂️\n留在記憶裡，哪怕只是一小段\n把那份悄悄滾燙的悸動 ❤️\n慢慢滴落，分享給你……\n\nPeeking into an aft. meant only for us.\nJust met Marcus, and somehow https://t.co/bDoEy4gdNR",
@@ -1196,5 +1196,57 @@
     },
     "full_text": "Editing credit @hanssch_photo https://t.co/usGFThVuz8",
     "publish_time": "2026-01-18T22:51:19"
+  },
+  {
+    "file_name": "x8z3ODfG0Yo7HDzy.mp4",
+    "user": {
+      "screen_name": "717_Tui",
+      "name": "Guaguagua_Men"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2012903001669689344/vid/avc1/720x1280/x8z3ODfG0Yo7HDzy.mp4?tag=21",
+    "read_time": "2026-01-19T00:01:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15511,
+      "timestamp": "2026-01-19T00:01:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4264622,
+      "size_mb": 4.07,
+      "timestamp": "2026-01-19T00:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "大哥好会 姿势不少 https://t.co/eUtEyzSTzi",
+    "publish_time": "2026-01-18T23:02:28"
+  },
+  {
+    "file_name": "G-9LGqeWMAEx9yz.jpg",
+    "user": {
+      "screen_name": "YCJ2023",
+      "name": "杨长进"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G-9LGqeWMAEx9yz.jpg",
+    "read_time": "2026-01-19T00:01:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15512,
+      "timestamp": "2026-01-19T00:01:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 98219,
+      "size_mb": 0.09,
+      "timestamp": "2026-01-19T00:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "海边可以干什么？\n🤤 https://t.co/N4l38ZEgyj",
+    "publish_time": "2026-01-18T23:29:11"
   }
 ]
