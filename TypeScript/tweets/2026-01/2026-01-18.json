@@ -431,5 +431,33 @@
     "tweetUrl": "https://x.com/lovesamoyed_tw/status/2012872049350615405",
     "fullText": "New update on my of, link in bio",
     "publishTime": "2026-01-18T20:57:48"
+  },
+  {
+    "user": {
+      "screenName": "shenma_fuyun",
+      "name": "神马都是浮云"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2012873783397302273/vid/avc1/720x1280/jvhcqnJi-eZkc6cB.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/shenma_fuyun/status/2012873887458169171",
+    "fullText": "小潼同学 2601 预览版。爆肥三十斤的小帅自助火锅吃撑后被捅肚脐虐腹痛苦呻吟。 https://t.co/wOGAVeIhRT",
+    "publishTime": "2026-01-18T21:05:06"
+  },
+  {
+    "user": {
+      "screenName": "junjunshiheihei",
+      "name": "JunJun"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2012877433356124160/vid/avc1/720x1280/WrrbYNLPzhUKECI1.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/junjunshiheihei/status/2012877500091629639",
+    "fullText": "被谁扇了一巴掌？ https://t.co/6HBZBBxXHY",
+    "publishTime": "2026-01-18T21:19:28"
   }
 ]
