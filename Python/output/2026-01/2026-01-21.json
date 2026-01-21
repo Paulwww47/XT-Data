@@ -492,5 +492,83 @@
     },
     "full_text": "https://t.co/a7UPSo0o4S",
     "publish_time": "2026-01-21T09:28:42"
+  },
+  {
+    "file_name": "G_JySOeaoAMS8U_.jpg",
+    "user": {
+      "screen_name": "Alilovest",
+      "name": "爱学习的阿狸"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_JySOeaoAMS8U_.jpg",
+    "read_time": "2026-01-21T11:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15631,
+      "timestamp": "2026-01-21T11:00:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 110626,
+      "size_mb": 0.11,
+      "timestamp": "2026-01-21T11:00:52",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/v1k4xXlQRF",
+    "publish_time": "2026-01-21T10:15:48"
+  },
+  {
+    "file_name": "xJp6iWmdFHMX2CXf.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2013803709428273152/vid/avc1/720x1280/xJp6iWmdFHMX2CXf.mp4?tag=14",
+    "read_time": "2026-01-21T11:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15632,
+      "timestamp": "2026-01-21T11:00:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 795751,
+      "size_mb": 0.76,
+      "timestamp": "2026-01-21T11:00:55",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年1月21日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/xEvg6nSeCt",
+    "publish_time": "2026-01-21T10:40:03"
+  },
+  {
+    "file_name": "mhD0K1ejon5zOU7M.mp4",
+    "user": {
+      "screen_name": "max06734521",
+      "name": "🪳大王🪳"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2013805081913892864/vid/avc1/720x1280/mhD0K1ejon5zOU7M.mp4?tag=21",
+    "read_time": "2026-01-21T11:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15633,
+      "timestamp": "2026-01-21T11:00:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1933810,
+      "size_mb": 1.84,
+      "timestamp": "2026-01-21T11:00:57",
+      "download_attempts": 0
+    },
+    "full_text": "攒起来寄给你 https://t.co/NuVqAKRvbT",
+    "publish_time": "2026-01-21T10:45:40"
   }
 ]
