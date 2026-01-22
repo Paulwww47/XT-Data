@@ -4335,6 +4335,32 @@
     }
   },
   {
+    "restId": "1576808570896662528",
+    "legacy": {
+      "name": "罗夏 （上海）",
+      "screenName": "wwxia8898",
+      "createdAt": "Mon Oct 03 05:37:24 +0000 2022",
+      "description": "健身教练，滑雪🏂🏻教练，健身模特，直男180-78kg狮子🦁 上门私教 https://t.co/e3zlztHnHV 不接推广，出原味，🧦内裤",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "t.me/wwxia8898",
+              "expanded_url": "http://t.me/wwxia8898",
+              "url": "https://t.co/e3zlztHnHV",
+              "indices": [
+                36,
+                59
+              ]
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1974113216235253768/81Cqkg3N_normal.jpg"
+    }
+  },
+  {
     "restId": "1365542281709723648",
     "legacy": {
       "name": "西西会刹车",
