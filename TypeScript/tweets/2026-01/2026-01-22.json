@@ -142,5 +142,20 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2014124646053146659",
     "fullText": "https://t.co/CEX2IxRQSS",
     "publishTime": "2026-01-22T07:55:10"
+  },
+  {
+    "user": {
+      "screenName": "lvren51069",
+      "name": "律人"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_Ohk5hbIAAjbVX.jpg",
+      "https://pbs.twimg.com/media/G_Ohk6EW0AANaMK.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/lvren51069/status/2014131123677233501",
+    "fullText": "https://t.co/grDyv7nZKL",
+    "publishTime": "2026-01-22T08:20:55"
   }
 ]
