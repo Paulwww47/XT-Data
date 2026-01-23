@@ -494,6 +494,20 @@
   },
   {
     "user": {
+      "screenName": "kaka_lac",
+      "name": "kaka"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2014712713088233472/vid/avc1/720x1280/QrByKAbEfSTUPXAP.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/kaka_lac/status/2014713117121643001",
+    "fullText": "https://t.co/6esDN17YQA",
+    "publishTime": "2026-01-23T22:53:33"
+  },
+  {
+    "user": {
       "screenName": "iamwaylonsuen",
       "name": "W"
     },
