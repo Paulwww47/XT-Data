@@ -108,5 +108,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2014797280533217722",
     "fullText": "https://t.co/GTiVyZotrA",
     "publishTime": "2026-01-24T04:27:59"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2014818856754352128/vid/avc1/720x1280/a9QqVkQQcolBFHRl.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/2014819000455500228",
+    "fullText": "早 https://t.co/DhPOlZ7SSB",
+    "publishTime": "2026-01-24T05:54:17"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2014819850062069760/vid/avc1/720x1280/TdEOyeEvQP7Zq7s0.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/2014819959176888457",
+    "fullText": "正面 https://t.co/nvWvvyAg9T",
+    "publishTime": "2026-01-24T05:58:06"
   }
 ]
