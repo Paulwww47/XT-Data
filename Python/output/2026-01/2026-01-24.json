@@ -664,14 +664,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (73MB > 50MB)",
       "timestamp": "2026-01-24T16:01:25",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 77490876,
       "size_mb": 73.9,
-      "timestamp": "2026-01-24T16:01:25",
+      "timestamp": "2026-01-24T17:01:19",
       "download_attempts": 0
     },
     "full_text": "去莆田高铁上剪的🐍🐍\n也不知道有没被偷看到 https://t.co/bGlgJlvrH2",
@@ -702,5 +702,31 @@
     },
     "full_text": "dio_ww https://t.co/erTvA8Gwfb",
     "publish_time": "2026-01-24T15:53:47"
+  },
+  {
+    "file_name": "1mrGmBkWpjNJy",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "broadcasts",
+    "url": "https://x.com/i/broadcasts/1mrGmBkWpjNJy",
+    "read_time": "2026-01-24T17:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15780,
+      "timestamp": "2026-01-24T17:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 0,
+      "size_mb": 0,
+      "timestamp": "2026-01-24T17:01:19",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/xv11pF947m",
+    "publish_time": "2026-01-24T16:48:57"
   }
 ]
