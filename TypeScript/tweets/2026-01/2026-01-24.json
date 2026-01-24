@@ -165,5 +165,35 @@
     "tweetUrl": "https://x.com/iKwuen1111/status/2014865520038932628",
     "fullText": "賴床 https://t.co/4ogxIQVFO7",
     "publishTime": "2026-01-24T08:59:09"
+  },
+  {
+    "user": {
+      "screenName": "uxy666",
+      "name": "uxy"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2014869727345311745/vid/avc1/480x854/UNdvspbCN1xwqxgI.mp4?tag=14"
+    ],
+    "expandUrls": [
+      "https://t.me/+KXYyohZIZLcyZTE1"
+    ],
+    "tweetUrl": "https://x.com/uxy666/status/2014869740884525150",
+    "fullText": "185长腿体育生\n\nhttps://t.co/cNS7yXnwnZ https://t.co/Kalkr0pY1z",
+    "publishTime": "2026-01-24T09:15:55"
+  },
+  {
+    "user": {
+      "screenName": "RuiHengJin",
+      "name": "H."
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_ZJL_Da8AAgVcN.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/RuiHengJin/status/2014878363907981387",
+    "fullText": "早起的傻*有屁眼子吃😏 https://t.co/0GgIHWPJra",
+    "publishTime": "2026-01-24T09:50:11"
   }
 ]
