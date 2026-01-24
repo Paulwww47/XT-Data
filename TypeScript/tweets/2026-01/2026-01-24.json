@@ -353,5 +353,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2014955331651305956",
     "fullText": "xybxcb https://t.co/bL3Kalq2FX",
     "publishTime": "2026-01-24T14:56:01"
+  },
+  {
+    "user": {
+      "screenName": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2014958332784869380/vid/avc1/720x1280/3uZZWpbehROZu5IM.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/bohaixiaochen/status/2014959769707282556",
+    "fullText": "去莆田高铁上剪的🐍🐍\n也不知道有没被偷看到 https://t.co/bGlgJlvrH2",
+    "publishTime": "2026-01-24T15:13:39"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_acaY7bAAMDImR.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2014969868446269803",
+    "fullText": "dio_ww https://t.co/erTvA8Gwfb",
+    "publishTime": "2026-01-24T15:53:47"
   }
 ]

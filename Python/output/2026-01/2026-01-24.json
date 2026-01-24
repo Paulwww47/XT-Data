@@ -648,5 +648,59 @@
     },
     "full_text": "xybxcb https://t.co/bL3Kalq2FX",
     "publish_time": "2026-01-24T14:56:01"
+  },
+  {
+    "file_name": "3uZZWpbehROZu5IM.mp4",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2014958332784869380/vid/avc1/720x1280/3uZZWpbehROZu5IM.mp4?tag=21",
+    "read_time": "2026-01-24T16:01:18",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (73MB > 50MB)",
+      "timestamp": "2026-01-24T16:01:25",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 77490876,
+      "size_mb": 73.9,
+      "timestamp": "2026-01-24T16:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "去莆田高铁上剪的🐍🐍\n也不知道有没被偷看到 https://t.co/bGlgJlvrH2",
+    "publish_time": "2026-01-24T15:13:39"
+  },
+  {
+    "file_name": "G_acaY7bAAMDImR.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_acaY7bAAMDImR.jpg",
+    "read_time": "2026-01-24T16:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15779,
+      "timestamp": "2026-01-24T16:01:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 67496,
+      "size_mb": 0.06,
+      "timestamp": "2026-01-24T16:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "dio_ww https://t.co/erTvA8Gwfb",
+    "publish_time": "2026-01-24T15:53:47"
   }
 ]
