@@ -986,5 +986,57 @@
     },
     "full_text": "https://t.co/vBRSyVAnQY",
     "publish_time": "2026-01-25T16:45:44"
+  },
+  {
+    "file_name": "sxtdMEA056_Th7WE.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2015357029968482305/vid/avc1/720x1052/sxtdMEA056_Th7WE.mp4?tag=14",
+    "read_time": "2026-01-25T18:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15839,
+      "timestamp": "2026-01-25T18:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5889829,
+      "size_mb": 5.62,
+      "timestamp": "2026-01-25T18:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "【大家盡可能使用-備用伺服器「https://t.co/gL5Saxr1uU」】，近兩天主力視頻伺服器與2號備用視頻伺服器均不穩定。 https://t.co/dTmT1vCf2g",
+    "publish_time": "2026-01-25T17:32:39"
+  },
+  {
+    "file_name": "lDtS6V2iDuWVQ77p.mp4",
+    "user": {
+      "screen_name": "arthurz_xcx",
+      "name": "Arthur (อาเธอร์ ) ♠︎×"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2015357802387308544/vid/avc1/2160x3840/lDtS6V2iDuWVQ77p.mp4?tag=21",
+    "read_time": "2026-01-25T18:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15840,
+      "timestamp": "2026-01-25T18:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 23359009,
+      "size_mb": 22.28,
+      "timestamp": "2026-01-25T18:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "หึ๋ยย ทำไรอะ https://t.co/4dJhY96lBT",
+    "publish_time": "2026-01-25T17:36:00"
   }
 ]

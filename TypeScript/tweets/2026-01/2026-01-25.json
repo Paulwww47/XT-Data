@@ -459,5 +459,35 @@
     "tweetUrl": "https://x.com/cibxun0301/status/2015345329265414518",
     "fullText": "https://t.co/vBRSyVAnQY",
     "publishTime": "2026-01-25T16:45:44"
+  },
+  {
+    "user": {
+      "screenName": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015357029968482305/vid/avc1/720x1052/sxtdMEA056_Th7WE.mp4?tag=14"
+    ],
+    "expandUrls": [
+      "http://Mixdrop.co"
+    ],
+    "tweetUrl": "https://x.com/BBoy1069/status/2015357136361107752",
+    "fullText": "【大家盡可能使用-備用伺服器「https://t.co/gL5Saxr1uU」】，近兩天主力視頻伺服器與2號備用視頻伺服器均不穩定。 https://t.co/dTmT1vCf2g",
+    "publishTime": "2026-01-25T17:32:39"
+  },
+  {
+    "user": {
+      "screenName": "arthurz_xcx",
+      "name": "Arthur (อาเธอร์ ) ♠︎×"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015357802387308544/vid/avc1/2160x3840/lDtS6V2iDuWVQ77p.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/arthurz_xcx/status/2015357979076546732",
+    "fullText": "หึ๋ยย ทำไรอะ https://t.co/4dJhY96lBT",
+    "publishTime": "2026-01-25T17:36:00"
   }
 ]
