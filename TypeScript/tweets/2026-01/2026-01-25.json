@@ -557,5 +557,21 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2015386497176981770",
     "fullText": "scott_treesongkiat https://t.co/fcsBPblK72",
     "publishTime": "2026-01-25T19:29:19"
+  },
+  {
+    "user": {
+      "screenName": "alwyn_shown",
+      "name": "Alwyn Lu"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_glpznbEAIbeOJ.jpg",
+      "https://pbs.twimg.com/media/G_glpzqa0AAWjRq.jpg",
+      "https://pbs.twimg.com/media/G_glpzsbMAAKHBs.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/alwyn_shown/status/2015402349649592506",
+    "fullText": "老图计划5.0 https://t.co/AHtey4T2lZ",
+    "publishTime": "2026-01-25T20:32:19"
   }
 ]
