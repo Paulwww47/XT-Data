@@ -388,5 +388,83 @@
     },
     "full_text": "红发 https://t.co/fkiPvrM3Mn",
     "publish_time": "2026-01-25T09:35:57"
+  },
+  {
+    "file_name": "G_eb_fibMAED9li.mp4",
+    "user": {
+      "screen_name": "Szzsen",
+      "name": "Jensen"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/G_eb_fibMAED9li.mp4",
+    "read_time": "2026-01-25T11:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15816,
+      "timestamp": "2026-01-25T11:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 120486,
+      "size_mb": 0.11,
+      "timestamp": "2026-01-25T11:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "💖🖤 https://t.co/ZZXXehUdnS",
+    "publish_time": "2026-01-25T10:30:30"
+  },
+  {
+    "file_name": "G_egPsNbQAAcfR_.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_egPsNbQAAcfR_.jpg",
+    "read_time": "2026-01-25T11:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15817,
+      "timestamp": "2026-01-25T11:01:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 70537,
+      "size_mb": 0.07,
+      "timestamp": "2026-01-25T11:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/opvZZuOj2Q",
+    "publish_time": "2026-01-25T10:49:00"
+  },
+  {
+    "file_name": "G_egb5faYAAoMRT.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_egb5faYAAoMRT.jpg",
+    "read_time": "2026-01-25T11:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15818,
+      "timestamp": "2026-01-25T11:01:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 117584,
+      "size_mb": 0.11,
+      "timestamp": "2026-01-25T11:01:19",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/NxwDXgiY7J",
+    "publish_time": "2026-01-25T10:49:50"
   }
 ]
