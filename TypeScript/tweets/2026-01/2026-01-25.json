@@ -225,5 +225,19 @@
     "tweetUrl": "https://x.com/youdi/status/2015255762260676624",
     "fullText": "https://t.co/NxwDXgiY7J",
     "publishTime": "2026-01-25T10:49:50"
+  },
+  {
+    "user": {
+      "screenName": "cibxun0301",
+      "name": "蔡博轩"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015265393061797888/vid/avc1/720x1280/70QzKGjrwfJ6pP8n.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/cibxun0301/status/2015265472120541229",
+    "fullText": "https://t.co/04sRa2EyFA",
+    "publishTime": "2026-01-25T11:28:25"
   }
 ]

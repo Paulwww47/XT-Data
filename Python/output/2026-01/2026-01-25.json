@@ -466,5 +466,31 @@
     },
     "full_text": "https://t.co/NxwDXgiY7J",
     "publish_time": "2026-01-25T10:49:50"
+  },
+  {
+    "file_name": "70QzKGjrwfJ6pP8n.mp4",
+    "user": {
+      "screen_name": "cibxun0301",
+      "name": "蔡博轩"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2015265393061797888/vid/avc1/720x1280/70QzKGjrwfJ6pP8n.mp4?tag=21",
+    "read_time": "2026-01-25T12:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15819,
+      "timestamp": "2026-01-25T12:01:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1742663,
+      "size_mb": 1.66,
+      "timestamp": "2026-01-25T12:01:19",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/04sRa2EyFA",
+    "publish_time": "2026-01-25T11:28:25"
   }
 ]
