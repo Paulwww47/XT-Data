@@ -180,5 +180,31 @@
     },
     "full_text": "https://t.co/ZbFgDoMva4 https://t.co/7R10DtnFln",
     "publish_time": "2026-01-25T06:28:07"
+  },
+  {
+    "file_name": "4e-Qtp73pkZyg727.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2015211593194213376/vid/avc1/720x1280/4e-Qtp73pkZyg727.mp4?tag=21",
+    "read_time": "2026-01-25T08:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15808,
+      "timestamp": "2026-01-25T08:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5730625,
+      "size_mb": 5.47,
+      "timestamp": "2026-01-25T08:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "外面好吵 https://t.co/Qpr6fCSsfl",
+    "publish_time": "2026-01-25T07:54:40"
   }
 ]
