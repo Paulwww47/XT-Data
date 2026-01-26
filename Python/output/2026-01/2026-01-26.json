@@ -380,17 +380,277 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (115MB > 50MB)",
       "timestamp": "2026-01-26T10:01:38",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 121345833,
       "size_mb": 115.72,
-      "timestamp": "2026-01-26T10:01:38",
+      "timestamp": "2026-01-26T11:01:25",
       "download_attempts": 0
     },
     "full_text": "凌晨还背取了下 看的想干自己\n放了两遍凑时长 https://t.co/GzoFJur5zv",
     "publish_time": "2026-01-26T09:59:02"
+  },
+  {
+    "file_name": "G_jgGYzWsAA0bHd.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_jgGYzWsAA0bHd.jpg",
+    "read_time": "2026-01-26T11:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15866,
+      "timestamp": "2026-01-26T11:01:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 56112,
+      "size_mb": 0.05,
+      "timestamp": "2026-01-26T11:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/3csXallWZy",
+    "publish_time": "2026-01-26T10:06:36"
+  },
+  {
+    "file_name": "G_jhOBmbcAEDDn5.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_jhOBmbcAEDDn5.jpg",
+    "read_time": "2026-01-26T11:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15867,
+      "timestamp": "2026-01-26T11:01:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 97629,
+      "size_mb": 0.09,
+      "timestamp": "2026-01-26T11:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/9ADOGbMOlM",
+    "publish_time": "2026-01-26T10:11:57"
+  },
+  {
+    "file_name": "G_jhN-3akAEmZ1R.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_jhN-3akAEmZ1R.jpg",
+    "read_time": "2026-01-26T11:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15868,
+      "timestamp": "2026-01-26T11:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 134612,
+      "size_mb": 0.13,
+      "timestamp": "2026-01-26T11:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/9ADOGbMOlM",
+    "publish_time": "2026-01-26T10:11:57"
+  },
+  {
+    "file_name": "G_jhS2WawAA3FCC.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_jhS2WawAA3FCC.jpg",
+    "read_time": "2026-01-26T11:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15869,
+      "timestamp": "2026-01-26T11:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 111891,
+      "size_mb": 0.11,
+      "timestamp": "2026-01-26T11:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/9ADOGbMOlM",
+    "publish_time": "2026-01-26T10:11:57"
+  },
+  {
+    "file_name": "G_jhV7abwAE3VCa.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_jhV7abwAE3VCa.jpg",
+    "read_time": "2026-01-26T11:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15870,
+      "timestamp": "2026-01-26T11:01:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 143712,
+      "size_mb": 0.14,
+      "timestamp": "2026-01-26T11:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/9ADOGbMOlM",
+    "publish_time": "2026-01-26T10:11:57"
+  },
+  {
+    "file_name": "G_jmN0hbgAATQop.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_jmN0hbgAATQop.jpg",
+    "read_time": "2026-01-26T11:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15871,
+      "timestamp": "2026-01-26T11:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 190661,
+      "size_mb": 0.18,
+      "timestamp": "2026-01-26T11:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/l14kvvRdik",
+    "publish_time": "2026-01-26T10:33:25"
+  },
+  {
+    "file_name": "G_jotBxbQAAwjO2.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_jotBxbQAAwjO2.jpg",
+    "read_time": "2026-01-26T11:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15872,
+      "timestamp": "2026-01-26T11:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 106433,
+      "size_mb": 0.1,
+      "timestamp": "2026-01-26T11:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "ckIca https://t.co/ulrlVNDEjW",
+    "publish_time": "2026-01-26T10:44:04"
+  },
+  {
+    "file_name": "G_jpFJ9bUAALHIg.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_jpFJ9bUAALHIg.jpg",
+    "read_time": "2026-01-26T11:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15873,
+      "timestamp": "2026-01-26T11:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 210625,
+      "size_mb": 0.2,
+      "timestamp": "2026-01-26T11:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vOjyh8G3Py",
+    "publish_time": "2026-01-26T10:45:53"
+  },
+  {
+    "file_name": "G_jpHLJbMAA2-LW.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_jpHLJbMAA2-LW.jpg",
+    "read_time": "2026-01-26T11:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15874,
+      "timestamp": "2026-01-26T11:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 214524,
+      "size_mb": 0.2,
+      "timestamp": "2026-01-26T11:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vOjyh8G3Py",
+    "publish_time": "2026-01-26T10:45:53"
+  },
+  {
+    "file_name": "G_jquGiWEAAzbwI.jpg",
+    "user": {
+      "screen_name": "chounizadi2021",
+      "name": "男神传送门"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_jquGiWEAAzbwI.jpg",
+    "read_time": "2026-01-26T11:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15875,
+      "timestamp": "2026-01-26T11:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 47425,
+      "size_mb": 0.05,
+      "timestamp": "2026-01-26T11:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "【粉丝投稿】谁知道这个是谁？求社交媒体账号，知道的请私信。第一个私信开门的可以免费寻人。（发帖寻人收费🧧，vpn不稳定，寻人/征友/买男性用品加个人VX（SYLjiankang2023），注明来意否则不通过） https://t.co/S4jmDnt1cr",
+    "publish_time": "2026-01-26T10:52:54"
   }
 ]
