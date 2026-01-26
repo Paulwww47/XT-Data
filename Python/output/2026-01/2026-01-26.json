@@ -1246,14 +1246,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (139MB > 50MB)",
       "timestamp": "2026-01-26T16:01:26",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 145986945,
       "size_mb": 139.22,
-      "timestamp": "2026-01-26T16:01:26",
+      "timestamp": "2026-01-26T17:01:26",
       "download_attempts": 0
     },
     "full_text": "20250129_蛇年初一看我被性虐打手槍一起射一整晚好不好 Aurevior https://t.co/gzjSme5c9w",
