@@ -772,14 +772,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (123MB > 50MB)",
       "timestamp": "2026-01-26T12:01:42",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 129112074,
       "size_mb": 123.13,
-      "timestamp": "2026-01-26T12:01:42",
+      "timestamp": "2026-01-26T13:02:06",
       "download_attempts": 0
     },
     "full_text": "29 Rush控射，粗口到你喷 韦斯 https://t.co/qJ9F9mGM6L",
@@ -826,14 +826,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (102MB > 50MB)",
       "timestamp": "2026-01-26T12:01:53",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 107283029,
       "size_mb": 102.31,
-      "timestamp": "2026-01-26T12:01:53",
+      "timestamp": "2026-01-26T13:02:14",
       "download_attempts": 0
     },
     "full_text": "黑色耐克，喷了 韦斯 https://t.co/ObCbxVw1dn",
@@ -1010,17 +1010,95 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (147MB > 50MB)",
       "timestamp": "2026-01-26T12:02:11",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 154611315,
       "size_mb": 147.45,
-      "timestamp": "2026-01-26T12:02:11",
+      "timestamp": "2026-01-26T13:02:15",
       "download_attempts": 0
     },
     "full_text": "【 小鮮肉老師的課後活動 #2 】letmesuckyourjj\n这部挺好看 这个牛射好多啊 https://t.co/85vGLdrwNZ",
     "publish_time": "2026-01-26T11:47:11"
+  },
+  {
+    "file_name": "G_j8U4EXMAAXShj.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_j8U4EXMAAXShj.jpg",
+    "read_time": "2026-01-26T13:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15887,
+      "timestamp": "2026-01-26T13:02:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 201458,
+      "size_mb": 0.19,
+      "timestamp": "2026-01-26T13:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/KwjO6WS6rR",
+    "publish_time": "2026-01-26T12:09:52"
+  },
+  {
+    "file_name": "G_j8-5fWIAEFXKH.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_j8-5fWIAEFXKH.jpg",
+    "read_time": "2026-01-26T13:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15888,
+      "timestamp": "2026-01-26T13:02:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 90309,
+      "size_mb": 0.09,
+      "timestamp": "2026-01-26T13:02:17",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/BURNdUHznL",
+    "publish_time": "2026-01-26T12:12:47"
+  },
+  {
+    "file_name": "51LLXlw1xiBOcV7x.mp4",
+    "user": {
+      "screen_name": "YoungOu123",
+      "name": "Young Ou"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2015649579312525312/vid/avc1/720x1280/51LLXlw1xiBOcV7x.mp4?tag=21",
+    "read_time": "2026-01-26T13:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15889,
+      "timestamp": "2026-01-26T13:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 12184221,
+      "size_mb": 11.62,
+      "timestamp": "2026-01-26T13:02:19",
+      "download_attempts": 0
+    },
+    "full_text": "哑巴新郎 https://t.co/RvdIIq4Rfh",
+    "publish_time": "2026-01-26T12:55:18"
   }
 ]
