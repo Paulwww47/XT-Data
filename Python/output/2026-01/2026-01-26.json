@@ -248,17 +248,149 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (116MB > 50MB)",
       "timestamp": "2026-01-26T09:01:44",
+      "notification_sent": true
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 122630610,
+      "size_mb": 116.95,
+      "timestamp": "2026-01-26T10:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "凌晨✈️ 还背取了一下 看的想干自己 放了两遍凑时长 https://t.co/i1QWUW19Dk",
+    "publish_time": "2026-01-26T08:55:30"
+  },
+  {
+    "file_name": "G_jY90sWYAA1H7k.jpg",
+    "user": {
+      "screen_name": "YoungOu123",
+      "name": "Young Ou"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_jY90sWYAA1H7k.jpg",
+    "read_time": "2026-01-26T10:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15862,
+      "timestamp": "2026-01-26T10:01:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 76913,
+      "size_mb": 0.07,
+      "timestamp": "2026-01-26T10:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "故地重游是刻舟求剑还是朝花夕拾 https://t.co/RQLpBk3cea",
+    "publish_time": "2026-01-26T09:35:21"
+  },
+  {
+    "file_name": "G_jY90pWIAAaPuC.jpg",
+    "user": {
+      "screen_name": "YoungOu123",
+      "name": "Young Ou"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_jY90pWIAAaPuC.jpg",
+    "read_time": "2026-01-26T10:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15863,
+      "timestamp": "2026-01-26T10:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 137576,
+      "size_mb": 0.13,
+      "timestamp": "2026-01-26T10:01:24",
+      "download_attempts": 0
+    },
+    "full_text": "故地重游是刻舟求剑还是朝花夕拾 https://t.co/RQLpBk3cea",
+    "publish_time": "2026-01-26T09:35:21"
+  },
+  {
+    "file_name": "G_jY90fWIAAkVLq.jpg",
+    "user": {
+      "screen_name": "YoungOu123",
+      "name": "Young Ou"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_jY90fWIAAkVLq.jpg",
+    "read_time": "2026-01-26T10:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15864,
+      "timestamp": "2026-01-26T10:01:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 100365,
+      "size_mb": 0.1,
+      "timestamp": "2026-01-26T10:01:26",
+      "download_attempts": 0
+    },
+    "full_text": "故地重游是刻舟求剑还是朝花夕拾 https://t.co/RQLpBk3cea",
+    "publish_time": "2026-01-26T09:35:21"
+  },
+  {
+    "file_name": "G_jY90BbMAAVXki.jpg",
+    "user": {
+      "screen_name": "YoungOu123",
+      "name": "Young Ou"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_jY90BbMAAVXki.jpg",
+    "read_time": "2026-01-26T10:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 15865,
+      "timestamp": "2026-01-26T10:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 96864,
+      "size_mb": 0.09,
+      "timestamp": "2026-01-26T10:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "故地重游是刻舟求剑还是朝花夕拾 https://t.co/RQLpBk3cea",
+    "publish_time": "2026-01-26T09:35:21"
+  },
+  {
+    "file_name": "MuRDbwH7UY2OfOjr.mp4",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2015599438052687872/vid/avc1/1280x720/MuRDbwH7UY2OfOjr.mp4?tag=21",
+    "read_time": "2026-01-26T10:01:20",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (115MB > 50MB)",
+      "timestamp": "2026-01-26T10:01:38",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 122630610,
-      "size_mb": 116.95,
-      "timestamp": "2026-01-26T09:01:44",
+      "size": 121345833,
+      "size_mb": 115.72,
+      "timestamp": "2026-01-26T10:01:38",
       "download_attempts": 0
     },
-    "full_text": "凌晨✈️ 还背取了一下 看的想干自己 放了两遍凑时长 https://t.co/i1QWUW19Dk",
-    "publish_time": "2026-01-26T08:55:30"
+    "full_text": "凌晨还背取了下 看的想干自己\n放了两遍凑时长 https://t.co/GzoFJur5zv",
+    "publish_time": "2026-01-26T09:59:02"
   }
 ]
