@@ -178,5 +178,37 @@
     "tweetUrl": "https://x.com/chounizadi2021/status/2015937197883441252",
     "fullText": "@Szzsen 好性感",
     "publishTime": "2026-01-27T07:57:36"
+  },
+  {
+    "user": {
+      "screenName": "Szzsen",
+      "name": "Jensen"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_okEdJbAAA_L7-.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Szzsen/status/2015963451584348541",
+    "fullText": "please take me out https://t.co/GK6IarpHtY",
+    "publishTime": "2026-01-27T09:41:56"
+  },
+  {
+    "user": {
+      "screenName": "growncz",
+      "name": "阿巴阿巴"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_ol22rbkAAzkeN.jpg",
+      "https://pbs.twimg.com/media/G_ol22qbsAAK3Ov.jpg",
+      "https://pbs.twimg.com/media/G_ol22obAAIYN-b.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2015965407518326785/vid/avc1/720x1280/aesClDZhhAvZu1J8.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/growncz/status/2015965595456700886",
+    "fullText": "想在KTV里和你doi😘😘 https://t.co/V2deOqiZC8",
+    "publishTime": "2026-01-27T09:50:27"
   }
 ]
