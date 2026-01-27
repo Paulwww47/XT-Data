@@ -95,5 +95,31 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2016239516504494530",
     "fullText": "https://t.co/MITI7frRS6",
     "publishTime": "2026-01-28T03:58:55"
+  },
+  {
+    "user": {
+      "screenName": "Szzsen",
+      "name": "Jensen"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Szzsen/status/2016261967846178946",
+    "fullText": "非常佩服我自己",
+    "publishTime": "2026-01-28T05:28:08"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_s3ODybAAM1tmX.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2016265980855648743",
+    "fullText": "https://t.co/Pk8eClIgoi",
+    "publishTime": "2026-01-28T05:44:04"
   }
 ]
