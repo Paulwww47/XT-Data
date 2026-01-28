@@ -478,5 +478,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2016404140168249385",
     "fullText": "https://t.co/ntQRT4fwtc",
     "publishTime": "2026-01-28T14:53:04"
+  },
+  {
+    "user": {
+      "screenName": "Louiewe123",
+      "name": "Louiewe卤蛋头"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2016410506416807936/vid/avc1/720x1280/4XwUfqa1C0-Z8z9N.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Louiewe123/status/2016410581931098484",
+    "fullText": "微信小程序搜“超牛”，本周四晚上7点见喽 https://t.co/IHVC5YkLMn",
+    "publishTime": "2026-01-28T15:18:40"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_u-GGrW0AA9Lyl.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2016414275204735408",
+    "fullText": "https://t.co/llr3P4A6ZW",
+    "publishTime": "2026-01-28T15:33:21"
   }
 ]
