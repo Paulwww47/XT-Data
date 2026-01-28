@@ -1238,17 +1238,43 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (75MB > 50MB)",
       "timestamp": "2026-01-28T21:02:07",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 78914193,
       "size_mb": 75.26,
-      "timestamp": "2026-01-28T21:02:07",
+      "timestamp": "2026-01-28T22:01:10",
       "download_attempts": 0
     },
     "full_text": "凑脚踩踩🐍🐍 https://t.co/KxHIqvEdlE",
     "publish_time": "2026-01-28T20:39:38"
+  },
+  {
+    "file_name": "zvzyMc9HMQl_xW_i.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2016502299409989632/vid/avc1/676x886/zvzyMc9HMQl_xW_i.mp4?tag=21",
+    "read_time": "2026-01-28T22:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16016,
+      "timestamp": "2026-01-28T22:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1575404,
+      "size_mb": 1.5,
+      "timestamp": "2026-01-28T22:01:10",
+      "download_attempts": 0
+    },
+    "full_text": "低体脂+大jb https://t.co/rQ5QBrP2Mt",
+    "publish_time": "2026-01-28T21:23:24"
   }
 ]
