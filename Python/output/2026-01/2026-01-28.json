@@ -1222,5 +1222,33 @@
     },
     "full_text": "https://t.co/0WeHpMHvq5",
     "publish_time": "2026-01-28T18:58:53"
+  },
+  {
+    "file_name": "SGcjbVCgLK1Lpo2-.mp4",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2016490506981912576/vid/avc1/1280x720/SGcjbVCgLK1Lpo2-.mp4?tag=21",
+    "read_time": "2026-01-28T21:01:52",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (75MB > 50MB)",
+      "timestamp": "2026-01-28T21:02:07",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 78914193,
+      "size_mb": 75.26,
+      "timestamp": "2026-01-28T21:02:07",
+      "download_attempts": 0
+    },
+    "full_text": "凑脚踩踩🐍🐍 https://t.co/KxHIqvEdlE",
+    "publish_time": "2026-01-28T20:39:38"
   }
 ]
