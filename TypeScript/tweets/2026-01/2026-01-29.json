@@ -146,5 +146,36 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2016647990602322121",
     "fullText": "https://t.co/uoqoUpyVjI",
     "publishTime": "2026-01-29T07:02:03"
+  },
+  {
+    "user": {
+      "screenName": "yyeddy",
+      "name": "yyeddy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_ym11obUAEkhgR.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/yyeddy/status/2016670182773838192",
+    "fullText": "💪🏻💪🏻💪🏻 https://t.co/BOszY51LHS",
+    "publishTime": "2026-01-29T08:30:14"
+  },
+  {
+    "user": {
+      "screenName": "maletease",
+      "name": "MaleTease"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_yrBPFbIAAmIqQ.jpg",
+      "https://pbs.twimg.com/media/G_yrBPFbUAI0lqE.jpg",
+      "https://pbs.twimg.com/media/G_yrBPNawAAKZtT.jpg",
+      "https://pbs.twimg.com/media/G_yrBPKaQAAro87.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/maletease/status/2016674781085704347",
+    "fullText": "029 Aurevoir_178 https://t.co/kgrQfl5DS0",
+    "publishTime": "2026-01-29T08:48:30"
   }
 ]
