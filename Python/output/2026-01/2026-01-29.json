@@ -466,5 +466,57 @@
     },
     "full_text": "體格好好歐， 是說這邊有人想拍 硬幫幫照嗎？   歡迎內洽 https://t.co/8zUki89R6H",
     "publish_time": "2026-01-29T10:51:50"
+  },
+  {
+    "file_name": "G_ziNmgaEAADVQP.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_ziNmgaEAADVQP.jpg",
+    "read_time": "2026-01-29T13:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16038,
+      "timestamp": "2026-01-29T13:01:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 235167,
+      "size_mb": 0.22,
+      "timestamp": "2026-01-29T13:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Eik1YxmrBF",
+    "publish_time": "2026-01-29T12:49:51"
+  },
+  {
+    "file_name": "F-5wK_l1lObDjNTj.mp4",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2016735938827923456/vid/avc1/884x720/F-5wK_l1lObDjNTj.mp4?tag=14",
+    "read_time": "2026-01-29T13:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16039,
+      "timestamp": "2026-01-29T13:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3148234,
+      "size_mb": 3.0,
+      "timestamp": "2026-01-29T13:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/2LJw4K5YZg",
+    "publish_time": "2026-01-29T12:52:54"
   }
 ]
