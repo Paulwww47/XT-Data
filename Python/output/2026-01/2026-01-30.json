@@ -1470,14 +1470,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (61MB > 50MB)",
       "timestamp": "2026-01-31T00:00:53",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 64824577,
       "size_mb": 61.82,
-      "timestamp": "2026-01-31T00:00:53",
+      "timestamp": "2026-01-31T01:00:53",
       "download_attempts": 0
     },
     "full_text": "ชอบพุ่งๆ ครางเสียวๆ กันใช่ป่าว 😝\n\n// คลิปเต็มแอคล็อคค้าบ https://t.co/913olW41ya",
