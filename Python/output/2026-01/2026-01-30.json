@@ -1454,5 +1454,111 @@
     },
     "full_text": "https://t.co/Rgp9M9NGh3",
     "publish_time": "2026-01-30T22:48:24"
+  },
+  {
+    "file_name": "vw-bhc7gvD4AHwHe.mp4",
+    "user": {
+      "screen_name": "arthurz_xcx",
+      "name": "Arthur (อาเธอร์ ) ♠︎×"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2017252165426040832/vid/avc1/2160x3840/vw-bhc7gvD4AHwHe.mp4?tag=21",
+    "read_time": "2026-01-31T00:00:52",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (61MB > 50MB)",
+      "timestamp": "2026-01-31T00:00:53",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 64824577,
+      "size_mb": 61.82,
+      "timestamp": "2026-01-31T00:00:53",
+      "download_attempts": 0
+    },
+    "full_text": "ชอบพุ่งๆ ครางเสียวๆ กันใช่ป่าว 😝\n\n// คลิปเต็มแอคล็อคค้าบ https://t.co/913olW41ya",
+    "publish_time": "2026-01-30T23:04:51"
+  },
+  {
+    "file_name": "G_64kN9asAAj6ba.jpg",
+    "user": {
+      "screen_name": "MCdanbaifen",
+      "name": "猛吃蛋白粉🐯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_64kN9asAAj6ba.jpg",
+    "read_time": "2026-01-31T00:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16127,
+      "timestamp": "2026-01-31T00:00:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 138090,
+      "size_mb": 0.13,
+      "timestamp": "2026-01-31T00:00:53",
+      "download_attempts": 0
+    },
+    "full_text": "一波清水，好像腿变粗了一点？ https://t.co/4YIuJLjo1Y",
+    "publish_time": "2026-01-30T23:05:24"
+  },
+  {
+    "file_name": "G_64lMaawAAywwp.jpg",
+    "user": {
+      "screen_name": "MCdanbaifen",
+      "name": "猛吃蛋白粉🐯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_64lMaawAAywwp.jpg",
+    "read_time": "2026-01-31T00:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16128,
+      "timestamp": "2026-01-31T00:00:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 125617,
+      "size_mb": 0.12,
+      "timestamp": "2026-01-31T00:00:55",
+      "download_attempts": 0
+    },
+    "full_text": "一波清水，好像腿变粗了一点？ https://t.co/4YIuJLjo1Y",
+    "publish_time": "2026-01-30T23:05:24"
+  },
+  {
+    "file_name": "G_64kvlbgAA9C5p.jpg",
+    "user": {
+      "screen_name": "MCdanbaifen",
+      "name": "猛吃蛋白粉🐯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_64kvlbgAA9C5p.jpg",
+    "read_time": "2026-01-31T00:00:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16129,
+      "timestamp": "2026-01-31T00:00:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 136180,
+      "size_mb": 0.13,
+      "timestamp": "2026-01-31T00:00:57",
+      "download_attempts": 0
+    },
+    "full_text": "一波清水，好像腿变粗了一点？ https://t.co/4YIuJLjo1Y",
+    "publish_time": "2026-01-30T23:05:24"
   }
 ]
