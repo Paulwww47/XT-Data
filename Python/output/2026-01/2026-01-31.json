@@ -640,5 +640,57 @@
     },
     "full_text": "https://t.co/gyrz6dY8LO",
     "publish_time": "2026-01-31T06:01:24"
+  },
+  {
+    "file_name": "hsojKS7BQM1K8uKC.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2017393049752698880/vid/avc1/720x1280/hsojKS7BQM1K8uKC.mp4?tag=21",
+    "read_time": "2026-01-31T09:01:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16145,
+      "timestamp": "2026-01-31T09:01:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 8446023,
+      "size_mb": 8.05,
+      "timestamp": "2026-01-31T09:01:01",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/xo36ZZX22w",
+    "publish_time": "2026-01-31T08:23:04"
+  },
+  {
+    "file_name": "G_89zyVbYAAuHTq.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/G_89zyVbYAAuHTq.jpg",
+    "read_time": "2026-01-31T09:01:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16146,
+      "timestamp": "2026-01-31T09:01:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 147377,
+      "size_mb": 0.14,
+      "timestamp": "2026-01-31T09:01:05",
+      "download_attempts": 0
+    },
+    "full_text": "nguyen.hai95 https://t.co/hOsCY7x0O3",
+    "publish_time": "2026-01-31T08:46:47"
   }
 ]
