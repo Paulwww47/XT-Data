@@ -2070,5 +2070,31 @@
     },
     "full_text": "谢谢你 派大星 https://t.co/DNMjmBEBqR",
     "publish_time": "2026-01-31T22:43:24"
+  },
+  {
+    "file_name": "HAANfZGacAA-Sim.jpg",
+    "user": {
+      "screen_name": "Exp_lam",
+      "name": "~Exp(λ)"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HAANfZGacAA-Sim.jpg",
+    "read_time": "2026-02-01T00:01:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16200,
+      "timestamp": "2026-02-01T00:01:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 142412,
+      "size_mb": 0.14,
+      "timestamp": "2026-02-01T00:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/RhJmLgKspI",
+    "publish_time": "2026-01-31T23:54:14"
   }
 ]
