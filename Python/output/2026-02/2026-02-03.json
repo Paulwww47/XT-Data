@@ -1314,14 +1314,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (126MB > 50MB)",
       "timestamp": "2026-02-03T21:01:41",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 132275086,
       "size_mb": 126.15,
-      "timestamp": "2026-02-03T21:01:41",
+      "timestamp": "2026-02-03T22:00:53",
       "download_attempts": 0
     },
     "full_text": "the edger 8 系列 \n3个牛轮流被玩 两个年轻的牛鸡鸡很硬 \n那个年龄大的是个早泄 被完了几下就忍不住流精了 https://t.co/a23wkicgN2",
@@ -1352,5 +1352,109 @@
     },
     "full_text": "Hot Nerd  ？ https://t.co/OkAq3SqCst",
     "publish_time": "2026-02-03T20:51:27"
+  },
+  {
+    "file_name": "HAPG1Jsb0AAoOjT.jpg",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HAPG1Jsb0AAoOjT.jpg",
+    "read_time": "2026-02-03T22:00:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16371,
+      "timestamp": "2026-02-03T22:00:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 107166,
+      "size_mb": 0.1,
+      "timestamp": "2026-02-03T22:00:53",
+      "download_attempts": 0
+    },
+    "full_text": "看看腿肌🦵 https://t.co/HPIcyLPK9h",
+    "publish_time": "2026-02-03T21:19:22"
+  },
+  {
+    "file_name": "HAPI5OKboAA2oTk.jpg",
+    "user": {
+      "screen_name": "gekkowyz_ly",
+      "name": "zywgekko"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HAPI5OKboAA2oTk.jpg",
+    "read_time": "2026-02-03T22:00:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16372,
+      "timestamp": "2026-02-03T22:00:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 70803,
+      "size_mb": 0.07,
+      "timestamp": "2026-02-03T22:00:55",
+      "download_attempts": 0
+    },
+    "full_text": "🤫 https://t.co/LnpPBqcwYK",
+    "publish_time": "2026-02-03T21:28:23"
+  },
+  {
+    "file_name": "HAPI5OMbEAAhvq4.jpg",
+    "user": {
+      "screen_name": "gekkowyz_ly",
+      "name": "zywgekko"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HAPI5OMbEAAhvq4.jpg",
+    "read_time": "2026-02-03T22:00:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16373,
+      "timestamp": "2026-02-03T22:00:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 93545,
+      "size_mb": 0.09,
+      "timestamp": "2026-02-03T22:00:56",
+      "download_attempts": 0
+    },
+    "full_text": "🤫 https://t.co/LnpPBqcwYK",
+    "publish_time": "2026-02-03T21:28:23"
+  },
+  {
+    "file_name": "HAPJpV9bAAAm-c4.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HAPJpV9bAAAm-c4.jpg",
+    "read_time": "2026-02-03T22:00:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16374,
+      "timestamp": "2026-02-03T22:01:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 277520,
+      "size_mb": 0.26,
+      "timestamp": "2026-02-03T22:00:58",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/aKcO0MuxyY",
+    "publish_time": "2026-02-03T21:36:03"
   }
 ]
