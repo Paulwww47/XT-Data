@@ -5135,35 +5135,6 @@
     }
   },
   {
-    "restId": "714487126293807104",
-    "legacy": {
-      "name": "直N集中营🏡",
-      "screenName": "zhinanjizhong",
-      "createdAt": "Mon Mar 28 16:19:40 +0000 2016",
-      "description": "。",
-      "entities": {
-        "description": {
-          "urls": []
-        },
-        "url": {
-          "urls": [
-            {
-              "display_url": "dfk29.cc",
-              "expanded_url": "https://dfk29.cc",
-              "url": "https://t.co/zhkcPmu4xM",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        }
-      },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/714487126293807104/1675325059",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1621057192282693633/7hLr9mbT_normal.jpg"
-    }
-  },
-  {
     "restId": "1742369991486222337",
     "legacy": {
       "name": "佐夕木豪",
