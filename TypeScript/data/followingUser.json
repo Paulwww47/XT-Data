@@ -3562,6 +3562,32 @@
     }
   },
   {
+    "restId": "1891892525260210180",
+    "legacy": {
+      "name": "桥",
+      "screenName": "QiaoChuangZhi",
+      "createdAt": "Tue Feb 18 16:48:36 +0000 2025",
+      "description": "分享好看的视频，侵权请私信删除\n电报资源群：https://t.co/aDa3tvf9NE",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "t.me/+vUkR42U5jwhhY…",
+              "expanded_url": "https://t.me/+vUkR42U5jwhhYmIx",
+              "url": "https://t.co/aDa3tvf9NE",
+              "indices": [
+                22,
+                45
+              ]
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1891895318079471619/HVAqg51t_normal.jpg"
+    }
+  },
+  {
     "restId": "718699649574375424",
     "legacy": {
       "name": "青野Aono",
@@ -3794,9 +3820,9 @@
         "url": {
           "urls": [
             {
-              "display_url": "t.me/+zNbyrI2a5RdkO…",
-              "expanded_url": "https://t.me/+zNbyrI2a5RdkOTJk",
-              "url": "https://t.co/lG3xUFcn5B",
+              "display_url": "t.me/+X25NvXr3DzhlN…",
+              "expanded_url": "https://t.me/+X25NvXr3DzhlNGM0",
+              "url": "https://t.co/uZECU9zQpG",
               "indices": [
                 0,
                 23
@@ -5088,8 +5114,8 @@
           "urls": []
         }
       },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1136102325238415360/1602462197",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1315447910037770240/CKczPUOI_normal.jpg"
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1136102325238415360/1770220270",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2019075907282178048/ppixgSp-_normal.jpg"
     }
   },
   {
