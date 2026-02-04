@@ -716,14 +716,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (180MB > 50MB)",
       "timestamp": "2026-02-04T14:01:38",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 188774879,
       "size_mb": 180.03,
-      "timestamp": "2026-02-04T14:01:38",
+      "timestamp": "2026-02-04T15:00:54",
       "download_attempts": 0
     },
     "full_text": "1stfirst_light 系列 https://t.co/hnURe1i2JD",
@@ -744,14 +744,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (80MB > 50MB)",
       "timestamp": "2026-02-04T14:01:45",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 84336464,
       "size_mb": 80.43,
-      "timestamp": "2026-02-04T14:01:45",
+      "timestamp": "2026-02-04T15:00:54",
       "download_attempts": 0
     },
     "full_text": "hunkedge系列（fansone版合集） https://t.co/RJHmTnZbkc",
@@ -772,17 +772,95 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (151MB > 50MB)",
       "timestamp": "2026-02-04T14:01:59",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 158849939,
       "size_mb": 151.49,
-      "timestamp": "2026-02-04T14:01:59",
+      "timestamp": "2026-02-04T15:00:56",
       "download_attempts": 0
     },
     "full_text": "frnk0189 系列 https://t.co/mDawrDfC5I",
     "publish_time": "2026-02-04T13:31:53"
+  },
+  {
+    "file_name": "HASsnjdbAAA13ut.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HASsnjdbAAA13ut.png",
+    "read_time": "2026-02-04T15:00:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16406,
+      "timestamp": "2026-02-04T15:00:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 394252,
+      "size_mb": 0.38,
+      "timestamp": "2026-02-04T15:00:56",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/S6kaX3gMBb",
+    "publish_time": "2026-02-04T14:03:21"
+  },
+  {
+    "file_name": "kPZ2ukdlrk4MegUX.mp4",
+    "user": {
+      "screen_name": "joel63704381",
+      "name": "joeltpl"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2018934939757289472/vid/avc1/1280x720/kPZ2ukdlrk4MegUX.mp4?tag=21",
+    "read_time": "2026-02-04T15:00:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16407,
+      "timestamp": "2026-02-04T15:01:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3096257,
+      "size_mb": 2.95,
+      "timestamp": "2026-02-04T15:00:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ZtCSf3p6om",
+    "publish_time": "2026-02-04T14:29:51"
+  },
+  {
+    "file_name": "HAS3xGGbIAAmhbd.jpg",
+    "user": {
+      "screen_name": "AH___HAO",
+      "name": "IG：ariston_haohao"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HAS3xGGbIAAmhbd.jpg",
+    "read_time": "2026-02-04T15:00:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16408,
+      "timestamp": "2026-02-04T15:01:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 80780,
+      "size_mb": 0.08,
+      "timestamp": "2026-02-04T15:01:02",
+      "download_attempts": 0
+    },
+    "full_text": "浮出水面一下\n\n-\n吃完鋅濃度直接升兩階🥵\nhttps://t.co/9TMpBfQiWO\n折扣碼:ariston https://t.co/yzkHNfaCBV",
+    "publish_time": "2026-02-04T14:52:02"
   }
 ]

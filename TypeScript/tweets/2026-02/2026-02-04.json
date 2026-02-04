@@ -329,5 +329,49 @@
     "tweetUrl": "https://x.com/maletease/status/2018920425049489521",
     "fullText": "frnk0189 系列 https://t.co/mDawrDfC5I",
     "publishTime": "2026-02-04T13:31:53"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HASsnjdbAAA13ut.png"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/2018928343991923011",
+    "fullText": "https://t.co/S6kaX3gMBb",
+    "publishTime": "2026-02-04T14:03:21"
+  },
+  {
+    "user": {
+      "screenName": "joel63704381",
+      "name": "joeltpl"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2018934939757289472/vid/avc1/1280x720/kPZ2ukdlrk4MegUX.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/joel63704381/status/2018935010372489320",
+    "fullText": "https://t.co/ZtCSf3p6om",
+    "publishTime": "2026-02-04T14:29:51"
+  },
+  {
+    "user": {
+      "screenName": "AH___HAO",
+      "name": "IG：ariston_haohao"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAS3xGGbIAAmhbd.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [
+      "https://goin99.com/ARISTON"
+    ],
+    "tweetUrl": "https://x.com/AH___HAO/status/2018940594249437633",
+    "fullText": "浮出水面一下\n\n-\n吃完鋅濃度直接升兩階🥵\nhttps://t.co/9TMpBfQiWO\n折扣碼:ariston https://t.co/yzkHNfaCBV",
+    "publishTime": "2026-02-04T14:52:02"
   }
 ]
