@@ -1122,5 +1122,59 @@
     },
     "full_text": "https://t.co/133j8Ren5b",
     "publish_time": "2026-02-04T18:42:01"
+  },
+  {
+    "file_name": "H8MIF5jiKXS9vlAv.mp4",
+    "user": {
+      "screen_name": "QingyWilderness",
+      "name": "青野Aono"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2019009214723592193/pu/vid/avc1/1280x720/H8MIF5jiKXS9vlAv.mp4?tag=12",
+    "read_time": "2026-02-04T20:01:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16419,
+      "timestamp": "2026-02-04T20:01:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 16976844,
+      "size_mb": 16.19,
+      "timestamp": "2026-02-04T20:01:02",
+      "download_attempts": 0
+    },
+    "full_text": "加长款 https://t.co/B6mRd7I2wo",
+    "publish_time": "2026-02-04T19:25:36"
+  },
+  {
+    "file_name": "7oSVL5-fuhUeqcLC.mp4",
+    "user": {
+      "screen_name": "alwyn_shown",
+      "name": "Alwyn Lu"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2019011198864457728/vid/avc1/2160x3840/7oSVL5-fuhUeqcLC.mp4?tag=21",
+    "read_time": "2026-02-04T20:01:02",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (281MB > 50MB)",
+      "timestamp": "2026-02-04T20:01:11",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 295531022,
+      "size_mb": 281.84,
+      "timestamp": "2026-02-04T20:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "今日测评：Sauce非理性旋风杯\n这个杯子已经用了好多次了，真的暴爽，可以手动可以电动。\n很会吸的一款杯子\n@sauce1069 https://t.co/o7LFpRFtmm",
+    "publish_time": "2026-02-04T19:37:55"
   }
 ]
