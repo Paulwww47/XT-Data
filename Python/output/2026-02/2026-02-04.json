@@ -468,6 +468,84 @@
     "publish_time": "2026-02-04T11:54:56"
   },
   {
+    "file_name": "HASQMFPbEAA22lr.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HASQMFPbEAA22lr.jpg",
+    "read_time": "2026-02-04T14:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16403,
+      "timestamp": "2026-02-04T14:01:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 131111,
+      "size_mb": 0.13,
+      "timestamp": "2026-02-04T14:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "The edger 8已经更新到了26年1月最新 https://t.co/6wy66iocwm",
+    "publish_time": "2026-02-04T11:59:08"
+  },
+  {
+    "file_name": "HASQMFSbMAAYI1C.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HASQMFSbMAAYI1C.jpg",
+    "read_time": "2026-02-04T14:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16404,
+      "timestamp": "2026-02-04T14:01:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 120530,
+      "size_mb": 0.11,
+      "timestamp": "2026-02-04T14:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "The edger 8已经更新到了26年1月最新 https://t.co/6wy66iocwm",
+    "publish_time": "2026-02-04T11:59:08"
+  },
+  {
+    "file_name": "HASQMCda4AAmdfv.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HASQMCda4AAmdfv.jpg",
+    "read_time": "2026-02-04T14:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16405,
+      "timestamp": "2026-02-04T14:01:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 124702,
+      "size_mb": 0.12,
+      "timestamp": "2026-02-04T14:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "The edger 8已经更新到了26年1月最新 https://t.co/6wy66iocwm",
+    "publish_time": "2026-02-04T11:59:08"
+  },
+  {
     "file_name": "HASQS-RawAAn8Ac.jpg",
     "user": {
       "screen_name": "maletease",
@@ -622,5 +700,89 @@
     },
     "full_text": "【福利群限时开放🎉】感恩家人们一路相伴！为回馈家人们的厚爱，特开福利群🎁0门槛免费加入，可观看所有作品！\n👉速戳通道TG✈️： https://t.co/NVHQ3af6wv\n【暗号:778】秒通过哦~（注意素质）\n下载纸飞机地址：https://t.co/gE4XOyaKC8 https://t.co/nNkN2KNmoc",
     "publish_time": "2026-02-04T12:35:53"
+  },
+  {
+    "file_name": "RNa4YVQ6A523egyC.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2018910902670819328/vid/avc1/1080x1920/RNa4YVQ6A523egyC.mp4?tag=21",
+    "read_time": "2026-02-04T14:01:20",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (180MB > 50MB)",
+      "timestamp": "2026-02-04T14:01:38",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 188774879,
+      "size_mb": 180.03,
+      "timestamp": "2026-02-04T14:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "1stfirst_light 系列 https://t.co/hnURe1i2JD",
+    "publish_time": "2026-02-04T13:02:29"
+  },
+  {
+    "file_name": "KqXiTNBFZd2yZYhy.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2018916281706254336/vid/avc1/608x1080/KqXiTNBFZd2yZYhy.mp4?tag=21",
+    "read_time": "2026-02-04T14:01:20",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (80MB > 50MB)",
+      "timestamp": "2026-02-04T14:01:45",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 84336464,
+      "size_mb": 80.43,
+      "timestamp": "2026-02-04T14:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "hunkedge系列（fansone版合集） https://t.co/RJHmTnZbkc",
+    "publish_time": "2026-02-04T13:17:43"
+  },
+  {
+    "file_name": "cz2O1Cl-Ivmbl9Qc.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2018917107560484864/vid/avc1/708x1080/cz2O1Cl-Ivmbl9Qc.mp4?tag=21",
+    "read_time": "2026-02-04T14:01:20",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (151MB > 50MB)",
+      "timestamp": "2026-02-04T14:01:59",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 158849939,
+      "size_mb": 151.49,
+      "timestamp": "2026-02-04T14:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "frnk0189 系列 https://t.co/mDawrDfC5I",
+    "publish_time": "2026-02-04T13:31:53"
   }
 ]
