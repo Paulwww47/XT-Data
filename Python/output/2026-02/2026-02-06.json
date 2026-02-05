@@ -66,14 +66,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (69MB > 50MB)",
       "timestamp": "2026-02-06T02:01:35",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 72798123,
       "size_mb": 69.43,
-      "timestamp": "2026-02-06T02:01:35",
+      "timestamp": "2026-02-06T03:01:41",
       "download_attempts": 0
     },
     "full_text": "อยู่ๆ ก็มีเรื่องราวให้นอนไม่หลับ 😝 https://t.co/QGwMmiBthN",
