@@ -182,5 +182,57 @@
     },
     "full_text": "https://t.co/5ZhIBU4aBO",
     "publish_time": "2026-02-06T04:04:25"
+  },
+  {
+    "file_name": "J4Fwn4b69yhRqqMA.mp4",
+    "user": {
+      "screen_name": "QingyWilderness",
+      "name": "青野Aono"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2019520909816786949/pu/vid/avc1/1280x720/J4Fwn4b69yhRqqMA.mp4?tag=12",
+    "read_time": "2026-02-06T06:01:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16493,
+      "timestamp": "2026-02-06T06:01:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2560693,
+      "size_mb": 2.44,
+      "timestamp": "2026-02-06T06:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "special supply for the other side https://t.co/TIp5jgLKvh",
+    "publish_time": "2026-02-06T05:18:06"
+  },
+  {
+    "file_name": "ZVEAx6zQvdWLcyI_.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2019524197933019139/vid/avc1/720x1280/ZVEAx6zQvdWLcyI_.mp4?tag=21",
+    "read_time": "2026-02-06T06:01:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16494,
+      "timestamp": "2026-02-06T06:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 8300006,
+      "size_mb": 7.92,
+      "timestamp": "2026-02-06T06:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "週五了 https://t.co/BsLHSX1YqO",
+    "publish_time": "2026-02-06T05:31:31"
   }
 ]

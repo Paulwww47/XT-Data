@@ -132,5 +132,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2019502392186987003",
     "fullText": "https://t.co/5ZhIBU4aBO",
     "publishTime": "2026-02-06T04:04:25"
+  },
+  {
+    "user": {
+      "screenName": "QingyWilderness",
+      "name": "青野Aono"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2019520909816786949/pu/vid/avc1/1280x720/J4Fwn4b69yhRqqMA.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/QingyWilderness/status/2019520933669814321",
+    "fullText": "special supply for the other side https://t.co/TIp5jgLKvh",
+    "publishTime": "2026-02-06T05:18:06"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2019524197933019139/vid/avc1/720x1280/ZVEAx6zQvdWLcyI_.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/2019524310000628189",
+    "fullText": "週五了 https://t.co/BsLHSX1YqO",
+    "publishTime": "2026-02-06T05:31:31"
   }
 ]
