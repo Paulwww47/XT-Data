@@ -50,5 +50,33 @@
     },
     "full_text": "没什么本事 就是大 https://t.co/M4QOy09AAc",
     "publish_time": "2026-02-06T00:48:11"
+  },
+  {
+    "file_name": "vuuA1tdz9B0LMKpF.mp4",
+    "user": {
+      "screen_name": "arthurz_xcx",
+      "name": "Arthur (อาเธอร์ ) ♠︎×"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2019468957670141952/vid/avc1/2160x3840/vuuA1tdz9B0LMKpF.mp4?tag=21",
+    "read_time": "2026-02-06T02:01:35",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (69MB > 50MB)",
+      "timestamp": "2026-02-06T02:01:35",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 72798123,
+      "size_mb": 69.43,
+      "timestamp": "2026-02-06T02:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "อยู่ๆ ก็มีเรื่องราวให้นอนไม่หลับ 😝 https://t.co/QGwMmiBthN",
+    "publish_time": "2026-02-06T01:52:51"
   }
 ]
