@@ -160,5 +160,35 @@
     "tweetUrl": "https://x.com/iKwuen1111/status/2019524310000628189",
     "fullText": "週五了 https://t.co/BsLHSX1YqO",
     "publishTime": "2026-02-06T05:31:31"
+  },
+  {
+    "user": {
+      "screenName": "klspbr",
+      "name": "小帅气"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAbgVKLasAAKrFs.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2019548168065806339/pu/vid/avc1/720x1280/KsURuM68-aml-BNb.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/klspbr/status/2019548230703579355",
+    "fullText": "https://t.co/PqNVZZJv7P",
+    "publishTime": "2026-02-06T07:06:34"
+  },
+  {
+    "user": {
+      "screenName": "klspbr",
+      "name": "小帅气"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAbpgaCacAER3Jw.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/klspbr/status/2019558239109853655",
+    "fullText": "乐仔能成为经典是有原因的 https://t.co/JtdDppyUbm",
+    "publishTime": "2026-02-06T07:46:20"
   }
 ]
