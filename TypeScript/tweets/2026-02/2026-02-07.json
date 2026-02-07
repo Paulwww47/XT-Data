@@ -306,5 +306,36 @@
     "tweetUrl": "https://x.com/yaobawudezai/status/2019968977464951025",
     "fullText": "冒个泡泡🫧🤪 https://t.co/8at3JoVA7O",
     "publishTime": "2026-02-07T10:58:28"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAhgjmWbgAAFrsC.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2019970605156823429",
+    "fullText": "martin_1423 https://t.co/Nc0j2pZChl",
+    "publishTime": "2026-02-07T11:04:56"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HAhrvs1acAIgTil.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [
+      "https://sc3.ft07.com/bot",
+      "https://github.com/easychen/openclaw-serverchan-bot"
+    ],
+    "tweetUrl": "https://x.com/easychen/status/2019982963782647992",
+    "fullText": "#Easy同学正在独立开发  \n\n1. Server酱 APP 最新版（1.1.0+） 支持 Bot 了 https://t.co/YGhYyZgTYl\n2. 有 OpenClaw channel 插件了： https://t.co/hQZGtHXOb2 https://t.co/w7pTrmGE5R",
+    "publishTime": "2026-02-07T11:54:02"
   }
 ]
