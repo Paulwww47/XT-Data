@@ -767,7 +767,7 @@
       "success": false,
       "error_type": "api_error",
       "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "timestamp": "2026-02-09T15:01:44",
+      "timestamp": "2026-02-09T16:02:24",
       "notification_sent": false
     },
     "is_downloaded": false,
@@ -775,7 +775,7 @@
       "success": true,
       "size": 5189668,
       "size_mb": 4.95,
-      "timestamp": "2026-02-09T15:01:24",
+      "timestamp": "2026-02-09T16:02:03",
       "download_attempts": 0
     },
     "full_text": "ลบไปแล้ว ลงอีกรอบได่มั้ยค้าบ 😂🥵 https://t.co/0j5eGEHv0M",
@@ -821,7 +821,7 @@
       "success": false,
       "error_type": "api_error",
       "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "timestamp": "2026-02-09T15:02:07",
+      "timestamp": "2026-02-09T16:02:44",
       "notification_sent": false
     },
     "is_downloaded": false,
@@ -829,7 +829,7 @@
       "success": true,
       "size": 6736765,
       "size_mb": 6.42,
-      "timestamp": "2026-02-09T15:01:47",
+      "timestamp": "2026-02-09T16:02:24",
       "download_attempts": 0
     },
     "full_text": "为了回馈广大粉丝对我的支持！今天进我福利群🌹的将不收取任何费用，24h免费对我的粉丝们限时无门槛📷进入\n✨可观看所有未公开私人视频和写真 ✨👉领取方式🌸： https://t.co/kUQA1uN65B 【凭此截图+暗号🌿 宫廷玉液酒 】秒通过 https://t.co/LghMqU9oay",
@@ -927,7 +927,7 @@
       "success": false,
       "error_type": "api_error",
       "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "timestamp": "2026-02-09T15:03:07",
+      "timestamp": "2026-02-09T16:03:04",
       "notification_sent": false
     },
     "is_downloaded": false,
@@ -935,10 +935,36 @@
       "success": true,
       "size": 4437205,
       "size_mb": 4.23,
-      "timestamp": "2026-02-09T15:02:47",
+      "timestamp": "2026-02-09T16:02:44",
       "download_attempts": 0
     },
     "full_text": "不是广\n为了回馈广大粉丝对我的支持！凡是今天进我福利群🌹的将不收取任何费用，最近拍了很多大尺度的新作品准\n备一些小福利回馈粉丝\n无任何收费\n唯一联系👉：https://t.co/rSHVdWbqhq\n暗号：XX https://t.co/oBoQwXqkKn",
     "publish_time": "2026-02-09T14:46:45"
+  },
+  {
+    "file_name": "HAsqf36bEAAyAYq.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HAsqf36bEAAyAYq.jpg",
+    "read_time": "2026-02-09T16:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16699,
+      "timestamp": "2026-02-09T16:03:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 110408,
+      "size_mb": 0.11,
+      "timestamp": "2026-02-09T16:03:04",
+      "download_attempts": 0
+    },
+    "full_text": "moss_xiaoguan https://t.co/q0GSTnSChB",
+    "publish_time": "2026-02-09T15:04:11"
   }
 ]
