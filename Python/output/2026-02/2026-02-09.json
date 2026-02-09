@@ -762,20 +762,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/2020740905028976640/vid/avc1/720x1280/MO_-u80wcL-oJwgr.mp4?tag=21",
     "read_time": "2026-02-09T15:01:23",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "timestamp": "2026-02-09T16:02:24",
-      "notification_sent": false
+      "success": true,
+      "message_id": 16700,
+      "timestamp": "2026-02-09T17:01:21"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 5189668,
       "size_mb": 4.95,
-      "timestamp": "2026-02-09T16:02:03",
+      "timestamp": "2026-02-09T17:01:14",
       "download_attempts": 0
     },
     "full_text": "ลบไปแล้ว ลงอีกรอบได่มั้ยค้าบ 😂🥵 https://t.co/0j5eGEHv0M",
@@ -816,20 +814,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/2020750715485048832/vid/avc1/1280x720/kB-To-fJYWZGS_Fq.mp4?tag=21",
     "read_time": "2026-02-09T15:01:23",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "timestamp": "2026-02-09T16:02:44",
-      "notification_sent": false
+      "success": true,
+      "message_id": 16701,
+      "timestamp": "2026-02-09T17:01:24"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 6736765,
       "size_mb": 6.42,
-      "timestamp": "2026-02-09T16:02:24",
+      "timestamp": "2026-02-09T17:01:22",
       "download_attempts": 0
     },
     "full_text": "为了回馈广大粉丝对我的支持！今天进我福利群🌹的将不收取任何费用，24h免费对我的粉丝们限时无门槛📷进入\n✨可观看所有未公开私人视频和写真 ✨👉领取方式🌸： https://t.co/kUQA1uN65B 【凭此截图+暗号🌿 宫廷玉液酒 】秒通过 https://t.co/LghMqU9oay",
@@ -922,20 +918,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/2020751123901231105/vid/avc1/720x1280/_xlkjgdi60njpp7N.mp4?tag=21",
     "read_time": "2026-02-09T15:01:23",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "timestamp": "2026-02-09T16:03:04",
-      "notification_sent": false
+      "success": true,
+      "message_id": 16702,
+      "timestamp": "2026-02-09T17:01:26"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 4437205,
       "size_mb": 4.23,
-      "timestamp": "2026-02-09T16:02:44",
+      "timestamp": "2026-02-09T17:01:24",
       "download_attempts": 0
     },
     "full_text": "不是广\n为了回馈广大粉丝对我的支持！凡是今天进我福利群🌹的将不收取任何费用，最近拍了很多大尺度的新作品准\n备一些小福利回馈粉丝\n无任何收费\n唯一联系👉：https://t.co/rSHVdWbqhq\n暗号：XX https://t.co/oBoQwXqkKn",
@@ -966,5 +960,109 @@
     },
     "full_text": "moss_xiaoguan https://t.co/q0GSTnSChB",
     "publish_time": "2026-02-09T15:04:11"
+  },
+  {
+    "file_name": "HAs7zlCbsAAXO0z.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HAs7zlCbsAAXO0z.jpg",
+    "read_time": "2026-02-09T17:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16703,
+      "timestamp": "2026-02-09T17:01:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 144796,
+      "size_mb": 0.14,
+      "timestamp": "2026-02-09T17:01:26",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/noQTpaoyKP",
+    "publish_time": "2026-02-09T16:19:48"
+  },
+  {
+    "file_name": "HAs_1jNboAAAi33.jpg",
+    "user": {
+      "screen_name": "wwxia8898",
+      "name": "罗夏 （上海）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HAs_1jNboAAAi33.jpg",
+    "read_time": "2026-02-09T17:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16704,
+      "timestamp": "2026-02-09T17:01:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 157298,
+      "size_mb": 0.15,
+      "timestamp": "2026-02-09T17:01:26",
+      "download_attempts": 0
+    },
+    "full_text": "三亚有偶遇的吗？ https://t.co/kaO52OSUbB",
+    "publish_time": "2026-02-09T16:37:27"
+  },
+  {
+    "file_name": "HAs_1jNa0AEtI39.jpg",
+    "user": {
+      "screen_name": "wwxia8898",
+      "name": "罗夏 （上海）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HAs_1jNa0AEtI39.jpg",
+    "read_time": "2026-02-09T17:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16705,
+      "timestamp": "2026-02-09T17:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 284450,
+      "size_mb": 0.27,
+      "timestamp": "2026-02-09T17:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "三亚有偶遇的吗？ https://t.co/kaO52OSUbB",
+    "publish_time": "2026-02-09T16:37:27"
+  },
+  {
+    "file_name": "HAs_1jQa4AANnph.jpg",
+    "user": {
+      "screen_name": "wwxia8898",
+      "name": "罗夏 （上海）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HAs_1jQa4AANnph.jpg",
+    "read_time": "2026-02-09T17:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16706,
+      "timestamp": "2026-02-09T17:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 242816,
+      "size_mb": 0.23,
+      "timestamp": "2026-02-09T17:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "三亚有偶遇的吗？ https://t.co/kaO52OSUbB",
+    "publish_time": "2026-02-09T16:37:27"
   }
 ]
