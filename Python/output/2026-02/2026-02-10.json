@@ -674,5 +674,61 @@
     },
     "full_text": "累 https://t.co/Cf5wwkAYox",
     "publish_time": "2026-02-10T16:52:32"
+  },
+  {
+    "file_name": "uoBhUTYLi9Yu-9J0.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2021149971161223168/vid/avc1/720x1242/uoBhUTYLi9Yu-9J0.mp4?tag=21",
+    "read_time": "2026-02-10T18:01:36",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (64MB > 50MB)",
+      "timestamp": "2026-02-10T18:01:43",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 67449653,
+      "size_mb": 64.33,
+      "timestamp": "2026-02-10T18:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "虎砸系列 射精量很大 https://t.co/yVm24vPHUw",
+    "publish_time": "2026-02-10T17:18:39"
+  },
+  {
+    "file_name": "XfU4tTjINNTkqze9.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2021154410173431808/vid/avc1/720x1280/XfU4tTjINNTkqze9.mp4?tag=21",
+    "read_time": "2026-02-10T18:01:36",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "timestamp": "2026-02-10T18:02:07",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 49468694,
+      "size_mb": 47.18,
+      "timestamp": "2026-02-10T18:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "虎砸 https://t.co/WNrraniXjZ",
+    "publish_time": "2026-02-10T17:42:22"
   }
 ]
