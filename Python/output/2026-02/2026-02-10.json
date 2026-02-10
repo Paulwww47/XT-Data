@@ -690,14 +690,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (64MB > 50MB)",
       "timestamp": "2026-02-10T18:01:43",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 67449653,
       "size_mb": 64.33,
-      "timestamp": "2026-02-10T18:01:43",
+      "timestamp": "2026-02-10T19:01:46",
       "download_attempts": 0
     },
     "full_text": "虎砸系列 射精量很大 https://t.co/yVm24vPHUw",
@@ -712,23 +712,99 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/2021154410173431808/vid/avc1/720x1280/XfU4tTjINNTkqze9.mp4?tag=21",
     "read_time": "2026-02-10T18:01:36",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "timestamp": "2026-02-10T18:02:07",
-      "notification_sent": false
+      "success": true,
+      "message_id": 16756,
+      "timestamp": "2026-02-10T19:01:57"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 49468694,
       "size_mb": 47.18,
-      "timestamp": "2026-02-10T18:01:47",
+      "timestamp": "2026-02-10T19:01:50",
       "download_attempts": 0
     },
     "full_text": "虎砸 https://t.co/WNrraniXjZ",
     "publish_time": "2026-02-10T17:42:22"
+  },
+  {
+    "file_name": "HAyeDs6aEAAjuOt.jpg",
+    "user": {
+      "screen_name": "Exp_lam",
+      "name": "~Exp(λ)"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HAyeDs6aEAAjuOt.jpg",
+    "read_time": "2026-02-10T19:01:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16757,
+      "timestamp": "2026-02-10T19:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 163051,
+      "size_mb": 0.16,
+      "timestamp": "2026-02-10T19:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/NgTuVPFf0W",
+    "publish_time": "2026-02-10T18:07:37"
+  },
+  {
+    "file_name": "HAylLtCbgAAI8bn.jpg",
+    "user": {
+      "screen_name": "Exp_lam",
+      "name": "~Exp(λ)"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HAylLtCbgAAI8bn.jpg",
+    "read_time": "2026-02-10T19:01:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16758,
+      "timestamp": "2026-02-10T19:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 145628,
+      "size_mb": 0.14,
+      "timestamp": "2026-02-10T19:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/QnVsjDCUWi",
+    "publish_time": "2026-02-10T18:38:47"
+  },
+  {
+    "file_name": "HAylZTvaAAAakrW.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HAylZTvaAAAakrW.jpg",
+    "read_time": "2026-02-10T19:01:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16759,
+      "timestamp": "2026-02-10T19:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 176536,
+      "size_mb": 0.17,
+      "timestamp": "2026-02-10T19:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/nD7cB9VETD",
+    "publish_time": "2026-02-10T18:39:36"
   }
 ]
