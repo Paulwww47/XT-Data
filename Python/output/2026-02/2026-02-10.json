@@ -206,5 +206,31 @@
     },
     "full_text": "https://t.co/J1NHQjZbcV",
     "publish_time": "2026-02-10T10:00:45"
+  },
+  {
+    "file_name": "lKTH7sDFKIzJ0s21.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2021043164220620807/vid/avc1/720x1280/lKTH7sDFKIzJ0s21.mp4?tag=14",
+    "read_time": "2026-02-10T11:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16738,
+      "timestamp": "2026-02-10T11:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2132321,
+      "size_mb": 2.03,
+      "timestamp": "2026-02-10T11:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年2月10日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/QnWjqlCoPZ",
+    "publish_time": "2026-02-10T10:07:03"
   }
 ]
