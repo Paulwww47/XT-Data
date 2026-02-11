@@ -102,5 +102,33 @@
     },
     "full_text": "https://t.co/V1oAOtDzG9",
     "publish_time": "2026-02-12T03:43:07"
+  },
+  {
+    "file_name": "rU16F_JzfxpFlmF8.mp4",
+    "user": {
+      "screen_name": "Wei_danda",
+      "name": "Wei蛋蛋"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2021678728515051520/vid/avc1/720x1280/rU16F_JzfxpFlmF8.mp4?tag=21",
+    "read_time": "2026-02-12T05:01:15",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (55MB > 50MB)",
+      "timestamp": "2026-02-12T05:01:18",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 58095161,
+      "size_mb": 55.4,
+      "timestamp": "2026-02-12T05:01:18",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/x5LyqNrmJV",
+    "publish_time": "2026-02-12T04:13:10"
   }
 ]
