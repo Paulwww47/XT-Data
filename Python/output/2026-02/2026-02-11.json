@@ -716,17 +716,69 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (100MB > 50MB)",
       "timestamp": "2026-02-11T14:01:40",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 105261001,
       "size_mb": 100.38,
-      "timestamp": "2026-02-11T14:01:40",
+      "timestamp": "2026-02-11T15:01:29",
       "download_attempts": 0
     },
     "full_text": "这精肉反应大的骚逼 你能受得了不飞 https://t.co/oZgpFrEacb",
     "publish_time": "2026-02-11T13:12:47"
+  },
+  {
+    "file_name": "HA2v-3AbAAAuwja.jpg",
+    "user": {
+      "screen_name": "max06734521",
+      "name": "🪳大王🪳"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HA2v-3AbAAAuwja.jpg",
+    "read_time": "2026-02-11T15:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16805,
+      "timestamp": "2026-02-11T15:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 68262,
+      "size_mb": 0.07,
+      "timestamp": "2026-02-11T15:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "嗨曲爆r https://t.co/0DmnQmX8kX",
+    "publish_time": "2026-02-11T14:04:21"
+  },
+  {
+    "file_name": "HA24N1paAAQAL8G.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HA24N1paAAQAL8G.jpg",
+    "read_time": "2026-02-11T15:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16806,
+      "timestamp": "2026-02-11T15:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 95890,
+      "size_mb": 0.09,
+      "timestamp": "2026-02-11T15:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/1CJdmMTlGJ",
+    "publish_time": "2026-02-11T14:40:19"
   }
 ]
