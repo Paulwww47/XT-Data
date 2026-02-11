@@ -1160,14 +1160,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (266MB > 50MB)",
       "timestamp": "2026-02-11T22:01:47",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 279537067,
       "size_mb": 266.59,
-      "timestamp": "2026-02-11T22:01:47",
+      "timestamp": "2026-02-11T23:01:20",
       "download_attempts": 0
     },
     "full_text": "gunwo6974 https://t.co/ogpsdUyaIp",
@@ -1276,5 +1276,239 @@
     },
     "full_text": "zi80260 https://t.co/hTxwdXpe1h",
     "publish_time": "2026-02-11T21:53:29"
+  },
+  {
+    "file_name": "HA4dHk0aUAAxvvO.jpg",
+    "user": {
+      "screen_name": "cornerofjenni",
+      "name": "杰尼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HA4dHk0aUAAxvvO.jpg",
+    "read_time": "2026-02-11T23:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16825,
+      "timestamp": "2026-02-11T23:01:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 165532,
+      "size_mb": 0.16,
+      "timestamp": "2026-02-11T23:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "敷麻药美滋滋自拍呢，结果敷太久麻药灼伤，好想哭😭 https://t.co/BNnBmDfQx8",
+    "publish_time": "2026-02-11T22:01:11"
+  },
+  {
+    "file_name": "HA4dHk0asAAVkz2.jpg",
+    "user": {
+      "screen_name": "cornerofjenni",
+      "name": "杰尼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HA4dHk0asAAVkz2.jpg",
+    "read_time": "2026-02-11T23:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16826,
+      "timestamp": "2026-02-11T23:01:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101149,
+      "size_mb": 0.1,
+      "timestamp": "2026-02-11T23:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "敷麻药美滋滋自拍呢，结果敷太久麻药灼伤，好想哭😭 https://t.co/BNnBmDfQx8",
+    "publish_time": "2026-02-11T22:01:11"
+  },
+  {
+    "file_name": "HA4f23sbsAAhw2U.jpg",
+    "user": {
+      "screen_name": "OHOpeng",
+      "name": "彭鹏不姓彭"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HA4f23sbsAAhw2U.jpg",
+    "read_time": "2026-02-11T23:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16827,
+      "timestamp": "2026-02-11T23:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 61068,
+      "size_mb": 0.06,
+      "timestamp": "2026-02-11T23:01:24",
+      "download_attempts": 0
+    },
+    "full_text": "纸飞机怎么玩，没怎么搞明白 https://t.co/l5v6DM0Qcn",
+    "publish_time": "2026-02-11T22:13:10"
+  },
+  {
+    "file_name": "wkc5vcelrq93bVzs.mp4",
+    "user": {
+      "screen_name": "XMi7778",
+      "name": "鲨辣条鱼"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2021588313694683136/vid/avc1/720x744/wkc5vcelrq93bVzs.mp4?tag=21",
+    "read_time": "2026-02-11T23:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16828,
+      "timestamp": "2026-02-11T23:01:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2073590,
+      "size_mb": 1.98,
+      "timestamp": "2026-02-11T23:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "买不起飞机杯只能这样 https://t.co/hCkeU6ZjRs",
+    "publish_time": "2026-02-11T22:13:26"
+  },
+  {
+    "file_name": "HA4j6PEbYAAj0lI.jpg",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HA4j6PEbYAAj0lI.jpg",
+    "read_time": "2026-02-11T23:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16829,
+      "timestamp": "2026-02-11T23:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 152773,
+      "size_mb": 0.15,
+      "timestamp": "2026-02-11T23:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "上头 剃毛 喷射 https://t.co/5lQ6tazVGP",
+    "publish_time": "2026-02-11T22:30:51"
+  },
+  {
+    "file_name": "HA4j6X0aEAAfnpc.jpg",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HA4j6X0aEAAfnpc.jpg",
+    "read_time": "2026-02-11T23:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16830,
+      "timestamp": "2026-02-11T23:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 145376,
+      "size_mb": 0.14,
+      "timestamp": "2026-02-11T23:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "上头 剃毛 喷射 https://t.co/5lQ6tazVGP",
+    "publish_time": "2026-02-11T22:30:51"
+  },
+  {
+    "file_name": "HWpFx7YbUftJ2gVb.mp4",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2021592938330066945/pu/vid/avc1/1280x720/HWpFx7YbUftJ2gVb.mp4?tag=12",
+    "read_time": "2026-02-11T23:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16831,
+      "timestamp": "2026-02-11T23:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 19629709,
+      "size_mb": 18.72,
+      "timestamp": "2026-02-11T23:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "脱毛玩🐍 https://t.co/9l5mdTySOJ",
+    "publish_time": "2026-02-11T22:32:33"
+  },
+  {
+    "file_name": "HA4mFlbaMAA5R9x.jpg",
+    "user": {
+      "screen_name": "SZionbaba",
+      "name": "zionbaba"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HA4mFlbaMAA5R9x.jpg",
+    "read_time": "2026-02-11T23:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16832,
+      "timestamp": "2026-02-11T23:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 167908,
+      "size_mb": 0.16,
+      "timestamp": "2026-02-11T23:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "来吃脚 https://t.co/rW4b6isyza",
+    "publish_time": "2026-02-11T22:40:24"
+  },
+  {
+    "file_name": "HA4mFk8bIAAbxRZ.jpg",
+    "user": {
+      "screen_name": "SZionbaba",
+      "name": "zionbaba"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HA4mFk8bIAAbxRZ.jpg",
+    "read_time": "2026-02-11T23:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16833,
+      "timestamp": "2026-02-11T23:01:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 158404,
+      "size_mb": 0.15,
+      "timestamp": "2026-02-11T23:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "来吃脚 https://t.co/rW4b6isyza",
+    "publish_time": "2026-02-11T22:40:24"
   }
 ]
