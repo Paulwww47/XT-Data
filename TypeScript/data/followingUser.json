@@ -379,35 +379,6 @@
     }
   },
   {
-    "restId": "1003579685966663680",
-    "legacy": {
-      "name": "HotMandarinTeacher",
-      "screenName": "asuitedguy89",
-      "createdAt": "Mon Jun 04 10:10:17 +0000 2018",
-      "description": "Inquire my spicy vids purchase on telegram link below👇",
-      "entities": {
-        "description": {
-          "urls": []
-        },
-        "url": {
-          "urls": [
-            {
-              "display_url": "t.me/hotmandarintea…",
-              "expanded_url": "https://t.me/hotmandarinteacher",
-              "url": "https://t.co/3rQysBRL1L",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        }
-      },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1003579685966663680/1611853543",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1844696178363170816/g1-JWu2T_normal.jpg"
-    }
-  },
-  {
     "restId": "1342088728043376640",
     "legacy": {
       "name": "Suit",
@@ -3786,7 +3757,7 @@
       "name": "H.",
       "screenName": "RuiHengJin",
       "createdAt": "Sat Jan 27 03:11:05 +0000 2024",
-      "description": "🏅️二级田径运动会，分享一些个人🏃🏋️🔞日常（粗口视频98-168/系列，Q：2540364303（添加时请备注）⚠️闲聊、墨迹、不说话一律拉黑）",
+      "description": "🏅️二级运动员，分享一些个人🏃🏋️🔞日常（粗口视频98-128/系列，连线调教28-58，Q：2540364303（添加时请备注）⚠️闲聊、墨迹、不说话一律拉黑）",
       "entities": {
         "description": {
           "urls": []
@@ -3794,6 +3765,35 @@
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1751080312480935936/1737617801",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1997266853144707072/SvGh19eT_normal.jpg"
+    }
+  },
+  {
+    "restId": "754575818",
+    "legacy": {
+      "name": "Ryan🌈",
+      "screenName": "RYANMUYU",
+      "createdAt": "Mon Aug 13 06:31:03 +0000 2012",
+      "description": "📝日常垃圾桶🚮",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/muyuryan?igsh=…",
+              "expanded_url": "https://www.instagram.com/muyuryan?igsh=MTZsNnFjODVrdTJzcw%3D%3D&utm_source=qr",
+              "url": "https://t.co/y3bwT8gXcY",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/754575818/1580916731",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1845806064396374016/bbav9kjD_normal.jpg"
     }
   },
   {
