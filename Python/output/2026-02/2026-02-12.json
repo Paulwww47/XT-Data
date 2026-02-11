@@ -118,17 +118,69 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (55MB > 50MB)",
       "timestamp": "2026-02-12T05:01:18",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 58095161,
       "size_mb": 55.4,
-      "timestamp": "2026-02-12T05:01:18",
+      "timestamp": "2026-02-12T06:01:08",
       "download_attempts": 0
     },
     "full_text": "https://t.co/x5LyqNrmJV",
     "publish_time": "2026-02-12T04:13:10"
+  },
+  {
+    "file_name": "HA59lwtawAAIIa0.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HA59lwtawAAIIa0.jpg",
+    "read_time": "2026-02-12T06:01:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16843,
+      "timestamp": "2026-02-12T06:01:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 125043,
+      "size_mb": 0.12,
+      "timestamp": "2026-02-12T06:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "bigtaka2024 https://t.co/wbeMb4XKht",
+    "publish_time": "2026-02-12T05:02:40"
+  },
+  {
+    "file_name": "VMeplowhSb2956Iy.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2021703678105935872/vid/avc1/720x1280/VMeplowhSb2956Iy.mp4?tag=21",
+    "read_time": "2026-02-12T06:01:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16844,
+      "timestamp": "2026-02-12T06:01:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 13117734,
+      "size_mb": 12.51,
+      "timestamp": "2026-02-12T06:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "都這時間 https://t.co/KMg136Zqrg",
+    "publish_time": "2026-02-12T05:52:06"
   }
 ]
