@@ -1888,14 +1888,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (166MB > 50MB)",
       "timestamp": "2026-02-13T00:03:45",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 174245264,
       "size_mb": 166.17,
-      "timestamp": "2026-02-13T00:03:45",
+      "timestamp": "2026-02-13T01:01:46",
       "download_attempts": 0
     },
     "full_text": "鹏鹏农 https://t.co/RobfMWWJ70",
