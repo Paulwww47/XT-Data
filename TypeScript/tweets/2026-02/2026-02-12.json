@@ -241,5 +241,32 @@
     "tweetUrl": "https://x.com/muchuanze/status/2021769412727230900",
     "fullText": "要什么文案 看图还不够吗 https://t.co/2gmcgBYbTf",
     "publishTime": "2026-02-12T10:12:45"
+  },
+  {
+    "user": {
+      "screenName": "chounizadi2021",
+      "name": "男神传送门"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/chounizadi2021/status/2021790383882068084",
+    "fullText": "竟然毫无违和，连法术都是一样的",
+    "publishTime": "2026-02-12T11:36:05"
+  },
+  {
+    "user": {
+      "screenName": "chounizadi2021",
+      "name": "男神传送门"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HA7ZBgEbsAAhBr1.jpg",
+      "https://pbs.twimg.com/media/HA7ZBf9bsAAE7af.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/chounizadi2021/status/2021791915050410183",
+    "fullText": "我好像找到他了，但是我不记得是谁要我找的了，希望你能看到 https://t.co/AeYDy8TrrU",
+    "publishTime": "2026-02-12T11:42:10"
   }
 ]
