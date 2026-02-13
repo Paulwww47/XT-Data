@@ -76,5 +76,83 @@
     },
     "full_text": "https://t.co/OBqQazYsL9",
     "publish_time": "2026-02-14T04:28:43"
+  },
+  {
+    "file_name": "HBEXw6naAAAJbRk.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HBEXw6naAAAJbRk.jpg",
+    "read_time": "2026-02-14T06:01:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16969,
+      "timestamp": "2026-02-14T06:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 141614,
+      "size_mb": 0.14,
+      "timestamp": "2026-02-14T06:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "james_shih510 https://t.co/UgvTWepaEn",
+    "publish_time": "2026-02-14T05:33:13"
+  },
+  {
+    "file_name": "XckxSOM8PZmDZA3A.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2022423986911744001/vid/avc1/720x1280/XckxSOM8PZmDZA3A.mp4?tag=21",
+    "read_time": "2026-02-14T06:01:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16970,
+      "timestamp": "2026-02-14T06:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 10081073,
+      "size_mb": 9.61,
+      "timestamp": "2026-02-14T06:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "感冒了喉嚨痛但還是可以硬 https://t.co/wBknsvY7Yw",
+    "publish_time": "2026-02-14T05:34:14"
+  },
+  {
+    "file_name": "HBEYQBsaAAAMPSH.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HBEYQBsaAAAMPSH.jpg",
+    "read_time": "2026-02-14T06:01:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16971,
+      "timestamp": "2026-02-14T06:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 45556,
+      "size_mb": 0.04,
+      "timestamp": "2026-02-14T06:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/HU2bw3NoA7",
+    "publish_time": "2026-02-14T05:35:20"
   }
 ]
