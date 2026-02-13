@@ -1272,5 +1272,31 @@
     },
     "full_text": "https://t.co/wOwqzl2xos",
     "publish_time": "2026-02-13T21:48:52"
+  },
+  {
+    "file_name": "HBDEtIFaUAAUUT3.mp4",
+    "user": {
+      "screen_name": "junjunshiheihei",
+      "name": "JunJun"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/HBDEtIFaUAAUUT3.mp4",
+    "read_time": "2026-02-14T00:01:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16962,
+      "timestamp": "2026-02-14T00:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 65988,
+      "size_mb": 0.06,
+      "timestamp": "2026-02-14T00:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "男人在床上等着了 https://t.co/tvx0HOGkFS",
+    "publish_time": "2026-02-13T23:30:49"
   }
 ]
