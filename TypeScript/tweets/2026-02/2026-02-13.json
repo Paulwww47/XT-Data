@@ -466,5 +466,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2022226615963725885",
     "fullText": "https://t.co/wXoCUlCI4O",
     "publishTime": "2026-02-13T16:29:31"
+  },
+  {
+    "user": {
+      "screenName": "xiaojin20001112",
+      "name": "小金"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HBBy1EPboAAZNp9.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/xiaojin20001112/status/2022242496550723685",
+    "fullText": "https://t.co/rNUizUEcFL",
+    "publishTime": "2026-02-13T17:32:37"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HBB4LRBbEAAA5Gq.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2022248373554942375",
+    "fullText": "https://t.co/2DrG8OxSPj",
+    "publishTime": "2026-02-13T17:55:58"
   }
 ]
