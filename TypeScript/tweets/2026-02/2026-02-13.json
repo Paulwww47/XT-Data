@@ -494,5 +494,31 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2022248373554942375",
     "fullText": "https://t.co/2DrG8OxSPj",
     "publishTime": "2026-02-13T17:55:58"
+  },
+  {
+    "user": {
+      "screenName": "cornerofjenni",
+      "name": "杰尼"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/cornerofjenni/status/2022252261423145451",
+    "fullText": "谁不想急头白脸去不二馄饨酒馆吃一顿？",
+    "publishTime": "2026-02-13T18:11:25"
+  },
+  {
+    "user": {
+      "screenName": "RuiHengJin",
+      "name": "H."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2022259190920859648/vid/avc1/720x1080/IKY_uDjJn9urcBpW.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/RuiHengJin/status/2022259347171225734",
+    "fullText": "待会删🔞 https://t.co/rOqqe9B7W7",
+    "publishTime": "2026-02-13T18:39:34"
   }
 ]
