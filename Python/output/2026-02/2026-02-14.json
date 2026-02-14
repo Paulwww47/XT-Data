@@ -1664,5 +1664,57 @@
     },
     "full_text": "https://t.co/iE3YTJJN9N",
     "publish_time": "2026-02-14T21:52:18"
+  },
+  {
+    "file_name": "lveQ4NTO5itK2fzJ.mp4",
+    "user": {
+      "screen_name": "josephmrkao",
+      "name": "185 Joseph"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2022533205258276865/vid/avc1/1080x1920/lveQ4NTO5itK2fzJ.mp4?tag=21",
+    "read_time": "2026-02-14T23:00:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17029,
+      "timestamp": "2026-02-14T23:01:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 8708253,
+      "size_mb": 8.3,
+      "timestamp": "2026-02-14T23:00:57",
+      "download_attempts": 0
+    },
+    "full_text": "Stop is only a word... @kabutitee  😘\nhttps://t.co/YLTFp8kCEw https://t.co/oyHQCgYVqu",
+    "publish_time": "2026-02-14T22:05:00"
+  },
+  {
+    "file_name": "HBH8-knbUAAehXq.jpg",
+    "user": {
+      "screen_name": "zdx1xx",
+      "name": "犬黒"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HBH8-knbUAAehXq.jpg",
+    "read_time": "2026-02-14T23:00:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17030,
+      "timestamp": "2026-02-14T23:01:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 111464,
+      "size_mb": 0.11,
+      "timestamp": "2026-02-14T23:01:01",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/3thqqHM6ks",
+    "publish_time": "2026-02-14T22:14:40"
   }
 ]
