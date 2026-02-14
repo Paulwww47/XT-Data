@@ -404,17 +404,43 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (272MB > 50MB)",
       "timestamp": "2026-02-14T13:02:07",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 285899728,
       "size_mb": 272.66,
-      "timestamp": "2026-02-14T13:02:07",
+      "timestamp": "2026-02-14T14:00:49",
       "download_attempts": 0
     },
     "full_text": "david_lychan https://t.co/o8tCbesSto",
     "publish_time": "2026-02-14T12:43:14"
+  },
+  {
+    "file_name": "tihR5wbqTIJE_9BO.mp4",
+    "user": {
+      "screen_name": "wangsan82l",
+      "name": "王利华的鼠标"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2022536796081647616/vid/avc1/720x1280/tihR5wbqTIJE_9BO.mp4?tag=21",
+    "read_time": "2026-02-14T14:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 16981,
+      "timestamp": "2026-02-14T14:00:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5400033,
+      "size_mb": 5.15,
+      "timestamp": "2026-02-14T14:00:49",
+      "download_attempts": 0
+    },
+    "full_text": "情人节快乐 https://t.co/PSQBsjZMzF",
+    "publish_time": "2026-02-14T13:02:34"
   }
 ]
