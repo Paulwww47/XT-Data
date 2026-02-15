@@ -170,17 +170,69 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (94MB > 50MB)",
       "timestamp": "2026-02-16T02:02:02",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 99434218,
       "size_mb": 94.83,
-      "timestamp": "2026-02-16T02:02:02",
+      "timestamp": "2026-02-16T03:01:10",
       "download_attempts": 0
     },
     "full_text": "ถ่ายไว้ไม่ได้ลงแหะๆ 😌🥵 แตกคากกนบ้าง ชอบกันมั้ยย 🥵 https://t.co/j6MzOi0CeE",
     "publish_time": "2026-02-16T01:51:00"
+  },
+  {
+    "file_name": "HBN-NhUbYAAARzb.jpg",
+    "user": {
+      "screen_name": "mmmmqaz0",
+      "name": "三角板"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HBN-NhUbYAAARzb.jpg",
+    "read_time": "2026-02-16T03:01:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17104,
+      "timestamp": "2026-02-16T03:01:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 76180,
+      "size_mb": 0.07,
+      "timestamp": "2026-02-16T03:01:10",
+      "download_attempts": 0
+    },
+    "full_text": "无聊弄一弄 https://t.co/G42Kpd73N8",
+    "publish_time": "2026-02-16T02:17:47"
+  },
+  {
+    "file_name": "mAnoN_PKsrN3wCO7.mp4",
+    "user": {
+      "screen_name": "kkttfzp",
+      "name": "哪个"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2023102135999873024/vid/avc1/1280x564/mAnoN_PKsrN3wCO7.mp4?tag=21",
+    "read_time": "2026-02-16T03:01:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17105,
+      "timestamp": "2026-02-16T03:01:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5005136,
+      "size_mb": 4.77,
+      "timestamp": "2026-02-16T03:01:12",
+      "download_attempts": 0
+    },
+    "full_text": "补档。提前祝大家新年快乐。 https://t.co/EZ8IOWSM6i",
+    "publish_time": "2026-02-16T02:29:55"
   }
 ]
