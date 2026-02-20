@@ -310,5 +310,31 @@
     },
     "full_text": "谁又可以了😏 https://t.co/lKkGU35WvH",
     "publish_time": "2026-02-20T09:15:18"
+  },
+  {
+    "file_name": "crVwzc3xJTcexguj.mp4",
+    "user": {
+      "screen_name": "d461385024",
+      "name": "猛一"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2024686806101307393/vid/avc1/720x1280/crVwzc3xJTcexguj.mp4?tag=21",
+    "read_time": "2026-02-20T12:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17372,
+      "timestamp": "2026-02-20T12:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1582930,
+      "size_mb": 1.51,
+      "timestamp": "2026-02-20T12:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "大年粗四 https://t.co/Ud7ohn4IL9",
+    "publish_time": "2026-02-20T11:25:40"
   }
 ]
