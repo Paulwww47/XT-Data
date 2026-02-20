@@ -658,20 +658,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/2024758883823316992/vid/avc1/718x1280/olFkkpHzIEcqPELr.mp4?tag=21",
     "read_time": "2026-02-20T17:00:52",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "timestamp": "2026-02-20T17:01:17",
-      "notification_sent": false
+      "success": true,
+      "message_id": 17388,
+      "timestamp": "2026-02-20T18:00:52"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 1441247,
       "size_mb": 1.37,
-      "timestamp": "2026-02-20T17:00:53",
+      "timestamp": "2026-02-20T18:00:49",
       "download_attempts": 0
     },
     "full_text": "原味内裤被偷了 https://t.co/qOQnJnEgCJ",
@@ -754,5 +752,83 @@
     },
     "full_text": "本月还剩下几天时间，要升级会员进群的赶紧了哈，本月结束后价格会上涨哈！\n\n自己的原创不是小视频，都是完整版（90%都是露脸版）\n\n节后继续持续更新！钓直男业务也是节后恢复营业！\n#钓直男\n#直男打飞机\n#直男\n#直男撸管 https://t.co/97xyCeyy3s",
     "publish_time": "2026-02-20T16:52:39"
+  },
+  {
+    "file_name": "HBl2yWaWgAADmoY.jpg",
+    "user": {
+      "screen_name": "chounizadi2021",
+      "name": "男神传送门"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HBl2yWaWgAADmoY.jpg",
+    "read_time": "2026-02-20T18:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17389,
+      "timestamp": "2026-02-20T18:00:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 123215,
+      "size_mb": 0.12,
+      "timestamp": "2026-02-20T18:00:52",
+      "download_attempts": 0
+    },
+    "full_text": "【粉丝投稿】谁知道这个是谁？求社交媒体账号，知道的请私信。第一个私信开门的可以免费寻人。（发帖寻人收费🧧，vpn不稳定，寻人/征友/买男性用品加个人VX（SYLjiankang2023），注明来意否则不通过） https://t.co/8t5CqorFeg",
+    "publish_time": "2026-02-20T17:36:16"
+  },
+  {
+    "file_name": "HBl2yWmXQAAK6E8.jpg",
+    "user": {
+      "screen_name": "chounizadi2021",
+      "name": "男神传送门"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HBl2yWmXQAAK6E8.jpg",
+    "read_time": "2026-02-20T18:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17390,
+      "timestamp": "2026-02-20T18:00:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 150101,
+      "size_mb": 0.14,
+      "timestamp": "2026-02-20T18:00:53",
+      "download_attempts": 0
+    },
+    "full_text": "【粉丝投稿】谁知道这个是谁？求社交媒体账号，知道的请私信。第一个私信开门的可以免费寻人。（发帖寻人收费🧧，vpn不稳定，寻人/征友/买男性用品加个人VX（SYLjiankang2023），注明来意否则不通过） https://t.co/8t5CqorFeg",
+    "publish_time": "2026-02-20T17:36:16"
+  },
+  {
+    "file_name": "HBl4lovbUAAyE4g.jpg",
+    "user": {
+      "screen_name": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HBl4lovbUAAyE4g.jpg",
+    "read_time": "2026-02-20T18:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17391,
+      "timestamp": "2026-02-20T18:00:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 197206,
+      "size_mb": 0.19,
+      "timestamp": "2026-02-20T18:00:53",
+      "download_attempts": 0
+    },
+    "full_text": "今日福事 https://t.co/8vpN8DGtKh",
+    "publish_time": "2026-02-20T17:44:06"
   }
 ]
