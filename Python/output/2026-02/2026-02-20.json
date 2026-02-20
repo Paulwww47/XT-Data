@@ -622,5 +622,31 @@
     },
     "full_text": "粗四快樂 https://t.co/T5j4JEyt4Q",
     "publish_time": "2026-02-20T13:33:04"
+  },
+  {
+    "file_name": "HBlZF8UaoAAobNW.jpg",
+    "user": {
+      "screen_name": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HBlZF8UaoAAobNW.jpg",
+    "read_time": "2026-02-20T16:00:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17384,
+      "timestamp": "2026-02-20T16:00:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 124378,
+      "size_mb": 0.12,
+      "timestamp": "2026-02-20T16:00:37",
+      "download_attempts": 0
+    },
+    "full_text": "⚡️ https://t.co/vPMXM4bObf",
+    "publish_time": "2026-02-20T15:26:29"
   }
 ]
