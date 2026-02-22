@@ -242,23 +242,203 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/2025365896932528128/vid/avc1/720x1280/jbvc_aRcS6L4kbsx.mp4?tag=14",
     "read_time": "2026-02-22T09:01:12",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "timestamp": "2026-02-22T09:01:35",
-      "notification_sent": false
+      "success": true,
+      "message_id": 17488,
+      "timestamp": "2026-02-22T10:01:24"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 6567865,
       "size_mb": 6.26,
-      "timestamp": "2026-02-22T09:01:13",
+      "timestamp": "2026-02-22T10:01:20",
       "download_attempts": 0
     },
     "full_text": "【2026年2月22日】今日資源已經更新！FANS投稿资源不错，置顶中！以下視頻與更新資源無關！ https://t.co/k6QdQUudAK",
     "publish_time": "2026-02-22T08:24:08"
+  },
+  {
+    "file_name": "HBuYaVdbwAAG8Fc.jpg",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HBuYaVdbwAAG8Fc.jpg",
+    "read_time": "2026-02-22T10:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17489,
+      "timestamp": "2026-02-22T10:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 175614,
+      "size_mb": 0.17,
+      "timestamp": "2026-02-22T10:01:24",
+      "download_attempts": 0
+    },
+    "full_text": "晨练产物😅 https://t.co/zrpOlXlvDw",
+    "publish_time": "2026-02-22T09:20:07"
+  },
+  {
+    "file_name": "HBua9XYbsAAgVQ6.jpg",
+    "user": {
+      "screen_name": "zdx1xx",
+      "name": "犬黒"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HBua9XYbsAAgVQ6.jpg",
+    "read_time": "2026-02-22T10:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17490,
+      "timestamp": "2026-02-22T10:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 112193,
+      "size_mb": 0.11,
+      "timestamp": "2026-02-22T10:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "深圳青旅哪个好玩呀 https://t.co/4Ghp6NONh1",
+    "publish_time": "2026-02-22T09:31:14"
+  },
+  {
+    "file_name": "AJJa_APSzJk5HnRG.mp4",
+    "user": {
+      "screen_name": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2025384208190066689/vid/avc1/720x1280/AJJa_APSzJk5HnRG.mp4?tag=21",
+    "read_time": "2026-02-22T10:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17491,
+      "timestamp": "2026-02-22T10:01:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1804576,
+      "size_mb": 1.72,
+      "timestamp": "2026-02-22T10:01:26",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/kNtMYLGwbg",
+    "publish_time": "2026-02-22T09:36:53"
+  },
+  {
+    "file_name": "6HADF4yiW_yOAlCu.mp4",
+    "user": {
+      "screen_name": "wangsan82l",
+      "name": "王利华的鼠标"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2025386882155401216/vid/avc1/720x1280/6HADF4yiW_yOAlCu.mp4?tag=21",
+    "read_time": "2026-02-22T10:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17492,
+      "timestamp": "2026-02-22T10:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 12200108,
+      "size_mb": 11.63,
+      "timestamp": "2026-02-22T10:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "过完年第一件事就是和对象猛做，睁眼就是干，关灯就是干，起床就是干，两个哑巴啥也不说就是操逼 https://t.co/3HSLtpCRXA",
+    "publish_time": "2026-02-22T09:48:07"
+  },
+  {
+    "file_name": "HBugPKKa4AA3pYR.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HBugPKKa4AA3pYR.jpg",
+    "read_time": "2026-02-22T10:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17493,
+      "timestamp": "2026-02-22T10:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 117130,
+      "size_mb": 0.11,
+      "timestamp": "2026-02-22T10:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "stupido.qpido https://t.co/4tVYkBxF9e",
+    "publish_time": "2026-02-22T09:54:17"
+  },
+  {
+    "file_name": "HBugzlpbgAYs06T.jpg",
+    "user": {
+      "screen_name": "Aninnjh",
+      "name": "村长Anin"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HBugzlpbgAYs06T.jpg",
+    "read_time": "2026-02-22T10:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17494,
+      "timestamp": "2026-02-22T10:01:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 99214,
+      "size_mb": 0.09,
+      "timestamp": "2026-02-22T10:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "新年快乐🎉 https://t.co/t3MM6NHkyO",
+    "publish_time": "2026-02-22T09:56:48"
+  },
+  {
+    "file_name": "HBugzlobgAE1SNg.jpg",
+    "user": {
+      "screen_name": "Aninnjh",
+      "name": "村长Anin"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HBugzlobgAE1SNg.jpg",
+    "read_time": "2026-02-22T10:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17495,
+      "timestamp": "2026-02-22T10:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101739,
+      "size_mb": 0.1,
+      "timestamp": "2026-02-22T10:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "新年快乐🎉 https://t.co/t3MM6NHkyO",
+    "publish_time": "2026-02-22T09:56:48"
   }
 ]
