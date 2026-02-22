@@ -232,5 +232,33 @@
     },
     "full_text": "joneqme https://t.co/cV1pIZSFR7",
     "publish_time": "2026-02-22T07:46:10"
+  },
+  {
+    "file_name": "jbvc_aRcS6L4kbsx.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2025365896932528128/vid/avc1/720x1280/jbvc_aRcS6L4kbsx.mp4?tag=14",
+    "read_time": "2026-02-22T09:01:12",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "timestamp": "2026-02-22T09:01:35",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 6567865,
+      "size_mb": 6.26,
+      "timestamp": "2026-02-22T09:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年2月22日】今日資源已經更新！FANS投稿资源不错，置顶中！以下視頻與更新資源無關！ https://t.co/k6QdQUudAK",
+    "publish_time": "2026-02-22T08:24:08"
   }
 ]
