@@ -395,5 +395,33 @@
     "tweetUrl": "https://x.com/youdi/status/2025838129362719020",
     "fullText": "https://t.co/PpBYaXdvCs",
     "publishTime": "2026-02-23T15:40:22"
+  },
+  {
+    "user": {
+      "screenName": "klspbr",
+      "name": "小帅气"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2025848750284197888/vid/avc1/720x720/BKnQvhNNvM3obtGV.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/klspbr/status/2025849116128170275",
+    "fullText": "名模 #赵光宇 完整过程终于找到了 谁有更多？ https://t.co/HOCRAkqQVf",
+    "publishTime": "2026-02-23T16:24:02"
+  },
+  {
+    "user": {
+      "screenName": "therealjayxji",
+      "name": "jayxji"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HB1IWqAasAAlt_0.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/therealjayxji/status/2025854975939887210",
+    "fullText": "and the sky is💜,💜,💜. https://t.co/NutkQImRSM",
+    "publishTime": "2026-02-23T16:47:19"
   }
 ]
