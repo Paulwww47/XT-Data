@@ -586,14 +586,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (141MB > 50MB)",
       "timestamp": "2026-02-23T14:01:53",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 148069517,
       "size_mb": 141.21,
-      "timestamp": "2026-02-23T14:01:53",
+      "timestamp": "2026-02-23T15:01:36",
       "download_attempts": 0
     },
     "full_text": "蓝璃_恶堕反差 喉咙被疯狂抽插 https://t.co/CrNZVI3xLM",
@@ -702,5 +702,109 @@
     },
     "full_text": "最近对人夫已婚男带点痞的这种还挺有感觉，你们呢？ https://t.co/3OoyZLmFGq",
     "publish_time": "2026-02-23T13:37:27"
+  },
+  {
+    "file_name": "HB0lkSnb0AAbNdi.jpg",
+    "user": {
+      "screen_name": "1woxnr1",
+      "name": "1woxnr1"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HB0lkSnb0AAbNdi.jpg",
+    "read_time": "2026-02-23T15:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17579,
+      "timestamp": "2026-02-23T15:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 378070,
+      "size_mb": 0.36,
+      "timestamp": "2026-02-23T15:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "西安下雪了 https://t.co/j8Yxkjqhj0",
+    "publish_time": "2026-02-23T14:15:17"
+  },
+  {
+    "file_name": "OuvJbT9ZLn5DAFJF.mp4",
+    "user": {
+      "screen_name": "shemingyu",
+      "name": "你的梦"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2025820665073577984/vid/avc1/720x1280/OuvJbT9ZLn5DAFJF.mp4?tag=21",
+    "read_time": "2026-02-23T15:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17580,
+      "timestamp": "2026-02-23T15:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2495280,
+      "size_mb": 2.38,
+      "timestamp": "2026-02-23T15:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "今天的客户依旧是胖胖的 gay https://t.co/1dngktK9zH",
+    "publish_time": "2026-02-23T14:31:25"
+  },
+  {
+    "file_name": "HB0s4vob0AAa3yw.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HB0s4vob0AAa3yw.jpg",
+    "read_time": "2026-02-23T15:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17581,
+      "timestamp": "2026-02-23T15:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 182782,
+      "size_mb": 0.17,
+      "timestamp": "2026-02-23T15:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/zFuXB7kP9x",
+    "publish_time": "2026-02-23T14:47:17"
+  },
+  {
+    "file_name": "HB0v9iVbkAAk-IC.jpg",
+    "user": {
+      "screen_name": "therealjayxji",
+      "name": "jayxji"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HB0v9iVbkAAk-IC.jpg",
+    "read_time": "2026-02-23T15:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17582,
+      "timestamp": "2026-02-23T15:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 67625,
+      "size_mb": 0.06,
+      "timestamp": "2026-02-23T15:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "Oh my god it’s Miraiton! https://t.co/6f1UWBOq9V",
+    "publish_time": "2026-02-23T15:00:43"
   }
 ]
