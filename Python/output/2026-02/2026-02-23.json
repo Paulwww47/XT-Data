@@ -1212,17 +1212,121 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (115MB > 50MB)",
       "timestamp": "2026-02-23T19:01:46",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 121243013,
       "size_mb": 115.63,
-      "timestamp": "2026-02-23T19:01:46",
+      "timestamp": "2026-02-23T20:01:33",
       "download_attempts": 0
     },
     "full_text": "不想上班 来跟你爹一起泄欲吧骚狗 https://t.co/6CMnOzrqWO",
     "publish_time": "2026-02-23T18:42:47"
+  },
+  {
+    "file_name": "HB1sGlsaQAAJjzw.jpg",
+    "user": {
+      "screen_name": "zdx1xx",
+      "name": "犬黒"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HB1sGlsaQAAJjzw.jpg",
+    "read_time": "2026-02-23T20:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17598,
+      "timestamp": "2026-02-23T20:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 110708,
+      "size_mb": 0.11,
+      "timestamp": "2026-02-23T20:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "希望能成为“美貌是你最不值得一提的优点”的人。\n今年努力💪无论是健身还是赚钱还是拥有强大内核 https://t.co/aQOXjeQ7lj",
+    "publish_time": "2026-02-23T19:23:28"
+  },
+  {
+    "file_name": "HB1v61IbMAAID4K.jpg",
+    "user": {
+      "screen_name": "lingxun180",
+      "name": "梁轩"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HB1v61IbMAAID4K.jpg",
+    "read_time": "2026-02-23T20:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17599,
+      "timestamp": "2026-02-23T20:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 105323,
+      "size_mb": 0.1,
+      "timestamp": "2026-02-23T20:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "爹的逼好玩吗@PANPANGZI000 https://t.co/moiatMckJP",
+    "publish_time": "2026-02-23T19:40:23"
+  },
+  {
+    "file_name": "HB1v61EbkAAbssE.jpg",
+    "user": {
+      "screen_name": "lingxun180",
+      "name": "梁轩"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HB1v61EbkAAbssE.jpg",
+    "read_time": "2026-02-23T20:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17600,
+      "timestamp": "2026-02-23T20:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 102591,
+      "size_mb": 0.1,
+      "timestamp": "2026-02-23T20:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "爹的逼好玩吗@PANPANGZI000 https://t.co/moiatMckJP",
+    "publish_time": "2026-02-23T19:40:23"
+  },
+  {
+    "file_name": "HB1w8z1bcAASHBI.jpg",
+    "user": {
+      "screen_name": "PANPANGZI000",
+      "name": "PANPANGZI📷"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HB1w8z1bcAASHBI.jpg",
+    "read_time": "2026-02-23T20:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17601,
+      "timestamp": "2026-02-23T20:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 105110,
+      "size_mb": 0.1,
+      "timestamp": "2026-02-23T20:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "这下都靠自己意淫模特哥哥们的长相吧🙃 https://t.co/emoUjohqeS",
+    "publish_time": "2026-02-23T19:44:39"
   }
 ]
