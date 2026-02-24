@@ -107,5 +107,31 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2026390128734994831",
     "fullText": "https://t.co/yhFDoU0ouL",
     "publishTime": "2026-02-25T04:13:49"
+  },
+  {
+    "user": {
+      "screenName": "bigbostondom",
+      "name": "chudling"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/bigbostondom/status/2026408490755850462",
+    "fullText": "Sabertooth hammerhead bastard",
+    "publishTime": "2026-02-25T05:26:47"
+  },
+  {
+    "user": {
+      "screenName": "chuanzhang0320",
+      "name": "Appetency."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HB9B8HAaMAEaiAo.mp4"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/chuanzhang0320/status/2026410885351412181",
+    "fullText": "瘦了5斤 https://t.co/wGdpKn5b4m",
+    "publishTime": "2026-02-25T05:36:18"
   }
 ]
