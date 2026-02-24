@@ -1966,22 +1966,6 @@
     }
   },
   {
-    "restId": "1846407762156441601",
-    "legacy": {
-      "name": "橋 诘聖",
-      "screenName": "ibertine927",
-      "createdAt": "Wed Oct 16 04:28:22 +0000 2024",
-      "description": "",
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1846407762156441601/1771786011",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2025643417766891520/34oup9eG_normal.jpg"
-    }
-  },
-  {
     "restId": "1061102705190424578",
     "legacy": {
       "name": "發發top",
@@ -3700,6 +3684,35 @@
     }
   },
   {
+    "restId": "1846407762156441601",
+    "legacy": {
+      "name": "橋 诘聖",
+      "screenName": "qiaojiesheng7",
+      "createdAt": "Wed Oct 16 04:28:22 +0000 2024",
+      "description": "社交媒体账号、酒吧行程、私信请通过下方网址进入⬇️⬇️⬇️",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "qiaojiesheng.com",
+              "expanded_url": "https://www.qiaojiesheng.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/0HUkF9K3St"
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1846407762156441601/1771786011",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2025643417766891520/34oup9eG_normal.jpg"
+    }
+  },
+  {
     "restId": "718699649574375424",
     "legacy": {
       "name": "青野Aono",
@@ -4281,7 +4294,7 @@
       "name": "snkrss",
       "screenName": "snkrss01",
       "createdAt": "Thu Sep 19 06:13:29 +0000 2024",
-      "description": "阳光 薄肌 🍆上翘 东北人   可出任何东西 🧦🩲🍵⚠️抖音乱评会拉黑",
+      "description": "阳光 薄肌 🍆上翘 东北人 可出任何东西 🧦🩲🍵⚠️抖音小红书乱评会拉黑",
       "entities": {
         "description": {
           "urls": []
@@ -5396,10 +5409,10 @@
   {
     "restId": "1943445018561384454",
     "legacy": {
-      "name": "赍志以殁",
+      "name": "賫志以歿",
       "screenName": "zi80260",
       "createdAt": "Thu Jul 10 22:59:52 +0000 2025",
-      "description": "喜欢女生 有需要联系@Moca460 祝大家天天开心😗",
+      "description": "喜欢女生 有需要请联系@Moca460 祝大家天天开心😗",
       "entities": {
         "description": {
           "urls": []
