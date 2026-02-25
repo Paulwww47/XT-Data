@@ -138,11 +138,19 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HCBbmGMaMAMckm6.jpg",
     "read_time": "2026-02-26T03:01:00",
-    "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": false,
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17771,
+      "timestamp": "2026-02-26T04:01:03"
+    },
+    "is_downloaded": true,
     "download_info": {
-      "download_attempts": 1
+      "download_attempts": 0,
+      "success": true,
+      "size": 190269,
+      "size_mb": 0.18,
+      "timestamp": "2026-02-26T04:01:00"
     },
     "full_text": "明早还要早起，晚安 https://t.co/0v6wIh04uY",
     "publish_time": "2026-02-26T02:06:49"
@@ -172,5 +180,57 @@
     },
     "full_text": "明早还要早起，晚安 https://t.co/0v6wIh04uY",
     "publish_time": "2026-02-26T02:06:49"
+  },
+  {
+    "file_name": "HCBul_la8AA-1Jo.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCBul_la8AA-1Jo.jpg",
+    "read_time": "2026-02-26T04:01:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17772,
+      "timestamp": "2026-02-26T04:01:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 148913,
+      "size_mb": 0.14,
+      "timestamp": "2026-02-26T04:01:03",
+      "download_attempts": 0
+    },
+    "full_text": "jayxji https://t.co/apkm4ZtVYr",
+    "publish_time": "2026-02-26T03:29:48"
+  },
+  {
+    "file_name": "HCBxBSbaMAEEitH.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCBxBSbaMAEEitH.jpg",
+    "read_time": "2026-02-26T04:01:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17773,
+      "timestamp": "2026-02-26T04:01:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 182632,
+      "size_mb": 0.17,
+      "timestamp": "2026-02-26T04:01:04",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/zLyXtyxRiv",
+    "publish_time": "2026-02-26T03:40:24"
   }
 ]
