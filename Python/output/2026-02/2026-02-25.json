@@ -1678,17 +1678,173 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (86MB > 50MB)",
       "timestamp": "2026-02-25T22:01:29",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 90529100,
       "size_mb": 86.34,
-      "timestamp": "2026-02-25T22:01:29",
+      "timestamp": "2026-02-25T23:01:16",
       "download_attempts": 0
     },
     "full_text": "冬天運動完真的不能直接回家\n太容易感冒了…❄️\n帶可愛的小鯊魚去泡溫泉取暖 🦈♨️\n可是好像暖過頭\n我忍不住就開始亂動了起來 😳\n\nWinter workouts\nhot spring with cute @sharksharkgun \nGot a little too warm, couldn’t stay still\n\n🎬 No.83 𝐅𝐔𝐋𝐋 𝐕𝗲𝗿.｜23 min\n\n𝐒𝐮𝐛. &amp; 𝐅𝐮𝐥𝐥 https://t.co/x4e3sKbFPC",
     "publish_time": "2026-02-25T21:58:00"
+  },
+  {
+    "file_name": "HCApNYXaMAM-Ebi.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCApNYXaMAM-Ebi.jpg",
+    "read_time": "2026-02-25T23:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17759,
+      "timestamp": "2026-02-25T23:01:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 136147,
+      "size_mb": 0.13,
+      "timestamp": "2026-02-25T23:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "健身教练李硕 https://t.co/czNNwziufe",
+    "publish_time": "2026-02-25T22:26:39"
+  },
+  {
+    "file_name": "DpbI_FtUS6LP8bri.mp4",
+    "user": {
+      "screen_name": "shemingyu",
+      "name": "你的梦"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2026666834754514944/vid/avc1/720x1280/DpbI_FtUS6LP8bri.mp4?tag=21",
+    "read_time": "2026-02-25T23:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17760,
+      "timestamp": "2026-02-25T23:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 591627,
+      "size_mb": 0.56,
+      "timestamp": "2026-02-25T23:01:18",
+      "download_attempts": 0
+    },
+    "full_text": "给金主按摩💆‍♂️  \nps 荨麻疹身上是 https://t.co/lIPWPJS62r",
+    "publish_time": "2026-02-25T22:33:40"
+  },
+  {
+    "file_name": "HCAtPWnaUAAN5FQ.jpg",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCAtPWnaUAAN5FQ.jpg",
+    "read_time": "2026-02-25T23:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17761,
+      "timestamp": "2026-02-25T23:01:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 123607,
+      "size_mb": 0.12,
+      "timestamp": "2026-02-25T23:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "今天是白色高弹加厚实黑袜\n法尔伽太帅咧 然而小号歪了大号补菲林斯了\n要不是小号垫池子出了白马就拿下了真的是手贱(›´ω`‹ ) https://t.co/GJNJChUpGD",
+    "publish_time": "2026-02-25T22:44:17"
+  },
+  {
+    "file_name": "HCAtPc3aMAI502h.jpg",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCAtPc3aMAI502h.jpg",
+    "read_time": "2026-02-25T23:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17762,
+      "timestamp": "2026-02-25T23:01:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 112961,
+      "size_mb": 0.11,
+      "timestamp": "2026-02-25T23:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "今天是白色高弹加厚实黑袜\n法尔伽太帅咧 然而小号歪了大号补菲林斯了\n要不是小号垫池子出了白马就拿下了真的是手贱(›´ω`‹ ) https://t.co/GJNJChUpGD",
+    "publish_time": "2026-02-25T22:44:17"
+  },
+  {
+    "file_name": "HCAtPdhaMAIFTAc.jpg",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCAtPdhaMAIFTAc.jpg",
+    "read_time": "2026-02-25T23:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17763,
+      "timestamp": "2026-02-25T23:01:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 133278,
+      "size_mb": 0.13,
+      "timestamp": "2026-02-25T23:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "今天是白色高弹加厚实黑袜\n法尔伽太帅咧 然而小号歪了大号补菲林斯了\n要不是小号垫池子出了白马就拿下了真的是手贱(›´ω`‹ ) https://t.co/GJNJChUpGD",
+    "publish_time": "2026-02-25T22:44:17"
+  },
+  {
+    "file_name": "HCAtPImaEAAfbqx.jpg",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCAtPImaEAAfbqx.jpg",
+    "read_time": "2026-02-25T23:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17764,
+      "timestamp": "2026-02-25T23:01:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 64950,
+      "size_mb": 0.06,
+      "timestamp": "2026-02-25T23:01:23",
+      "download_attempts": 0
+    },
+    "full_text": "今天是白色高弹加厚实黑袜\n法尔伽太帅咧 然而小号歪了大号补菲林斯了\n要不是小号垫池子出了白马就拿下了真的是手贱(›´ω`‹ ) https://t.co/GJNJChUpGD",
+    "publish_time": "2026-02-25T22:44:17"
   }
 ]
