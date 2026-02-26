@@ -136,5 +136,36 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2027121536977768542",
     "fullText": "ferry_0715 https://t.co/HyRiEseiyg",
     "publishTime": "2026-02-27T04:40:11"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCHRDD2bEAAb_hW.jpg",
+      "https://pbs.twimg.com/media/HCHRDD1akAAn2u5.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2027131172619506110",
+    "fullText": "https://t.co/aUztmXlwud",
+    "publishTime": "2026-02-27T05:18:28"
+  },
+  {
+    "user": {
+      "screenName": "tnzhfng41",
+      "name": "近战法师Daniel"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCHUw96bIAAwiss.jpg",
+      "https://pbs.twimg.com/media/HCHUw94b0AASjYr.jpg",
+      "https://pbs.twimg.com/media/HCHUw94aYAAdoi0.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/tnzhfng41/status/2027135250867101783",
+    "fullText": "https://t.co/mWrTAaJg0m",
+    "publishTime": "2026-02-27T05:34:40"
   }
 ]
