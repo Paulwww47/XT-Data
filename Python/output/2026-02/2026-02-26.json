@@ -300,14 +300,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (167MB > 50MB)",
       "timestamp": "2026-02-26T10:01:58",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 175876905,
       "size_mb": 167.73,
-      "timestamp": "2026-02-26T10:01:58",
+      "timestamp": "2026-02-26T11:01:49",
       "download_attempts": 0
     },
     "full_text": "黑路克 https://t.co/tdzVrYucDH",
@@ -322,11 +322,19 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HCC9e9cbkAAIUQR.jpg",
     "read_time": "2026-02-26T10:01:42",
-    "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": false,
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17778,
+      "timestamp": "2026-02-26T11:01:51"
+    },
+    "is_downloaded": true,
     "download_info": {
-      "download_attempts": 1
+      "download_attempts": 0,
+      "success": true,
+      "size": 219787,
+      "size_mb": 0.21,
+      "timestamp": "2026-02-26T11:01:49"
     },
     "full_text": "东京逛逛 https://t.co/L44fr375ac",
     "publish_time": "2026-02-26T09:14:29"
@@ -366,11 +374,19 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HCC9e3maMAE6I26.jpg",
     "read_time": "2026-02-26T10:01:42",
-    "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": false,
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17779,
+      "timestamp": "2026-02-26T11:01:53"
+    },
+    "is_downloaded": true,
     "download_info": {
-      "download_attempts": 1
+      "download_attempts": 0,
+      "success": true,
+      "size": 189810,
+      "size_mb": 0.18,
+      "timestamp": "2026-02-26T11:01:51"
     },
     "full_text": "东京逛逛 https://t.co/L44fr375ac",
     "publish_time": "2026-02-26T09:14:29"
@@ -384,11 +400,19 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HCC9fI2aMAE40NW.jpg",
     "read_time": "2026-02-26T10:01:42",
-    "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": false,
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17780,
+      "timestamp": "2026-02-26T11:01:55"
+    },
+    "is_downloaded": true,
     "download_info": {
-      "download_attempts": 1
+      "download_attempts": 0,
+      "success": true,
+      "size": 139329,
+      "size_mb": 0.13,
+      "timestamp": "2026-02-26T11:01:53"
     },
     "full_text": "东京逛逛 https://t.co/L44fr375ac",
     "publish_time": "2026-02-26T09:14:29"
@@ -402,11 +426,19 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HCC9pJMWAAA_ebO.jpg",
     "read_time": "2026-02-26T10:01:42",
-    "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": false,
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17781,
+      "timestamp": "2026-02-26T11:01:56"
+    },
+    "is_downloaded": true,
     "download_info": {
-      "download_attempts": 1
+      "download_attempts": 0,
+      "success": true,
+      "size": 101217,
+      "size_mb": 0.1,
+      "timestamp": "2026-02-26T11:01:55"
     },
     "full_text": "【粉丝投稿】谁知道这个是谁？求社交媒体账号，知道的请私信。第一个私信开门的可以免费寻人。（发帖寻人收费🧧，vpn不稳定，寻人/征友/买男性用品加个人VX（SYLjiankang2023），注明来意否则不通过） https://t.co/W2Wzocu9jr",
     "publish_time": "2026-02-26T09:15:12"
@@ -436,5 +468,31 @@
     },
     "full_text": "【2026年2月26日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/w7ly1cfWXn",
     "publish_time": "2026-02-26T09:17:16"
+  },
+  {
+    "file_name": "HCDRYkcaMAMhPIZ.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCDRYkcaMAMhPIZ.jpg",
+    "read_time": "2026-02-26T11:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17782,
+      "timestamp": "2026-02-26T11:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 93355,
+      "size_mb": 0.09,
+      "timestamp": "2026-02-26T11:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "dearnelson https://t.co/foSENb4KQa",
+    "publish_time": "2026-02-26T10:41:25"
   }
 ]
