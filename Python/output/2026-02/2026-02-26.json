@@ -1650,13 +1650,73 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HCFoS_0bYAAfGBp.jpg",
     "read_time": "2026-02-26T22:00:40",
-    "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": false,
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17826,
+      "timestamp": "2026-02-26T23:00:45"
+    },
+    "is_downloaded": true,
     "download_info": {
-      "download_attempts": 1
+      "download_attempts": 0,
+      "success": true,
+      "size": 93447,
+      "size_mb": 0.09,
+      "timestamp": "2026-02-26T23:00:43"
     },
     "full_text": "还是理回了 寸头 https://t.co/zeLwBmRPoN",
     "publish_time": "2026-02-26T21:40:52"
+  },
+  {
+    "file_name": "HCFvH4qbYAAIOfn.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCFvH4qbYAAIOfn.jpg",
+    "read_time": "2026-02-26T23:00:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17827,
+      "timestamp": "2026-02-26T23:00:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 114511,
+      "size_mb": 0.11,
+      "timestamp": "2026-02-26T23:00:45",
+      "download_attempts": 0
+    },
+    "full_text": "韩晓濬的新挑战 https://t.co/gKH03uut5x",
+    "publish_time": "2026-02-26T22:10:38"
+  },
+  {
+    "file_name": "HCF1OAkaoAAyDrI.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCF1OAkaoAAyDrI.jpg",
+    "read_time": "2026-02-26T23:00:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17828,
+      "timestamp": "2026-02-26T23:00:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 152594,
+      "size_mb": 0.15,
+      "timestamp": "2026-02-26T23:00:47",
+      "download_attempts": 0
+    },
+    "full_text": "韩晓濬花絮 https://t.co/8efmE9MgRx",
+    "publish_time": "2026-02-26T22:37:15"
   }
 ]
