@@ -566,5 +566,33 @@
     "tweetUrl": "https://x.com/maletease/status/2026959339060437391",
     "fullText": "mariovertigo https://t.co/lJArIPAVb1",
     "publishTime": "2026-02-26T17:55:40"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCE_05EbMAAdJIJ.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2026971489602527568",
+    "fullText": "https://t.co/ZRRLuvL6Au",
+    "publishTime": "2026-02-26T18:43:57"
+  },
+  {
+    "user": {
+      "screenName": "Louiewe123",
+      "name": "Louiewe卤蛋头"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2026975315449520128/vid/avc1/720x1280/LGAKV9hB0j3imAF5.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Louiewe123/status/2026975380461302226",
+    "fullText": "微信搜“超牛”小程序，2月27日周五晚上7点见喽～ https://t.co/1NbjWqgF5k",
+    "publishTime": "2026-02-26T18:59:24"
   }
 ]

@@ -1290,17 +1290,69 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (150MB > 50MB)",
       "timestamp": "2026-02-26T18:02:07",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 157936066,
       "size_mb": 150.62,
-      "timestamp": "2026-02-26T18:02:07",
+      "timestamp": "2026-02-26T19:04:09",
       "download_attempts": 0
     },
     "full_text": "mariovertigo https://t.co/lJArIPAVb1",
     "publish_time": "2026-02-26T17:55:40"
+  },
+  {
+    "file_name": "HCE_05EbMAAdJIJ.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCE_05EbMAAdJIJ.jpg",
+    "read_time": "2026-02-26T19:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17813,
+      "timestamp": "2026-02-26T19:04:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 104824,
+      "size_mb": 0.1,
+      "timestamp": "2026-02-26T19:04:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ZRRLuvL6Au",
+    "publish_time": "2026-02-26T18:43:57"
+  },
+  {
+    "file_name": "LGAKV9hB0j3imAF5.mp4",
+    "user": {
+      "screen_name": "Louiewe123",
+      "name": "Louiewe卤蛋头"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2026975315449520128/vid/avc1/720x1280/LGAKV9hB0j3imAF5.mp4?tag=21",
+    "read_time": "2026-02-26T19:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17814,
+      "timestamp": "2026-02-26T19:04:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1895944,
+      "size_mb": 1.81,
+      "timestamp": "2026-02-26T19:04:12",
+      "download_attempts": 0
+    },
+    "full_text": "微信搜“超牛”小程序，2月27日周五晚上7点见喽～ https://t.co/1NbjWqgF5k",
+    "publish_time": "2026-02-26T18:59:24"
   }
 ]
