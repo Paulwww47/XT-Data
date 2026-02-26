@@ -1196,5 +1196,111 @@
     },
     "full_text": "https://t.co/WeSY0yBm3M",
     "publish_time": "2026-02-26T16:59:58"
+  },
+  {
+    "file_name": "HCEv5q8awAA4wIQ.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCEv5q8awAA4wIQ.jpg",
+    "read_time": "2026-02-26T18:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17810,
+      "timestamp": "2026-02-26T18:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 83098,
+      "size_mb": 0.08,
+      "timestamp": "2026-02-26T18:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "王峻豪第一次挑战羞耻拍摄，镜头一对准就耳尖发烫、脸颊通红，紧张到不敢直视，连耳尖都透着粉，青涩又可爱，害羞模样藏不住～ https://t.co/Dwa996xfHE",
+    "publish_time": "2026-02-26T17:34:24"
+  },
+  {
+    "file_name": "HCEzVxNa8AA0uQ-.jpg",
+    "user": {
+      "screen_name": "leonyangy",
+      "name": "Leonyangy"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCEzVxNa8AA0uQ-.jpg",
+    "read_time": "2026-02-26T18:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17811,
+      "timestamp": "2026-02-26T18:01:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 136327,
+      "size_mb": 0.13,
+      "timestamp": "2026-02-26T18:01:49",
+      "download_attempts": 0
+    },
+    "full_text": "可爱宝宝肚脐贴😂🍼#fyp https://t.co/q3Tslync9C",
+    "publish_time": "2026-02-26T17:49:24"
+  },
+  {
+    "file_name": "HCEzVxOagAAELt-.jpg",
+    "user": {
+      "screen_name": "leonyangy",
+      "name": "Leonyangy"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCEzVxOagAAELt-.jpg",
+    "read_time": "2026-02-26T18:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17812,
+      "timestamp": "2026-02-26T18:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 129716,
+      "size_mb": 0.12,
+      "timestamp": "2026-02-26T18:01:51",
+      "download_attempts": 0
+    },
+    "full_text": "可爱宝宝肚脐贴😂🍼#fyp https://t.co/q3Tslync9C",
+    "publish_time": "2026-02-26T17:49:24"
+  },
+  {
+    "file_name": "Dpo7qyf-v0tgGyA6.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2026957991501762560/vid/avc1/1080x1920/Dpo7qyf-v0tgGyA6.mp4?tag=21",
+    "read_time": "2026-02-26T18:01:47",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (150MB > 50MB)",
+      "timestamp": "2026-02-26T18:02:07",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 157936066,
+      "size_mb": 150.62,
+      "timestamp": "2026-02-26T18:02:07",
+      "download_attempts": 0
+    },
+    "full_text": "mariovertigo https://t.co/lJArIPAVb1",
+    "publish_time": "2026-02-26T17:55:40"
   }
 ]
