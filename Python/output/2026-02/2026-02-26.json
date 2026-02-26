@@ -284,5 +284,157 @@
     },
     "full_text": "https://t.co/4HRWeCwimZ",
     "publish_time": "2026-02-26T05:39:13"
+  },
+  {
+    "file_name": "kFWLppIqHxc8QYl6.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2026813988840091648/vid/avc1/1080x1920/kFWLppIqHxc8QYl6.mp4?tag=21",
+    "read_time": "2026-02-26T10:01:42",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (167MB > 50MB)",
+      "timestamp": "2026-02-26T10:01:58",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 175876905,
+      "size_mb": 167.73,
+      "timestamp": "2026-02-26T10:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "黑路克 https://t.co/tdzVrYucDH",
+    "publish_time": "2026-02-26T09:11:26"
+  },
+  {
+    "file_name": "HCC9e9cbkAAIUQR.jpg",
+    "user": {
+      "screen_name": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCC9e9cbkAAIUQR.jpg",
+    "read_time": "2026-02-26T10:01:42",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": false,
+    "download_info": {
+      "download_attempts": 1
+    },
+    "full_text": "东京逛逛 https://t.co/L44fr375ac",
+    "publish_time": "2026-02-26T09:14:29"
+  },
+  {
+    "file_name": "HCC9e-LaMAAmciS.jpg",
+    "user": {
+      "screen_name": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCC9e-LaMAAmciS.jpg",
+    "read_time": "2026-02-26T10:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17776,
+      "timestamp": "2026-02-26T10:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 197075,
+      "size_mb": 0.19,
+      "timestamp": "2026-02-26T10:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "东京逛逛 https://t.co/L44fr375ac",
+    "publish_time": "2026-02-26T09:14:29"
+  },
+  {
+    "file_name": "HCC9e3maMAE6I26.jpg",
+    "user": {
+      "screen_name": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCC9e3maMAE6I26.jpg",
+    "read_time": "2026-02-26T10:01:42",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": false,
+    "download_info": {
+      "download_attempts": 1
+    },
+    "full_text": "东京逛逛 https://t.co/L44fr375ac",
+    "publish_time": "2026-02-26T09:14:29"
+  },
+  {
+    "file_name": "HCC9fI2aMAE40NW.jpg",
+    "user": {
+      "screen_name": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCC9fI2aMAE40NW.jpg",
+    "read_time": "2026-02-26T10:01:42",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": false,
+    "download_info": {
+      "download_attempts": 1
+    },
+    "full_text": "东京逛逛 https://t.co/L44fr375ac",
+    "publish_time": "2026-02-26T09:14:29"
+  },
+  {
+    "file_name": "HCC9pJMWAAA_ebO.jpg",
+    "user": {
+      "screen_name": "chounizadi2021",
+      "name": "男神传送门"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCC9pJMWAAA_ebO.jpg",
+    "read_time": "2026-02-26T10:01:42",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": false,
+    "download_info": {
+      "download_attempts": 1
+    },
+    "full_text": "【粉丝投稿】谁知道这个是谁？求社交媒体账号，知道的请私信。第一个私信开门的可以免费寻人。（发帖寻人收费🧧，vpn不稳定，寻人/征友/买男性用品加个人VX（SYLjiankang2023），注明来意否则不通过） https://t.co/W2Wzocu9jr",
+    "publish_time": "2026-02-26T09:15:12"
+  },
+  {
+    "file_name": "OO65Vudn_i58dh4F.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2026828849758302208/vid/avc1/720x1280/OO65Vudn_i58dh4F.mp4?tag=14",
+    "read_time": "2026-02-26T10:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17777,
+      "timestamp": "2026-02-26T10:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2432937,
+      "size_mb": 2.32,
+      "timestamp": "2026-02-26T10:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年2月26日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/w7ly1cfWXn",
+    "publish_time": "2026-02-26T09:17:16"
   }
 ]
