@@ -1,0 +1,108 @@
+[
+  {
+    "file_name": "L6lpiVrXHqx8RhwH.mp4",
+    "user": {
+      "screen_name": "arthurz_xcx",
+      "name": "Arthur (อาเธอร์ ) ♠︎×"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2027058857361670144/vid/avc1/2160x3840/L6lpiVrXHqx8RhwH.mp4?tag=21",
+    "read_time": "2026-02-27T01:00:46",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (123MB > 50MB)",
+      "timestamp": "2026-02-27T01:00:47",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 129993418,
+      "size_mb": 123.97,
+      "timestamp": "2026-02-27T01:00:47",
+      "download_attempts": 0
+    },
+    "full_text": "อยากแตกคาไทค์ให้มันจบๆ เสียวว่ะ https://t.co/PKeodQWlSX",
+    "publish_time": "2026-02-27T00:31:48"
+  },
+  {
+    "file_name": "HCGRJkka4AAWDDK.jpg",
+    "user": {
+      "screen_name": "brooklyn29540",
+      "name": "不要问我从哪里来"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCGRJkka4AAWDDK.jpg",
+    "read_time": "2026-02-27T01:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17834,
+      "timestamp": "2026-02-27T01:00:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 217623,
+      "size_mb": 0.21,
+      "timestamp": "2026-02-27T01:00:47",
+      "download_attempts": 0
+    },
+    "full_text": "有玩过这个的可以换资源，特别大🐔，资源互换。 https://t.co/KspuWr8J11",
+    "publish_time": "2026-02-27T00:39:16"
+  },
+  {
+    "file_name": "HCGRJknbwAA32Kq.jpg",
+    "user": {
+      "screen_name": "brooklyn29540",
+      "name": "不要问我从哪里来"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCGRJknbwAA32Kq.jpg",
+    "read_time": "2026-02-27T01:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17835,
+      "timestamp": "2026-02-27T01:00:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 69476,
+      "size_mb": 0.07,
+      "timestamp": "2026-02-27T01:00:50",
+      "download_attempts": 0
+    },
+    "full_text": "有玩过这个的可以换资源，特别大🐔，资源互换。 https://t.co/KspuWr8J11",
+    "publish_time": "2026-02-27T00:39:16"
+  },
+  {
+    "file_name": "HCGRJknbwAEiiry.jpg",
+    "user": {
+      "screen_name": "brooklyn29540",
+      "name": "不要问我从哪里来"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCGRJknbwAEiiry.jpg",
+    "read_time": "2026-02-27T01:00:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17836,
+      "timestamp": "2026-02-27T01:00:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 145976,
+      "size_mb": 0.14,
+      "timestamp": "2026-02-27T01:00:52",
+      "download_attempts": 0
+    },
+    "full_text": "有玩过这个的可以换资源，特别大🐔，资源互换。 https://t.co/KspuWr8J11",
+    "publish_time": "2026-02-27T00:39:16"
+  }
+]
