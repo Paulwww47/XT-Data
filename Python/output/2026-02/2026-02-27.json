@@ -14,14 +14,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (123MB > 50MB)",
       "timestamp": "2026-02-27T01:00:47",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 129993418,
       "size_mb": 123.97,
-      "timestamp": "2026-02-27T01:00:47",
+      "timestamp": "2026-02-27T02:00:49",
       "download_attempts": 0
     },
     "full_text": "อยากแตกคาไทค์ให้มันจบๆ เสียวว่ะ https://t.co/PKeodQWlSX",
@@ -104,5 +104,57 @@
     },
     "full_text": "有玩过这个的可以换资源，特别大🐔，资源互换。 https://t.co/KspuWr8J11",
     "publish_time": "2026-02-27T00:39:16"
+  },
+  {
+    "file_name": "HCGV4Via8AAERp2.jpg",
+    "user": {
+      "screen_name": "TorriJacoby",
+      "name": "岛民*荒哥"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCGV4Via8AAERp2.jpg",
+    "read_time": "2026-02-27T02:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17837,
+      "timestamp": "2026-02-27T02:00:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 75784,
+      "size_mb": 0.07,
+      "timestamp": "2026-02-27T02:00:50",
+      "download_attempts": 0
+    },
+    "full_text": "来看看夜景。有一起的吗？ https://t.co/ynLdLdAU8W",
+    "publish_time": "2026-02-27T01:07:51"
+  },
+  {
+    "file_name": "DtqrZKBIYDa3koUh.mp4",
+    "user": {
+      "screen_name": "shemingyu",
+      "name": "你的梦"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2027079607015587840/vid/avc1/720x960/DtqrZKBIYDa3koUh.mp4?tag=21",
+    "read_time": "2026-02-27T02:00:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17838,
+      "timestamp": "2026-02-27T02:00:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1207912,
+      "size_mb": 1.15,
+      "timestamp": "2026-02-27T02:00:52",
+      "download_attempts": 0
+    },
+    "full_text": "没什么本事，就是奶大。 https://t.co/XwLsqeU43b",
+    "publish_time": "2026-02-27T01:53:48"
   }
 ]
