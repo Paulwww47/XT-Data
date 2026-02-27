@@ -494,5 +494,57 @@
     },
     "full_text": "https://t.co/ZFuI8dbvY1",
     "publish_time": "2026-02-27T08:54:22"
+  },
+  {
+    "file_name": "HCIGE9ba8AASsve.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCIGE9ba8AASsve.jpg",
+    "read_time": "2026-02-27T10:02:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17852,
+      "timestamp": "2026-02-27T10:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 166482,
+      "size_mb": 0.16,
+      "timestamp": "2026-02-27T10:02:34",
+      "download_attempts": 0
+    },
+    "full_text": "khet_kang https://t.co/Y7MSeRWxGc",
+    "publish_time": "2026-02-27T09:10:07"
+  },
+  {
+    "file_name": "YGPBYdX_yUoOB7Us.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2027194378733957120/vid/avc1/720x1280/YGPBYdX_yUoOB7Us.mp4?tag=21",
+    "read_time": "2026-02-27T10:02:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17853,
+      "timestamp": "2026-02-27T10:02:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5681260,
+      "size_mb": 5.42,
+      "timestamp": "2026-02-27T10:02:36",
+      "download_attempts": 0
+    },
+    "full_text": "不同角度 https://t.co/Nslqjgi66I",
+    "publish_time": "2026-02-27T09:30:01"
   }
 ]

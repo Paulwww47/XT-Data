@@ -223,5 +223,33 @@
     "tweetUrl": "https://x.com/iKwuen1111/status/2027185505826386121",
     "fullText": "https://t.co/ZFuI8dbvY1",
     "publishTime": "2026-02-27T08:54:22"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCIGE9ba8AASsve.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2027189469728940219",
+    "fullText": "khet_kang https://t.co/Y7MSeRWxGc",
+    "publishTime": "2026-02-27T09:10:07"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2027194378733957120/vid/avc1/720x1280/YGPBYdX_yUoOB7Us.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/2027194478298358113",
+    "fullText": "不同角度 https://t.co/Nslqjgi66I",
+    "publishTime": "2026-02-27T09:30:01"
   }
 ]
