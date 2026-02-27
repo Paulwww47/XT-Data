@@ -829,5 +829,31 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2027318119761666325",
     "fullText": "https://t.co/UUoa1yw7VG",
     "publishTime": "2026-02-27T17:41:20"
+  },
+  {
+    "user": {
+      "screenName": "snkrss01",
+      "name": "snkrss"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCKAHFBbcAA3DX6.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/snkrss01/status/2027323650689700347",
+    "fullText": "🐧 https://t.co/mYlEBQW5Ao",
+    "publishTime": "2026-02-27T18:03:18"
+  },
+  {
+    "user": {
+      "screenName": "Mcsswest",
+      "name": "没有脑袋"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Mcsswest/status/2027330470120477081",
+    "fullText": "@lvren51069 嘻嘻🤪",
+    "publishTime": "2026-02-27T18:30:24"
   }
 ]
