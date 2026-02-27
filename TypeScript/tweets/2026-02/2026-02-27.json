@@ -167,5 +167,33 @@
     "tweetUrl": "https://x.com/tnzhfng41/status/2027135250867101783",
     "fullText": "https://t.co/mWrTAaJg0m",
     "publishTime": "2026-02-27T05:34:40"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2027157055635898368/vid/avc1/720x1280/VDcx9W1Z9TE_1DYr.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/2027157160216731717",
+    "fullText": "早 https://t.co/Yhvhwef1cU",
+    "publishTime": "2026-02-27T07:01:44"
+  },
+  {
+    "user": {
+      "screenName": "Nionggg1",
+      "name": "N叔是个dom"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2027161154951458816/pu/vid/avc1/1280x720/oRfruT1csj6NI51g.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Nionggg1/status/2027161226665734605",
+    "fullText": "有人来坐嘛 https://t.co/NYZQDMe3HI",
+    "publishTime": "2026-02-27T07:17:53"
   }
 ]

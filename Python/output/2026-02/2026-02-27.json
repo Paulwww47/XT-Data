@@ -390,5 +390,57 @@
     },
     "full_text": "https://t.co/mWrTAaJg0m",
     "publish_time": "2026-02-27T05:34:40"
+  },
+  {
+    "file_name": "VDcx9W1Z9TE_1DYr.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2027157055635898368/vid/avc1/720x1280/VDcx9W1Z9TE_1DYr.mp4?tag=21",
+    "read_time": "2026-02-27T08:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17848,
+      "timestamp": "2026-02-27T08:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 6525959,
+      "size_mb": 6.22,
+      "timestamp": "2026-02-27T08:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "早 https://t.co/Yhvhwef1cU",
+    "publish_time": "2026-02-27T07:01:44"
+  },
+  {
+    "file_name": "oRfruT1csj6NI51g.mp4",
+    "user": {
+      "screen_name": "Nionggg1",
+      "name": "N叔是个dom"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2027161154951458816/pu/vid/avc1/1280x720/oRfruT1csj6NI51g.mp4?tag=12",
+    "read_time": "2026-02-27T08:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17849,
+      "timestamp": "2026-02-27T08:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3769950,
+      "size_mb": 3.6,
+      "timestamp": "2026-02-27T08:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "有人来坐嘛 https://t.co/NYZQDMe3HI",
+    "publish_time": "2026-02-27T07:17:53"
   }
 ]
