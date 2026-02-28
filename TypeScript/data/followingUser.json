@@ -900,22 +900,6 @@
     }
   },
   {
-    "restId": "1108488153734832136",
-    "legacy": {
-      "name": "杰尼",
-      "screenName": "cornerofjenni",
-      "createdAt": "Wed Mar 20 21:59:05 +0000 2019",
-      "description": "小三文学爱好者 | 我说的话你别太当真 | 想看照片去同名 ig",
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1108488153734832136/1770946961",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2022124185921957888/eh8mU8yZ_normal.jpg"
-    }
-  },
-  {
     "restId": "2591238220",
     "legacy": {
       "name": "北泽",
@@ -3076,7 +3060,7 @@
       "name": "直男调教s",
       "screenName": "MaryBak64398222",
       "createdAt": "Thu Dec 15 20:56:37 +0000 2022",
-      "description": "原创直男调教 ❤全网唯一账号\n\n                 --资源收藏👉置顶推文",
+      "description": "原创直男调教 ❤全网唯一账号",
       "entities": {
         "description": {
           "urls": []
@@ -3785,7 +3769,7 @@
       "name": "Rex大鹏",
       "screenName": "Rex1719124799",
       "createdAt": "Sat Oct 19 00:49:02 +0000 2024",
-      "description": "新人spa按摩师｜175-80｜vx🚪🧧200",
+      "description": "新人spa按摩师｜175-80｜vx🚪🧧200 过门后详聊",
       "entities": {
         "description": {
           "urls": []
@@ -4615,6 +4599,22 @@
     }
   },
   {
+    "restId": "1108488153734832136",
+    "legacy": {
+      "name": "JY",
+      "screenName": "undefinedjy",
+      "createdAt": "Wed Mar 20 21:59:05 +0000 2019",
+      "description": "小三文学爱好者 | 我说的话你别太当真",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1108488153734832136/1770946961",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2022124185921957888/eh8mU8yZ_normal.jpg"
+    }
+  },
+  {
     "restId": "1282379840398688258",
     "legacy": {
       "name": "uxy",
@@ -5370,7 +5370,7 @@
       "name": "直男控制",
       "screenName": "zhinandegounu",
       "createdAt": "Sun Jul 11 08:16:38 +0000 2021",
-      "description": "需要视频的➕qq 975836043 或者 2770163672",
+      "description": "需要视频的➕qq 2770163672",
       "entities": {
         "description": {
           "urls": []
