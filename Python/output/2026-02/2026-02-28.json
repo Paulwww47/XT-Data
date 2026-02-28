@@ -846,14 +846,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (159MB > 50MB)",
       "timestamp": "2026-02-28T16:00:54",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 167130766,
       "size_mb": 159.39,
-      "timestamp": "2026-02-28T16:00:54",
+      "timestamp": "2026-02-28T17:00:50",
       "download_attempts": 0
     },
     "full_text": "Muscle🆚Muscle 肌肉对抗🔥加长完整版 https://t.co/PtoePDk1u3",
@@ -1040,5 +1040,395 @@
     },
     "full_text": "mariovertigo 截图预览 \n类型比较丰富 有solo 农牛 和一零 \n打包¥ 30 \n身材比例不过 不过在欧美人里面属于比较矮的了 https://t.co/qTB8QucJd9",
     "publish_time": "2026-02-28T15:59:09"
+  },
+  {
+    "file_name": "HCOv_NHbEAIAwWP.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCOv_NHbEAIAwWP.jpg",
+    "read_time": "2026-02-28T17:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17956,
+      "timestamp": "2026-02-28T17:00:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101755,
+      "size_mb": 0.1,
+      "timestamp": "2026-02-28T17:00:50",
+      "download_attempts": 0
+    },
+    "full_text": "mohum_king https://t.co/pavnFcrb85",
+    "publish_time": "2026-02-28T16:10:57"
+  },
+  {
+    "file_name": "HCOwGa6agAA319c.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCOwGa6agAA319c.jpg",
+    "read_time": "2026-02-28T17:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17957,
+      "timestamp": "2026-02-28T17:00:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 110997,
+      "size_mb": 0.11,
+      "timestamp": "2026-02-28T17:00:52",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/8WdPDzhCgj",
+    "publish_time": "2026-02-28T16:11:26"
+  },
+  {
+    "file_name": "HCOw3zVaQAAZTOH.jpg",
+    "user": {
+      "screen_name": "mmmmqaz0",
+      "name": "三角板"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCOw3zVaQAAZTOH.jpg",
+    "read_time": "2026-02-28T17:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17958,
+      "timestamp": "2026-02-28T17:00:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 58500,
+      "size_mb": 0.06,
+      "timestamp": "2026-02-28T17:00:54",
+      "download_attempts": 0
+    },
+    "full_text": "能看出来这是我吗 https://t.co/nvsMe0Bfvk",
+    "publish_time": "2026-02-28T16:14:50"
+  },
+  {
+    "file_name": "HCOw3zdbkAAheDl.jpg",
+    "user": {
+      "screen_name": "mmmmqaz0",
+      "name": "三角板"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCOw3zdbkAAheDl.jpg",
+    "read_time": "2026-02-28T17:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17959,
+      "timestamp": "2026-02-28T17:00:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 111231,
+      "size_mb": 0.11,
+      "timestamp": "2026-02-28T17:00:55",
+      "download_attempts": 0
+    },
+    "full_text": "能看出来这是我吗 https://t.co/nvsMe0Bfvk",
+    "publish_time": "2026-02-28T16:14:50"
+  },
+  {
+    "file_name": "-GqOVdLKGF16SvZZ.mp4",
+    "user": {
+      "screen_name": "dbqy1988",
+      "name": "渡边青云"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2027660588705583106/vid/avc1/720x1280/-GqOVdLKGF16SvZZ.mp4?tag=21",
+    "read_time": "2026-02-28T17:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17960,
+      "timestamp": "2026-02-28T17:01:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1824950,
+      "size_mb": 1.74,
+      "timestamp": "2026-02-28T17:00:57",
+      "download_attempts": 0
+    },
+    "full_text": "洗完澡  小鸡鸡甩一甩 https://t.co/B10CAjvIeJ",
+    "publish_time": "2026-02-28T16:22:27"
+  },
+  {
+    "file_name": "kcU6BF8kW45yXjfJ.mp4",
+    "user": {
+      "screen_name": "dbqy1988",
+      "name": "渡边青云"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2027660949633818624/vid/avc1/720x1280/kcU6BF8kW45yXjfJ.mp4?tag=21",
+    "read_time": "2026-02-28T17:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17961,
+      "timestamp": "2026-02-28T17:01:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4290941,
+      "size_mb": 4.09,
+      "timestamp": "2026-02-28T17:01:00",
+      "download_attempts": 0
+    },
+    "full_text": "没硬  顶个跨  小艹一下 https://t.co/yl6gj2jnVe",
+    "publish_time": "2026-02-28T16:23:58"
+  },
+  {
+    "file_name": "I7JBU4eogLhIGb8L.mp4",
+    "user": {
+      "screen_name": "dbqy1988",
+      "name": "渡边青云"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2027661218027278336/vid/avc1/720x1280/I7JBU4eogLhIGb8L.mp4?tag=21",
+    "read_time": "2026-02-28T17:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17962,
+      "timestamp": "2026-02-28T17:01:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2528233,
+      "size_mb": 2.41,
+      "timestamp": "2026-02-28T17:01:04",
+      "download_attempts": 0
+    },
+    "full_text": "穿这内裤去户外游泳感觉很刺激 https://t.co/CxVajs15hz",
+    "publish_time": "2026-02-28T16:24:59"
+  },
+  {
+    "file_name": "HCOzpJmbEAkuMEP.jpg",
+    "user": {
+      "screen_name": "dbqy1988",
+      "name": "渡边青云"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCOzpJmbEAkuMEP.jpg",
+    "read_time": "2026-02-28T17:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17963,
+      "timestamp": "2026-02-28T17:01:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 150688,
+      "size_mb": 0.14,
+      "timestamp": "2026-02-28T17:01:05",
+      "download_attempts": 0
+    },
+    "full_text": "大叔晾晒的裤衩  就是今早被我尿过的   想到今晚大叔穿上混合着我和他尿液的内裤    紧紧贴着他的黑肉棒就兴奋 https://t.co/SQCjAzl65K",
+    "publish_time": "2026-02-28T16:26:57"
+  },
+  {
+    "file_name": "HCO0TCsbYAAlHr5.jpg",
+    "user": {
+      "screen_name": "mala1414111",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCO0TCsbYAAlHr5.jpg",
+    "read_time": "2026-02-28T17:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17964,
+      "timestamp": "2026-02-28T17:01:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 139374,
+      "size_mb": 0.13,
+      "timestamp": "2026-02-28T17:01:06",
+      "download_attempts": 0
+    },
+    "full_text": "紫色💜 https://t.co/ZOZ8wXf4wl",
+    "publish_time": "2026-02-28T16:29:48"
+  },
+  {
+    "file_name": "HCO0TCvaQAAr_6q.jpg",
+    "user": {
+      "screen_name": "mala1414111",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCO0TCvaQAAr_6q.jpg",
+    "read_time": "2026-02-28T17:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17965,
+      "timestamp": "2026-02-28T17:01:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 163006,
+      "size_mb": 0.16,
+      "timestamp": "2026-02-28T17:01:07",
+      "download_attempts": 0
+    },
+    "full_text": "紫色💜 https://t.co/ZOZ8wXf4wl",
+    "publish_time": "2026-02-28T16:29:48"
+  },
+  {
+    "file_name": "HCO0TCrbEAQUEQq.jpg",
+    "user": {
+      "screen_name": "mala1414111",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCO0TCrbEAQUEQq.jpg",
+    "read_time": "2026-02-28T17:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17966,
+      "timestamp": "2026-02-28T17:01:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 161478,
+      "size_mb": 0.15,
+      "timestamp": "2026-02-28T17:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "紫色💜 https://t.co/ZOZ8wXf4wl",
+    "publish_time": "2026-02-28T16:29:48"
+  },
+  {
+    "file_name": "HCO0TCvbEAMjT50.jpg",
+    "user": {
+      "screen_name": "mala1414111",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCO0TCvbEAMjT50.jpg",
+    "read_time": "2026-02-28T17:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17967,
+      "timestamp": "2026-02-28T17:01:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 187112,
+      "size_mb": 0.18,
+      "timestamp": "2026-02-28T17:01:10",
+      "download_attempts": 0
+    },
+    "full_text": "紫色💜 https://t.co/ZOZ8wXf4wl",
+    "publish_time": "2026-02-28T16:29:48"
+  },
+  {
+    "file_name": "HCO0fPAbEAEvUCM.jpg",
+    "user": {
+      "screen_name": "mala1414111",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCO0fPAbEAEvUCM.jpg",
+    "read_time": "2026-02-28T17:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17968,
+      "timestamp": "2026-02-28T17:01:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 129500,
+      "size_mb": 0.12,
+      "timestamp": "2026-02-28T17:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "白色也喜欢 https://t.co/DK841htbKP",
+    "publish_time": "2026-02-28T16:30:37"
+  },
+  {
+    "file_name": "HCO0fO-agAA_drZ.jpg",
+    "user": {
+      "screen_name": "mala1414111",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCO0fO-agAA_drZ.jpg",
+    "read_time": "2026-02-28T17:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17969,
+      "timestamp": "2026-02-28T17:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 103862,
+      "size_mb": 0.1,
+      "timestamp": "2026-02-28T17:01:12",
+      "download_attempts": 0
+    },
+    "full_text": "白色也喜欢 https://t.co/DK841htbKP",
+    "publish_time": "2026-02-28T16:30:37"
+  },
+  {
+    "file_name": "HCO4lLzbEAABU5Q.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCO4lLzbEAABU5Q.jpg",
+    "read_time": "2026-02-28T17:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 17970,
+      "timestamp": "2026-02-28T17:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 159367,
+      "size_mb": 0.15,
+      "timestamp": "2026-02-28T17:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "吮指蜜桃🍑 丁凯 https://t.co/Ufgnt7tPYW",
+    "publish_time": "2026-02-28T16:48:34"
   }
 ]
