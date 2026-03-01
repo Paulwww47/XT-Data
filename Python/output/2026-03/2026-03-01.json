@@ -378,14 +378,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (60MB > 50MB)",
       "timestamp": "2026-03-01T11:07:25",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 63443736,
       "size_mb": 60.5,
-      "timestamp": "2026-03-01T11:07:25",
+      "timestamp": "2026-03-01T12:01:00",
       "download_attempts": 0
     },
     "full_text": "按摩的时候按硬了，滑溜溜的软屁股真的很诱人，一不小心就滑进去了，那就好好操他一遍吧 https://t.co/vlfPI3aryA",
@@ -468,5 +468,57 @@
     },
     "full_text": "健身完的鞋袜\n会让你瞬间高潮 https://t.co/PQL8wytaoN",
     "publish_time": "2026-03-01T10:54:19"
+  },
+  {
+    "file_name": "HCS97Ooa4AA38Oi.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCS97Ooa4AA38Oi.jpg",
+    "read_time": "2026-03-01T12:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 18171,
+      "timestamp": "2026-03-01T12:01:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 217319,
+      "size_mb": 0.21,
+      "timestamp": "2026-03-01T12:01:00",
+      "download_attempts": 0
+    },
+    "full_text": "daoanhquann https://t.co/Y3QgBoTAL5",
+    "publish_time": "2026-03-01T11:50:20"
+  },
+  {
+    "file_name": "HCS-AdLa8AACfKM.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCS-AdLa8AACfKM.jpg",
+    "read_time": "2026-03-01T12:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 18172,
+      "timestamp": "2026-03-01T12:01:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 78935,
+      "size_mb": 0.08,
+      "timestamp": "2026-03-01T12:01:03",
+      "download_attempts": 0
+    },
+    "full_text": "zitianjing https://t.co/1BzMz7IDZl",
+    "publish_time": "2026-03-01T11:50:41"
   }
 ]
