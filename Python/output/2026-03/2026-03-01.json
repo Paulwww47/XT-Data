@@ -520,5 +520,31 @@
     },
     "full_text": "zitianjing https://t.co/1BzMz7IDZl",
     "publish_time": "2026-03-01T11:50:41"
+  },
+  {
+    "file_name": "HCTIP_XbEAAFAIt.jpg",
+    "user": {
+      "screen_name": "Exp_lam",
+      "name": "~Exp(λ)"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCTIP_XbEAAFAIt.jpg",
+    "read_time": "2026-03-01T13:00:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 18173,
+      "timestamp": "2026-03-01T13:00:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 97658,
+      "size_mb": 0.09,
+      "timestamp": "2026-03-01T13:00:44",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/wlDZCRums6",
+    "publish_time": "2026-03-01T12:35:28"
   }
 ]
