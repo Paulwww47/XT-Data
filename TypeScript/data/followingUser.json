@@ -829,7 +829,7 @@
         }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2004212471478013952/1772053108",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2026772176494538757/ec8WteCg_normal.jpg"
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2027898274729099264/8W0Rc8uH_normal.jpg"
     }
   },
   {
@@ -4657,6 +4657,32 @@
       },
       "profileBannerUrl": "",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1883195351429156865/r7KAQXcD_normal.jpg"
+    }
+  },
+  {
+    "restId": "2002573295699550208",
+    "legacy": {
+      "name": "Nicholas Vale",
+      "screenName": "ValeNichol76783",
+      "createdAt": "Sun Dec 21 02:54:15 +0000 2025",
+      "description": "请关注！！防失联&更多预览！！：https://t.co/sxGWS8lk9G\n小众原创略贵 购买需提供电话号码打水印\nqq977421414发货 单卖无会员群",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "t.me/bzfwhlqqnl",
+              "expanded_url": "http://t.me/bzfwhlqqnl",
+              "indices": [
+                16,
+                39
+              ],
+              "url": "https://t.co/sxGWS8lk9G"
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2002573308878012419/X0qP64gj_normal.jpg"
     }
   },
   {
