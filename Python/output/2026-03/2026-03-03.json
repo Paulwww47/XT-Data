@@ -310,5 +310,31 @@
     },
     "full_text": "https://t.co/2zEd0YGE7m",
     "publish_time": "2026-03-03T05:02:15"
+  },
+  {
+    "file_name": "zjfNDT1RpJeVV5jQ.mp4",
+    "user": {
+      "screen_name": "dbqy1988",
+      "name": "渡边青云"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2028623061868830721/vid/avc1/720x1280/zjfNDT1RpJeVV5jQ.mp4?tag=21",
+    "read_time": "2026-03-03T09:00:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 18282,
+      "timestamp": "2026-03-03T09:00:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1959592,
+      "size_mb": 1.87,
+      "timestamp": "2026-03-03T09:00:50",
+      "download_attempts": 0
+    },
+    "full_text": "一大早  爽了 https://t.co/rN3aqo4kWQ",
+    "publish_time": "2026-03-03T08:06:57"
   }
 ]
