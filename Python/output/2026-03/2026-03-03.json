@@ -1548,14 +1548,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (73MB > 50MB)",
       "timestamp": "2026-03-03T20:03:15",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 77044258,
       "size_mb": 73.48,
-      "timestamp": "2026-03-03T20:03:15",
+      "timestamp": "2026-03-03T21:02:04",
       "download_attempts": 0
     },
     "full_text": "薄肌黑炭 https://t.co/Divqu07FZj",
@@ -1576,14 +1576,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (118MB > 50MB)",
       "timestamp": "2026-03-03T20:03:29",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 123739900,
       "size_mb": 118.01,
-      "timestamp": "2026-03-03T20:03:29",
+      "timestamp": "2026-03-03T21:02:04",
       "download_attempts": 0
     },
     "full_text": "Binsua27011 https://t.co/SdCPvRG38F",
