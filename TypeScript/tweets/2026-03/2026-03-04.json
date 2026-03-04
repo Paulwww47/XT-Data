@@ -897,5 +897,31 @@
     "tweetUrl": "https://x.com/undefinedjy/status/2029210359547277579",
     "fullText": "明天俺真得尝试一下冥想了😇最近睡觉前思绪乱到要爆炸…",
     "publishTime": "2026-03-04T23:00:25"
+  },
+  {
+    "user": {
+      "screenName": "undefinedjy",
+      "name": "JY"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/undefinedjy/status/2029210891703747011",
+    "fullText": "朋友被狗东裁了之后，在抖音直播了几次，一次捞了 500 一次捞了 2k，我怎么合计着比在你东赚得多啊！？",
+    "publishTime": "2026-03-04T23:02:32"
+  },
+  {
+    "user": {
+      "screenName": "sleepinbathtub",
+      "name": "Sleepinbathtub"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCk2cucaoAAM0jZ.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/sleepinbathtub/status/2029212988444700705",
+    "fullText": "https://t.co/epJriywd4a",
+    "publishTime": "2026-03-04T23:10:52"
   }
 ]
