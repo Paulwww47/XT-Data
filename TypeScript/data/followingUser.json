@@ -1017,10 +1017,20 @@
       "name": "Yuki(工作号)",
       "screenName": "Depper99zh",
       "createdAt": "Tue Nov 12 13:13:13 +0000 2024",
-      "description": "原创记者且看且珍惜！如需买视频联系本号或者联系👉电报ID搜索 ❗️woo1123防止失联看关注列表",
+      "description": "原创记者且看且珍惜！如需买视频联系本号或者联系👉电报ID搜索 ❗️woo1123防止失联看关注列表  📍👉电报 目录群https://t.co/aITe9s2IgK",
       "entities": {
         "description": {
-          "urls": []
+          "urls": [
+            {
+              "display_url": "t.me/+_OlfBW1RzM0xN…",
+              "expanded_url": "https://t.me/+_OlfBW1RzM0xNzc1",
+              "indices": [
+                59,
+                82
+              ],
+              "url": "https://t.co/aITe9s2IgK"
+            }
+          ]
         }
       },
       "profileBannerUrl": "",
