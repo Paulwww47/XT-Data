@@ -1229,8 +1229,8 @@
           "urls": []
         }
       },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3322169433/1769875817",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2029423654241726464/pwSeyMqT_normal.jpg"
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3322169433/1772879956",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2030232899820355586/hiM5msa8_normal.jpg"
     }
   },
   {
@@ -2826,18 +2826,27 @@
       "name": "Louiewe卤蛋头",
       "screenName": "Louiewe123",
       "createdAt": "Sun Aug 29 08:06:08 +0000 2021",
-      "description": "不接推广，VX：LouieweLDT(有门槛） ————小卤蛋：微信复制链接➡️#小程序：//超牛品牌/8MeLDjCWaKVQxSw———————————《 王府秘史》 付费版请订阅➡️https://t.co/fJDMUgFjZs",
+      "description": "不接推广，VX：LouieweLDT(有门槛） ————小卤蛋：微信复制链接➡️ https://t.co/0z4fustAmG《 王府秘史》 付费版请订阅➡️https://t.co/fJDMUgFRP0",
       "entities": {
         "description": {
           "urls": [
             {
+              "display_url": "j.youzan.com/gOQ1oH",
+              "expanded_url": "https://j.youzan.com/gOQ1oH",
+              "indices": [
+                41,
+                64
+              ],
+              "url": "https://t.co/0z4fustAmG"
+            },
+            {
               "display_url": "fansone.co/Louiewe",
               "expanded_url": "https://fansone.co/Louiewe",
               "indices": [
-                94,
-                117
+                80,
+                103
               ],
-              "url": "https://t.co/fJDMUgFjZs"
+              "url": "https://t.co/fJDMUgFRP0"
             }
           ]
         }
