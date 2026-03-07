@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "file_name": "KaMdBQrMS1fUq7xw.mp4",
+    "user": {
+      "screen_name": "shemingyu",
+      "name": "你的梦"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2030354285209546752/vid/avc1/720x960/KaMdBQrMS1fUq7xw.mp4?tag=21",
+    "read_time": "2026-03-08T03:01:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 18591,
+      "timestamp": "2026-03-08T03:01:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3439179,
+      "size_mb": 3.28,
+      "timestamp": "2026-03-08T03:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "又给金主得吃了 https://t.co/qN8gaBIT11",
+    "publish_time": "2026-03-08T02:46:14"
+  }
+]
