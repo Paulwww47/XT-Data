@@ -1688,5 +1688,31 @@
     },
     "full_text": "被检查 https://t.co/iTj9cGVTdu",
     "publish_time": "2026-03-07T20:18:59"
+  },
+  {
+    "file_name": "HCz4O2LbwAANHDP.jpg",
+    "user": {
+      "screen_name": "wwxia8898",
+      "name": "罗夏 （上海）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HCz4O2LbwAANHDP.jpg",
+    "read_time": "2026-03-07T22:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 18585,
+      "timestamp": "2026-03-07T22:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 226499,
+      "size_mb": 0.22,
+      "timestamp": "2026-03-07T22:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "恢复训练，下周回，上海 https://t.co/6U5g6zpTsr",
+    "publish_time": "2026-03-07T21:12:57"
   }
 ]
