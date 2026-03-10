@@ -4726,7 +4726,7 @@
           "urls": []
         }
       },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1132163731041898496/1749543804",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1132163731041898496/1773131302",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2005900501821636608/5OTpl2W8_normal.jpg"
     }
   },
@@ -5558,6 +5558,22 @@
       },
       "profileBannerUrl": "",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1887077858855862273/sfgmUvyE_normal.jpg"
+    }
+  },
+  {
+    "restId": "1943445018561384454",
+    "legacy": {
+      "name": "zzzz",
+      "screenName": "zi80260",
+      "createdAt": "Thu Jul 10 22:59:52 +0000 2025",
+      "description": "",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1943445018561384454/1773111064",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2031201137706283009/86dWGasQ_normal.jpg"
     }
   },
   {
