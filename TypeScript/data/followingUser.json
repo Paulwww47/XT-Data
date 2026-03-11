@@ -3092,8 +3092,8 @@
           "urls": []
         }
       },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1908818131549577216/1767967931",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2009629228174921728/7y73mwAe_normal.jpg"
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2031552730469126146/Zpu0KAzc_normal.jpg"
     }
   },
   {
@@ -4164,35 +4164,6 @@
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1857877486450913280/1731789133",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2018886612596510720/0IAxwSvc_normal.jpg"
-    }
-  },
-  {
-    "restId": "2002413043070976000",
-    "legacy": {
-      "name": "Sev7en男神（随缘版",
-      "screenName": "sev7en1919",
-      "createdAt": "Sat Dec 20 16:17:49 +0000 2025",
-      "description": "一个不太正经的男主播 #深圳单男 #不卡性别 #啥都不卖 #v288",
-      "entities": {
-        "description": {
-          "urls": []
-        },
-        "url": {
-          "urls": [
-            {
-              "display_url": "fansone.co/Sev7en1919",
-              "expanded_url": "https://fansone.co/Sev7en1919",
-              "indices": [
-                0,
-                23
-              ],
-              "url": "https://t.co/PssvMyw99t"
-            }
-          ]
-        }
-      },
-      "profileBannerUrl": "",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2007866067964829696/o91lJeoY_normal.jpg"
     }
   },
   {
