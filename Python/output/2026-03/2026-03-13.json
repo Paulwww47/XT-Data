@@ -180,5 +180,31 @@
     },
     "full_text": "现在鸡吧都还很烫 https://t.co/5Tn6HKJxrA",
     "publish_time": "2026-03-13T00:45:19"
+  },
+  {
+    "file_name": "HDOc_YvWEAAKNbk.mp4",
+    "user": {
+      "screen_name": "Chris_SDD",
+      "name": "Chris"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/HDOc_YvWEAAKNbk.mp4",
+    "read_time": "2026-03-13T02:01:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 18936,
+      "timestamp": "2026-03-13T02:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 97862,
+      "size_mb": 0.09,
+      "timestamp": "2026-03-13T02:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "❄️💧 https://t.co/oAnmZ0Vklo",
+    "publish_time": "2026-03-13T01:03:52"
   }
 ]
