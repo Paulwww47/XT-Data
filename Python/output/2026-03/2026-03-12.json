@@ -882,5 +882,57 @@
     },
     "full_text": "周五空降🪂宁波一晚 周六可吗？ https://t.co/NJxtzc77gn",
     "publish_time": "2026-03-12T18:56:55"
+  },
+  {
+    "file_name": "HDNRA9tbQAEB8kL.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HDNRA9tbQAEB8kL.jpg",
+    "read_time": "2026-03-12T20:02:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 18906,
+      "timestamp": "2026-03-12T20:02:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 162203,
+      "size_mb": 0.15,
+      "timestamp": "2026-03-12T20:02:32",
+      "download_attempts": 0
+    },
+    "full_text": "sklow https://t.co/DaF95INsQ9",
+    "publish_time": "2026-03-12T19:31:42"
+  },
+  {
+    "file_name": "tXwe9l44nbjgClhB.mp4",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2032057985166688259/vid/avc1/720x1280/tXwe9l44nbjgClhB.mp4?tag=21",
+    "read_time": "2026-03-12T20:02:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 18907,
+      "timestamp": "2026-03-12T20:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 509245,
+      "size_mb": 0.49,
+      "timestamp": "2026-03-12T20:02:34",
+      "download_attempts": 0
+    },
+    "full_text": "很难不臭 https://t.co/61qkfO6oM8",
+    "publish_time": "2026-03-12T19:36:07"
   }
 ]
