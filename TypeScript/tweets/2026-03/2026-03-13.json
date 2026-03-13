@@ -191,5 +191,39 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2032201001034531136",
     "fullText": "https://t.co/FVK1sKe4d0",
     "publishTime": "2026-03-13T05:04:09"
+  },
+  {
+    "user": {
+      "screenName": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDPzPVlaIAAHTuY.jpg",
+      "https://pbs.twimg.com/media/HDPzPVkaQAAhEU4.jpg",
+      "https://pbs.twimg.com/media/HDPzPVmbQAESuPb.jpg",
+      "https://pbs.twimg.com/media/HDPzPVibQAMCp1x.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/junglewildwild/status/2032235307786256564",
+    "fullText": "https://t.co/SokVbnCB1L",
+    "publishTime": "2026-03-13T07:20:29"
+  },
+  {
+    "user": {
+      "screenName": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDPzSKAawAAMPfY.jpg",
+      "https://pbs.twimg.com/media/HDPzSKBa4AA6PPR.jpg",
+      "https://pbs.twimg.com/media/HDPzSKCbcAA0xKz.jpg",
+      "https://pbs.twimg.com/media/HDPzSKBbYAA0G9k.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/junglewildwild/status/2032235356087832629",
+    "fullText": "https://t.co/ZOYYSaClaF",
+    "publishTime": "2026-03-13T07:20:40"
   }
 ]
