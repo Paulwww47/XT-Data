@@ -102,5 +102,31 @@
     },
     "full_text": "三亚 https://t.co/9MHTO0w3UT",
     "publish_time": "2026-03-15T02:46:16"
+  },
+  {
+    "file_name": "HDZeg-ZaMAAmF3i.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HDZeg-ZaMAAmF3i.jpg",
+    "read_time": "2026-03-15T05:02:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 19106,
+      "timestamp": "2026-03-15T05:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 118709,
+      "size_mb": 0.11,
+      "timestamp": "2026-03-15T05:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/t4o8PS1fLa",
+    "publish_time": "2026-03-15T04:26:08"
   }
 ]
