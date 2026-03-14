@@ -104,5 +104,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2032916208329306180",
     "fullText": "https://t.co/t4o8PS1fLa",
     "publishTime": "2026-03-15T04:26:08"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDZn-FebcAAUoAT.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2032926603353936069",
+    "fullText": "https://t.co/hkE5V8EaGG",
+    "publishTime": "2026-03-15T05:07:26"
+  },
+  {
+    "user": {
+      "screenName": "lingxun180",
+      "name": "梁轩"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2032930978751197186/vid/avc1/720x1280/xrYJ2vD9cA5uSel8.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/lingxun180/status/2032931409686573391",
+    "fullText": "很久没看抹油了不是 https://t.co/lRS72uilPJ",
+    "publishTime": "2026-03-15T05:26:32"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDZs5dCaMAAsxRw.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2032932021434200532",
+    "fullText": "https://t.co/bXLj4rpmHn",
+    "publishTime": "2026-03-15T05:28:58"
   }
 ]
