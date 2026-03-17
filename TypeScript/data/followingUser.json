@@ -2453,6 +2453,22 @@
     }
   },
   {
+    "restId": "1031763990538375170",
+    "legacy": {
+      "name": "KIKO",
+      "screenName": "KIKO36147004",
+      "createdAt": "Tue Aug 21 04:44:39 +0000 2018",
+      "description": "深圳人，北京在读医学生，喜欢肌肉帅哥，不约",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1950901477855424512/7eBiySJH_normal.jpg"
+    }
+  },
+  {
     "restId": "1438159753637629953",
     "legacy": {
       "name": "指南怔",
