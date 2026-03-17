@@ -232,5 +232,31 @@
     },
     "full_text": "早上好 https://t.co/DiO329Cm4l",
     "publish_time": "2026-03-18T05:57:38"
+  },
+  {
+    "file_name": "Gta0LvZAxWiar8Aq.mp4",
+    "user": {
+      "screen_name": "iKwuen1111",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2034038756316168192/vid/avc1/720x1280/Gta0LvZAxWiar8Aq.mp4?tag=21",
+    "read_time": "2026-03-18T07:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 19272,
+      "timestamp": "2026-03-18T07:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 8283067,
+      "size_mb": 7.9,
+      "timestamp": "2026-03-18T07:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "又要上班 https://t.co/xt7sjBWtsE",
+    "publish_time": "2026-03-18T06:47:09"
   }
 ]
