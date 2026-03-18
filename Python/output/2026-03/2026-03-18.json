@@ -294,20 +294,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HDqL-MlbEAEBofl.jpg",
     "read_time": "2026-03-18T11:01:30",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2026-03-18T11:01:52",
-      "notification_sent": false
+      "success": true,
+      "message_id": 19276,
+      "timestamp": "2026-03-18T12:01:42"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 122841,
       "size_mb": 0.12,
-      "timestamp": "2026-03-18T11:01:31",
+      "timestamp": "2026-03-18T12:01:40",
       "download_attempts": 0
     },
     "full_text": "哇奥原来不止我有这种感觉🤣 https://t.co/VEbOc07fB2",
@@ -322,23 +320,99 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/2034094449480110088/vid/avc1/480x854/Rw2YIZIxqtqQnXA6.mp4?tag=14",
     "read_time": "2026-03-18T11:01:30",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2026-03-18T11:02:13",
-      "notification_sent": false
+      "success": true,
+      "message_id": 19277,
+      "timestamp": "2026-03-18T12:01:45"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 3230915,
       "size_mb": 3.08,
-      "timestamp": "2026-03-18T11:01:52",
+      "timestamp": "2026-03-18T12:01:42",
       "download_attempts": 0
     },
     "full_text": "【2026年3月18日】今日資源已經更新！以下視頻你們懂的！ https://t.co/L3FOLStvlM",
     "publish_time": "2026-03-18T10:28:25"
+  },
+  {
+    "file_name": "HDqX8qoagAA0Wfn.jpg",
+    "user": {
+      "screen_name": "growncz",
+      "name": "阿巴阿巴"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HDqX8qoagAA0Wfn.jpg",
+    "read_time": "2026-03-18T12:01:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 19278,
+      "timestamp": "2026-03-18T12:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 116018,
+      "size_mb": 0.11,
+      "timestamp": "2026-03-18T12:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "这周有没有搭子一起去🙋🏻‍♂️🙋🏻‍♂️ https://t.co/t0f9LdRW07",
+    "publish_time": "2026-03-18T11:10:59"
+  },
+  {
+    "file_name": "HDqZFVHaYAAWyYo.jpg",
+    "user": {
+      "screen_name": "Louiewe123",
+      "name": "Louiewe卤蛋头"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HDqZFVHaYAAWyYo.jpg",
+    "read_time": "2026-03-18T12:01:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 19279,
+      "timestamp": "2026-03-18T12:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 162635,
+      "size_mb": 0.16,
+      "timestamp": "2026-03-18T12:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "王府系列所有内容已更新完！完整版请访问：\nhttps://t.co/Sua7sAWkPn\n\n想要卤蛋头阳具的宝贝，在微信上搜索“超牛”小程序，或者：\nhttps://t.co/VHUeyZizoV https://t.co/ayXXxtqirF",
+    "publish_time": "2026-03-18T11:15:57"
+  },
+  {
+    "file_name": "HDqhm5nXQAA5lz6.jpg",
+    "user": {
+      "screen_name": "chounizadi2021",
+      "name": "男神传送门"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HDqhm5nXQAA5lz6.jpg",
+    "read_time": "2026-03-18T12:01:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 19280,
+      "timestamp": "2026-03-18T12:01:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 207073,
+      "size_mb": 0.2,
+      "timestamp": "2026-03-18T12:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "虽然应该是AI，但是真的很好看 https://t.co/bGwL5Jvrqt",
+    "publish_time": "2026-03-18T11:53:14"
   }
 ]
