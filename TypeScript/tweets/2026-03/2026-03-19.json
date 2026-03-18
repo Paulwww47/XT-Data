@@ -42,5 +42,35 @@
     "tweetUrl": "https://x.com/chuanzhang0320/status/2034340048649531745",
     "fullText": "依旧 #南宁 https://t.co/Rv4vGRf559",
     "publishTime": "2026-03-19T02:43:58"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDuJ0rlbQAAWHkL.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2034371202895229373",
+    "fullText": "midmid0214 https://t.co/SHQ4wqMQLQ",
+    "publishTime": "2026-03-19T04:47:46"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HDuJ6a6agAAptCV.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [
+      "http://mm.chocolate.mm"
+    ],
+    "tweetUrl": "https://x.com/eric_kk97/status/2034371301096534137",
+    "fullText": "https://t.co/ZbFgDoMva4 https://t.co/3aka4Tegu9",
+    "publishTime": "2026-03-19T04:48:09"
   }
 ]
