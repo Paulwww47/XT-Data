@@ -284,5 +284,61 @@
     },
     "full_text": "https://t.co/M3DTAVLD5q",
     "publish_time": "2026-03-18T07:02:45"
+  },
+  {
+    "file_name": "HDqL-MlbEAEBofl.jpg",
+    "user": {
+      "screen_name": "undefinedjy",
+      "name": "JY"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HDqL-MlbEAEBofl.jpg",
+    "read_time": "2026-03-18T11:01:30",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2026-03-18T11:01:52",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 122841,
+      "size_mb": 0.12,
+      "timestamp": "2026-03-18T11:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "哇奥原来不止我有这种感觉🤣 https://t.co/VEbOc07fB2",
+    "publish_time": "2026-03-18T10:18:42"
+  },
+  {
+    "file_name": "Rw2YIZIxqtqQnXA6.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2034094449480110088/vid/avc1/480x854/Rw2YIZIxqtqQnXA6.mp4?tag=14",
+    "read_time": "2026-03-18T11:01:30",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2026-03-18T11:02:13",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 3230915,
+      "size_mb": 3.08,
+      "timestamp": "2026-03-18T11:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年3月18日】今日資源已經更新！以下視頻你們懂的！ https://t.co/L3FOLStvlM",
+    "publish_time": "2026-03-18T10:28:25"
   }
 ]
