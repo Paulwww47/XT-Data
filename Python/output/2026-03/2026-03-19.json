@@ -581,10 +581,16 @@
     "url": "https://video.twimg.com/amplify_video/2034525334037770240/vid/avc1/720x1280/mRzzB1TGaJDC297E.mp4?tag=21",
     "read_time": "2026-03-19T15:01:34",
     "is_uploaded": false,
-    "upload_info": {},
+    "upload_info": {
+      "success": false,
+      "error_type": "max_download_attempts",
+      "message": "404 Client Error: Not Found for url: https://video.twimg.com/amplify_video/2034525334037770240/vid/avc1/720x1280/mRzzB1TGaJDC297E.mp4?tag=21",
+      "timestamp": "2026-03-20T02:01:05",
+      "notification_sent": true
+    },
     "is_downloaded": false,
     "download_info": {
-      "download_attempts": 9
+      "download_attempts": 10
     },
     "full_text": "👔西裝愛好者👔 https://t.co/kUrjKAvKyn",
     "publish_time": "2026-03-19T15:00:18"
