@@ -584,7 +584,7 @@
     "upload_info": {
       "success": false,
       "error_type": "max_download_attempts",
-      "message": "404 Client Error: Not Found for url: https://video.twimg.com/amplify_video/2034525334037770240/vid/avc1/720x1280/mRzzB1TGaJDC297E.mp4?tag=21",
+      "message": "连续下载失败10次",
       "timestamp": "2026-03-20T02:01:05",
       "notification_sent": true
     },
