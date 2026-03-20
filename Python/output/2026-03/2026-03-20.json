@@ -1158,14 +1158,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (69MB > 50MB)",
       "timestamp": "2026-03-20T19:01:50",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 72980133,
       "size_mb": 69.6,
-      "timestamp": "2026-03-20T19:01:50",
+      "timestamp": "2026-03-20T20:01:35",
       "download_attempts": 0
     },
     "full_text": "二月二了 挤奶记录📝下\n要玩的时候才发现玩具没电了，真的很扫兴，剪的乱七八糟的(  ⩌ - ⩌ ) https://t.co/ES1jiaG65u",
@@ -1186,14 +1186,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (86MB > 50MB)",
       "timestamp": "2026-03-20T19:01:58",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 90423497,
       "size_mb": 86.23,
-      "timestamp": "2026-03-20T19:01:58",
+      "timestamp": "2026-03-20T20:01:36",
       "download_attempts": 0
     },
     "full_text": "上次一边控一边玩奶子，到临界值停手玩奶子，想射射不出快感都集中在奶头上，到射的阶段很有快感后置的感觉，射完还很有感觉，肉棒还硬着想多射几次，多放了几次，4:20一次循环🔁 https://t.co/k3r9wasGNu",
@@ -1224,5 +1224,57 @@
     },
     "full_text": "https://t.co/2JCl71MmI8",
     "publish_time": "2026-03-20T18:48:25"
+  },
+  {
+    "file_name": "HD2bS0laEAA5zZJ.jpg",
+    "user": {
+      "screen_name": "KIKO36147004",
+      "name": "KIKO"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HD2bS0laEAA5zZJ.jpg",
+    "read_time": "2026-03-20T20:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 19413,
+      "timestamp": "2026-03-20T20:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 118091,
+      "size_mb": 0.11,
+      "timestamp": "2026-03-20T20:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/YzUSbnbTkM",
+    "publish_time": "2026-03-20T19:21:03"
+  },
+  {
+    "file_name": "HD2jPW0boAAwkg6.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HD2jPW0boAAwkg6.jpg",
+    "read_time": "2026-03-20T20:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 19414,
+      "timestamp": "2026-03-20T20:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 118408,
+      "size_mb": 0.11,
+      "timestamp": "2026-03-20T20:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "sp22d https://t.co/nJ9ys3uGOJ",
+    "publish_time": "2026-03-20T19:55:46"
   }
 ]
