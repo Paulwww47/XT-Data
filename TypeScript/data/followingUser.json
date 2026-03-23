@@ -2435,7 +2435,7 @@
       "name": "kidden",
       "screenName": "KIDDEN7777777",
       "createdAt": "Fri May 17 15:58:20 +0000 2024",
-      "description": "色情只是我写下的一首诗 💬한국어/日本語/Deutsch/English",
+      "description": "色情只是我写下的一首诗",
       "entities": {
         "description": {
           "urls": []
@@ -4681,7 +4681,7 @@
       "name": "uxy",
       "screenName": "uxy668",
       "createdAt": "Sun Jul 12 18:22:44 +0000 2020",
-      "description": "原创资源 \n预览图/购买 在 @uxyvip 🚪50米 不买不退 购买可抵",
+      "description": "原创分享",
       "entities": {
         "description": {
           "urls": []
@@ -5133,10 +5133,20 @@
       "name": "最爱交景",
       "screenName": "xngxng151257",
       "createdAt": "Sat Feb 14 04:26:13 +0000 2026",
-      "description": "直男的秘密❤️入群联系企鹅3935762894",
+      "description": "直男的秘密❤️入群联系qq3935762894/或https://t.co/ndhE5DtWTT",
       "entities": {
         "description": {
-          "urls": []
+          "urls": [
+            {
+              "display_url": "t.me/yewan2018",
+              "expanded_url": "http://t.me/yewan2018",
+              "indices": [
+                25,
+                48
+              ],
+              "url": "https://t.co/ndhE5DtWTT"
+            }
+          ]
         }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2022527711844163584/1773186317",
@@ -5466,7 +5476,7 @@
       "name": "直男控制",
       "screenName": "zhinandegounu",
       "createdAt": "Sun Jul 11 08:16:38 +0000 2021",
-      "description": "",
+      "description": "belong to @_Alphasamuel66",
       "entities": {
         "description": {
           "urls": []
