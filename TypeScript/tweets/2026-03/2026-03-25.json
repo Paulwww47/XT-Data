@@ -40,5 +40,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2036543031059636377",
     "fullText": "arnuphap_ril https://t.co/cAUAlADIVb",
     "publishTime": "2026-03-25T04:37:50"
+  },
+  {
+    "user": {
+      "screenName": "iKwuen1111",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2036548837670789123/vid/avc1/720x1280/xZFJPUuT9DDCd_Bt.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iKwuen1111/status/2036548972849012932",
+    "fullText": "硬醒 https://t.co/vAmDBE3BVA",
+    "publishTime": "2026-03-25T05:01:27"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HENHUtsaIAE_zTI.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2036549886192279645",
+    "fullText": "hgjg1207 https://t.co/PwciVoztrK",
+    "publishTime": "2026-03-25T05:05:04"
   }
 ]
