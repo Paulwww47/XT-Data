@@ -3760,6 +3760,22 @@
     }
   },
   {
+    "restId": "1459003888296607744",
+    "legacy": {
+      "name": "柏旭",
+      "screenName": "PAiXU99",
+      "createdAt": "Fri Nov 12 03:43:38 +0000 2021",
+      "description": "不接推广",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1459003888296607744/1755357900",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1465588715821043715/5pFX0uI0_normal.jpg"
+    }
+  },
+  {
     "restId": "3358064652",
     "legacy": {
       "name": "Paul",
