@@ -324,5 +324,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2036696739613470931",
     "fullText": "https://t.co/n5MIDmSMlR",
     "publishTime": "2026-03-25T14:48:37"
+  },
+  {
+    "user": {
+      "screenName": "XuwtoA",
+      "name": "y x"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2036705743882371072/vid/avc1/544x960/KgZxZ6wAMzoWTuOR.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/XuwtoA/status/2036705858558800345",
+    "fullText": "#飞机 https://t.co/MGDSXP0oWE",
+    "publishTime": "2026-03-25T15:24:51"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEPc62VaIAAb4jr.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2036714365148377374",
+    "fullText": "taguruh_ https://t.co/3HRogPIDmf",
+    "publishTime": "2026-03-25T15:58:39"
   }
 ]
