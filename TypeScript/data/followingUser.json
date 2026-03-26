@@ -615,10 +615,20 @@
       "name": "尼日利亚直男医美院长-莫莫",
       "screenName": "BlancaCarl80244",
       "createdAt": "Wed Sep 18 18:25:58 +0000 2024",
-      "description": "韩国指导医美！兼国内直男指导！🎣直男只接会员业务❗️升级会员群电报💰3️⃣0️⃣8️⃣独家原创（上百部视频，不限年限，每周更新，原创视频，直男95%露脸！同行和贩子勿扰）需有电报，需要推上私信我，注⚠️不定期删帖，长期转推点赞关注有福利机会！每日凌晨2点之前均可回复！",
+      "description": "韩国指导医美！兼国内直男指导！🎣直男只接会员业务❗️升级会员群电报💰3️⃣0️⃣8️⃣独家原创（上百部视频，不限年限，每周更新，原创视频，直男95%露脸！同行和贩子勿扰）需有电报联系👉 https://t.co/OwQsC04gEp注⚠️不定期删帖，长期转推点赞关注有福利机会！每日凌晨2点之前均可回复！",
       "entities": {
         "description": {
-          "urls": []
+          "urls": [
+            {
+              "display_url": "t.me/NRlyyMoMo",
+              "expanded_url": "https://t.me/NRlyyMoMo",
+              "indices": [
+                93,
+                116
+              ],
+              "url": "https://t.co/OwQsC04gEp"
+            }
+          ]
         }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1836471679675174913/1767548376",
@@ -1030,7 +1040,7 @@
       "name": "亲爱的小龙",
       "screenName": "DearxLong",
       "createdAt": "Sun May 25 03:26:00 +0000 2025",
-      "description": "Telegram: @DearxLong\nDouyin: @Dear.xLong（亲爱的小龙）\nBilibili：亲爱的小龙啊\nQQ：@DearxLong",
+      "description": "Telegram: DearxLong\nDouyin: Dear.xLong（亲爱的小龙）\nBilibili：DearxLong\nQQ：DearxLong\nV: DearxLong",
       "entities": {
         "description": {
           "urls": []
@@ -2762,10 +2772,23 @@
       "name": "Leon",
       "screenName": "Leon_pan999",
       "createdAt": "Tue May 09 04:44:16 +0000 2023",
-      "description": "欢迎口令红包支持🙃",
+      "description": "欢迎口令红包支持\nYou can support me by buying me a coffee⬇️",
       "entities": {
         "description": {
           "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "buymeacoffee.com/leonpan",
+              "expanded_url": "http://buymeacoffee.com/leonpan",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/c6niDOOYCw"
+            }
+          ]
         }
       },
       "profileBannerUrl": "",
@@ -4383,7 +4406,7 @@
       "name": "蔸仔一条",
       "screenName": "simon5148",
       "createdAt": "Sat Mar 19 11:46:59 +0000 2022",
-      "description": "锁、野外、天体、m，🉑合作拍摄🎬私信➕v",
+      "description": "锁、野外、天体、m爱好者",
       "entities": {
         "description": {
           "urls": []
