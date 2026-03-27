@@ -111,5 +111,20 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2037650707441226202",
     "fullText": "andrew_trn https://t.co/t5rzZxVHjO",
     "publishTime": "2026-03-28T05:59:21"
+  },
+  {
+    "user": {
+      "screenName": "tg1ctg",
+      "name": "一"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEc-eaeaYAAKLv3.jpg",
+      "https://pbs.twimg.com/media/HEc-eeYaoAASMUJ.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/tg1ctg/status/2037666088734052479",
+    "fullText": "Mono arts https://t.co/JosNf4DiCZ",
+    "publishTime": "2026-03-28T07:00:28"
   }
 ]
