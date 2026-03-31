@@ -136,5 +136,50 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2038788183652229288",
     "fullText": "bigjioo https://t.co/UOKgOemZeL",
     "publishTime": "2026-03-31T09:19:16"
+  },
+  {
+    "user": {
+      "screenName": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2038813831397507072/vid/avc1/720x1280/IdUuDO5jJZjXjYzN.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/BBoy1069/status/2038813884426137830",
+    "fullText": "【2026年3月31日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/YDK9lVCFKE",
+    "publishTime": "2026-03-31T11:01:24"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2038827291346870272/vid/avc1/720x900/j5aOYVXKkM1cTfr1.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/2038827377447555567",
+    "fullText": "https://t.co/CbY2s2ZxvP",
+    "publishTime": "2026-03-31T11:55:01"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEtfXj6agAA1Rhh.jpg",
+      "https://pbs.twimg.com/media/HEtfXj9aAAA0YZV.jpg",
+      "https://pbs.twimg.com/media/HEtfXhDbQAAaz2r.jpg",
+      "https://pbs.twimg.com/media/HEtfXhDbwAAArir.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/2038828163464409462",
+    "fullText": "https://t.co/yhugBuElik",
+    "publishTime": "2026-03-31T11:58:08"
   }
 ]
