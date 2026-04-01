@@ -76,5 +76,31 @@
     },
     "full_text": "脏白袜 踩小狗🐶 https://t.co/GOWBvdJPGd",
     "publish_time": "2026-04-02T00:48:45"
+  },
+  {
+    "file_name": "HE1gizeaUAAJN40.jpg",
+    "user": {
+      "screen_name": "kaka_lac",
+      "name": "kaka"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HE1gizeaUAAJN40.jpg",
+    "read_time": "2026-04-02T02:01:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20247,
+      "timestamp": "2026-04-02T02:01:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 132586,
+      "size_mb": 0.13,
+      "timestamp": "2026-04-02T02:01:04",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/qGTpOB9gBv",
+    "publish_time": "2026-04-02T01:20:04"
   }
 ]
