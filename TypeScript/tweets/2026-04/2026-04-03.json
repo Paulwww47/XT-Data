@@ -64,5 +64,48 @@
     "tweetUrl": "https://x.com/arthurz_xcx/status/2039761786166235451",
     "fullText": "ไม่ชอบกันหรอคับ 🥲",
     "publishTime": "2026-04-03T01:48:01"
+  },
+  {
+    "user": {
+      "screenName": "acheng21501864",
+      "name": "Wave"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HE62rpla8AABQkU.jpg",
+      "https://pbs.twimg.com/media/HE62rpraUAAbzje.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/acheng21501864/status/2039768583828619761",
+    "fullText": "day 5🔒晚睡的爸爸们有小骚🐶看#0m#骚狗 https://t.co/RXbsJpD09O",
+    "publishTime": "2026-04-03T02:15:02"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HE65yCHbMAANHEx.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2039771954677502039",
+    "fullText": "https://t.co/qSOEqQErL0",
+    "publishTime": "2026-04-03T02:28:25"
+  },
+  {
+    "user": {
+      "screenName": "inspiredPeng",
+      "name": "地空捣蛋"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2039773709452582912/vid/avc1/720x1280/mk8Cy6D6F-Ukb18o.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/inspiredPeng/status/2039773783096168871",
+    "fullText": "https://t.co/sZRi6roSwA",
+    "publishTime": "2026-04-03T02:35:41"
   }
 ]
