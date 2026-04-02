@@ -597,5 +597,20 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2039658888237355036",
     "fullText": "https://t.co/Gj9qGA75Rw",
     "publishTime": "2026-04-02T18:59:08"
+  },
+  {
+    "user": {
+      "screenName": "KevinLeeYoung92",
+      "name": "KevinLeeYoung"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HE5ldC8b0AE2TzA.jpg",
+      "https://pbs.twimg.com/media/HE5ldC9bEAAiBbF.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/KevinLeeYoung92/status/2039679244654248317",
+    "fullText": "https://t.co/VWMNj53aWe",
+    "publishTime": "2026-04-02T20:20:01"
   }
 ]
