@@ -1355,7 +1355,7 @@
           "urls": []
         }
       },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1558674751308337153/1767862699",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1558674751308337153/1775118552",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1979260127384354816/8zylXNJ2_normal.jpg"
     }
   },
@@ -4456,6 +4456,22 @@
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1234651214983331841/1590050352",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1936617194697170945/bag2x55Q_normal.jpg"
+    }
+  },
+  {
+    "restId": "1673819077427757058",
+    "legacy": {
+      "name": "松井美惠",
+      "screenName": "sjmh1988",
+      "createdAt": "Tue Jun 27 22:22:31 +0000 2023",
+      "description": "",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1673819077427757058/1698563665",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2037359582205620225/u6iyO8gn_normal.jpg"
     }
   },
   {
