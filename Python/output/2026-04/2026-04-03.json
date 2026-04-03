@@ -1870,5 +1870,31 @@
     },
     "full_text": "Hello Bali 🌴 https://t.co/zgJlpcAprN",
     "publish_time": "2026-04-03T22:36:26"
+  },
+  {
+    "file_name": "HE_URrdaoAAVqsJ.jpg",
+    "user": {
+      "screen_name": "snkrss01",
+      "name": "snkrss"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HE_URrdaoAAVqsJ.jpg",
+    "read_time": "2026-04-04T00:01:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20368,
+      "timestamp": "2026-04-04T00:01:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 99932,
+      "size_mb": 0.1,
+      "timestamp": "2026-04-04T00:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "恋爱滴滴 https://t.co/7mrsMDqeLY",
+    "publish_time": "2026-04-03T23:02:41"
   }
 ]
