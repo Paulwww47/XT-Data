@@ -1808,14 +1808,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (149MB > 50MB)",
       "timestamp": "2026-04-04T19:01:33",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 157180259,
       "size_mb": 149.9,
-      "timestamp": "2026-04-04T19:01:33",
+      "timestamp": "2026-04-04T20:01:02",
       "download_attempts": 0
     },
     "full_text": "·\n小哥真的不错👍@s_chan1992 ：“Laser with me 🔥🔥🔥\nFull video in onlyfans \nTelegram \nhttps://t.co/rpBIX2KjN2…” https://t.co/FfdFNrqnEo",
@@ -1976,5 +1976,57 @@
     },
     "full_text": "夏至系列 https://t.co/AVmhy5ADpF",
     "publish_time": "2026-04-04T18:49:30"
+  },
+  {
+    "file_name": "HFDwqoGagAAxdMQ.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFDwqoGagAAxdMQ.jpg",
+    "read_time": "2026-04-04T20:01:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20444,
+      "timestamp": "2026-04-04T20:01:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 105719,
+      "size_mb": 0.1,
+      "timestamp": "2026-04-04T20:01:02",
+      "download_attempts": 0
+    },
+    "full_text": "dearnelson https://t.co/A5pg2VimI0",
+    "publish_time": "2026-04-04T19:45:11"
+  },
+  {
+    "file_name": "HFDyUuUbAAAERJU.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFDyUuUbAAAERJU.jpg",
+    "read_time": "2026-04-04T20:01:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20445,
+      "timestamp": "2026-04-04T20:01:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 127186,
+      "size_mb": 0.12,
+      "timestamp": "2026-04-04T20:01:04",
+      "download_attempts": 0
+    },
+    "full_text": "anselm_cheng 🍆 https://t.co/f6yFkYGu3Q",
+    "publish_time": "2026-04-04T19:52:25"
   }
 ]
