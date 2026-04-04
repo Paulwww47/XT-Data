@@ -908,5 +908,31 @@
     },
     "full_text": "https://t.co/IB5ij2eufY",
     "publish_time": "2026-04-04T09:47:40"
+  },
+  {
+    "file_name": "HFB4KeAagAADcQ8.jpg",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFB4KeAagAADcQ8.jpg",
+    "read_time": "2026-04-04T11:00:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20404,
+      "timestamp": "2026-04-04T11:00:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 251730,
+      "size_mb": 0.24,
+      "timestamp": "2026-04-04T11:00:50",
+      "download_attempts": 0
+    },
+    "full_text": "😏 https://t.co/jjBLkJJkJh",
+    "publish_time": "2026-04-04T10:58:43"
   }
 ]
