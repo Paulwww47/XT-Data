@@ -700,5 +700,59 @@
     },
     "full_text": "GV视角 https://t.co/qgxqrziGu3",
     "publish_time": "2026-04-05T10:55:23"
+  },
+  {
+    "file_name": "CO68GonKnERjT-3P.mp4",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2040626995181289472/vid/avc1/720x1280/CO68GonKnERjT-3P.mp4?tag=21",
+    "read_time": "2026-04-05T12:01:01",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (104MB > 50MB)",
+      "timestamp": "2026-04-05T12:01:11",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 109145958,
+      "size_mb": 104.09,
+      "timestamp": "2026-04-05T12:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "玩奶子 搓棒子 射了个爽 https://t.co/t3W5CcRqeH",
+    "publish_time": "2026-04-05T11:08:14"
+  },
+  {
+    "file_name": "hVPEHE57vXQzPUOL.mp4",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2040636914211151872/vid/avc1/720x1280/hVPEHE57vXQzPUOL.mp4?tag=14",
+    "read_time": "2026-04-05T12:01:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20485,
+      "timestamp": "2026-04-05T12:01:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 26976798,
+      "size_mb": 25.73,
+      "timestamp": "2026-04-05T12:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "sadboy! https://t.co/MlCTDKNKPD",
+    "publish_time": "2026-04-05T11:49:12"
   }
 ]
