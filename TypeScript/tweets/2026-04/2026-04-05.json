@@ -607,5 +607,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2040744611359121713",
     "fullText": "https://t.co/x9goaGcEtX",
     "publishTime": "2026-04-05T18:53:25"
+  },
+  {
+    "user": {
+      "screenName": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFIyGEQbwAA8SiX.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Doraemonphoto/status/2040748675996283269",
+    "fullText": "原声上线 https://t.co/kHbDJFfC7c",
+    "publishTime": "2026-04-05T19:09:34"
+  },
+  {
+    "user": {
+      "screenName": "lailai6699",
+      "name": "lailai69"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFI19dFaQAAcYG-.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/lailai6699/status/2040752916143939990",
+    "fullText": "十幾年沒過著住飯店還要自己買水的生活了\n真是人窮命賤 https://t.co/5OHDGMp0Uw",
+    "publishTime": "2026-04-05T19:26:25"
   }
 ]

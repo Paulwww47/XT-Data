@@ -1274,5 +1274,57 @@
     },
     "full_text": "https://t.co/x9goaGcEtX",
     "publish_time": "2026-04-05T18:53:25"
+  },
+  {
+    "file_name": "HFIyGEQbwAA8SiX.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFIyGEQbwAA8SiX.jpg",
+    "read_time": "2026-04-05T20:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20506,
+      "timestamp": "2026-04-05T20:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 64279,
+      "size_mb": 0.06,
+      "timestamp": "2026-04-05T20:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "原声上线 https://t.co/kHbDJFfC7c",
+    "publish_time": "2026-04-05T19:09:34"
+  },
+  {
+    "file_name": "HFI19dFaQAAcYG-.jpg",
+    "user": {
+      "screen_name": "lailai6699",
+      "name": "lailai69"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFI19dFaQAAcYG-.jpg",
+    "read_time": "2026-04-05T20:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20507,
+      "timestamp": "2026-04-05T20:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 146031,
+      "size_mb": 0.14,
+      "timestamp": "2026-04-05T20:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "十幾年沒過著住飯店還要自己買水的生活了\n真是人窮命賤 https://t.co/5OHDGMp0Uw",
+    "publish_time": "2026-04-05T19:26:25"
   }
 ]
