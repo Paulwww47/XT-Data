@@ -1,0 +1,80 @@
+[
+  {
+    "file_name": "HFKIiKtaAAA0cWc.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFKIiKtaAAA0cWc.jpg",
+    "read_time": "2026-04-06T02:01:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20516,
+      "timestamp": "2026-04-06T02:01:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 168936,
+      "size_mb": 0.16,
+      "timestamp": "2026-04-06T02:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "司徒志林 https://t.co/4jlbWId1vp",
+    "publish_time": "2026-04-06T01:27:12"
+  },
+  {
+    "file_name": "HFKIiKubkAAOOeT.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFKIiKubkAAOOeT.jpg",
+    "read_time": "2026-04-06T02:01:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20517,
+      "timestamp": "2026-04-06T02:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 140740,
+      "size_mb": 0.13,
+      "timestamp": "2026-04-06T02:01:10",
+      "download_attempts": 0
+    },
+    "full_text": "司徒志林 https://t.co/4jlbWId1vp",
+    "publish_time": "2026-04-06T01:27:12"
+  },
+  {
+    "file_name": "HFKIiK3aoAARq1P.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFKIiK3aoAARq1P.jpg",
+    "read_time": "2026-04-06T02:01:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20518,
+      "timestamp": "2026-04-06T02:01:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 136300,
+      "size_mb": 0.13,
+      "timestamp": "2026-04-06T02:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "司徒志林 https://t.co/4jlbWId1vp",
+    "publish_time": "2026-04-06T01:27:12"
+  }
+]
