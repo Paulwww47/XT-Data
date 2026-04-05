@@ -1498,17 +1498,69 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (111MB > 50MB)",
       "timestamp": "2026-04-05T23:01:18",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 117208405,
       "size_mb": 111.78,
-      "timestamp": "2026-04-05T23:01:18",
+      "timestamp": "2026-04-06T00:01:10",
       "download_attempts": 0
     },
     "full_text": "hasansaab https://t.co/JGqSZZ0F9t",
     "publish_time": "2026-04-05T22:19:18"
+  },
+  {
+    "file_name": "HFJnOLcaAAAVznn.jpg",
+    "user": {
+      "screen_name": "MCdanbaifen",
+      "name": "猛吃蛋白粉🐯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFJnOLcaAAAVznn.jpg",
+    "read_time": "2026-04-06T00:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20514,
+      "timestamp": "2026-04-06T00:01:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 65256,
+      "size_mb": 0.06,
+      "timestamp": "2026-04-06T00:01:10",
+      "download_attempts": 0
+    },
+    "full_text": "🤏🤏🤏 https://t.co/DPYEv54r3d",
+    "publish_time": "2026-04-05T23:01:39"
+  },
+  {
+    "file_name": "HFJnONTbYAIpUuc.jpg",
+    "user": {
+      "screen_name": "MCdanbaifen",
+      "name": "猛吃蛋白粉🐯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFJnONTbYAIpUuc.jpg",
+    "read_time": "2026-04-06T00:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20515,
+      "timestamp": "2026-04-06T00:01:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 54111,
+      "size_mb": 0.05,
+      "timestamp": "2026-04-06T00:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "🤏🤏🤏 https://t.co/DPYEv54r3d",
+    "publish_time": "2026-04-05T23:01:39"
   }
 ]
