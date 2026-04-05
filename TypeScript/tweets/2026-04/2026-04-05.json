@@ -484,5 +484,31 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2040710776214921218",
     "fullText": "magaman70 https://t.co/NvPxeqIdBa",
     "publishTime": "2026-04-05T16:38:58"
+  },
+  {
+    "user": {
+      "screenName": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Forestwoodwood/status/2040720661581348983",
+    "fullText": "@SilverArtMan Good news is He already came back👉📷\nSilverArtMan AGI\n@SilverArtManAGI",
+    "publishTime": "2026-04-05T17:18:15"
+  },
+  {
+    "user": {
+      "screenName": "wwxia8898",
+      "name": "罗夏 （上海）"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2040723212208889856/vid/avc1/720x1280/hgJTVgWXapE_3I6a.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/wwxia8898/status/2040723336683233665",
+    "fullText": "上海一周12号，深圳，待定 https://t.co/LVOS4Cy42t",
+    "publishTime": "2026-04-05T17:28:52"
   }
 ]
