@@ -579,5 +579,35 @@
     "tweetUrl": "https://x.com/JAX23632335/status/2041153561225220346",
     "fullText": "兩種角度一次滿足 https://t.co/lKHc1dylml",
     "publishTime": "2026-04-06T21:58:26"
+  },
+  {
+    "user": {
+      "screenName": "caili324",
+      "name": "广州-健壮Top1"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFOmzsLbsAEKIbs.jpg",
+      "https://pbs.twimg.com/media/HFOmzsJaAAAMnd9.jpg",
+      "https://pbs.twimg.com/media/HFOmzsKaMAASOGc.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/caili324/status/2041158469802459615",
+    "fullText": "💴🤝 https://t.co/zaf8GjpMbR",
+    "publishTime": "2026-04-06T22:17:56"
+  },
+  {
+    "user": {
+      "screenName": "caili324",
+      "name": "广州-健壮Top1"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2041158764477427712/vid/avc1/590x1280/eRHnjkEKJsEfMKvP.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/caili324/status/2041158830684537294",
+    "fullText": "来个野战 https://t.co/FOzXfODYTc",
+    "publishTime": "2026-04-06T22:19:22"
   }
 ]
