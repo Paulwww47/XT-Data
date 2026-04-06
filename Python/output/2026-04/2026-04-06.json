@@ -1730,14 +1730,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (56MB > 50MB)",
       "timestamp": "2026-04-07T00:03:14",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 59260144,
       "size_mb": 56.51,
-      "timestamp": "2026-04-07T00:03:14",
+      "timestamp": "2026-04-07T01:01:55",
       "download_attempts": 0
     },
     "full_text": "#五套 #打桩  #内设 https://t.co/X6MK2bNgV7",
