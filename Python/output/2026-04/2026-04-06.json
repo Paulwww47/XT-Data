@@ -674,5 +674,31 @@
     },
     "full_text": "https://t.co/dKW8QCiDpo",
     "publish_time": "2026-04-06T10:10:46"
+  },
+  {
+    "file_name": "229dAgkVKS70pNz4.mp4",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2041002560497324032/vid/avc1/1280x720/229dAgkVKS70pNz4.mp4?tag=21",
+    "read_time": "2026-04-06T12:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20542,
+      "timestamp": "2026-04-06T12:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2025423,
+      "size_mb": 1.93,
+      "timestamp": "2026-04-06T12:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "大腿训练 https://t.co/oKBWiKwz6u",
+    "publish_time": "2026-04-06T11:58:43"
   }
 ]
