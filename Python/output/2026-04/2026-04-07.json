@@ -128,5 +128,31 @@
     },
     "full_text": "小小的也很可爱 https://t.co/sxBEwQbVwX",
     "publish_time": "2026-04-07T00:27:26"
+  },
+  {
+    "file_name": "HFPUvGTbsAAyDmz.jpg",
+    "user": {
+      "screen_name": "KIDDEN7777777",
+      "name": "kidden"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFPUvGTbsAAyDmz.jpg",
+    "read_time": "2026-04-07T02:01:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20587,
+      "timestamp": "2026-04-07T02:01:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 121510,
+      "size_mb": 0.12,
+      "timestamp": "2026-04-07T02:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "🐨 https://t.co/fjGBJydovt",
+    "publish_time": "2026-04-07T01:38:37"
   }
 ]
