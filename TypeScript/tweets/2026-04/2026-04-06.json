@@ -380,5 +380,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2041093163520274847",
     "fullText": "rj_622 https://t.co/N69plVePyq",
     "publishTime": "2026-04-06T17:58:26"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFNwO3OboAANrDV.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2041098461064646877",
+    "fullText": "https://t.co/kXI53ITn7F",
+    "publishTime": "2026-04-06T18:19:29"
+  },
+  {
+    "user": {
+      "screenName": "1woxnr1",
+      "name": "1woxnr1"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2041102910831104000/pu/vid/avc1/720x960/q6WXU-vAgiha531O.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/1woxnr1/status/2041102926438101374",
+    "fullText": "展示 https://t.co/qdshqcrs7H",
+    "publishTime": "2026-04-06T18:37:14"
+  },
+  {
+    "user": {
+      "screenName": "RuiHengJin",
+      "name": "H."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2041107001976193024/vid/avc1/720x1080/XC9onhMDbDfm4tUm.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/RuiHengJin/status/2041107071295435169",
+    "fullText": "排不出来🥵 https://t.co/UQS1E44Hn8",
+    "publishTime": "2026-04-06T18:53:42"
   }
 ]
