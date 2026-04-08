@@ -100,5 +100,33 @@
     "tweetUrl": "https://x.com/XuwtoA/status/2041953554890682484",
     "fullText": "露脸完整版看主页👀 https://t.co/ZlsMoEvDUf",
     "publishTime": "2026-04-09T02:57:19"
+  },
+  {
+    "user": {
+      "screenName": "xiguaultra",
+      "name": "野西瓜"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFZ7Zr9akAAA-aY.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/xiguaultra/status/2041955170708599164",
+    "fullText": "加油吧小猴子 https://t.co/pmS3glba9r",
+    "publishTime": "2026-04-09T03:03:45"
+  },
+  {
+    "user": {
+      "screenName": "lailai6699",
+      "name": "lailai69"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2041963258501091329/pu/vid/avc1/720x1280/WnBTY2zOPS3s8WWb.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/lailai6699/status/2041963281032868180",
+    "fullText": "不二家的香蕉牛奶浴，我放太少了 https://t.co/jHfkuLomlP",
+    "publishTime": "2026-04-09T03:35:58"
   }
 ]
