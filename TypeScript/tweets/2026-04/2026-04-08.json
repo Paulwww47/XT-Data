@@ -248,5 +248,33 @@
     "tweetUrl": "https://x.com/toplcjfjv/status/2041651562590908655",
     "fullText": "有氧運動好重要 https://t.co/WegZ3aRQz4",
     "publishTime": "2026-04-08T06:57:19"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2041656182474170368/vid/avc1/720x1280/syGi7-dHaNe0xvb9.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/2041656273721291007",
+    "fullText": "https://t.co/UojrF4Five",
+    "publishTime": "2026-04-08T07:16:02"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GieI89saIAA3H5D.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/2041656335671169418",
+    "fullText": "https://t.co/dkzoVnut4y",
+    "publishTime": "2026-04-08T07:16:17"
   }
 ]

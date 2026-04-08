@@ -752,5 +752,49 @@
     },
     "full_text": "有氧運動好重要 https://t.co/WegZ3aRQz4",
     "publish_time": "2026-04-08T06:57:19"
+  },
+  {
+    "file_name": "syGi7-dHaNe0xvb9.mp4",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2041656182474170368/vid/avc1/720x1280/syGi7-dHaNe0xvb9.mp4?tag=21",
+    "read_time": "2026-04-08T08:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20716,
+      "timestamp": "2026-04-08T08:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 6983295,
+      "size_mb": 6.66,
+      "timestamp": "2026-04-08T08:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/UojrF4Five",
+    "publish_time": "2026-04-08T07:16:02"
+  },
+  {
+    "file_name": "GieI89saIAA3H5D.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GieI89saIAA3H5D.jpg",
+    "read_time": "2026-04-08T08:01:31",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": false,
+    "download_info": {
+      "download_attempts": 1
+    },
+    "full_text": "https://t.co/dkzoVnut4y",
+    "publish_time": "2026-04-08T07:16:17"
   }
 ]
