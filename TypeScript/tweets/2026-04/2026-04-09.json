@@ -46,5 +46,19 @@
     "tweetUrl": "https://x.com/ran9592/status/2041916279934845043",
     "fullText": "https://t.co/LSl3huOd39",
     "publishTime": "2026-04-09T00:29:12"
+  },
+  {
+    "user": {
+      "screenName": "kaka_lac",
+      "name": "kaka"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2041932593361571840/vid/avc1/720x1280/4l-4LmWl0hD8Gxml.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/kaka_lac/status/2041932649791680872",
+    "fullText": "https://t.co/G1HkcKELSv",
+    "publishTime": "2026-04-09T01:34:15"
   }
 ]
