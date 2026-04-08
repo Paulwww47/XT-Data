@@ -364,6 +364,32 @@
     "publish_time": "2026-04-08T00:59:06"
   },
   {
+    "file_name": "HFUhjEsa8AAH0Nd.jpg",
+    "user": {
+      "screen_name": "PiTaiYi",
+      "name": "太一不乖"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFUhjEsa8AAH0Nd.jpg",
+    "read_time": "2026-04-08T11:02:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20723,
+      "timestamp": "2026-04-08T11:02:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 65713,
+      "size_mb": 0.06,
+      "timestamp": "2026-04-08T11:02:13",
+      "download_attempts": 0
+    },
+    "full_text": "金主能看的就是不一样的 https://t.co/Wenw7GeDF7",
+    "publish_time": "2026-04-08T01:52:41"
+  },
+  {
     "file_name": "8pYVHomGFGFWlvGA.mp4",
     "user": {
       "screen_name": "SPHYNX688",
@@ -788,11 +814,19 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/GieI89saIAA3H5D.jpg",
     "read_time": "2026-04-08T08:01:31",
-    "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": false,
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20724,
+      "timestamp": "2026-04-08T11:02:16"
+    },
+    "is_downloaded": true,
     "download_info": {
-      "download_attempts": 3
+      "download_attempts": 0,
+      "success": true,
+      "size": 268778,
+      "size_mb": 0.26,
+      "timestamp": "2026-04-08T11:02:14"
     },
     "full_text": "https://t.co/dkzoVnut4y",
     "publish_time": "2026-04-08T07:16:17"
@@ -968,14 +1002,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (99MB > 50MB)",
       "timestamp": "2026-04-08T10:01:46",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 104746368,
       "size_mb": 99.89,
-      "timestamp": "2026-04-08T10:01:46",
+      "timestamp": "2026-04-08T11:02:16",
       "download_attempts": 0
     },
     "full_text": "·\n[VLOG] 男模Moon SUUNG  DAE 在摄影工作室IG 🆔@ studio_helios ｜\n\n小哥自己的IG 🆔 sungdaehada https://t.co/eCaQKzF2aD",
