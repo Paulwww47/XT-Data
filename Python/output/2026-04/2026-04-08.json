@@ -1264,14 +1264,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (58MB > 50MB)",
       "timestamp": "2026-04-08T16:02:04",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 60934199,
       "size_mb": 58.11,
-      "timestamp": "2026-04-08T16:02:04",
+      "timestamp": "2026-04-08T17:01:13",
       "download_attempts": 0
     },
     "full_text": "Hello～有在自己發文或轉發色色內容的你們👀\n記得先做這個設定！\n\n👉 設定與支援 → 隱私和安全\n👉 滑到「你的貼文（Your posts）」\n👉 開啟「標記你發布的媒體為可能包含敏感內容」\n\n⚠️最近審查越來越嚴，想一直開心看色色185，就快去確認有沒有打開！\n\n還有～平常發自己的內容 https://t.co/QI0Kfv8Ske",
@@ -1328,5 +1328,265 @@
     },
     "full_text": "james_shih510 https://t.co/AewedjngWd",
     "publish_time": "2026-04-08T15:48:24"
+  },
+  {
+    "file_name": "HFXkUfDa8AIlniO.jpg",
+    "user": {
+      "screen_name": "arthurz_xcx",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFXkUfDa8AIlniO.jpg",
+    "read_time": "2026-04-08T17:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20736,
+      "timestamp": "2026-04-08T17:01:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 38496,
+      "size_mb": 0.04,
+      "timestamp": "2026-04-08T17:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "อีพวกจะเทย จะแปลงเพศมีบัตรแปลงเพศยัง https://t.co/F3YfW4uYLa",
+    "publish_time": "2026-04-08T16:03:38"
+  },
+  {
+    "file_name": "HFXmnuzakAA02ba.jpg",
+    "user": {
+      "screen_name": "wangsan82l",
+      "name": "王利华的鼠标"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFXmnuzakAA02ba.jpg",
+    "read_time": "2026-04-08T17:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20737,
+      "timestamp": "2026-04-08T17:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 200429,
+      "size_mb": 0.19,
+      "timestamp": "2026-04-08T17:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "我梦想 https://t.co/YvXmOHvWjy",
+    "publish_time": "2026-04-08T16:13:43"
+  },
+  {
+    "file_name": "HFXsnXza8AUkwe4.jpg",
+    "user": {
+      "screen_name": "chuanzhang0320",
+      "name": "Appetency."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFXsnXza8AUkwe4.jpg",
+    "read_time": "2026-04-08T17:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20738,
+      "timestamp": "2026-04-08T17:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 121733,
+      "size_mb": 0.12,
+      "timestamp": "2026-04-08T17:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/m7Kwd8QsJ5",
+    "publish_time": "2026-04-08T16:39:55"
+  },
+  {
+    "file_name": "HgBONTnCzwgQ8eQB.mp4",
+    "user": {
+      "screen_name": "azzd555",
+      "name": "我要洗澡"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2041798814500319233/vid/avc1/720x1280/HgBONTnCzwgQ8eQB.mp4?tag=14",
+    "read_time": "2026-04-08T17:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20739,
+      "timestamp": "2026-04-08T17:01:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5881337,
+      "size_mb": 5.61,
+      "timestamp": "2026-04-08T17:01:19",
+      "download_attempts": 0
+    },
+    "full_text": "刚减脂成功的肌肉男大190\n蛮可爱的\n喜欢的🉑进电报 https://t.co/G6DJm2EamZ",
+    "publish_time": "2026-04-08T16:43:55"
+  },
+  {
+    "file_name": "2GMor7ynIrIJhmlN.mp4",
+    "user": {
+      "screen_name": "azzd555",
+      "name": "我要洗澡"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2041798814261301249/vid/avc1/720x1280/2GMor7ynIrIJhmlN.mp4?tag=14",
+    "read_time": "2026-04-08T17:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20740,
+      "timestamp": "2026-04-08T17:01:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5106978,
+      "size_mb": 4.87,
+      "timestamp": "2026-04-08T17:01:24",
+      "download_attempts": 0
+    },
+    "full_text": "刚减脂成功的肌肉男大190\n蛮可爱的\n喜欢的🉑进电报 https://t.co/G6DJm2EamZ",
+    "publish_time": "2026-04-08T16:43:55"
+  },
+  {
+    "file_name": "HFXtnvWa8AMWfUL.jpg",
+    "user": {
+      "screen_name": "azzd555",
+      "name": "我要洗澡"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFXtnvWa8AMWfUL.jpg",
+    "read_time": "2026-04-08T17:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20741,
+      "timestamp": "2026-04-08T17:01:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 51678,
+      "size_mb": 0.05,
+      "timestamp": "2026-04-08T17:01:26",
+      "download_attempts": 0
+    },
+    "full_text": "175肌肉男大\n喜欢🉑进电报 https://t.co/o2tzf8z8IG",
+    "publish_time": "2026-04-08T16:44:50"
+  },
+  {
+    "file_name": "CPiSqMu6GST3bJTM.mp4",
+    "user": {
+      "screen_name": "azzd555",
+      "name": "我要洗澡"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2041799272837083136/vid/avc1/720x1280/CPiSqMu6GST3bJTM.mp4?tag=14",
+    "read_time": "2026-04-08T17:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20742,
+      "timestamp": "2026-04-08T17:01:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2438793,
+      "size_mb": 2.33,
+      "timestamp": "2026-04-08T17:01:26",
+      "download_attempts": 0
+    },
+    "full_text": "175肌肉男大\n喜欢🉑进电报 https://t.co/o2tzf8z8IG",
+    "publish_time": "2026-04-08T16:44:50"
+  },
+  {
+    "file_name": "rtL-qmQvqUUxFNuI.mp4",
+    "user": {
+      "screen_name": "azzd555",
+      "name": "我要洗澡"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2041799271532634112/vid/avc1/720x1280/rtL-qmQvqUUxFNuI.mp4?tag=14",
+    "read_time": "2026-04-08T17:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20743,
+      "timestamp": "2026-04-08T17:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1484433,
+      "size_mb": 1.42,
+      "timestamp": "2026-04-08T17:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "175肌肉男大\n喜欢🉑进电报 https://t.co/o2tzf8z8IG",
+    "publish_time": "2026-04-08T16:44:50"
+  },
+  {
+    "file_name": "HFXugdWaMAAMGt9.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFXugdWaMAAMGt9.jpg",
+    "read_time": "2026-04-08T17:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20744,
+      "timestamp": "2026-04-08T17:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 112782,
+      "size_mb": 0.11,
+      "timestamp": "2026-04-08T17:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Q9NbPExkv4",
+    "publish_time": "2026-04-08T16:48:09"
+  },
+  {
+    "file_name": "HFXuixla8AEFtkb.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFXuixla8AEFtkb.jpg",
+    "read_time": "2026-04-08T17:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20745,
+      "timestamp": "2026-04-08T17:01:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 136598,
+      "size_mb": 0.13,
+      "timestamp": "2026-04-08T17:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/LKNvjIu5FO",
+    "publish_time": "2026-04-08T16:48:19"
   }
 ]
