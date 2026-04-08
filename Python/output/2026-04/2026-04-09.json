@@ -258,5 +258,57 @@
     },
     "full_text": "https://t.co/G1HkcKELSv",
     "publish_time": "2026-04-09T01:34:15"
+  },
+  {
+    "file_name": "HFZyG4La8AE9K1X.jpg",
+    "user": {
+      "screen_name": "Exp_lam",
+      "name": "~Exp(λ)"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFZyG4La8AE9K1X.jpg",
+    "read_time": "2026-04-09T03:01:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20784,
+      "timestamp": "2026-04-09T03:01:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 67365,
+      "size_mb": 0.06,
+      "timestamp": "2026-04-09T03:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/LLGFWuqf6r",
+    "publish_time": "2026-04-09T02:23:10"
+  },
+  {
+    "file_name": "foMCCzgVDZnWuwtM.mp4",
+    "user": {
+      "screen_name": "XuwtoA",
+      "name": "y x"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2041953480433397762/vid/avc1/720x1280/foMCCzgVDZnWuwtM.mp4?tag=21",
+    "read_time": "2026-04-09T03:01:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20785,
+      "timestamp": "2026-04-09T03:01:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1065889,
+      "size_mb": 1.02,
+      "timestamp": "2026-04-09T03:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "露脸完整版看主页👀 https://t.co/ZlsMoEvDUf",
+    "publish_time": "2026-04-09T02:57:19"
   }
 ]
