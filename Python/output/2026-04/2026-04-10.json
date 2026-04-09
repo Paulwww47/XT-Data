@@ -518,5 +518,57 @@
     },
     "full_text": "handydrive https://t.co/qaqj1yn9If",
     "publish_time": "2026-04-10T05:02:24"
+  },
+  {
+    "file_name": "HFft_O4bQAMAj2Z.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFft_O4bQAMAj2Z.jpg",
+    "read_time": "2026-04-10T07:01:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20897,
+      "timestamp": "2026-04-10T07:01:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 158865,
+      "size_mb": 0.15,
+      "timestamp": "2026-04-10T07:01:26",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/6er9AEbJui",
+    "publish_time": "2026-04-10T06:02:51"
+  },
+  {
+    "file_name": "HFfw2llaQAAa-g_.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFfw2llaQAAa-g_.jpg",
+    "read_time": "2026-04-10T07:01:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20898,
+      "timestamp": "2026-04-10T07:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 123826,
+      "size_mb": 0.12,
+      "timestamp": "2026-04-10T07:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/bPZKVKMjT0",
+    "publish_time": "2026-04-10T06:15:22"
   }
 ]
