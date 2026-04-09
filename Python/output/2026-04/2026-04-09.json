@@ -1600,14 +1600,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (182MB > 50MB)",
       "timestamp": "2026-04-09T17:01:43",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 191544642,
       "size_mb": 182.67,
-      "timestamp": "2026-04-09T17:01:43",
+      "timestamp": "2026-04-09T18:01:40",
       "download_attempts": 0
     },
     "full_text": "the prince of edging https://t.co/MUqiedhiBC",
@@ -1716,5 +1716,291 @@
     },
     "full_text": "Bicol milker 系列 https://t.co/Y8Y20YplqQ",
     "publish_time": "2026-04-09T16:44:29"
+  },
+  {
+    "file_name": "HFc7ptPaQAAG_0Y.jpg",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFc7ptPaQAAG_0Y.jpg",
+    "read_time": "2026-04-09T18:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20839,
+      "timestamp": "2026-04-09T18:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 184009,
+      "size_mb": 0.18,
+      "timestamp": "2026-04-09T18:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "买了新袜子 睡醒不要乱玩～ https://t.co/4R0hb7D2dE",
+    "publish_time": "2026-04-09T17:03:43"
+  },
+  {
+    "file_name": "HFc7oSObUAAgHs8.jpg",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFc7oSObUAAgHs8.jpg",
+    "read_time": "2026-04-09T18:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20840,
+      "timestamp": "2026-04-09T18:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 66072,
+      "size_mb": 0.06,
+      "timestamp": "2026-04-09T18:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "买了新袜子 睡醒不要乱玩～ https://t.co/4R0hb7D2dE",
+    "publish_time": "2026-04-09T17:03:43"
+  },
+  {
+    "file_name": "HFc7psdaIAAAxxL.jpg",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFc7psdaIAAAxxL.jpg",
+    "read_time": "2026-04-09T18:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20841,
+      "timestamp": "2026-04-09T18:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 148650,
+      "size_mb": 0.14,
+      "timestamp": "2026-04-09T18:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "买了新袜子 睡醒不要乱玩～ https://t.co/4R0hb7D2dE",
+    "publish_time": "2026-04-09T17:03:43"
+  },
+  {
+    "file_name": "HFc7oQybwAAzWHv.jpg",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFc7oQybwAAzWHv.jpg",
+    "read_time": "2026-04-09T18:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20842,
+      "timestamp": "2026-04-09T18:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 129683,
+      "size_mb": 0.12,
+      "timestamp": "2026-04-09T18:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "买了新袜子 睡醒不要乱玩～ https://t.co/4R0hb7D2dE",
+    "publish_time": "2026-04-09T17:03:43"
+  },
+  {
+    "file_name": "FtWANPCbFmQtAHsu.mp4",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2042166551718354944/pu/vid/avc1/720x1280/FtWANPCbFmQtAHsu.mp4?tag=12",
+    "read_time": "2026-04-09T18:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20843,
+      "timestamp": "2026-04-09T18:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7660200,
+      "size_mb": 7.31,
+      "timestamp": "2026-04-09T18:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "总觉得隔着内裤射更有感觉 https://t.co/dzgZjejjdH",
+    "publish_time": "2026-04-09T17:04:01"
+  },
+  {
+    "file_name": "A7c5aFpwrRiKQF_f.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2042160745941815296/vid/avc1/608x1080/A7c5aFpwrRiKQF_f.mp4?tag=21",
+    "read_time": "2026-04-09T18:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20844,
+      "timestamp": "2026-04-09T18:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 42431644,
+      "size_mb": 40.47,
+      "timestamp": "2026-04-09T18:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "chen90boys \ntelegram群封了 现在推特多更一些 https://t.co/NUJVZHMiuX",
+    "publish_time": "2026-04-09T17:26:16"
+  },
+  {
+    "file_name": "HFdGDspbAAAXEIB.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFdGDspbAAAXEIB.jpg",
+    "read_time": "2026-04-09T18:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20845,
+      "timestamp": "2026-04-09T18:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 133633,
+      "size_mb": 0.13,
+      "timestamp": "2026-04-09T18:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ePoU7tP8JM",
+    "publish_time": "2026-04-09T17:49:10"
+  },
+  {
+    "file_name": "HFdGDsxboAAXRWD.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFdGDsxboAAXRWD.jpg",
+    "read_time": "2026-04-09T18:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20846,
+      "timestamp": "2026-04-09T18:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 183651,
+      "size_mb": 0.18,
+      "timestamp": "2026-04-09T18:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ePoU7tP8JM",
+    "publish_time": "2026-04-09T17:49:10"
+  },
+  {
+    "file_name": "HFdGDspaIAIyuz7.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFdGDspaIAIyuz7.jpg",
+    "read_time": "2026-04-09T18:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20847,
+      "timestamp": "2026-04-09T18:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 171718,
+      "size_mb": 0.16,
+      "timestamp": "2026-04-09T18:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ePoU7tP8JM",
+    "publish_time": "2026-04-09T17:49:10"
+  },
+  {
+    "file_name": "HFdGDsqbIAABVNT.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFdGDsqbIAABVNT.jpg",
+    "read_time": "2026-04-09T18:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20848,
+      "timestamp": "2026-04-09T18:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 138321,
+      "size_mb": 0.13,
+      "timestamp": "2026-04-09T18:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ePoU7tP8JM",
+    "publish_time": "2026-04-09T17:49:10"
+  },
+  {
+    "file_name": "HFdG9XHaAAAYgo8.jpg",
+    "user": {
+      "screen_name": "max06734521",
+      "name": "🪳大王🪳"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFdG9XHaAAAYgo8.jpg",
+    "read_time": "2026-04-09T18:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20849,
+      "timestamp": "2026-04-09T18:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 109049,
+      "size_mb": 0.1,
+      "timestamp": "2026-04-09T18:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "大汗脚浸了3天的臭袜跟兜着我jb全是精液腥臊味的内裤，希望你不要熏吐了 https://t.co/nzKmHARorO",
+    "publish_time": "2026-04-09T17:53:15"
   }
 ]
