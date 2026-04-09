@@ -1379,32 +1379,6 @@
     }
   },
   {
-    "restId": "1982189099382685696",
-    "legacy": {
-      "name": "菠萝🍍",
-      "screenName": "FerrimanLo15897",
-      "createdAt": "Sat Oct 25 20:54:44 +0000 2025",
-      "description": "原创TP和采访博主｜预览群https://t.co/P2Ul9u0GBw",
-      "entities": {
-        "description": {
-          "urls": [
-            {
-              "display_url": "t.me/+H48CjSgP4cRjZ…",
-              "expanded_url": "https://t.me/+H48CjSgP4cRjZGQx",
-              "indices": [
-                13,
-                36
-              ],
-              "url": "https://t.co/P2Ul9u0GBw"
-            }
-          ]
-        }
-      },
-      "profileBannerUrl": "",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1991556894344036353/nGj99QR6_normal.jpg"
-    }
-  },
-  {
     "restId": "1961403194741067779",
     "legacy": {
       "name": "Yuki采访88号",
