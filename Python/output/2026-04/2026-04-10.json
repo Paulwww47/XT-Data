@@ -1814,14 +1814,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (84MB > 50MB)",
       "timestamp": "2026-04-11T00:01:21",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 88192025,
       "size_mb": 84.11,
-      "timestamp": "2026-04-11T00:01:21",
+      "timestamp": "2026-04-11T01:01:23",
       "download_attempts": 0
     },
     "full_text": "kaosk12 凯 https://t.co/POvjoX4t6n",
