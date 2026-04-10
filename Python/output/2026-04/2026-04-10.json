@@ -1758,14 +1758,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (52MB > 50MB)",
       "timestamp": "2026-04-10T23:01:26",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 55233206,
       "size_mb": 52.67,
-      "timestamp": "2026-04-10T23:01:26",
+      "timestamp": "2026-04-11T00:01:09",
       "download_attempts": 0
     },
     "full_text": "svrces https://t.co/fuplHXT1SB",
@@ -1786,17 +1786,149 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (136MB > 50MB)",
       "timestamp": "2026-04-10T23:01:39",
+      "notification_sent": true
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 143248014,
+      "size_mb": 136.61,
+      "timestamp": "2026-04-11T00:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "凯 （kaosk12） https://t.co/MlW3XAGLb1",
+    "publish_time": "2026-04-10T22:37:20"
+  },
+  {
+    "file_name": "ritcfQCp2iH7VuRm.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2042612980517605376/vid/avc1/608x1080/ritcfQCp2iH7VuRm.mp4?tag=21",
+    "read_time": "2026-04-11T00:01:08",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (84MB > 50MB)",
+      "timestamp": "2026-04-11T00:01:21",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 143248014,
-      "size_mb": 136.61,
-      "timestamp": "2026-04-10T23:01:39",
+      "size": 88192025,
+      "size_mb": 84.11,
+      "timestamp": "2026-04-11T00:01:21",
       "download_attempts": 0
     },
-    "full_text": "凯 （kaosk12） https://t.co/MlW3XAGLb1",
-    "publish_time": "2026-04-10T22:37:20"
+    "full_text": "kaosk12 凯 https://t.co/POvjoX4t6n",
+    "publish_time": "2026-04-10T23:16:58"
+  },
+  {
+    "file_name": "HFjbBWcbQAAch_Z.jpg",
+    "user": {
+      "screen_name": "chuanzhang0320",
+      "name": "Appetency."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFjbBWcbQAAch_Z.jpg",
+    "read_time": "2026-04-11T00:01:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20947,
+      "timestamp": "2026-04-11T00:01:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 159853,
+      "size_mb": 0.15,
+      "timestamp": "2026-04-11T00:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "口碑，视频待会发 https://t.co/iS30hJ8bCQ",
+    "publish_time": "2026-04-10T23:18:29"
+  },
+  {
+    "file_name": "MUntB-jad2rdCj1M.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2042622978786283520/vid/avc1/1080x1080/MUntB-jad2rdCj1M.mp4?tag=21",
+    "read_time": "2026-04-11T00:01:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20948,
+      "timestamp": "2026-04-11T00:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 48290312,
+      "size_mb": 46.05,
+      "timestamp": "2026-04-11T00:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "lybxxx000 https://t.co/5K8vUI2w4G",
+    "publish_time": "2026-04-10T23:27:05"
+  },
+  {
+    "file_name": "HFjjkbRa0AAuI_E.jpg",
+    "user": {
+      "screen_name": "haoyun9988",
+      "name": "三亚原(天蝎)"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFjjkbRa0AAuI_E.jpg",
+    "read_time": "2026-04-11T00:01:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20949,
+      "timestamp": "2026-04-11T00:01:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 218062,
+      "size_mb": 0.21,
+      "timestamp": "2026-04-11T00:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "三亚 https://t.co/X2yXQj5mNu",
+    "publish_time": "2026-04-10T23:55:52"
+  },
+  {
+    "file_name": "HFjj-hhbsAAxA6o.jpg",
+    "user": {
+      "screen_name": "haoyun9988",
+      "name": "三亚原(天蝎)"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFjj-hhbsAAxA6o.jpg",
+    "read_time": "2026-04-11T00:01:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20950,
+      "timestamp": "2026-04-11T00:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 283646,
+      "size_mb": 0.27,
+      "timestamp": "2026-04-11T00:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "三亚 https://t.co/y3g3inypxD",
+    "publish_time": "2026-04-10T23:57:50"
   }
 ]
