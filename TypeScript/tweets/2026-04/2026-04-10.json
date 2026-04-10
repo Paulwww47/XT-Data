@@ -479,5 +479,34 @@
     "tweetUrl": "https://x.com/chounizadi2021/status/2042491701118329067",
     "fullText": "https://t.co/aiZJBZO0cl",
     "publishTime": "2026-04-10T14:35:43"
+  },
+  {
+    "user": {
+      "screenName": "pfejui",
+      "name": "啊这直男"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFh2_DQbAAAnWQ3.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/pfejui/status/2042513260369551757",
+    "fullText": "https://t.co/lJAdKcCGRJ",
+    "publishTime": "2026-04-10T16:01:23"
+  },
+  {
+    "user": {
+      "screenName": "junjunshiheihei",
+      "name": "JunJun"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFh99ZXakAUjoKJ.jpg",
+      "https://pbs.twimg.com/media/HFh99ZdakAAVUdm.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/junjunshiheihei/status/2042520985468104995",
+    "fullText": "倒牛奶事件🥛 https://t.co/pu7LdySdTG",
+    "publishTime": "2026-04-10T16:32:05"
   }
 ]
