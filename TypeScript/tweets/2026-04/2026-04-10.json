@@ -677,5 +677,33 @@
     "tweetUrl": "https://x.com/maletease/status/2042601823396335675",
     "fullText": "八哥采访 https://t.co/c88XSlhUDk",
     "publishTime": "2026-04-10T21:53:19"
+  },
+  {
+    "user": {
+      "screenName": "maletease",
+      "name": "MaleTease"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2042604162664534019/vid/avc1/1080x1920/duRKw2lGS26QjZkU.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/maletease/status/2042609001712726492",
+    "fullText": "svrces https://t.co/fuplHXT1SB",
+    "publishTime": "2026-04-10T22:21:50"
+  },
+  {
+    "user": {
+      "screenName": "maletease",
+      "name": "MaleTease"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2042609128263290884/vid/avc1/720x1280/KsCpsWB57hmu_lA9.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/maletease/status/2042612904437207466",
+    "fullText": "凯 （kaosk12） https://t.co/MlW3XAGLb1",
+    "publishTime": "2026-04-10T22:37:20"
   }
 ]
