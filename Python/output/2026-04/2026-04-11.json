@@ -1132,17 +1132,199 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (185MB > 50MB)",
       "timestamp": "2026-04-11T17:01:41",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 194911284,
       "size_mb": 185.88,
-      "timestamp": "2026-04-11T17:01:41",
+      "timestamp": "2026-04-11T18:01:18",
       "download_attempts": 0
     },
     "full_text": "https://t.co/rWs8myZuLT",
     "publish_time": "2026-04-11T16:18:39"
+  },
+  {
+    "file_name": "HFnQBoLbQAAG9k5.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFnQBoLbQAAG9k5.jpg",
+    "read_time": "2026-04-11T18:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20999,
+      "timestamp": "2026-04-11T18:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 32876,
+      "size_mb": 0.03,
+      "timestamp": "2026-04-11T18:01:18",
+      "download_attempts": 0
+    },
+    "full_text": "today in Silom https://t.co/PyACEZ9pVQ",
+    "publish_time": "2026-04-11T17:08:54"
+  },
+  {
+    "file_name": "HFnTtgxakAAPGIL.jpg",
+    "user": {
+      "screen_name": "max06734521",
+      "name": "🪳大王🪳"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFnTtgxakAAPGIL.jpg",
+    "read_time": "2026-04-11T18:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21000,
+      "timestamp": "2026-04-11T18:01:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 105793,
+      "size_mb": 0.1,
+      "timestamp": "2026-04-11T18:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "我这小卡拉米都有人开假号冒充了？ https://t.co/nQec1mHR4g",
+    "publish_time": "2026-04-11T17:25:04"
+  },
+  {
+    "file_name": "HFnWDtMakAYKGxN.jpg",
+    "user": {
+      "screen_name": "yangmoyum",
+      "name": "阳沫雨"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFnWDtMakAYKGxN.jpg",
+    "read_time": "2026-04-11T18:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21001,
+      "timestamp": "2026-04-11T18:01:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 160138,
+      "size_mb": 0.15,
+      "timestamp": "2026-04-11T18:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "上海有人🌛💆🏾嘛🥵🥵🥵 https://t.co/zEOIG7FmmH",
+    "publish_time": "2026-04-11T17:35:16"
+  },
+  {
+    "file_name": "HFnWfNUakAA1JCz.jpg",
+    "user": {
+      "screen_name": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFnWfNUakAA1JCz.jpg",
+    "read_time": "2026-04-11T18:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21002,
+      "timestamp": "2026-04-11T18:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 196854,
+      "size_mb": 0.19,
+      "timestamp": "2026-04-11T18:01:23",
+      "download_attempts": 0
+    },
+    "full_text": "👕/@GOTESHOP https://t.co/sNNrTuDBMW",
+    "publish_time": "2026-04-11T17:37:45"
+  },
+  {
+    "file_name": "HFnWqKZakAAreEM.jpg",
+    "user": {
+      "screen_name": "zdx1xx",
+      "name": "犬黒"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFnWqKZakAAreEM.jpg",
+    "read_time": "2026-04-11T18:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21003,
+      "timestamp": "2026-04-11T18:01:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 92518,
+      "size_mb": 0.09,
+      "timestamp": "2026-04-11T18:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "小猴卒 https://t.co/itjvJRakuu",
+    "publish_time": "2026-04-11T17:37:53"
+  },
+  {
+    "file_name": "HFnWqKcbEAAj4_B.jpg",
+    "user": {
+      "screen_name": "zdx1xx",
+      "name": "犬黒"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFnWqKcbEAAj4_B.jpg",
+    "read_time": "2026-04-11T18:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21004,
+      "timestamp": "2026-04-11T18:01:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 111000,
+      "size_mb": 0.11,
+      "timestamp": "2026-04-11T18:01:26",
+      "download_attempts": 0
+    },
+    "full_text": "小猴卒 https://t.co/itjvJRakuu",
+    "publish_time": "2026-04-11T17:37:53"
+  },
+  {
+    "file_name": "HFnWqKYakAAjHC1.jpg",
+    "user": {
+      "screen_name": "zdx1xx",
+      "name": "犬黒"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFnWqKYakAAjHC1.jpg",
+    "read_time": "2026-04-11T18:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21005,
+      "timestamp": "2026-04-11T18:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 124506,
+      "size_mb": 0.12,
+      "timestamp": "2026-04-11T18:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "小猴卒 https://t.co/itjvJRakuu",
+    "publish_time": "2026-04-11T17:37:53"
   }
 ]
