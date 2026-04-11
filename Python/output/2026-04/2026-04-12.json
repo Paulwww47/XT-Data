@@ -14,17 +14,95 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (346MB > 50MB)",
       "timestamp": "2026-04-12T01:01:29",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 363267367,
       "size_mb": 346.44,
-      "timestamp": "2026-04-12T01:01:29",
+      "timestamp": "2026-04-12T03:01:29",
       "download_attempts": 0
     },
     "full_text": "https://t.co/uJhhLHgeQe",
     "publish_time": "2026-04-12T00:37:34"
+  },
+  {
+    "file_name": "_i_kSeuIdlzEdl_V.mp4",
+    "user": {
+      "screen_name": "haoyun9988",
+      "name": "三亚原(天蝎)"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2043016180651429890/vid/avc1/720x1280/_i_kSeuIdlzEdl_V.mp4?tag=21",
+    "read_time": "2026-04-12T03:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21030,
+      "timestamp": "2026-04-12T03:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1080906,
+      "size_mb": 1.03,
+      "timestamp": "2026-04-12T03:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "三亚 https://t.co/iTOc3hNkB6",
+    "publish_time": "2026-04-12T01:20:16"
+  },
+  {
+    "file_name": "JJlIu-UPvmlG7P5c.mp4",
+    "user": {
+      "screen_name": "Rex1719124799",
+      "name": "Rex大鹏"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2043019944020037632/vid/avc1/720x1280/JJlIu-UPvmlG7P5c.mp4?tag=21",
+    "read_time": "2026-04-12T03:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21031,
+      "timestamp": "2026-04-12T03:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1410410,
+      "size_mb": 1.35,
+      "timestamp": "2026-04-12T03:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "更新脸部建模 https://t.co/5XviXZHcsq",
+    "publish_time": "2026-04-12T01:36:23"
+  },
+  {
+    "file_name": "JVdOjDcFWj5P8WcS.mp4",
+    "user": {
+      "screen_name": "SPHYNX688",
+      "name": "无脸猫SPHYNX"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2043025594208915460/vid/avc1/720x1280/JVdOjDcFWj5P8WcS.mp4?tag=21",
+    "read_time": "2026-04-12T03:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21032,
+      "timestamp": "2026-04-12T03:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4739226,
+      "size_mb": 4.52,
+      "timestamp": "2026-04-12T03:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "啊…爸爸🍭\n喜欢吃棒棒糖\n（明早删\n-\n@SPHYNX688 https://t.co/eV4qbLaxn1",
+    "publish_time": "2026-04-12T01:57:43"
   }
 ]
