@@ -1038,5 +1038,111 @@
     },
     "full_text": "https://t.co/nKAHfxJvnG",
     "publish_time": "2026-04-11T15:55:47"
+  },
+  {
+    "file_name": "HFnBFjCagAAOIKz.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFnBFjCagAAOIKz.jpg",
+    "read_time": "2026-04-11T17:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20996,
+      "timestamp": "2026-04-11T17:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 102158,
+      "size_mb": 0.1,
+      "timestamp": "2026-04-11T17:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/fFsO1bP63p",
+    "publish_time": "2026-04-11T16:03:38"
+  },
+  {
+    "file_name": "HFnBNk4bsAAolMz.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFnBNk4bsAAolMz.jpg",
+    "read_time": "2026-04-11T17:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20997,
+      "timestamp": "2026-04-11T17:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 37604,
+      "size_mb": 0.04,
+      "timestamp": "2026-04-11T17:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/J0UMHwEpsa",
+    "publish_time": "2026-04-11T16:04:11"
+  },
+  {
+    "file_name": "HFnBc4jaQAAT82p.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFnBc4jaQAAT82p.jpg",
+    "read_time": "2026-04-11T17:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 20998,
+      "timestamp": "2026-04-11T17:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 93113,
+      "size_mb": 0.09,
+      "timestamp": "2026-04-11T17:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "zerolh610 https://t.co/ltgko8YjR8",
+    "publish_time": "2026-04-11T16:05:13"
+  },
+  {
+    "file_name": "PnoJzDv7fWMh8h8z.mp4",
+    "user": {
+      "screen_name": "xidaophotog",
+      "name": "西岛"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1992640346912919553/vid/avc1/1280x720/PnoJzDv7fWMh8h8z.mp4?tag=21",
+    "read_time": "2026-04-11T17:01:34",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (185MB > 50MB)",
+      "timestamp": "2026-04-11T17:01:41",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 194911284,
+      "size_mb": 185.88,
+      "timestamp": "2026-04-11T17:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/rWs8myZuLT",
+    "publish_time": "2026-04-11T16:18:39"
   }
 ]
