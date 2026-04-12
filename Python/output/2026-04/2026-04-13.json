@@ -536,14 +536,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (82MB > 50MB)",
       "timestamp": "2026-04-13T06:01:47",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 86009078,
       "size_mb": 82.02,
-      "timestamp": "2026-04-13T06:01:47",
+      "timestamp": "2026-04-13T07:01:32",
       "download_attempts": 0
     },
     "full_text": ".\n花絮/behind event 🌈曼谷「泼水节」Asia's Biggest Gay Dance Festival GCIRCUIT  IG：gcircuit 20thAnniversary  \n#SongKran2026 \nThank You for the video 👉dong_nateephat @DNateephat \nIG：dong_nateephat https://t.co/vIMEvhA26O",
