@@ -80,5 +80,19 @@
     "tweetUrl": "https://x.com/kueerkueer/status/2043401120996057299",
     "fullText": "https://t.co/dvngC3buZq",
     "publishTime": "2026-04-13T02:49:26"
+  },
+  {
+    "user": {
+      "screenName": "kueerkueer",
+      "name": "kueer"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2043103704090316800/pu/vid/avc1/480x480/-l_IFCIWYdryL1z0.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/kueerkueer/status/2043408082504720775",
+    "fullText": "https://t.co/XSw6lhYuwu",
+    "publishTime": "2026-04-13T03:17:06"
   }
 ]
