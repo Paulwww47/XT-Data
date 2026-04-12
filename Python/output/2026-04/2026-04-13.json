@@ -170,14 +170,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (110MB > 50MB)",
       "timestamp": "2026-04-13T05:01:25",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 115357127,
       "size_mb": 110.01,
-      "timestamp": "2026-04-13T05:01:25",
+      "timestamp": "2026-04-13T06:01:39",
       "download_attempts": 0
     },
     "full_text": ".\nContinuing 🌈曼谷「泼水节」Asia's Biggest Gay Dance Festival GCIRCUIT  IG：gcircuit 20thAnniversary  \n#SongKran2026 \nThank You for the video 👉dong_nateephat @DNateephat \nIG：dong_nateephat https://t.co/WJVi7ClEnZ",
@@ -520,5 +520,371 @@
     },
     "full_text": "不要問我今年為什麼沒去潑水節😷 https://t.co/UkUZRsEZtR",
     "publish_time": "2026-04-13T04:49:23"
+  },
+  {
+    "file_name": "WLfjyzHtI3TevLdp.mp4",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2043438923033219072/vid/avc1/1242x2214/WLfjyzHtI3TevLdp.mp4?tag=21",
+    "read_time": "2026-04-13T06:01:28",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (82MB > 50MB)",
+      "timestamp": "2026-04-13T06:01:47",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 86009078,
+      "size_mb": 82.02,
+      "timestamp": "2026-04-13T06:01:47",
+      "download_attempts": 0
+    },
+    "full_text": ".\n花絮/behind event 🌈曼谷「泼水节」Asia's Biggest Gay Dance Festival GCIRCUIT  IG：gcircuit 20thAnniversary  \n#SongKran2026 \nThank You for the video 👉dong_nateephat @DNateephat \nIG：dong_nateephat https://t.co/vIMEvhA26O",
+    "publish_time": "2026-04-13T05:23:02"
+  },
+  {
+    "file_name": "HFvB2HiawAA_Gne.jpg",
+    "user": {
+      "screen_name": "Rex1719124799",
+      "name": "Rex大鹏"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFvB2HiawAA_Gne.jpg",
+    "read_time": "2026-04-13T06:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21127,
+      "timestamp": "2026-04-13T06:01:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 50951,
+      "size_mb": 0.05,
+      "timestamp": "2026-04-13T06:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "跪好，别动。我的手会告诉你，什么叫真正的惩罚。你越挣扎，我越不会停。 https://t.co/G1qMB1kR36",
+    "publish_time": "2026-04-13T05:23:55"
+  },
+  {
+    "file_name": "HFvGygra8AA9vck.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFvGygra8AA9vck.jpg",
+    "read_time": "2026-04-13T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21128,
+      "timestamp": "2026-04-13T06:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 72931,
+      "size_mb": 0.07,
+      "timestamp": "2026-04-13T06:01:48",
+      "download_attempts": 0
+    },
+    "full_text": "·\n&lt; 健身模特·系列&gt;\n\n摄影师 肖一遣 @xiao1qian \n\n健身模特/教练👉北体小何🥇\n\n📍上海 \n. https://t.co/LFBQBC5zWA",
+    "publish_time": "2026-04-13T05:45:30"
+  },
+  {
+    "file_name": "HFvGygqbkAAAaAR.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFvGygqbkAAAaAR.jpg",
+    "read_time": "2026-04-13T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21129,
+      "timestamp": "2026-04-13T06:01:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 65897,
+      "size_mb": 0.06,
+      "timestamp": "2026-04-13T06:01:49",
+      "download_attempts": 0
+    },
+    "full_text": "·\n&lt; 健身模特·系列&gt;\n\n摄影师 肖一遣 @xiao1qian \n\n健身模特/教练👉北体小何🥇\n\n📍上海 \n. https://t.co/LFBQBC5zWA",
+    "publish_time": "2026-04-13T05:45:30"
+  },
+  {
+    "file_name": "HFvGygoaoAA8Tvp.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFvGygoaoAA8Tvp.jpg",
+    "read_time": "2026-04-13T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21130,
+      "timestamp": "2026-04-13T06:01:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 69123,
+      "size_mb": 0.07,
+      "timestamp": "2026-04-13T06:01:50",
+      "download_attempts": 0
+    },
+    "full_text": "·\n&lt; 健身模特·系列&gt;\n\n摄影师 肖一遣 @xiao1qian \n\n健身模特/教练👉北体小何🥇\n\n📍上海 \n. https://t.co/LFBQBC5zWA",
+    "publish_time": "2026-04-13T05:45:30"
+  },
+  {
+    "file_name": "HFvGygpaMAAAfZm.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFvGygpaMAAAfZm.jpg",
+    "read_time": "2026-04-13T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21131,
+      "timestamp": "2026-04-13T06:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 56772,
+      "size_mb": 0.05,
+      "timestamp": "2026-04-13T06:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "·\n&lt; 健身模特·系列&gt;\n\n摄影师 肖一遣 @xiao1qian \n\n健身模特/教练👉北体小何🥇\n\n📍上海 \n. https://t.co/LFBQBC5zWA",
+    "publish_time": "2026-04-13T05:45:30"
+  },
+  {
+    "file_name": "HFvHMFUbcAAdKCV.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFvHMFUbcAAdKCV.jpg",
+    "read_time": "2026-04-13T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21132,
+      "timestamp": "2026-04-13T06:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 73988,
+      "size_mb": 0.07,
+      "timestamp": "2026-04-13T06:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/OyMPJGc2cR",
+    "publish_time": "2026-04-13T05:47:15"
+  },
+  {
+    "file_name": "HFvHMFgbsAA5c1z.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFvHMFgbsAA5c1z.jpg",
+    "read_time": "2026-04-13T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21133,
+      "timestamp": "2026-04-13T06:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 60862,
+      "size_mb": 0.06,
+      "timestamp": "2026-04-13T06:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/OyMPJGc2cR",
+    "publish_time": "2026-04-13T05:47:15"
+  },
+  {
+    "file_name": "HFvHMFSacAAn6kB.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFvHMFSacAAn6kB.jpg",
+    "read_time": "2026-04-13T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21134,
+      "timestamp": "2026-04-13T06:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 63347,
+      "size_mb": 0.06,
+      "timestamp": "2026-04-13T06:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/OyMPJGc2cR",
+    "publish_time": "2026-04-13T05:47:15"
+  },
+  {
+    "file_name": "HFvHMFdacAAZ_W-.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFvHMFdacAAZ_W-.jpg",
+    "read_time": "2026-04-13T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21135,
+      "timestamp": "2026-04-13T06:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 58380,
+      "size_mb": 0.06,
+      "timestamp": "2026-04-13T06:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/OyMPJGc2cR",
+    "publish_time": "2026-04-13T05:47:15"
+  },
+  {
+    "file_name": "HFvHTtQbEAA5SMZ.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFvHTtQbEAA5SMZ.jpg",
+    "read_time": "2026-04-13T06:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21136,
+      "timestamp": "2026-04-13T06:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 110297,
+      "size_mb": 0.11,
+      "timestamp": "2026-04-13T06:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "ducnguyen_fitness https://t.co/XbARe4z4zR",
+    "publish_time": "2026-04-13T05:47:46"
+  },
+  {
+    "file_name": "HFvHcp0aAAA3G2M.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFvHcp0aAAA3G2M.jpg",
+    "read_time": "2026-04-13T06:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21137,
+      "timestamp": "2026-04-13T06:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 208515,
+      "size_mb": 0.2,
+      "timestamp": "2026-04-13T06:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "sebbyoppar https://t.co/3qxbdH5cbK",
+    "publish_time": "2026-04-13T05:48:23"
+  },
+  {
+    "file_name": "HFvHcplbUAA43sT.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFvHcplbUAA43sT.jpg",
+    "read_time": "2026-04-13T06:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21138,
+      "timestamp": "2026-04-13T06:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 92727,
+      "size_mb": 0.09,
+      "timestamp": "2026-04-13T06:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "sebbyoppar https://t.co/3qxbdH5cbK",
+    "publish_time": "2026-04-13T05:48:23"
+  },
+  {
+    "file_name": "0vo_dSyaLZhGS_E5.mp4",
+    "user": {
+      "screen_name": "chuanzhang0320",
+      "name": "Appetency."
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2043448227698282496/vid/avc1/1280x720/0vo_dSyaLZhGS_E5.mp4?tag=21",
+    "read_time": "2026-04-13T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21139,
+      "timestamp": "2026-04-13T06:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3301397,
+      "size_mb": 3.15,
+      "timestamp": "2026-04-13T06:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "对了对了，还有这个视角 https://t.co/MD6uJUbxJJ",
+    "publish_time": "2026-04-13T05:56:54"
   }
 ]
