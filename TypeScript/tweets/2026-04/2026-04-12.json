@@ -824,5 +824,34 @@
     "tweetUrl": "https://x.com/lovesamoyed_tw/status/2043336918830866553",
     "fullText": "New update on of",
     "publishTime": "2026-04-12T22:34:19"
+  },
+  {
+    "user": {
+      "screenName": "XuwtoA",
+      "name": "y x"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2043349573293539328/vid/avc1/1280x720/nXirPfbRPNBkDW81.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/XuwtoA/status/2043349704407498952",
+    "fullText": "晒晒太阳（身上是增生） https://t.co/Z6ZahQbEg7",
+    "publishTime": "2026-04-12T23:25:07"
+  },
+  {
+    "user": {
+      "screenName": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFt14UsaAAAI_TQ.jpg",
+      "https://pbs.twimg.com/media/HFt14SobgAA0gvB.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/bohaixiaochen/status/2043356469580681602",
+    "fullText": "臭脚踩小狗🐕 https://t.co/di4s42RNE0",
+    "publishTime": "2026-04-12T23:52:00"
   }
 ]
