@@ -1238,14 +1238,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (93MB > 50MB)",
       "timestamp": "2026-04-12T15:01:16",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 98100734,
       "size_mb": 93.56,
-      "timestamp": "2026-04-12T15:01:16",
+      "timestamp": "2026-04-12T16:01:19",
       "download_attempts": 0
     },
     "full_text": "以前直播不太會抓可以跟粉絲聊很久🤓 https://t.co/rmMUokmzln",
@@ -1458,5 +1458,31 @@
     },
     "full_text": "dailychuc https://t.co/tOCHC37L9r",
     "publish_time": "2026-04-12T14:57:33"
+  },
+  {
+    "file_name": "HFr-H9JasAAMKHu.jpg",
+    "user": {
+      "screen_name": "XuwtoA",
+      "name": "y x"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFr-H9JasAAMKHu.jpg",
+    "read_time": "2026-04-12T16:01:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21084,
+      "timestamp": "2026-04-12T16:01:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 165547,
+      "size_mb": 0.16,
+      "timestamp": "2026-04-12T16:01:19",
+      "download_attempts": 0
+    },
+    "full_text": "有没有叔叔哥哥疼我一下，生活困难😕 https://t.co/3A0By2RPlC",
+    "publish_time": "2026-04-12T15:08:53"
   }
 ]
