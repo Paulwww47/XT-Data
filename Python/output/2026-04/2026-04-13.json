@@ -1874,5 +1874,57 @@
     },
     "full_text": "#上海 酒没啥劲儿啊  怎么大哥们都多了 https://t.co/HDnfuyfBaA",
     "publish_time": "2026-04-13T20:48:15"
+  },
+  {
+    "file_name": "CBRfqf_CQ_aKuk9G.mp4",
+    "user": {
+      "screen_name": "josephmrkao",
+      "name": "185 Joseph"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2043626214360072192/vid/avc1/1080x1920/CBRfqf_CQ_aKuk9G.mp4?tag=21",
+    "read_time": "2026-04-13T23:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21178,
+      "timestamp": "2026-04-13T23:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 15954139,
+      "size_mb": 15.22,
+      "timestamp": "2026-04-13T23:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "這個視角…只屬於螢幕前的你 😗\nThis angle… is just for you...\nhttps://t.co/YLTFp8lau4   @zyboy_03 https://t.co/TEDz3BxwLk",
+    "publish_time": "2026-04-13T22:05:00"
+  },
+  {
+    "file_name": "HFyoPiwbYAELkud.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFyoPiwbYAELkud.jpg",
+    "read_time": "2026-04-13T23:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21179,
+      "timestamp": "2026-04-13T23:01:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 180998,
+      "size_mb": 0.17,
+      "timestamp": "2026-04-13T23:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "新的体育生 https://t.co/OV9AHje6hA",
+    "publish_time": "2026-04-13T22:10:34"
   }
 ]
