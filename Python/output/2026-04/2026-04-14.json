@@ -336,5 +336,85 @@
     },
     "full_text": "maxkuei https://t.co/bD64Fz5HZ9",
     "publish_time": "2026-04-14T04:39:41"
+  },
+  {
+    "file_name": "HF0QfyAasAMfoFT.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF0QfyAasAMfoFT.jpg",
+    "read_time": "2026-04-14T06:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21201,
+      "timestamp": "2026-04-14T06:01:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 160145,
+      "size_mb": 0.15,
+      "timestamp": "2026-04-14T06:01:10",
+      "download_attempts": 0
+    },
+    "full_text": "sean_xaya https://t.co/B0VX5cmB1K",
+    "publish_time": "2026-04-14T05:46:01"
+  },
+  {
+    "file_name": "HF0QmcyasAErrDm.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF0QmcyasAErrDm.jpg",
+    "read_time": "2026-04-14T06:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21202,
+      "timestamp": "2026-04-14T06:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 91977,
+      "size_mb": 0.09,
+      "timestamp": "2026-04-14T06:01:12",
+      "download_attempts": 0
+    },
+    "full_text": "mnick_1116 https://t.co/zyHVO859jb",
+    "publish_time": "2026-04-14T05:46:29"
+  },
+  {
+    "file_name": "57BSIXU5r02TFRYR.mp4",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2043810855658409984/vid/avc1/1920x1080/57BSIXU5r02TFRYR.mp4?tag=21",
+    "read_time": "2026-04-14T06:01:09",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (173MB > 50MB)",
+      "timestamp": "2026-04-14T06:01:27",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 181692302,
+      "size_mb": 173.28,
+      "timestamp": "2026-04-14T06:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "· \n小徐的新采访（一）YouTube 👉BoyTalk｜我和小徐在推特X年9年网友👉SMan’s Man @xzm1005 （这个号不对X以外的网公开，他24岁）！我喜欢他就是因为他没有瞒着自己的性生活，而且能正视自己的日常生活。这是小徐的一段坦然的釆访，希望对大家有所启发和深思。 https://t.co/XoJXauRHkj",
+    "publish_time": "2026-04-14T06:00:11"
   }
 ]
