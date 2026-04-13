@@ -519,5 +519,20 @@
     "tweetUrl": "https://x.com/KevinLeeYoung92/status/2043568665690562805",
     "fullText": "❤️",
     "publishTime": "2026-04-13T13:55:12"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFxFaowbwAAvITi.jpg",
+      "https://pbs.twimg.com/media/HFxFaorbUAAoKZ5.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/2043584663395209612",
+    "fullText": "https://t.co/ehSh2TFdlD",
+    "publishTime": "2026-04-13T14:58:46"
   }
 ]
