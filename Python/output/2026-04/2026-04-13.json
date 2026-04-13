@@ -1406,5 +1406,83 @@
     },
     "full_text": "https://t.co/ehSh2TFdlD",
     "publish_time": "2026-04-13T14:58:46"
+  },
+  {
+    "file_name": "f-elzcb0eTm0SSMT.mp4",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2043588798953725952/vid/avc1/720x1280/f-elzcb0eTm0SSMT.mp4?tag=21",
+    "read_time": "2026-04-13T16:01:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21160,
+      "timestamp": "2026-04-13T16:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2235004,
+      "size_mb": 2.13,
+      "timestamp": "2026-04-13T16:01:26",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/PvaKCFaSN7",
+    "publish_time": "2026-04-13T15:15:30"
+  },
+  {
+    "file_name": "HFxJlAHbUAAlVq8.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFxJlAHbUAAlVq8.jpg",
+    "read_time": "2026-04-13T16:01:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21161,
+      "timestamp": "2026-04-13T16:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 174865,
+      "size_mb": 0.17,
+      "timestamp": "2026-04-13T16:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/bwCmTnhylP",
+    "publish_time": "2026-04-13T15:16:56"
+  },
+  {
+    "file_name": "HFxJm6KbIAAdut0.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HFxJm6KbIAAdut0.jpg",
+    "read_time": "2026-04-13T16:01:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21162,
+      "timestamp": "2026-04-13T16:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 114171,
+      "size_mb": 0.11,
+      "timestamp": "2026-04-13T16:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/5DwEaOLa5O",
+    "publish_time": "2026-04-13T15:17:04"
   }
 ]
