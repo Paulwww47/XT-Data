@@ -576,5 +576,64 @@
     "tweetUrl": "https://x.com/youdi/status/2043589270246699519",
     "fullText": "https://t.co/5DwEaOLa5O",
     "publishTime": "2026-04-13T15:17:04"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFxZstzacAAzHLh.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2043606961833509230",
+    "fullText": "sasuke_monkey https://t.co/6KfnUlMZYT",
+    "publishTime": "2026-04-13T16:27:22"
+  },
+  {
+    "user": {
+      "screenName": "r1929979006488",
+      "name": "ia__"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2043609899029127168/vid/avc1/720x1280/9hLSAPs5OsndvfMj.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/r1929979006488/status/2043609963587936523",
+    "fullText": "https://t.co/J7YiuDwmS1",
+    "publishTime": "2026-04-13T16:39:18"
+  },
+  {
+    "user": {
+      "screenName": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFxd0a_bMAAhPai.jpg",
+      "https://pbs.twimg.com/media/HFxd0a-b0AA41SI.jpg",
+      "https://pbs.twimg.com/media/HFxd0a9a8AA0Shs.jpg",
+      "https://pbs.twimg.com/media/HFxd0a9bkAA9whA.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/junglewildwild/status/2043611495125467318",
+    "fullText": "https://t.co/E6LhHkyNK3",
+    "publishTime": "2026-04-13T16:45:23"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFxg7qYa4AAW1t7.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2043614912975651253",
+    "fullText": "https://t.co/wHgOVXMlsk",
+    "publishTime": "2026-04-13T16:58:58"
   }
 ]
