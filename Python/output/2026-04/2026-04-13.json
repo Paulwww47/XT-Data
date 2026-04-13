@@ -1666,5 +1666,31 @@
     },
     "full_text": "https://t.co/wHgOVXMlsk",
     "publish_time": "2026-04-13T16:58:58"
+  },
+  {
+    "file_name": "Np_vIwPVVaCT8UYO.mp4",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2043616392763854848/vid/avc1/720x960/Np_vIwPVVaCT8UYO.mp4?tag=21",
+    "read_time": "2026-04-13T18:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21170,
+      "timestamp": "2026-04-13T18:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 817304,
+      "size_mb": 0.78,
+      "timestamp": "2026-04-13T18:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "🫵 https://t.co/JQ3SiQcJNF",
+    "publish_time": "2026-04-13T17:05:07"
   }
 ]
