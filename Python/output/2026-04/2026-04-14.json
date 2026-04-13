@@ -404,17 +404,175 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (173MB > 50MB)",
       "timestamp": "2026-04-14T06:01:27",
+      "notification_sent": true
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 181692302,
+      "size_mb": 173.28,
+      "timestamp": "2026-04-14T07:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "· \n小徐的新采访（一）YouTube 👉BoyTalk｜我和小徐在推特X年9年网友👉SMan’s Man @xzm1005 （这个号不对X以外的网公开，他24岁）！我喜欢他就是因为他没有瞒着自己的性生活，而且能正视自己的日常生活。这是小徐的一段坦然的釆访，希望对大家有所启发和深思。 https://t.co/XoJXauRHkj",
+    "publish_time": "2026-04-14T06:00:11"
+  },
+  {
+    "file_name": "dByU-MOaNiyfURt2.mp4",
+    "user": {
+      "screen_name": "toplcjfjv",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2043811957908930560/vid/avc1/720x1280/dByU-MOaNiyfURt2.mp4?tag=21",
+    "read_time": "2026-04-14T07:01:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21203,
+      "timestamp": "2026-04-14T07:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 14544802,
+      "size_mb": 13.87,
+      "timestamp": "2026-04-14T07:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "喉嚨繼續痛 https://t.co/NtgCs37SH8",
+    "publish_time": "2026-04-14T06:02:35"
+  },
+  {
+    "file_name": "HF0d3XNasAQF0Qy.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF0d3XNasAQF0Qy.jpg",
+    "read_time": "2026-04-14T07:01:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21204,
+      "timestamp": "2026-04-14T07:02:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 214844,
+      "size_mb": 0.2,
+      "timestamp": "2026-04-14T07:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "·\n💦💦💦泼水节✨应景C P组照 ｜\n模特1 🆔 IG: qkrgktkxks \n模特2 🆔 IG:1f_okey \n摄影师 🆔 IG:apple_film0418 🌞 https://t.co/zDHQr22GNy",
+    "publish_time": "2026-04-14T06:44:26"
+  },
+  {
+    "file_name": "HF0d3XMasAAvuWj.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF0d3XMasAAvuWj.jpg",
+    "read_time": "2026-04-14T07:01:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21205,
+      "timestamp": "2026-04-14T07:02:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 166303,
+      "size_mb": 0.16,
+      "timestamp": "2026-04-14T07:02:07",
+      "download_attempts": 0
+    },
+    "full_text": "·\n💦💦💦泼水节✨应景C P组照 ｜\n模特1 🆔 IG: qkrgktkxks \n模特2 🆔 IG:1f_okey \n摄影师 🆔 IG:apple_film0418 🌞 https://t.co/zDHQr22GNy",
+    "publish_time": "2026-04-14T06:44:26"
+  },
+  {
+    "file_name": "HF0d3XLasAExqbn.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF0d3XLasAExqbn.jpg",
+    "read_time": "2026-04-14T07:01:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21206,
+      "timestamp": "2026-04-14T07:02:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 146429,
+      "size_mb": 0.14,
+      "timestamp": "2026-04-14T07:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "·\n💦💦💦泼水节✨应景C P组照 ｜\n模特1 🆔 IG: qkrgktkxks \n模特2 🆔 IG:1f_okey \n摄影师 🆔 IG:apple_film0418 🌞 https://t.co/zDHQr22GNy",
+    "publish_time": "2026-04-14T06:44:26"
+  },
+  {
+    "file_name": "HF0d3XKaoAAlUZq.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF0d3XKaoAAlUZq.jpg",
+    "read_time": "2026-04-14T07:01:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21207,
+      "timestamp": "2026-04-14T07:02:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 199782,
+      "size_mb": 0.19,
+      "timestamp": "2026-04-14T07:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "·\n💦💦💦泼水节✨应景C P组照 ｜\n模特1 🆔 IG: qkrgktkxks \n模特2 🆔 IG:1f_okey \n摄影师 🆔 IG:apple_film0418 🌞 https://t.co/zDHQr22GNy",
+    "publish_time": "2026-04-14T06:44:26"
+  },
+  {
+    "file_name": "GahhCoqpNRhmTv1t.mp4",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2043824937815945220/vid/avc1/1920x1080/GahhCoqpNRhmTv1t.mp4?tag=21",
+    "read_time": "2026-04-14T07:01:59",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (176MB > 50MB)",
+      "timestamp": "2026-04-14T07:02:26",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 181692302,
-      "size_mb": 173.28,
-      "timestamp": "2026-04-14T06:01:27",
+      "size": 184689424,
+      "size_mb": 176.13,
+      "timestamp": "2026-04-14T07:02:26",
       "download_attempts": 0
     },
-    "full_text": "· \n小徐的新采访（一）YouTube 👉BoyTalk｜我和小徐在推特X年9年网友👉SMan’s Man @xzm1005 （这个号不对X以外的网公开，他24岁）！我喜欢他就是因为他没有瞒着自己的性生活，而且能正视自己的日常生活。这是小徐的一段坦然的釆访，希望对大家有所启发和深思。 https://t.co/XoJXauRHkj",
-    "publish_time": "2026-04-14T06:00:11"
+    "full_text": "· \n小徐的新采访（下）YouTube 👉BoyTalk｜我和小徐在推特/X 9年网友👉SMan’s Man @xzm1005 （这个号不对X以外的网公开，他24岁）！我喜欢他就是因为他没有瞒着自己的性生活，而且能正视自己的日常生活。这是小徐的一段坦然的釆访，希望对大家有所启发和深思。 https://t.co/oWdq4QpyPS",
+    "publish_time": "2026-04-14T06:56:27"
   }
 ]
