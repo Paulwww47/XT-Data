@@ -409,10 +409,20 @@
       "name": "ywushvs",
       "screenName": "azzd556",
       "createdAt": "Sat Dec 27 11:57:38 +0000 2025",
-      "description": "",
+      "description": "TG:https://t.co/xLPVr1FeM8",
       "entities": {
         "description": {
-          "urls": []
+          "urls": [
+            {
+              "display_url": "t.me/+nEioJXkwDWA2N…",
+              "expanded_url": "https://t.me/+nEioJXkwDWA2NGU1",
+              "indices": [
+                3,
+                26
+              ],
+              "url": "https://t.co/xLPVr1FeM8"
+            }
+          ]
         }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2004884338492723200/1775878399",
@@ -1303,8 +1313,8 @@
           "urls": []
         }
       },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1558674751308337153/1775118552",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2043592046112653312/92q03Fvj_normal.jpg"
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1558674751308337153/1776161185",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2043994003549630465/ngLmN4na_normal.jpg"
     }
   },
   {
@@ -3923,10 +3933,10 @@
   {
     "restId": "1846407762156441601",
     "legacy": {
-      "name": "橋 诘聖",
+      "name": "橋诘聖",
       "screenName": "qiaojiesheng7",
       "createdAt": "Wed Oct 16 04:28:22 +0000 2024",
-      "description": "社交媒体账号、酒吧行程、私信请通过下方网址进入⬇️⬇️⬇️",
+      "description": "",
       "entities": {
         "description": {
           "urls": []
@@ -3940,7 +3950,7 @@
                 0,
                 23
               ],
-              "url": "https://t.co/0HUkF9K3St"
+              "url": "https://t.co/0HUkF9KBI1"
             }
           ]
         }
