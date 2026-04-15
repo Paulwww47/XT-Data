@@ -1004,14 +1004,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (87MB > 50MB)",
       "timestamp": "2026-04-15T22:02:10",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 91537710,
       "size_mb": 87.3,
-      "timestamp": "2026-04-15T22:02:10",
+      "timestamp": "2026-04-15T23:01:08",
       "download_attempts": 0
     },
     "full_text": "·\n🌈Fancam Jayden 在泰国泼水节 💦gCircuit 20周年大庆跳舞会的闭幕晚会，他来自📍中国IG：toycpo｜他是新手gogo dancer 🎊 https://t.co/7fKtjaTUdu",
@@ -1266,14 +1266,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (53MB > 50MB)",
       "timestamp": "2026-04-15T22:02:31",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 55811454,
       "size_mb": 53.23,
-      "timestamp": "2026-04-15T22:02:31",
+      "timestamp": "2026-04-15T23:01:09",
       "download_attempts": 0
     },
     "full_text": "龙飞 https://t.co/wLOv7I3Rzn",
@@ -1320,14 +1320,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (56MB > 50MB)",
       "timestamp": "2026-04-15T22:02:47",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 59035248,
       "size_mb": 56.3,
-      "timestamp": "2026-04-15T22:02:47",
+      "timestamp": "2026-04-15T23:01:10",
       "download_attempts": 0
     },
     "full_text": "虎砸 https://t.co/FMo7M6GH6r",
@@ -1348,14 +1348,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (66MB > 50MB)",
       "timestamp": "2026-04-15T22:02:48",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 69437521,
       "size_mb": 66.22,
-      "timestamp": "2026-04-15T22:02:48",
+      "timestamp": "2026-04-15T23:01:11",
       "download_attempts": 0
     },
     "full_text": "酷力酥 https://t.co/qrkplcwmD9",
@@ -1870,14 +1870,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (320MB > 50MB)",
       "timestamp": "2026-04-15T22:03:09",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 335755086,
       "size_mb": 320.2,
-      "timestamp": "2026-04-15T22:03:09",
+      "timestamp": "2026-04-15T23:01:42",
       "download_attempts": 0
     },
     "full_text": "·\n🌈曼谷泼水节 GCIRCUIT 2026 𝘽𝙊𝙔 𝙋𝙊𝙊𝙇 𝙋𝘼𝙍𝙏𝙔 𝘼𝙌𝙐𝘼 DAY2  \n\nVDO BY YouTube POPPORY.\n完整版来啦！ https://t.co/zdR4GJms0A",
@@ -2314,14 +2314,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (286MB > 50MB)",
       "timestamp": "2026-04-15T22:03:49",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 300830289,
       "size_mb": 286.89,
-      "timestamp": "2026-04-15T22:03:49",
+      "timestamp": "2026-04-15T23:02:09",
       "download_attempts": 0
     },
     "full_text": "pecpal48 https://t.co/m4uhJdreFP",
@@ -2378,5 +2378,31 @@
     },
     "full_text": "no rush tonight…\nnot much of a dancer 🌛 https://t.co/eidA5n5Js3",
     "publish_time": "2026-04-15T22:00:02"
+  },
+  {
+    "file_name": "HF9DbvbaYAAHT-R.jpg",
+    "user": {
+      "screen_name": "inspiredPeng",
+      "name": "地空捣蛋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF9DbvbaYAAHT-R.jpg",
+    "read_time": "2026-04-15T23:01:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21393,
+      "timestamp": "2026-04-15T23:02:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 93081,
+      "size_mb": 0.09,
+      "timestamp": "2026-04-15T23:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/O17NYgI15K",
+    "publish_time": "2026-04-15T22:45:32"
   }
 ]
