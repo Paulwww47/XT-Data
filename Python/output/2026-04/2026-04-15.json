@@ -742,14 +742,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (537MB > 50MB)",
       "timestamp": "2026-04-15T10:02:40",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 563669589,
       "size_mb": 537.56,
-      "timestamp": "2026-04-15T10:02:40",
+      "timestamp": "2026-04-15T22:01:52",
       "download_attempts": 0
     },
     "full_text": "·\n回顾（一）GCircuit  𝙊𝙋𝙀𝙉𝙄𝙉𝙂 𝙋𝘼𝙍𝙏𝙔 𝙏𝙀𝘼𝙈 𝘼𝙇𝙋𝙃𝘼 DAY 1  ｜VDO BY POPPORY.\n🌈曼谷「泼水节」💦 Asia's Biggest Gay Dance Festival GCIRCUIT  IG：gcircuit 🎊20thAnniversary https://t.co/fnvQT1p0QR",
@@ -832,5 +832,1551 @@
     },
     "full_text": "https://t.co/Q7wvBxZqyP",
     "publish_time": "2026-04-15T09:57:09"
+  },
+  {
+    "file_name": "HF6a1bvb0AACFcf.jpg",
+    "user": {
+      "screen_name": "Louiewe123",
+      "name": "Louiewe卤蛋头"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF6a1bvb0AACFcf.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21340,
+      "timestamp": "2026-04-15T22:01:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 225963,
+      "size_mb": 0.22,
+      "timestamp": "2026-04-15T22:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "王府系列所有内容已更新完！完整版请访问：\nhttps://t.co/Sua7sAWkPn\n\n想要卤蛋头阳具的宝贝，在微信上搜索“超牛”小程序，或者：\nhttps://t.co/VHUeyZizoV https://t.co/r4f0CrciqN",
+    "publish_time": "2026-04-15T10:29:00"
+  },
+  {
+    "file_name": "rQGkTQ6IhmkCfKTc.mp4",
+    "user": {
+      "screen_name": "zhinandegounu",
+      "name": "直男控制"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2009921517430132736/vid/avc1/720x1280/rQGkTQ6IhmkCfKTc.mp4?tag=21",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21341,
+      "timestamp": "2026-04-15T22:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1560868,
+      "size_mb": 1.49,
+      "timestamp": "2026-04-15T22:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/HyEvzFou28",
+    "publish_time": "2026-04-15T10:39:55"
+  },
+  {
+    "file_name": "9xJ64F8bqBe9aK5f.mp4",
+    "user": {
+      "screen_name": "Mizsubm",
+      "name": "..."
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2044245881080426503/vid/avc1/718x1280/9xJ64F8bqBe9aK5f.mp4?tag=21",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21342,
+      "timestamp": "2026-04-15T22:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 831991,
+      "size_mb": 0.79,
+      "timestamp": "2026-04-15T22:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "想嫁人😭 https://t.co/Cw8s2D8wZd",
+    "publish_time": "2026-04-15T10:46:27"
+  },
+  {
+    "file_name": "HF6e9iRasAIj7Uw.jpg",
+    "user": {
+      "screen_name": "SZionbaba",
+      "name": "zionbaba"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF6e9iRasAIj7Uw.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21343,
+      "timestamp": "2026-04-15T22:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 148986,
+      "size_mb": 0.14,
+      "timestamp": "2026-04-15T22:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "脑子痒了吗 https://t.co/pWjw0pcVuk",
+    "publish_time": "2026-04-15T10:46:58"
+  },
+  {
+    "file_name": "HF6e9iba8AAQAEZ.jpg",
+    "user": {
+      "screen_name": "SZionbaba",
+      "name": "zionbaba"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF6e9iba8AAQAEZ.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21344,
+      "timestamp": "2026-04-15T22:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 170179,
+      "size_mb": 0.16,
+      "timestamp": "2026-04-15T22:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "脑子痒了吗 https://t.co/pWjw0pcVuk",
+    "publish_time": "2026-04-15T10:46:58"
+  },
+  {
+    "file_name": "gH2m8iK27w6T2XfA.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2044246831824289792/vid/avc1/720x1280/gH2m8iK27w6T2XfA.mp4?tag=14",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21345,
+      "timestamp": "2026-04-15T22:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4628838,
+      "size_mb": 4.41,
+      "timestamp": "2026-04-15T22:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年4月15日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/olrdNNYxdi",
+    "publish_time": "2026-04-15T10:50:15"
+  },
+  {
+    "file_name": "yp5h_MLUT7gNek86.mp4",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2044248677339017217/vid/avc1/1200x2372/yp5h_MLUT7gNek86.mp4?tag=21",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (87MB > 50MB)",
+      "timestamp": "2026-04-15T22:02:10",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 91537710,
+      "size_mb": 87.3,
+      "timestamp": "2026-04-15T22:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "·\n🌈Fancam Jayden 在泰国泼水节 💦gCircuit 20周年大庆跳舞会的闭幕晚会，他来自📍中国IG：toycpo｜他是新手gogo dancer 🎊 https://t.co/7fKtjaTUdu",
+    "publish_time": "2026-04-15T10:58:18"
+  },
+  {
+    "file_name": "rcxZ7S8Q4_iAOqJj.mp4",
+    "user": {
+      "screen_name": "xxjy9696",
+      "name": "小小脚丫🐾全见版（新）"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2044252364899790848/vid/avc1/720x1280/rcxZ7S8Q4_iAOqJj.mp4?tag=21",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21346,
+      "timestamp": "2026-04-15T22:02:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 10180997,
+      "size_mb": 9.71,
+      "timestamp": "2026-04-15T22:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "（非卖）福利🧧一刻：\n摊牌了！不装了😂\n从劈柴那刻就一直勾引他了🫣\n即日起，凡一次性购🈵3套，免费赠！姐不是小气之人，有屌会共享~ https://t.co/IpWlNAfzUQ",
+    "publish_time": "2026-04-15T11:12:35"
+  },
+  {
+    "file_name": "uOL-MCTdLaG3z-Ei.mp4",
+    "user": {
+      "screen_name": "klspbr",
+      "name": "小帅气"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2044252315029258240/pu/vid/avc1/698x1278/uOL-MCTdLaG3z-Ei.mp4?tag=12",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21347,
+      "timestamp": "2026-04-15T22:02:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 9639628,
+      "size_mb": 9.19,
+      "timestamp": "2026-04-15T22:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "《遗失的心跳》&amp;回忆版\n喜欢就是喜欢 有点喜欢是什么意思 https://t.co/1Y93BbsVe8",
+    "publish_time": "2026-04-15T11:13:10"
+  },
+  {
+    "file_name": "HF6ovZ7WoAED73h.jpg",
+    "user": {
+      "screen_name": "chounizadi2021",
+      "name": "男神传送门"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF6ovZ7WoAED73h.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21348,
+      "timestamp": "2026-04-15T22:02:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 32454,
+      "size_mb": 0.03,
+      "timestamp": "2026-04-15T22:02:19",
+      "download_attempts": 0
+    },
+    "full_text": "【粉丝投稿】谁知道这个是谁，知道的请私信。第一个私信开门的可以免费寻人。（发帖寻人收费🧧，vpn不稳定，寻人/征友/买男性用品加个人VX（SYLjiankang2023），注明来意否则不通过） https://t.co/eq3venMeEN",
+    "publish_time": "2026-04-15T11:29:42"
+  },
+  {
+    "file_name": "HF6sSNvakAAybqU.jpg",
+    "user": {
+      "screen_name": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF6sSNvakAAybqU.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21349,
+      "timestamp": "2026-04-15T22:02:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 74587,
+      "size_mb": 0.07,
+      "timestamp": "2026-04-15T22:02:19",
+      "download_attempts": 0
+    },
+    "full_text": "I am my own abyss. ◼️ \nSITH By YONGIANT https://t.co/Qdqu6dwrT9",
+    "publish_time": "2026-04-15T11:45:09"
+  },
+  {
+    "file_name": "HF6sSOXasAIIsVY.jpg",
+    "user": {
+      "screen_name": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF6sSOXasAIIsVY.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21350,
+      "timestamp": "2026-04-15T22:02:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 47408,
+      "size_mb": 0.05,
+      "timestamp": "2026-04-15T22:02:20",
+      "download_attempts": 0
+    },
+    "full_text": "I am my own abyss. ◼️ \nSITH By YONGIANT https://t.co/Qdqu6dwrT9",
+    "publish_time": "2026-04-15T11:45:09"
+  },
+  {
+    "file_name": "HF6sSP8asAIqQTz.jpg",
+    "user": {
+      "screen_name": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF6sSP8asAIqQTz.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21351,
+      "timestamp": "2026-04-15T22:02:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 59526,
+      "size_mb": 0.06,
+      "timestamp": "2026-04-15T22:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "I am my own abyss. ◼️ \nSITH By YONGIANT https://t.co/Qdqu6dwrT9",
+    "publish_time": "2026-04-15T11:45:09"
+  },
+  {
+    "file_name": "HF6sSREakAAbYcj.jpg",
+    "user": {
+      "screen_name": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF6sSREakAAbYcj.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21352,
+      "timestamp": "2026-04-15T22:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 70315,
+      "size_mb": 0.07,
+      "timestamp": "2026-04-15T22:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "I am my own abyss. ◼️ \nSITH By YONGIANT https://t.co/Qdqu6dwrT9",
+    "publish_time": "2026-04-15T11:45:09"
+  },
+  {
+    "file_name": "qqqmGeUeMJTNTEZb.mp4",
+    "user": {
+      "screen_name": "YoungOu123",
+      "name": "Young Ou"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2044268356518457345/vid/avc1/720x1280/qqqmGeUeMJTNTEZb.mp4?tag=21",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21353,
+      "timestamp": "2026-04-15T22:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1981689,
+      "size_mb": 1.89,
+      "timestamp": "2026-04-15T22:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "皮质醇大爆炸 https://t.co/zeMyVD6JNt",
+    "publish_time": "2026-04-15T12:15:52"
+  },
+  {
+    "file_name": "hdYvxpO608Y0IGK1.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2044275638195105797/vid/avc1/608x1080/hdYvxpO608Y0IGK1.mp4?tag=21",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21354,
+      "timestamp": "2026-04-15T22:02:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 17031433,
+      "size_mb": 16.24,
+      "timestamp": "2026-04-15T22:02:25",
+      "download_attempts": 0
+    },
+    "full_text": "浩浩 https://t.co/DeMZCqrScK",
+    "publish_time": "2026-04-15T12:46:58"
+  },
+  {
+    "file_name": "GXSSB13jI1vYc7A7.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2044276399947821056/vid/avc1/720x1280/GXSSB13jI1vYc7A7.mp4?tag=21",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (53MB > 50MB)",
+      "timestamp": "2026-04-15T22:02:31",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 55811454,
+      "size_mb": 53.23,
+      "timestamp": "2026-04-15T22:02:31",
+      "download_attempts": 0
+    },
+    "full_text": "龙飞 https://t.co/wLOv7I3Rzn",
+    "publish_time": "2026-04-15T12:48:52"
+  },
+  {
+    "file_name": "xFSLoLRooAoqeNAF.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2044276811753021440/vid/avc1/720x1280/xFSLoLRooAoqeNAF.mp4?tag=21",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21355,
+      "timestamp": "2026-04-15T22:02:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 38191732,
+      "size_mb": 36.42,
+      "timestamp": "2026-04-15T22:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "龙飞 性感龙飞被玩鸡抠菊 https://t.co/fanZe8GWvK",
+    "publish_time": "2026-04-15T12:50:10"
+  },
+  {
+    "file_name": "kwtY9owIMKvVSARu.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2044277103613587456/vid/avc1/720x1280/kwtY9owIMKvVSARu.mp4?tag=21",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (56MB > 50MB)",
+      "timestamp": "2026-04-15T22:02:47",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 59035248,
+      "size_mb": 56.3,
+      "timestamp": "2026-04-15T22:02:47",
+      "download_attempts": 0
+    },
+    "full_text": "虎砸 https://t.co/FMo7M6GH6r",
+    "publish_time": "2026-04-15T12:54:56"
+  },
+  {
+    "file_name": "XJqc5JY9GpLrChP0.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2044278385539723265/vid/avc1/608x1080/XJqc5JY9GpLrChP0.mp4?tag=21",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (66MB > 50MB)",
+      "timestamp": "2026-04-15T22:02:48",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 69437521,
+      "size_mb": 66.22,
+      "timestamp": "2026-04-15T22:02:48",
+      "download_attempts": 0
+    },
+    "full_text": "酷力酥 https://t.co/qrkplcwmD9",
+    "publish_time": "2026-04-15T12:57:00"
+  },
+  {
+    "file_name": "MWZKJ_-LtpgOl0pR.mp4",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2044284442185965569/pu/vid/avc1/720x1280/MWZKJ_-LtpgOl0pR.mp4?tag=12",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21356,
+      "timestamp": "2026-04-15T22:02:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 13546561,
+      "size_mb": 12.92,
+      "timestamp": "2026-04-15T22:02:48",
+      "download_attempts": 0
+    },
+    "full_text": "偷摸玩玩 https://t.co/Ac6IaZaA5j",
+    "publish_time": "2026-04-15T13:19:58"
+  },
+  {
+    "file_name": "HF7GdpBasAAvnGD.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF7GdpBasAAvnGD.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21357,
+      "timestamp": "2026-04-15T22:02:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 99890,
+      "size_mb": 0.1,
+      "timestamp": "2026-04-15T22:02:51",
+      "download_attempts": 0
+    },
+    "full_text": "petermkle https://t.co/dr6cNRuw0m",
+    "publish_time": "2026-04-15T13:39:31"
+  },
+  {
+    "file_name": "HF7GjWkasAApCvH.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF7GjWkasAApCvH.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21358,
+      "timestamp": "2026-04-15T22:02:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 128165,
+      "size_mb": 0.12,
+      "timestamp": "2026-04-15T22:02:52",
+      "download_attempts": 0
+    },
+    "full_text": "jayxji https://t.co/q0QHsMuQra",
+    "publish_time": "2026-04-15T13:39:55"
+  },
+  {
+    "file_name": "s0YVgXWtEzxYzq6U.mp4",
+    "user": {
+      "screen_name": "liangqu111",
+      "name": "Leo qu"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2044291180608008193/vid/avc1/1280x720/s0YVgXWtEzxYzq6U.mp4?tag=21",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21359,
+      "timestamp": "2026-04-15T22:02:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 18497758,
+      "size_mb": 17.64,
+      "timestamp": "2026-04-15T22:02:52",
+      "download_attempts": 0
+    },
+    "full_text": "套弄自己的🍆🍆🍆\n然後就💦💦💦💦💦\n這次好像不怎麼多 https://t.co/kE3QKwClld",
+    "publish_time": "2026-04-15T13:46:57"
+  },
+  {
+    "file_name": "rVzXsOf1Ptw9C5t3.mp4",
+    "user": {
+      "screen_name": "max06734521",
+      "name": "🪳大王🪳"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2044291281405587456/vid/avc1/720x1280/rVzXsOf1Ptw9C5t3.mp4?tag=21",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21360,
+      "timestamp": "2026-04-15T22:02:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 926525,
+      "size_mb": 0.88,
+      "timestamp": "2026-04-15T22:02:55",
+      "download_attempts": 0
+    },
+    "full_text": "丝袜不止能穿，还能 https://t.co/Kb6o0dldoV",
+    "publish_time": "2026-04-15T13:47:55"
+  },
+  {
+    "file_name": "pyclLOz5NBni9qIG.mp4",
+    "user": {
+      "screen_name": "1woxnr1",
+      "name": "1woxnr1"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2044294055740530688/pu/vid/avc1/720x1280/pyclLOz5NBni9qIG.mp4?tag=12",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21361,
+      "timestamp": "2026-04-15T22:02:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2930356,
+      "size_mb": 2.79,
+      "timestamp": "2026-04-15T22:02:57",
+      "download_attempts": 0
+    },
+    "full_text": "库存 https://t.co/1xuEToCcVk",
+    "publish_time": "2026-04-15T13:58:08"
+  },
+  {
+    "file_name": "HF7UCeaW4AAo3nt.jpg",
+    "user": {
+      "screen_name": "chounizadi2021",
+      "name": "男神传送门"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF7UCeaW4AAo3nt.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21362,
+      "timestamp": "2026-04-15T22:02:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 116727,
+      "size_mb": 0.11,
+      "timestamp": "2026-04-15T22:02:58",
+      "download_attempts": 0
+    },
+    "full_text": "【粉丝投稿】谁知道这个抖音博主的推特ID，知道的请私信。第一个私信开门的可以免费寻人。（发帖寻人收费🧧，vpn不稳定，寻人/征友/买男性用品加个人VX（SYLjiankang2023），注明来意否则不通过） https://t.co/i7aMhzPM0x",
+    "publish_time": "2026-04-15T14:39:04"
+  },
+  {
+    "file_name": "HF7UCe4asAML2h0.jpg",
+    "user": {
+      "screen_name": "chounizadi2021",
+      "name": "男神传送门"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF7UCe4asAML2h0.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21363,
+      "timestamp": "2026-04-15T22:02:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 107022,
+      "size_mb": 0.1,
+      "timestamp": "2026-04-15T22:02:58",
+      "download_attempts": 0
+    },
+    "full_text": "【粉丝投稿】谁知道这个抖音博主的推特ID，知道的请私信。第一个私信开门的可以免费寻人。（发帖寻人收费🧧，vpn不稳定，寻人/征友/买男性用品加个人VX（SYLjiankang2023），注明来意否则不通过） https://t.co/i7aMhzPM0x",
+    "publish_time": "2026-04-15T14:39:04"
+  },
+  {
+    "file_name": "HF7UCeXXwAEGrJp.jpg",
+    "user": {
+      "screen_name": "chounizadi2021",
+      "name": "男神传送门"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF7UCeXXwAEGrJp.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21364,
+      "timestamp": "2026-04-15T22:03:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 66053,
+      "size_mb": 0.06,
+      "timestamp": "2026-04-15T22:02:59",
+      "download_attempts": 0
+    },
+    "full_text": "【粉丝投稿】谁知道这个抖音博主的推特ID，知道的请私信。第一个私信开门的可以免费寻人。（发帖寻人收费🧧，vpn不稳定，寻人/征友/买男性用品加个人VX（SYLjiankang2023），注明来意否则不通过） https://t.co/i7aMhzPM0x",
+    "publish_time": "2026-04-15T14:39:04"
+  },
+  {
+    "file_name": "HF7jlqXasAAQ9LQ.jpg",
+    "user": {
+      "screen_name": "hopechen0312",
+      "name": "hope"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF7jlqXasAAQ9LQ.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21365,
+      "timestamp": "2026-04-15T22:03:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 11205,
+      "size_mb": 0.01,
+      "timestamp": "2026-04-15T22:03:00",
+      "download_attempts": 0
+    },
+    "full_text": "#NewProfilePic (新個人資料照片) https://t.co/cnAtFl16Yf",
+    "publish_time": "2026-04-15T15:46:46"
+  },
+  {
+    "file_name": "HF7tP-rbYAAd8GW.jpg",
+    "user": {
+      "screen_name": "junjunshiheihei",
+      "name": "JunJun"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF7tP-rbYAAd8GW.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21366,
+      "timestamp": "2026-04-15T22:03:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 169191,
+      "size_mb": 0.16,
+      "timestamp": "2026-04-15T22:03:01",
+      "download_attempts": 0
+    },
+    "full_text": "最近发大水了💦 https://t.co/zYmwpZt43a",
+    "publish_time": "2026-04-15T16:29:00"
+  },
+  {
+    "file_name": "HF7uonsbEAAu6dH.jpg",
+    "user": {
+      "screen_name": "NStaceyann60720",
+      "name": "犬の奴隷."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF7uonsbEAAu6dH.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21367,
+      "timestamp": "2026-04-15T22:03:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 233759,
+      "size_mb": 0.22,
+      "timestamp": "2026-04-15T22:03:02",
+      "download_attempts": 0
+    },
+    "full_text": "想被干一晚上之后，深夜这样出去在路边或者哪里被人抓住猛干😍 https://t.co/B38EqQNXfw",
+    "publish_time": "2026-04-15T16:35:05"
+  },
+  {
+    "file_name": "HF7uoonbsAEJQrM.jpg",
+    "user": {
+      "screen_name": "NStaceyann60720",
+      "name": "犬の奴隷."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF7uoonbsAEJQrM.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21368,
+      "timestamp": "2026-04-15T22:03:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 218062,
+      "size_mb": 0.21,
+      "timestamp": "2026-04-15T22:03:02",
+      "download_attempts": 0
+    },
+    "full_text": "想被干一晚上之后，深夜这样出去在路边或者哪里被人抓住猛干😍 https://t.co/B38EqQNXfw",
+    "publish_time": "2026-04-15T16:35:05"
+  },
+  {
+    "file_name": "HF72FiWbIAEdCfV.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF72FiWbIAEdCfV.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21369,
+      "timestamp": "2026-04-15T22:03:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 182369,
+      "size_mb": 0.17,
+      "timestamp": "2026-04-15T22:03:03",
+      "download_attempts": 0
+    },
+    "full_text": "·\n【夏 野 Summer Widerness】\n\n📷拍得非常好👍 摄影师HenyJi  @henryji8090 ｜他还有一个账号：@sunmeeter89 ｜提供电子书和订阅 https://t.co/ibvKEIXo9w",
+    "publish_time": "2026-04-15T17:07:35"
+  },
+  {
+    "file_name": "HF72FiXbUAAZycj.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF72FiXbUAAZycj.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21370,
+      "timestamp": "2026-04-15T22:03:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 98274,
+      "size_mb": 0.09,
+      "timestamp": "2026-04-15T22:03:04",
+      "download_attempts": 0
+    },
+    "full_text": "·\n【夏 野 Summer Widerness】\n\n📷拍得非常好👍 摄影师HenyJi  @henryji8090 ｜他还有一个账号：@sunmeeter89 ｜提供电子书和订阅 https://t.co/ibvKEIXo9w",
+    "publish_time": "2026-04-15T17:07:35"
+  },
+  {
+    "file_name": "HF72FiYawAE-vjs.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF72FiYawAE-vjs.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21371,
+      "timestamp": "2026-04-15T22:03:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 169183,
+      "size_mb": 0.16,
+      "timestamp": "2026-04-15T22:03:05",
+      "download_attempts": 0
+    },
+    "full_text": "·\n【夏 野 Summer Widerness】\n\n📷拍得非常好👍 摄影师HenyJi  @henryji8090 ｜他还有一个账号：@sunmeeter89 ｜提供电子书和订阅 https://t.co/ibvKEIXo9w",
+    "publish_time": "2026-04-15T17:07:35"
+  },
+  {
+    "file_name": "HF72bSsbQAAC8Zp.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF72bSsbQAAC8Zp.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21372,
+      "timestamp": "2026-04-15T22:03:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 134329,
+      "size_mb": 0.13,
+      "timestamp": "2026-04-15T22:03:05",
+      "download_attempts": 0
+    },
+    "full_text": "再加三幅 https://t.co/0SNHqgbcBG",
+    "publish_time": "2026-04-15T17:09:04"
+  },
+  {
+    "file_name": "HF72bSsb0AAA6PP.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF72bSsb0AAA6PP.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21373,
+      "timestamp": "2026-04-15T22:03:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101482,
+      "size_mb": 0.1,
+      "timestamp": "2026-04-15T22:03:06",
+      "download_attempts": 0
+    },
+    "full_text": "再加三幅 https://t.co/0SNHqgbcBG",
+    "publish_time": "2026-04-15T17:09:04"
+  },
+  {
+    "file_name": "HF72bSsbIAAFPnz.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF72bSsbIAAFPnz.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21374,
+      "timestamp": "2026-04-15T22:03:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 149493,
+      "size_mb": 0.14,
+      "timestamp": "2026-04-15T22:03:07",
+      "download_attempts": 0
+    },
+    "full_text": "再加三幅 https://t.co/0SNHqgbcBG",
+    "publish_time": "2026-04-15T17:09:04"
+  },
+  {
+    "file_name": "sIjmLqtk56zgKvUn.mp4",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2044345458022305792/vid/avc1/1920x1080/sIjmLqtk56zgKvUn.mp4?tag=21",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (320MB > 50MB)",
+      "timestamp": "2026-04-15T22:03:09",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 335755086,
+      "size_mb": 320.2,
+      "timestamp": "2026-04-15T22:03:09",
+      "download_attempts": 0
+    },
+    "full_text": "·\n🌈曼谷泼水节 GCIRCUIT 2026 𝘽𝙊𝙔 𝙋𝙊𝙊𝙇 𝙋𝘼𝙍𝙏𝙔 𝘼𝙌𝙐𝘼 DAY2  \n\nVDO BY YouTube POPPORY.\n完整版来啦！ https://t.co/zdR4GJms0A",
+    "publish_time": "2026-04-15T17:28:18"
+  },
+  {
+    "file_name": "HF7_SPwa4AAedMu.jpg",
+    "user": {
+      "screen_name": "KevinLeeYoung92",
+      "name": "KevinLeeYoung"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF7_SPwa4AAedMu.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21375,
+      "timestamp": "2026-04-15T22:03:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 159486,
+      "size_mb": 0.15,
+      "timestamp": "2026-04-15T22:03:09",
+      "download_attempts": 0
+    },
+    "full_text": "17号上海🙋 https://t.co/mM52bQpCjA",
+    "publish_time": "2026-04-15T17:47:56"
+  },
+  {
+    "file_name": "gAFv6Y6zCrd0ajCf.mp4",
+    "user": {
+      "screen_name": "TALKrrrr",
+      "name": "叫你baby"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2044353531856216064/vid/avc1/720x1280/gAFv6Y6zCrd0ajCf.mp4?tag=21",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21376,
+      "timestamp": "2026-04-15T22:03:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5350939,
+      "size_mb": 5.1,
+      "timestamp": "2026-04-15T22:03:10",
+      "download_attempts": 0
+    },
+    "full_text": "家里有个杯子 https://t.co/HBb0NlwHkL",
+    "publish_time": "2026-04-15T17:54:18"
+  },
+  {
+    "file_name": "HF8CeH9a8AAcNje.mp4",
+    "user": {
+      "screen_name": "TALKrrrr",
+      "name": "叫你baby"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/HF8CeH9a8AAcNje.mp4",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21377,
+      "timestamp": "2026-04-15T22:03:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 50948,
+      "size_mb": 0.05,
+      "timestamp": "2026-04-15T22:03:12",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ehfj5g7yZy",
+    "publish_time": "2026-04-15T18:01:48"
+  },
+  {
+    "file_name": "HF8CgH8bQAEAuLS.jpg",
+    "user": {
+      "screen_name": "TALKrrrr",
+      "name": "叫你baby"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF8CgH8bQAEAuLS.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21378,
+      "timestamp": "2026-04-15T22:03:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 103086,
+      "size_mb": 0.1,
+      "timestamp": "2026-04-15T22:03:13",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/1aPnTTM4HI",
+    "publish_time": "2026-04-15T18:01:51"
+  },
+  {
+    "file_name": "IZ1TeiXwwc7PYvic.mp4",
+    "user": {
+      "screen_name": "fanglangnantu",
+      "name": "NANTU"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2044360907107766272/vid/avc1/720x1280/IZ1TeiXwwc7PYvic.mp4?tag=21",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21379,
+      "timestamp": "2026-04-15T22:03:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 17013510,
+      "size_mb": 16.23,
+      "timestamp": "2026-04-15T22:03:14",
+      "download_attempts": 0
+    },
+    "full_text": "S级心理🔥plus狠狠干逼体质 https://t.co/JCvpE4fz1m",
+    "publish_time": "2026-04-15T18:25:19"
+  },
+  {
+    "file_name": "HF8MkN8acAAHJGR.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF8MkN8acAAHJGR.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21380,
+      "timestamp": "2026-04-15T22:03:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 118265,
+      "size_mb": 0.11,
+      "timestamp": "2026-04-15T22:03:16",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/dZ9ceHZvIX",
+    "publish_time": "2026-04-15T18:45:49"
+  },
+  {
+    "file_name": "HF8NYQObwAA85mK.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF8NYQObwAA85mK.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21381,
+      "timestamp": "2026-04-15T22:03:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 113488,
+      "size_mb": 0.11,
+      "timestamp": "2026-04-15T22:03:17",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/J1soD8Qv2G",
+    "publish_time": "2026-04-15T18:49:22"
+  },
+  {
+    "file_name": "HF8PXiDbsAAUtxa.jpg",
+    "user": {
+      "screen_name": "xvszrxq",
+      "name": "Pupfool"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF8PXiDbsAAUtxa.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21382,
+      "timestamp": "2026-04-15T22:03:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 122520,
+      "size_mb": 0.12,
+      "timestamp": "2026-04-15T22:03:17",
+      "download_attempts": 0
+    },
+    "full_text": "Foster care service for stray dog Xiaoxv：流浪狗小旭被繩子緊緊捆綁住四肢，結實的胸肌在繩痕下微微顫動，寄養主人的視角下，跪姿、抬頭、吐舌，強壯的身軀盡顯臣服。互動時，他被輕輕縴縄低嗚，眼神濕潤，徹底沉迷被掌控的快感 \n🐶：xiaoxv @xvszrxq \n📷：變態實驗室@KinkyLab2024 https://t.co/Y7XzbsE0Il",
+    "publish_time": "2026-04-15T18:58:05"
+  },
+  {
+    "file_name": "HF8PXiDaQAAVJtM.jpg",
+    "user": {
+      "screen_name": "xvszrxq",
+      "name": "Pupfool"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF8PXiDaQAAVJtM.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21383,
+      "timestamp": "2026-04-15T22:03:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 86050,
+      "size_mb": 0.08,
+      "timestamp": "2026-04-15T22:03:18",
+      "download_attempts": 0
+    },
+    "full_text": "Foster care service for stray dog Xiaoxv：流浪狗小旭被繩子緊緊捆綁住四肢，結實的胸肌在繩痕下微微顫動，寄養主人的視角下，跪姿、抬頭、吐舌，強壯的身軀盡顯臣服。互動時，他被輕輕縴縄低嗚，眼神濕潤，徹底沉迷被掌控的快感 \n🐶：xiaoxv @xvszrxq \n📷：變態實驗室@KinkyLab2024 https://t.co/Y7XzbsE0Il",
+    "publish_time": "2026-04-15T18:58:05"
+  },
+  {
+    "file_name": "HF8PXiFb0AArNKL.jpg",
+    "user": {
+      "screen_name": "xvszrxq",
+      "name": "Pupfool"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF8PXiFb0AArNKL.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21384,
+      "timestamp": "2026-04-15T22:03:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 102067,
+      "size_mb": 0.1,
+      "timestamp": "2026-04-15T22:03:19",
+      "download_attempts": 0
+    },
+    "full_text": "Foster care service for stray dog Xiaoxv：流浪狗小旭被繩子緊緊捆綁住四肢，結實的胸肌在繩痕下微微顫動，寄養主人的視角下，跪姿、抬頭、吐舌，強壯的身軀盡顯臣服。互動時，他被輕輕縴縄低嗚，眼神濕潤，徹底沉迷被掌控的快感 \n🐶：xiaoxv @xvszrxq \n📷：變態實驗室@KinkyLab2024 https://t.co/Y7XzbsE0Il",
+    "publish_time": "2026-04-15T18:58:05"
+  },
+  {
+    "file_name": "HF8PXi4bQAA-l2b.jpg",
+    "user": {
+      "screen_name": "xvszrxq",
+      "name": "Pupfool"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF8PXi4bQAA-l2b.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21385,
+      "timestamp": "2026-04-15T22:03:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 92038,
+      "size_mb": 0.09,
+      "timestamp": "2026-04-15T22:03:20",
+      "download_attempts": 0
+    },
+    "full_text": "Foster care service for stray dog Xiaoxv：流浪狗小旭被繩子緊緊捆綁住四肢，結實的胸肌在繩痕下微微顫動，寄養主人的視角下，跪姿、抬頭、吐舌，強壯的身軀盡顯臣服。互動時，他被輕輕縴縄低嗚，眼神濕潤，徹底沉迷被掌控的快感 \n🐶：xiaoxv @xvszrxq \n📷：變態實驗室@KinkyLab2024 https://t.co/Y7XzbsE0Il",
+    "publish_time": "2026-04-15T18:58:05"
+  },
+  {
+    "file_name": "HF8ZuuGbIAAnEPl.jpg",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF8ZuuGbIAAnEPl.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21386,
+      "timestamp": "2026-04-15T22:03:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 183794,
+      "size_mb": 0.18,
+      "timestamp": "2026-04-15T22:03:20",
+      "download_attempts": 0
+    },
+    "full_text": "hot！🥵 https://t.co/Nz09UB8KvV",
+    "publish_time": "2026-04-15T19:43:22"
+  },
+  {
+    "file_name": "HF8ecJLagAA7Wka.jpg",
+    "user": {
+      "screen_name": "yangmoyum",
+      "name": "阳沫雨"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF8ecJLagAA7Wka.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21387,
+      "timestamp": "2026-04-15T22:03:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 129990,
+      "size_mb": 0.12,
+      "timestamp": "2026-04-15T22:03:21",
+      "download_attempts": 0
+    },
+    "full_text": "没有人玩，只能把自己玩到射🥵🥵🥵 https://t.co/GP4dtDIEEZ",
+    "publish_time": "2026-04-15T20:04:26"
+  },
+  {
+    "file_name": "9DTzw71GmDpna92w.mp4",
+    "user": {
+      "screen_name": "yangmoyum",
+      "name": "阳沫雨"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2044386224719462401/vid/avc1/720x986/9DTzw71GmDpna92w.mp4?tag=21",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21388,
+      "timestamp": "2026-04-15T22:03:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7889278,
+      "size_mb": 7.52,
+      "timestamp": "2026-04-15T22:03:22",
+      "download_attempts": 0
+    },
+    "full_text": "没有人玩，只能把自己玩到射🥵🥵🥵 https://t.co/GP4dtDIEEZ",
+    "publish_time": "2026-04-15T20:04:26"
+  },
+  {
+    "file_name": "HF8fvfSbQAI3qMn.jpg",
+    "user": {
+      "screen_name": "milk_leak",
+      "name": "milk_leak"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF8fvfSbQAI3qMn.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21389,
+      "timestamp": "2026-04-15T22:03:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 62156,
+      "size_mb": 0.06,
+      "timestamp": "2026-04-15T22:03:24",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ARKmsGevi6",
+    "publish_time": "2026-04-15T20:09:36"
+  },
+  {
+    "file_name": "LvTb2a6Nvu8SIn4k.mp4",
+    "user": {
+      "screen_name": "lailai6699",
+      "name": "lailai69"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2044394545241264128/pu/vid/avc1/720x1280/LvTb2a6Nvu8SIn4k.mp4?tag=12",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21390,
+      "timestamp": "2026-04-15T22:03:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 556206,
+      "size_mb": 0.53,
+      "timestamp": "2026-04-15T22:03:25",
+      "download_attempts": 0
+    },
+    "full_text": "还有一半耶，吃不下了，这根本不是单人份\n#成都\n#冒烤鸭 https://t.co/V2yIu2RtGR",
+    "publish_time": "2026-04-15T20:37:11"
+  },
+  {
+    "file_name": "PJ0C39MlIvgoH1oJ.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2044283765506367488/vid/avc1/1920x1080/PJ0C39MlIvgoH1oJ.mp4?tag=21",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (286MB > 50MB)",
+      "timestamp": "2026-04-15T22:03:49",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 300830289,
+      "size_mb": 286.89,
+      "timestamp": "2026-04-15T22:03:49",
+      "download_attempts": 0
+    },
+    "full_text": "pecpal48 https://t.co/m4uhJdreFP",
+    "publish_time": "2026-04-15T20:59:23"
+  },
+  {
+    "file_name": "HF819mVbcAA0DJI.jpg",
+    "user": {
+      "screen_name": "Baolupidan",
+      "name": "皮蛋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HF819mVbcAA0DJI.jpg",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21391,
+      "timestamp": "2026-04-15T22:03:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 149582,
+      "size_mb": 0.14,
+      "timestamp": "2026-04-15T22:03:49",
+      "download_attempts": 0
+    },
+    "full_text": "瘦弱 https://t.co/bmHwzEr3ww",
+    "publish_time": "2026-04-15T21:46:59"
+  },
+  {
+    "file_name": "68CLKzFnDrPmJu99.mp4",
+    "user": {
+      "screen_name": "josephmrkao",
+      "name": "185 Joseph"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2044406878986510336/vid/avc1/1080x1920/68CLKzFnDrPmJu99.mp4?tag=21",
+    "read_time": "2026-04-15T22:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21392,
+      "timestamp": "2026-04-15T22:03:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 15129279,
+      "size_mb": 14.43,
+      "timestamp": "2026-04-15T22:03:51",
+      "download_attempts": 0
+    },
+    "full_text": "no rush tonight…\nnot much of a dancer 🌛 https://t.co/eidA5n5Js3",
+    "publish_time": "2026-04-15T22:00:02"
   }
 ]
