@@ -508,14 +508,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (593MB > 50MB)",
       "timestamp": "2026-04-16T20:02:48",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 622428040,
       "size_mb": 593.59,
-      "timestamp": "2026-04-16T20:02:48",
+      "timestamp": "2026-04-16T21:02:33",
       "download_attempts": 0
     },
     "full_text": "·\nGCIRCUIT 2026💦  20周年快乐🎊\n\n✨𝘾𝙇𝙊𝙎𝙄𝙉𝙂 𝙋𝘼𝙍𝙏𝙔  Very Kinky😂\n\n油管👉POPPORY 的现场视频👍 https://t.co/kpRZoG43NP",
@@ -1378,5 +1378,83 @@
     },
     "full_text": "有想一起的吗？ https://t.co/E6GjvV4lwG",
     "publish_time": "2026-04-16T19:40:16"
+  },
+  {
+    "file_name": "HGBqgrLaIAALY46.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGBqgrLaIAALY46.jpg",
+    "read_time": "2026-04-16T21:01:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21449,
+      "timestamp": "2026-04-16T21:02:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 125917,
+      "size_mb": 0.12,
+      "timestamp": "2026-04-16T21:02:33",
+      "download_attempts": 0
+    },
+    "full_text": "nguyen.hai95 https://t.co/0A9A5BYN1o",
+    "publish_time": "2026-04-16T20:14:45"
+  },
+  {
+    "file_name": "HGBtyEtbwAAoqTx.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGBtyEtbwAAoqTx.jpg",
+    "read_time": "2026-04-16T21:01:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21450,
+      "timestamp": "2026-04-16T21:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 44530,
+      "size_mb": 0.04,
+      "timestamp": "2026-04-16T21:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/8CvpuUh3jl",
+    "publish_time": "2026-04-16T20:29:02"
+  },
+  {
+    "file_name": "HGByqn8bgAARuqI.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGByqn8bgAARuqI.jpg",
+    "read_time": "2026-04-16T21:01:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21451,
+      "timestamp": "2026-04-16T21:02:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 123605,
+      "size_mb": 0.12,
+      "timestamp": "2026-04-16T21:02:36",
+      "download_attempts": 0
+    },
+    "full_text": "虎砸合集截图 https://t.co/JNwQUf3fKj",
+    "publish_time": "2026-04-16T20:50:23"
   }
 ]
