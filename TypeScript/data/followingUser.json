@@ -662,6 +662,33 @@
     }
   },
   {
+    "restId": "1795688541332078592",
+    "legacy": {
+      "name": "Cynthia Fuimaono",
+      "screenName": "CFuimaono82031",
+      "createdAt": "Wed May 29 05:28:18 +0000 2024",
+      "description": "qq977421414 小众原创略贵 购买需提供支付宝绑定的电话号码打水印在视频上",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/locklock666",
+              "expanded_url": "http://t.me/locklock666",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/SYB8IS2H1K"
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1795688541332078592/1776335003",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2044723113213259776/xS9fiLId_normal.jpg"
+    }
+  },
+  {
     "restId": "1095517645317726208",
     "legacy": {
       "name": "Chaos",
@@ -3156,12 +3183,12 @@
       "name": "奶粥🪬",
       "screenName": "naizhouzhou",
       "createdAt": "Tue Jul 29 08:07:40 +0000 2025",
-      "description": "梦中情0️⃣🍑@imbobozi，分享旧时光，某音🎵：奶粥🪬",
+      "description": "某音🎵：奶粥🪬",
       "entities": {
         "description": {}
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1950105898090672128/1753776861",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1950106162486996992/PPO9zjcJ_normal.jpg"
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2045136385531883520/AM-Os7u6_normal.jpg"
     }
   },
   {
