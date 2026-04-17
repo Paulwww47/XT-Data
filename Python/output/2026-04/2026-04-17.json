@@ -560,14 +560,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (71MB > 50MB)",
       "timestamp": "2026-04-17T11:01:43",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 75402620,
       "size_mb": 71.91,
-      "timestamp": "2026-04-17T11:01:43",
+      "timestamp": "2026-04-17T12:01:37",
       "download_attempts": 0
     },
     "full_text": "·\n💦泰国泼水节是国家的新年庆祝！我再发一个视频，来自IG：tetypeachy ：\n\n夜店时尚大赛FINALE : 🔥🔥GOLDEN TIDE — Roman Warrior 🔱 Fashion Runway，AWESOME SPORT \n\n📍 FAKE CLUB Fack Club Ratchada \n🔥 12 APRIL 2026 https://t.co/HAtekPSPEq",
@@ -598,5 +598,109 @@
     },
     "full_text": "1xhic https://t.co/6XlLLzruvt",
     "publish_time": "2026-04-17T10:48:48"
+  },
+  {
+    "file_name": "exbSNQZ-sSN8HtbF.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2044977122897448960/vid/avc1/720x1280/exbSNQZ-sSN8HtbF.mp4?tag=14",
+    "read_time": "2026-04-17T12:01:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21494,
+      "timestamp": "2026-04-17T12:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1735352,
+      "size_mb": 1.65,
+      "timestamp": "2026-04-17T12:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年4月17日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/ijmCEoRhST",
+    "publish_time": "2026-04-17T11:12:02"
+  },
+  {
+    "file_name": "HGE9AVvbgAA_KA6.jpg",
+    "user": {
+      "screen_name": "Exp_lam",
+      "name": "~Exp(λ)"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGE9AVvbgAA_KA6.jpg",
+    "read_time": "2026-04-17T12:01:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21495,
+      "timestamp": "2026-04-17T12:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 96236,
+      "size_mb": 0.09,
+      "timestamp": "2026-04-17T12:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/3ytkzwb0pf",
+    "publish_time": "2026-04-17T11:34:25"
+  },
+  {
+    "file_name": "HGFAF2qbgAAPj99.jpg",
+    "user": {
+      "screen_name": "XuwtoA",
+      "name": "y x"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGFAF2qbgAAPj99.jpg",
+    "read_time": "2026-04-17T12:01:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21496,
+      "timestamp": "2026-04-17T12:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 170145,
+      "size_mb": 0.16,
+      "timestamp": "2026-04-17T12:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "有人期待嘛 https://t.co/9J3NK2aiZn",
+    "publish_time": "2026-04-17T11:47:54"
+  },
+  {
+    "file_name": "HGFAF2raQAAQfp2.jpg",
+    "user": {
+      "screen_name": "XuwtoA",
+      "name": "y x"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGFAF2raQAAQfp2.jpg",
+    "read_time": "2026-04-17T12:01:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21497,
+      "timestamp": "2026-04-17T12:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 136702,
+      "size_mb": 0.13,
+      "timestamp": "2026-04-17T12:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "有人期待嘛 https://t.co/9J3NK2aiZn",
+    "publish_time": "2026-04-17T11:47:54"
   }
 ]
