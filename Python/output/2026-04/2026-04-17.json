@@ -796,14 +796,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (124MB > 50MB)",
       "timestamp": "2026-04-17T13:02:03",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 130694481,
       "size_mb": 124.64,
-      "timestamp": "2026-04-17T13:02:03",
+      "timestamp": "2026-04-17T14:01:50",
       "download_attempts": 0
     },
     "full_text": "昨天午睡前射小烧杯 睡了个好觉 https://t.co/ozXsmcJ7uM",
@@ -886,5 +886,109 @@
     },
     "full_text": "skrissk1121 https://t.co/xP3v2VvGRv",
     "publish_time": "2026-04-17T12:32:32"
+  },
+  {
+    "file_name": "HGFU5tZboAAuCno.jpg",
+    "user": {
+      "screen_name": "KIDDEN7777777",
+      "name": "kidden"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGFU5tZboAAuCno.jpg",
+    "read_time": "2026-04-17T14:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21504,
+      "timestamp": "2026-04-17T14:01:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 160185,
+      "size_mb": 0.15,
+      "timestamp": "2026-04-17T14:01:50",
+      "download_attempts": 0
+    },
+    "full_text": "心情 https://t.co/Wvv8Lu8Tgq",
+    "publish_time": "2026-04-17T13:18:51"
+  },
+  {
+    "file_name": "HGFWH7WbgAAzx-4.jpg",
+    "user": {
+      "screen_name": "XuwtoA",
+      "name": "y x"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGFWH7WbgAAzx-4.jpg",
+    "read_time": "2026-04-17T14:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21505,
+      "timestamp": "2026-04-17T14:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 130693,
+      "size_mb": 0.12,
+      "timestamp": "2026-04-17T14:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/HZqyoz53mb",
+    "publish_time": "2026-04-17T13:24:10"
+  },
+  {
+    "file_name": "HGFWwNUbwAAUPgf.jpg",
+    "user": {
+      "screen_name": "XuwtoA",
+      "name": "y x"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGFWwNUbwAAUPgf.jpg",
+    "read_time": "2026-04-17T14:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21506,
+      "timestamp": "2026-04-17T14:01:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 138520,
+      "size_mb": 0.13,
+      "timestamp": "2026-04-17T14:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/c6x4UAH0x3",
+    "publish_time": "2026-04-17T13:26:55"
+  },
+  {
+    "file_name": "m_wL7ZeKgzGgwkoq.mp4",
+    "user": {
+      "screen_name": "SPHYNX688",
+      "name": "无脸猫SPHYNX（广东）"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2045017697860382720/vid/avc1/720x1280/m_wL7ZeKgzGgwkoq.mp4?tag=21",
+    "read_time": "2026-04-17T14:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21507,
+      "timestamp": "2026-04-17T14:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 20629635,
+      "size_mb": 19.67,
+      "timestamp": "2026-04-17T14:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "『公厕』🚽🛍️\n在商场厕所被内射，然后夹着精液逛街\n-\n@SPHYNX688 https://t.co/omnWw6SXQO",
+    "publish_time": "2026-04-17T13:53:37"
   }
 ]
