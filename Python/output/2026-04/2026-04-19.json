@@ -154,5 +154,31 @@
     },
     "full_text": "https://t.co/YlihmtaNlu",
     "publish_time": "2026-04-19T00:47:43"
+  },
+  {
+    "file_name": "QHXcRKoeKkAsvcXD.mp4",
+    "user": {
+      "screen_name": "haoyun9988",
+      "name": "三亚原(天蝎)"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2045582750594265088/vid/avc1/720x1280/QHXcRKoeKkAsvcXD.mp4?tag=21",
+    "read_time": "2026-04-19T04:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21664,
+      "timestamp": "2026-04-19T04:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3999656,
+      "size_mb": 3.81,
+      "timestamp": "2026-04-19T04:02:20",
+      "download_attempts": 0
+    },
+    "full_text": "三亚 https://t.co/lRv6cW03cQ",
+    "publish_time": "2026-04-19T03:19:02"
   }
 ]
