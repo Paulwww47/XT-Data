@@ -1418,17 +1418,253 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (107MB > 50MB)",
       "timestamp": "2026-04-18T14:02:17",
+      "notification_sent": true
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 112267060,
+      "size_mb": 107.07,
+      "timestamp": "2026-04-18T15:01:12",
+      "download_attempts": 0
+    },
+    "full_text": "周末适合玩棒子 https://t.co/Oyl2ef53jv",
+    "publish_time": "2026-04-18T13:50:16"
+  },
+  {
+    "file_name": "HGKpV9fbcAA98We.jpg",
+    "user": {
+      "screen_name": "r1929979006488",
+      "name": "ia__"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGKpV9fbcAA98We.jpg",
+    "read_time": "2026-04-18T15:01:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21619,
+      "timestamp": "2026-04-18T15:01:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 60670,
+      "size_mb": 0.06,
+      "timestamp": "2026-04-18T15:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/kMfxZ0pqPc",
+    "publish_time": "2026-04-18T14:06:14"
+  },
+  {
+    "file_name": "HGKpV9fb0AEOEsO.jpg",
+    "user": {
+      "screen_name": "r1929979006488",
+      "name": "ia__"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGKpV9fb0AEOEsO.jpg",
+    "read_time": "2026-04-18T15:01:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21620,
+      "timestamp": "2026-04-18T15:01:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 108113,
+      "size_mb": 0.1,
+      "timestamp": "2026-04-18T15:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/kMfxZ0pqPc",
+    "publish_time": "2026-04-18T14:06:14"
+  },
+  {
+    "file_name": "f81IS_3p8GRGXL7C.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2045382624013873152/vid/avc1/720x1280/f81IS_3p8GRGXL7C.mp4?tag=21",
+    "read_time": "2026-04-18T15:01:11",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (212MB > 50MB)",
+      "timestamp": "2026-04-18T15:01:36",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 112267060,
-      "size_mb": 107.07,
-      "timestamp": "2026-04-18T14:02:17",
+      "size": 222877447,
+      "size_mb": 212.55,
+      "timestamp": "2026-04-18T15:01:36",
       "download_attempts": 0
     },
-    "full_text": "周末适合玩棒子 https://t.co/Oyl2ef53jv",
-    "publish_time": "2026-04-18T13:50:16"
+    "full_text": "饕top https://t.co/eTCZRxr3n2",
+    "publish_time": "2026-04-18T14:09:51"
+  },
+  {
+    "file_name": "HGKsSZ-bsAA0yXU.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGKsSZ-bsAA0yXU.jpg",
+    "read_time": "2026-04-18T15:01:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21621,
+      "timestamp": "2026-04-18T15:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 125959,
+      "size_mb": 0.12,
+      "timestamp": "2026-04-18T15:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "yitinchen1111 https://t.co/2p3q9tfnfB",
+    "publish_time": "2026-04-18T14:19:06"
+  },
+  {
+    "file_name": "MSQ6y6_6_vdBr8w3.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2045390214538137600/vid/avc1/720x720/MSQ6y6_6_vdBr8w3.mp4?tag=21",
+    "read_time": "2026-04-18T15:01:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21622,
+      "timestamp": "2026-04-18T15:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1961329,
+      "size_mb": 1.87,
+      "timestamp": "2026-04-18T15:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "为了回馈广大粉丝对我的支持！今天进我福利群🌹的将不收取任何费用，24h免费对我的粉丝们限时无门槛📷进入\n✨可观看所有未公开私人视频和写真 ✨\n👉领取方式🌸：https://t.co/UNPh81y3TS\n暗号 ：1069 https://t.co/b3t20eI1zb",
+    "publish_time": "2026-04-18T14:33:40"
+  },
+  {
+    "file_name": "HGKw_EHbgAAi5XT.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGKw_EHbgAAi5XT.jpg",
+    "read_time": "2026-04-18T15:01:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21623,
+      "timestamp": "2026-04-18T15:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101648,
+      "size_mb": 0.1,
+      "timestamp": "2026-04-18T15:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "marktototo https://t.co/Un7FZMxdq0",
+    "publish_time": "2026-04-18T14:39:37"
+  },
+  {
+    "file_name": "HGKxFdAaEAA9NG-.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGKxFdAaEAA9NG-.jpg",
+    "read_time": "2026-04-18T15:01:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21624,
+      "timestamp": "2026-04-18T15:01:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 317600,
+      "size_mb": 0.3,
+      "timestamp": "2026-04-18T15:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "iamfedge https://t.co/ENzgTfS20X",
+    "publish_time": "2026-04-18T14:40:03"
+  },
+  {
+    "file_name": "qebuZamJ48lruGa-.mp4",
+    "user": {
+      "screen_name": "klspbr",
+      "name": "小帅气"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2045393884579307520/pu/vid/avc1/406x720/qebuZamJ48lruGa-.mp4?tag=12",
+    "read_time": "2026-04-18T15:01:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21625,
+      "timestamp": "2026-04-18T15:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1735316,
+      "size_mb": 1.65,
+      "timestamp": "2026-04-18T15:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "直接露屌跳 上下切换欣赏 真帅啊 https://t.co/lLGd0vj51I",
+    "publish_time": "2026-04-18T14:48:09"
+  },
+  {
+    "file_name": "HGKzwSgaEAAvPXz.jpg",
+    "user": {
+      "screen_name": "singlechain1",
+      "name": "单链Harvey"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGKzwSgaEAAvPXz.jpg",
+    "read_time": "2026-04-18T15:01:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21626,
+      "timestamp": "2026-04-18T15:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 126518,
+      "size_mb": 0.12,
+      "timestamp": "2026-04-18T15:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "继续进步中💪('ω'💪) https://t.co/fQrqVE9N82",
+    "publish_time": "2026-04-18T14:51:43"
   }
 ]
