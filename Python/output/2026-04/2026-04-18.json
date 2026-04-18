@@ -1498,14 +1498,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (212MB > 50MB)",
       "timestamp": "2026-04-18T15:01:36",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 222877447,
       "size_mb": 212.55,
-      "timestamp": "2026-04-18T15:01:36",
+      "timestamp": "2026-04-18T16:01:13",
       "download_attempts": 0
     },
     "full_text": "饕top https://t.co/eTCZRxr3n2",
@@ -1666,5 +1666,57 @@
     },
     "full_text": "继续进步中💪('ω'💪) https://t.co/fQrqVE9N82",
     "publish_time": "2026-04-18T14:51:43"
+  },
+  {
+    "file_name": "6nHsIk0f3dDNn9rA.mp4",
+    "user": {
+      "screen_name": "kaka_lac",
+      "name": "kaka"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2045408067404353536/vid/avc1/720x1280/6nHsIk0f3dDNn9rA.mp4?tag=21",
+    "read_time": "2026-04-18T16:01:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21627,
+      "timestamp": "2026-04-18T16:01:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2083264,
+      "size_mb": 1.99,
+      "timestamp": "2026-04-18T16:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "完整版视频，请点击个人资料链接订阅。For the full version of the video, please click the information link to subscribe. https://t.co/0K4jlElhzH",
+    "publish_time": "2026-04-18T15:44:40"
+  },
+  {
+    "file_name": "QSa37RcL2JM7kFp5.mp4",
+    "user": {
+      "screen_name": "klspbr",
+      "name": "小帅气"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2045410913625473024/pu/vid/avc1/720x1280/QSa37RcL2JM7kFp5.mp4?tag=12",
+    "read_time": "2026-04-18T16:01:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21628,
+      "timestamp": "2026-04-18T16:01:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3817377,
+      "size_mb": 3.64,
+      "timestamp": "2026-04-18T16:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "十万粉网红 性感且粉嫩 太爽了 https://t.co/AvRaZyeM6T",
+    "publish_time": "2026-04-18T15:56:02"
   }
 ]
