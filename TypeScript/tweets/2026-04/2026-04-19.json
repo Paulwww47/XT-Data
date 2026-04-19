@@ -833,5 +833,33 @@
     "tweetUrl": "https://x.com/lovesamoyed_tw/status/2045848896551940529",
     "fullText": "New update on of",
     "publishTime": "2026-04-19T20:56:01"
+  },
+  {
+    "user": {
+      "screenName": "lailai6699",
+      "name": "lailai69"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2045853123491876866/pu/vid/avc1/720x1280/gsgOHnEvVZhV6fQy.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/lailai6699/status/2045853158107480568",
+    "fullText": "这雨是要下到啥时\n我的蓝眼泪啊 https://t.co/MNMxPbAy4U",
+    "publishTime": "2026-04-19T21:12:57"
+  },
+  {
+    "user": {
+      "screenName": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGRa_12bEAAnA0N.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/bohaixiaochen/status/2045860188310425915",
+    "fullText": "还记得你何时加入 X 吗？我知道！#我的X周年纪念日 四年了啊好快 https://t.co/q3wOuDFzF7",
+    "publishTime": "2026-04-19T21:40:53"
   }
 ]
