@@ -144,17 +144,121 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (70MB > 50MB)",
       "timestamp": "2026-04-20T02:02:28",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 74400836,
       "size_mb": 70.95,
-      "timestamp": "2026-04-20T02:02:28",
+      "timestamp": "2026-04-20T03:01:27",
       "download_attempts": 0
     },
     "full_text": "🉑 https://t.co/37hx7XU7g2",
     "publish_time": "2026-04-20T01:27:42"
+  },
+  {
+    "file_name": "HGSZ9e8akAA1DU2.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGSZ9e8akAA1DU2.jpg",
+    "read_time": "2026-04-20T03:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21742,
+      "timestamp": "2026-04-20T03:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 136968,
+      "size_mb": 0.13,
+      "timestamp": "2026-04-20T03:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "日本大象系列 ¥30 需要推特私信 可以发百度网盘和Telegram\n这个系列有马赛克 \n需要推特私信 👉@maletease \n或者Telegram私信我\nhttps://t.co/9QnCjS3JAL https://t.co/UVxSLFNKAO",
+    "publish_time": "2026-04-20T02:16:00"
+  },
+  {
+    "file_name": "HGSZ9e-aYAAuvYE.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGSZ9e-aYAAuvYE.jpg",
+    "read_time": "2026-04-20T03:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21743,
+      "timestamp": "2026-04-20T03:01:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 136871,
+      "size_mb": 0.13,
+      "timestamp": "2026-04-20T03:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "日本大象系列 ¥30 需要推特私信 可以发百度网盘和Telegram\n这个系列有马赛克 \n需要推特私信 👉@maletease \n或者Telegram私信我\nhttps://t.co/9QnCjS3JAL https://t.co/UVxSLFNKAO",
+    "publish_time": "2026-04-20T02:16:00"
+  },
+  {
+    "file_name": "HGSZ9fAboAA0Nx5.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGSZ9fAboAA0Nx5.jpg",
+    "read_time": "2026-04-20T03:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21744,
+      "timestamp": "2026-04-20T03:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 124036,
+      "size_mb": 0.12,
+      "timestamp": "2026-04-20T03:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "日本大象系列 ¥30 需要推特私信 可以发百度网盘和Telegram\n这个系列有马赛克 \n需要推特私信 👉@maletease \n或者Telegram私信我\nhttps://t.co/9QnCjS3JAL https://t.co/UVxSLFNKAO",
+    "publish_time": "2026-04-20T02:16:00"
+  },
+  {
+    "file_name": "HGSjguzW8AAmfjB.jpg",
+    "user": {
+      "screen_name": "maxwellmillers",
+      "name": "Max"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGSjguzW8AAmfjB.jpg",
+    "read_time": "2026-04-20T03:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21745,
+      "timestamp": "2026-04-20T03:01:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 80468,
+      "size_mb": 0.08,
+      "timestamp": "2026-04-20T03:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "🧖‍♂️ https://t.co/UO95ip1cHT",
+    "publish_time": "2026-04-20T02:57:42"
   }
 ]
