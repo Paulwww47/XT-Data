@@ -822,14 +822,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (126MB > 50MB)",
       "timestamp": "2026-04-19T13:01:47",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 132323568,
       "size_mb": 126.19,
-      "timestamp": "2026-04-19T13:01:47",
+      "timestamp": "2026-04-19T14:01:50",
       "download_attempts": 0
     },
     "full_text": "💖 https://t.co/jQHW3bTHl1",
@@ -912,5 +912,57 @@
     },
     "full_text": "榴莲味套套，一盒三支，还剩四盒，🉑出 https://t.co/Pwm8pyXKIw",
     "publish_time": "2026-04-19T12:28:08"
+  },
+  {
+    "file_name": "HGPtraDbYAEjf3C.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGPtraDbYAEjf3C.jpg",
+    "read_time": "2026-04-19T14:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21691,
+      "timestamp": "2026-04-19T14:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 105478,
+      "size_mb": 0.1,
+      "timestamp": "2026-04-19T14:01:51",
+      "download_attempts": 0
+    },
+    "full_text": "cklcal https://t.co/HGXHbvdbw7",
+    "publish_time": "2026-04-19T13:43:16"
+  },
+  {
+    "file_name": "HGPutObaQAADyZp.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGPutObaQAADyZp.jpg",
+    "read_time": "2026-04-19T14:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21692,
+      "timestamp": "2026-04-19T14:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 114180,
+      "size_mb": 0.11,
+      "timestamp": "2026-04-19T14:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "xy.zino https://t.co/IErgBNxJLs",
+    "publish_time": "2026-04-19T13:47:48"
   }
 ]
