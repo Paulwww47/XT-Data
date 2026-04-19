@@ -546,5 +546,57 @@
     },
     "full_text": "zerolh610 https://t.co/xhgfuj4s5v",
     "publish_time": "2026-04-19T09:05:29"
+  },
+  {
+    "file_name": "Y6SQe1rzEORh0CT2.mp4",
+    "user": {
+      "screen_name": "toplcjfjv",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2045686299848523776/vid/avc1/720x1280/Y6SQe1rzEORh0CT2.mp4?tag=21",
+    "read_time": "2026-04-19T11:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21678,
+      "timestamp": "2026-04-19T11:02:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3900877,
+      "size_mb": 3.72,
+      "timestamp": "2026-04-19T11:02:24",
+      "download_attempts": 0
+    },
+    "full_text": "感覺是covid 不是感冒,病程好久😷 https://t.co/HYnrdJo1Nw",
+    "publish_time": "2026-04-19T10:10:34"
+  },
+  {
+    "file_name": "HGPAur2a0AA7uLj.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGPAur2a0AA7uLj.jpg",
+    "read_time": "2026-04-19T11:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21679,
+      "timestamp": "2026-04-19T11:02:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 116314,
+      "size_mb": 0.11,
+      "timestamp": "2026-04-19T11:02:28",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/pEVxQUkpcd",
+    "publish_time": "2026-04-19T10:26:53"
   }
 ]
