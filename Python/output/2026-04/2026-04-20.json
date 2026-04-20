@@ -1950,5 +1950,83 @@
     },
     "full_text": "https://t.co/hTYIu2XRs6",
     "publish_time": "2026-04-20T20:23:36"
+  },
+  {
+    "file_name": "HGWdQ9Wa8AAP5z9.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGWdQ9Wa8AAP5z9.jpg",
+    "read_time": "2026-04-20T22:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21812,
+      "timestamp": "2026-04-20T22:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 83423,
+      "size_mb": 0.08,
+      "timestamp": "2026-04-20T22:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/xQK8zXIOY1",
+    "publish_time": "2026-04-20T21:08:55"
+  },
+  {
+    "file_name": "NI1fFhLi6-96BQxU.mp4",
+    "user": {
+      "screen_name": "TorriJacoby",
+      "name": "岛民*荒哥"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2046221785964937216/vid/avc1/1280x720/NI1fFhLi6-96BQxU.mp4?tag=14",
+    "read_time": "2026-04-20T22:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21813,
+      "timestamp": "2026-04-20T22:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 6834794,
+      "size_mb": 6.52,
+      "timestamp": "2026-04-20T22:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "有一起的吗？直接来 https://t.co/aQrxjw3dUG",
+    "publish_time": "2026-04-20T21:39:09"
+  },
+  {
+    "file_name": "HGWl-Naa0AAkiey.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGWl-Naa0AAkiey.jpg",
+    "read_time": "2026-04-20T22:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21814,
+      "timestamp": "2026-04-20T22:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 130827,
+      "size_mb": 0.12,
+      "timestamp": "2026-04-20T22:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "反差 https://t.co/rYVwGTkvWd",
+    "publish_time": "2026-04-20T21:46:59"
   }
 ]
