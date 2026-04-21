@@ -4504,7 +4504,20 @@
       "createdAt": "Sat May 25 05:57:22 +0000 2019",
       "description": "175cm/83kg",
       "entities": {
-        "description": {}
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "fansone.co/post/1364180253",
+              "expanded_url": "https://fansone.co/post/1364180253",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/g1oPCLBcDd"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1132163731041898496/1774938734",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2005900501821636608/5OTpl2W8_normal.jpg"
