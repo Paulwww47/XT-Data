@@ -128,5 +128,57 @@
     },
     "full_text": "https://t.co/hqOlz49L9x",
     "publish_time": "2026-04-22T04:46:45"
+  },
+  {
+    "file_name": "HGdj3iTbgAA3k3u.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGdj3iTbgAA3k3u.jpg",
+    "read_time": "2026-04-22T07:00:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21897,
+      "timestamp": "2026-04-22T07:00:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 85547,
+      "size_mb": 0.08,
+      "timestamp": "2026-04-22T07:00:41",
+      "download_attempts": 0
+    },
+    "full_text": "ennis_mak https://t.co/bslnsfi8gh",
+    "publish_time": "2026-04-22T06:15:06"
+  },
+  {
+    "file_name": "y5padZFzI8J82Ar3.mp4",
+    "user": {
+      "screen_name": "toplcjfjv",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2046714511894409216/vid/avc1/720x1280/y5padZFzI8J82Ar3.mp4?tag=21",
+    "read_time": "2026-04-22T07:00:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21898,
+      "timestamp": "2026-04-22T07:00:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 8604961,
+      "size_mb": 8.21,
+      "timestamp": "2026-04-22T07:00:44",
+      "download_attempts": 0
+    },
+    "full_text": "吃那麼多🦐是有用的 呵呵 https://t.co/xAeaxVtYSP",
+    "publish_time": "2026-04-22T06:16:17"
   }
 ]
