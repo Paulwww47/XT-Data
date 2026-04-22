@@ -2390,5 +2390,57 @@
     },
     "full_text": "啧，订的内裤太小，又该卖了 https://t.co/VrjwAdYm51",
     "publish_time": "2026-04-22T22:59:17"
+  },
+  {
+    "file_name": "HGhPsI4aEAAz6yE.jpg",
+    "user": {
+      "screen_name": "tg1ctg",
+      "name": "一"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGhPsI4aEAAz6yE.jpg",
+    "read_time": "2026-04-23T00:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21984,
+      "timestamp": "2026-04-23T00:01:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 282415,
+      "size_mb": 0.27,
+      "timestamp": "2026-04-23T00:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "NaMo valley https://t.co/TXZIYPbFdu",
+    "publish_time": "2026-04-22T23:25:29"
+  },
+  {
+    "file_name": "HGhPr5xbIAArJIq.jpg",
+    "user": {
+      "screen_name": "tg1ctg",
+      "name": "一"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGhPr5xbIAArJIq.jpg",
+    "read_time": "2026-04-23T00:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 21985,
+      "timestamp": "2026-04-23T00:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 206278,
+      "size_mb": 0.2,
+      "timestamp": "2026-04-23T00:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "NaMo valley https://t.co/TXZIYPbFdu",
+    "publish_time": "2026-04-22T23:25:29"
   }
 ]
