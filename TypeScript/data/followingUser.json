@@ -1051,20 +1051,6 @@
     }
   },
   {
-    "restId": "1090188303679217664",
-    "legacy": {
-      "name": "Doraemon",
-      "screenName": "Doraemonphoto",
-      "createdAt": "Tue Jan 29 10:02:01 +0000 2019",
-      "description": "🚪100 直接私信留支付宝口令",
-      "entities": {
-        "description": {}
-      },
-      "profileBannerUrl": "",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2039001468599242752/P_XyEBbn_normal.jpg"
-    }
-  },
-  {
     "restId": "1200473141450985478",
     "legacy": {
       "name": "Nothing_Duk",
