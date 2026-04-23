@@ -1472,14 +1472,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (51MB > 50MB)",
       "timestamp": "2026-04-23T18:01:23",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 53817574,
       "size_mb": 51.32,
-      "timestamp": "2026-04-23T18:01:23",
+      "timestamp": "2026-04-23T19:01:15",
       "download_attempts": 0
     },
     "full_text": "loong ct 系列 https://t.co/IFTFaPE0CP",
@@ -1692,5 +1692,135 @@
     },
     "full_text": "👔西裝愛好者👔 https://t.co/QOTKL0pjAN",
     "publish_time": "2026-04-23T17:48:15"
+  },
+  {
+    "file_name": "HGlT2CmbQAAt1SE.jpg",
+    "user": {
+      "screen_name": "mala1414111",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGlT2CmbQAAt1SE.jpg",
+    "read_time": "2026-04-23T19:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22049,
+      "timestamp": "2026-04-23T19:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 146924,
+      "size_mb": 0.14,
+      "timestamp": "2026-04-23T19:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "也可以显大 #saligia https://t.co/LFWkUoxcnE",
+    "publish_time": "2026-04-23T18:22:52"
+  },
+  {
+    "file_name": "HGlT2CvasAAid9O.jpg",
+    "user": {
+      "screen_name": "mala1414111",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGlT2CvasAAid9O.jpg",
+    "read_time": "2026-04-23T19:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22050,
+      "timestamp": "2026-04-23T19:01:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 134164,
+      "size_mb": 0.13,
+      "timestamp": "2026-04-23T19:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "也可以显大 #saligia https://t.co/LFWkUoxcnE",
+    "publish_time": "2026-04-23T18:22:52"
+  },
+  {
+    "file_name": "HGlVXlsbAAA6u1U.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGlVXlsbAAA6u1U.jpg",
+    "read_time": "2026-04-23T19:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22051,
+      "timestamp": "2026-04-23T19:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 81305,
+      "size_mb": 0.08,
+      "timestamp": "2026-04-23T19:01:19",
+      "download_attempts": 0
+    },
+    "full_text": "tuby0525 https://t.co/dLKSitBRQe",
+    "publish_time": "2026-04-23T18:28:42"
+  },
+  {
+    "file_name": "HGlXq0Za4AAKAtb.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGlXq0Za4AAKAtb.jpg",
+    "read_time": "2026-04-23T19:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22052,
+      "timestamp": "2026-04-23T19:01:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 121258,
+      "size_mb": 0.12,
+      "timestamp": "2026-04-23T19:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "loong_ct合集 打包¥20块 都不太长，简单的solo https://t.co/4Sst917OSF",
+    "publish_time": "2026-04-23T18:39:00"
+  },
+  {
+    "file_name": "HGlXq0abUAAK0Jn.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGlXq0abUAAK0Jn.jpg",
+    "read_time": "2026-04-23T19:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22053,
+      "timestamp": "2026-04-23T19:01:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 117273,
+      "size_mb": 0.11,
+      "timestamp": "2026-04-23T19:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "loong_ct合集 打包¥20块 都不太长，简单的solo https://t.co/4Sst917OSF",
+    "publish_time": "2026-04-23T18:39:00"
   }
 ]
