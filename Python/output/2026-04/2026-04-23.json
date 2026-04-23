@@ -1326,5 +1326,57 @@
     },
     "full_text": "iamkhaivu https://t.co/1EFGuRCzr4",
     "publish_time": "2026-04-23T15:52:52"
+  },
+  {
+    "file_name": "HGk6hAtaAAAXfC8.jpg",
+    "user": {
+      "screen_name": "r1929979006488",
+      "name": "ia__"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGk6hAtaAAAXfC8.jpg",
+    "read_time": "2026-04-23T17:01:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22036,
+      "timestamp": "2026-04-23T17:01:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 122344,
+      "size_mb": 0.12,
+      "timestamp": "2026-04-23T17:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/FPPg0euEjG",
+    "publish_time": "2026-04-23T16:31:23"
+  },
+  {
+    "file_name": "5lmVgelWfwtBZgos.mp4",
+    "user": {
+      "screen_name": "ganhao137864",
+      "name": "最爱"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2047232316905533440/vid/avc1/720x1280/5lmVgelWfwtBZgos.mp4?tag=14",
+    "read_time": "2026-04-23T17:01:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22037,
+      "timestamp": "2026-04-23T17:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 377335,
+      "size_mb": 0.36,
+      "timestamp": "2026-04-23T17:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "张河清教授（全网原创）所有的盗图者，谋利骗取钱财的人，不得好死 https://t.co/2C8vlpstdi",
+    "publish_time": "2026-04-23T16:36:11"
   }
 ]

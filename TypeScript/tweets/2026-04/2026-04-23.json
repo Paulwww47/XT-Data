@@ -469,5 +469,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2047222157361734079",
     "fullText": "iamkhaivu https://t.co/1EFGuRCzr4",
     "publishTime": "2026-04-23T15:52:52"
+  },
+  {
+    "user": {
+      "screenName": "r1929979006488",
+      "name": "ia__"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGk6hAtaAAAXfC8.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/r1929979006488/status/2047231849714594136",
+    "fullText": "https://t.co/FPPg0euEjG",
+    "publishTime": "2026-04-23T16:31:23"
+  },
+  {
+    "user": {
+      "screenName": "ganhao137864",
+      "name": "最爱"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2047232316905533440/vid/avc1/720x1280/5lmVgelWfwtBZgos.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/ganhao137864/status/2047233056306872573",
+    "fullText": "张河清教授（全网原创）所有的盗图者，谋利骗取钱财的人，不得好死 https://t.co/2C8vlpstdi",
+    "publishTime": "2026-04-23T16:36:11"
   }
 ]
