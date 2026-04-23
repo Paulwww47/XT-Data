@@ -667,9 +667,21 @@
       "name": "Cynthia Fuimaono",
       "screenName": "CFuimaono82031",
       "createdAt": "Wed May 29 05:28:18 +0000 2024",
-      "description": "qq977421414 小众原创略贵 购买需提供支付宝绑定的电话号码打水印在视频上",
+      "description": "qq977421414 小众原创略贵 购买需提供支付宝绑定的电话号码打水印在视频上 \n电报群：https://t.co/SYB8IS2H1K",
       "entities": {
-        "description": {},
+        "description": {
+          "urls": [
+            {
+              "display_url": "t.me/locklock666",
+              "expanded_url": "http://t.me/locklock666",
+              "indices": [
+                47,
+                70
+              ],
+              "url": "https://t.co/SYB8IS2H1K"
+            }
+          ]
+        },
         "url": {
           "urls": [
             {
