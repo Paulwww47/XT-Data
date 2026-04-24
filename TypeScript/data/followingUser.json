@@ -1271,7 +1271,7 @@
       "name": "NANTU@上海",
       "screenName": "fanglangnantu",
       "createdAt": "Sun Aug 14 04:40:06 +0000 2022",
-      "description": "Sharing What I Like",
+      "description": "Sharing What I Like, e.g., Men, Cats, etc.",
       "entities": {
         "description": {}
       },
@@ -1462,9 +1462,21 @@
       "name": "最爱",
       "screenName": "ganhao137864",
       "createdAt": "Sat Jan 03 17:30:35 +0000 2026",
-      "description": "：电报：yewan2018❤️会员进群  联系qq3538544052🌴🌴",
+      "description": "：电报：yewan2018❤️会员进群  联系qq3538544052🌴🌴https://t.co/sdasXrUa1F",
       "entities": {
-        "description": {}
+        "description": {
+          "urls": [
+            {
+              "display_url": "t.me/zuiai1314",
+              "expanded_url": "http://t.me/zuiai1314",
+              "indices": [
+                37,
+                60
+              ],
+              "url": "https://t.co/sdasXrUa1F"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2007504810115997698/1776486248",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2045357673366081536/SWRuy3Ld_normal.jpg"
@@ -2492,7 +2504,7 @@
       "name": "小帅气",
       "screenName": "klspbr",
       "createdAt": "Sun Feb 25 15:35:50 +0000 2024",
-      "description": "男模/男星🔞青春场\n投稿/版权可私信✉️",
+      "description": "男模/男星🔞青春场 X止X \n投稿/版权可私信✉️",
       "entities": {
         "description": {}
       },
@@ -5306,7 +5318,7 @@
   {
     "restId": "1136102325238415360",
     "legacy": {
-      "name": "犬黒",
+      "name": "クロ",
       "screenName": "zdx1xx",
       "createdAt": "Wed Jun 05 02:47:56 +0000 2019",
       "description": "犬系，性癖是被爱",
