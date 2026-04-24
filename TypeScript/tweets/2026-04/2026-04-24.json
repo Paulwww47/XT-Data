@@ -814,5 +814,32 @@
     "tweetUrl": "https://x.com/DBH76/status/2047660092007538722",
     "fullText": "รีรันเฟส2เป็นออฟี่เฉย นึกว่าจะรีรันลูเซียกับไดลิน เพราะครบทีมตัดสะบั้น",
     "publishTime": "2026-04-24T20:53:04"
+  },
+  {
+    "user": {
+      "screenName": "DBH76",
+      "name": "Deru"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/DBH76/status/2047663953342505239",
+    "fullText": "พอดีเลยมีการันตีตู้อาวุธที่หลุดเรทจากตู้ยูจัง เปิดปจตลูเซียจบ555",
+    "publishTime": "2026-04-24T21:08:24"
+  },
+  {
+    "user": {
+      "screenName": "KevinLeeYoung92",
+      "name": "KevinLeeYoung"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGrM4J_boAADdJW.jpg",
+      "https://pbs.twimg.com/media/HGrM4J9bIAA5ju7.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/KevinLeeYoung92/status/2047674337290018952",
+    "fullText": "https://t.co/AUGgAIZg4o",
+    "publishTime": "2026-04-24T21:49:40"
   }
 ]
