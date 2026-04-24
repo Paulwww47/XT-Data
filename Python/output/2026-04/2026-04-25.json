@@ -102,5 +102,33 @@
     },
     "full_text": "太爽嘞… https://t.co/ZafVmh89on",
     "publish_time": "2026-04-25T00:56:06"
+  },
+  {
+    "file_name": "LJUKtjeUkkFLM3uK.mp4",
+    "user": {
+      "screen_name": "M6rtYt",
+      "name": "蛋蛋超人"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2047655080057524224/vid/avc1/1280x720/LJUKtjeUkkFLM3uK.mp4?tag=21",
+    "read_time": "2026-04-25T02:01:22",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (418MB > 50MB)",
+      "timestamp": "2026-04-25T02:01:26",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 439298282,
+      "size_mb": 418.95,
+      "timestamp": "2026-04-25T02:01:26",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/tuaNYY6EXo",
+    "publish_time": "2026-04-25T01:07:55"
   }
 ]
