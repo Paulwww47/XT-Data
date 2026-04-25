@@ -832,5 +832,57 @@
     },
     "full_text": "https://t.co/pxcdEodZqn",
     "publish_time": "2026-04-25T08:49:18"
+  },
+  {
+    "file_name": "HGt3O82bAAAuWSr.jpg",
+    "user": {
+      "screen_name": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HGt3O82bAAAuWSr.jpg",
+    "read_time": "2026-04-25T11:00:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22188,
+      "timestamp": "2026-04-25T11:00:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 37464,
+      "size_mb": 0.04,
+      "timestamp": "2026-04-25T11:00:57",
+      "download_attempts": 0
+    },
+    "full_text": "一大早，马斯克拉了一坨大的，这个APP的意义在哪里？还说超级APP。就这玩意还要一度延期上线。#xchat https://t.co/ruVjfAimc8",
+    "publish_time": "2026-04-25T10:13:41"
+  },
+  {
+    "file_name": "FZ8TXTciTfmkrWwY.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2047870609661874177/vid/avc1/720x1280/FZ8TXTciTfmkrWwY.mp4?tag=14",
+    "read_time": "2026-04-25T11:00:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22189,
+      "timestamp": "2026-04-25T11:01:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1412649,
+      "size_mb": 1.35,
+      "timestamp": "2026-04-25T11:00:59",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年4月25日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/uT5sbYG36z",
+    "publish_time": "2026-04-25T10:49:45"
   }
 ]
