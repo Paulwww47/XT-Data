@@ -362,5 +362,49 @@
     "tweetUrl": "https://x.com/xidaojun1/status/2048274444590977119",
     "fullText": "🫨🫨🫨放心肉 https://t.co/rRmzTu8byI",
     "publishTime": "2026-04-26T13:34:17"
+  },
+  {
+    "user": {
+      "screenName": "RuiHengJin",
+      "name": "H."
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGz1XKTbkAAywL8.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/RuiHengJin/status/2048298316367032667",
+    "fullText": "py系列限时福利58/系列\n（4.26-4.30） https://t.co/oeT3PMM6ag",
+    "publishTime": "2026-04-26T15:09:08"
+  },
+  {
+    "user": {
+      "screenName": "ganhao137864",
+      "name": "最爱"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG0GhQibkAAcvst.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2048300121180561408/vid/avc1/720x1280/-W63VMBZWcP31Zbc.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/ganhao137864/status/2048300588266610864",
+    "fullText": "https://t.co/LUqN34tSi2",
+    "publishTime": "2026-04-26T15:18:10"
+  },
+  {
+    "user": {
+      "screenName": "ganhao137864",
+      "name": "最爱"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2048300650757488640/vid/avc1/720x1556/X8wTMkFgbqv70mIW.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/ganhao137864/status/2048300950700667322",
+    "fullText": "开诊所🏥的医生。 https://t.co/cTnDMrIfrD",
+    "publishTime": "2026-04-26T15:19:36"
   }
 ]
