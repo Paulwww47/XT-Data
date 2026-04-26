@@ -1350,5 +1350,57 @@
     },
     "full_text": "https://t.co/8Xp5pVNTqx",
     "publish_time": "2026-04-26T18:37:45"
+  },
+  {
+    "file_name": "HG056PSacAATtZn.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HG056PSacAATtZn.jpg",
+    "read_time": "2026-04-26T20:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22290,
+      "timestamp": "2026-04-26T20:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 189332,
+      "size_mb": 0.18,
+      "timestamp": "2026-04-26T20:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "掉2kg，继续！ https://t.co/QZaFC4ER76",
+    "publish_time": "2026-04-26T19:02:41"
+  },
+  {
+    "file_name": "HG056PQaAAA3bMk.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HG056PQaAAA3bMk.jpg",
+    "read_time": "2026-04-26T20:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22291,
+      "timestamp": "2026-04-26T20:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 188121,
+      "size_mb": 0.18,
+      "timestamp": "2026-04-26T20:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "掉2kg，继续！ https://t.co/QZaFC4ER76",
+    "publish_time": "2026-04-26T19:02:41"
   }
 ]
