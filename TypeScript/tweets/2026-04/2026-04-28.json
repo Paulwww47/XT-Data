@@ -128,5 +128,21 @@
     "tweetUrl": "https://x.com/ganhao137864/status/2048839686337266072",
     "fullText": "https://t.co/gERSMOELKx",
     "publishTime": "2026-04-28T03:00:21"
+  },
+  {
+    "user": {
+      "screenName": "ganhao137864",
+      "name": "最爱"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG7w40ma0AABufp.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2048839759729246208/vid/avc1/576x1280/g71p5DlD8VyOgedk.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/ganhao137864/status/2048840839141659119",
+    "fullText": "https://t.co/hqBZRM0NhA",
+    "publishTime": "2026-04-28T03:04:56"
   }
 ]

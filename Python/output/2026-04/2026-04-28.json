@@ -310,5 +310,57 @@
     },
     "full_text": "https://t.co/gERSMOELKx",
     "publish_time": "2026-04-28T03:00:21"
+  },
+  {
+    "file_name": "HG7w40ma0AABufp.jpg",
+    "user": {
+      "screen_name": "ganhao137864",
+      "name": "最爱"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HG7w40ma0AABufp.jpg",
+    "read_time": "2026-04-28T04:01:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22373,
+      "timestamp": "2026-04-28T04:01:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 75941,
+      "size_mb": 0.07,
+      "timestamp": "2026-04-28T04:01:07",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/hqBZRM0NhA",
+    "publish_time": "2026-04-28T03:04:56"
+  },
+  {
+    "file_name": "g71p5DlD8VyOgedk.mp4",
+    "user": {
+      "screen_name": "ganhao137864",
+      "name": "最爱"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2048839759729246208/vid/avc1/576x1280/g71p5DlD8VyOgedk.mp4?tag=14",
+    "read_time": "2026-04-28T04:01:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22374,
+      "timestamp": "2026-04-28T04:01:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 925972,
+      "size_mb": 0.88,
+      "timestamp": "2026-04-28T04:01:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/hqBZRM0NhA",
+    "publish_time": "2026-04-28T03:04:56"
   }
 ]
