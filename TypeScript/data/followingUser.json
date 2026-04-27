@@ -388,6 +388,32 @@
     }
   },
   {
+    "restId": "2004463356519002112",
+    "legacy": {
+      "name": "我要洗澡",
+      "screenName": "azzd555",
+      "createdAt": "Fri Dec 26 08:04:57 +0000 2025",
+      "description": "绿色健康 小号@azzd556\n电报https://t.co/NHssqU7Lt9",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "t.me/+nEioJXkwDWA2N…",
+              "expanded_url": "https://t.me/+nEioJXkwDWA2NGU1",
+              "indices": [
+                18,
+                41
+              ],
+              "url": "https://t.co/NHssqU7Lt9"
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2004463356519002112/1766833766",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2004463524396044288/CgoIXOL3_normal.jpg"
+    }
+  },
+  {
     "restId": "2004884338492723200",
     "legacy": {
       "name": "ywushvs",
@@ -1296,14 +1322,14 @@
   {
     "restId": "1558674751308337153",
     "legacy": {
-      "name": "NANTU@上海",
+      "name": "NANTU",
       "screenName": "fanglangnantu",
       "createdAt": "Sun Aug 14 04:40:06 +0000 2022",
-      "description": "Sharing What I Like, e.g., Men, Cats, etc.",
+      "description": "Respect the Life & Individuals. Just Sharing Men, Good Bodies, Fun Sex, Fitness, Sports, Cute Animals, etc. in My View. Peace.",
       "entities": {
         "description": {}
       },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1558674751308337153/1776161185",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1558674751308337153/1777231981",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2043994003549630465/ngLmN4na_normal.jpg"
     }
   },
