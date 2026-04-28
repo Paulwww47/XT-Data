@@ -2522,5 +2522,57 @@
     },
     "full_text": "美黑店的光线很风尘🤪 https://t.co/lkcGzTK6mv",
     "publish_time": "2026-04-28T19:58:59"
+  },
+  {
+    "file_name": "HG_s-YCbwAAkrcF.jpg",
+    "user": {
+      "screen_name": "yangmoyum",
+      "name": "阳沫雨（广州4.28-5.3)"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HG_s-YCbwAAkrcF.jpg",
+    "read_time": "2026-04-28T22:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22457,
+      "timestamp": "2026-04-28T22:01:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 127913,
+      "size_mb": 0.12,
+      "timestamp": "2026-04-28T22:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "到广州了，有人想预约SPA嘛🙋（4.28-5.3）#广州 https://t.co/RcAf0WQSXY",
+    "publish_time": "2026-04-28T21:21:59"
+  },
+  {
+    "file_name": "-hMt-Efna9XT2Nbx.mp4",
+    "user": {
+      "screen_name": "ModdyChen",
+      "name": "舒克"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2049118419841359872/vid/avc1/720x1280/-hMt-Efna9XT2Nbx.mp4?tag=21",
+    "read_time": "2026-04-28T22:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22458,
+      "timestamp": "2026-04-28T22:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5998010,
+      "size_mb": 5.72,
+      "timestamp": "2026-04-28T22:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "别说话，坐上来自己动 https://t.co/P3gq7nCkdX",
+    "publish_time": "2026-04-28T21:28:20"
   }
 ]
