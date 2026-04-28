@@ -1756,14 +1756,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (57MB > 50MB)",
       "timestamp": "2026-04-28T15:01:07",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 60749483,
       "size_mb": 57.94,
-      "timestamp": "2026-04-28T15:01:07",
+      "timestamp": "2026-04-28T16:00:57",
       "download_attempts": 0
     },
     "full_text": "有没有这样能连续射？ https://t.co/d9TNtv7xJh",
@@ -1820,5 +1820,161 @@
     },
     "full_text": "请勿相信 https://t.co/dXo9uvs9MK",
     "publish_time": "2026-04-28T14:39:10"
+  },
+  {
+    "file_name": "ZMyTxG8yszgfLfIu.mp4",
+    "user": {
+      "screen_name": "lailai6699",
+      "name": "lailai69"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2049024609325113344/pu/vid/avc1/720x1280/ZMyTxG8yszgfLfIu.mp4?tag=12",
+    "read_time": "2026-04-28T16:00:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22430,
+      "timestamp": "2026-04-28T16:00:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 426516,
+      "size_mb": 0.41,
+      "timestamp": "2026-04-28T16:00:57",
+      "download_attempts": 0
+    },
+    "full_text": "我不想洗内裤啦 https://t.co/zZk05jtTrs",
+    "publish_time": "2026-04-28T15:15:19"
+  },
+  {
+    "file_name": "HG-gE33bwAAAzzK.jpg",
+    "user": {
+      "screen_name": "ModdyChen",
+      "name": "舒克"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HG-gE33bwAAAzzK.jpg",
+    "read_time": "2026-04-28T16:00:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22431,
+      "timestamp": "2026-04-28T16:01:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 186847,
+      "size_mb": 0.18,
+      "timestamp": "2026-04-28T16:00:59",
+      "download_attempts": 0
+    },
+    "full_text": "黑魂 https://t.co/Hmffx7eJ06",
+    "publish_time": "2026-04-28T15:46:01"
+  },
+  {
+    "file_name": "HG-gE3uaIAAcroT.jpg",
+    "user": {
+      "screen_name": "ModdyChen",
+      "name": "舒克"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HG-gE3uaIAAcroT.jpg",
+    "read_time": "2026-04-28T16:00:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22432,
+      "timestamp": "2026-04-28T16:01:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 134105,
+      "size_mb": 0.13,
+      "timestamp": "2026-04-28T16:01:00",
+      "download_attempts": 0
+    },
+    "full_text": "黑魂 https://t.co/Hmffx7eJ06",
+    "publish_time": "2026-04-28T15:46:01"
+  },
+  {
+    "file_name": "HG-gE3vbYAAgHu-.jpg",
+    "user": {
+      "screen_name": "ModdyChen",
+      "name": "舒克"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HG-gE3vbYAAgHu-.jpg",
+    "read_time": "2026-04-28T16:00:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22433,
+      "timestamp": "2026-04-28T16:01:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 179919,
+      "size_mb": 0.17,
+      "timestamp": "2026-04-28T16:01:01",
+      "download_attempts": 0
+    },
+    "full_text": "黑魂 https://t.co/Hmffx7eJ06",
+    "publish_time": "2026-04-28T15:46:01"
+  },
+  {
+    "file_name": "HG-gE3saMAAQF3N.jpg",
+    "user": {
+      "screen_name": "ModdyChen",
+      "name": "舒克"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HG-gE3saMAAQF3N.jpg",
+    "read_time": "2026-04-28T16:00:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22434,
+      "timestamp": "2026-04-28T16:01:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 93310,
+      "size_mb": 0.09,
+      "timestamp": "2026-04-28T16:01:02",
+      "download_attempts": 0
+    },
+    "full_text": "黑魂 https://t.co/Hmffx7eJ06",
+    "publish_time": "2026-04-28T15:46:01"
+  },
+  {
+    "file_name": "HG-gfpsbEAAsYbR.jpg",
+    "user": {
+      "screen_name": "HengYu1205",
+      "name": "HengYu"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HG-gfpsbEAAsYbR.jpg",
+    "read_time": "2026-04-28T16:00:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22435,
+      "timestamp": "2026-04-28T16:01:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 130967,
+      "size_mb": 0.12,
+      "timestamp": "2026-04-28T16:01:03",
+      "download_attempts": 0
+    },
+    "full_text": "假的 https://t.co/gwiD3vUCg2",
+    "publish_time": "2026-04-28T15:47:50"
   }
 ]
