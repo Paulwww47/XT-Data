@@ -782,5 +782,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2049075297321161190",
     "fullText": "biu_1999 https://t.co/cjaX260rVk",
     "publishTime": "2026-04-28T18:36:35"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG_VItZbYAAIA73.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2049090705331831286",
+    "fullText": "nguyen.hai95 https://t.co/obRgMzr5sh",
+    "publishTime": "2026-04-28T19:37:49"
+  },
+  {
+    "user": {
+      "screenName": "undefinedjy",
+      "name": "JY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG_Z-d6aAAAudPI.jpg",
+      "https://pbs.twimg.com/media/HG_Z-d3bcAAqOs-.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/undefinedjy/status/2049096034455031921",
+    "fullText": "美黑店的光线很风尘🤪 https://t.co/lkcGzTK6mv",
+    "publishTime": "2026-04-28T19:58:59"
   }
 ]
