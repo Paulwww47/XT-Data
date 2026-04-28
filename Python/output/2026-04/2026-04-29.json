@@ -92,14 +92,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (432MB > 50MB)",
       "timestamp": "2026-04-29T01:01:14",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 453237001,
       "size_mb": 432.24,
-      "timestamp": "2026-04-29T01:01:14",
+      "timestamp": "2026-04-29T02:03:08",
       "download_attempts": 0
     },
     "full_text": "https://t.co/uPxbODBQRP",
@@ -120,17 +120,95 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (64MB > 50MB)",
       "timestamp": "2026-04-29T01:01:20",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 67449653,
       "size_mb": 64.33,
-      "timestamp": "2026-04-29T01:01:20",
+      "timestamp": "2026-04-29T02:03:09",
       "download_attempts": 0
     },
     "full_text": "虎砸 https://t.co/5z7VqSz4n8",
     "publish_time": "2026-04-29T00:56:41"
+  },
+  {
+    "file_name": "HHAmVGgWUAAwdio.jpg",
+    "user": {
+      "screen_name": "cibxun0301",
+      "name": "蔡博轩"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HHAmVGgWUAAwdio.jpg",
+    "read_time": "2026-04-29T02:03:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22470,
+      "timestamp": "2026-04-29T02:03:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 152791,
+      "size_mb": 0.15,
+      "timestamp": "2026-04-29T02:03:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/VCqMDVJcz5",
+    "publish_time": "2026-04-29T01:32:35"
+  },
+  {
+    "file_name": "HHAn-BQacAAb1JD.jpg",
+    "user": {
+      "screen_name": "arthurz_xcx",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HHAn-BQacAAb1JD.jpg",
+    "read_time": "2026-04-29T02:03:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22471,
+      "timestamp": "2026-04-29T02:03:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 247347,
+      "size_mb": 0.24,
+      "timestamp": "2026-04-29T02:03:11",
+      "download_attempts": 0
+    },
+    "full_text": "คิดว่าฉันจองมั้ยยยยย 555555555 https://t.co/y073qgnXWM",
+    "publish_time": "2026-04-29T01:39:44"
+  },
+  {
+    "file_name": "HHAocRLbEAAwvxn.jpg",
+    "user": {
+      "screen_name": "leonyangy",
+      "name": "Leonyangy"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HHAocRLbEAAwvxn.jpg",
+    "read_time": "2026-04-29T02:03:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22472,
+      "timestamp": "2026-04-29T02:03:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 176206,
+      "size_mb": 0.17,
+      "timestamp": "2026-04-29T02:03:12",
+      "download_attempts": 0
+    },
+    "full_text": "🪭#fyp https://t.co/Z35shMOQ7Q",
+    "publish_time": "2026-04-29T01:41:47"
   }
 ]
