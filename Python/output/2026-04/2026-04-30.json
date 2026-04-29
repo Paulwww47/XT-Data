@@ -196,17 +196,43 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (455MB > 50MB)",
       "timestamp": "2026-04-30T02:01:54",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 477453403,
       "size_mb": 455.34,
-      "timestamp": "2026-04-30T02:01:54",
+      "timestamp": "2026-04-30T03:01:46",
       "download_attempts": 0
     },
     "full_text": "喜欢 https://t.co/WUnRYMRQUG",
     "publish_time": "2026-04-30T01:44:03"
+  },
+  {
+    "file_name": "HHF54DWaEAAsrQ6.jpg",
+    "user": {
+      "screen_name": "glassesmen1069",
+      "name": "眼镜控收藏夹"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HHF54DWaEAAsrQ6.jpg",
+    "read_time": "2026-04-30T03:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22545,
+      "timestamp": "2026-04-30T03:01:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 97898,
+      "size_mb": 0.09,
+      "timestamp": "2026-04-30T03:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "建了个新博客，专门用来同步网盘的更新内容！📂\n\n以后网盘资源更新都会第一时间发在这里，方便大家查看\n\n传送门：https://t.co/Wo7RdkquEP\n\n#网盘 #资源更新 #眼镜控 https://t.co/ZQ7vlHUqO3",
+    "publish_time": "2026-04-30T02:16:03"
   }
 ]
