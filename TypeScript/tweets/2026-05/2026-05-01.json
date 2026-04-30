@@ -106,5 +106,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2049951340269547977",
     "fullText": "https://t.co/SVY6xcBhQt",
     "publishTime": "2026-05-01T04:37:40"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHL4AJdbAAAwoNw.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2049973467538481437",
+    "fullText": "https://t.co/jF81WqoN4M",
+    "publishTime": "2026-05-01T06:05:35"
+  },
+  {
+    "user": {
+      "screenName": "toplcjfjv",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2049987225337937920/vid/avc1/720x1280/OVuz3rjgzp7b54HA.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/toplcjfjv/status/2049987339771125969",
+    "fullText": "https://t.co/YwcE4J9VGS",
+    "publishTime": "2026-05-01T07:00:43"
   }
 ]
