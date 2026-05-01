@@ -872,14 +872,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (148MB > 50MB)",
       "timestamp": "2026-05-01T12:01:33",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 155679910,
       "size_mb": 148.47,
-      "timestamp": "2026-05-01T12:01:33",
+      "timestamp": "2026-05-01T13:01:34",
       "download_attempts": 0
     },
     "full_text": "https://t.co/j2KZUEnUVi",
@@ -962,5 +962,161 @@
     },
     "full_text": "一大早的 https://t.co/ZcnUM72Fgc",
     "publish_time": "2026-05-01T11:48:02"
+  },
+  {
+    "file_name": "LZco6-ZR3fFpKzr7.mp4",
+    "user": {
+      "screen_name": "Uji_Hikaru",
+      "name": "虎不理"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2050070619363082240/vid/avc1/720x1280/LZco6-ZR3fFpKzr7.mp4?tag=27",
+    "read_time": "2026-05-01T13:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22655,
+      "timestamp": "2026-05-01T13:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 175847,
+      "size_mb": 0.17,
+      "timestamp": "2026-05-01T13:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/gtjaxXXLva",
+    "publish_time": "2026-05-01T12:31:41"
+  },
+  {
+    "file_name": "HseCvZYbV3zCKl_f.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2050074437228326913/vid/avc1/656x994/HseCvZYbV3zCKl_f.mp4?tag=27",
+    "read_time": "2026-05-01T13:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22656,
+      "timestamp": "2026-05-01T13:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 955574,
+      "size_mb": 0.91,
+      "timestamp": "2026-05-01T13:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "五一快乐 https://t.co/Xh5iIqnWii",
+    "publish_time": "2026-05-01T12:47:05"
+  },
+  {
+    "file_name": "HHNUafvasAAACO6.jpg",
+    "user": {
+      "screen_name": "LiugangLogan",
+      "name": "刘刚Logan"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HHNUafvasAAACO6.jpg",
+    "read_time": "2026-05-01T13:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22657,
+      "timestamp": "2026-05-01T13:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 34354,
+      "size_mb": 0.03,
+      "timestamp": "2026-05-01T13:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "要不近期研究一下开个fansone吧 https://t.co/E4zx1IXaON",
+    "publish_time": "2026-05-01T12:50:13"
+  },
+  {
+    "file_name": "HHNUafqaYAAgfLn.jpg",
+    "user": {
+      "screen_name": "LiugangLogan",
+      "name": "刘刚Logan"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HHNUafqaYAAgfLn.jpg",
+    "read_time": "2026-05-01T13:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22658,
+      "timestamp": "2026-05-01T13:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 45094,
+      "size_mb": 0.04,
+      "timestamp": "2026-05-01T13:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "要不近期研究一下开个fansone吧 https://t.co/E4zx1IXaON",
+    "publish_time": "2026-05-01T12:50:13"
+  },
+  {
+    "file_name": "HHNUafqaUAA9nWR.jpg",
+    "user": {
+      "screen_name": "LiugangLogan",
+      "name": "刘刚Logan"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HHNUafqaUAA9nWR.jpg",
+    "read_time": "2026-05-01T13:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22659,
+      "timestamp": "2026-05-01T13:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 149425,
+      "size_mb": 0.14,
+      "timestamp": "2026-05-01T13:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "要不近期研究一下开个fansone吧 https://t.co/E4zx1IXaON",
+    "publish_time": "2026-05-01T12:50:13"
+  },
+  {
+    "file_name": "HHNUafoaQAAC99e.jpg",
+    "user": {
+      "screen_name": "LiugangLogan",
+      "name": "刘刚Logan"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HHNUafoaQAAC99e.jpg",
+    "read_time": "2026-05-01T13:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22660,
+      "timestamp": "2026-05-01T13:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 127523,
+      "size_mb": 0.12,
+      "timestamp": "2026-05-01T13:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "要不近期研究一下开个fansone吧 https://t.co/E4zx1IXaON",
+    "publish_time": "2026-05-01T12:50:13"
   }
 ]
