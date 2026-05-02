@@ -92,14 +92,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (544MB > 50MB)",
       "timestamp": "2026-05-03T03:01:45",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 570713613,
       "size_mb": 544.27,
-      "timestamp": "2026-05-03T03:01:45",
+      "timestamp": "2026-05-03T04:01:44",
       "download_attempts": 0
     },
     "full_text": "https://t.co/2MLvi5ox4D",
@@ -120,14 +120,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (87MB > 50MB)",
       "timestamp": "2026-05-03T03:01:46",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 91505550,
       "size_mb": 87.27,
-      "timestamp": "2026-05-03T03:01:46",
+      "timestamp": "2026-05-03T04:01:45",
       "download_attempts": 0
     },
     "full_text": "https://t.co/8Kfew4TzP2",
@@ -184,5 +184,33 @@
     },
     "full_text": "嘿嘿 https://t.co/4EiqEJA7fF",
     "publish_time": "2026-05-03T02:39:53"
+  },
+  {
+    "file_name": "wAFllH6C6fmp4O-x.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2050592807660752896/vid/avc1/1080x1920/wAFllH6C6fmp4O-x.mp4?tag=27",
+    "read_time": "2026-05-03T04:01:40",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (136MB > 50MB)",
+      "timestamp": "2026-05-03T04:01:56",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 142733176,
+      "size_mb": 136.12,
+      "timestamp": "2026-05-03T04:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "阿祖 https://t.co/fHPYRq6s10",
+    "publish_time": "2026-05-03T03:42:16"
   }
 ]

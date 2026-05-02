@@ -119,5 +119,19 @@
     "tweetUrl": "https://x.com/xiguaultra/status/2050646474858660190",
     "fullText": "嘿嘿 https://t.co/4EiqEJA7fF",
     "publishTime": "2026-05-03T02:39:53"
+  },
+  {
+    "user": {
+      "screenName": "maletease",
+      "name": "MaleTease"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2050592807660752896/vid/avc1/1080x1920/wAFllH6C6fmp4O-x.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/maletease/status/2050662175333564628",
+    "fullText": "阿祖 https://t.co/fHPYRq6s10",
+    "publishTime": "2026-05-03T03:42:16"
   }
 ]
