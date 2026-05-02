@@ -76,5 +76,113 @@
     },
     "full_text": "近几天待在杭州，周边也可，然后大概会北上去北京，北京过后往武汉去……⬇️联系 https://t.co/Ku6Jh4g23q",
     "publish_time": "2026-05-03T01:43:54"
+  },
+  {
+    "file_name": "Pa7o4cCwR04vJMgq.mp4",
+    "user": {
+      "screen_name": "77baxi",
+      "name": "健身教练cd伪娘"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2048828870535880704/vid/avc1/1920x1080/Pa7o4cCwR04vJMgq.mp4?tag=21",
+    "read_time": "2026-05-03T03:01:40",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (544MB > 50MB)",
+      "timestamp": "2026-05-03T03:01:45",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 570713613,
+      "size_mb": 544.27,
+      "timestamp": "2026-05-03T03:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/2MLvi5ox4D",
+    "publish_time": "2026-05-03T02:02:34"
+  },
+  {
+    "file_name": "n_fEnyXlb90tr5_c.mp4",
+    "user": {
+      "screen_name": "77baxi",
+      "name": "健身教练cd伪娘"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2050539211770793984/vid/avc1/854x480/n_fEnyXlb90tr5_c.mp4?tag=27",
+    "read_time": "2026-05-03T03:01:40",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (87MB > 50MB)",
+      "timestamp": "2026-05-03T03:01:46",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 91505550,
+      "size_mb": 87.27,
+      "timestamp": "2026-05-03T03:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/8Kfew4TzP2",
+    "publish_time": "2026-05-03T02:04:04"
+  },
+  {
+    "file_name": "HHVcF65bgAA_lWw.jpg",
+    "user": {
+      "screen_name": "xiguaultra",
+      "name": "野西瓜"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HHVcF65bgAA_lWw.jpg",
+    "read_time": "2026-05-03T03:01:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22785,
+      "timestamp": "2026-05-03T03:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 105998,
+      "size_mb": 0.1,
+      "timestamp": "2026-05-03T03:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "嘿嘿 https://t.co/4EiqEJA7fF",
+    "publish_time": "2026-05-03T02:39:53"
+  },
+  {
+    "file_name": "HHVcF80bAAAlOr0.jpg",
+    "user": {
+      "screen_name": "xiguaultra",
+      "name": "野西瓜"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HHVcF80bAAAlOr0.jpg",
+    "read_time": "2026-05-03T03:01:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22786,
+      "timestamp": "2026-05-03T03:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 158384,
+      "size_mb": 0.15,
+      "timestamp": "2026-05-03T03:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "嘿嘿 https://t.co/4EiqEJA7fF",
+    "publish_time": "2026-05-03T02:39:53"
   }
 ]
