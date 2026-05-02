@@ -200,14 +200,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (136MB > 50MB)",
       "timestamp": "2026-05-03T04:01:56",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 142733176,
       "size_mb": 136.12,
-      "timestamp": "2026-05-03T04:01:56",
+      "timestamp": "2026-05-03T05:01:25",
       "download_attempts": 0
     },
     "full_text": "阿祖 https://t.co/fHPYRq6s10",
