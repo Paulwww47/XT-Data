@@ -777,5 +777,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2050508969874161927",
     "fullText": "james_shih510 https://t.co/gZWKP1f2sL",
     "publishTime": "2026-05-02T17:33:29"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHTrWhwbgAA4lzK.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2050522507795681561",
+    "fullText": "https://t.co/4N3QsHHVTf",
+    "publishTime": "2026-05-02T18:27:17"
+  },
+  {
+    "user": {
+      "screenName": "Uji_Hikaru",
+      "name": "虎不理"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2050528760903204864/vid/avc1/720x1280/B_Cbr_q0FbG1Xpwz.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Uji_Hikaru/status/2050528828876091850",
+    "fullText": "操逼日常 https://t.co/LptVa95em6",
+    "publishTime": "2026-05-02T18:52:24"
   }
 ]
