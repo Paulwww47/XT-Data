@@ -212,5 +212,31 @@
     },
     "full_text": "阿祖 https://t.co/fHPYRq6s10",
     "publish_time": "2026-05-03T03:42:16"
+  },
+  {
+    "file_name": "HHWJnITb0AAhyyX.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HHWJnITb0AAhyyX.jpg",
+    "read_time": "2026-05-03T06:02:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22788,
+      "timestamp": "2026-05-03T06:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 160464,
+      "size_mb": 0.15,
+      "timestamp": "2026-05-03T06:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/bYYKGdxkJW",
+    "publish_time": "2026-05-03T05:58:44"
   }
 ]
