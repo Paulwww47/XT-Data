@@ -592,14 +592,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (278MB > 50MB)",
       "timestamp": "2026-05-03T10:01:45",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 292407222,
       "size_mb": 278.86,
-      "timestamp": "2026-05-03T10:01:45",
+      "timestamp": "2026-05-03T11:01:35",
       "download_attempts": 0
     },
     "full_text": "https://t.co/wiv9e31gf7",
@@ -630,5 +630,135 @@
     },
     "full_text": "阴天在不开灯的房间 https://t.co/gwaI7J0Oog",
     "publish_time": "2026-05-03T09:50:27"
+  },
+  {
+    "file_name": "XevIbv-eU1xX7ymz.mp4",
+    "user": {
+      "screen_name": "sx84604818",
+      "name": "Rexsonic Man+ suits & socks"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2050761249001197568/vid/avc1/720x1280/XevIbv-eU1xX7ymz.mp4?tag=27",
+    "read_time": "2026-05-03T11:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22803,
+      "timestamp": "2026-05-03T11:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1474218,
+      "size_mb": 1.41,
+      "timestamp": "2026-05-03T11:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "👔西裝愛好者👔 https://t.co/gwbn6kIP0J",
+    "publish_time": "2026-05-03T10:16:02"
+  },
+  {
+    "file_name": "HHXLxrfboAAs9Ty.jpg",
+    "user": {
+      "screen_name": "CFuimaono82031",
+      "name": "Cynthia Fuimaono"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HHXLxrfboAAs9Ty.jpg",
+    "read_time": "2026-05-03T11:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22804,
+      "timestamp": "2026-05-03T11:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 284129,
+      "size_mb": 0.27,
+      "timestamp": "2026-05-03T11:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "190+耐高体育生 看似高冷文静 实则也是个骚逼贱狗 跪倒在地上往后仰射给你 掰开菊花展示自己的性感毛菊 超精彩 https://t.co/eNl11gd40G",
+    "publish_time": "2026-05-03T10:47:56"
+  },
+  {
+    "file_name": "HHXLxrgb0AAqnFB.jpg",
+    "user": {
+      "screen_name": "CFuimaono82031",
+      "name": "Cynthia Fuimaono"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HHXLxrgb0AAqnFB.jpg",
+    "read_time": "2026-05-03T11:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22805,
+      "timestamp": "2026-05-03T11:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 50941,
+      "size_mb": 0.05,
+      "timestamp": "2026-05-03T11:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "190+耐高体育生 看似高冷文静 实则也是个骚逼贱狗 跪倒在地上往后仰射给你 掰开菊花展示自己的性感毛菊 超精彩 https://t.co/eNl11gd40G",
+    "publish_time": "2026-05-03T10:47:56"
+  },
+  {
+    "file_name": "XCNwW4Xj58FzsNBq.mp4",
+    "user": {
+      "screen_name": "CFuimaono82031",
+      "name": "Cynthia Fuimaono"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2050769259681431552/vid/avc1/544x960/XCNwW4Xj58FzsNBq.mp4?tag=14",
+    "read_time": "2026-05-03T11:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22806,
+      "timestamp": "2026-05-03T11:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1454339,
+      "size_mb": 1.39,
+      "timestamp": "2026-05-03T11:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "190+耐高体育生 看似高冷文静 实则也是个骚逼贱狗 跪倒在地上往后仰射给你 掰开菊花展示自己的性感毛菊 超精彩 https://t.co/eNl11gd40G",
+    "publish_time": "2026-05-03T10:47:56"
+  },
+  {
+    "file_name": "lYJNMIEgWkGTLh8k.mp4",
+    "user": {
+      "screen_name": "CFuimaono82031",
+      "name": "Cynthia Fuimaono"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2050769259681480704/vid/avc1/720x1280/lYJNMIEgWkGTLh8k.mp4?tag=14",
+    "read_time": "2026-05-03T11:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22807,
+      "timestamp": "2026-05-03T11:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2491200,
+      "size_mb": 2.38,
+      "timestamp": "2026-05-03T11:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "190+耐高体育生 看似高冷文静 实则也是个骚逼贱狗 跪倒在地上往后仰射给你 掰开菊花展示自己的性感毛菊 超精彩 https://t.co/eNl11gd40G",
+    "publish_time": "2026-05-03T10:47:56"
   }
 ]
