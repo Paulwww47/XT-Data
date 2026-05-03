@@ -1010,17 +1010,95 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (106MB > 50MB)",
       "timestamp": "2026-05-03T14:02:46",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 111890771,
       "size_mb": 106.71,
-      "timestamp": "2026-05-03T14:02:46",
+      "timestamp": "2026-05-03T15:01:56",
       "download_attempts": 0
     },
     "full_text": "https://t.co/PCjv60yLWa",
     "publish_time": "2026-05-03T13:55:28"
+  },
+  {
+    "file_name": "HHX4yboaYAA2MZg.jpg",
+    "user": {
+      "screen_name": "chounizadi2021",
+      "name": "男神传送门"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HHX4yboaYAA2MZg.jpg",
+    "read_time": "2026-05-03T15:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22817,
+      "timestamp": "2026-05-03T15:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 73666,
+      "size_mb": 0.07,
+      "timestamp": "2026-05-03T15:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "【粉丝投稿】谁知道这个是谁，知道的请私信。第一个私信开门的可以免费寻人。（发帖寻人收费🧧，vpn不稳定，寻人/征友/买男性用品加个人VX（SYLjiankang2023），注明来意否则不通过） https://t.co/YwZrDfQFUe",
+    "publish_time": "2026-05-03T14:04:31"
+  },
+  {
+    "file_name": "HHX4-EUa8AAJoFI.jpg",
+    "user": {
+      "screen_name": "chounizadi2021",
+      "name": "男神传送门"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HHX4-EUa8AAJoFI.jpg",
+    "read_time": "2026-05-03T15:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22818,
+      "timestamp": "2026-05-03T15:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 119972,
+      "size_mb": 0.11,
+      "timestamp": "2026-05-03T15:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "【粉丝投稿】谁知道这个是谁，知道的请私信。第一个私信开门的可以免费寻人。（发帖寻人收费🧧，vpn不稳定，寻人/征友/买男性用品加个人VX（SYLjiankang2023），注明来意否则不通过） https://t.co/vfirX6Zufk",
+    "publish_time": "2026-05-03T14:05:18"
+  },
+  {
+    "file_name": "HHX7osSaEAABuIC.jpg",
+    "user": {
+      "screen_name": "acheng21501864",
+      "name": "Wave"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HHX7osSaEAABuIC.jpg",
+    "read_time": "2026-05-03T15:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22819,
+      "timestamp": "2026-05-03T15:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 58897,
+      "size_mb": 0.06,
+      "timestamp": "2026-05-03T15:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "小狗回归🥺 https://t.co/wtHtf1VMuo",
+    "publish_time": "2026-05-03T14:16:56"
   }
 ]
