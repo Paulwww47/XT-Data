@@ -2000,5 +2000,59 @@
     },
     "full_text": "https://t.co/vMUbb63Yrt",
     "publish_time": "2026-05-04T22:33:09"
+  },
+  {
+    "file_name": "HHe_yzwacAAUuqq.jpg",
+    "user": {
+      "screen_name": "milk_leak",
+      "name": "milk_leak"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HHe_yzwacAAUuqq.jpg",
+    "read_time": "2026-05-05T01:02:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22943,
+      "timestamp": "2026-05-05T01:02:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 189704,
+      "size_mb": 0.18,
+      "timestamp": "2026-05-05T01:02:41",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/493JZifWwg",
+    "publish_time": "2026-05-04T23:12:26"
+  },
+  {
+    "file_name": "Sbgm14HecsEYQgVT.mp4",
+    "user": {
+      "screen_name": "sjmh1988",
+      "name": "松井美惠"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2034837816866480128/vid/avc1/368x640/Sbgm14HecsEYQgVT.mp4?tag=21",
+    "read_time": "2026-05-05T01:02:39",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (72MB > 50MB)",
+      "timestamp": "2026-05-05T01:02:45",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 76208346,
+      "size_mb": 72.68,
+      "timestamp": "2026-05-05T01:02:45",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/g1AngbARtU",
+    "publish_time": "2026-05-04T23:29:15"
   }
 ]
