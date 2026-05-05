@@ -2718,6 +2718,20 @@
     }
   },
   {
+    "restId": "2048321036341633024",
+    "legacy": {
+      "name": "Lance",
+      "screenName": "Lancesun98",
+      "createdAt": "Sun Apr 26 08:39:51 +0000 2026",
+      "description": "🇸🇬",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2049071868783763456/IkCBprUU_normal.jpg"
+    }
+  },
+  {
     "restId": "1914009351402192896",
     "legacy": {
       "name": "烂烂wink",
@@ -3383,7 +3397,7 @@
       "name": "肥臀炭烧",
       "screenName": "Mo2pho_",
       "createdAt": "Thu Dec 26 05:56:27 +0000 2024",
-      "description": "167 76 0 🍑\n广佛自由教练\n                                                 不是m圣母情节严重也做不了s\n\n💰🉑 生存不易 嘴下留情",
+      "description": "出师未捷身先死",
       "entities": {
         "description": {}
       },
@@ -5519,6 +5533,32 @@
       },
       "profileBannerUrl": "",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1887077858855862273/sfgmUvyE_normal.jpg"
+    }
+  },
+  {
+    "restId": "1782812198613680128",
+    "legacy": {
+      "name": "biofrost",
+      "screenName": "zhozho622075",
+      "createdAt": "Tue Apr 23 16:42:19 +0000 2024",
+      "description": "🌟瘾，合作推广私🈴，出原味🩲🧦，自用vpn独享：https://t.co/3VEYpsYH2Q（跟普通的完全没有可比性！）",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "y.z525.cn/#/register?cod…",
+              "expanded_url": "https://y.z525.cn/#/register?code=OHiSq3Sa",
+              "indices": [
+                24,
+                47
+              ],
+              "url": "https://t.co/3VEYpsYH2Q"
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2025411103963123712/3zBMOLjB_normal.jpg"
     }
   },
   {
