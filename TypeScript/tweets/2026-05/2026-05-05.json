@@ -1049,5 +1049,19 @@
     "tweetUrl": "https://x.com/Azrael64300/status/2051678403204460826",
     "fullText": "https://t.co/Sov3WVNLI4",
     "publishTime": "2026-05-05T23:00:24"
+  },
+  {
+    "user": {
+      "screenName": "kaka_lac",
+      "name": "kaka"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2051684977549721600/vid/avc1/720x1280/z516og-Zuh5hBUuR.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/kaka_lac/status/2051685045459661244",
+    "fullText": "https://t.co/2yAYdCSQLe",
+    "publishTime": "2026-05-05T23:26:47"
   }
 ]
