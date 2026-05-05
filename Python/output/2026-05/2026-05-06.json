@@ -102,5 +102,33 @@
     },
     "full_text": "为了不做0我曾经说过如下的话：1.你好可爱呀 下次给你凿 2.今天太累了我们亲亲抱在一起睡觉好不好 3.有电话来了（然后穿上裤子逃之夭夭） https://t.co/6qgP7kP5Bi",
     "publish_time": "2026-05-06T00:40:12"
+  },
+  {
+    "file_name": "P-RUWwZlgSli1jRN.mp4",
+    "user": {
+      "screen_name": "cibxun0301",
+      "name": "蔡博轩"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2051444496290942976/vid/avc1/720x1280/P-RUWwZlgSli1jRN.mp4?tag=27",
+    "read_time": "2026-05-06T02:02:06",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (79MB > 50MB)",
+      "timestamp": "2026-05-06T02:02:07",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 83220097,
+      "size_mb": 79.36,
+      "timestamp": "2026-05-06T02:02:07",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/GVWk8rLykJ",
+    "publish_time": "2026-05-06T01:27:03"
   }
 ]
