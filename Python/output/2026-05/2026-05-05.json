@@ -1220,5 +1220,57 @@
     },
     "full_text": "😏 https://t.co/X4qvs6Ms6u",
     "publish_time": "2026-05-05T10:59:23"
+  },
+  {
+    "file_name": "ERese-WwV2BY315i.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2051505971265216512/vid/avc1/720x1280/ERese-WwV2BY315i.mp4?tag=14",
+    "read_time": "2026-05-05T12:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22991,
+      "timestamp": "2026-05-05T12:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3528835,
+      "size_mb": 3.37,
+      "timestamp": "2026-05-05T12:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年5月5日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/HLGiskopXs",
+    "publish_time": "2026-05-05T11:35:40"
+  },
+  {
+    "file_name": "HHhtfW9a8AAHtWs.jpg",
+    "user": {
+      "screen_name": "KIDDEN7777777",
+      "name": "kidden"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HHhtfW9a8AAHtWs.jpg",
+    "read_time": "2026-05-05T12:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 22992,
+      "timestamp": "2026-05-05T12:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 170100,
+      "size_mb": 0.16,
+      "timestamp": "2026-05-05T12:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "好困 https://t.co/qhXloyY4XO",
+    "publish_time": "2026-05-05T11:51:21"
   }
 ]

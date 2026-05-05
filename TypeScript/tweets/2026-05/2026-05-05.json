@@ -424,5 +424,33 @@
     "tweetUrl": "https://x.com/RuiHengJin/status/2051496952177766862",
     "fullText": "😏 https://t.co/X4qvs6Ms6u",
     "publishTime": "2026-05-05T10:59:23"
+  },
+  {
+    "user": {
+      "screenName": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2051505971265216512/vid/avc1/720x1280/ERese-WwV2BY315i.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/BBoy1069/status/2051506087250313563",
+    "fullText": "【2026年5月5日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/HLGiskopXs",
+    "publishTime": "2026-05-05T11:35:40"
+  },
+  {
+    "user": {
+      "screenName": "KIDDEN7777777",
+      "name": "kidden"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHhtfW9a8AAHtWs.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/KIDDEN7777777/status/2051510032467173413",
+    "fullText": "好困 https://t.co/qhXloyY4XO",
+    "publishTime": "2026-05-05T11:51:21"
   }
 ]
