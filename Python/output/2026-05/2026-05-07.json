@@ -312,5 +312,57 @@
     },
     "full_text": "https://t.co/HYlapjwfzM",
     "publish_time": "2026-05-07T01:55:58"
+  },
+  {
+    "file_name": "BqNJZZYo0bMJjXOg.mp4",
+    "user": {
+      "screen_name": "hhh752093296",
+      "name": "大力宝宝"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2052103736617738240/vid/avc1/720x1280/BqNJZZYo0bMJjXOg.mp4?tag=27",
+    "read_time": "2026-05-07T04:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23140,
+      "timestamp": "2026-05-07T04:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2303386,
+      "size_mb": 2.2,
+      "timestamp": "2026-05-07T04:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "你爹上头了 https://t.co/xM3i8INUWg",
+    "publish_time": "2026-05-07T03:11:02"
+  },
+  {
+    "file_name": "HHqUrFoakAA-_-f.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HHqUrFoakAA-_-f.jpg",
+    "read_time": "2026-05-07T04:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23141,
+      "timestamp": "2026-05-07T04:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 136003,
+      "size_mb": 0.13,
+      "timestamp": "2026-05-07T04:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/VVSosBDtyB",
+    "publish_time": "2026-05-07T03:59:28"
   }
 ]
