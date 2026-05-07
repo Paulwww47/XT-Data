@@ -378,14 +378,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (109MB > 50MB)",
       "timestamp": "2026-05-08T05:01:15",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 115265376,
       "size_mb": 109.93,
-      "timestamp": "2026-05-08T05:01:15",
+      "timestamp": "2026-05-08T06:01:43",
       "download_attempts": 0
     },
     "full_text": "https://t.co/E9KhLg8i22",
