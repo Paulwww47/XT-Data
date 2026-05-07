@@ -884,5 +884,31 @@
     },
     "full_text": "https://t.co/4niQEyYTUh",
     "publish_time": "2026-05-07T12:41:59"
+  },
+  {
+    "file_name": "-SQRy-HfGDlTfqsc.mp4",
+    "user": {
+      "screen_name": "klspbr",
+      "name": "小帅气"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2052254561528881152/pu/vid/avc1/704x1286/-SQRy-HfGDlTfqsc.mp4?tag=12",
+    "read_time": "2026-05-07T14:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23165,
+      "timestamp": "2026-05-07T14:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7144058,
+      "size_mb": 6.81,
+      "timestamp": "2026-05-07T14:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "仔细听 好喜欢他 谁有他的抖帐 有认识的吗 https://t.co/6y0QkwPDQn",
+    "publish_time": "2026-05-07T13:10:24"
   }
 ]
