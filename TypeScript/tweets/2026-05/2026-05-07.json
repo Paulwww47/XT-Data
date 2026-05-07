@@ -557,5 +557,36 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2052324346262368738",
     "fullText": "https://t.co/kJgvHu3aTE",
     "publishTime": "2026-05-07T17:47:09"
+  },
+  {
+    "user": {
+      "screenName": "alvingoooo",
+      "name": "go"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHttRn8bcAA0OJv.jpg",
+      "https://pbs.twimg.com/media/HHttRn6aQAAeWRG.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [
+      "https://uv.club/alvingoooo"
+    ],
+    "tweetUrl": "https://x.com/alvingoooo/status/2052354224756007332",
+    "fullText": "Feeling cute 🥴\n\nhttps://t.co/k4CUJkaVpV https://t.co/xjRhGI6FEk",
+    "publishTime": "2026-05-07T19:45:52"
+  },
+  {
+    "user": {
+      "screenName": "biggest_muscle",
+      "name": "thebiggestmuscle"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2052357240502579200/vid/avc1/720x1280/cNzt7usiPuF-Tqtz.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/biggest_muscle/status/2052357311348531524",
+    "fullText": "💦#体育生 #健身教练 #直男 #腹肌 #粗口 #胸肌 https://t.co/mbNK37Vfwn",
+    "publishTime": "2026-05-07T19:58:08"
   }
 ]
