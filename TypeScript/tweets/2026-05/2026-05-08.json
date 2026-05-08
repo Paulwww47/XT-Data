@@ -720,5 +720,45 @@
     "tweetUrl": "https://x.com/RuiHengJin/status/2052733308073824692",
     "fullText": "🏃 https://t.co/X3x8EIY9SC",
     "publishTime": "2026-05-08T20:52:13"
+  },
+  {
+    "user": {
+      "screenName": "chuanzhang0320",
+      "name": "Appetency."
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/chuanzhang0320/status/2052736207801782272",
+    "fullText": "咋了？我鸡吧有电啊？放进去就抖啊抖的！？",
+    "publishTime": "2026-05-08T21:03:44"
+  },
+  {
+    "user": {
+      "screenName": "Divo1765100",
+      "name": "Divo"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2052740770277605376/vid/avc1/1080x1480/hiJsmFPrxPYiUF7F.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Divo1765100/status/2052740829077500274",
+    "fullText": "🤌🏻 https://t.co/XBTi9Rw6IG",
+    "publishTime": "2026-05-08T21:22:06"
+  },
+  {
+    "user": {
+      "screenName": "wwxia8898",
+      "name": "罗夏 （上海）"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHzTu3lbQAAwiLF.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/wwxia8898/status/2052748340400619956",
+    "fullText": "新加坡，🈷️课私信， https://t.co/Jw7tGcqvPG",
+    "publishTime": "2026-05-08T21:51:57"
   }
 ]
