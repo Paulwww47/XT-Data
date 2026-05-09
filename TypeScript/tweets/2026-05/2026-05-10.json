@@ -149,5 +149,34 @@
     "tweetUrl": "https://x.com/youdi/status/2053162233652207765",
     "fullText": "https://t.co/G2arae953U",
     "publishTime": "2026-05-10T01:16:37"
+  },
+  {
+    "user": {
+      "screenName": "77baxi",
+      "name": "健身教练cd伪娘"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2043935165895081984/vid/avc1/1080x1082/YHVsTeztKBHFXY2E.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/77baxi/status/2053192061692866850",
+    "fullText": "https://t.co/oWjsk0QL2J",
+    "publishTime": "2026-05-10T03:15:08"
+  },
+  {
+    "user": {
+      "screenName": "SummerSonCold1",
+      "name": "SummerSonCold"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HH5nvjObcAARY0x.jpg",
+      "https://pbs.twimg.com/media/HH5nvjPbEAACMhd.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/SummerSonCold1/status/2053192555857396042",
+    "fullText": "https://t.co/6pfMsAYpzN",
+    "publishTime": "2026-05-10T03:17:06"
   }
 ]
