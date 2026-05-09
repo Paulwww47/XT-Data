@@ -274,14 +274,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (295MB > 50MB)",
       "timestamp": "2026-05-10T04:01:44",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 309330774,
       "size_mb": 295.0,
-      "timestamp": "2026-05-10T04:01:44",
+      "timestamp": "2026-05-10T05:01:52",
       "download_attempts": 0
     },
     "full_text": "https://t.co/oWjsk0QL2J",
@@ -338,5 +338,135 @@
     },
     "full_text": "https://t.co/6pfMsAYpzN",
     "publish_time": "2026-05-10T03:17:06"
+  },
+  {
+    "file_name": "oVUWXck2lrCay4qQ.mp4",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2053213662425587713/vid/avc1/1080x1084/oVUWXck2lrCay4qQ.mp4?tag=27",
+    "read_time": "2026-05-10T05:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23385,
+      "timestamp": "2026-05-10T05:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 888749,
+      "size_mb": 0.85,
+      "timestamp": "2026-05-10T05:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "加一个以前拍广告的视频对比蛮有趣的啊哈哈这是浩賢的习惯动作 https://t.co/dEX34CiQOn",
+    "publish_time": "2026-05-10T04:41:11"
+  },
+  {
+    "file_name": "6_P-Kxczkzg3yDvL.mp4",
+    "user": {
+      "screen_name": "kueerkueer",
+      "name": "kueer"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1994437244355321856/vid/avc1/1320x2868/6_P-Kxczkzg3yDvL.mp4?tag=21",
+    "read_time": "2026-05-10T05:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23386,
+      "timestamp": "2026-05-10T05:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 44471074,
+      "size_mb": 42.41,
+      "timestamp": "2026-05-10T05:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "想试试 https://t.co/Eme5A5obDk",
+    "publish_time": "2026-05-10T04:42:09"
+  },
+  {
+    "file_name": "HH592MPbEAAoTCI.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HH592MPbEAAoTCI.jpg",
+    "read_time": "2026-05-10T05:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23387,
+      "timestamp": "2026-05-10T05:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 134481,
+      "size_mb": 0.13,
+      "timestamp": "2026-05-10T05:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "·\n📷✨“复古废剧院与青春帅哥肌肉男的体态形成鲜明对比……”\n微博摄影师@ 👉Gordonyuu 在充满怀旧的氛围中为男模 𠧧蛋头  @Louiewe123 拍的新写真；摄影师余宇在instagram他自己的账号里👉Gordonyuu 👉又增添了三幅（+其中一幅是作了調整，没在这里）……👍 https://t.co/JaVUr3dcmP",
+    "publish_time": "2026-05-10T04:57:32"
+  },
+  {
+    "file_name": "HH592MRb0AAvJkS.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HH592MRb0AAvJkS.jpg",
+    "read_time": "2026-05-10T05:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23388,
+      "timestamp": "2026-05-10T05:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 117039,
+      "size_mb": 0.11,
+      "timestamp": "2026-05-10T05:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "·\n📷✨“复古废剧院与青春帅哥肌肉男的体态形成鲜明对比……”\n微博摄影师@ 👉Gordonyuu 在充满怀旧的氛围中为男模 𠧧蛋头  @Louiewe123 拍的新写真；摄影师余宇在instagram他自己的账号里👉Gordonyuu 👉又增添了三幅（+其中一幅是作了調整，没在这里）……👍 https://t.co/JaVUr3dcmP",
+    "publish_time": "2026-05-10T04:57:32"
+  },
+  {
+    "file_name": "HH592MQawAAgirH.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HH592MQawAAgirH.jpg",
+    "read_time": "2026-05-10T05:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23389,
+      "timestamp": "2026-05-10T05:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 114303,
+      "size_mb": 0.11,
+      "timestamp": "2026-05-10T05:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "·\n📷✨“复古废剧院与青春帅哥肌肉男的体态形成鲜明对比……”\n微博摄影师@ 👉Gordonyuu 在充满怀旧的氛围中为男模 𠧧蛋头  @Louiewe123 拍的新写真；摄影师余宇在instagram他自己的账号里👉Gordonyuu 👉又增添了三幅（+其中一幅是作了調整，没在这里）……👍 https://t.co/JaVUr3dcmP",
+    "publish_time": "2026-05-10T04:57:32"
   }
 ]
