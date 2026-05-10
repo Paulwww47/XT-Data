@@ -1040,5 +1040,31 @@
     },
     "full_text": "https://t.co/uK7NBQ5sds",
     "publish_time": "2026-05-10T11:56:47"
+  },
+  {
+    "file_name": "HH7kLCnbQAA2_4v.jpg",
+    "user": {
+      "screen_name": "wwxia8898",
+      "name": "罗夏 （上海）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HH7kLCnbQAA2_4v.jpg",
+    "read_time": "2026-05-10T13:01:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23412,
+      "timestamp": "2026-05-10T13:01:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 181506,
+      "size_mb": 0.17,
+      "timestamp": "2026-05-10T13:01:07",
+      "download_attempts": 0
+    },
+    "full_text": "新加坡待到18号，之后马来西亚， https://t.co/8T9iu96ZGo",
+    "publish_time": "2026-05-10T12:20:44"
   }
 ]
