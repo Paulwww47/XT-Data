@@ -1766,5 +1766,33 @@
     },
     "full_text": "ฮาท่ายืนมาก กึงสุด5555 https://t.co/Ws3OZ9mO4p",
     "publish_time": "2026-05-11T20:17:36"
+  },
+  {
+    "file_name": "EFhaNlp8z1cp1wPM.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2053803111643537408/vid/avc1/1440x2560/EFhaNlp8z1cp1wPM.mp4?tag=27",
+    "read_time": "2026-05-11T22:01:37",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (174MB > 50MB)",
+      "timestamp": "2026-05-11T22:01:54",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 182572676,
+      "size_mb": 174.11,
+      "timestamp": "2026-05-11T22:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "小唐 无手射 https://t.co/V4ilVMVBrG",
+    "publish_time": "2026-05-11T21:29:41"
   }
 ]
