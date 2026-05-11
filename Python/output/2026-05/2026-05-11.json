@@ -1782,17 +1782,121 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (174MB > 50MB)",
       "timestamp": "2026-05-11T22:01:54",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 182572676,
       "size_mb": 174.11,
-      "timestamp": "2026-05-11T22:01:54",
+      "timestamp": "2026-05-11T23:01:49",
       "download_attempts": 0
     },
     "full_text": "小唐 无手射 https://t.co/V4ilVMVBrG",
     "publish_time": "2026-05-11T21:29:41"
+  },
+  {
+    "file_name": "77q9YWRahl4QclZM.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2053836176797388801/vid/avc1/464x816/77q9YWRahl4QclZM.mp4?tag=27",
+    "read_time": "2026-05-11T23:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23532,
+      "timestamp": "2026-05-11T23:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 35589571,
+      "size_mb": 33.94,
+      "timestamp": "2026-05-11T23:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "小唐 无手射精 https://t.co/GzzU7Ye382",
+    "publish_time": "2026-05-11T22:02:41"
+  },
+  {
+    "file_name": "HIC0vqzaoAE8G2d.jpg",
+    "user": {
+      "screen_name": "alvingoooo",
+      "name": "go"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIC0vqzaoAE8G2d.jpg",
+    "read_time": "2026-05-11T23:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23533,
+      "timestamp": "2026-05-11T23:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 195962,
+      "size_mb": 0.19,
+      "timestamp": "2026-05-11T23:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "20 vs. 27 https://t.co/T2Usfhsla1",
+    "publish_time": "2026-05-11T22:10:29"
+  },
+  {
+    "file_name": "HIC0vqpbcAADObO.jpg",
+    "user": {
+      "screen_name": "alvingoooo",
+      "name": "go"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIC0vqpbcAADObO.jpg",
+    "read_time": "2026-05-11T23:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23534,
+      "timestamp": "2026-05-11T23:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 154734,
+      "size_mb": 0.15,
+      "timestamp": "2026-05-11T23:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "20 vs. 27 https://t.co/T2Usfhsla1",
+    "publish_time": "2026-05-11T22:10:29"
+  },
+  {
+    "file_name": "HIC3Fy0b0AA-zDf.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIC3Fy0b0AA-zDf.jpg",
+    "read_time": "2026-05-11T23:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23535,
+      "timestamp": "2026-05-11T23:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 239946,
+      "size_mb": 0.23,
+      "timestamp": "2026-05-11T23:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/dkuOkcKiMP",
+    "publish_time": "2026-05-11T22:27:56"
   }
 ]
