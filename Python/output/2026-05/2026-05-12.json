@@ -1116,5 +1116,57 @@
     },
     "full_text": "https://t.co/DsCILDNDrM",
     "publish_time": "2026-05-12T14:45:10"
+  },
+  {
+    "file_name": "WE94EbEejtA8iCgC.mp4",
+    "user": {
+      "screen_name": "hopechen0312",
+      "name": "hope"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2054106578522189824/vid/avc1/1280x720/WE94EbEejtA8iCgC.mp4?tag=27",
+    "read_time": "2026-05-12T16:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23585,
+      "timestamp": "2026-05-12T16:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3555175,
+      "size_mb": 3.39,
+      "timestamp": "2026-05-12T16:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "日常發洩\n\n尻尻完睡 https://t.co/ltTAHC2kiA",
+    "publish_time": "2026-05-12T15:49:24"
+  },
+  {
+    "file_name": "HIGphtsawAAx2gZ.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIGphtsawAAx2gZ.jpg",
+    "read_time": "2026-05-12T16:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23586,
+      "timestamp": "2026-05-12T16:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 129223,
+      "size_mb": 0.12,
+      "timestamp": "2026-05-12T16:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/asH5IvsIeI",
+    "publish_time": "2026-05-12T15:59:57"
   }
 ]
