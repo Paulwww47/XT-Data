@@ -492,5 +492,31 @@
     },
     "full_text": "APE GO！ https://t.co/hUvBN0kfC8",
     "publish_time": "2026-05-12T08:51:57"
+  },
+  {
+    "file_name": "HIFVyYYawAA_bYR.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIFVyYYawAA_bYR.jpg",
+    "read_time": "2026-05-12T10:01:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23561,
+      "timestamp": "2026-05-12T10:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 184667,
+      "size_mb": 0.18,
+      "timestamp": "2026-05-12T10:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/r6JDBZozwL",
+    "publish_time": "2026-05-12T09:54:08"
   }
 ]
