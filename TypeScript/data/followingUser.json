@@ -1309,6 +1309,20 @@
     }
   },
   {
+    "restId": "1822298334167707648",
+    "legacy": {
+      "name": "F∧LL",
+      "screenName": "falling2024",
+      "createdAt": "Sat Aug 10 15:46:08 +0000 2024",
+      "description": "江湖又见 低调 低调 身材好的贱犬可以私信🆕",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1822298334167707648/1773507925",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1822305354811940864/FQQdq2gy_normal.jpg"
+    }
+  },
+  {
     "restId": "482344487",
     "legacy": {
       "name": "Famous Exposed",
@@ -5598,7 +5612,7 @@
       "name": "zuiai1314",
       "screenName": "zuiaiyewan2018",
       "createdAt": "Sun Apr 26 12:06:33 +0000 2026",
-      "description": "原创内容，Vip 【直男采访群】想看更多？可以进群🌸❤️品质原创、经常更新🌹谢谢每一位的喜欢https://t.co/YWk4EP5v9U👈🏻进群私信，(这个号，不发私密部位)",
+      "description": "原创内容，Vip 【直男采访群】想看更多？可以进群🌸❤️品质原创、经常更新🌹谢谢每一位的喜欢👉🏻https://t.co/YWk4EP5v9U进群私信",
       "entities": {
         "description": {
           "urls": [
@@ -5606,8 +5620,8 @@
               "display_url": "t.me/zuiai1314",
               "expanded_url": "http://t.me/zuiai1314",
               "indices": [
-                46,
-                69
+                48,
+                71
               ],
               "url": "https://t.co/YWk4EP5v9U"
             }
