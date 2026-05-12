@@ -1376,5 +1376,59 @@
     },
     "full_text": "อุ๋งๆ https://t.co/lXGCGd7K19",
     "publish_time": "2026-05-12T18:13:18"
+  },
+  {
+    "file_name": "-UonMKVdHXf8_WD6.mp4",
+    "user": {
+      "screen_name": "cibxun0301",
+      "name": "蔡博轩"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1966886966143930368/vid/avc1/720x1280/-UonMKVdHXf8_WD6.mp4?tag=21",
+    "read_time": "2026-05-12T20:01:57",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (704MB > 50MB)",
+      "timestamp": "2026-05-12T20:02:01",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 739068753,
+      "size_mb": 704.83,
+      "timestamp": "2026-05-12T20:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4lsyPXB55J",
+    "publish_time": "2026-05-12T19:17:26"
+  },
+  {
+    "file_name": "HIHcr_TaQAAIa4o.jpg",
+    "user": {
+      "screen_name": "arthurz_xcx",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIHcr_TaQAAIa4o.jpg",
+    "read_time": "2026-05-12T20:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23595,
+      "timestamp": "2026-05-12T20:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 134774,
+      "size_mb": 0.13,
+      "timestamp": "2026-05-12T20:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "chest day done https://t.co/gr6iaxBMTN",
+    "publish_time": "2026-05-12T19:43:29"
   }
 ]

@@ -699,5 +699,33 @@
     "tweetUrl": "https://x.com/arthurz_xcx/status/2054142865899712653",
     "fullText": "อุ๋งๆ https://t.co/lXGCGd7K19",
     "publishTime": "2026-05-12T18:13:18"
+  },
+  {
+    "user": {
+      "screenName": "cibxun0301",
+      "name": "蔡博轩"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1966886966143930368/vid/avc1/720x1280/-UonMKVdHXf8_WD6.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/cibxun0301/status/2054159008995700904",
+    "fullText": "https://t.co/4lsyPXB55J",
+    "publishTime": "2026-05-12T19:17:26"
+  },
+  {
+    "user": {
+      "screenName": "arthurz_xcx",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIHcr_TaQAAIa4o.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/arthurz_xcx/status/2054165562239099193",
+    "fullText": "chest day done https://t.co/gr6iaxBMTN",
+    "publishTime": "2026-05-12T19:43:29"
   }
 ]
