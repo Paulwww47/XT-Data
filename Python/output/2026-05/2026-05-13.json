@@ -222,14 +222,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (351MB > 50MB)",
       "timestamp": "2026-05-13T01:01:28",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 368690418,
       "size_mb": 351.61,
-      "timestamp": "2026-05-13T01:01:28",
+      "timestamp": "2026-05-13T02:01:17",
       "download_attempts": 0
     },
     "full_text": "https://t.co/kcwfuKwKUP",
@@ -312,5 +312,109 @@
     },
     "full_text": "https://t.co/fPn8Y1MATr",
     "publish_time": "2026-05-13T00:54:41"
+  },
+  {
+    "file_name": "HIIu_3vaMAAlA9a.jpg",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIIu_3vaMAAlA9a.jpg",
+    "read_time": "2026-05-13T02:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23626,
+      "timestamp": "2026-05-13T02:01:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 133836,
+      "size_mb": 0.13,
+      "timestamp": "2026-05-13T02:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "弹弹～ https://t.co/yIsxgB0wq8",
+    "publish_time": "2026-05-13T01:43:11"
+  },
+  {
+    "file_name": "HIIu_2pakAA2Dvw.jpg",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIIu_2pakAA2Dvw.jpg",
+    "read_time": "2026-05-13T02:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23627,
+      "timestamp": "2026-05-13T02:01:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 145328,
+      "size_mb": 0.14,
+      "timestamp": "2026-05-13T02:01:19",
+      "download_attempts": 0
+    },
+    "full_text": "弹弹～ https://t.co/yIsxgB0wq8",
+    "publish_time": "2026-05-13T01:43:11"
+  },
+  {
+    "file_name": "HIIu_2vaQAAwjf7.jpg",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIIu_2vaQAAwjf7.jpg",
+    "read_time": "2026-05-13T02:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23628,
+      "timestamp": "2026-05-13T02:01:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 106257,
+      "size_mb": 0.1,
+      "timestamp": "2026-05-13T02:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "弹弹～ https://t.co/yIsxgB0wq8",
+    "publish_time": "2026-05-13T01:43:11"
+  },
+  {
+    "file_name": "cP-_kmbC9LZ51ljn.mp4",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2054256054230474752/pu/vid/avc1/1280x720/cP-_kmbC9LZ51ljn.mp4?tag=12",
+    "read_time": "2026-05-13T02:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23629,
+      "timestamp": "2026-05-13T02:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 844660,
+      "size_mb": 0.81,
+      "timestamp": "2026-05-13T02:01:23",
+      "download_attempts": 0
+    },
+    "full_text": "弹弹～ https://t.co/yIsxgB0wq8",
+    "publish_time": "2026-05-13T01:43:11"
   }
 ]

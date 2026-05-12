@@ -140,5 +140,23 @@
     "tweetUrl": "https://x.com/cibxun0301/status/2054243877578494000",
     "fullText": "https://t.co/fPn8Y1MATr",
     "publishTime": "2026-05-13T00:54:41"
+  },
+  {
+    "user": {
+      "screenName": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIIu_3vaMAAlA9a.jpg",
+      "https://pbs.twimg.com/media/HIIu_2pakAA2Dvw.jpg",
+      "https://pbs.twimg.com/media/HIIu_2vaQAAwjf7.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2054256054230474752/pu/vid/avc1/1280x720/cP-_kmbC9LZ51ljn.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/bohaixiaochen/status/2054256086316908811",
+    "fullText": "弹弹～ https://t.co/yIsxgB0wq8",
+    "publishTime": "2026-05-13T01:43:11"
   }
 ]
