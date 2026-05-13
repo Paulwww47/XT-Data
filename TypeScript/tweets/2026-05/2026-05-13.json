@@ -161,6 +161,21 @@
   },
   {
     "user": {
+      "screenName": "stevensenka",
+      "name": "josh"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIIwWdfbUAAFxo8.jpg",
+      "https://pbs.twimg.com/media/HIIwWcLbIAAEern.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/stevensenka/status/2054257616956923911",
+    "fullText": "终于剪完了半年前的vlog\nlady gaga最高～ https://t.co/wefbnKjqZh",
+    "publishTime": "2026-05-13T01:49:16"
+  },
+  {
+    "user": {
       "screenName": "jianhuoyibianqu",
       "name": "aicnuom"
     },
@@ -364,5 +379,46 @@
     "tweetUrl": "https://x.com/youdi/status/2054379732209426574",
     "fullText": "https://t.co/XptKxqRPOn",
     "publishTime": "2026-05-13T09:54:31"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIKlq2MaYAADIGX.jpg",
+      "https://pbs.twimg.com/media/HIKlyLObYAA6FMa.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/2054386709048303868",
+    "fullText": "https://t.co/ZYOfvhKrt3",
+    "publishTime": "2026-05-13T10:22:14"
+  },
+  {
+    "user": {
+      "screenName": "haibao0810",
+      "name": "海宝Alistiar"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/haibao0810/status/2054392432360636763",
+    "fullText": "群要活跃的才能进哈，怕有特务J混入群暂时不接受潜水的，如果有误伤的抱歉",
+    "publishTime": "2026-05-13T10:44:59"
+  },
+  {
+    "user": {
+      "screenName": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2054393642375327744/vid/avc1/720x1280/JJCLf9WQN45ONlPw.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/BBoy1069/status/2054393748285771894",
+    "fullText": "【2026年5月13日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/WFunT2Dtbd",
+    "publishTime": "2026-05-13T10:50:13"
   }
 ]
