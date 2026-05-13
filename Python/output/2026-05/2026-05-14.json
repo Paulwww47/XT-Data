@@ -284,5 +284,137 @@
     },
     "full_text": "https://t.co/B5mnIdGSIi",
     "publish_time": "2026-05-14T02:49:40"
+  },
+  {
+    "file_name": "9Texxa6U6D-Rwdu9.mp4",
+    "user": {
+      "screen_name": "77baxi",
+      "name": "健身教练cd伪娘"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2012037669518479360/vid/avc1/1080x1080/9Texxa6U6D-Rwdu9.mp4?tag=21",
+    "read_time": "2026-05-14T06:02:03",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (131MB > 50MB)",
+      "timestamp": "2026-05-14T06:02:04",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 137987600,
+      "size_mb": 131.6,
+      "timestamp": "2026-05-14T06:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/PePZMZw3EU",
+    "publish_time": "2026-05-14T04:12:10"
+  },
+  {
+    "file_name": "HIOtLuca0AAjuTi.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIOtLuca0AAjuTi.jpg",
+    "read_time": "2026-05-14T06:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23720,
+      "timestamp": "2026-05-14T06:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 98876,
+      "size_mb": 0.09,
+      "timestamp": "2026-05-14T06:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/9qJCdbRMrn",
+    "publish_time": "2026-05-14T05:32:53"
+  },
+  {
+    "file_name": "HIOtONdbEAAS1yM.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIOtONdbEAAS1yM.jpg",
+    "read_time": "2026-05-14T06:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23721,
+      "timestamp": "2026-05-14T06:02:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 120814,
+      "size_mb": 0.12,
+      "timestamp": "2026-05-14T06:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/9pAsTE6MHS",
+    "publish_time": "2026-05-14T05:33:04"
+  },
+  {
+    "file_name": "HIOuP56bIAA2J_i.jpg",
+    "user": {
+      "screen_name": "zuiaiyewan2018",
+      "name": "zuiai1314"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIOuP56bIAA2J_i.jpg",
+    "read_time": "2026-05-14T06:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23722,
+      "timestamp": "2026-05-14T06:02:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 124379,
+      "size_mb": 0.12,
+      "timestamp": "2026-05-14T06:02:07",
+      "download_attempts": 0
+    },
+    "full_text": "跑团里的叔叔🌸 https://t.co/PYikYOVHLX",
+    "publish_time": "2026-05-14T05:38:50"
+  },
+  {
+    "file_name": "DKbMCIpI0uHli1eQ.mp4",
+    "user": {
+      "screen_name": "zuiaiyewan2018",
+      "name": "zuiai1314"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2054677444008046592/vid/avc1/720x1556/DKbMCIpI0uHli1eQ.mp4?tag=14",
+    "read_time": "2026-05-14T06:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23723,
+      "timestamp": "2026-05-14T06:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3311121,
+      "size_mb": 3.16,
+      "timestamp": "2026-05-14T06:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "跑团里的叔叔🌸 https://t.co/PYikYOVHLX",
+    "publish_time": "2026-05-14T05:38:50"
   }
 ]
