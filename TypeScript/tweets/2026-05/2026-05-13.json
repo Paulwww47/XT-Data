@@ -322,5 +322,47 @@
     "tweetUrl": "https://x.com/youdi/status/2054360107094606143",
     "fullText": "https://t.co/RPIQ7YyVtv",
     "publishTime": "2026-05-13T08:36:32"
+  },
+  {
+    "user": {
+      "screenName": "Louiewe123",
+      "name": "Louiewe卤蛋头"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIKX0dIbQAAP9ES.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Louiewe123/status/2054371314593595757",
+    "fullText": "🧼 https://t.co/nxomjWtzLT",
+    "publishTime": "2026-05-13T09:21:04"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2054379529297416192/vid/avc1/576x1024/pA5f40Em96H08Ypc.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/2054379591964475556",
+    "fullText": "https://t.co/3NbVZIBBXF",
+    "publishTime": "2026-05-13T09:53:57"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2054379629813932033/vid/avc1/1080x1920/FW0Wgolwre-REPNg.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/2054379732209426574",
+    "fullText": "https://t.co/XptKxqRPOn",
+    "publishTime": "2026-05-13T09:54:31"
   }
 ]
