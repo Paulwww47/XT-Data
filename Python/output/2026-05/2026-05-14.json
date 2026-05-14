@@ -1916,14 +1916,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (103MB > 50MB)",
       "timestamp": "2026-05-14T15:02:36",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 108880451,
       "size_mb": 103.84,
-      "timestamp": "2026-05-14T15:02:36",
+      "timestamp": "2026-05-14T16:05:59",
       "download_attempts": 0
     },
     "full_text": "https://t.co/pBepKxSbWf",
@@ -1954,5 +1954,83 @@
     },
     "full_text": "https://t.co/7JzRarGtkm",
     "publish_time": "2026-05-14T14:54:57"
+  },
+  {
+    "file_name": "HIQzLmRaoAAD23_.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIQzLmRaoAAD23_.png",
+    "read_time": "2026-05-14T16:05:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23781,
+      "timestamp": "2026-05-14T16:06:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 996028,
+      "size_mb": 0.95,
+      "timestamp": "2026-05-14T16:05:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/1NIRLOigoi",
+    "publish_time": "2026-05-14T15:18:25"
+  },
+  {
+    "file_name": "HIQzx7VbUAAD7N3.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIQzx7VbUAAD7N3.png",
+    "read_time": "2026-05-14T16:05:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23782,
+      "timestamp": "2026-05-14T16:06:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 664000,
+      "size_mb": 0.63,
+      "timestamp": "2026-05-14T16:06:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/v4Hi2iZX67",
+    "publish_time": "2026-05-14T15:20:59"
+  },
+  {
+    "file_name": "MyWYjidfCUqhLsTb.mp4",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2054828695534362624/vid/avc1/1080x1920/MyWYjidfCUqhLsTb.mp4?tag=27",
+    "read_time": "2026-05-14T16:05:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23783,
+      "timestamp": "2026-05-14T16:06:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2729678,
+      "size_mb": 2.6,
+      "timestamp": "2026-05-14T16:06:04",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/mOd93hvSbI",
+    "publish_time": "2026-05-14T15:39:04"
   }
 ]
