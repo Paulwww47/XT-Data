@@ -2542,15 +2542,15 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (54MB > 50MB)",
       "timestamp": "2026-05-14T23:01:24",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "download_attempts": 0,
       "success": true,
       "size": 56659302,
       "size_mb": 54.03,
-      "timestamp": "2026-05-14T23:01:24"
+      "timestamp": "2026-05-15T00:01:16"
     },
     "full_text": "社畜大叔带上头套泄欲玩奶子\n这内裤把鸡巴绷的更紧了 \n隔着内裤射了好多\n凑了下时长 https://t.co/lgQGm8fe3F",
     "publish_time": "2026-05-14T21:52:38"
@@ -2684,5 +2684,109 @@
     },
     "full_text": "预告片 https://t.co/EaMPPEYeyo",
     "publish_time": "2026-05-14T22:29:00"
+  },
+  {
+    "file_name": "HIShlucbAAA7VnO.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIShlucbAAA7VnO.jpg",
+    "read_time": "2026-05-15T00:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23808,
+      "timestamp": "2026-05-15T00:01:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 133229,
+      "size_mb": 0.13,
+      "timestamp": "2026-05-15T00:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "寸头张林 https://t.co/Lw6sCoLb1B",
+    "publish_time": "2026-05-14T23:20:47"
+  },
+  {
+    "file_name": "HISh6vUbYAAAegZ.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HISh6vUbYAAAegZ.jpg",
+    "read_time": "2026-05-15T00:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23809,
+      "timestamp": "2026-05-15T00:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 162690,
+      "size_mb": 0.16,
+      "timestamp": "2026-05-15T00:01:18",
+      "download_attempts": 0
+    },
+    "full_text": "颜面破坏@BANXIANSHENG1M https://t.co/LZRIf5kCGA",
+    "publish_time": "2026-05-14T23:22:13"
+  },
+  {
+    "file_name": "HISnVrLboAIwCUY.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HISnVrLboAIwCUY.jpg",
+    "read_time": "2026-05-15T00:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23810,
+      "timestamp": "2026-05-15T00:01:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 86888,
+      "size_mb": 0.08,
+      "timestamp": "2026-05-15T00:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/VA52H6K2er",
+    "publish_time": "2026-05-14T23:45:53"
+  },
+  {
+    "file_name": "qm5hnV8-59aw41F2.mp4",
+    "user": {
+      "screen_name": "Divo1765100",
+      "name": "Divo"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2054953211904262144/vid/avc1/1080x1060/qm5hnV8-59aw41F2.mp4?tag=27",
+    "read_time": "2026-05-15T00:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23811,
+      "timestamp": "2026-05-15T00:01:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 635981,
+      "size_mb": 0.61,
+      "timestamp": "2026-05-15T00:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "我可以做你的网恋男友吗 https://t.co/QPkxgJEC1f",
+    "publish_time": "2026-05-14T23:53:33"
   }
 ]
