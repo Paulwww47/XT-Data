@@ -1472,14 +1472,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (87MB > 50MB)",
       "timestamp": "2026-05-14T13:02:08",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 92242084,
       "size_mb": 87.97,
-      "timestamp": "2026-05-14T13:02:08",
+      "timestamp": "2026-05-14T14:01:53",
       "download_attempts": 0
     },
     "full_text": "https://t.co/7W4owlkL7N",
@@ -1510,5 +1510,395 @@
     },
     "full_text": "https://t.co/Dj2v3dNgTe",
     "publish_time": "2026-05-14T12:58:19"
+  },
+  {
+    "file_name": "PzkaFSoXSLG-dijx.mp4",
+    "user": {
+      "screen_name": "pfejui",
+      "name": "啊这直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2054790196856860672/vid/avc1/720x918/PzkaFSoXSLG-dijx.mp4?tag=27",
+    "read_time": "2026-05-14T14:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23765,
+      "timestamp": "2026-05-14T14:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 475914,
+      "size_mb": 0.45,
+      "timestamp": "2026-05-14T14:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "⛲️🌊 https://t.co/XF2zzNy6mH",
+    "publish_time": "2026-05-14T13:05:46"
+  },
+  {
+    "file_name": "HIQU4mvbYAAShcB.jpg",
+    "user": {
+      "screen_name": "youan1144",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIQU4mvbYAAShcB.jpg",
+    "read_time": "2026-05-14T14:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23766,
+      "timestamp": "2026-05-14T14:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 239715,
+      "size_mb": 0.23,
+      "timestamp": "2026-05-14T14:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "黑色款 https://t.co/diy8Ly7BsA",
+    "publish_time": "2026-05-14T13:06:35"
+  },
+  {
+    "file_name": "HIQU4msbEAAcKb-.jpg",
+    "user": {
+      "screen_name": "youan1144",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIQU4msbEAAcKb-.jpg",
+    "read_time": "2026-05-14T14:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23767,
+      "timestamp": "2026-05-14T14:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 197341,
+      "size_mb": 0.19,
+      "timestamp": "2026-05-14T14:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "黑色款 https://t.co/diy8Ly7BsA",
+    "publish_time": "2026-05-14T13:06:35"
+  },
+  {
+    "file_name": "HIQU4h1bgAA14MW.jpg",
+    "user": {
+      "screen_name": "youan1144",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIQU4h1bgAA14MW.jpg",
+    "read_time": "2026-05-14T14:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23768,
+      "timestamp": "2026-05-14T14:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 210752,
+      "size_mb": 0.2,
+      "timestamp": "2026-05-14T14:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "黑色款 https://t.co/diy8Ly7BsA",
+    "publish_time": "2026-05-14T13:06:35"
+  },
+  {
+    "file_name": "HIQU4mxbMAARPht.jpg",
+    "user": {
+      "screen_name": "youan1144",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIQU4mxbMAARPht.jpg",
+    "read_time": "2026-05-14T14:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23769,
+      "timestamp": "2026-05-14T14:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 234132,
+      "size_mb": 0.22,
+      "timestamp": "2026-05-14T14:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "黑色款 https://t.co/diy8Ly7BsA",
+    "publish_time": "2026-05-14T13:06:35"
+  },
+  {
+    "file_name": "HIQVClNbQAAuK7w.jpg",
+    "user": {
+      "screen_name": "youan1144",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIQVClNbQAAuK7w.jpg",
+    "read_time": "2026-05-14T14:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23770,
+      "timestamp": "2026-05-14T14:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 212120,
+      "size_mb": 0.2,
+      "timestamp": "2026-05-14T14:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "黑色款 https://t.co/fHggXRQMt0",
+    "publish_time": "2026-05-14T13:07:11"
+  },
+  {
+    "file_name": "HIQVClQaAAAo4Jn.jpg",
+    "user": {
+      "screen_name": "youan1144",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIQVClQaAAAo4Jn.jpg",
+    "read_time": "2026-05-14T14:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23771,
+      "timestamp": "2026-05-14T14:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 203864,
+      "size_mb": 0.19,
+      "timestamp": "2026-05-14T14:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "黑色款 https://t.co/fHggXRQMt0",
+    "publish_time": "2026-05-14T13:07:11"
+  },
+  {
+    "file_name": "HIQVClVaIAA4DWR.jpg",
+    "user": {
+      "screen_name": "youan1144",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIQVClVaIAA4DWR.jpg",
+    "read_time": "2026-05-14T14:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23772,
+      "timestamp": "2026-05-14T14:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 165014,
+      "size_mb": 0.16,
+      "timestamp": "2026-05-14T14:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "黑色款 https://t.co/fHggXRQMt0",
+    "publish_time": "2026-05-14T13:07:11"
+  },
+  {
+    "file_name": "HIQVClQa0AAIBhU.jpg",
+    "user": {
+      "screen_name": "youan1144",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIQVClQa0AAIBhU.jpg",
+    "read_time": "2026-05-14T14:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23773,
+      "timestamp": "2026-05-14T14:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 223151,
+      "size_mb": 0.21,
+      "timestamp": "2026-05-14T14:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "黑色款 https://t.co/fHggXRQMt0",
+    "publish_time": "2026-05-14T13:07:11"
+  },
+  {
+    "file_name": "HIQVLSsboAAKafR.jpg",
+    "user": {
+      "screen_name": "youan1144",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIQVLSsboAAKafR.jpg",
+    "read_time": "2026-05-14T14:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23774,
+      "timestamp": "2026-05-14T14:02:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 193122,
+      "size_mb": 0.18,
+      "timestamp": "2026-05-14T14:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "白色款 https://t.co/90UNVQCEDG",
+    "publish_time": "2026-05-14T13:07:44"
+  },
+  {
+    "file_name": "HIQVLSqbUAAz9jJ.jpg",
+    "user": {
+      "screen_name": "youan1144",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIQVLSqbUAAz9jJ.jpg",
+    "read_time": "2026-05-14T14:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23775,
+      "timestamp": "2026-05-14T14:02:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 222656,
+      "size_mb": 0.21,
+      "timestamp": "2026-05-14T14:02:07",
+      "download_attempts": 0
+    },
+    "full_text": "白色款 https://t.co/90UNVQCEDG",
+    "publish_time": "2026-05-14T13:07:44"
+  },
+  {
+    "file_name": "HIQVLStbUAAku85.jpg",
+    "user": {
+      "screen_name": "youan1144",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIQVLStbUAAku85.jpg",
+    "read_time": "2026-05-14T14:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23776,
+      "timestamp": "2026-05-14T14:02:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 208095,
+      "size_mb": 0.2,
+      "timestamp": "2026-05-14T14:02:08",
+      "download_attempts": 0
+    },
+    "full_text": "白色款 https://t.co/90UNVQCEDG",
+    "publish_time": "2026-05-14T13:07:44"
+  },
+  {
+    "file_name": "HIQVLSsbQAAQ7ja.jpg",
+    "user": {
+      "screen_name": "youan1144",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIQVLSsbQAAQ7ja.jpg",
+    "read_time": "2026-05-14T14:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23777,
+      "timestamp": "2026-05-14T14:02:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 241170,
+      "size_mb": 0.23,
+      "timestamp": "2026-05-14T14:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "白色款 https://t.co/90UNVQCEDG",
+    "publish_time": "2026-05-14T13:07:44"
+  },
+  {
+    "file_name": "HIQZvVjbYAAz5Sh.jpg",
+    "user": {
+      "screen_name": "Mcsswest",
+      "name": "没有脑袋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIQZvVjbYAAz5Sh.jpg",
+    "read_time": "2026-05-14T14:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23778,
+      "timestamp": "2026-05-14T14:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 135488,
+      "size_mb": 0.13,
+      "timestamp": "2026-05-14T14:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "早上光着出去拿冰棍，顺手在厨房拍了一张，哈哈哈 https://t.co/XOoQUcGcHb",
+    "publish_time": "2026-05-14T13:27:57"
+  },
+  {
+    "file_name": "HIQZ3BmbMAEG6NA.jpg",
+    "user": {
+      "screen_name": "Mcsswest",
+      "name": "没有脑袋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIQZ3BmbMAEG6NA.jpg",
+    "read_time": "2026-05-14T14:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23779,
+      "timestamp": "2026-05-14T14:02:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 172362,
+      "size_mb": 0.16,
+      "timestamp": "2026-05-14T14:02:12",
+      "download_attempts": 0
+    },
+    "full_text": "早上光着出去拿冰棍，顺手在厨房拍了一张，哈哈哈 https://t.co/XOoQUcGcHb",
+    "publish_time": "2026-05-14T13:27:57"
   }
 ]
