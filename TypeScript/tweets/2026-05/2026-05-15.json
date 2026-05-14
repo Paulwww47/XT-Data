@@ -113,5 +113,43 @@
     "tweetUrl": "https://x.com/Azrael64300/status/2054984387524010165",
     "fullText": "https://t.co/FRw8utdCF2",
     "publishTime": "2026-05-15T01:57:12"
+  },
+  {
+    "user": {
+      "screenName": "arthurz_xcx",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/arthurz_xcx/status/2054985400222110114",
+    "fullText": "เอ่อ แบบนี้ก็ได้หรอ เป็นนี่ไม่ตลกด้วยอะอีเหี้ย",
+    "publishTime": "2026-05-15T02:01:13"
+  },
+  {
+    "user": {
+      "screenName": "JMaTop1",
+      "name": "精马"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/JMaTop1/status/2054995262687658426",
+    "fullText": "你们觉得呢 🤔",
+    "publishTime": "2026-05-15T02:40:25"
+  },
+  {
+    "user": {
+      "screenName": "77baxi",
+      "name": "健身教练cd伪娘"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1927979421794963456/vid/avc1/720x1280/xyMCP_brRD0HPRnY.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/77baxi/status/2054998218979832277",
+    "fullText": "https://t.co/fSEOfahvDT",
+    "publishTime": "2026-05-15T02:52:10"
   }
 ]
