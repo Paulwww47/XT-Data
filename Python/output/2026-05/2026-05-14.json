@@ -1900,5 +1900,59 @@
     },
     "full_text": "早上光着出去拿冰棍，顺手在厨房拍了一张，哈哈哈 https://t.co/XOoQUcGcHb",
     "publish_time": "2026-05-14T13:27:57"
+  },
+  {
+    "file_name": "hoh2ZzoGgZPlUnrK.mp4",
+    "user": {
+      "screen_name": "77baxi",
+      "name": "健身教练cd伪娘"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2054566990006849536/vid/avc1/648x900/hoh2ZzoGgZPlUnrK.mp4?tag=27",
+    "read_time": "2026-05-14T15:02:34",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (103MB > 50MB)",
+      "timestamp": "2026-05-14T15:02:36",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 108880451,
+      "size_mb": 103.84,
+      "timestamp": "2026-05-14T15:02:36",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/pBepKxSbWf",
+    "publish_time": "2026-05-14T14:34:40"
+  },
+  {
+    "file_name": "fwlDhppFUD0R6SFB.mp4",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2054814908605517824/vid/avc1/1080x1920/fwlDhppFUD0R6SFB.mp4?tag=27",
+    "read_time": "2026-05-14T15:02:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23780,
+      "timestamp": "2026-05-14T15:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3392144,
+      "size_mb": 3.24,
+      "timestamp": "2026-05-14T15:02:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/7JzRarGtkm",
+    "publish_time": "2026-05-14T14:54:57"
   }
 ]

@@ -762,34 +762,9 @@
       "name": "Cynthia Fuimaono",
       "screenName": "CFuimaono82031",
       "createdAt": "Wed May 29 05:28:18 +0000 2024",
-      "description": "qq977421414 小众原创略贵 单卖无会员群 购买需提供本人真实使用的支付宝所绑定的电话号码 要做成水印打在视频上 看明白了再加我\n防失联电报群&更多预览：https://t.co/SYB8IS2H1K",
+      "description": "qq977421414 小众原创略贵 单卖无会员群 购买需提供本人真实使用的支付宝所绑定的电话号码 要做成水印打在视频上 看明白了再加我",
       "entities": {
-        "description": {
-          "urls": [
-            {
-              "display_url": "t.me/locklock666",
-              "expanded_url": "http://t.me/locklock666",
-              "indices": [
-                81,
-                104
-              ],
-              "url": "https://t.co/SYB8IS2H1K"
-            }
-          ]
-        },
-        "url": {
-          "urls": [
-            {
-              "display_url": "t.me/locklock666",
-              "expanded_url": "http://t.me/locklock666",
-              "indices": [
-                0,
-                23
-              ],
-              "url": "https://t.co/SYB8IS2H1K"
-            }
-          ]
-        }
+        "description": {}
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1795688541332078592/1776335003",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2044723113213259776/xS9fiLId_normal.jpg"
@@ -2238,7 +2213,7 @@
   {
     "restId": "1423948049617850378",
     "legacy": {
-      "name": "杰尼龟🐢",
+      "name": "巨龙不该被束缚",
       "screenName": "Jeff07751908",
       "createdAt": "Sat Aug 07 10:04:19 +0000 2021",
       "description": "成都",
@@ -2660,20 +2635,6 @@
       },
       "profileBannerUrl": "",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1950901477855424512/7eBiySJH_normal.jpg"
-    }
-  },
-  {
-    "restId": "2042221498417770496",
-    "legacy": {
-      "name": "丶新一老师",
-      "screenName": "KingKongnb",
-      "createdAt": "Thu Apr 09 12:43:15 +0000 2026",
-      "description": "Base深圳 1️⃣ 接spa 按摩 \nQ 184823405\n私信不了可以找备用号@xinyitop111",
-      "entities": {
-        "description": {}
-      },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2042221498417770496/1775739912",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2042221956905529344/vNiFQDti_normal.jpg"
     }
   },
   {
@@ -4297,6 +4258,20 @@
     }
   },
   {
+    "restId": "1886371333451505664",
+    "legacy": {
+      "name": "打开看看里面的秘密",
+      "screenName": "shanethesheeps",
+      "createdAt": "Mon Feb 03 11:09:37 +0000 2025",
+      "description": "㊙️ 共同保守秘密，禁止转载，勿发送无关垃圾私信，否则将被拉黑。🚷👁‍🗨",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2038922948225236992/7j0UQPJs_normal.jpg"
+    }
+  },
+  {
     "restId": "708766939",
     "legacy": {
       "name": "摄肌师",
@@ -5550,9 +5525,21 @@
       "name": "YOUAN",
       "screenName": "youan1144",
       "createdAt": "Sun Apr 06 09:44:52 +0000 2025",
-      "description": "情趣内衣/内裤控/白袜控/轻微furry",
+      "description": "情趣内衣/内裤控/白袜控/轻微furry \nhttps://t.co/JDsQYoJIxM",
       "entities": {
-        "description": {}
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/linyouan1144?i…",
+              "expanded_url": "https://www.instagram.com/linyouan1144?igsh=MWxxaTluMzV5ZGlr&utm_source=qr",
+              "indices": [
+                22,
+                45
+              ],
+              "url": "https://t.co/JDsQYoJIxM"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2031552730469126146/Zpu0KAzc_normal.jpg"
