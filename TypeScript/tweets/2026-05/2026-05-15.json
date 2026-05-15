@@ -522,5 +522,37 @@
     "tweetUrl": "https://x.com/leonyangy/status/2055160216313012440",
     "fullText": "POV: Me, watching MAYHEM Requiem⬇️\n#ladygaga #mayhem #applemusic https://t.co/a9lVAZXFaZ",
     "publishTime": "2026-05-15T13:35:53"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIV1E8JbAAAsHSN.jpg",
+      "https://pbs.twimg.com/media/HIV1Fdta8AAeZ74.jpg",
+      "https://pbs.twimg.com/media/HIV1GYlbcAAdoS_.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [
+      "https://github.com/easychen/quick-avatar"
+    ],
+    "tweetUrl": "https://x.com/easychen/status/2055177806364193278",
+    "fullText": "#Easy同学正在独立开发 最近做 Agent，经常需要给它们设置头像。到处找图挺累的。\n\n后来发现 Dice Bear 不错，但没有我喜欢的风格。  于是用 GPT image2 做了个随机头像工具，叫做 Quick Avatar。\n\nnpm 直接安装后，传一个 seed 就能用。  目前上架了两组人物，欢迎使用\n\nhttps://t.co/Cz4dvzuwt8 https://t.co/5fSWKryHGN",
+    "publishTime": "2026-05-15T14:45:47"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIV4aWnagAAQpcK.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2055181208821383631",
+    "fullText": "https://t.co/z8WnNx9viW",
+    "publishTime": "2026-05-15T14:59:18"
   }
 ]
