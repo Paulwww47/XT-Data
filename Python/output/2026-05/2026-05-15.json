@@ -1714,5 +1714,59 @@
     },
     "full_text": "https://t.co/FJaCQBuirz",
     "publish_time": "2026-05-15T20:35:55"
+  },
+  {
+    "file_name": "bSsUBlsynln7BzlX.mp4",
+    "user": {
+      "screen_name": "zuoximuhao1111S",
+      "name": "佐夕木豪"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2055276683205423104/vid/avc1/1280x720/bSsUBlsynln7BzlX.mp4?tag=27",
+    "read_time": "2026-05-15T22:02:07",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (55MB > 50MB)",
+      "timestamp": "2026-05-15T22:02:09",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 58193964,
+      "size_mb": 55.5,
+      "timestamp": "2026-05-15T22:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "两根大鸡一起打飞机🤤\n\n和@zlcalyl9999 side一下🥵\n\n（PS：此视频我们无偿呈现出来给大家，已经是完整版无需购买，多转推哦😏，拍的有些随意大家别介怀。罪原体是豪哥X上第一位发的合拍博主朋友，谨以此感谢他的支持和鼓励。希望看到视频的你开心，同时也谢谢你们一直喜欢我。solo类的视频下期再更新） https://t.co/0TAGAUMURU",
+    "publish_time": "2026-05-15T21:41:25"
+  },
+  {
+    "file_name": "HIXXc6RbkAA2qdE.jpg",
+    "user": {
+      "screen_name": "DBH76",
+      "name": "Deru"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIXXc6RbkAA2qdE.jpg",
+    "read_time": "2026-05-15T22:02:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 23883,
+      "timestamp": "2026-05-15T22:02:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 127254,
+      "size_mb": 0.12,
+      "timestamp": "2026-05-15T22:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "ใช้เครื่องคิดเลขถ่าย https://t.co/C7npkDKZXu",
+    "publish_time": "2026-05-15T21:54:33"
   }
 ]
