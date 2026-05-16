@@ -2322,6 +2322,45 @@
     }
   },
   {
+    "restId": "1995343221782962176",
+    "legacy": {
+      "name": "異男記錄",
+      "screenName": "JiNaamGeiLuk",
+      "createdAt": "Mon Dec 01 04:04:41 +0000 2025",
+      "description": "人言可畏·一名普通的異男記錄者·TG group：https://t.co/7BqPZ4SIzk ·舉報者全家替我擋災",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "t.me/JiNaamGeiLuk",
+              "expanded_url": "https://t.me/JiNaamGeiLuk",
+              "indices": [
+                25,
+                48
+              ],
+              "url": "https://t.co/7BqPZ4SIzk"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/JiNaamGeiLuk",
+              "expanded_url": "https://t.me/JiNaamGeiLuk",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/7BqPZ4SIzk"
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1995343221782962176/1764562478",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1995346316411678721/lFAJwcPN_normal.jpg"
+    }
+  },
+  {
     "restId": "990268764322127872",
     "legacy": {
       "name": "Juanto",
@@ -3017,7 +3056,7 @@
       "name": "刘刚Logan",
       "screenName": "LiugangLogan",
       "createdAt": "Sat Jul 13 03:38:53 +0000 2024",
-      "description": "B站/抖音/小红书：刘刚Logan 佛系出🩲🧦    加V门槛🧧188",
+      "description": "体育硕士，B站/抖音/小红书：刘刚Logan 佛系出🩲🧦    加V门槛🧧188",
       "entities": {
         "description": {},
         "url": {
@@ -5482,19 +5521,18 @@
       "name": "（原创）夜晚",
       "screenName": "xngxng151257",
       "createdAt": "Sat Feb 14 04:26:13 +0000 2026",
-      "description": "（直男的🌸💗秘密）原创内容❤️ 3538544052",
+      "description": "（直男的🌸💗秘密）原创内容❤️ 企鹅：3817487724      电报：https://t.co/gbPd8Xv9zd",
       "entities": {
-        "description": {},
-        "url": {
+        "description": {
           "urls": [
             {
-              "display_url": "t.me/yewan2018",
-              "expanded_url": "http://t.me/yewan2018",
+              "display_url": "t.me/zuiai1314",
+              "expanded_url": "http://t.me/zuiai1314",
               "indices": [
-                0,
-                23
+                38,
+                61
               ],
-              "url": "https://t.co/ndhE5DtWTT"
+              "url": "https://t.co/gbPd8Xv9zd"
             }
           ]
         }
