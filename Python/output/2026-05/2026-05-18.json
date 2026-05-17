@@ -170,17 +170,121 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (54MB > 50MB)",
       "timestamp": "2026-05-18T02:03:00",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 57561250,
       "size_mb": 54.89,
-      "timestamp": "2026-05-18T02:03:00",
+      "timestamp": "2026-05-18T03:02:00",
       "download_attempts": 0
     },
     "full_text": "been edging for 2 hours now 🥵 https://t.co/6kI3JYJLw3",
     "publish_time": "2026-05-18T01:55:36"
+  },
+  {
+    "file_name": "HIilSRYaQAA2GlA.jpg",
+    "user": {
+      "screen_name": "Alfred_yh_",
+      "name": "机械臂Luk"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIilSRYaQAA2GlA.jpg",
+    "read_time": "2026-05-18T03:01:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24074,
+      "timestamp": "2026-05-18T03:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 199409,
+      "size_mb": 0.19,
+      "timestamp": "2026-05-18T03:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "请勿随意流水 https://t.co/DMmt4guPnA",
+    "publish_time": "2026-05-18T02:10:49"
+  },
+  {
+    "file_name": "HIilSRZbsAAAKy_.jpg",
+    "user": {
+      "screen_name": "Alfred_yh_",
+      "name": "机械臂Luk"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIilSRZbsAAAKy_.jpg",
+    "read_time": "2026-05-18T03:01:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24075,
+      "timestamp": "2026-05-18T03:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 89209,
+      "size_mb": 0.09,
+      "timestamp": "2026-05-18T03:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "请勿随意流水 https://t.co/DMmt4guPnA",
+    "publish_time": "2026-05-18T02:10:49"
+  },
+  {
+    "file_name": "HIimDNra8AALUwx.jpg",
+    "user": {
+      "screen_name": "Uji_Hikaru",
+      "name": "虎不理"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIimDNra8AALUwx.jpg",
+    "read_time": "2026-05-18T03:01:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24076,
+      "timestamp": "2026-05-18T03:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 145575,
+      "size_mb": 0.14,
+      "timestamp": "2026-05-18T03:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/oTS84oqMXx",
+    "publish_time": "2026-05-18T02:14:22"
+  },
+  {
+    "file_name": "HIimDNraQAARHko.jpg",
+    "user": {
+      "screen_name": "Uji_Hikaru",
+      "name": "虎不理"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIimDNraQAARHko.jpg",
+    "read_time": "2026-05-18T03:01:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24077,
+      "timestamp": "2026-05-18T03:02:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 100225,
+      "size_mb": 0.1,
+      "timestamp": "2026-05-18T03:02:07",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/oTS84oqMXx",
+    "publish_time": "2026-05-18T02:14:22"
   }
 ]
