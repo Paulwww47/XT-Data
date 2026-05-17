@@ -128,5 +128,59 @@
     },
     "full_text": "👔西裝愛好者👔 https://t.co/qebwwRSelS",
     "publish_time": "2026-05-18T00:49:21"
+  },
+  {
+    "file_name": "CKqVhNlBYj43pip4.mp4",
+    "user": {
+      "screen_name": "77baxi",
+      "name": "健身教练cd伪娘"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2055816480990855168/vid/avc1/1280x720/CKqVhNlBYj43pip4.mp4?tag=27",
+    "read_time": "2026-05-18T02:02:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24073,
+      "timestamp": "2026-05-18T02:02:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 11902417,
+      "size_mb": 11.35,
+      "timestamp": "2026-05-18T02:02:51",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/1qmZ4SoqZt",
+    "publish_time": "2026-05-18T01:44:35"
+  },
+  {
+    "file_name": "u-mM98AOFvo67KLE.mp4",
+    "user": {
+      "screen_name": "arthurz_xcx",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2056070930825412608/vid/avc1/2160x3840/u-mM98AOFvo67KLE.mp4?tag=27",
+    "read_time": "2026-05-18T02:02:48",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (54MB > 50MB)",
+      "timestamp": "2026-05-18T02:03:00",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 57561250,
+      "size_mb": 54.89,
+      "timestamp": "2026-05-18T02:03:00",
+      "download_attempts": 0
+    },
+    "full_text": "been edging for 2 hours now 🥵 https://t.co/6kI3JYJLw3",
+    "publish_time": "2026-05-18T01:55:36"
   }
 ]
