@@ -66,14 +66,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (369MB > 50MB)",
       "timestamp": "2026-05-17T19:03:18",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 387680713,
       "size_mb": 369.72,
-      "timestamp": "2026-05-17T19:03:18",
+      "timestamp": "2026-05-17T20:01:45",
       "download_attempts": 0
     },
     "full_text": "https://t.co/insI8YQS4e",
@@ -1794,5 +1794,57 @@
     },
     "full_text": "小狗合集🫡\nVx：hochen_ https://t.co/SxmiCSMMhe",
     "publish_time": "2026-05-17T18:51:24"
+  },
+  {
+    "file_name": "HIhPmobbsAAF0Cg.jpg",
+    "user": {
+      "screen_name": "MCdanbaifen",
+      "name": "猛吃蛋白粉🐯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIhPmobbsAAF0Cg.jpg",
+    "read_time": "2026-05-17T20:01:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24043,
+      "timestamp": "2026-05-17T20:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 320818,
+      "size_mb": 0.31,
+      "timestamp": "2026-05-17T20:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "在户外溯溪中第一次体验捆绑，感谢老师@wfl30385832，绑的超色技术超好。\n还吃到了很喜欢的另一个老师，🐔大到每一口都可以顶到喉咙，🌸也超嫩超级软，直接就是硬了一下午，期待下次可以和老师合体，感觉应该很爽 https://t.co/v6zkkpbUhW",
+    "publish_time": "2026-05-17T19:56:31"
+  },
+  {
+    "file_name": "HIhQN_da8AAALEL.jpg",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HIhQN_da8AAALEL.jpg",
+    "read_time": "2026-05-17T20:01:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24044,
+      "timestamp": "2026-05-17T20:01:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 190500,
+      "size_mb": 0.18,
+      "timestamp": "2026-05-17T20:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "雨天solo🥵 https://t.co/zrvLZLY3D3",
+    "publish_time": "2026-05-17T19:59:12"
   }
 ]
