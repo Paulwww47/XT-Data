@@ -260,5 +260,31 @@
     "tweetUrl": "https://x.com/BLPDBNANA/status/2056502671256015027",
     "fullText": "直男在哪",
     "publishTime": "2026-05-19T06:30:19"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIo22RVaoAAJ7rq.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2056516491370221972",
+    "fullText": "https://t.co/NAVvz2pd0x",
+    "publishTime": "2026-05-19T07:25:14"
+  },
+  {
+    "user": {
+      "screenName": "undefinedjy",
+      "name": "JY"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/undefinedjy/status/2056522225264853210",
+    "fullText": "被裁第一天🤣",
+    "publishTime": "2026-05-19T07:48:01"
   }
 ]
