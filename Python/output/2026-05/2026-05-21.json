@@ -222,14 +222,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (76MB > 50MB)",
       "timestamp": "2026-05-21T11:37:32",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 80634389,
       "size_mb": 76.9,
-      "timestamp": "2026-05-21T11:37:32",
+      "timestamp": "2026-05-21T12:02:24",
       "download_attempts": 0
     },
     "full_text": "เอาใจคนชอบแบบคาชุด + กางในขาวหน่อย บอกก่อนว่าไม่พุ่งมากนะครับแต่ข้นน 🥹\n\nคลิปเต็มอันเซนแอคล็อค กดลิ้งในไบโอได้เลยนะคับ ☺️🥵 https://t.co/4CXUZqCFh4",
@@ -910,5 +910,31 @@
     },
     "full_text": "【2026年5月21日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/3qN8DIEtY8",
     "publish_time": "2026-05-21T11:22:24"
+  },
+  {
+    "file_name": "HI0D8MVawAAOxit.jpg",
+    "user": {
+      "screen_name": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HI0D8MVawAAOxit.jpg",
+    "read_time": "2026-05-21T12:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24349,
+      "timestamp": "2026-05-21T12:02:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 214121,
+      "size_mb": 0.2,
+      "timestamp": "2026-05-21T12:02:24",
+      "download_attempts": 0
+    },
+    "full_text": "好吃😋 https://t.co/wbJfqQ2xRH",
+    "publish_time": "2026-05-21T11:38:19"
   }
 ]
