@@ -352,17 +352,95 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (270MB > 50MB)",
       "timestamp": "2026-05-22T04:01:53",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 283746162,
       "size_mb": 270.6,
-      "timestamp": "2026-05-22T04:01:53",
+      "timestamp": "2026-05-22T06:01:40",
       "download_attempts": 0
     },
     "full_text": "https://t.co/vC5FSahHkL",
     "publish_time": "2026-05-22T03:25:32"
+  },
+  {
+    "file_name": "HI3lBv3a4AAKD-B.jpg",
+    "user": {
+      "screen_name": "max06734521",
+      "name": "🪳大王🪳"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HI3lBv3a4AAKD-B.jpg",
+    "read_time": "2026-05-22T06:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24420,
+      "timestamp": "2026-05-22T06:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 53908,
+      "size_mb": 0.05,
+      "timestamp": "2026-05-22T06:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "装什么爷们艹，给祖宗磕头都得当傻逼 https://t.co/Z3lGpNbIwn",
+    "publish_time": "2026-05-22T04:01:42"
+  },
+  {
+    "file_name": "HI3lBv7aMAEXEaY.jpg",
+    "user": {
+      "screen_name": "max06734521",
+      "name": "🪳大王🪳"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HI3lBv7aMAEXEaY.jpg",
+    "read_time": "2026-05-22T06:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24421,
+      "timestamp": "2026-05-22T06:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 49576,
+      "size_mb": 0.05,
+      "timestamp": "2026-05-22T06:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "装什么爷们艹，给祖宗磕头都得当傻逼 https://t.co/Z3lGpNbIwn",
+    "publish_time": "2026-05-22T04:01:42"
+  },
+  {
+    "file_name": "HI3vYK2aMAAdkR2.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HI3vYK2aMAAdkR2.jpg",
+    "read_time": "2026-05-22T06:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24422,
+      "timestamp": "2026-05-22T06:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 234609,
+      "size_mb": 0.22,
+      "timestamp": "2026-05-22T06:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/TSZDmWljbh",
+    "publish_time": "2026-05-22T04:46:54"
   }
 ]
