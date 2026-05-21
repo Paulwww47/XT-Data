@@ -392,6 +392,32 @@
     "publish_time": "2026-05-21T06:48:22"
   },
   {
+    "file_name": "TxChyqH371EcfngV.mp4",
+    "user": {
+      "screen_name": "br0depot",
+      "name": "dp"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2057231891644731392/vid/avc1/670x1280/TxChyqH371EcfngV.mp4?tag=27",
+    "read_time": "2026-05-22T03:01:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24414,
+      "timestamp": "2026-05-22T03:01:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2698182,
+      "size_mb": 2.57,
+      "timestamp": "2026-05-22T03:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "Me omw to bottom after saying \"don't worry I know my body\" https://t.co/dPmgeCFQmL",
+    "publish_time": "2026-05-21T06:48:22"
+  },
+  {
     "file_name": "HIzDzZWa4AA7PBV.jpg",
     "user": {
       "screen_name": "Forestwoodwood",
@@ -724,6 +750,32 @@
       "size": 1815234,
       "size_mb": 1.73,
       "timestamp": "2026-05-21T11:37:47",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/wYAhNYKEeW",
+    "publish_time": "2026-05-21T07:59:09"
+  },
+  {
+    "file_name": "H-ESFDFhFj61aREE.mp4",
+    "user": {
+      "screen_name": "br0depot",
+      "name": "dp"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2055846331722149888/vid/avc1/768x576/H-ESFDFhFj61aREE.mp4?tag=27",
+    "read_time": "2026-05-22T03:01:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24415,
+      "timestamp": "2026-05-22T03:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1815234,
+      "size_mb": 1.73,
+      "timestamp": "2026-05-22T03:01:48",
       "download_attempts": 0
     },
     "full_text": "https://t.co/wYAhNYKEeW",
