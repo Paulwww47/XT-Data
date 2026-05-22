@@ -458,17 +458,43 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (146MB > 50MB)",
       "timestamp": "2026-05-22T07:01:39",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 153282918,
       "size_mb": 146.18,
-      "timestamp": "2026-05-22T07:01:39",
+      "timestamp": "2026-05-22T08:02:35",
       "download_attempts": 0
     },
     "full_text": "浴室玩玩没忍住射射\n 四分多钟一段多放了几遍好上传 https://t.co/A6NNdB8TGZ",
     "publish_time": "2026-05-22T06:54:29"
+  },
+  {
+    "file_name": "HI4bRWGagAAjXOc.jpg",
+    "user": {
+      "screen_name": "DUKCY4",
+      "name": "Nothing_Duk"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HI4bRWGagAAjXOc.jpg",
+    "read_time": "2026-05-22T08:02:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24423,
+      "timestamp": "2026-05-22T08:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 99029,
+      "size_mb": 0.09,
+      "timestamp": "2026-05-22T08:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/egVj21JW3A",
+    "publish_time": "2026-05-22T07:58:42"
   }
 ]
