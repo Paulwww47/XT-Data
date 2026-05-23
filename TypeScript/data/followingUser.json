@@ -736,8 +736,8 @@
         "url": {
           "urls": [
             {
-              "display_url": "linktr.ee/bostondom",
-              "expanded_url": "https://linktr.ee/bostondom",
+              "display_url": "",
+              "expanded_url": "",
               "indices": [
                 0,
                 23
@@ -2542,7 +2542,7 @@
       "name": "精马",
       "screenName": "JMaTop1",
       "createdAt": "Fri Feb 26 21:28:24 +0000 2016",
-      "description": "🐴二十五个零的选择｜25 Bottom's Choice\n🏳️‍🌈翻咔☞虞炀 📕☞虞炀 📷INS☞owenyuyang\n🎠@JMaTop2",
+      "description": "🐴二十五个零的选择｜25 Bottom's Choice\n🎠@JMaTop2",
       "entities": {
         "description": {},
         "url": {
@@ -4300,20 +4300,6 @@
     }
   },
   {
-    "restId": "1122659705594101761",
-    "legacy": {
-      "name": "ia__",
-      "screenName": "r1929979006488",
-      "createdAt": "Mon Apr 29 00:31:46 +0000 2019",
-      "description": "号贩子别来私信我 卖了你替我打飞机啊",
-      "entities": {
-        "description": {}
-      },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1122659705594101761/1706407589",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2025191072096550914/0xMtTL1n_normal.jpg"
-    }
-  },
-  {
     "restId": "941978787406757889",
     "legacy": {
       "name": "코란",
@@ -4605,7 +4591,20 @@
       "createdAt": "Mon Feb 03 11:09:37 +0000 2025",
       "description": "㊙️ 共同保守秘密，禁止转载，勿发送无关垃圾私信，否则将被拉黑。🚷👁‍🗨",
       "entities": {
-        "description": {}
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "patreon.com/kumdogi",
+              "expanded_url": "http://patreon.com/kumdogi",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/jmUhn2OCEX"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2038922948225236992/7j0UQPJs_normal.jpg"
