@@ -116,5 +116,48 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2058281372029255781",
     "fullText": "https://t.co/uO1eFxRVL4",
     "publishTime": "2026-05-24T04:18:14"
+  },
+  {
+    "user": {
+      "screenName": "maletease",
+      "name": "MaleTease"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2058297574269083648/vid/avc1/1080x1920/E527F8yaE9vHd1Vv.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/maletease/status/2058299596133289991",
+    "fullText": "平常心 https://t.co/BpqWkKsI3z",
+    "publishTime": "2026-05-24T05:30:39"
+  },
+  {
+    "user": {
+      "screenName": "maletease",
+      "name": "MaleTease"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2058299703134183425/vid/avc1/480x854/4Pee4VVetLAg-Dsn.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/maletease/status/2058300244681732502",
+    "fullText": "平常心 https://t.co/tJvnACGCfK",
+    "publishTime": "2026-05-24T05:33:14"
+  },
+  {
+    "user": {
+      "screenName": "maletease",
+      "name": "MaleTease"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJCQu40bsAAary-.jpg",
+      "https://pbs.twimg.com/media/HJCQu4xaEAAv4fV.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/maletease/status/2058304171582128153",
+    "fullText": "平常心合集 ¥30\n前几年短暂做网黄的体育生 已经退网 https://t.co/dWzPTg0nnr",
+    "publishTime": "2026-05-24T05:48:50"
   }
 ]

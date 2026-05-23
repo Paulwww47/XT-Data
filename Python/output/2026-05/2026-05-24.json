@@ -128,5 +128,113 @@
     },
     "full_text": "https://t.co/uO1eFxRVL4",
     "publish_time": "2026-05-24T04:18:14"
+  },
+  {
+    "file_name": "E527F8yaE9vHd1Vv.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2058297574269083648/vid/avc1/1080x1920/E527F8yaE9vHd1Vv.mp4?tag=27",
+    "read_time": "2026-05-24T06:01:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (268MB > 50MB)",
+      "timestamp": "2026-05-24T06:01:38",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 281144800,
+      "size_mb": 268.12,
+      "timestamp": "2026-05-24T06:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "平常心 https://t.co/BpqWkKsI3z",
+    "publish_time": "2026-05-24T05:30:39"
+  },
+  {
+    "file_name": "4Pee4VVetLAg-Dsn.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2058299703134183425/vid/avc1/480x854/4Pee4VVetLAg-Dsn.mp4?tag=27",
+    "read_time": "2026-05-24T06:01:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (67MB > 50MB)",
+      "timestamp": "2026-05-24T06:01:44",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 70377149,
+      "size_mb": 67.12,
+      "timestamp": "2026-05-24T06:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "平常心 https://t.co/tJvnACGCfK",
+    "publish_time": "2026-05-24T05:33:14"
+  },
+  {
+    "file_name": "HJCQu40bsAAary-.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJCQu40bsAAary-.jpg",
+    "read_time": "2026-05-24T06:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24595,
+      "timestamp": "2026-05-24T06:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 113559,
+      "size_mb": 0.11,
+      "timestamp": "2026-05-24T06:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "平常心合集 ¥30\n前几年短暂做网黄的体育生 已经退网 https://t.co/dWzPTg0nnr",
+    "publish_time": "2026-05-24T05:48:50"
+  },
+  {
+    "file_name": "HJCQu4xaEAAv4fV.jpg",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJCQu4xaEAAv4fV.jpg",
+    "read_time": "2026-05-24T06:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24596,
+      "timestamp": "2026-05-24T06:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101488,
+      "size_mb": 0.1,
+      "timestamp": "2026-05-24T06:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "平常心合集 ¥30\n前几年短暂做网黄的体育生 已经退网 https://t.co/dWzPTg0nnr",
+    "publish_time": "2026-05-24T05:48:50"
   }
 ]
