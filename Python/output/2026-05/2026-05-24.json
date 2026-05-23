@@ -144,14 +144,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (268MB > 50MB)",
       "timestamp": "2026-05-24T06:01:38",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 281144800,
       "size_mb": 268.12,
-      "timestamp": "2026-05-24T06:01:38",
+      "timestamp": "2026-05-24T07:01:07",
       "download_attempts": 0
     },
     "full_text": "平常心 https://t.co/BpqWkKsI3z",
@@ -172,14 +172,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (67MB > 50MB)",
       "timestamp": "2026-05-24T06:01:44",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 70377149,
       "size_mb": 67.12,
-      "timestamp": "2026-05-24T06:01:44",
+      "timestamp": "2026-05-24T07:01:13",
       "download_attempts": 0
     },
     "full_text": "平常心 https://t.co/tJvnACGCfK",
