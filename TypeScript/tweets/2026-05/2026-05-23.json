@@ -826,5 +826,19 @@
     "tweetUrl": "https://x.com/markma58304799/status/2058124150674456656",
     "fullText": "好热 https://t.co/fgjGD4dYLJ",
     "publishTime": "2026-05-23T17:53:30"
+  },
+  {
+    "user": {
+      "screenName": "paeching",
+      "name": "屁吃"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2058139747617546240/vid/avc1/720x1280/7oWiJAw_lN93VkPA.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/paeching/status/2058139818207650270",
+    "fullText": "🤏🏻 https://t.co/0yob79YDHR",
+    "publishTime": "2026-05-23T18:55:45"
   }
 ]
