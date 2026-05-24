@@ -118,5 +118,32 @@
     "tweetUrl": "https://x.com/Szzsen/status/2058606831988257258",
     "fullText": "🆘我太愛男了",
     "publishTime": "2026-05-25T01:51:30"
+  },
+  {
+    "user": {
+      "screenName": "br0depot",
+      "name": "dp"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/br0depot/status/2058609450445852962",
+    "fullText": "It's so evil and demonic that I was born with the inability to grow chest hair.",
+    "publishTime": "2026-05-25T02:01:54"
+  },
+  {
+    "user": {
+      "screenName": "dunzh299016",
+      "name": "吉吉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJGqrfhXUAAx76G.jpg",
+      "https://pbs.twimg.com/media/HJGqrcSXkAArtvu.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/dunzh299016/status/2058614172225577402",
+    "fullText": "这个墨迹买的有点后悔了，看着好装啊！ https://t.co/56ye1Mrrky",
+    "publishTime": "2026-05-25T02:20:40"
   }
 ]
