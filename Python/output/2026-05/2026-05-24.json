@@ -746,14 +746,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (93MB > 50MB)",
       "timestamp": "2026-05-24T12:01:47",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 98270593,
       "size_mb": 93.72,
-      "timestamp": "2026-05-24T12:01:47",
+      "timestamp": "2026-05-24T13:01:36",
       "download_attempts": 0
     },
     "full_text": "https://t.co/iYzTR07W00",
@@ -836,5 +836,239 @@
     },
     "full_text": "https://t.co/EqdxAb7ofY",
     "publish_time": "2026-05-24T12:00:47"
+  },
+  {
+    "file_name": "TNHLYNhlNDCJ-q9n.mp4",
+    "user": {
+      "screen_name": "sx84604818",
+      "name": "Rexsonic Man+ suits & socks"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2058398424609984512/vid/avc1/720x1280/TNHLYNhlNDCJ-q9n.mp4?tag=27",
+    "read_time": "2026-05-24T13:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24619,
+      "timestamp": "2026-05-24T13:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1513874,
+      "size_mb": 1.44,
+      "timestamp": "2026-05-24T13:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "👔西裝愛好者👔 https://t.co/8d5SSCyZOI",
+    "publish_time": "2026-05-24T12:03:27"
+  },
+  {
+    "file_name": "528XC_gZQRG2rRHx.mp4",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2058399046805737472/vid/avc1/1080x1920/528XC_gZQRG2rRHx.mp4?tag=27",
+    "read_time": "2026-05-24T13:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24620,
+      "timestamp": "2026-05-24T13:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4343533,
+      "size_mb": 4.14,
+      "timestamp": "2026-05-24T13:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/RgBrJWs2ki",
+    "publish_time": "2026-05-24T12:06:16"
+  },
+  {
+    "file_name": "HJDo8y4bYAATfQP.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJDo8y4bYAATfQP.jpg",
+    "read_time": "2026-05-24T13:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24621,
+      "timestamp": "2026-05-24T13:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 156952,
+      "size_mb": 0.15,
+      "timestamp": "2026-05-24T13:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "最近状态 https://t.co/eu08XfkB02",
+    "publish_time": "2026-05-24T12:14:18"
+  },
+  {
+    "file_name": "UL-bkazvgKrq-tIo.mp4",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2058401160856543232/vid/avc1/720x962/UL-bkazvgKrq-tIo.mp4?tag=27",
+    "read_time": "2026-05-24T13:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24622,
+      "timestamp": "2026-05-24T13:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 281050,
+      "size_mb": 0.27,
+      "timestamp": "2026-05-24T13:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "最近状态 https://t.co/eu08XfkB02",
+    "publish_time": "2026-05-24T12:14:18"
+  },
+  {
+    "file_name": "HJDr9T2bAAAvtAN.jpg",
+    "user": {
+      "screen_name": "quebaner16598",
+      "name": "quebaner"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJDr9T2bAAAvtAN.jpg",
+    "read_time": "2026-05-24T13:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24623,
+      "timestamp": "2026-05-24T13:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 185829,
+      "size_mb": 0.18,
+      "timestamp": "2026-05-24T13:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Ff7REVFTa9",
+    "publish_time": "2026-05-24T12:27:26"
+  },
+  {
+    "file_name": "HJDr9T2bkAAA-HR.jpg",
+    "user": {
+      "screen_name": "quebaner16598",
+      "name": "quebaner"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJDr9T2bkAAA-HR.jpg",
+    "read_time": "2026-05-24T13:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24624,
+      "timestamp": "2026-05-24T13:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 189279,
+      "size_mb": 0.18,
+      "timestamp": "2026-05-24T13:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Ff7REVFTa9",
+    "publish_time": "2026-05-24T12:27:26"
+  },
+  {
+    "file_name": "HJDr9T0acAAIH5h.jpg",
+    "user": {
+      "screen_name": "quebaner16598",
+      "name": "quebaner"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJDr9T0acAAIH5h.jpg",
+    "read_time": "2026-05-24T13:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24625,
+      "timestamp": "2026-05-24T13:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 162153,
+      "size_mb": 0.15,
+      "timestamp": "2026-05-24T13:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Ff7REVFTa9",
+    "publish_time": "2026-05-24T12:27:26"
+  },
+  {
+    "file_name": "TgOQbCZGhJ5W49ba.mp4",
+    "user": {
+      "screen_name": "ck582023nmy6033",
+      "name": "佛系人生"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2058411509798273024/vid/avc1/710x1280/TgOQbCZGhJ5W49ba.mp4?tag=27",
+    "read_time": "2026-05-24T13:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24626,
+      "timestamp": "2026-05-24T13:01:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3892848,
+      "size_mb": 3.71,
+      "timestamp": "2026-05-24T13:01:48",
+      "download_attempts": 0
+    },
+    "full_text": "有射完全版在這 懶得寫文案😂\nhttps://t.co/uCB55iLad7 https://t.co/kvNPFmW2cy",
+    "publish_time": "2026-05-24T12:55:45"
+  },
+  {
+    "file_name": "HJDy4CbbsAABxU0.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJDy4CbbsAABxU0.jpg",
+    "read_time": "2026-05-24T13:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24627,
+      "timestamp": "2026-05-24T13:01:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 116212,
+      "size_mb": 0.11,
+      "timestamp": "2026-05-24T13:01:50",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/YiUCYN0wjU",
+    "publish_time": "2026-05-24T12:57:38"
   }
 ]
