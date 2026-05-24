@@ -1762,14 +1762,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (74MB > 50MB)",
       "timestamp": "2026-05-24T18:01:41",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 78155218,
       "size_mb": 74.53,
-      "timestamp": "2026-05-24T18:01:41",
+      "timestamp": "2026-05-24T19:01:31",
       "download_attempts": 0
     },
     "full_text": "kuupid https://t.co/eJLxaeWzYZ",
@@ -1800,5 +1800,57 @@
     },
     "full_text": "你们布拉迪这么多年还是一点儿没变😂 https://t.co/zR3lbGspYs",
     "publish_time": "2026-05-24T17:31:43"
+  },
+  {
+    "file_name": "HJE5Bg4bwAAA5y8.jpg",
+    "user": {
+      "screen_name": "paeching",
+      "name": "屁吃"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJE5Bg4bwAAA5y8.jpg",
+    "read_time": "2026-05-24T19:01:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24655,
+      "timestamp": "2026-05-24T19:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 62253,
+      "size_mb": 0.06,
+      "timestamp": "2026-05-24T19:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "有点磨 https://t.co/rpLj5aw4GX",
+    "publish_time": "2026-05-24T18:04:06"
+  },
+  {
+    "file_name": "8sKcS7VusGQYeAX7.mp4",
+    "user": {
+      "screen_name": "falling2024",
+      "name": "F∧LL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2058492316265189376/pu/vid/avc1/848x478/8sKcS7VusGQYeAX7.mp4?tag=12",
+    "read_time": "2026-05-24T19:01:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24656,
+      "timestamp": "2026-05-24T19:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1740834,
+      "size_mb": 1.66,
+      "timestamp": "2026-05-24T19:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "看看他的脏白袜 在男厕玩开了😄 ＃体育生 ＃男大 ＃1M ＃反差 ＃gooner https://t.co/RrJgyotJho",
+    "publish_time": "2026-05-24T18:16:36"
   }
 ]
