@@ -1802,6 +1802,32 @@
     "publish_time": "2026-05-24T17:31:43"
   },
   {
+    "file_name": "qs3_8PulNBANA_aX.mp4",
+    "user": {
+      "screen_name": "zhefan_yan",
+      "name": "Oliver_Yan"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2058488460294729728/vid/avc1/720x1280/qs3_8PulNBANA_aX.mp4?tag=27",
+    "read_time": "2026-05-25T07:02:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24714,
+      "timestamp": "2026-05-25T07:02:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5462601,
+      "size_mb": 5.21,
+      "timestamp": "2026-05-25T07:02:33",
+      "download_attempts": 0
+    },
+    "full_text": "问下大家 为啥视频画质这么糊 https://t.co/IskbrwLPCk",
+    "publish_time": "2026-05-24T18:01:46"
+  },
+  {
     "file_name": "HJE5Bg4bwAAA5y8.jpg",
     "user": {
       "screen_name": "paeching",

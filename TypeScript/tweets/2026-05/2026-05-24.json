@@ -813,6 +813,20 @@
   },
   {
     "user": {
+      "screenName": "zhefan_yan",
+      "name": "Oliver_Yan"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2058488460294729728/vid/avc1/720x1280/qs3_8PulNBANA_aX.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/zhefan_yan/status/2058488620861005989",
+    "fullText": "问下大家 为啥视频画质这么糊 https://t.co/IskbrwLPCk",
+    "publishTime": "2026-05-24T18:01:46"
+  },
+  {
+    "user": {
       "screenName": "paeching",
       "name": "屁吃"
     },
