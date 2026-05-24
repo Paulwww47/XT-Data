@@ -1746,5 +1746,59 @@
     },
     "full_text": "5.25—5.27南京🙋，欢迎SPA💆🏾 https://t.co/j6eiqG4lZR",
     "publish_time": "2026-05-24T17:00:42"
+  },
+  {
+    "file_name": "RaHysTT-s8qzmdrX.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2058474423053938689/vid/avc1/1080x1920/RaHysTT-s8qzmdrX.mp4?tag=27",
+    "read_time": "2026-05-24T18:01:39",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (74MB > 50MB)",
+      "timestamp": "2026-05-24T18:01:41",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 78155218,
+      "size_mb": 74.53,
+      "timestamp": "2026-05-24T18:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "kuupid https://t.co/eJLxaeWzYZ",
+    "publish_time": "2026-05-24T17:15:34"
+  },
+  {
+    "file_name": "HJExm4da8AE4b_N.jpg",
+    "user": {
+      "screen_name": "undefinedjy",
+      "name": "JY"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJExm4da8AE4b_N.jpg",
+    "read_time": "2026-05-24T18:01:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24654,
+      "timestamp": "2026-05-24T18:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 43674,
+      "size_mb": 0.04,
+      "timestamp": "2026-05-24T18:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "你们布拉迪这么多年还是一点儿没变😂 https://t.co/zR3lbGspYs",
+    "publish_time": "2026-05-24T17:31:43"
   }
 ]
