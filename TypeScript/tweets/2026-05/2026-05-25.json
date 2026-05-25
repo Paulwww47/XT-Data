@@ -486,5 +486,61 @@
     "tweetUrl": "https://x.com/77baxi/status/2058794927170212003",
     "fullText": "https://t.co/hpOMj8ItVe",
     "publishTime": "2026-05-25T14:18:55"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2058808967917342720/vid/avc1/576x1024/1lTAzEhTZTv-dtrX.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/2058809057730003169",
+    "fullText": "https://t.co/Gh4Hion5uG",
+    "publishTime": "2026-05-25T15:15:04"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2058809064168259584/vid/avc1/576x1024/9hcQyjyPbsQGH2_c.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/2058809168342258040",
+    "fullText": "https://t.co/guC3t0ulB5",
+    "publishTime": "2026-05-25T15:15:31"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJJg9-PakAAlDA7.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/2058814607394034058",
+    "fullText": "https://t.co/c68WWX7ayU",
+    "publishTime": "2026-05-25T15:37:07"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJJiTjlbAAAhdzJ.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2058816078080565517",
+    "fullText": "https://t.co/t3nszdyQSn",
+    "publishTime": "2026-05-25T15:42:58"
   }
 ]

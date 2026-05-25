@@ -988,5 +988,109 @@
     },
     "full_text": "https://t.co/hpOMj8ItVe",
     "publish_time": "2026-05-25T14:18:55"
+  },
+  {
+    "file_name": "1lTAzEhTZTv-dtrX.mp4",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2058808967917342720/vid/avc1/576x1024/1lTAzEhTZTv-dtrX.mp4?tag=27",
+    "read_time": "2026-05-25T16:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24736,
+      "timestamp": "2026-05-25T16:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3407656,
+      "size_mb": 3.25,
+      "timestamp": "2026-05-25T16:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Gh4Hion5uG",
+    "publish_time": "2026-05-25T15:15:04"
+  },
+  {
+    "file_name": "9hcQyjyPbsQGH2_c.mp4",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2058809064168259584/vid/avc1/576x1024/9hcQyjyPbsQGH2_c.mp4?tag=27",
+    "read_time": "2026-05-25T16:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24737,
+      "timestamp": "2026-05-25T16:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3863201,
+      "size_mb": 3.68,
+      "timestamp": "2026-05-25T16:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/guC3t0ulB5",
+    "publish_time": "2026-05-25T15:15:31"
+  },
+  {
+    "file_name": "HJJg9-PakAAlDA7.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJJg9-PakAAlDA7.jpg",
+    "read_time": "2026-05-25T16:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24738,
+      "timestamp": "2026-05-25T16:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 24135,
+      "size_mb": 0.02,
+      "timestamp": "2026-05-25T16:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/c68WWX7ayU",
+    "publish_time": "2026-05-25T15:37:07"
+  },
+  {
+    "file_name": "HJJiTjlbAAAhdzJ.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJJiTjlbAAAhdzJ.jpg",
+    "read_time": "2026-05-25T16:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24739,
+      "timestamp": "2026-05-25T16:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 182540,
+      "size_mb": 0.17,
+      "timestamp": "2026-05-25T16:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/t3nszdyQSn",
+    "publish_time": "2026-05-25T15:42:58"
   }
 ]
