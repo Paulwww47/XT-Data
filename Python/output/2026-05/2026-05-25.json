@@ -430,14 +430,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (130MB > 50MB)",
       "timestamp": "2026-05-25T10:01:37",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 136529591,
       "size_mb": 130.2,
-      "timestamp": "2026-05-25T10:01:37",
+      "timestamp": "2026-05-25T11:01:35",
       "download_attempts": 0
     },
     "full_text": "https://t.co/hAeW7Jd7C5",
@@ -468,5 +468,213 @@
     },
     "full_text": "早安 https://t.co/WRO7EHv4Mf",
     "publish_time": "2026-05-25T09:28:12"
+  },
+  {
+    "file_name": "HJIVZLhboAA9mOT.jpg",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJIVZLhboAA9mOT.jpg",
+    "read_time": "2026-05-25T11:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24716,
+      "timestamp": "2026-05-25T11:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 69050,
+      "size_mb": 0.07,
+      "timestamp": "2026-05-25T11:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "py视频福利68/合集\n（限时5.25-5.28） https://t.co/oCSe6odAnL",
+    "publish_time": "2026-05-25T10:07:08"
+  },
+  {
+    "file_name": "a0Nm8z-bwAjIRWDk.mp4",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2058731429446713344/vid/avc1/720x1080/a0Nm8z-bwAjIRWDk.mp4?tag=27",
+    "read_time": "2026-05-25T11:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24717,
+      "timestamp": "2026-05-25T11:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5253612,
+      "size_mb": 5.01,
+      "timestamp": "2026-05-25T11:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "py视频福利68/合集\n（限时5.25-5.28） https://t.co/oCSe6odAnL",
+    "publish_time": "2026-05-25T10:07:08"
+  },
+  {
+    "file_name": "HJIZF2QbQAAxIVN.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJIZF2QbQAAxIVN.jpg",
+    "read_time": "2026-05-25T11:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24718,
+      "timestamp": "2026-05-25T11:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 81752,
+      "size_mb": 0.08,
+      "timestamp": "2026-05-25T11:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/FDkRjhehR4",
+    "publish_time": "2026-05-25T10:23:04"
+  },
+  {
+    "file_name": "HJIZfeabEAAoYDF.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJIZfeabEAAoYDF.jpg",
+    "read_time": "2026-05-25T11:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24719,
+      "timestamp": "2026-05-25T11:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 80825,
+      "size_mb": 0.08,
+      "timestamp": "2026-05-25T11:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "liangguai https://t.co/8EM82KB92N",
+    "publish_time": "2026-05-25T10:24:49"
+  },
+  {
+    "file_name": "HJIZo8BagAAHwgm.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJIZo8BagAAHwgm.jpg",
+    "read_time": "2026-05-25T11:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24720,
+      "timestamp": "2026-05-25T11:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 93245,
+      "size_mb": 0.09,
+      "timestamp": "2026-05-25T11:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/jPqTAhR6Gd",
+    "publish_time": "2026-05-25T10:25:28"
+  },
+  {
+    "file_name": "Y6apzdKjCPeyIVjj.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2058738150072352768/vid/avc1/720x1280/Y6apzdKjCPeyIVjj.mp4?tag=14",
+    "read_time": "2026-05-25T11:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24721,
+      "timestamp": "2026-05-25T11:01:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3395712,
+      "size_mb": 3.24,
+      "timestamp": "2026-05-25T11:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年5月25日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/2NuxZ8sYm8",
+    "publish_time": "2026-05-25T10:33:32"
+  },
+  {
+    "file_name": "HJIcS4naoAAZ4kg.jpg",
+    "user": {
+      "screen_name": "Divo1765100",
+      "name": "Divo"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJIcS4naoAAZ4kg.jpg",
+    "read_time": "2026-05-25T11:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24722,
+      "timestamp": "2026-05-25T11:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 206035,
+      "size_mb": 0.2,
+      "timestamp": "2026-05-25T11:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "Black or white https://t.co/jj0Z3anUdH",
+    "publish_time": "2026-05-25T10:37:04"
+  },
+  {
+    "file_name": "HJIcS4jb0AAP0r0.jpg",
+    "user": {
+      "screen_name": "Divo1765100",
+      "name": "Divo"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJIcS4jb0AAP0r0.jpg",
+    "read_time": "2026-05-25T11:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24723,
+      "timestamp": "2026-05-25T11:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 156218,
+      "size_mb": 0.15,
+      "timestamp": "2026-05-25T11:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "Black or white https://t.co/jj0Z3anUdH",
+    "publish_time": "2026-05-25T10:37:04"
   }
 ]
