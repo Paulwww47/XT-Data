@@ -255,5 +255,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2058658839294251446",
     "fullText": "https://t.co/2pe70zzAgM",
     "publishTime": "2026-05-25T05:18:09"
+  },
+  {
+    "user": {
+      "screenName": "monkeyking_phys",
+      "name": "MonkeyKingPhysique"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2058104559919370240/vid/avc1/1280x720/PnCOV4QoJnRq3b8k.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/monkeyking_phys/status/2058719375105089611",
+    "fullText": "https://t.co/hAeW7Jd7C5",
+    "publishTime": "2026-05-25T09:18:42"
+  },
+  {
+    "user": {
+      "screenName": "monkeyking_phys",
+      "name": "MonkeyKingPhysique"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJIMh-BbEAArUcu.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/monkeyking_phys/status/2058721762544857507",
+    "fullText": "早安 https://t.co/WRO7EHv4Mf",
+    "publishTime": "2026-05-25T09:28:12"
   }
 ]
