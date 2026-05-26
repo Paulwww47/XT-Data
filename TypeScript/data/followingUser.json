@@ -155,7 +155,7 @@
       "name": "keyoum",
       "screenName": "abdkym19",
       "createdAt": "Sun Jan 04 14:42:13 +0000 2026",
-      "description": "仅此一号，盗图狗都会死妈，仍后山被狗轮奸",
+      "description": "仅此一号，其他均为假的",
       "entities": {
         "description": {}
       },
@@ -378,7 +378,7 @@
       "name": "嗷呜有劲",
       "screenName": "aowuyoujin",
       "createdAt": "Sun Mar 09 14:35:05 +0000 2025",
-      "description": "嗷呜在深圳 有事Q企鹅 97661811 目前仅此一个x号 谨防被骗",
+      "description": "目前仅此一个x号  谨防被骗",
       "entities": {
         "description": {}
       },
@@ -552,7 +552,7 @@
   {
     "restId": "1053312193754615808",
     "legacy": {
-      "name": "白饭鱼（泉州｜5.21-5.27福建｜6月上中旬北京）",
+      "name": "白饭鱼（厦门｜5.21-5.29福建｜6月上中旬北京）",
       "screenName": "baifanyuJustin",
       "createdAt": "Fri Oct 19 15:49:31 +0000 2018",
       "description": "常驻深圳｜全国🪂 商务伴游｜ 👔👞🍆｜179-68-0.5｜全能选手 经济🉑约💰｜ 不交友不白嫖⚠️｜vx🚪188🧧｜ 防走失@baifanyuj｜https://t.co/VAqP9bClFe",
@@ -2313,7 +2313,20 @@
       "createdAt": "Sun Mar 01 06:53:35 +0000 2026",
       "description": "@shanethesheeps 📛➕",
       "entities": {
-        "description": {}
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "patreon.com/kumdogi",
+              "expanded_url": "http://patreon.com/kumdogi",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/XtaB6gkXqx"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2028000605701357568/1777809310",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2045454059654811648/CpI1qSe8_normal.jpg"
@@ -4878,7 +4891,7 @@
       "name": "无脸猫SPHYNX",
       "screenName": "SPHYNX688",
       "createdAt": "Wed Feb 06 23:27:59 +0000 2013",
-      "description": "🩵赞赞 甜心硬汉 调情SPA 🪂 \n定期检测 on prep 已接种HPV九价疫苗 ⭕️\n不闲聊、门槛100加♈️（预约可抵）出原味",
+      "description": "🩵赞赞 甜心硬汉 调情SPA 🪂 \n定期检测 on prep \n已接种HPV九价疫苗 ⭕️\n不闲聊、门槛加♈️",
       "entities": {
         "description": {}
       },
