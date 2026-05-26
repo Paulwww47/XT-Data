@@ -40,14 +40,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (86MB > 50MB)",
       "timestamp": "2026-05-27T01:01:53",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 90808929,
       "size_mb": 86.6,
-      "timestamp": "2026-05-27T01:01:53",
+      "timestamp": "2026-05-27T02:01:45",
       "download_attempts": 0
     },
     "full_text": "https://t.co/dHQTod2fiv",
@@ -198,14 +198,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (78MB > 50MB)",
       "timestamp": "2026-05-27T01:02:02",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 82102526,
       "size_mb": 78.3,
-      "timestamp": "2026-05-27T01:02:02",
+      "timestamp": "2026-05-27T02:01:45",
       "download_attempts": 0
     },
     "full_text": "https://t.co/s1iyxGGYc9",
@@ -522,5 +522,213 @@
     },
     "full_text": "林屿辰 \n\n很像韩国人 https://t.co/yqIHVn8zbZ",
     "publish_time": "2026-05-27T01:00:36"
+  },
+  {
+    "file_name": "HJQryhcbUAAS6mE.jpg",
+    "user": {
+      "screen_name": "Divo1765100",
+      "name": "Divo"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJQryhcbUAAS6mE.jpg",
+    "read_time": "2026-05-27T02:01:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24898,
+      "timestamp": "2026-05-27T02:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 58714,
+      "size_mb": 0.06,
+      "timestamp": "2026-05-27T02:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "Day 3️⃣ https://t.co/txd4rxfsY9",
+    "publish_time": "2026-05-27T01:01:44"
+  },
+  {
+    "file_name": "HJQr3qwa8AAghfh.jpg",
+    "user": {
+      "screen_name": "JamesShihShih",
+      "name": "JamesShih"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJQr3qwa8AAghfh.jpg",
+    "read_time": "2026-05-27T02:01:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24899,
+      "timestamp": "2026-05-27T02:01:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 102717,
+      "size_mb": 0.1,
+      "timestamp": "2026-05-27T02:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/UsJcSXS6Oa",
+    "publish_time": "2026-05-27T01:02:12"
+  },
+  {
+    "file_name": "HJQwk9kbAAAknWQ.jpg",
+    "user": {
+      "screen_name": "xvszrxq",
+      "name": "Pupfool"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJQwk9kbAAAknWQ.jpg",
+    "read_time": "2026-05-27T02:01:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24900,
+      "timestamp": "2026-05-27T02:01:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 133282,
+      "size_mb": 0.13,
+      "timestamp": "2026-05-27T02:01:48",
+      "download_attempts": 0
+    },
+    "full_text": "废弃的大楼里，它四肢着地 纹身、肌肉、铁链与尘土， 共同组成一幅献祭给主人的活体画卷 https://t.co/2RMgebamqN",
+    "publish_time": "2026-05-27T01:22:44"
+  },
+  {
+    "file_name": "HJQwk9RbkAEaz5T.jpg",
+    "user": {
+      "screen_name": "xvszrxq",
+      "name": "Pupfool"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJQwk9RbkAEaz5T.jpg",
+    "read_time": "2026-05-27T02:01:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24901,
+      "timestamp": "2026-05-27T02:01:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 129212,
+      "size_mb": 0.12,
+      "timestamp": "2026-05-27T02:01:50",
+      "download_attempts": 0
+    },
+    "full_text": "废弃的大楼里，它四肢着地 纹身、肌肉、铁链与尘土， 共同组成一幅献祭给主人的活体画卷 https://t.co/2RMgebamqN",
+    "publish_time": "2026-05-27T01:22:44"
+  },
+  {
+    "file_name": "HJQwk9IboAA3RWU.jpg",
+    "user": {
+      "screen_name": "xvszrxq",
+      "name": "Pupfool"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJQwk9IboAA3RWU.jpg",
+    "read_time": "2026-05-27T02:01:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24902,
+      "timestamp": "2026-05-27T02:01:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 103398,
+      "size_mb": 0.1,
+      "timestamp": "2026-05-27T02:01:51",
+      "download_attempts": 0
+    },
+    "full_text": "废弃的大楼里，它四肢着地 纹身、肌肉、铁链与尘土， 共同组成一幅献祭给主人的活体画卷 https://t.co/2RMgebamqN",
+    "publish_time": "2026-05-27T01:22:44"
+  },
+  {
+    "file_name": "HJQwk9Jb0AA7sgJ.jpg",
+    "user": {
+      "screen_name": "xvszrxq",
+      "name": "Pupfool"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJQwk9Jb0AA7sgJ.jpg",
+    "read_time": "2026-05-27T02:01:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24903,
+      "timestamp": "2026-05-27T02:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 119341,
+      "size_mb": 0.11,
+      "timestamp": "2026-05-27T02:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "废弃的大楼里，它四肢着地 纹身、肌肉、铁链与尘土， 共同组成一幅献祭给主人的活体画卷 https://t.co/2RMgebamqN",
+    "publish_time": "2026-05-27T01:22:44"
+  },
+  {
+    "file_name": "u59blQKu1viunqv8.mp4",
+    "user": {
+      "screen_name": "77baxi",
+      "name": "健身教练cd伪娘"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1982354351453884416/vid/avc1/1280x720/u59blQKu1viunqv8.mp4?tag=21",
+    "read_time": "2026-05-27T02:01:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24904,
+      "timestamp": "2026-05-27T02:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 51688342,
+      "size_mb": 49.29,
+      "timestamp": "2026-05-27T02:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Iv0axkZsue",
+    "publish_time": "2026-05-27T01:40:07"
+  },
+  {
+    "file_name": "u59blQKu1viunqv8.mp4",
+    "user": {
+      "screen_name": "77baxi",
+      "name": "健身教练cd伪娘"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1982354351453884416/vid/avc1/1280x720/u59blQKu1viunqv8.mp4?tag=21",
+    "read_time": "2026-05-27T02:01:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24905,
+      "timestamp": "2026-05-27T02:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 51688342,
+      "size_mb": 49.29,
+      "timestamp": "2026-05-27T02:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Iv0axkZsue",
+    "publish_time": "2026-05-27T01:40:36"
   }
 ]
