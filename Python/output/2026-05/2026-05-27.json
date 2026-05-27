@@ -1086,14 +1086,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (273MB > 50MB)",
       "timestamp": "2026-05-27T10:01:59",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 286381580,
       "size_mb": 273.11,
-      "timestamp": "2026-05-27T10:01:59",
+      "timestamp": "2026-05-27T11:02:03",
       "download_attempts": 0
     },
     "full_text": "凯乐- 操射肌肉教练三次 https://t.co/CURtC3BzIZ",
@@ -1140,14 +1140,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (213MB > 50MB)",
       "timestamp": "2026-05-27T10:02:20",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 223690869,
       "size_mb": 213.33,
-      "timestamp": "2026-05-27T10:02:20",
+      "timestamp": "2026-05-27T11:02:22",
       "download_attempts": 0
     },
     "full_text": "肌肉男lucasbig95撸射 精液喷很多 https://t.co/Q4NmXovP4i",
@@ -1256,5 +1256,57 @@
     },
     "full_text": "【粉丝投稿】谁知道这个是谁，知道的请私信。第一个私信开门的可以免费寻人。（发帖寻人收费🧧，vpn不稳定，寻人/征友/买男性用品加个人VX（SYLjiankang2023），注明来意否则不通过） https://t.co/QhMzbGloEN",
     "publish_time": "2026-05-27T09:48:18"
+  },
+  {
+    "file_name": "evaNnqfFLqQbXb8g.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2059458787871010816/vid/avc1/720x1280/evaNnqfFLqQbXb8g.mp4?tag=14",
+    "read_time": "2026-05-27T11:01:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24923,
+      "timestamp": "2026-05-27T11:02:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1959233,
+      "size_mb": 1.87,
+      "timestamp": "2026-05-27T11:02:23",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年5月27日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/TrmoGzuUFG",
+    "publish_time": "2026-05-27T10:17:03"
+  },
+  {
+    "file_name": "HJSyZPKWIAIYXov.jpg",
+    "user": {
+      "screen_name": "nlgzwmz0",
+      "name": "Vanda"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJSyZPKWIAIYXov.jpg",
+    "read_time": "2026-05-27T11:01:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24924,
+      "timestamp": "2026-05-27T11:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 95253,
+      "size_mb": 0.09,
+      "timestamp": "2026-05-27T11:02:27",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/v5wM9qAyMr",
+    "publish_time": "2026-05-27T10:49:56"
   }
 ]
