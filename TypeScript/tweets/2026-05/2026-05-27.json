@@ -301,5 +301,20 @@
     "tweetUrl": "https://x.com/c558668/status/2059348969692725568",
     "fullText": "https://t.co/TfdX8Q5rG8",
     "publishTime": "2026-05-27T03:00:29"
+  },
+  {
+    "user": {
+      "screenName": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2059420965612969984/pu/vid/avc1/1280x720/Jtd4V8LB0LdYYcpL.mp4?tag=12",
+      "https://video.twimg.com/ext_tw_video/2059420965608833024/pu/vid/avc1/1280x720/8xMjW8KBqeAKrJI8.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/bohaixiaochen/status/2059421629827223693",
+    "fullText": "陈伯醒好早 https://t.co/wZI2NJ4QHU",
+    "publishTime": "2026-05-27T07:49:13"
   }
 ]
