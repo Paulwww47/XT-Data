@@ -1766,14 +1766,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (148MB > 50MB)",
       "timestamp": "2026-05-27T16:01:56",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 155804619,
       "size_mb": 148.59,
-      "timestamp": "2026-05-27T16:01:56",
+      "timestamp": "2026-05-27T17:01:41",
       "download_attempts": 0
     },
     "full_text": "bstrx https://t.co/RBt1L9eGY8",
@@ -1804,5 +1804,373 @@
     },
     "full_text": "夏天来了，热热热 https://t.co/M9ZOvIxMUM",
     "publish_time": "2026-05-27T15:52:43"
+  },
+  {
+    "file_name": "HJT6-GQa4AAF0vM.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJT6-GQa4AAF0vM.jpg",
+    "read_time": "2026-05-27T17:01:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24943,
+      "timestamp": "2026-05-27T17:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 86593,
+      "size_mb": 0.08,
+      "timestamp": "2026-05-27T17:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Zk9bPWnQ5o",
+    "publish_time": "2026-05-27T16:06:55"
+  },
+  {
+    "file_name": "HJT-ASobMAA3kCS.jpg",
+    "user": {
+      "screen_name": "iz3xf",
+      "name": "一丞"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJT-ASobMAA3kCS.jpg",
+    "read_time": "2026-05-27T17:01:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24944,
+      "timestamp": "2026-05-27T17:01:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 154317,
+      "size_mb": 0.15,
+      "timestamp": "2026-05-27T17:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "想看看你的\n\nVx:Yi_cheng116688 https://t.co/NE04O1eHdI",
+    "publish_time": "2026-05-27T16:20:14"
+  },
+  {
+    "file_name": "fBR8bmkm9KvYdg58.mp4",
+    "user": {
+      "screen_name": "kaka_lac",
+      "name": "kaka"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2059551461265289216/vid/avc1/720x1280/fBR8bmkm9KvYdg58.mp4?tag=27",
+    "read_time": "2026-05-27T17:01:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24945,
+      "timestamp": "2026-05-27T17:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 10059718,
+      "size_mb": 9.59,
+      "timestamp": "2026-05-27T17:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "我全部完整资源为了回馈广大粉丝对我的支持！今天进我福利群🌹的将不收取任何费用，24h免费对我的粉丝们限时无门槛📷进入，可观看所有视频和写真！ 私聊推特一律不回要看完整版电报纸飞机私聊 \n唯一通道：https://t.co/OIrcckuYqU\n暗号：88    （注意素质 https://t.co/bIl6aTeYP2",
+    "publish_time": "2026-05-27T16:25:33"
+  },
+  {
+    "file_name": "HJT_jRGbMAA8o_t.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJT_jRGbMAA8o_t.jpg",
+    "read_time": "2026-05-27T17:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24946,
+      "timestamp": "2026-05-27T17:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 237898,
+      "size_mb": 0.23,
+      "timestamp": "2026-05-27T17:01:49",
+      "download_attempts": 0
+    },
+    "full_text": "·\nDO_ME sexywear \nIG:do__me_official\n\nCode Series ｜系列\n一同解鎖身體的性感代碼 https://t.co/McCIbdSoLM",
+    "publish_time": "2026-05-27T16:26:55"
+  },
+  {
+    "file_name": "HJT_jRDagAEdwpV.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJT_jRDagAEdwpV.jpg",
+    "read_time": "2026-05-27T17:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24947,
+      "timestamp": "2026-05-27T17:01:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 373225,
+      "size_mb": 0.36,
+      "timestamp": "2026-05-27T17:01:50",
+      "download_attempts": 0
+    },
+    "full_text": "·\nDO_ME sexywear \nIG:do__me_official\n\nCode Series ｜系列\n一同解鎖身體的性感代碼 https://t.co/McCIbdSoLM",
+    "publish_time": "2026-05-27T16:26:55"
+  },
+  {
+    "file_name": "HJT_jREacAAjXQA.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJT_jREacAAjXQA.jpg",
+    "read_time": "2026-05-27T17:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24948,
+      "timestamp": "2026-05-27T17:01:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 170730,
+      "size_mb": 0.16,
+      "timestamp": "2026-05-27T17:01:51",
+      "download_attempts": 0
+    },
+    "full_text": "·\nDO_ME sexywear \nIG:do__me_official\n\nCode Series ｜系列\n一同解鎖身體的性感代碼 https://t.co/McCIbdSoLM",
+    "publish_time": "2026-05-27T16:26:55"
+  },
+  {
+    "file_name": "HJT_jRBaMAA_V0V.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJT_jRBaMAA_V0V.jpg",
+    "read_time": "2026-05-27T17:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24949,
+      "timestamp": "2026-05-27T17:01:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 281740,
+      "size_mb": 0.27,
+      "timestamp": "2026-05-27T17:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "·\nDO_ME sexywear \nIG:do__me_official\n\nCode Series ｜系列\n一同解鎖身體的性感代碼 https://t.co/McCIbdSoLM",
+    "publish_time": "2026-05-27T16:26:55"
+  },
+  {
+    "file_name": "DLIxYqu-lkmC2xtK.mp4",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2059552707674083328/vid/avc1/1220x2370/DLIxYqu-lkmC2xtK.mp4?tag=27",
+    "read_time": "2026-05-27T17:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24950,
+      "timestamp": "2026-05-27T17:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 19643190,
+      "size_mb": 18.73,
+      "timestamp": "2026-05-27T17:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "·\nDO_ME sexywear \nIG: do__me_official\n\nCode 系列（这个视频已经被删了，我下手快，一起来欣赏）\n一同解鎖 身體的性感代碼🔓🥴 https://t.co/cBblJ8dg2m",
+    "publish_time": "2026-05-27T16:30:27"
+  },
+  {
+    "file_name": "80ldY3rACmYXHAH8.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2059551092053299202/vid/avc1/1080x1920/80ldY3rACmYXHAH8.mp4?tag=27",
+    "read_time": "2026-05-27T17:01:38",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (110MB > 50MB)",
+      "timestamp": "2026-05-27T17:01:57",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 116033076,
+      "size_mb": 110.66,
+      "timestamp": "2026-05-27T17:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "zack很会吹 https://t.co/T7C2V4cIpw",
+    "publish_time": "2026-05-27T16:32:47"
+  },
+  {
+    "file_name": "HJUCAphWUAIjKpK.jpg",
+    "user": {
+      "screen_name": "nlgzwmz0",
+      "name": "Vanda"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJUCAphWUAIjKpK.jpg",
+    "read_time": "2026-05-27T17:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24951,
+      "timestamp": "2026-05-27T17:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 87895,
+      "size_mb": 0.08,
+      "timestamp": "2026-05-27T17:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "出🩲 https://t.co/wdyYxFKprq",
+    "publish_time": "2026-05-27T16:37:43"
+  },
+  {
+    "file_name": "kOPFomgG2qmZWL0V.mp4",
+    "user": {
+      "screen_name": "Uji_Hikaru",
+      "name": "虎不理"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2059555252463075328/vid/avc1/930x720/kOPFomgG2qmZWL0V.mp4?tag=27",
+    "read_time": "2026-05-27T17:01:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24952,
+      "timestamp": "2026-05-27T17:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 421679,
+      "size_mb": 0.4,
+      "timestamp": "2026-05-27T17:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/aVzCdSNO2c",
+    "publish_time": "2026-05-27T16:40:24"
+  },
+  {
+    "file_name": "Laslqq6eyEoVvi71.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2059554866134208512/vid/avc1/1080x1920/Laslqq6eyEoVvi71.mp4?tag=27",
+    "read_time": "2026-05-27T17:01:38",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (112MB > 50MB)",
+      "timestamp": "2026-05-27T17:02:10",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 118241317,
+      "size_mb": 112.76,
+      "timestamp": "2026-05-27T17:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "zack很会吹 https://t.co/h4FlhMlzWr",
+    "publish_time": "2026-05-27T16:50:44"
+  },
+  {
+    "file_name": "HJUF1sPaQAA3xQL.jpg",
+    "user": {
+      "screen_name": "YCJ2023",
+      "name": "杨长进"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJUF1sPaQAA3xQL.jpg",
+    "read_time": "2026-05-27T17:01:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24953,
+      "timestamp": "2026-05-27T17:02:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 165296,
+      "size_mb": 0.16,
+      "timestamp": "2026-05-27T17:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "🏝️ https://t.co/TZpOxVv5rN",
+    "publish_time": "2026-05-27T16:54:26"
+  },
+  {
+    "file_name": "HJUF1sZaUAAH9mU.jpg",
+    "user": {
+      "screen_name": "YCJ2023",
+      "name": "杨长进"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJUF1sZaUAAH9mU.jpg",
+    "read_time": "2026-05-27T17:01:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 24954,
+      "timestamp": "2026-05-27T17:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 131591,
+      "size_mb": 0.13,
+      "timestamp": "2026-05-27T17:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "🏝️ https://t.co/TZpOxVv5rN",
+    "publish_time": "2026-05-27T16:54:26"
   }
 ]
