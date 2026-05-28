@@ -391,9 +391,22 @@
       "name": "嗷呜有劲",
       "screenName": "aowuyoujin",
       "createdAt": "Sun Mar 09 14:35:05 +0000 2025",
-      "description": "嗷呜本人目前仅此一个照片号  申明：近期发现多个盗用本人视频 设门槛冒充骗钱账号  请勿轻信  谨防受骗  ！",
+      "description": "嗷呜本人目前仅此一个照片号 申明：近期发现多个盗用本人视频 设门槛冒充骗钱账号 请勿轻信 谨防受骗 ！",
       "entities": {
-        "description": {}
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/aowuyoujin",
+              "expanded_url": "https://t.me/aowuyoujin",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/98e4LTJZRN"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1898744283387363328/1761663532",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1983186664140029953/64ax64S__normal.jpg"
@@ -565,7 +578,7 @@
   {
     "restId": "1053312193754615808",
     "legacy": {
-      "name": "白饭鱼（厦门｜5.21-5.29福建｜6月上中旬北京）",
+      "name": "白饭鱼（目前厦门｜6.1-6.6武汉｜6月上中旬北京）",
       "screenName": "baifanyuJustin",
       "createdAt": "Fri Oct 19 15:49:31 +0000 2018",
       "description": "常驻深圳｜全国🪂 商务伴游｜ 👔👞🍆｜179-68-0.5｜全能选手 经济🉑约💰｜ 不交友不白嫖⚠️｜vx🚪188🧧｜ 防走失@baifanyuj｜https://t.co/VAqP9bClFe",
@@ -3642,7 +3655,7 @@
       "name": "miss",
       "screenName": "miss17188",
       "createdAt": "Thu Jul 10 22:59:52 +0000 2025",
-      "description": "直 有🚪",
+      "description": "直  完整视频🚪52",
       "entities": {
         "description": {}
       },
@@ -5953,7 +5966,7 @@
       "name": "youshu",
       "screenName": "youshu29016120",
       "createdAt": "Fri Jan 10 23:28:50 +0000 2020",
-      "description": "🤚🏻✋🏻",
+      "description": "🤚🏻✋🏻v🚪68",
       "entities": {
         "description": {}
       },
