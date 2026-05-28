@@ -225,9 +225,22 @@
       "name": "shuaige",
       "screenName": "aishangzhinan00",
       "createdAt": "Sat Jan 24 06:59:28 +0000 2026",
-      "description": "感兴趣QQ：3664039106",
+      "description": "原创\n单部调教价格高\n开设tele会员群 388💰即可\n感兴趣QQ：3664039106",
       "entities": {
-        "description": {}
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/+TdpVqMCGBuBlN…",
+              "expanded_url": "https://t.me/+TdpVqMCGBuBlNmQx",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/dy8ORankc7"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "",
       "profileImageUrlHttps": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
@@ -1707,10 +1720,10 @@
   {
     "restId": "2007504810115997698",
     "legacy": {
-      "name": "直男采访",
+      "name": "土直男",
       "screenName": "ganhao137864",
       "createdAt": "Sat Jan 03 17:30:35 +0000 2026",
-      "description": "喜欢直男🌹品味人生，电报：https://t.co/v8hfKqs2yS❤️会员进群 联系🐧🐧3817487724🌳骚直男采访系列",
+      "description": "喜欢直男🌹电报：https://t.co/sdasXrUa1F🌳会员群限时特价198🧧 需要办理会员请私信👆进群《土直男采访系列》稳定更新🌳无二次收费",
       "entities": {
         "description": {
           "urls": [
@@ -1718,16 +1731,16 @@
               "display_url": "t.me/zuiai1314",
               "expanded_url": "http://t.me/zuiai1314",
               "indices": [
-                13,
-                36
+                8,
+                31
               ],
-              "url": "https://t.co/v8hfKqs2yS"
+              "url": "https://t.co/sdasXrUa1F"
             }
           ]
         }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2007504810115997698/1779592739",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2058387209070473216/wprHY9Oo_normal.jpg"
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2059924522648862720/7Q8T7ofI_normal.jpg"
     }
   },
   {
@@ -5671,9 +5684,21 @@
       "name": "骚直男",
       "screenName": "xngxng151257",
       "createdAt": "Sat Feb 14 04:26:13 +0000 2026",
-      "description": "用心的创作",
+      "description": "用心的创作❤️ 更多精彩宝藏请进预告群https://t.co/uo0yUt2qxn🌳预览群不免费",
       "entities": {
-        "description": {}
+        "description": {
+          "urls": [
+            {
+              "display_url": "t.me/saozhinan",
+              "expanded_url": "http://t.me/saozhinan",
+              "indices": [
+                19,
+                42
+              ],
+              "url": "https://t.co/uo0yUt2qxn"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2022527711844163584/1779628446",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2058536972336119808/w9pucj1e_normal.jpg"
