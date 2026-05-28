@@ -170,14 +170,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (60MB > 50MB)",
       "timestamp": "2026-05-29T01:02:24",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 63433711,
       "size_mb": 60.5,
-      "timestamp": "2026-05-29T01:02:24",
+      "timestamp": "2026-05-29T02:01:13",
       "download_attempts": 0
     },
     "full_text": "https://t.co/8q0ZIkVKxZ",
@@ -224,14 +224,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (120MB > 50MB)",
       "timestamp": "2026-05-29T01:02:30",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 126603237,
       "size_mb": 120.74,
-      "timestamp": "2026-05-29T01:02:30",
+      "timestamp": "2026-05-29T02:01:14",
       "download_attempts": 0
     },
     "full_text": "https://t.co/grTZdgXo5I",
@@ -262,5 +262,33 @@
     },
     "full_text": "杭州 https://t.co/VCMR81OMJ9",
     "publish_time": "2026-05-29T00:56:36"
+  },
+  {
+    "file_name": "HJbEoZNaMAAV_H7.jpg",
+    "user": {
+      "screen_name": "KIDDEN7777777",
+      "name": "kidden"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJbEoZNaMAAV_H7.jpg",
+    "read_time": "2026-05-29T02:01:12",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "timestamp": "2026-05-29T02:01:36",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 145678,
+      "size_mb": 0.14,
+      "timestamp": "2026-05-29T02:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "好满意我的腿 https://t.co/0gTMrR4APn",
+    "publish_time": "2026-05-29T01:26:30"
   }
 ]
