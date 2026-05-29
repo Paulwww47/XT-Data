@@ -1452,17 +1452,95 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (54MB > 50MB)",
       "timestamp": "2026-05-29T18:00:59",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 57218867,
       "size_mb": 54.57,
-      "timestamp": "2026-05-29T18:00:59",
+      "timestamp": "2026-05-29T19:00:57",
       "download_attempts": 0
     },
     "full_text": "想边干边闻了 https://t.co/NBN0bt2JzW",
     "publish_time": "2026-05-29T17:38:33"
+  },
+  {
+    "file_name": "aYf7bvzAB5BsZtlj.mp4",
+    "user": {
+      "screen_name": "shuitatata",
+      "name": "岛我脸上"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2060307689973202944/pu/vid/avc1/1280x720/aYf7bvzAB5BsZtlj.mp4?tag=12",
+    "read_time": "2026-05-29T19:00:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25139,
+      "timestamp": "2026-05-29T19:01:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4886720,
+      "size_mb": 4.66,
+      "timestamp": "2026-05-29T19:00:58",
+      "download_attempts": 0
+    },
+    "full_text": "Duang~Duang~Duang~ https://t.co/GVW8hHKNhb",
+    "publish_time": "2026-05-29T18:30:16"
+  },
+  {
+    "file_name": "HJe1MF4bgAAB39V.jpg",
+    "user": {
+      "screen_name": "shuitatata",
+      "name": "岛我脸上"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJe1MF4bgAAB39V.jpg",
+    "read_time": "2026-05-29T19:00:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25140,
+      "timestamp": "2026-05-29T19:01:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 79623,
+      "size_mb": 0.08,
+      "timestamp": "2026-05-29T19:01:01",
+      "download_attempts": 0
+    },
+    "full_text": "双流区还有大猛1吗没爽够 https://t.co/pdr7WzHVyW",
+    "publish_time": "2026-05-29T18:57:30"
+  },
+  {
+    "file_name": "HJe1MIcb0AEGskF.jpg",
+    "user": {
+      "screen_name": "shuitatata",
+      "name": "岛我脸上"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJe1MIcb0AEGskF.jpg",
+    "read_time": "2026-05-29T19:00:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25141,
+      "timestamp": "2026-05-29T19:01:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 75053,
+      "size_mb": 0.07,
+      "timestamp": "2026-05-29T19:01:02",
+      "download_attempts": 0
+    },
+    "full_text": "双流区还有大猛1吗没爽够 https://t.co/pdr7WzHVyW",
+    "publish_time": "2026-05-29T18:57:30"
   }
 ]
