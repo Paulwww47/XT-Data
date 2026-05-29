@@ -1060,17 +1060,173 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (116MB > 50MB)",
       "timestamp": "2026-05-29T13:01:16",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 121817517,
       "size_mb": 116.17,
-      "timestamp": "2026-05-29T13:01:16",
+      "timestamp": "2026-05-29T14:01:11",
       "download_attempts": 0
     },
     "full_text": "今天发下之前乳胶手套瑟瑟 剪完才发现自己射了这么多 https://t.co/BShVdCSQwu",
     "publish_time": "2026-05-29T12:45:27"
+  },
+  {
+    "file_name": "HJdj86saMAA1rtF.jpg",
+    "user": {
+      "screen_name": "youshu29016120",
+      "name": "youshu"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJdj86saMAA1rtF.jpg",
+    "read_time": "2026-05-29T14:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25125,
+      "timestamp": "2026-05-29T14:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 89060,
+      "size_mb": 0.08,
+      "timestamp": "2026-05-29T14:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "男大体育生 https://t.co/3HWij0wYoS",
+    "publish_time": "2026-05-29T13:11:14"
+  },
+  {
+    "file_name": "HJdj86tawAATW3P.jpg",
+    "user": {
+      "screen_name": "youshu29016120",
+      "name": "youshu"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJdj86tawAATW3P.jpg",
+    "read_time": "2026-05-29T14:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25126,
+      "timestamp": "2026-05-29T14:01:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 89388,
+      "size_mb": 0.09,
+      "timestamp": "2026-05-29T14:01:13",
+      "download_attempts": 0
+    },
+    "full_text": "男大体育生 https://t.co/3HWij0wYoS",
+    "publish_time": "2026-05-29T13:11:14"
+  },
+  {
+    "file_name": "HJdn756bUAA4TYo.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJdn756bUAA4TYo.jpg",
+    "read_time": "2026-05-29T14:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25127,
+      "timestamp": "2026-05-29T14:01:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 130853,
+      "size_mb": 0.12,
+      "timestamp": "2026-05-29T14:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "·\n好消息👉 @nlhvision 刚刚在\n\nIG：nlh.foto 更新了！两位帅哥模特！\n\n希望他回来推特/X\n我们十分盼望，谢谢！ https://t.co/HlYHN65x84",
+    "publish_time": "2026-05-29T13:19:57"
+  },
+  {
+    "file_name": "HJdn755bkAASmuh.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJdn755bkAASmuh.jpg",
+    "read_time": "2026-05-29T14:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25128,
+      "timestamp": "2026-05-29T14:01:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 119493,
+      "size_mb": 0.11,
+      "timestamp": "2026-05-29T14:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "·\n好消息👉 @nlhvision 刚刚在\n\nIG：nlh.foto 更新了！两位帅哥模特！\n\n希望他回来推特/X\n我们十分盼望，谢谢！ https://t.co/HlYHN65x84",
+    "publish_time": "2026-05-29T13:19:57"
+  },
+  {
+    "file_name": "HJdn755aIAAfMYi.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJdn755aIAAfMYi.jpg",
+    "read_time": "2026-05-29T14:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25129,
+      "timestamp": "2026-05-29T14:01:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 64123,
+      "size_mb": 0.06,
+      "timestamp": "2026-05-29T14:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "·\n好消息👉 @nlhvision 刚刚在\n\nIG：nlh.foto 更新了！两位帅哥模特！\n\n希望他回来推特/X\n我们十分盼望，谢谢！ https://t.co/HlYHN65x84",
+    "publish_time": "2026-05-29T13:19:57"
+  },
+  {
+    "file_name": "HJdn756a8AARnPv.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJdn756a8AARnPv.jpg",
+    "read_time": "2026-05-29T14:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25130,
+      "timestamp": "2026-05-29T14:01:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 70348,
+      "size_mb": 0.07,
+      "timestamp": "2026-05-29T14:01:18",
+      "download_attempts": 0
+    },
+    "full_text": "·\n好消息👉 @nlhvision 刚刚在\n\nIG：nlh.foto 更新了！两位帅哥模特！\n\n希望他回来推特/X\n我们十分盼望，谢谢！ https://t.co/HlYHN65x84",
+    "publish_time": "2026-05-29T13:19:57"
   }
 ]
