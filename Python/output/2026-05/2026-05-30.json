@@ -926,14 +926,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (127MB > 50MB)",
       "timestamp": "2026-05-30T11:01:08",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 133892540,
       "size_mb": 127.69,
-      "timestamp": "2026-05-30T11:01:08",
+      "timestamp": "2026-05-30T12:01:03",
       "download_attempts": 0
     },
     "full_text": "https://t.co/0TjC0F4kvc",
@@ -990,5 +990,57 @@
     },
     "full_text": "就这样出门蹦迪 https://t.co/GPCGFOa9h7",
     "publish_time": "2026-05-30T10:57:36"
+  },
+  {
+    "file_name": "HJiUKOka8AAi9-X.jpg",
+    "user": {
+      "screen_name": "Love_Nelson1",
+      "name": "Magnificent"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJiUKOka8AAi9-X.jpg",
+    "read_time": "2026-05-30T12:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25192,
+      "timestamp": "2026-05-30T12:01:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 86765,
+      "size_mb": 0.08,
+      "timestamp": "2026-05-30T12:01:03",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/9cbzU1zWki",
+    "publish_time": "2026-05-30T11:11:41"
+  },
+  {
+    "file_name": "HJicBNcbUAAY6hy.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJicBNcbUAAY6hy.jpg",
+    "read_time": "2026-05-30T12:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25193,
+      "timestamp": "2026-05-30T12:01:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 96603,
+      "size_mb": 0.09,
+      "timestamp": "2026-05-30T12:01:05",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/j8xq4zKTsj",
+    "publish_time": "2026-05-30T11:45:59"
   }
 ]
