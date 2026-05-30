@@ -858,5 +858,137 @@
     },
     "full_text": "【2026年5月30日】八卦小報更新：本月局長爆料的一位抖音網紅，https://t.co/XobQbM4A9n https://t.co/YdEE4yojsH",
     "publish_time": "2026-05-30T09:44:59"
+  },
+  {
+    "file_name": "TVNeARMehctwAIjh.mp4",
+    "user": {
+      "screen_name": "alvingoooo",
+      "name": "go | 🇹🇼 27May-2Jun"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2060542718556987392/vid/avc1/1920x1080/TVNeARMehctwAIjh.mp4?tag=27",
+    "read_time": "2026-05-30T11:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25188,
+      "timestamp": "2026-05-30T11:01:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5034409,
+      "size_mb": 4.8,
+      "timestamp": "2026-05-30T11:01:00",
+      "download_attempts": 0
+    },
+    "full_text": "Trip to Jiufen 九份🇹🇼 https://t.co/kYW3VTOmjb",
+    "publish_time": "2026-05-30T10:04:20"
+  },
+  {
+    "file_name": "HJiGZLmaUAAzdsc.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJiGZLmaUAAzdsc.jpg",
+    "read_time": "2026-05-30T11:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25189,
+      "timestamp": "2026-05-30T11:01:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 90516,
+      "size_mb": 0.09,
+      "timestamp": "2026-05-30T11:01:04",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ORtrkfTb3v",
+    "publish_time": "2026-05-30T10:11:31"
+  },
+  {
+    "file_name": "1wWytQly_7pmWOKI.mp4",
+    "user": {
+      "screen_name": "c558668",
+      "name": "0m"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2060381510427971588/vid/avc1/1920x1080/1wWytQly_7pmWOKI.mp4?tag=27",
+    "read_time": "2026-05-30T11:00:59",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (127MB > 50MB)",
+      "timestamp": "2026-05-30T11:01:08",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 133892540,
+      "size_mb": 127.69,
+      "timestamp": "2026-05-30T11:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/0TjC0F4kvc",
+    "publish_time": "2026-05-30T10:34:43"
+  },
+  {
+    "file_name": "hCsnHTkLb2wMnQkC.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2060552593529843712/vid/avc1/720x1280/hCsnHTkLb2wMnQkC.mp4?tag=14",
+    "read_time": "2026-05-30T11:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25190,
+      "timestamp": "2026-05-30T11:01:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1943907,
+      "size_mb": 1.85,
+      "timestamp": "2026-05-30T11:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年5月30日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/It212S3e2j",
+    "publish_time": "2026-05-30T10:43:24"
+  },
+  {
+    "file_name": "HJiQ8cMbwAEg15Y.jpg",
+    "user": {
+      "screen_name": "jinmcleck1",
+      "name": "Juanto"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJiQ8cMbwAEg15Y.jpg",
+    "read_time": "2026-05-30T11:00:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25191,
+      "timestamp": "2026-05-30T11:01:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 165616,
+      "size_mb": 0.16,
+      "timestamp": "2026-05-30T11:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "就这样出门蹦迪 https://t.co/GPCGFOa9h7",
+    "publish_time": "2026-05-30T10:57:36"
   }
 ]
