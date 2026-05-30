@@ -482,14 +482,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (122MB > 50MB)",
       "timestamp": "2026-05-30T08:00:55",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 128932260,
       "size_mb": 122.96,
-      "timestamp": "2026-05-30T08:00:55",
+      "timestamp": "2026-05-30T09:00:55",
       "download_attempts": 0
     },
     "full_text": "·\nFJ234 - 第五十二集 「包晗 Eric East飯店私密大突擊！」\n这是在当时他演出的電影「三十ㄦ立」來台灣宣傳时，福福和Josh 串通采访的👉YouTube 的原视频已经被删了。这是我从微博收藏的，很好看。 https://t.co/TuG0wpHYjt",
@@ -598,5 +598,109 @@
     },
     "full_text": "被子小精灵 https://t.co/ln6vLWbDd3",
     "publish_time": "2026-05-30T07:58:42"
+  },
+  {
+    "file_name": "HJhsASrawAA72KT.jpg",
+    "user": {
+      "screen_name": "xhn1069",
+      "name": "路过"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJhsASrawAA72KT.jpg",
+    "read_time": "2026-05-30T09:00:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25178,
+      "timestamp": "2026-05-30T09:00:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 145007,
+      "size_mb": 0.14,
+      "timestamp": "2026-05-30T09:00:55",
+      "download_attempts": 0
+    },
+    "full_text": "吸气都收不住肚子 https://t.co/S2rvITGwZ3",
+    "publish_time": "2026-05-30T08:16:14"
+  },
+  {
+    "file_name": "HJhzePabIAAdo1l.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJhzePabIAAdo1l.jpg",
+    "read_time": "2026-05-30T09:00:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25179,
+      "timestamp": "2026-05-30T09:00:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 158849,
+      "size_mb": 0.15,
+      "timestamp": "2026-05-30T09:00:56",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/IeAHNlQBXO",
+    "publish_time": "2026-05-30T08:48:52"
+  },
+  {
+    "file_name": "HJh0ADybgAA2zqt.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJh0ADybgAA2zqt.jpg",
+    "read_time": "2026-05-30T09:00:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25180,
+      "timestamp": "2026-05-30T09:00:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 136756,
+      "size_mb": 0.13,
+      "timestamp": "2026-05-30T09:00:58",
+      "download_attempts": 0
+    },
+    "full_text": "fujijifux https://t.co/2Wx4UXJqeK",
+    "publish_time": "2026-05-30T08:51:10"
+  },
+  {
+    "file_name": "HJh1eXxXUAAe53a.jpg",
+    "user": {
+      "screen_name": "nlgzwmz0",
+      "name": "Vanda"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJh1eXxXUAAe53a.jpg",
+    "read_time": "2026-05-30T09:00:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25181,
+      "timestamp": "2026-05-30T09:01:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 187478,
+      "size_mb": 0.18,
+      "timestamp": "2026-05-30T09:00:59",
+      "download_attempts": 0
+    },
+    "full_text": "车里hi很爽 https://t.co/AxH3SmcpkW",
+    "publish_time": "2026-05-30T08:57:37"
   }
 ]
