@@ -1834,14 +1834,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (62MB > 50MB)",
       "timestamp": "2026-05-31T14:02:33",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 65639071,
       "size_mb": 62.6,
-      "timestamp": "2026-05-31T14:02:33",
+      "timestamp": "2026-05-31T15:01:57",
       "download_attempts": 0
     },
     "full_text": "👔西裝愛好者👔 https://t.co/JxQYdyw7Id",
@@ -1898,5 +1898,291 @@
     },
     "full_text": "👔西裝愛好者👔 https://t.co/AeCXNIwjPq",
     "publish_time": "2026-05-31T13:45:40"
+  },
+  {
+    "file_name": "HJoFE3_boAA_vjz.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJoFE3_boAA_vjz.jpg",
+    "read_time": "2026-05-31T15:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25334,
+      "timestamp": "2026-05-31T15:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 124529,
+      "size_mb": 0.12,
+      "timestamp": "2026-05-31T15:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/xytPQKXE1n",
+    "publish_time": "2026-05-31T14:03:28"
+  },
+  {
+    "file_name": "HJoFI7vbkAELFtm.jpg",
+    "user": {
+      "screen_name": "BLPDBNANA",
+      "name": "Mr.CumBoY🍌"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJoFI7vbkAELFtm.jpg",
+    "read_time": "2026-05-31T15:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25335,
+      "timestamp": "2026-05-31T15:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 244405,
+      "size_mb": 0.23,
+      "timestamp": "2026-05-31T15:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "脚搭子在哪里！ https://t.co/2YoJxYvwHl",
+    "publish_time": "2026-05-31T14:03:45"
+  },
+  {
+    "file_name": "HJoFI7waMAIMe7-.jpg",
+    "user": {
+      "screen_name": "BLPDBNANA",
+      "name": "Mr.CumBoY🍌"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJoFI7waMAIMe7-.jpg",
+    "read_time": "2026-05-31T15:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25336,
+      "timestamp": "2026-05-31T15:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 76873,
+      "size_mb": 0.07,
+      "timestamp": "2026-05-31T15:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "脚搭子在哪里！ https://t.co/2YoJxYvwHl",
+    "publish_time": "2026-05-31T14:03:45"
+  },
+  {
+    "file_name": "HJoFI7wbIAAy23g.jpg",
+    "user": {
+      "screen_name": "BLPDBNANA",
+      "name": "Mr.CumBoY🍌"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJoFI7wbIAAy23g.jpg",
+    "read_time": "2026-05-31T15:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25337,
+      "timestamp": "2026-05-31T15:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 172032,
+      "size_mb": 0.16,
+      "timestamp": "2026-05-31T15:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "脚搭子在哪里！ https://t.co/2YoJxYvwHl",
+    "publish_time": "2026-05-31T14:03:45"
+  },
+  {
+    "file_name": "HJoFI7wa4AA5GKq.jpg",
+    "user": {
+      "screen_name": "BLPDBNANA",
+      "name": "Mr.CumBoY🍌"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJoFI7wa4AA5GKq.jpg",
+    "read_time": "2026-05-31T15:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25338,
+      "timestamp": "2026-05-31T15:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 82412,
+      "size_mb": 0.08,
+      "timestamp": "2026-05-31T15:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "脚搭子在哪里！ https://t.co/2YoJxYvwHl",
+    "publish_time": "2026-05-31T14:03:45"
+  },
+  {
+    "file_name": "HJoFPmxbEAIsjRd.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJoFPmxbEAIsjRd.jpg",
+    "read_time": "2026-05-31T15:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25339,
+      "timestamp": "2026-05-31T15:02:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 90097,
+      "size_mb": 0.09,
+      "timestamp": "2026-05-31T15:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "iamkhaivu https://t.co/zFsG1blFqT",
+    "publish_time": "2026-05-31T14:04:12"
+  },
+  {
+    "file_name": "YOfXUJCntnCijOsN.mp4",
+    "user": {
+      "screen_name": "ZouJie31965",
+      "name": "Mr.CumBoY"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2060971131771961344/vid/avc1/720x1280/YOfXUJCntnCijOsN.mp4?tag=27",
+    "read_time": "2026-05-31T15:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25340,
+      "timestamp": "2026-05-31T15:02:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1657713,
+      "size_mb": 1.58,
+      "timestamp": "2026-05-31T15:02:07",
+      "download_attempts": 0
+    },
+    "full_text": "#脚 https://t.co/z3M8tBiAjx",
+    "publish_time": "2026-05-31T14:26:42"
+  },
+  {
+    "file_name": "2MLPm_e3OmzzyxeQ.mp4",
+    "user": {
+      "screen_name": "ZouJie31965",
+      "name": "Mr.CumBoY"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2060971254845509632/vid/avc1/720x1280/2MLPm_e3OmzzyxeQ.mp4?tag=27",
+    "read_time": "2026-05-31T15:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25341,
+      "timestamp": "2026-05-31T15:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5400768,
+      "size_mb": 5.15,
+      "timestamp": "2026-05-31T15:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "#直男脚 https://t.co/syXXyKW7gJ",
+    "publish_time": "2026-05-31T14:27:23"
+  },
+  {
+    "file_name": "HJoOR2-bUAE6u8o.jpg",
+    "user": {
+      "screen_name": "easychen",
+      "name": "EasyChen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJoOR2-bUAE6u8o.jpg",
+    "read_time": "2026-05-31T15:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25342,
+      "timestamp": "2026-05-31T15:02:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 156196,
+      "size_mb": 0.15,
+      "timestamp": "2026-05-31T15:02:12",
+      "download_attempts": 0
+    },
+    "full_text": "又加了一个风格集 https://t.co/wkrIuChU0f",
+    "publish_time": "2026-05-31T14:43:46"
+  },
+  {
+    "file_name": "HJoObOdaMAAZqD_.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJoObOdaMAAZqD_.jpg",
+    "read_time": "2026-05-31T15:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25343,
+      "timestamp": "2026-05-31T15:02:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 153752,
+      "size_mb": 0.15,
+      "timestamp": "2026-05-31T15:02:13",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/knqe9y16Ll",
+    "publish_time": "2026-05-31T14:44:19"
+  },
+  {
+    "file_name": "HJoRf0WbcAAVa3M.jpg",
+    "user": {
+      "screen_name": "ZouJie31965",
+      "name": "Mr.CumBoY"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJoRf0WbcAAVa3M.jpg",
+    "read_time": "2026-05-31T15:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25344,
+      "timestamp": "2026-05-31T15:02:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 173326,
+      "size_mb": 0.17,
+      "timestamp": "2026-05-31T15:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ZceDyc8JVi",
+    "publish_time": "2026-05-31T14:57:44"
   }
 ]
