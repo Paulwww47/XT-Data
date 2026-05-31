@@ -238,5 +238,40 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2060870821267300723",
     "fullText": "https://t.co/SbHub4SYvi",
     "publishTime": "2026-05-31T07:47:47"
+  },
+  {
+    "user": {
+      "screenName": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJm8lhMagAAeZYz.jpg",
+      "https://pbs.twimg.com/media/HJm8lhJbYAAX5Ht.jpg",
+      "https://pbs.twimg.com/media/HJm8lhKbIAANmGX.jpg",
+      "https://pbs.twimg.com/media/HJm8lhJbQAAIXOy.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Forestwoodwood/status/2060885661381808262",
+    "fullText": "·\n健身小哥男模HIRIT的系列\n（一）In The Cube \n\n摄影师IG：littlebourke_studio📷 ｜模特他的IG是： hirit_______🧍‍♂️ https://t.co/skdfyh2j0W",
+    "publishTime": "2026-05-31T08:46:45"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJm8inNaQAAL6kE.jpg",
+      "https://pbs.twimg.com/media/HJm8kjYawAAqWp6.jpg",
+      "https://pbs.twimg.com/media/HJm8uexa8AAozNS.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [
+      "https://the7.ft07.com/upload/MacSee.dmg"
+    ],
+    "tweetUrl": "https://x.com/easychen/status/2060885835692822760",
+    "fullText": "最近 Claude Code 用太多，它总是给我搞出来一堆后台服务，退出时也不关闭。\n\n虽然可以用命令来查看，但总觉得不方便，所以写了一个 MacSee APP，可以用来查看端口占用和对应的目录，方便很多。https://t.co/ES4V4R8dMr https://t.co/3RfuI9IHvM",
+    "publishTime": "2026-05-31T08:47:27"
   }
 ]
