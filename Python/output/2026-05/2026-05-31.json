@@ -3318,17 +3318,469 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (129MB > 50MB)",
       "timestamp": "2026-05-31T22:01:52",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 136172296,
       "size_mb": 129.86,
-      "timestamp": "2026-05-31T22:01:52",
+      "timestamp": "2026-06-01T00:01:34",
       "download_attempts": 0
     },
     "full_text": "昨天玩新玩具 震得龟头真爽 戴两个夹子玩奶头也爽 射了个爽 https://t.co/5tIq1AK5NL",
     "publish_time": "2026-05-31T21:59:13"
+  },
+  {
+    "file_name": "ILUHjuTdyVt_m8eL.mp4",
+    "user": {
+      "screen_name": "arthurz_xcx",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2061085576712114176/vid/avc1/1080x1920/ILUHjuTdyVt_m8eL.mp4?tag=27",
+    "read_time": "2026-06-01T00:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25388,
+      "timestamp": "2026-06-01T00:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 14499906,
+      "size_mb": 13.83,
+      "timestamp": "2026-06-01T00:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "น้ำกลับมาพุ่งแล้วค้าบ อิอิ เงี่ยนควยกระตุกๆ 🥵 https://t.co/5CNa9Ni8YI",
+    "publish_time": "2026-05-31T22:02:08"
+  },
+  {
+    "file_name": "HJp4trpWgAUlhzO.jpg",
+    "user": {
+      "screen_name": "dunzh299016",
+      "name": "吉吉"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJp4trpWgAUlhzO.jpg",
+    "read_time": "2026-06-01T00:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25389,
+      "timestamp": "2026-06-01T00:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 114536,
+      "size_mb": 0.11,
+      "timestamp": "2026-06-01T00:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "听说穿袜子拍流量更好？（提前祝粉丝宝宝六一快乐✧٩(ˊωˋ*)و✧） https://t.co/UFtilNg0Et",
+    "publish_time": "2026-05-31T22:28:42"
+  },
+  {
+    "file_name": "HJp4t0cWYAIpR-e.jpg",
+    "user": {
+      "screen_name": "dunzh299016",
+      "name": "吉吉"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJp4t0cWYAIpR-e.jpg",
+    "read_time": "2026-06-01T00:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25390,
+      "timestamp": "2026-06-01T00:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 129236,
+      "size_mb": 0.12,
+      "timestamp": "2026-06-01T00:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "听说穿袜子拍流量更好？（提前祝粉丝宝宝六一快乐✧٩(ˊωˋ*)و✧） https://t.co/UFtilNg0Et",
+    "publish_time": "2026-05-31T22:28:42"
+  },
+  {
+    "file_name": "HJp4wwWWYAIKahF.jpg",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJp4wwWWYAIKahF.jpg",
+    "read_time": "2026-06-01T00:01:33",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": false,
+    "download_info": {
+      "download_attempts": 1
+    },
+    "full_text": "🥵 https://t.co/mZS6eIU7tA",
+    "publish_time": "2026-05-31T22:29:09"
+  },
+  {
+    "file_name": "HJp4wwQXIAEHwIU.jpg",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJp4wwQXIAEHwIU.jpg",
+    "read_time": "2026-06-01T00:01:33",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": false,
+    "download_info": {
+      "download_attempts": 1
+    },
+    "full_text": "🥵 https://t.co/mZS6eIU7tA",
+    "publish_time": "2026-05-31T22:29:09"
+  },
+  {
+    "file_name": "yjxhSIYMDP69YUGH.mp4",
+    "user": {
+      "screen_name": "haoyun9988",
+      "name": "三亚原(天蝎)"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2061092728679854080/vid/avc1/1280x720/yjxhSIYMDP69YUGH.mp4?tag=27",
+    "read_time": "2026-06-01T00:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25391,
+      "timestamp": "2026-06-01T00:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1005978,
+      "size_mb": 0.96,
+      "timestamp": "2026-06-01T00:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "杭州 明天上海 https://t.co/yYFVXD7jwL",
+    "publish_time": "2026-05-31T22:29:56"
+  },
+  {
+    "file_name": "HJp-Nk3bQAAyi9w.jpg",
+    "user": {
+      "screen_name": "Leon_pan999",
+      "name": "Leon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJp-Nk3bQAAyi9w.jpg",
+    "read_time": "2026-06-01T00:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25392,
+      "timestamp": "2026-06-01T00:01:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 93898,
+      "size_mb": 0.09,
+      "timestamp": "2026-06-01T00:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "刚吃完饭吸肚子还能吸出腹肌\n看来我体脂真的降了😋 https://t.co/KJxIvfgarN",
+    "publish_time": "2026-05-31T22:52:44"
+  },
+  {
+    "file_name": "HJp-7itbIAAWIyU.jpg",
+    "user": {
+      "screen_name": "Szzsen",
+      "name": "Jensen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJp-7itbIAAWIyU.jpg",
+    "read_time": "2026-06-01T00:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25393,
+      "timestamp": "2026-06-01T00:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 51738,
+      "size_mb": 0.05,
+      "timestamp": "2026-06-01T00:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "But it's actually sweet \nAll the time you've spent on me https://t.co/gTNFKr1BkY",
+    "publish_time": "2026-05-31T22:56:06"
+  },
+  {
+    "file_name": "HJp-7jkakAAwH9n.jpg",
+    "user": {
+      "screen_name": "Szzsen",
+      "name": "Jensen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJp-7jkakAAwH9n.jpg",
+    "read_time": "2026-06-01T00:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25394,
+      "timestamp": "2026-06-01T00:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 96420,
+      "size_mb": 0.09,
+      "timestamp": "2026-06-01T00:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "But it's actually sweet \nAll the time you've spent on me https://t.co/gTNFKr1BkY",
+    "publish_time": "2026-05-31T22:56:06"
+  },
+  {
+    "file_name": "HJp-7ioacAAVq-l.jpg",
+    "user": {
+      "screen_name": "Szzsen",
+      "name": "Jensen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJp-7ioacAAVq-l.jpg",
+    "read_time": "2026-06-01T00:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25395,
+      "timestamp": "2026-06-01T00:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 59330,
+      "size_mb": 0.06,
+      "timestamp": "2026-06-01T00:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "But it's actually sweet \nAll the time you've spent on me https://t.co/gTNFKr1BkY",
+    "publish_time": "2026-05-31T22:56:06"
+  },
+  {
+    "file_name": "HJp-7inacAEUed-.jpg",
+    "user": {
+      "screen_name": "Szzsen",
+      "name": "Jensen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJp-7inacAEUed-.jpg",
+    "read_time": "2026-06-01T00:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25396,
+      "timestamp": "2026-06-01T00:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 96641,
+      "size_mb": 0.09,
+      "timestamp": "2026-06-01T00:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "But it's actually sweet \nAll the time you've spent on me https://t.co/gTNFKr1BkY",
+    "publish_time": "2026-05-31T22:56:06"
+  },
+  {
+    "file_name": "HJp_CpabUAAriRu.jpg",
+    "user": {
+      "screen_name": "neon385908",
+      "name": "ne on"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJp_CpabUAAriRu.jpg",
+    "read_time": "2026-06-01T00:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25397,
+      "timestamp": "2026-06-01T00:01:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 89732,
+      "size_mb": 0.09,
+      "timestamp": "2026-06-01T00:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/PLPSBE9sQS",
+    "publish_time": "2026-05-31T22:56:23"
+  },
+  {
+    "file_name": "HJqGEY9bQAAlFW-.jpg",
+    "user": {
+      "screen_name": "aidenannnnn",
+      "name": "Aiden An🐱"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJqGEY9bQAAlFW-.jpg",
+    "read_time": "2026-06-01T00:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25398,
+      "timestamp": "2026-06-01T00:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 75113,
+      "size_mb": 0.07,
+      "timestamp": "2026-06-01T00:01:48",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/FaMaXw4c9c",
+    "publish_time": "2026-05-31T23:27:02"
+  },
+  {
+    "file_name": "HJqKcljaoAEwfM1.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJqKcljaoAEwfM1.jpg",
+    "read_time": "2026-06-01T00:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25399,
+      "timestamp": "2026-06-01T00:01:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 170892,
+      "size_mb": 0.16,
+      "timestamp": "2026-06-01T00:01:49",
+      "download_attempts": 0
+    },
+    "full_text": "门槛只加微信 其他都无 注意⚠️ https://t.co/4xGHrsyVaB",
+    "publish_time": "2026-05-31T23:46:20"
+  },
+  {
+    "file_name": "HJqK3vBa0AEnGVw.jpg",
+    "user": {
+      "screen_name": "XMi7778",
+      "name": "鲨辣条鱼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJqK3vBa0AEnGVw.jpg",
+    "read_time": "2026-06-01T00:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25400,
+      "timestamp": "2026-06-01T00:01:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 105347,
+      "size_mb": 0.1,
+      "timestamp": "2026-06-01T00:01:50",
+      "download_attempts": 0
+    },
+    "full_text": "想吃的报名 https://t.co/MxrWxIDNLD",
+    "publish_time": "2026-05-31T23:48:03"
+  },
+  {
+    "file_name": "HJqK3vGaUAAPxLC.jpg",
+    "user": {
+      "screen_name": "XMi7778",
+      "name": "鲨辣条鱼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJqK3vGaUAAPxLC.jpg",
+    "read_time": "2026-06-01T00:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25401,
+      "timestamp": "2026-06-01T00:01:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 97256,
+      "size_mb": 0.09,
+      "timestamp": "2026-06-01T00:01:51",
+      "download_attempts": 0
+    },
+    "full_text": "想吃的报名 https://t.co/MxrWxIDNLD",
+    "publish_time": "2026-05-31T23:48:03"
+  },
+  {
+    "file_name": "HJqK3vBbkAA2rSN.jpg",
+    "user": {
+      "screen_name": "XMi7778",
+      "name": "鲨辣条鱼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJqK3vBbkAA2rSN.jpg",
+    "read_time": "2026-06-01T00:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25402,
+      "timestamp": "2026-06-01T00:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 90407,
+      "size_mb": 0.09,
+      "timestamp": "2026-06-01T00:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "想吃的报名 https://t.co/MxrWxIDNLD",
+    "publish_time": "2026-05-31T23:48:03"
+  },
+  {
+    "file_name": "rlOOIkOc7zmQ9Qpd.mp4",
+    "user": {
+      "screen_name": "jinmcleck1",
+      "name": "Juanto"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2061114421557239808/pu/vid/avc1/1280x720/rlOOIkOc7zmQ9Qpd.mp4?tag=12",
+    "read_time": "2026-06-01T00:01:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25403,
+      "timestamp": "2026-06-01T00:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1195567,
+      "size_mb": 1.14,
+      "timestamp": "2026-06-01T00:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "打游戏的时候老公非要进来… https://t.co/4VHxkaH22i",
+    "publish_time": "2026-05-31T23:55:53"
   }
 ]
