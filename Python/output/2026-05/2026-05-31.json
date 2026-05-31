@@ -3172,5 +3172,163 @@
     },
     "full_text": "🥵 https://t.co/I1jURxpGcG",
     "publish_time": "2026-05-31T20:58:45"
+  },
+  {
+    "file_name": "HJpk_2LbgAAuhjb.jpg",
+    "user": {
+      "screen_name": "arthurz_xcx",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJpk_2LbgAAuhjb.jpg",
+    "read_time": "2026-05-31T22:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25383,
+      "timestamp": "2026-05-31T22:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 281163,
+      "size_mb": 0.27,
+      "timestamp": "2026-05-31T22:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "อย่าซูมนะครับบ 🤣 https://t.co/TgWZbPWI2d",
+    "publish_time": "2026-05-31T21:02:37"
+  },
+  {
+    "file_name": "HJptqgUaEAAzctY.mp4",
+    "user": {
+      "screen_name": "biggo90039429",
+      "name": "colinosss"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/HJptqgUaEAAzctY.mp4",
+    "read_time": "2026-05-31T22:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25384,
+      "timestamp": "2026-05-31T22:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 30373,
+      "size_mb": 0.03,
+      "timestamp": "2026-05-31T22:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "黑白抑制食欲吗 https://t.co/15ewfH8Ktq",
+    "publish_time": "2026-05-31T21:40:28"
+  },
+  {
+    "file_name": "HJpuqiBbcAANb7_.jpg",
+    "user": {
+      "screen_name": "biggo90039429",
+      "name": "colinosss"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJpuqiBbcAANb7_.jpg",
+    "read_time": "2026-05-31T22:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25385,
+      "timestamp": "2026-05-31T22:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 86251,
+      "size_mb": 0.08,
+      "timestamp": "2026-05-31T22:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "GIF不清晰 https://t.co/6pIKCPTlKE",
+    "publish_time": "2026-05-31T21:44:49"
+  },
+  {
+    "file_name": "HJpv4Bua4AAiodT.jpg",
+    "user": {
+      "screen_name": "QingyWilderness",
+      "name": "青野Aono"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJpv4Bua4AAiodT.jpg",
+    "read_time": "2026-05-31T22:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25386,
+      "timestamp": "2026-05-31T22:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 87396,
+      "size_mb": 0.08,
+      "timestamp": "2026-05-31T22:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "what is it？👀 https://t.co/B1hxWwBxk0",
+    "publish_time": "2026-05-31T21:50:05"
+  },
+  {
+    "file_name": "HJpv4DOaUAAcjl4.jpg",
+    "user": {
+      "screen_name": "QingyWilderness",
+      "name": "青野Aono"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJpv4DOaUAAcjl4.jpg",
+    "read_time": "2026-05-31T22:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25387,
+      "timestamp": "2026-05-31T22:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 108516,
+      "size_mb": 0.1,
+      "timestamp": "2026-05-31T22:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "what is it？👀 https://t.co/B1hxWwBxk0",
+    "publish_time": "2026-05-31T21:50:05"
+  },
+  {
+    "file_name": "inguhCjlqaac8rRI.mp4",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2061084155572895744/vid/avc1/720x1280/inguhCjlqaac8rRI.mp4?tag=27",
+    "read_time": "2026-05-31T22:01:34",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (129MB > 50MB)",
+      "timestamp": "2026-05-31T22:01:52",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 136172296,
+      "size_mb": 129.86,
+      "timestamp": "2026-05-31T22:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "昨天玩新玩具 震得龟头真爽 戴两个夹子玩奶头也爽 射了个爽 https://t.co/5tIq1AK5NL",
+    "publish_time": "2026-05-31T21:59:13"
   }
 ]
