@@ -274,17 +274,121 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (112MB > 50MB)",
       "timestamp": "2026-06-02T06:01:41",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 118008313,
       "size_mb": 112.54,
-      "timestamp": "2026-06-02T06:01:41",
+      "timestamp": "2026-06-02T07:01:37",
       "download_attempts": 0
     },
     "full_text": "·\nYouTube FJ234 - 福福和Josh的精彩采访👉萧框（IAN SHYU）曾在N年前澳大利亚“钢管舞先生”大赛上，他的一段基情四射的创意钢管舞获得了特别奖🎖️值得一提的是，他还是台湾同志咨询热线的一位志愿者~~~ https://t.co/QeMtyAPzb0",
     "publish_time": "2026-06-02T05:56:05"
+  },
+  {
+    "file_name": "HJwuGeuaYAADGcA.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJwuGeuaYAADGcA.jpg",
+    "read_time": "2026-06-02T07:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25508,
+      "timestamp": "2026-06-02T07:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 120924,
+      "size_mb": 0.12,
+      "timestamp": "2026-06-02T07:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "·\n健身小哥男模HIRIT的系列（二）针织手工内裤｜摄影师IG：studio_sum.mer_bodyprofile📷 ｜模特他的IG是： hirit_______🧍‍♂️最近就是他的二集图片 https://t.co/liOWdvYeKE",
+    "publish_time": "2026-06-02T06:19:40"
+  },
+  {
+    "file_name": "HJwuGesakAE9Se_.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJwuGesakAE9Se_.jpg",
+    "read_time": "2026-06-02T07:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25509,
+      "timestamp": "2026-06-02T07:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 144044,
+      "size_mb": 0.14,
+      "timestamp": "2026-06-02T07:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "·\n健身小哥男模HIRIT的系列（二）针织手工内裤｜摄影师IG：studio_sum.mer_bodyprofile📷 ｜模特他的IG是： hirit_______🧍‍♂️最近就是他的二集图片 https://t.co/liOWdvYeKE",
+    "publish_time": "2026-06-02T06:19:40"
+  },
+  {
+    "file_name": "HJwuGeqbAAE9mlk.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJwuGeqbAAE9mlk.jpg",
+    "read_time": "2026-06-02T07:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25510,
+      "timestamp": "2026-06-02T07:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 129611,
+      "size_mb": 0.12,
+      "timestamp": "2026-06-02T07:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "·\n健身小哥男模HIRIT的系列（二）针织手工内裤｜摄影师IG：studio_sum.mer_bodyprofile📷 ｜模特他的IG是： hirit_______🧍‍♂️最近就是他的二集图片 https://t.co/liOWdvYeKE",
+    "publish_time": "2026-06-02T06:19:40"
+  },
+  {
+    "file_name": "HJwuGfmaYAAOXWu.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJwuGfmaYAAOXWu.jpg",
+    "read_time": "2026-06-02T07:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25511,
+      "timestamp": "2026-06-02T07:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 109654,
+      "size_mb": 0.1,
+      "timestamp": "2026-06-02T07:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "·\n健身小哥男模HIRIT的系列（二）针织手工内裤｜摄影师IG：studio_sum.mer_bodyprofile📷 ｜模特他的IG是： hirit_______🧍‍♂️最近就是他的二集图片 https://t.co/liOWdvYeKE",
+    "publish_time": "2026-06-02T06:19:40"
   }
 ]
