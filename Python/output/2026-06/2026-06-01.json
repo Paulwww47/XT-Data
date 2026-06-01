@@ -1846,5 +1846,137 @@
     },
     "full_text": "近期最佳身材照 https://t.co/4600Fe1dwq",
     "publish_time": "2026-06-01T20:59:59"
+  },
+  {
+    "file_name": "HJuyOWrboAAv-Xi.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJuyOWrboAAv-Xi.jpg",
+    "read_time": "2026-06-01T22:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25476,
+      "timestamp": "2026-06-01T22:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 148316,
+      "size_mb": 0.14,
+      "timestamp": "2026-06-01T22:02:20",
+      "download_attempts": 0
+    },
+    "full_text": "🖤 https://t.co/TzjrbYLFTy",
+    "publish_time": "2026-06-01T21:18:29"
+  },
+  {
+    "file_name": "HJuyOWlbYAETtdc.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJuyOWlbYAETtdc.jpg",
+    "read_time": "2026-06-01T22:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25477,
+      "timestamp": "2026-06-01T22:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 148573,
+      "size_mb": 0.14,
+      "timestamp": "2026-06-01T22:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "🖤 https://t.co/TzjrbYLFTy",
+    "publish_time": "2026-06-01T21:18:29"
+  },
+  {
+    "file_name": "XBfXSpnZ88eWKXrm.mp4",
+    "user": {
+      "screen_name": "oncewu",
+      "name": "OnceWu"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2061440391124242432/vid/avc1/720x1280/XBfXSpnZ88eWKXrm.mp4?tag=27",
+    "read_time": "2026-06-01T22:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25478,
+      "timestamp": "2026-06-01T22:02:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2919554,
+      "size_mb": 2.78,
+      "timestamp": "2026-06-01T22:02:23",
+      "download_attempts": 0
+    },
+    "full_text": "六一快乐呀🎉 https://t.co/oHVrF87mnA",
+    "publish_time": "2026-06-01T21:31:24"
+  },
+  {
+    "file_name": "BH7oTyXgxg9xePZl.mp4",
+    "user": {
+      "screen_name": "monkeyking_phys",
+      "name": "MonkeyKingPhysique"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2061081382924046336/vid/avc1/1280x592/BH7oTyXgxg9xePZl.mp4?tag=14",
+    "read_time": "2026-06-01T22:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25479,
+      "timestamp": "2026-06-01T22:02:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 10512910,
+      "size_mb": 10.03,
+      "timestamp": "2026-06-01T22:02:26",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/SSJl5hO23P",
+    "publish_time": "2026-06-01T21:41:29"
+  },
+  {
+    "file_name": "RCFnmjYdAu_lJBFn.mp4",
+    "user": {
+      "screen_name": "monkeyking_phys",
+      "name": "MonkeyKingPhysique"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2027222990036115456/vid/avc1/1920x1080/RCFnmjYdAu_lJBFn.mp4?tag=21",
+    "read_time": "2026-06-01T22:02:19",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (173MB > 50MB)",
+      "timestamp": "2026-06-01T22:02:42",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 181560556,
+      "size_mb": 173.15,
+      "timestamp": "2026-06-01T22:02:42",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/jMi9z4AucT",
+    "publish_time": "2026-06-01T21:52:43"
   }
 ]
