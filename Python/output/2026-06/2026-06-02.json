@@ -1404,5 +1404,31 @@
     },
     "full_text": "https://t.co/EcS7vG45Cu",
     "publish_time": "2026-06-02T14:56:52"
+  },
+  {
+    "file_name": "hfmv56FwKwnJ1P5e.mp4",
+    "user": {
+      "screen_name": "LaFei2531",
+      "name": "小熊硬糖"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1941731564343394305/vid/avc1/720x1280/hfmv56FwKwnJ1P5e.mp4?tag=21",
+    "read_time": "2026-06-02T16:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25551,
+      "timestamp": "2026-06-02T16:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2227653,
+      "size_mb": 2.12,
+      "timestamp": "2026-06-02T16:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/AIi0TTT2te",
+    "publish_time": "2026-06-02T15:17:17"
   }
 ]

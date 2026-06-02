@@ -529,5 +529,19 @@
     "tweetUrl": "https://x.com/mGskn5cq509fHvH/status/2061703577786040637",
     "fullText": "https://t.co/EcS7vG45Cu",
     "publishTime": "2026-06-02T14:56:52"
+  },
+  {
+    "user": {
+      "screenName": "LaFei2531",
+      "name": "小熊硬糖"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1941731564343394305/vid/avc1/720x1280/hfmv56FwKwnJ1P5e.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/LaFei2531/status/2061708716865700195",
+    "fullText": "https://t.co/AIi0TTT2te",
+    "publishTime": "2026-06-02T15:17:17"
   }
 ]
