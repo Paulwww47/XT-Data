@@ -2054,5 +2054,31 @@
     },
     "full_text": "https://t.co/GHeEyzASs6",
     "publish_time": "2026-06-02T21:39:13"
+  },
+  {
+    "file_name": "HJ0NRHJbcAAqiRN.jpg",
+    "user": {
+      "screen_name": "tg1ctg",
+      "name": "一"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJ0NRHJbcAAqiRN.jpg",
+    "read_time": "2026-06-02T23:01:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25576,
+      "timestamp": "2026-06-02T23:01:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 450416,
+      "size_mb": 0.43,
+      "timestamp": "2026-06-02T23:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "gate https://t.co/5XrIJrIxEI",
+    "publish_time": "2026-06-02T22:34:47"
   }
 ]
