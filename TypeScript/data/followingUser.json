@@ -155,7 +155,7 @@
       "name": "keyoum",
       "screenName": "abdkym19",
       "createdAt": "Sun Jan 04 14:42:13 +0000 2026",
-      "description": "仅此一号，其他均为假的\n微信🚪588",
+      "description": "仅此一号，其他均为假的\n微信🚪288（没有福利）",
       "entities": {
         "description": {}
       },
@@ -2406,45 +2406,6 @@
     }
   },
   {
-    "restId": "1995343221782962176",
-    "legacy": {
-      "name": "異男記錄",
-      "screenName": "JiNaamGeiLuk",
-      "createdAt": "Mon Dec 01 04:04:41 +0000 2025",
-      "description": "人言可畏·一名普通的異男記錄者·TG group：https://t.co/7BqPZ4SIzk ·舉報者全家替我擋災",
-      "entities": {
-        "description": {
-          "urls": [
-            {
-              "display_url": "t.me/JiNaamGeiLuk",
-              "expanded_url": "https://t.me/JiNaamGeiLuk",
-              "indices": [
-                25,
-                48
-              ],
-              "url": "https://t.co/7BqPZ4SIzk"
-            }
-          ]
-        },
-        "url": {
-          "urls": [
-            {
-              "display_url": "t.me/JiNaamGeiLuk",
-              "expanded_url": "https://t.me/JiNaamGeiLuk",
-              "indices": [
-                0,
-                23
-              ],
-              "url": "https://t.co/7BqPZ4SIzk"
-            }
-          ]
-        }
-      },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1995343221782962176/1764562478",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1995346316411678721/lFAJwcPN_normal.jpg"
-    }
-  },
-  {
     "restId": "990268764322127872",
     "legacy": {
       "name": "Juanto",
@@ -2496,33 +2457,6 @@
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1696849324905213952/1761470376",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1982367773322776576/JQ6btJsV_normal.jpg"
-    }
-  },
-  {
-    "restId": "703330800478003200",
-    "legacy": {
-      "name": "精马",
-      "screenName": "JMaTop1",
-      "createdAt": "Fri Feb 26 21:28:24 +0000 2016",
-      "description": "🐴二十五个零的选择｜25 Bottom's Choice\n🎠@JMaTop2",
-      "entities": {
-        "description": {},
-        "url": {
-          "urls": [
-            {
-              "display_url": "v.douyin.com/tFr-lZKz9jI/",
-              "expanded_url": "https://v.douyin.com/tFr-lZKz9jI/",
-              "indices": [
-                0,
-                23
-              ],
-              "url": "https://t.co/oucqun0wih"
-            }
-          ]
-        }
-      },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/703330800478003200/1660946663",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2057542278848360448/70kpyYTD_normal.jpg"
     }
   },
   {
