@@ -445,5 +445,33 @@
     "tweetUrl": "https://x.com/bohaixiaochen/status/2061669093263151340",
     "fullText": "晨勃时间～ https://t.co/TvtrqpwyRX",
     "publishTime": "2026-06-02T12:39:50"
+  },
+  {
+    "user": {
+      "screenName": "miss17188",
+      "name": "miss"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJyLflKbsAA9ck4.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/miss17188/status/2061676113773076700",
+    "fullText": "https://t.co/g3Oq7wMZ3S",
+    "publishTime": "2026-06-02T13:07:44"
+  },
+  {
+    "user": {
+      "screenName": "Jeff07751908",
+      "name": "巨龙不该被束缚"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2061685655881789440/vid/avc1/720x1280/BUjWxLfD0YsvIwDc.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Jeff07751908/status/2061685857753678313",
+    "fullText": "✈️谁来吃 https://t.co/lGP1WS2ljU",
+    "publishTime": "2026-06-02T13:46:27"
   }
 ]
