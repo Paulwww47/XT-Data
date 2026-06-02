@@ -388,5 +388,59 @@
     },
     "full_text": "promax https://t.co/VJFvxlIZ8n",
     "publish_time": "2026-06-03T02:53:11"
+  },
+  {
+    "file_name": "hDv847JRXM8IRhzd.mp4",
+    "user": {
+      "screen_name": "77baxi",
+      "name": "健身教练cd伪娘"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1986051671777071104/vid/avc1/720x1280/hDv847JRXM8IRhzd.mp4?tag=14",
+    "read_time": "2026-06-03T05:01:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25600,
+      "timestamp": "2026-06-03T05:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 16263352,
+      "size_mb": 15.51,
+      "timestamp": "2026-06-03T05:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/I1DsZGJqdG",
+    "publish_time": "2026-06-03T04:27:10"
+  },
+  {
+    "file_name": "mF_MTPxIYQybgLp4.mp4",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2061293955761963008/vid/avc1/3840x2160/mF_MTPxIYQybgLp4.mp4?tag=27",
+    "read_time": "2026-06-03T05:01:50",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (280MB > 50MB)",
+      "timestamp": "2026-06-03T05:02:00",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 294029422,
+      "size_mb": 280.41,
+      "timestamp": "2026-06-03T05:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "·\n这个视频：内地肌肉男火了火了！台上全是男人，台下全是女人！现在没有人想结婚，不要怪我们！客观上引荐了我们的摄影师可以拍男体写真的事实！ https://t.co/LLh4qQSDpl",
+    "publish_time": "2026-06-03T04:31:11"
   }
 ]
