@@ -310,5 +310,31 @@
     },
     "full_text": "卧槽  这次真的一点也硬不起来了 https://t.co/fdBgVbhh9u",
     "publish_time": "2026-06-03T01:00:50"
+  },
+  {
+    "file_name": "HJ04ZOsaIAA9Xtr.jpg",
+    "user": {
+      "screen_name": "brooklyn29540",
+      "name": "不要问我从哪里来"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJ04ZOsaIAA9Xtr.jpg",
+    "read_time": "2026-06-03T02:01:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 25597,
+      "timestamp": "2026-06-03T02:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 103145,
+      "size_mb": 0.1,
+      "timestamp": "2026-06-03T02:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "赠有缘人，哈哈哈 https://t.co/xRtfjHnM8Q",
+    "publish_time": "2026-06-03T01:43:10"
   }
 ]
