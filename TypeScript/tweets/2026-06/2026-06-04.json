@@ -461,5 +461,61 @@
     "tweetUrl": "https://x.com/jinmcleck1/status/2062352289764175888",
     "fullText": "https://t.co/grWRxy1881",
     "publishTime": "2026-06-04T09:54:37"
+  },
+  {
+    "user": {
+      "screenName": "snkrss01",
+      "name": "snkrss"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJ72ed2bgAAkogi.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/snkrss01/status/2062356689823887796",
+    "fullText": "吃着放心，用着舒心 https://t.co/en6SovGRRy",
+    "publishTime": "2026-06-04T10:12:06"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2062061847793315840/vid/avc1/720x1280/vQ6O7A32QhatSrUX.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/2062357639833715124",
+    "fullText": "คนจะทำธุระส่วนตัว 🤨🤨 https://t.co/HXK6WHoJcE",
+    "publishTime": "2026-06-04T10:15:52"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2062361037509459968/vid/avc1/1280x720/-PrC9bnsaaalTjYL.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/2062361227016515905",
+    "fullText": "https://t.co/nRDfTrwik3",
+    "publishTime": "2026-06-04T10:30:07"
+  },
+  {
+    "user": {
+      "screenName": "nlgzwmz0",
+      "name": "Vanda"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HJ7-PgDWoAAgljp.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/nlgzwmz0/status/2062365232966627758",
+    "fullText": "有没有同城一起拍私房照的 https://t.co/j352g2JYcf",
+    "publishTime": "2026-06-04T10:46:03"
   }
 ]
