@@ -2387,8 +2387,8 @@
       "entities": {
         "description": {}
       },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1135807397501345792/1767804928",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2008945544744587270/7D3uDHmZ_normal.jpg"
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1135807397501345792/1780744914",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2063224592123273216/-J2ae4qk_normal.jpg"
     }
   },
   {
@@ -4665,21 +4665,9 @@
       "name": "Silveron 威倫",
       "screenName": "silveron21",
       "createdAt": "Mon Jan 13 02:51:07 +0000 2014",
-      "description": "https://t.co/3LmYbg0OJS",
+      "description": "",
       "entities": {
-        "description": {
-          "urls": [
-            {
-              "display_url": "onlyfans.com/silveron21",
-              "expanded_url": "https://onlyfans.com/silveron21",
-              "indices": [
-                0,
-                23
-              ],
-              "url": "https://t.co/3LmYbg0OJS"
-            }
-          ]
-        },
+        "description": {},
         "url": {
           "urls": [
             {
