@@ -1498,14 +1498,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (175MB > 50MB)",
       "timestamp": "2026-06-07T13:01:47",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 183653035,
       "size_mb": 175.15,
-      "timestamp": "2026-06-07T13:01:47",
+      "timestamp": "2026-06-07T14:01:38",
       "download_attempts": 0
     },
     "full_text": "小唐 https://t.co/L3x7Tmuv39",
@@ -1526,14 +1526,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (134MB > 50MB)",
       "timestamp": "2026-06-07T13:01:59",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 140824840,
       "size_mb": 134.3,
-      "timestamp": "2026-06-07T13:01:59",
+      "timestamp": "2026-06-07T14:01:39",
       "download_attempts": 0
     },
     "full_text": "aurevoir https://t.co/1L9F1QzWbD",
@@ -1590,5 +1590,161 @@
     },
     "full_text": "https://t.co/ZRCRNvgFgC",
     "publish_time": "2026-06-07T12:51:55"
+  },
+  {
+    "file_name": "HKL7BWUaMAALTg7.mp4",
+    "user": {
+      "screen_name": "Szzsen",
+      "name": "Jensen"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/HKL7BWUaMAALTg7.mp4",
+    "read_time": "2026-06-07T14:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26095,
+      "timestamp": "2026-06-07T14:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 77165,
+      "size_mb": 0.07,
+      "timestamp": "2026-06-07T14:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "进群相遇\n你愿意吗？让我成为你故事的另一部份，所有的不期而遇，都是蓄谋已久的真诚，免费无🚪进群，本人将会为大家展示我不为人知的一面，点击我电报✈️入群⬇️观看\n唯一入口✈️TG:  https://t.co/B9HA0GiQ6f\n私信暗号：JJ【很快回复】\nTG官方下载链接: https://t.co/zi0mdEbto3 https://t.co/3YcUoUDRJw",
+    "publish_time": "2026-06-07T13:05:59"
+  },
+  {
+    "file_name": "AtpP1gQKvd2Tt4-i.mp4",
+    "user": {
+      "screen_name": "YoungOu123",
+      "name": "Young Ou"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2063487651387502592/vid/avc1/720x1250/AtpP1gQKvd2Tt4-i.mp4?tag=27",
+    "read_time": "2026-06-07T14:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26096,
+      "timestamp": "2026-06-07T14:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1120222,
+      "size_mb": 1.07,
+      "timestamp": "2026-06-07T14:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "高考加油 https://t.co/KFXNZAoM2T",
+    "publish_time": "2026-06-07T13:06:25"
+  },
+  {
+    "file_name": "HKL_coKawAAH4ss.jpg",
+    "user": {
+      "screen_name": "jiejiejiejie666",
+      "name": "许愿胸肌"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKL_coKawAAH4ss.jpg",
+    "read_time": "2026-06-07T14:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26097,
+      "timestamp": "2026-06-07T14:01:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 158186,
+      "size_mb": 0.15,
+      "timestamp": "2026-06-07T14:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/RfTKdbDh1D",
+    "publish_time": "2026-06-07T13:25:14"
+  },
+  {
+    "file_name": "HKMCXYYXMAAAhDd.jpg",
+    "user": {
+      "screen_name": "nlgzwmz0",
+      "name": "Vanda"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKMCXYYXMAAAhDd.jpg",
+    "read_time": "2026-06-07T14:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26098,
+      "timestamp": "2026-06-07T14:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 70432,
+      "size_mb": 0.07,
+      "timestamp": "2026-06-07T14:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "出原味 https://t.co/BX2zWZop6F",
+    "publish_time": "2026-06-07T13:37:59"
+  },
+  {
+    "file_name": "HKMF6e_bcAANVYe.jpg",
+    "user": {
+      "screen_name": "youshu29016120",
+      "name": "youshu"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKMF6e_bcAANVYe.jpg",
+    "read_time": "2026-06-07T14:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26099,
+      "timestamp": "2026-06-07T14:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 156297,
+      "size_mb": 0.15,
+      "timestamp": "2026-06-07T14:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Ou6B5Ra5hf",
+    "publish_time": "2026-06-07T13:54:04"
+  },
+  {
+    "file_name": "HKMGC6obcAAa3Ks.jpg",
+    "user": {
+      "screen_name": "youshu29016120",
+      "name": "youshu"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKMGC6obcAAa3Ks.jpg",
+    "read_time": "2026-06-07T14:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26100,
+      "timestamp": "2026-06-07T14:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 169241,
+      "size_mb": 0.16,
+      "timestamp": "2026-06-07T14:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Ou6B5Ra5hf",
+    "publish_time": "2026-06-07T13:54:04"
   }
 ]
