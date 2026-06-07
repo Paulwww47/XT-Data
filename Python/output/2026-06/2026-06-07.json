@@ -1456,5 +1456,139 @@
     },
     "full_text": "https://t.co/Do0EKPyvy2",
     "publish_time": "2026-06-07T11:54:05"
+  },
+  {
+    "file_name": "HKLt8TiboAANX8h.jpg",
+    "user": {
+      "screen_name": "Happyali0809",
+      "name": "黑皮阿黎"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKLt8TiboAANX8h.jpg",
+    "read_time": "2026-06-07T13:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26092,
+      "timestamp": "2026-06-07T13:01:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 91549,
+      "size_mb": 0.09,
+      "timestamp": "2026-06-07T13:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "墨镜买好了，就等联名了。哈哈哈 https://t.co/gKoTFrBIuu",
+    "publish_time": "2026-06-07T12:08:56"
+  },
+  {
+    "file_name": "FqjzuV2cts3X902Z.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2063476548238516224/vid/avc1/1080x1920/FqjzuV2cts3X902Z.mp4?tag=27",
+    "read_time": "2026-06-07T13:01:27",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (175MB > 50MB)",
+      "timestamp": "2026-06-07T13:01:47",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 183653035,
+      "size_mb": 175.15,
+      "timestamp": "2026-06-07T13:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "小唐 https://t.co/L3x7Tmuv39",
+    "publish_time": "2026-06-07T12:28:21"
+  },
+  {
+    "file_name": "POwHJ5d8u52JlyNr.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2063478891067715584/vid/avc1/1920x1080/POwHJ5d8u52JlyNr.mp4?tag=27",
+    "read_time": "2026-06-07T13:01:27",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (134MB > 50MB)",
+      "timestamp": "2026-06-07T13:01:59",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 140824840,
+      "size_mb": 134.3,
+      "timestamp": "2026-06-07T13:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "aurevoir https://t.co/1L9F1QzWbD",
+    "publish_time": "2026-06-07T12:36:33"
+  },
+  {
+    "file_name": "HKL3ceJa0AA3n7O.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKL3ceJa0AA3n7O.jpg",
+    "read_time": "2026-06-07T13:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26093,
+      "timestamp": "2026-06-07T13:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 111585,
+      "size_mb": 0.11,
+      "timestamp": "2026-06-07T13:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/cKvCrULIou",
+    "publish_time": "2026-06-07T12:50:15"
+  },
+  {
+    "file_name": "HKL301GbwAAIVJy.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKL301GbwAAIVJy.jpg",
+    "read_time": "2026-06-07T13:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26094,
+      "timestamp": "2026-06-07T13:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 133574,
+      "size_mb": 0.13,
+      "timestamp": "2026-06-07T13:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ZRCRNvgFgC",
+    "publish_time": "2026-06-07T12:51:55"
   }
 ]
