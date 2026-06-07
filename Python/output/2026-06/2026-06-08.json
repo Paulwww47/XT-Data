@@ -154,5 +154,31 @@
     },
     "full_text": "https://t.co/kxgueScexp",
     "publish_time": "2026-06-08T00:31:59"
+  },
+  {
+    "file_name": "dFe8HLoCKai9aF0z.mp4",
+    "user": {
+      "screen_name": "77baxi",
+      "name": "健身教练cd伪娘"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2063554898852261888/vid/avc1/1080x1920/dFe8HLoCKai9aF0z.mp4?tag=27",
+    "read_time": "2026-06-08T05:02:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26155,
+      "timestamp": "2026-06-08T05:02:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 21479922,
+      "size_mb": 20.48,
+      "timestamp": "2026-06-08T05:02:52",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/DPUucP3J7V",
+    "publish_time": "2026-06-08T04:17:12"
   }
 ]
