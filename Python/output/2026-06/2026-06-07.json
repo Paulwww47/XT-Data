@@ -2210,17 +2210,95 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (98MB > 50MB)",
       "timestamp": "2026-06-07T17:02:23",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 102851486,
       "size_mb": 98.09,
-      "timestamp": "2026-06-07T17:02:23",
+      "timestamp": "2026-06-07T18:02:04",
       "download_attempts": 0
     },
     "full_text": "八级大狂风-鲜肉粗口飞机视频 https://t.co/QGQGabz8Ye",
     "publish_time": "2026-06-07T16:00:47"
+  },
+  {
+    "file_name": "HKMx-H5b0AAjehE.jpg",
+    "user": {
+      "screen_name": "xvszrxq",
+      "name": "Pupfool"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKMx-H5b0AAjehE.jpg",
+    "read_time": "2026-06-07T18:02:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26115,
+      "timestamp": "2026-06-07T18:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 213491,
+      "size_mb": 0.2,
+      "timestamp": "2026-06-07T18:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "自評表，僅代表喜好和接受程度，\n不代表開發程度 https://t.co/PUL5xRSSra",
+    "publish_time": "2026-06-07T17:05:58"
+  },
+  {
+    "file_name": "HKM25kjakAAlFRl.jpg",
+    "user": {
+      "screen_name": "Harry1910040",
+      "name": "H ar ry"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKM25kjakAAlFRl.jpg",
+    "read_time": "2026-06-07T18:02:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26116,
+      "timestamp": "2026-06-07T18:02:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 161814,
+      "size_mb": 0.15,
+      "timestamp": "2026-06-07T18:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "你这么好看肯定有很多人追你吧\n跟我聊天的人都会问我是不是很多人追我总是会愣住什么叫追陪聊算追吗一天一周一个月那确实很多但他们在还没有了解真正的你时就发现了你的大门紧闭不迎外人马上扭头走掉这是追求吗或者0付出甚至一顿像样的饭一捧鲜艳的花一句真诚的告白都没有这又是追求吗 https://t.co/552xQvxhDU",
+    "publish_time": "2026-06-07T17:27:30"
+  },
+  {
+    "file_name": "VAOpxPXNR-Q2l2CG.mp4",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2063554893831663616/vid/avc1/720x1280/VAOpxPXNR-Q2l2CG.mp4?tag=27",
+    "read_time": "2026-06-07T18:02:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26117,
+      "timestamp": "2026-06-07T18:02:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1448415,
+      "size_mb": 1.38,
+      "timestamp": "2026-06-07T18:02:07",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/LgkpG7uq4g",
+    "publish_time": "2026-06-07T17:33:59"
   }
 ]
