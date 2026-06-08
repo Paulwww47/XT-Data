@@ -170,14 +170,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (50MB > 50MB)",
       "timestamp": "2026-06-09T02:02:16",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 52580835,
       "size_mb": 50.14,
-      "timestamp": "2026-06-09T02:02:16",
+      "timestamp": "2026-06-09T03:01:24",
       "download_attempts": 0
     },
     "full_text": "https://t.co/ogbQhTOh4f",
@@ -208,5 +208,109 @@
     },
     "full_text": "https://t.co/ZS7iq83r6C",
     "publish_time": "2026-06-09T01:56:16"
+  },
+  {
+    "file_name": "UvVRRPbkEH0CT5gL.mp4",
+    "user": {
+      "screen_name": "Jacobczj17",
+      "name": "你的健健（5.30−6.15北京）"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2064047284070019072/vid/avc1/720x1280/UvVRRPbkEH0CT5gL.mp4?tag=27",
+    "read_time": "2026-06-09T03:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26257,
+      "timestamp": "2026-06-09T03:01:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4352550,
+      "size_mb": 4.15,
+      "timestamp": "2026-06-09T03:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "嘎嘎硬 https://t.co/cFrvAi8mBq",
+    "publish_time": "2026-06-09T02:11:00"
+  },
+  {
+    "file_name": "HKT9R8TbkAAI9Yu.jpg",
+    "user": {
+      "screen_name": "Jeff07751908",
+      "name": "不穿内裤"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKT9R8TbkAAI9Yu.jpg",
+    "read_time": "2026-06-09T03:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26258,
+      "timestamp": "2026-06-09T03:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101895,
+      "size_mb": 0.1,
+      "timestamp": "2026-06-09T03:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "可以让我进入吗 #TOP https://t.co/1Bfunmoyvl",
+    "publish_time": "2026-06-09T02:32:45"
+  },
+  {
+    "file_name": "HKT9R8SaIAA5lQd.jpg",
+    "user": {
+      "screen_name": "Jeff07751908",
+      "name": "不穿内裤"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKT9R8SaIAA5lQd.jpg",
+    "read_time": "2026-06-09T03:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26259,
+      "timestamp": "2026-06-09T03:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 86175,
+      "size_mb": 0.08,
+      "timestamp": "2026-06-09T03:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "可以让我进入吗 #TOP https://t.co/1Bfunmoyvl",
+    "publish_time": "2026-06-09T02:32:45"
+  },
+  {
+    "file_name": "La5j-pRMo6LkpuBP.mp4",
+    "user": {
+      "screen_name": "huohuo0707330",
+      "name": "嚯"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2041161892400685056/vid/avc1/1280x720/La5j-pRMo6LkpuBP.mp4?tag=21",
+    "read_time": "2026-06-09T03:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26260,
+      "timestamp": "2026-06-09T03:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 22043874,
+      "size_mb": 21.02,
+      "timestamp": "2026-06-09T03:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "好听 我也想要妈妈哈哈哈👂🏻 https://t.co/UJrKfOuzjK",
+    "publish_time": "2026-06-09T02:36:24"
   }
 ]
