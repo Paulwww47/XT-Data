@@ -154,5 +154,59 @@
     },
     "full_text": "不想上班，想去做鸭子😢 https://t.co/R5k2MVZauG",
     "publish_time": "2026-06-09T00:49:49"
+  },
+  {
+    "file_name": "DuK2q6UGtf5Acgcd.mp4",
+    "user": {
+      "screen_name": "c558668",
+      "name": "0m"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2011324239266369536/vid/avc1/1280x720/DuK2q6UGtf5Acgcd.mp4?tag=21",
+    "read_time": "2026-06-09T02:02:15",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (50MB > 50MB)",
+      "timestamp": "2026-06-09T02:02:16",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 52580835,
+      "size_mb": 50.14,
+      "timestamp": "2026-06-09T02:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ogbQhTOh4f",
+    "publish_time": "2026-06-09T01:36:53"
+  },
+  {
+    "file_name": "uDy9aipnobFh4kkZ.mp4",
+    "user": {
+      "screen_name": "wangsan82l",
+      "name": "王利华的鼠标"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2064043777841639424/vid/avc1/1280x720/uDy9aipnobFh4kkZ.mp4?tag=27",
+    "read_time": "2026-06-09T02:02:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26256,
+      "timestamp": "2026-06-09T02:02:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2760861,
+      "size_mb": 2.63,
+      "timestamp": "2026-06-09T02:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ZS7iq83r6C",
+    "publish_time": "2026-06-09T01:56:16"
   }
 ]
