@@ -1678,17 +1678,173 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (312MB > 50MB)",
       "timestamp": "2026-06-08T17:01:53",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 327914902,
       "size_mb": 312.72,
-      "timestamp": "2026-06-08T17:01:53",
+      "timestamp": "2026-06-08T18:01:28",
       "download_attempts": 0
     },
     "full_text": "·\n👍Montien x MI Thailand 2026 presents Actiff FashionFest 2022\n\n👉2EROS 泳裤 部分 👏👏👏 https://t.co/kUBRAhf2vT",
     "publish_time": "2026-06-08T16:55:23"
+  },
+  {
+    "file_name": "52_HmLhVWoYwnN8H.mp4",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2063910698745556992/vid/avc1/1242x2162/52_HmLhVWoYwnN8H.mp4?tag=27",
+    "read_time": "2026-06-08T18:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26213,
+      "timestamp": "2026-06-08T18:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 13339688,
+      "size_mb": 12.72,
+      "timestamp": "2026-06-08T18:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "原来最火的一个小哥的出场被删了，我再次补上 https://t.co/jjtBwaqcIb",
+    "publish_time": "2026-06-08T17:07:34"
+  },
+  {
+    "file_name": "HKR84yIXsAEaVph.jpg",
+    "user": {
+      "screen_name": "undefinedjy",
+      "name": "JY"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKR84yIXsAEaVph.jpg",
+    "read_time": "2026-06-08T18:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26214,
+      "timestamp": "2026-06-08T18:01:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 80845,
+      "size_mb": 0.08,
+      "timestamp": "2026-06-08T18:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "需要填问卷 or 笔试的公司都麻溜的倒闭好吗？都有 AI 了还在问卷里问 react 和 vue 的缺点有何意义？ https://t.co/skYxz4vbpi",
+    "publish_time": "2026-06-08T17:11:46"
+  },
+  {
+    "file_name": "RwHe-o5h2kqtQQzX.mp4",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2063913386468093952/vid/avc1/720x1280/RwHe-o5h2kqtQQzX.mp4?tag=27",
+    "read_time": "2026-06-08T18:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26215,
+      "timestamp": "2026-06-08T18:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1616699,
+      "size_mb": 1.54,
+      "timestamp": "2026-06-08T18:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/hEVuvfLfgZ",
+    "publish_time": "2026-06-08T17:17:56"
+  },
+  {
+    "file_name": "QA7LiG4-CSpKYD_5.mp4",
+    "user": {
+      "screen_name": "Chaostuu1",
+      "name": "Chaos"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2063915124801654784/pu/vid/avc1/720x1280/QA7LiG4-CSpKYD_5.mp4?tag=12",
+    "read_time": "2026-06-08T18:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26216,
+      "timestamp": "2026-06-08T18:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3325879,
+      "size_mb": 3.17,
+      "timestamp": "2026-06-08T18:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "刚吃了菠萝 https://t.co/vJyMFB356X",
+    "publish_time": "2026-06-08T17:25:17"
+  },
+  {
+    "file_name": "HKSB70DaEAA9Ird.jpg",
+    "user": {
+      "screen_name": "abdkym19",
+      "name": "keyoum"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKSB70DaEAA9Ird.jpg",
+    "read_time": "2026-06-08T18:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26217,
+      "timestamp": "2026-06-08T18:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 96938,
+      "size_mb": 0.09,
+      "timestamp": "2026-06-08T18:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "来深圳跟超牛合作啦#超牛品牌 https://t.co/y8pEW9YKGc",
+    "publish_time": "2026-06-08T17:33:54"
+  },
+  {
+    "file_name": "PrnrjmfiE3fDUfHI.mp4",
+    "user": {
+      "screen_name": "neon385908",
+      "name": "ne on"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2063918908269342720/vid/avc1/720x1280/PrnrjmfiE3fDUfHI.mp4?tag=27",
+    "read_time": "2026-06-08T18:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26218,
+      "timestamp": "2026-06-08T18:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1636705,
+      "size_mb": 1.56,
+      "timestamp": "2026-06-08T18:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "黏着的 https://t.co/OWiQoj16eA",
+    "publish_time": "2026-06-08T17:40:51"
   }
 ]
