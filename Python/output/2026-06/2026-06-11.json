@@ -40,14 +40,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (73MB > 50MB)",
       "timestamp": "2026-06-11T01:01:43",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 77069893,
       "size_mb": 73.5,
-      "timestamp": "2026-06-11T01:01:43",
+      "timestamp": "2026-06-11T02:02:02",
       "download_attempts": 0
     },
     "full_text": "·\n这个视频，我只是转发的，任壬老师的HORMONE系列，应该是最后的一集，谢谢🙏 https://t.co/jan8CbFo1y",
@@ -130,5 +130,31 @@
     },
     "full_text": "白袜+喷射：https://t.co/k0obangils https://t.co/pu7ul59Fhb",
     "publish_time": "2026-06-11T00:46:18"
+  },
+  {
+    "file_name": "HKeCHYJaEAAPLWY.jpg",
+    "user": {
+      "screen_name": "snkrss01",
+      "name": "snkrss（北京）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKeCHYJaEAAPLWY.jpg",
+    "read_time": "2026-06-11T02:02:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26433,
+      "timestamp": "2026-06-11T02:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 238316,
+      "size_mb": 0.23,
+      "timestamp": "2026-06-11T02:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "人大校草 https://t.co/sPAzRB6j0h",
+    "publish_time": "2026-06-11T01:30:05"
   }
 ]
