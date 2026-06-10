@@ -833,5 +833,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2064692573961343375",
     "fullText": "https://t.co/wKm8N3v52N",
     "publishTime": "2026-06-10T20:54:04"
+  },
+  {
+    "user": {
+      "screenName": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2064697941806452736/vid/avc1/720x1280/l1uhRE3nKoMb5-Zt.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/MuscleHunterX/status/2064698102620283119",
+    "fullText": "硬度足够 https://t.co/Tj8rjy6aY5",
+    "publishTime": "2026-06-10T21:16:02"
+  },
+  {
+    "user": {
+      "screenName": "oncewu",
+      "name": "OnceWu"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2064703608529334272/vid/avc1/720x1278/ZKcAUnMU-2OLrJjM.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/oncewu/status/2064703721553162546",
+    "fullText": "Training hard 😎 https://t.co/QEx5kU6vjI",
+    "publishTime": "2026-06-10T21:38:22"
   }
 ]
