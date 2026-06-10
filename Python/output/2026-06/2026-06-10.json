@@ -1740,5 +1740,31 @@
     },
     "full_text": "🥺 https://t.co/emsx5rYPFA",
     "publish_time": "2026-06-10T18:46:25"
+  },
+  {
+    "file_name": "EKbJZboKWEOe_OdY.mp4",
+    "user": {
+      "screen_name": "toplcjfjv",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2064676554157015040/vid/avc1/720x1280/EKbJZboKWEOe_OdY.mp4?tag=27",
+    "read_time": "2026-06-10T20:02:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26411,
+      "timestamp": "2026-06-10T20:02:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5288498,
+      "size_mb": 5.04,
+      "timestamp": "2026-06-10T20:02:39",
+      "download_attempts": 0
+    },
+    "full_text": "早睡好重要 https://t.co/GDFrWce6ZK",
+    "publish_time": "2026-06-10T19:50:46"
   }
 ]
