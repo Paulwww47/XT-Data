@@ -492,5 +492,31 @@
     },
     "full_text": "https://t.co/bpAjmGVlr8",
     "publish_time": "2026-06-12T03:52:24"
+  },
+  {
+    "file_name": "HKj5ez-boAA7DAv.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKj5ez-boAA7DAv.jpg",
+    "read_time": "2026-06-12T05:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26526,
+      "timestamp": "2026-06-12T05:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 115399,
+      "size_mb": 0.11,
+      "timestamp": "2026-06-12T05:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/dlu6LqqUpE",
+    "publish_time": "2026-06-12T04:50:02"
   }
 ]
