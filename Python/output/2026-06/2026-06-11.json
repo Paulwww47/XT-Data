@@ -988,5 +988,83 @@
     },
     "full_text": "https://t.co/9CQlI9YYzL",
     "publish_time": "2026-06-11T16:41:46"
+  },
+  {
+    "file_name": "HKhbRHhaQAAabRg.jpg",
+    "user": {
+      "screen_name": "oddo75122050",
+      "name": "肚皮骑士"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKhbRHhaQAAabRg.jpg",
+    "read_time": "2026-06-11T18:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26467,
+      "timestamp": "2026-06-11T18:01:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 100734,
+      "size_mb": 0.1,
+      "timestamp": "2026-06-11T18:01:10",
+      "download_attempts": 0
+    },
+    "full_text": "挑战成功 https://t.co/rKIlOGBPb4",
+    "publish_time": "2026-06-11T17:18:48"
+  },
+  {
+    "file_name": "HKhbRHmaYAAwi4h.jpg",
+    "user": {
+      "screen_name": "oddo75122050",
+      "name": "肚皮骑士"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKhbRHmaYAAwi4h.jpg",
+    "read_time": "2026-06-11T18:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26468,
+      "timestamp": "2026-06-11T18:01:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 122018,
+      "size_mb": 0.12,
+      "timestamp": "2026-06-11T18:01:12",
+      "download_attempts": 0
+    },
+    "full_text": "挑战成功 https://t.co/rKIlOGBPb4",
+    "publish_time": "2026-06-11T17:18:48"
+  },
+  {
+    "file_name": "O4uiMYDIgq-DTqPC.mp4",
+    "user": {
+      "screen_name": "sx84604818",
+      "name": "Rexsonic Man+ suits & socks"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2065010749840424960/vid/avc1/720x1160/O4uiMYDIgq-DTqPC.mp4?tag=27",
+    "read_time": "2026-06-11T18:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26469,
+      "timestamp": "2026-06-11T18:01:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1452645,
+      "size_mb": 1.39,
+      "timestamp": "2026-06-11T18:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "👔西裝愛好者👔 https://t.co/z4LXt9Qr0w",
+    "publish_time": "2026-06-11T17:58:31"
   }
 ]
