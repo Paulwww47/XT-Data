@@ -1492,20 +1492,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HKiYp79bMAA0eS-.jpg",
     "read_time": "2026-06-11T22:01:15",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2026-06-11T22:01:36",
-      "notification_sent": false
+      "success": true,
+      "message_id": 26490,
+      "timestamp": "2026-06-11T23:01:26"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 80566,
       "size_mb": 0.08,
-      "timestamp": "2026-06-11T22:01:16",
+      "timestamp": "2026-06-11T23:01:25",
       "download_attempts": 0
     },
     "full_text": "就是条美丽废物，虽然废物，但实在美丽。😑（穿两次就废了） https://t.co/GoHPOrRqoj",
@@ -1520,20 +1518,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HKiYp8BbUAEK746.jpg",
     "read_time": "2026-06-11T22:01:15",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2026-06-11T22:01:56",
-      "notification_sent": false
+      "success": true,
+      "message_id": 26491,
+      "timestamp": "2026-06-11T23:01:27"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 59033,
       "size_mb": 0.06,
-      "timestamp": "2026-06-11T22:01:36",
+      "timestamp": "2026-06-11T23:01:26",
       "download_attempts": 0
     },
     "full_text": "就是条美丽废物，虽然废物，但实在美丽。😑（穿两次就废了） https://t.co/GoHPOrRqoj",
@@ -1590,5 +1586,317 @@
     },
     "full_text": "就是条美丽废物，虽然废物，但实在美丽。😑（穿两次就废了） https://t.co/GoHPOrRqoj",
     "publish_time": "2026-06-11T21:47:07"
+  },
+  {
+    "file_name": "qSqFEa8dOzNeRDOd.mp4",
+    "user": {
+      "screen_name": "josephmrkao",
+      "name": "185 Joseph"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2065049091865006080/vid/avc1/1080x1920/qSqFEa8dOzNeRDOd.mp4?tag=27",
+    "read_time": "2026-06-11T23:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26492,
+      "timestamp": "2026-06-11T23:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 13853586,
+      "size_mb": 13.21,
+      "timestamp": "2026-06-11T23:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "A little stolen moment during work hours.\n\nWash away the stress.\nWait for me, @yolo_aboy \n\nYour turn this weekend. 🫂 https://t.co/wTRHcpPap5",
+    "publish_time": "2026-06-11T22:07:00"
+  },
+  {
+    "file_name": "HKiec6_aYAAbHIO.jpg",
+    "user": {
+      "screen_name": "quebaner16598",
+      "name": "quebaner"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKiec6_aYAAbHIO.jpg",
+    "read_time": "2026-06-11T23:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26493,
+      "timestamp": "2026-06-11T23:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 181534,
+      "size_mb": 0.17,
+      "timestamp": "2026-06-11T23:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "🐦‍⬛ https://t.co/IV19ZPr001",
+    "publish_time": "2026-06-11T22:12:20"
+  },
+  {
+    "file_name": "HKiec68b0AA-tG9.jpg",
+    "user": {
+      "screen_name": "quebaner16598",
+      "name": "quebaner"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKiec68b0AA-tG9.jpg",
+    "read_time": "2026-06-11T23:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26494,
+      "timestamp": "2026-06-11T23:01:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 183789,
+      "size_mb": 0.18,
+      "timestamp": "2026-06-11T23:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "🐦‍⬛ https://t.co/IV19ZPr001",
+    "publish_time": "2026-06-11T22:12:20"
+  },
+  {
+    "file_name": "HKifpegbcAAGAHX.jpg",
+    "user": {
+      "screen_name": "alvingoooo",
+      "name": "go | 🇹🇼 27May-2Jun"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKifpegbcAAGAHX.jpg",
+    "read_time": "2026-06-11T23:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26495,
+      "timestamp": "2026-06-11T23:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 165327,
+      "size_mb": 0.16,
+      "timestamp": "2026-06-11T23:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "Body check\n\nhttps://t.co/k4CUJkaVpV https://t.co/EREQJPpq50",
+    "publish_time": "2026-06-11T22:17:34"
+  },
+  {
+    "file_name": "HKifpebagAE8qzl.jpg",
+    "user": {
+      "screen_name": "alvingoooo",
+      "name": "go | 🇹🇼 27May-2Jun"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKifpebagAE8qzl.jpg",
+    "read_time": "2026-06-11T23:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26496,
+      "timestamp": "2026-06-11T23:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 141940,
+      "size_mb": 0.14,
+      "timestamp": "2026-06-11T23:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "Body check\n\nhttps://t.co/k4CUJkaVpV https://t.co/EREQJPpq50",
+    "publish_time": "2026-06-11T22:17:34"
+  },
+  {
+    "file_name": "vunZCYKK7bXN44rx.mp4",
+    "user": {
+      "screen_name": "Y_HOKNS",
+      "name": "悬黎"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2065076521795289089/pu/vid/avc1/720x1280/vunZCYKK7bXN44rx.mp4?tag=12",
+    "read_time": "2026-06-11T23:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26497,
+      "timestamp": "2026-06-11T23:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1078713,
+      "size_mb": 1.03,
+      "timestamp": "2026-06-11T23:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "喷射的瞬间好难抓住 https://t.co/zNVg3nOazJ",
+    "publish_time": "2026-06-11T22:19:53"
+  },
+  {
+    "file_name": "HKii7D6aUAAvf5D.jpg",
+    "user": {
+      "screen_name": "DBH76",
+      "name": "Deru"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKii7D6aUAAvf5D.jpg",
+    "read_time": "2026-06-11T23:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26498,
+      "timestamp": "2026-06-11T23:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 129814,
+      "size_mb": 0.12,
+      "timestamp": "2026-06-11T23:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "ซูมฉ่ำ https://t.co/Mk18GpYtj1",
+    "publish_time": "2026-06-11T22:31:52"
+  },
+  {
+    "file_name": "HKimntKakAA1cJr.jpg",
+    "user": {
+      "screen_name": "yangmoyum",
+      "name": "阳沫雨"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKimntKakAA1cJr.jpg",
+    "read_time": "2026-06-11T23:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26499,
+      "timestamp": "2026-06-11T23:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 185106,
+      "size_mb": 0.18,
+      "timestamp": "2026-06-11T23:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "爬山⛰️爬到一半，被乖狗狗🐶偷吃了@injayleon 🥵🥵🥵 https://t.co/WgL1A7P4WR",
+    "publish_time": "2026-06-11T22:48:02"
+  },
+  {
+    "file_name": "HKin-XKbsAAMFbL.jpg",
+    "user": {
+      "screen_name": "Harry1910040",
+      "name": "H ar ry"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKin-XKbsAAMFbL.jpg",
+    "read_time": "2026-06-11T23:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26500,
+      "timestamp": "2026-06-11T23:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 142458,
+      "size_mb": 0.14,
+      "timestamp": "2026-06-11T23:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "其實給我什麼禮物，送什麼樣子的，都不重要。別人給我禮物我會忘記，會覺得不想收，心裡別扭，但你不一樣，你給我禮物我會記住，會感恩。一想到有你在身邊，我就覺得這個世界上的一切痛苦都微不足道了。 https://t.co/sdH0U8FRj5",
+    "publish_time": "2026-06-11T22:54:05"
+  },
+  {
+    "file_name": "HKin-XMbEAA65IQ.jpg",
+    "user": {
+      "screen_name": "Harry1910040",
+      "name": "H ar ry"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKin-XMbEAA65IQ.jpg",
+    "read_time": "2026-06-11T23:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26501,
+      "timestamp": "2026-06-11T23:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 95404,
+      "size_mb": 0.09,
+      "timestamp": "2026-06-11T23:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "其實給我什麼禮物，送什麼樣子的，都不重要。別人給我禮物我會忘記，會覺得不想收，心裡別扭，但你不一樣，你給我禮物我會記住，會感恩。一想到有你在身邊，我就覺得這個世界上的一切痛苦都微不足道了。 https://t.co/sdH0U8FRj5",
+    "publish_time": "2026-06-11T22:54:05"
+  },
+  {
+    "file_name": "HKin-XKbQAE8NQq.jpg",
+    "user": {
+      "screen_name": "Harry1910040",
+      "name": "H ar ry"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKin-XKbQAE8NQq.jpg",
+    "read_time": "2026-06-11T23:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26502,
+      "timestamp": "2026-06-11T23:01:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 225905,
+      "size_mb": 0.22,
+      "timestamp": "2026-06-11T23:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "其實給我什麼禮物，送什麼樣子的，都不重要。別人給我禮物我會忘記，會覺得不想收，心裡別扭，但你不一樣，你給我禮物我會記住，會感恩。一想到有你在身邊，我就覺得這個世界上的一切痛苦都微不足道了。 https://t.co/sdH0U8FRj5",
+    "publish_time": "2026-06-11T22:54:05"
+  },
+  {
+    "file_name": "HKin-XLaYAAKc3u.jpg",
+    "user": {
+      "screen_name": "Harry1910040",
+      "name": "H ar ry"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKin-XLaYAAKc3u.jpg",
+    "read_time": "2026-06-11T23:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26503,
+      "timestamp": "2026-06-11T23:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 164813,
+      "size_mb": 0.16,
+      "timestamp": "2026-06-11T23:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "其實給我什麼禮物，送什麼樣子的，都不重要。別人給我禮物我會忘記，會覺得不想收，心裡別扭，但你不一樣，你給我禮物我會記住，會感恩。一想到有你在身邊，我就覺得這個世界上的一切痛苦都微不足道了。 https://t.co/sdH0U8FRj5",
+    "publish_time": "2026-06-11T22:54:05"
   }
 ]
