@@ -1,0 +1,188 @@
+[
+  {
+    "file_name": "HKoBI4FXkAEc0Kb.jpg",
+    "user": {
+      "screen_name": "Chris_SDD",
+      "name": "Chris"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKoBI4FXkAEc0Kb.jpg",
+    "read_time": "2026-06-13T01:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26613,
+      "timestamp": "2026-06-13T01:01:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 298474,
+      "size_mb": 0.28,
+      "timestamp": "2026-06-13T01:01:24",
+      "download_attempts": 0
+    },
+    "full_text": "💧🚬 https://t.co/tUDiAKe6cO",
+    "publish_time": "2026-06-13T00:02:29"
+  },
+  {
+    "file_name": "V4JTycdIpJQuqWsE.mp4",
+    "user": {
+      "screen_name": "c558668",
+      "name": "0m"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2065331420999106560/vid/avc1/1080x1920/V4JTycdIpJQuqWsE.mp4?tag=27",
+    "read_time": "2026-06-13T01:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26614,
+      "timestamp": "2026-06-13T01:01:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 38276934,
+      "size_mb": 36.5,
+      "timestamp": "2026-06-13T01:01:26",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/skxmslYBnq",
+    "publish_time": "2026-06-13T00:02:46"
+  },
+  {
+    "file_name": "HKoC0gSbMAA_2dz.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKoC0gSbMAA_2dz.jpg",
+    "read_time": "2026-06-13T01:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26615,
+      "timestamp": "2026-06-13T01:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 110118,
+      "size_mb": 0.11,
+      "timestamp": "2026-06-13T01:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/cJKzCT4yfr",
+    "publish_time": "2026-06-13T00:09:20"
+  },
+  {
+    "file_name": "oWI03DFr0fjjxX3s.mp4",
+    "user": {
+      "screen_name": "c558668",
+      "name": "0m"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2027074119179902976/vid/avc1/720x1280/oWI03DFr0fjjxX3s.mp4?tag=14",
+    "read_time": "2026-06-13T01:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26616,
+      "timestamp": "2026-06-13T01:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 45194758,
+      "size_mb": 43.1,
+      "timestamp": "2026-06-13T01:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ODL8BT6UU9",
+    "publish_time": "2026-06-13T00:10:13"
+  },
+  {
+    "file_name": "qT85Ns9WF8QivyVA.mp4",
+    "user": {
+      "screen_name": "c558668",
+      "name": "0m"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2029833360256937984/vid/avc1/1280x720/qT85Ns9WF8QivyVA.mp4?tag=21",
+    "read_time": "2026-06-13T01:01:24",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (100MB > 50MB)",
+      "timestamp": "2026-06-13T01:01:38",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 105491320,
+      "size_mb": 100.6,
+      "timestamp": "2026-06-13T01:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/zLNtFhkFWy",
+    "publish_time": "2026-06-13T00:16:33"
+  },
+  {
+    "file_name": "1wogBhuvZIwaYoaj.mp4",
+    "user": {
+      "screen_name": "monkeyking_phys",
+      "name": "MonkeyKingPhysique"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2058234920083046400/vid/avc1/1280x720/1wogBhuvZIwaYoaj.mp4?tag=27",
+    "read_time": "2026-06-13T01:01:24",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (134MB > 50MB)",
+      "timestamp": "2026-06-13T01:01:39",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 141361827,
+      "size_mb": 134.81,
+      "timestamp": "2026-06-13T01:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/5gzcLocbCu",
+    "publish_time": "2026-06-13T00:44:25"
+  },
+  {
+    "file_name": "hyt6wD33cuVzvSW5.mp4",
+    "user": {
+      "screen_name": "monkeyking_phys",
+      "name": "MonkeyKingPhysique"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1900051349854969858/pu/vid/avc1/1280x720/hyt6wD33cuVzvSW5.mp4?tag=12",
+    "read_time": "2026-06-13T01:01:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26617,
+      "timestamp": "2026-06-13T01:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 9859958,
+      "size_mb": 9.4,
+      "timestamp": "2026-06-13T01:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Y984kvYlVh",
+    "publish_time": "2026-06-13T00:58:08"
+  }
+]
