@@ -256,5 +256,19 @@
     "tweetUrl": "https://x.com/playellowdog/status/2065522858860957776",
     "fullText": "https://t.co/RTkGGZsK6i",
     "publishTime": "2026-06-13T03:53:19"
+  },
+  {
+    "user": {
+      "screenName": "toplcjfjv",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2065543499177750528/vid/avc1/720x1280/yyTZsATR5G9xm0o3.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/toplcjfjv/status/2065543654790558126",
+    "fullText": "早 https://t.co/HeIxwPzV0B",
+    "publishTime": "2026-06-13T05:15:57"
   }
 ]
