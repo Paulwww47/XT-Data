@@ -118,14 +118,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (100MB > 50MB)",
       "timestamp": "2026-06-13T01:01:38",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 105491320,
       "size_mb": 100.6,
-      "timestamp": "2026-06-13T01:01:38",
+      "timestamp": "2026-06-13T02:01:23",
       "download_attempts": 0
     },
     "full_text": "https://t.co/zLNtFhkFWy",
@@ -146,14 +146,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (134MB > 50MB)",
       "timestamp": "2026-06-13T01:01:39",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 141361827,
       "size_mb": 134.81,
-      "timestamp": "2026-06-13T01:01:39",
+      "timestamp": "2026-06-13T02:01:25",
       "download_attempts": 0
     },
     "full_text": "https://t.co/5gzcLocbCu",
@@ -184,5 +184,265 @@
     },
     "full_text": "https://t.co/Y984kvYlVh",
     "publish_time": "2026-06-13T00:58:08"
+  },
+  {
+    "file_name": "HKoT_suaMAAX05x.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKoT_suaMAAX05x.jpg",
+    "read_time": "2026-06-13T02:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26618,
+      "timestamp": "2026-06-13T02:01:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101329,
+      "size_mb": 0.1,
+      "timestamp": "2026-06-13T02:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "王圣铎的工作日午后 https://t.co/JnSRZVdocg",
+    "publish_time": "2026-06-13T01:24:23"
+  },
+  {
+    "file_name": "HKoT_swaoAAUfe5.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKoT_swaoAAUfe5.jpg",
+    "read_time": "2026-06-13T02:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26619,
+      "timestamp": "2026-06-13T02:01:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 93803,
+      "size_mb": 0.09,
+      "timestamp": "2026-06-13T02:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "王圣铎的工作日午后 https://t.co/JnSRZVdocg",
+    "publish_time": "2026-06-13T01:24:23"
+  },
+  {
+    "file_name": "HKoT_smbgAA7MIi.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKoT_smbgAA7MIi.jpg",
+    "read_time": "2026-06-13T02:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26620,
+      "timestamp": "2026-06-13T02:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101186,
+      "size_mb": 0.1,
+      "timestamp": "2026-06-13T02:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "王圣铎的工作日午后 https://t.co/JnSRZVdocg",
+    "publish_time": "2026-06-13T01:24:23"
+  },
+  {
+    "file_name": "uI5r-m102rz-_vDG.mp4",
+    "user": {
+      "screen_name": "huoxini66",
+      "name": "霍西尼"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2065485250432466944/vid/avc1/720x1578/uI5r-m102rz-_vDG.mp4?tag=14",
+    "read_time": "2026-06-13T02:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26621,
+      "timestamp": "2026-06-13T02:01:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7414170,
+      "size_mb": 7.07,
+      "timestamp": "2026-06-13T02:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "快手蜘蛛侠就这样一直捏来捏去！ https://t.co/Axonh9YAfl",
+    "publish_time": "2026-06-13T01:29:30"
+  },
+  {
+    "file_name": "loq9_IlH-zFuYbO5.mp4",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2065486536058281984/pu/vid/avc1/1280x720/loq9_IlH-zFuYbO5.mp4?tag=12",
+    "read_time": "2026-06-13T02:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26622,
+      "timestamp": "2026-06-13T02:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 737444,
+      "size_mb": 0.7,
+      "timestamp": "2026-06-13T02:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "wet～💧 https://t.co/ppVUe1oIXC",
+    "publish_time": "2026-06-13T01:29:38"
+  },
+  {
+    "file_name": "VAMvpvLFkoM4Z3Zv.mp4",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2065486536070877184/pu/vid/avc1/1280x720/VAMvpvLFkoM4Z3Zv.mp4?tag=12",
+    "read_time": "2026-06-13T02:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26623,
+      "timestamp": "2026-06-13T02:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 800606,
+      "size_mb": 0.76,
+      "timestamp": "2026-06-13T02:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "wet～💧 https://t.co/ppVUe1oIXC",
+    "publish_time": "2026-06-13T01:29:38"
+  },
+  {
+    "file_name": "TAoQ3LAwklrTccmm.mp4",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2065486658129342464/pu/vid/avc1/1280x720/TAoQ3LAwklrTccmm.mp4?tag=12",
+    "read_time": "2026-06-13T02:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26624,
+      "timestamp": "2026-06-13T02:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 604870,
+      "size_mb": 0.58,
+      "timestamp": "2026-06-13T02:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "wet～💧 https://t.co/ppVUe1oIXC",
+    "publish_time": "2026-06-13T01:29:38"
+  },
+  {
+    "file_name": "xMMyd9LJGejlf_7Y.mp4",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2065486677733445632/pu/vid/avc1/1280x720/xMMyd9LJGejlf_7Y.mp4?tag=12",
+    "read_time": "2026-06-13T02:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26625,
+      "timestamp": "2026-06-13T02:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 882643,
+      "size_mb": 0.84,
+      "timestamp": "2026-06-13T02:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "wet～💧 https://t.co/ppVUe1oIXC",
+    "publish_time": "2026-06-13T01:29:38"
+  },
+  {
+    "file_name": "9RjFL8-lxMmWqDWM.mp4",
+    "user": {
+      "screen_name": "huoxini66",
+      "name": "霍西尼"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2065486896369741824/vid/avc1/720x1578/9RjFL8-lxMmWqDWM.mp4?tag=14",
+    "read_time": "2026-06-13T02:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26626,
+      "timestamp": "2026-06-13T02:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4148677,
+      "size_mb": 3.96,
+      "timestamp": "2026-06-13T02:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "快手主播的眼镜里另有乾坤！ https://t.co/oC46anH9EI",
+    "publish_time": "2026-06-13T01:30:58"
+  },
+  {
+    "file_name": "HKoW-gsbUAAi23q.jpg",
+    "user": {
+      "screen_name": "snkrss01",
+      "name": "snkrss（北京）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKoW-gsbUAAi23q.jpg",
+    "read_time": "2026-06-13T02:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26627,
+      "timestamp": "2026-06-13T02:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 115808,
+      "size_mb": 0.11,
+      "timestamp": "2026-06-13T02:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "对北京已经失去耐心 可能帅的有自己的交友软件和圈子吧 😢 https://t.co/hhnb39o3H1",
+    "publish_time": "2026-06-13T01:37:25"
   }
 ]
