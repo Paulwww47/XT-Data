@@ -2070,14 +2070,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (99MB > 50MB)",
       "timestamp": "2026-06-12T18:01:29",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 104647736,
       "size_mb": 99.8,
-      "timestamp": "2026-06-12T18:01:29",
+      "timestamp": "2026-06-12T19:01:29",
       "download_attempts": 0
     },
     "full_text": "·\n任任老师HORMONE 系列最后的一个project和最帅的一个男模，可惜了。 https://t.co/Aq4hw4vmBH",
@@ -2134,5 +2134,83 @@
     },
     "full_text": "微信群被人恶意举报发不了消息解散掉了，想聊天的来抖音粉丝吧 https://t.co/PjqMmVv4ks",
     "publish_time": "2026-06-12T17:58:38"
+  },
+  {
+    "file_name": "HKmwI2BacAAL1Wk.jpg",
+    "user": {
+      "screen_name": "haibao0810",
+      "name": "海宝Alistiar"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKmwI2BacAAL1Wk.jpg",
+    "read_time": "2026-06-12T19:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26587,
+      "timestamp": "2026-06-12T19:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 62146,
+      "size_mb": 0.06,
+      "timestamp": "2026-06-12T19:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "再放一个QQ群吧 https://t.co/gmjRlvW86o",
+    "publish_time": "2026-06-12T18:08:04"
+  },
+  {
+    "file_name": "HKm0WLjasAAnAoQ.jpg",
+    "user": {
+      "screen_name": "dunzh299016",
+      "name": "吉吉"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKm0WLjasAAnAoQ.jpg",
+    "read_time": "2026-06-12T19:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26588,
+      "timestamp": "2026-06-12T19:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 61766,
+      "size_mb": 0.06,
+      "timestamp": "2026-06-12T19:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "不要在对着我打✈️了，好不好😭 https://t.co/XsjseoAXuC",
+    "publish_time": "2026-06-12T18:26:58"
+  },
+  {
+    "file_name": "HKm0b_DbsAAHOsF.jpg",
+    "user": {
+      "screen_name": "dunzh299016",
+      "name": "吉吉"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKm0b_DbsAAHOsF.jpg",
+    "read_time": "2026-06-12T19:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26589,
+      "timestamp": "2026-06-12T19:01:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 92932,
+      "size_mb": 0.09,
+      "timestamp": "2026-06-12T19:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "不要在对着我打✈️了，好不好😭 https://t.co/XsjseoAXuC",
+    "publish_time": "2026-06-12T18:26:58"
   }
 ]
