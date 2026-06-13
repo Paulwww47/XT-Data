@@ -1109,9 +1109,9 @@
     "is_uploaded": false,
     "upload_info": {
       "success": false,
-      "error_type": "file_too_large",
-      "message": "videos大小超标 (84MB > 50MB)",
-      "timestamp": "2026-06-13T11:02:14",
+      "error_type": "max_download_attempts",
+      "message": "403 Client Error: Forbidden for url: https://video.twimg.com/amplify_video/2065582465809354754/vid/avc1/1920x1080/Gf8Arlfb0-WXfwWS.mp4?tag=27",
+      "timestamp": "2026-06-13T21:01:17",
       "notification_sent": true
     },
     "is_downloaded": false,
@@ -1120,7 +1120,7 @@
       "size": 88537487,
       "size_mb": 84.44,
       "timestamp": "2026-06-13T11:02:14",
-      "download_attempts": 9
+      "download_attempts": 10
     },
     "full_text": "https://t.co/FQHIR9zI6n",
     "publish_time": "2026-06-13T10:15:04"
@@ -2454,5 +2454,83 @@
     },
     "full_text": "https://t.co/erWD3wbG6R\n是X的群，欢迎来发涩涩 https://t.co/gkFmCOauiK",
     "publish_time": "2026-06-13T19:39:06"
+  },
+  {
+    "file_name": "HKsZUVkakAIzIvX.mp4",
+    "user": {
+      "screen_name": "Szzsen",
+      "name": "Jensen"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/HKsZUVkakAIzIvX.mp4",
+    "read_time": "2026-06-13T21:01:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26701,
+      "timestamp": "2026-06-13T21:01:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 114520,
+      "size_mb": 0.11,
+      "timestamp": "2026-06-13T21:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "DRUNK https://t.co/crUvN0V9XN",
+    "publish_time": "2026-06-13T20:26:12"
+  },
+  {
+    "file_name": "5qj1N9mBg4MEY-Pl.mp4",
+    "user": {
+      "screen_name": "alwyn_shown",
+      "name": "Alwyn Lu"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2065773802307584000/vid/avc1/1080x1920/5qj1N9mBg4MEY-Pl.mp4?tag=27",
+    "read_time": "2026-06-13T21:01:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26702,
+      "timestamp": "2026-06-13T21:01:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 41760485,
+      "size_mb": 39.83,
+      "timestamp": "2026-06-13T21:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "新玩具怪兽集合新品GX5✈️可以加温的电动飞机杯真的很爽，可以自动可以手动，旋转震动🥵怪兽集合的杯子都好爽\n@guaishoujihe_01 https://t.co/CbjaoD6aiS",
+    "publish_time": "2026-06-13T20:33:47"
+  },
+  {
+    "file_name": "07ZZtOtAc189PTFA.mp4",
+    "user": {
+      "screen_name": "xxjy9696",
+      "name": "小小脚丫🐾全见版（新）"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2065779547438735360/vid/avc1/720x1280/07ZZtOtAc189PTFA.mp4?tag=27",
+    "read_time": "2026-06-13T21:01:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26703,
+      "timestamp": "2026-06-13T21:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 12119570,
+      "size_mb": 11.56,
+      "timestamp": "2026-06-13T21:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "🫟顶深深肌肉教练❻🫟\n🫣特别迷恋他的大胸肌，很多集美都喜欢，肌肉教练凸起的奶头，真的好美，好想吮吸一口！完美的狗公腰，迷人壮硕的大脊背，一切散发着雄性荷尔蒙…此次入❻的集美会专门送他『大胸私拍』特辑！训练后暴汗油亮的大胸，非常诱人！预约从速~\n#大胸肌\n#顶深深肌肉教练6\n#小小脚丫原创 https://t.co/6iMT701DXx",
+    "publish_time": "2026-06-13T20:54:11"
   }
 ]
