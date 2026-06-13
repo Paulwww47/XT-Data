@@ -1120,7 +1120,7 @@
       "size": 88537487,
       "size_mb": 84.44,
       "timestamp": "2026-06-13T11:02:14",
-      "download_attempts": 3
+      "download_attempts": 4
     },
     "full_text": "https://t.co/FQHIR9zI6n",
     "publish_time": "2026-06-13T10:15:04"
@@ -1540,5 +1540,83 @@
     },
     "full_text": "为了回馈粉丝对我的支持，我建了Twitter群现已创好，与大家共享，凡是今日进群的不收取任何费用，进群无🚪可观看所有完整版视频与写真！\n直通车👉🌸： https://t.co/4b53QGHrq7\n唯一暗号：ss\n秒通过 https://t.co/3gdLxvw6Ce",
     "publish_time": "2026-06-13T13:47:53"
+  },
+  {
+    "file_name": "tB5c_dIpRbCyHZO_.mp4",
+    "user": {
+      "screen_name": "kaka_lac",
+      "name": "kaka"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2065678418444967936/vid/avc1/720x1280/tB5c_dIpRbCyHZO_.mp4?tag=27",
+    "read_time": "2026-06-13T15:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26668,
+      "timestamp": "2026-06-13T15:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7641188,
+      "size_mb": 7.29,
+      "timestamp": "2026-06-13T15:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "体育生恶堕系列，肌肉体育生，边骑车边坐奸假鸡吧 https://t.co/xJUo5qkZaq",
+    "publish_time": "2026-06-13T14:11:54"
+  },
+  {
+    "file_name": "aD1OEFaKKcH5ZfcQ.mp4",
+    "user": {
+      "screen_name": "zi80260",
+      "name": "赍志以殁"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2065678872356802560/pu/vid/avc1/720x1280/aD1OEFaKKcH5ZfcQ.mp4?tag=12",
+    "read_time": "2026-06-13T15:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26669,
+      "timestamp": "2026-06-13T15:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1613062,
+      "size_mb": 1.54,
+      "timestamp": "2026-06-13T15:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/mbXkYGMRQr",
+    "publish_time": "2026-06-13T14:13:26"
+  },
+  {
+    "file_name": "HKrFjexWcAAJSKF.jpg",
+    "user": {
+      "screen_name": "chounizadi2021",
+      "name": "男神传送门"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKrFjexWcAAJSKF.jpg",
+    "read_time": "2026-06-13T15:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26670,
+      "timestamp": "2026-06-13T15:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 104386,
+      "size_mb": 0.1,
+      "timestamp": "2026-06-13T15:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "是个AI https://t.co/6C2r9xODOT",
+    "publish_time": "2026-06-13T14:20:11"
   }
 ]
