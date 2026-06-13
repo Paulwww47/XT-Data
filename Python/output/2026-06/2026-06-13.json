@@ -1120,7 +1120,7 @@
       "size": 88537487,
       "size_mb": 84.44,
       "timestamp": "2026-06-13T11:02:14",
-      "download_attempts": 1
+      "download_attempts": 2
     },
     "full_text": "https://t.co/FQHIR9zI6n",
     "publish_time": "2026-06-13T10:15:04"
@@ -1332,5 +1332,83 @@
     },
     "full_text": "https://t.co/bDFrRviSVc",
     "publish_time": "2026-06-13T11:43:31"
+  },
+  {
+    "file_name": "HKqrjk-bwAARGT4.jpg",
+    "user": {
+      "screen_name": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKqrjk-bwAARGT4.jpg",
+    "read_time": "2026-06-13T13:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26660,
+      "timestamp": "2026-06-13T13:01:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 85797,
+      "size_mb": 0.08,
+      "timestamp": "2026-06-13T13:01:17",
+      "download_attempts": 0
+    },
+    "full_text": "被塞满了｡°(°¯᷄◠¯᷅°)°｡ https://t.co/OabCNhg9Mc",
+    "publish_time": "2026-06-13T12:26:34"
+  },
+  {
+    "file_name": "HKqwOxGbQAA0idG.jpg",
+    "user": {
+      "screen_name": "Szzsen",
+      "name": "Jensen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKqwOxGbQAA0idG.jpg",
+    "read_time": "2026-06-13T13:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26661,
+      "timestamp": "2026-06-13T13:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 163138,
+      "size_mb": 0.16,
+      "timestamp": "2026-06-13T13:01:18",
+      "download_attempts": 0
+    },
+    "full_text": "进群相遇\n你对我一见倾心，我对你一见如故，初遇是你，余生都是你\n入群即可免费解锁全部珍藏合集，仅限今日，⬇️过时不再开放⬇️点击⬇️\n唯一入口✈️TG:  https://t.co/mEx8Be4f20\n私信暗号📪：Js\nTG官方下载链接: https://t.co/zi0mdEbto3 https://t.co/og4DVJ3kiC",
+    "publish_time": "2026-06-13T12:46:58"
+  },
+  {
+    "file_name": "HKqwOxEaUAAt-dy.jpg",
+    "user": {
+      "screen_name": "Szzsen",
+      "name": "Jensen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKqwOxEaUAAt-dy.jpg",
+    "read_time": "2026-06-13T13:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26662,
+      "timestamp": "2026-06-13T13:01:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 164809,
+      "size_mb": 0.16,
+      "timestamp": "2026-06-13T13:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "进群相遇\n你对我一见倾心，我对你一见如故，初遇是你，余生都是你\n入群即可免费解锁全部珍藏合集，仅限今日，⬇️过时不再开放⬇️点击⬇️\n唯一入口✈️TG:  https://t.co/mEx8Be4f20\n私信暗号📪：Js\nTG官方下载链接: https://t.co/zi0mdEbto3 https://t.co/og4DVJ3kiC",
+    "publish_time": "2026-06-13T12:46:58"
   }
 ]
