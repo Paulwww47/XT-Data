@@ -102,5 +102,137 @@
     },
     "full_text": "https://t.co/82RkzEPe9S",
     "publish_time": "2026-06-14T00:25:59"
+  },
+  {
+    "file_name": "HKtYYzXaEAAnCAx.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKtYYzXaEAAnCAx.jpg",
+    "read_time": "2026-06-14T02:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26715,
+      "timestamp": "2026-06-14T02:01:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 132610,
+      "size_mb": 0.13,
+      "timestamp": "2026-06-14T02:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "樊森淼 https://t.co/zkHUTtcv1h",
+    "publish_time": "2026-06-14T01:01:42"
+  },
+  {
+    "file_name": "2lmSoT7uK18np-_g.mp4",
+    "user": {
+      "screen_name": "Azrael64300",
+      "name": "薅壕好昊"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2063990868189786112/vid/avc1/720x1280/2lmSoT7uK18np-_g.mp4?tag=27",
+    "read_time": "2026-06-14T02:01:15",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (87MB > 50MB)",
+      "timestamp": "2026-06-14T02:01:18",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 91576606,
+      "size_mb": 87.33,
+      "timestamp": "2026-06-14T02:01:18",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/aANRrbocuk",
+    "publish_time": "2026-06-14T01:28:26"
+  },
+  {
+    "file_name": "HKtgcovaIAAL04D.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKtgcovaIAAL04D.jpg",
+    "read_time": "2026-06-14T02:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26716,
+      "timestamp": "2026-06-14T02:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 158821,
+      "size_mb": 0.15,
+      "timestamp": "2026-06-14T02:01:18",
+      "download_attempts": 0
+    },
+    "full_text": "范明恩 \n\n全尺度记录📝 https://t.co/DsbTKmvEdo",
+    "publish_time": "2026-06-14T01:37:00"
+  },
+  {
+    "file_name": "HKtgcovboAAFMxV.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKtgcovboAAFMxV.jpg",
+    "read_time": "2026-06-14T02:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26717,
+      "timestamp": "2026-06-14T02:01:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 173076,
+      "size_mb": 0.17,
+      "timestamp": "2026-06-14T02:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "范明恩 \n\n全尺度记录📝 https://t.co/DsbTKmvEdo",
+    "publish_time": "2026-06-14T01:37:00"
+  },
+  {
+    "file_name": "HKtgcovaQAAcW-4.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HKtgcovaQAAcW-4.jpg",
+    "read_time": "2026-06-14T02:01:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26718,
+      "timestamp": "2026-06-14T02:01:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101110,
+      "size_mb": 0.1,
+      "timestamp": "2026-06-14T02:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "范明恩 \n\n全尺度记录📝 https://t.co/DsbTKmvEdo",
+    "publish_time": "2026-06-14T01:37:00"
   }
 ]
