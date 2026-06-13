@@ -144,14 +144,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (87MB > 50MB)",
       "timestamp": "2026-06-14T02:01:18",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 91576606,
       "size_mb": 87.33,
-      "timestamp": "2026-06-14T02:01:18",
+      "timestamp": "2026-06-14T03:01:11",
       "download_attempts": 0
     },
     "full_text": "https://t.co/aANRrbocuk",
@@ -234,5 +234,31 @@
     },
     "full_text": "范明恩 \n\n全尺度记录📝 https://t.co/DsbTKmvEdo",
     "publish_time": "2026-06-14T01:37:00"
+  },
+  {
+    "file_name": "V3iG8suMPpvUitjn.mp4",
+    "user": {
+      "screen_name": "G_ZH0211",
+      "name": "麻辣男同🍑"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2065860720453951488/vid/avc1/1280x720/V3iG8suMPpvUitjn.mp4?tag=27",
+    "read_time": "2026-06-14T03:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26719,
+      "timestamp": "2026-06-14T03:01:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 149579,
+      "size_mb": 0.14,
+      "timestamp": "2026-06-14T03:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "馋😋 https://t.co/ULDlK6yzz0",
+    "publish_time": "2026-06-14T02:15:55"
   }
 ]
