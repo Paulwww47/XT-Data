@@ -902,14 +902,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (63MB > 50MB)",
       "timestamp": "2026-06-13T10:01:25",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 66899768,
       "size_mb": 63.8,
-      "timestamp": "2026-06-13T10:01:25",
+      "timestamp": "2026-06-13T11:02:14",
       "download_attempts": 0
     },
     "full_text": "晨勃鸡巴很硬💎～～需要穿白袜撸射出来😆 https://t.co/7wD0r8ZQx5",
@@ -1096,5 +1096,33 @@
     },
     "full_text": "【2026年6月13日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/HAWZEWpwDi",
     "publish_time": "2026-06-13T09:59:34"
+  },
+  {
+    "file_name": "Gf8Arlfb0-WXfwWS.mp4",
+    "user": {
+      "screen_name": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2065582465809354754/vid/avc1/1920x1080/Gf8Arlfb0-WXfwWS.mp4?tag=27",
+    "read_time": "2026-06-13T11:02:12",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (84MB > 50MB)",
+      "timestamp": "2026-06-13T11:02:14",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 88537487,
+      "size_mb": 84.44,
+      "timestamp": "2026-06-13T11:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/FQHIR9zI6n",
+    "publish_time": "2026-06-13T10:15:04"
   }
 ]
