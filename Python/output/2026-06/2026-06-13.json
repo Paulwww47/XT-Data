@@ -1110,7 +1110,7 @@
     "upload_info": {
       "success": false,
       "error_type": "max_download_attempts",
-      "message": "403 Client Error: Forbidden for url: https://video.twimg.com/amplify_video/2065582465809354754/vid/avc1/1920x1080/Gf8Arlfb0-WXfwWS.mp4?tag=27",
+      "message": "连续下载失败10次",
       "timestamp": "2026-06-13T21:01:17",
       "notification_sent": true
     },
