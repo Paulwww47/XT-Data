@@ -193,5 +193,19 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2065918633772249174",
     "fullText": "https://t.co/wAM7C4TY2B",
     "publishTime": "2026-06-14T06:05:59"
+  },
+  {
+    "user": {
+      "screenName": "toplcjfjv",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2065946652188590080/vid/avc1/720x1280/ECTBQHsxWJX9614D.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/toplcjfjv/status/2065946742101856721",
+    "fullText": "早 https://t.co/XohweRXVEJ",
+    "publishTime": "2026-06-14T07:57:41"
   }
 ]

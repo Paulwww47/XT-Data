@@ -364,5 +364,31 @@
     },
     "full_text": "https://t.co/wAM7C4TY2B",
     "publish_time": "2026-06-14T06:05:59"
+  },
+  {
+    "file_name": "ECTBQHsxWJX9614D.mp4",
+    "user": {
+      "screen_name": "toplcjfjv",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2065946652188590080/vid/avc1/720x1280/ECTBQHsxWJX9614D.mp4?tag=27",
+    "read_time": "2026-06-14T08:02:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26724,
+      "timestamp": "2026-06-14T08:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5486634,
+      "size_mb": 5.23,
+      "timestamp": "2026-06-14T08:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "早 https://t.co/XohweRXVEJ",
+    "publish_time": "2026-06-14T07:57:41"
   }
 ]
