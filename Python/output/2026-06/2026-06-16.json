@@ -362,5 +362,31 @@
     },
     "full_text": "看看旧相册的东西😋 https://t.co/qBsKpRtZTO",
     "publish_time": "2026-06-16T04:35:22"
+  },
+  {
+    "file_name": "HK4mR_QbMAAg1Ls.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HK4mR_QbMAAg1Ls.jpg",
+    "read_time": "2026-06-16T06:01:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26922,
+      "timestamp": "2026-06-16T06:01:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 150267,
+      "size_mb": 0.14,
+      "timestamp": "2026-06-16T06:01:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/zWY96lG63T",
+    "publish_time": "2026-06-16T05:18:10"
   }
 ]
