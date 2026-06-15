@@ -1288,14 +1288,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (121MB > 50MB)",
       "timestamp": "2026-06-15T11:01:24",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 127752812,
       "size_mb": 121.83,
-      "timestamp": "2026-06-15T11:01:24",
+      "timestamp": "2026-06-15T12:02:15",
       "download_attempts": 0
     },
     "full_text": "joshy locky https://t.co/5qJ6oCKl7P",
@@ -1316,14 +1316,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (193MB > 50MB)",
       "timestamp": "2026-06-15T11:01:41",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 203299519,
       "size_mb": 193.88,
-      "timestamp": "2026-06-15T11:01:41",
+      "timestamp": "2026-06-15T12:02:16",
       "download_attempts": 0
     },
     "full_text": "joshy locky https://t.co/ceHogXkepE",
@@ -1432,5 +1432,137 @@
     },
     "full_text": "【2026年6月15日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/uT6CqbHZxt",
     "publish_time": "2026-06-15T10:32:18"
+  },
+  {
+    "file_name": "ArtC1a1A8DYoKcrJ.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2066345411430973440/vid/avc1/1080x1920/ArtC1a1A8DYoKcrJ.mp4?tag=27",
+    "read_time": "2026-06-15T12:02:03",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (231MB > 50MB)",
+      "timestamp": "2026-06-15T12:02:37",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 242722935,
+      "size_mb": 231.48,
+      "timestamp": "2026-06-15T12:02:37",
+      "download_attempts": 0
+    },
+    "full_text": "joshy locky https://t.co/NbzOwsZ7Bh",
+    "publish_time": "2026-06-15T11:11:52"
+  },
+  {
+    "file_name": "HK0uQS9aoAEAOfl.jpg",
+    "user": {
+      "screen_name": "Harry1910040",
+      "name": "糙哭过熊0"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HK0uQS9aoAEAOfl.jpg",
+    "read_time": "2026-06-15T12:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26856,
+      "timestamp": "2026-06-15T12:02:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 145577,
+      "size_mb": 0.14,
+      "timestamp": "2026-06-15T12:02:37",
+      "download_attempts": 0
+    },
+    "full_text": "过年的时候拍的感觉现在好像又胖了 https://t.co/3OvQyh0wb8",
+    "publish_time": "2026-06-15T11:14:32"
+  },
+  {
+    "file_name": "HK0xIMZXIAAtVXi.jpg",
+    "user": {
+      "screen_name": "youshu29016120",
+      "name": "youshu"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HK0xIMZXIAAtVXi.jpg",
+    "read_time": "2026-06-15T12:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26857,
+      "timestamp": "2026-06-15T12:02:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 100928,
+      "size_mb": 0.1,
+      "timestamp": "2026-06-15T12:02:39",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/QfNusM1DLF",
+    "publish_time": "2026-06-15T11:27:07"
+  },
+  {
+    "file_name": "HK0xIHxXsAAIt3H.jpg",
+    "user": {
+      "screen_name": "youshu29016120",
+      "name": "youshu"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HK0xIHxXsAAIt3H.jpg",
+    "read_time": "2026-06-15T12:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26858,
+      "timestamp": "2026-06-15T12:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 67022,
+      "size_mb": 0.06,
+      "timestamp": "2026-06-15T12:02:40",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/QfNusM1DLF",
+    "publish_time": "2026-06-15T11:27:07"
+  },
+  {
+    "file_name": "9atYIFqFy3b3b0T1.mp4",
+    "user": {
+      "screen_name": "YoungOu123",
+      "name": "Young Ou"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2066364964345143296/vid/avc1/720x1250/9atYIFqFy3b3b0T1.mp4?tag=27",
+    "read_time": "2026-06-15T12:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26859,
+      "timestamp": "2026-06-15T12:02:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 529538,
+      "size_mb": 0.51,
+      "timestamp": "2026-06-15T12:02:43",
+      "download_attempts": 0
+    },
+    "full_text": "来爸爸怀里🫂 https://t.co/lqNFCVKGek",
+    "publish_time": "2026-06-15T11:39:46"
   }
 ]
