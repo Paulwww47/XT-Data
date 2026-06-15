@@ -548,5 +548,33 @@
     "tweetUrl": "https://x.com/wei821216/status/2066407663983014108",
     "fullText": "https://t.co/tcjy7dHzWQ",
     "publishTime": "2026-06-15T14:29:13"
+  },
+  {
+    "user": {
+      "screenName": "L1010R",
+      "name": "1010"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/L1010R/status/2066419243265237439",
+    "fullText": "开这个号主要是因为自己好色和想发性感好看的擦边照",
+    "publishTime": "2026-06-15T15:15:14"
+  },
+  {
+    "user": {
+      "screenName": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2066419929017131008/pu/vid/avc1/1280x720/MH9QxfmOR8jW6HtD.mp4?tag=12",
+      "https://video.twimg.com/ext_tw_video/2066419950320041984/pu/vid/avc1/720x1280/mrcF5dSG78LDD5fA.mp4?tag=12",
+      "https://video.twimg.com/ext_tw_video/2066419964391878656/pu/vid/avc1/1280x720/aYNqndh7xFgoXcRW.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/bohaixiaochen/status/2066419976484131144",
+    "fullText": "午后弹弹 https://t.co/vCkzzTf316",
+    "publishTime": "2026-06-15T15:18:09"
   }
 ]
