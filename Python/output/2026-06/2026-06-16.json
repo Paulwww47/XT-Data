@@ -388,5 +388,83 @@
     },
     "full_text": "https://t.co/zWY96lG63T",
     "publish_time": "2026-06-16T05:18:10"
+  },
+  {
+    "file_name": "HK4zvvvbYAAgGyl.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HK4zvvvbYAAgGyl.jpg",
+    "read_time": "2026-06-16T07:01:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26923,
+      "timestamp": "2026-06-16T07:01:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 110765,
+      "size_mb": 0.11,
+      "timestamp": "2026-06-16T07:01:01",
+      "download_attempts": 0
+    },
+    "full_text": "yX.y2666 https://t.co/5rU16i4YbM",
+    "publish_time": "2026-06-16T06:17:02"
+  },
+  {
+    "file_name": "cgQ9YxG70gQ7McGJ.mp4",
+    "user": {
+      "screen_name": "c558668",
+      "name": "0m"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2065969953711546368/vid/avc1/960x720/cgQ9YxG70gQ7McGJ.mp4?tag=14",
+    "read_time": "2026-06-16T07:01:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26924,
+      "timestamp": "2026-06-16T07:01:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 21882271,
+      "size_mb": 20.87,
+      "timestamp": "2026-06-16T07:01:03",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/KURglbFJqR",
+    "publish_time": "2026-06-16T06:55:16"
+  },
+  {
+    "file_name": "e4bxopRApiIqUwGP.mp4",
+    "user": {
+      "screen_name": "c558668",
+      "name": "0m"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1900212951484596224/vid/avc1/720x1280/e4bxopRApiIqUwGP.mp4?tag=14",
+    "read_time": "2026-06-16T07:01:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26925,
+      "timestamp": "2026-06-16T07:01:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 27424145,
+      "size_mb": 26.15,
+      "timestamp": "2026-06-16T07:01:07",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/yNjnmA4eKA",
+    "publish_time": "2026-06-16T06:59:01"
   }
 ]
