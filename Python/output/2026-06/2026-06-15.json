@@ -1246,5 +1246,31 @@
     },
     "full_text": "https://t.co/Xz2oW8s8DB",
     "publish_time": "2026-06-15T08:27:07"
+  },
+  {
+    "file_name": "AvgDP1QoqP-JGoOn.mp4",
+    "user": {
+      "screen_name": "quebaner16598",
+      "name": "quebaner"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2066335826175574016/vid/avc1/720x1280/AvgDP1QoqP-JGoOn.mp4?tag=27",
+    "read_time": "2026-06-15T10:01:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26851,
+      "timestamp": "2026-06-15T10:01:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4947889,
+      "size_mb": 4.72,
+      "timestamp": "2026-06-15T10:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "Bounce along challenge🎉 https://t.co/msenINIR0z",
+    "publish_time": "2026-06-15T09:44:10"
   }
 ]
