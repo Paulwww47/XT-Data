@@ -664,14 +664,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (91MB > 50MB)",
       "timestamp": "2026-06-16T12:01:16",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 95667986,
       "size_mb": 91.24,
-      "timestamp": "2026-06-16T12:01:16",
+      "timestamp": "2026-06-16T13:01:05",
       "download_attempts": 0
     },
     "full_text": "👬男極性樂園👬 https://t.co/34hwcbW2Mf",
