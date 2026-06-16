@@ -199,5 +199,19 @@
     "tweetUrl": "https://x.com/c558668/status/2066656754562425101",
     "fullText": "https://t.co/yNjnmA4eKA",
     "publishTime": "2026-06-16T06:59:01"
+  },
+  {
+    "user": {
+      "screenName": "GuiCKun",
+      "name": "GuiCK"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2066667511047938048/vid/avc1/674x1198/ZtV62j0ia1FMbYzl.mp4?tag=28"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/GuiCKun/status/2066667585362608242",
+    "fullText": "透透气 https://t.co/fZcB2owMRD",
+    "publishTime": "2026-06-16T07:42:03"
   }
 ]

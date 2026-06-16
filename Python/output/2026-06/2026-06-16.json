@@ -466,5 +466,31 @@
     },
     "full_text": "https://t.co/yNjnmA4eKA",
     "publish_time": "2026-06-16T06:59:01"
+  },
+  {
+    "file_name": "ZtV62j0ia1FMbYzl.mp4",
+    "user": {
+      "screen_name": "GuiCKun",
+      "name": "GuiCK"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2066667511047938048/vid/avc1/674x1198/ZtV62j0ia1FMbYzl.mp4?tag=28",
+    "read_time": "2026-06-16T08:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26926,
+      "timestamp": "2026-06-16T08:01:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2128400,
+      "size_mb": 2.03,
+      "timestamp": "2026-06-16T08:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "透透气 https://t.co/fZcB2owMRD",
+    "publish_time": "2026-06-16T07:42:03"
   }
 ]
