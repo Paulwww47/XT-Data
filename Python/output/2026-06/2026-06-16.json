@@ -988,5 +988,31 @@
     },
     "full_text": "https://t.co/pLGU0Tm498",
     "publish_time": "2026-06-16T13:32:35"
+  },
+  {
+    "file_name": "6U2nUw0N2A4PnCpl.mp4",
+    "user": {
+      "screen_name": "imfenshuajiang",
+      "name": "我是一个粉刷匠"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2066763538249691136/vid/avc1/720x1280/6U2nUw0N2A4PnCpl.mp4?tag=28",
+    "read_time": "2026-06-16T15:01:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26945,
+      "timestamp": "2026-06-16T15:01:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1062866,
+      "size_mb": 1.01,
+      "timestamp": "2026-06-16T15:01:02",
+      "download_attempts": 0
+    },
+    "full_text": "学习去！ https://t.co/30m8Zx6p9l",
+    "publish_time": "2026-06-16T14:03:34"
   }
 ]
