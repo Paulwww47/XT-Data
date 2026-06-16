@@ -260,5 +260,57 @@
     },
     "full_text": "下个月一定要把下颌线瘦回来…… https://t.co/9WA9YRa2ci",
     "publish_time": "2026-06-17T03:17:34"
+  },
+  {
+    "file_name": "HK9kR5tboAAdP4P.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HK9kR5tboAAdP4P.jpg",
+    "read_time": "2026-06-17T05:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27011,
+      "timestamp": "2026-06-17T05:01:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 53772,
+      "size_mb": 0.05,
+      "timestamp": "2026-06-17T05:01:15",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4dN2btOYqR",
+    "publish_time": "2026-06-17T04:27:32"
+  },
+  {
+    "file_name": "NAhVwVspYhv0LuGU.mp4",
+    "user": {
+      "screen_name": "77baxi",
+      "name": "健身教练cd伪娘"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2065828083979194368/vid/avc1/320x568/NAhVwVspYhv0LuGU.mp4?tag=27",
+    "read_time": "2026-06-17T05:01:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27012,
+      "timestamp": "2026-06-17T05:01:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2206136,
+      "size_mb": 2.1,
+      "timestamp": "2026-06-17T05:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/74xjXXS1tW",
+    "publish_time": "2026-06-17T04:56:44"
   }
 ]
