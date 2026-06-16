@@ -1232,20 +1232,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HK6715Pb0AAW8O_.jpg",
     "read_time": "2026-06-16T17:01:13",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2026-06-16T17:01:35",
-      "notification_sent": false
+      "success": true,
+      "message_id": 26954,
+      "timestamp": "2026-06-16T18:01:14"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 32240,
       "size_mb": 0.03,
-      "timestamp": "2026-06-16T17:01:15",
+      "timestamp": "2026-06-16T18:01:12",
       "download_attempts": 0
     },
     "full_text": "https://t.co/1Q5hWBInHs",
@@ -1260,20 +1258,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HK7Bbj0aQAA9Ze3.jpg",
     "read_time": "2026-06-16T17:01:13",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2026-06-16T17:01:55",
-      "notification_sent": false
+      "success": true,
+      "message_id": 26955,
+      "timestamp": "2026-06-16T18:01:16"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 97382,
       "size_mb": 0.09,
-      "timestamp": "2026-06-16T17:01:35",
+      "timestamp": "2026-06-16T18:01:14",
       "download_attempts": 0
     },
     "full_text": "https://t.co/WQQGfweqCn",
@@ -1288,20 +1284,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HK7FiRYb0AAFY4l.jpg",
     "read_time": "2026-06-16T17:01:13",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2026-06-16T17:02:16",
-      "notification_sent": false
+      "success": true,
+      "message_id": 26956,
+      "timestamp": "2026-06-16T18:01:18"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 142705,
       "size_mb": 0.14,
-      "timestamp": "2026-06-16T17:01:55",
+      "timestamp": "2026-06-16T18:01:16",
       "download_attempts": 0
     },
     "full_text": "https://t.co/YUJWHAoM2J",
@@ -1316,20 +1310,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HK7FkLTbcAEZYQm.jpg",
     "read_time": "2026-06-16T17:01:13",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2026-06-16T17:02:36",
-      "notification_sent": false
+      "success": true,
+      "message_id": 26957,
+      "timestamp": "2026-06-16T18:01:19"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 141198,
       "size_mb": 0.13,
-      "timestamp": "2026-06-16T17:02:16",
+      "timestamp": "2026-06-16T18:01:18",
       "download_attempts": 0
     },
     "full_text": "https://t.co/sluYyjcHms",
@@ -1344,23 +1336,47 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HK7GThcacAA4Uos.jpg",
     "read_time": "2026-06-16T17:01:13",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2026-06-16T17:02:57",
-      "notification_sent": false
+      "success": true,
+      "message_id": 26958,
+      "timestamp": "2026-06-16T18:01:21"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 156527,
       "size_mb": 0.15,
-      "timestamp": "2026-06-16T17:02:37",
+      "timestamp": "2026-06-16T18:01:20",
       "download_attempts": 0
     },
     "full_text": "🈚️🧠🐶在哪？🤤\n#野爹 #无脑狗 #母狗 #肌肉 #sm #臭脚 #mlm #top #狠主 https://t.co/uYbeK35iIH",
     "publish_time": "2026-06-16T16:57:23"
+  },
+  {
+    "file_name": "HK7T2VjbAAEUJs4.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HK7T2VjbAAEUJs4.jpg",
+    "read_time": "2026-06-16T18:01:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 26959,
+      "timestamp": "2026-06-16T18:01:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 144831,
+      "size_mb": 0.14,
+      "timestamp": "2026-06-16T18:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "nelkay_sh https://t.co/oUy76Rve0t",
+    "publish_time": "2026-06-16T17:56:30"
   }
 ]
