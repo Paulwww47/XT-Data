@@ -144,17 +144,69 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (136MB > 50MB)",
       "timestamp": "2026-06-17T01:01:30",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 143020155,
       "size_mb": 136.39,
-      "timestamp": "2026-06-17T01:01:30",
+      "timestamp": "2026-06-17T02:01:10",
       "download_attempts": 0
     },
     "full_text": "好物分享，本人拿到手了亲测了三次，效果超级好，不刺激，起效也很快，持续时间蛮长的，抹了能忍住不飞你是这个👍@Orgieaoji https://t.co/NYJuuvxB3k",
     "publish_time": "2026-06-17T00:35:24"
+  },
+  {
+    "file_name": "l2cSnsFxBuZu-8qT.mp4",
+    "user": {
+      "screen_name": "acheng21501864",
+      "name": "Wave"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2066934962939674624/vid/avc1/720x960/l2cSnsFxBuZu-8qT.mp4?tag=28",
+    "read_time": "2026-06-17T02:01:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27007,
+      "timestamp": "2026-06-17T02:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 889650,
+      "size_mb": 0.85,
+      "timestamp": "2026-06-17T02:01:10",
+      "download_attempts": 0
+    },
+    "full_text": "正极戴着会被包起来，烧的不行了 https://t.co/KikW5SgdPU",
+    "publish_time": "2026-06-17T01:24:52"
+  },
+  {
+    "file_name": "HK88uLJaYAAtdED.jpg",
+    "user": {
+      "screen_name": "Doraemonphoto",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HK88uLJaYAAtdED.jpg",
+    "read_time": "2026-06-17T02:01:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27008,
+      "timestamp": "2026-06-17T02:01:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 82100,
+      "size_mb": 0.08,
+      "timestamp": "2026-06-17T02:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/FwRE3cgWJI",
+    "publish_time": "2026-06-17T01:34:42"
   }
 ]
