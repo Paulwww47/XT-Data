@@ -292,5 +292,33 @@
     "tweetUrl": "https://x.com/MoFrost_/status/2067075627782701218",
     "fullText": "https://t.co/mOi6srx42U",
     "publishTime": "2026-06-17T10:43:28"
+  },
+  {
+    "user": {
+      "screenName": "Louiewe123",
+      "name": "Louiewe卤蛋头"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HK_DbsebUAArYbm.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Louiewe123/status/2067085642690166990",
+    "fullText": "🧐 https://t.co/AyNk2qKept",
+    "publishTime": "2026-06-17T11:23:16"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2067087999603818496/vid/avc1/720x1280/rljla-apJ5ARqgFK.mp4?tag=28"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/2067088162732847170",
+    "fullText": "https://t.co/8eOjWRzVPP",
+    "publishTime": "2026-06-17T11:33:17"
   }
 ]

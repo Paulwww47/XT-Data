@@ -598,5 +598,57 @@
     },
     "full_text": "https://t.co/mOi6srx42U",
     "publish_time": "2026-06-17T10:43:28"
+  },
+  {
+    "file_name": "HK_DbsebUAArYbm.jpg",
+    "user": {
+      "screen_name": "Louiewe123",
+      "name": "Louiewe卤蛋头"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HK_DbsebUAArYbm.jpg",
+    "read_time": "2026-06-17T12:03:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27024,
+      "timestamp": "2026-06-17T12:03:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 129634,
+      "size_mb": 0.12,
+      "timestamp": "2026-06-17T12:03:00",
+      "download_attempts": 0
+    },
+    "full_text": "🧐 https://t.co/AyNk2qKept",
+    "publish_time": "2026-06-17T11:23:16"
+  },
+  {
+    "file_name": "rljla-apJ5ARqgFK.mp4",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2067087999603818496/vid/avc1/720x1280/rljla-apJ5ARqgFK.mp4?tag=28",
+    "read_time": "2026-06-17T12:03:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27025,
+      "timestamp": "2026-06-17T12:03:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2335195,
+      "size_mb": 2.23,
+      "timestamp": "2026-06-17T12:03:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/8eOjWRzVPP",
+    "publish_time": "2026-06-17T11:33:17"
   }
 ]
