@@ -258,5 +258,57 @@
     },
     "full_text": "凑上来 傻逼 https://t.co/wMz2WkDCdo",
     "publish_time": "2026-06-18T03:55:10"
+  },
+  {
+    "file_name": "HLCvKZKawAAPX8E.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLCvKZKawAAPX8E.jpg",
+    "read_time": "2026-06-18T05:02:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27106,
+      "timestamp": "2026-06-18T05:02:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 100153,
+      "size_mb": 0.1,
+      "timestamp": "2026-06-18T05:02:18",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vFXuHm90eb",
+    "publish_time": "2026-06-18T04:33:10"
+  },
+  {
+    "file_name": "HLCwDKAaYAEXGNZ.jpg",
+    "user": {
+      "screen_name": "Li2798345105",
+      "name": "Li"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLCwDKAaYAEXGNZ.jpg",
+    "read_time": "2026-06-18T05:02:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27107,
+      "timestamp": "2026-06-18T05:02:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 107802,
+      "size_mb": 0.1,
+      "timestamp": "2026-06-18T05:02:19",
+      "download_attempts": 0
+    },
+    "full_text": "🐶 https://t.co/ySmT8zo4tR",
+    "publish_time": "2026-06-18T04:37:04"
   }
 ]
