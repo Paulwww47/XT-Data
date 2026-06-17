@@ -808,5 +808,19 @@
     "tweetUrl": "https://x.com/youdi/status/2067184263242616967",
     "fullText": "https://t.co/lgWAFgMhIu",
     "publishTime": "2026-06-17T17:55:09"
+  },
+  {
+    "user": {
+      "screenName": "1296787769",
+      "name": "Shion"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLAqLUlbsAA4-HA.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/1296787769/status/2067198616297783412",
+    "fullText": "炒冷饭 https://t.co/kmpvto8ub9",
+    "publishTime": "2026-06-17T18:52:11"
   }
 ]
