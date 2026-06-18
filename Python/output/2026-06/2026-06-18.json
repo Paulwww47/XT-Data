@@ -310,5 +310,31 @@
     },
     "full_text": "🐶 https://t.co/ySmT8zo4tR",
     "publish_time": "2026-06-18T04:37:04"
+  },
+  {
+    "file_name": "Sl3n4i9OvqHYjG2N.mp4",
+    "user": {
+      "screen_name": "toplcjfjv",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2067395993277272064/vid/avc1/720x1280/Sl3n4i9OvqHYjG2N.mp4?tag=28",
+    "read_time": "2026-06-18T08:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27108,
+      "timestamp": "2026-06-18T08:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 16129777,
+      "size_mb": 15.38,
+      "timestamp": "2026-06-18T08:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "要上台北渡假了 https://t.co/5sMYcI4gEn",
+    "publish_time": "2026-06-18T07:57:11"
   }
 ]
