@@ -562,14 +562,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (364MB > 50MB)",
       "timestamp": "2026-06-20T05:02:10",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 382599978,
       "size_mb": 364.88,
-      "timestamp": "2026-06-20T05:02:10",
+      "timestamp": "2026-06-20T06:02:09",
       "download_attempts": 0
     },
     "full_text": "https://t.co/e3K2rKmW5C",
@@ -590,17 +590,121 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (52MB > 50MB)",
       "timestamp": "2026-06-20T05:02:11",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 54568808,
       "size_mb": 52.04,
-      "timestamp": "2026-06-20T05:02:11",
+      "timestamp": "2026-06-20T06:02:09",
       "download_attempts": 0
     },
     "full_text": "https://t.co/YluP8RK7xQ",
     "publish_time": "2026-06-20T04:53:36"
+  },
+  {
+    "file_name": "HLNPPHhasAAbYMY.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLNPPHhasAAbYMY.jpg",
+    "read_time": "2026-06-20T06:02:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27310,
+      "timestamp": "2026-06-20T06:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 133180,
+      "size_mb": 0.13,
+      "timestamp": "2026-06-20T06:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "qp9933 https://t.co/VKwOIb2OIA",
+    "publish_time": "2026-06-20T05:29:31"
+  },
+  {
+    "file_name": "HLNQ9q5acAAnu1o.jpg",
+    "user": {
+      "screen_name": "growncz",
+      "name": "阿巴阿巴"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLNQ9q5acAAnu1o.jpg",
+    "read_time": "2026-06-20T06:02:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27311,
+      "timestamp": "2026-06-20T06:02:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 215722,
+      "size_mb": 0.21,
+      "timestamp": "2026-06-20T06:02:12",
+      "download_attempts": 0
+    },
+    "full_text": "一个人的单间🤪🤪🤪还有没有大鸡巴来操我吧! https://t.co/2jF1KeFVcc",
+    "publish_time": "2026-06-20T05:37:06"
+  },
+  {
+    "file_name": "HLNQ9q7akAAJD9C.jpg",
+    "user": {
+      "screen_name": "growncz",
+      "name": "阿巴阿巴"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLNQ9q7akAAJD9C.jpg",
+    "read_time": "2026-06-20T06:02:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27312,
+      "timestamp": "2026-06-20T06:02:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 167181,
+      "size_mb": 0.16,
+      "timestamp": "2026-06-20T06:02:13",
+      "download_attempts": 0
+    },
+    "full_text": "一个人的单间🤪🤪🤪还有没有大鸡巴来操我吧! https://t.co/2jF1KeFVcc",
+    "publish_time": "2026-06-20T05:37:06"
+  },
+  {
+    "file_name": "HLNQ9q3bIAAw-Qz.jpg",
+    "user": {
+      "screen_name": "growncz",
+      "name": "阿巴阿巴"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLNQ9q3bIAAw-Qz.jpg",
+    "read_time": "2026-06-20T06:02:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27313,
+      "timestamp": "2026-06-20T06:02:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 109656,
+      "size_mb": 0.1,
+      "timestamp": "2026-06-20T06:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "一个人的单间🤪🤪🤪还有没有大鸡巴来操我吧! https://t.co/2jF1KeFVcc",
+    "publish_time": "2026-06-20T05:37:06"
   }
 ]
