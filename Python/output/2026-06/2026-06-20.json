@@ -196,14 +196,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (219MB > 50MB)",
       "timestamp": "2026-06-20T01:02:41",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 229799224,
       "size_mb": 219.15,
-      "timestamp": "2026-06-20T01:02:41",
+      "timestamp": "2026-06-20T02:02:30",
       "download_attempts": 0
     },
     "full_text": "👔西裝愛好者👔 https://t.co/OAjsSKITUG",
@@ -286,5 +286,161 @@
     },
     "full_text": "👔西裝愛好者👔 https://t.co/57A3et9YsM",
     "publish_time": "2026-06-20T00:18:02"
+  },
+  {
+    "file_name": "HLMZlOwXoAA9WVL.jpg",
+    "user": {
+      "screen_name": "undefinedjy",
+      "name": "JY"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLMZlOwXoAA9WVL.jpg",
+    "read_time": "2026-06-20T02:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27300,
+      "timestamp": "2026-06-20T02:02:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 303451,
+      "size_mb": 0.29,
+      "timestamp": "2026-06-20T02:02:30",
+      "download_attempts": 0
+    },
+    "full_text": "泡一泡扭一扭🛀 https://t.co/leTru4GCfy",
+    "publish_time": "2026-06-20T01:35:07"
+  },
+  {
+    "file_name": "HLMZl1TXgAAVLSj.jpg",
+    "user": {
+      "screen_name": "undefinedjy",
+      "name": "JY"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLMZl1TXgAAVLSj.jpg",
+    "read_time": "2026-06-20T02:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27301,
+      "timestamp": "2026-06-20T02:02:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 238628,
+      "size_mb": 0.23,
+      "timestamp": "2026-06-20T02:02:32",
+      "download_attempts": 0
+    },
+    "full_text": "泡一泡扭一扭🛀 https://t.co/leTru4GCfy",
+    "publish_time": "2026-06-20T01:35:07"
+  },
+  {
+    "file_name": "HLMarLEbsAAb3wG.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLMarLEbsAAb3wG.jpg",
+    "read_time": "2026-06-20T02:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27302,
+      "timestamp": "2026-06-20T02:02:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 188125,
+      "size_mb": 0.18,
+      "timestamp": "2026-06-20T02:02:33",
+      "download_attempts": 0
+    },
+    "full_text": "·\n豹豹 ：Your IG photo very good，we enjoy very much ✨\n🌞@azerbaobao \n\n端午安康🌿 https://t.co/XcOEGX0YUI",
+    "publish_time": "2026-06-20T01:39:52"
+  },
+  {
+    "file_name": "HLMarLDaIAAOhHM.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLMarLDaIAAOhHM.jpg",
+    "read_time": "2026-06-20T02:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27303,
+      "timestamp": "2026-06-20T02:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 140905,
+      "size_mb": 0.13,
+      "timestamp": "2026-06-20T02:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "·\n豹豹 ：Your IG photo very good，we enjoy very much ✨\n🌞@azerbaobao \n\n端午安康🌿 https://t.co/XcOEGX0YUI",
+    "publish_time": "2026-06-20T01:39:52"
+  },
+  {
+    "file_name": "HLMarLEakAAJsgt.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLMarLEakAAJsgt.jpg",
+    "read_time": "2026-06-20T02:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27304,
+      "timestamp": "2026-06-20T02:02:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 177863,
+      "size_mb": 0.17,
+      "timestamp": "2026-06-20T02:02:36",
+      "download_attempts": 0
+    },
+    "full_text": "·\n豹豹 ：Your IG photo very good，we enjoy very much ✨\n🌞@azerbaobao \n\n端午安康🌿 https://t.co/XcOEGX0YUI",
+    "publish_time": "2026-06-20T01:39:52"
+  },
+  {
+    "file_name": "HLMarLBaIAAP2zy.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLMarLBaIAAP2zy.jpg",
+    "read_time": "2026-06-20T02:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27305,
+      "timestamp": "2026-06-20T02:02:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 175819,
+      "size_mb": 0.17,
+      "timestamp": "2026-06-20T02:02:37",
+      "download_attempts": 0
+    },
+    "full_text": "·\n豹豹 ：Your IG photo very good，we enjoy very much ✨\n🌞@azerbaobao \n\n端午安康🌿 https://t.co/XcOEGX0YUI",
+    "publish_time": "2026-06-20T01:39:52"
   }
 ]
