@@ -546,5 +546,61 @@
     },
     "full_text": "抖音眼镜哥的裤子很轻薄！ https://t.co/GYfexRJkAM",
     "publish_time": "2026-06-20T03:59:01"
+  },
+  {
+    "file_name": "oM6VSr5zcyc_2ZmH.mp4",
+    "user": {
+      "screen_name": "cibxun0301",
+      "name": "蔡博轩"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2064698090414907392/vid/avc1/1080x1920/oM6VSr5zcyc_2ZmH.mp4?tag=27",
+    "read_time": "2026-06-20T05:02:06",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (364MB > 50MB)",
+      "timestamp": "2026-06-20T05:02:10",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 382599978,
+      "size_mb": 364.88,
+      "timestamp": "2026-06-20T05:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/e3K2rKmW5C",
+    "publish_time": "2026-06-20T04:50:03"
+  },
+  {
+    "file_name": "9G-XEpx_OSkzsuUr.mp4",
+    "user": {
+      "screen_name": "cibxun0301",
+      "name": "蔡博轩"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2067765213567594496/vid/avc1/1280x720/9G-XEpx_OSkzsuUr.mp4?tag=28",
+    "read_time": "2026-06-20T05:02:06",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (52MB > 50MB)",
+      "timestamp": "2026-06-20T05:02:11",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 54568808,
+      "size_mb": 52.04,
+      "timestamp": "2026-06-20T05:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/YluP8RK7xQ",
+    "publish_time": "2026-06-20T04:53:36"
   }
 ]
