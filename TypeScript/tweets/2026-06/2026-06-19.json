@@ -884,5 +884,49 @@
     "tweetUrl": "https://x.com/chen986903/status/2067903015546220897",
     "fullText": "端午节快乐，家人们～～～～ https://t.co/CAbALEIZJV",
     "publishTime": "2026-06-19T17:31:13"
+  },
+  {
+    "user": {
+      "screenName": "imrinno_hn",
+      "name": "Imhoanganh"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2067921449831305216/vid/avc1/720x1280/l2dZN0r7npDVb9M_.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/imrinno_hn/status/2067922140738036053",
+    "fullText": "Hey 1,2,3 \nIG henrynguyn.dn https://t.co/xls20l94c3",
+    "publishTime": "2026-06-19T18:47:13"
+  },
+  {
+    "user": {
+      "screenName": "quebaner16598",
+      "name": "quebaner"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLK9Q5WaQAAuWyt.jpg",
+      "https://pbs.twimg.com/media/HLK9Q5XaEAAYbo9.jpg",
+      "https://pbs.twimg.com/media/HLK9Q5jboAAxxpP.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/quebaner16598/status/2067923285841789124",
+    "fullText": "端午快乐🍃 https://t.co/W3mD7zVZAH",
+    "publishTime": "2026-06-19T18:51:46"
+  },
+  {
+    "user": {
+      "screenName": "aidenannnnn",
+      "name": "Aiden An🐱"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLK-j_FbAAA2JeQ.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/aidenannnnn/status/2067924710797787242",
+    "fullText": "? https://t.co/0kqnN7Vt7h",
+    "publishTime": "2026-06-19T18:57:25"
   }
 ]
