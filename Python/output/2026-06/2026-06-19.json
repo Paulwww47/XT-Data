@@ -492,5 +492,137 @@
     },
     "full_text": "祝大家端午节快乐\n天天有大肉棒吃\n天天开心 https://t.co/ryiXywas8F",
     "publish_time": "2026-06-19T07:06:23"
+  },
+  {
+    "file_name": "gwtLZPrQYvb34vLH.mp4",
+    "user": {
+      "screen_name": "wei821216",
+      "name": "rrr"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2067588126768517120/vid/avc1/1440x2560/gwtLZPrQYvb34vLH.mp4?tag=28",
+    "read_time": "2026-06-19T09:02:08",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (59MB > 50MB)",
+      "timestamp": "2026-06-19T09:02:09",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 62447180,
+      "size_mb": 59.55,
+      "timestamp": "2026-06-19T09:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/WUUUBCWvdR",
+    "publish_time": "2026-06-19T08:07:58"
+  },
+  {
+    "file_name": "pYc7MmrZWiKKhu6o.mp4",
+    "user": {
+      "screen_name": "wei821216",
+      "name": "rrr"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2065400957345923072/vid/avc1/720x1280/pYc7MmrZWiKKhu6o.mp4?tag=27",
+    "read_time": "2026-06-19T09:02:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27216,
+      "timestamp": "2026-06-19T09:02:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 19452831,
+      "size_mb": 18.55,
+      "timestamp": "2026-06-19T09:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/F8o3SADRap",
+    "publish_time": "2026-06-19T08:08:29"
+  },
+  {
+    "file_name": "eLA__EvIXL7HJ2TM.mp4",
+    "user": {
+      "screen_name": "wei821216",
+      "name": "rrr"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2057991348876455936/vid/avc1/720x1280/eLA__EvIXL7HJ2TM.mp4?tag=27",
+    "read_time": "2026-06-19T09:02:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27217,
+      "timestamp": "2026-06-19T09:02:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3657142,
+      "size_mb": 3.49,
+      "timestamp": "2026-06-19T09:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/UIiZcULOfm",
+    "publish_time": "2026-06-19T08:17:19"
+  },
+  {
+    "file_name": "HLIwVhPaEAATBUH.jpg",
+    "user": {
+      "screen_name": "muchuanze",
+      "name": "沐川泽 | 上海"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLIwVhPaEAATBUH.jpg",
+    "read_time": "2026-06-19T09:02:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27218,
+      "timestamp": "2026-06-19T09:02:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 175761,
+      "size_mb": 0.17,
+      "timestamp": "2026-06-19T09:02:17",
+      "download_attempts": 0
+    },
+    "full_text": "请你们吃个双黄肉粽 https://t.co/Iek9laRWWY",
+    "publish_time": "2026-06-19T08:36:02"
+  },
+  {
+    "file_name": "HLIyvbRbYAAXR-y.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLIyvbRbYAAXR-y.jpg",
+    "read_time": "2026-06-19T09:02:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27219,
+      "timestamp": "2026-06-19T09:02:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 183991,
+      "size_mb": 0.18,
+      "timestamp": "2026-06-19T09:02:17",
+      "download_attempts": 0
+    },
+    "full_text": "·\nThe Dragon Boat Festival（6.19）, also known as Duanwu Festival 端午节, has a history of over 2,000 years. While it originated as a festival to ward off diseases and evil spirits during the hot summer, its most famous origin story centers around a beloved historical figure https://t.co/Tdbx64UakR",
+    "publish_time": "2026-06-19T08:46:32"
   }
 ]
