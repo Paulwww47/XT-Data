@@ -1752,12 +1752,24 @@
       "name": "已婚直男",
       "screenName": "ganhao137864",
       "createdAt": "Sat Jan 03 17:30:35 +0000 2026",
-      "description": "最好的作品与你相遇🌳❤️",
+      "description": "更多的精彩内容，进群观赏👗【勾引直男】🍓努力的记者🍒长期经营🥕入群私信 https://t.co/epqeOYNb64",
       "entities": {
-        "description": {}
+        "description": {
+          "urls": [
+            {
+              "display_url": "t.me/saozhinan",
+              "expanded_url": "http://t.me/saozhinan",
+              "indices": [
+                36,
+                59
+              ],
+              "url": "https://t.co/epqeOYNb64"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2007504810115997698/1779592739",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2063407739020451840/IzPzEz6P_normal.jpg"
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2068145850396889088/T_SgHsfj_normal.jpg"
     }
   },
   {
@@ -2637,7 +2649,7 @@
         }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/703330800478003200/1660946663",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2057542278848360448/70kpyYTD_normal.jpg"
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2068071171153879041/L-bA8YuC_normal.jpg"
     }
   },
   {
@@ -6367,32 +6379,6 @@
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1787153160974614528/1739942123",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1892080467421298688/Ipzan7sJ_normal.jpg"
-    }
-  },
-  {
-    "restId": "2048373054422884352",
-    "legacy": {
-      "name": "妹妹",
-      "screenName": "zuiaiyewan2018",
-      "createdAt": "Sun Apr 26 12:06:33 +0000 2026",
-      "description": "更多的精彩内容，进群观赏👗【勾引直男】🍓努力的记者🍒长期经营🥕入群私信  https://t.co/NMj2E9w1fS",
-      "entities": {
-        "description": {
-          "urls": [
-            {
-              "display_url": "t.me/saozhinan",
-              "expanded_url": "http://t.me/saozhinan",
-              "indices": [
-                37,
-                60
-              ],
-              "url": "https://t.co/NMj2E9w1fS"
-            }
-          ]
-        }
-      },
-      "profileBannerUrl": "",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2060254679536386048/qX_vE9vd_normal.jpg"
     }
   },
   {

@@ -732,5 +732,59 @@
     },
     "full_text": "https://t.co/RDP1NBO021",
     "publish_time": "2026-06-20T06:37:31"
+  },
+  {
+    "file_name": "HLOGpNDaIAAalpu.jpg",
+    "user": {
+      "screen_name": "snkrss01",
+      "name": "snkrss（西安）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLOGpNDaIAAalpu.jpg",
+    "read_time": "2026-06-20T10:03:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27315,
+      "timestamp": "2026-06-20T10:03:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 117643,
+      "size_mb": 0.11,
+      "timestamp": "2026-06-20T10:03:03",
+      "download_attempts": 0
+    },
+    "full_text": "想吃直男 https://t.co/gxKSschwJd",
+    "publish_time": "2026-06-20T09:39:37"
+  },
+  {
+    "file_name": "ycjZAw_msdiM9hGx.mp4",
+    "user": {
+      "screen_name": "imfenshuajiang",
+      "name": "我是一个粉刷匠"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2067881410439106560/vid/avc1/720x1280/ycjZAw_msdiM9hGx.mp4?tag=28",
+    "read_time": "2026-06-20T10:03:02",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (757MB > 50MB)",
+      "timestamp": "2026-06-20T10:03:09",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 794758418,
+      "size_mb": 757.94,
+      "timestamp": "2026-06-20T10:03:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/HHiuvqHLfs",
+    "publish_time": "2026-06-20T09:55:19"
   }
 ]
