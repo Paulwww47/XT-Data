@@ -774,17 +774,69 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (757MB > 50MB)",
       "timestamp": "2026-06-20T10:03:09",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 794758418,
       "size_mb": 757.94,
-      "timestamp": "2026-06-20T10:03:09",
+      "timestamp": "2026-06-20T11:02:08",
       "download_attempts": 0
     },
     "full_text": "https://t.co/HHiuvqHLfs",
     "publish_time": "2026-06-20T09:55:19"
+  },
+  {
+    "file_name": "HLOPhjqaoAA9MCp.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLOPhjqaoAA9MCp.jpg",
+    "read_time": "2026-06-20T11:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27316,
+      "timestamp": "2026-06-20T11:02:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 122070,
+      "size_mb": 0.12,
+      "timestamp": "2026-06-20T11:02:08",
+      "download_attempts": 0
+    },
+    "full_text": "leon8.10 https://t.co/Ojg0Gccwpn",
+    "publish_time": "2026-06-20T10:10:25"
+  },
+  {
+    "file_name": "3n1RuoYrxPmwU-E9.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2068164899377987584/vid/avc1/480x854/3n1RuoYrxPmwU-E9.mp4?tag=14",
+    "read_time": "2026-06-20T11:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27317,
+      "timestamp": "2026-06-20T11:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2078970,
+      "size_mb": 1.98,
+      "timestamp": "2026-06-20T11:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年6月20日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/oRYIpDACBA",
+    "publish_time": "2026-06-20T10:52:09"
   }
 ]
