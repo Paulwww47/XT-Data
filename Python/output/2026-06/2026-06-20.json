@@ -2258,14 +2258,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (50MB > 50MB)",
       "timestamp": "2026-06-20T23:02:08",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 53441554,
       "size_mb": 50.97,
-      "timestamp": "2026-06-20T23:02:08",
+      "timestamp": "2026-06-21T00:02:58",
       "download_attempts": 0
     },
     "full_text": "Peel away the layers.\nLeave the pressure behind.\nStay with me, @yolo_aboy \nOne last push. 💪\n\n褪去裝飾，放下壓力\n陪我，完成最後一波衝刺\n\nhttps://t.co/YLTFp8kCEw https://t.co/jqcMjqNfte",
@@ -2400,5 +2400,161 @@
     },
     "full_text": "https://t.co/De8c0n0vtA",
     "publish_time": "2026-06-20T22:53:10"
+  },
+  {
+    "file_name": "HLRFIBTaUAA8WTf.jpg",
+    "user": {
+      "screen_name": "candymm_pp",
+      "name": "有人说我啃老"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLRFIBTaUAA8WTf.jpg",
+    "read_time": "2026-06-21T00:02:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27377,
+      "timestamp": "2026-06-21T00:03:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 75866,
+      "size_mb": 0.07,
+      "timestamp": "2026-06-21T00:02:58",
+      "download_attempts": 0
+    },
+    "full_text": "内裤撑爆了 https://t.co/xy7HJoPdvg",
+    "publish_time": "2026-06-20T23:23:50"
+  },
+  {
+    "file_name": "EihgjgMwZ8MgMC4j.mp4",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2068354269816946688/vid/avc1/1076x1920/EihgjgMwZ8MgMC4j.mp4?tag=28",
+    "read_time": "2026-06-21T00:02:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27378,
+      "timestamp": "2026-06-21T00:03:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 20311618,
+      "size_mb": 19.37,
+      "timestamp": "2026-06-21T00:03:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/u6lPhKQvX4",
+    "publish_time": "2026-06-20T23:30:01"
+  },
+  {
+    "file_name": "JAUNfYkkElZHKEmX.mp4",
+    "user": {
+      "screen_name": "Maxnicnix",
+      "name": "Max"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2057671765430841344/vid/avc1/960x720/JAUNfYkkElZHKEmX.mp4?tag=14",
+    "read_time": "2026-06-21T00:02:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27379,
+      "timestamp": "2026-06-21T00:03:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 50859088,
+      "size_mb": 48.5,
+      "timestamp": "2026-06-21T00:03:07",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/XZTty1INZu",
+    "publish_time": "2026-06-20T23:41:58"
+  },
+  {
+    "file_name": "HLRLiqda4AEE3sG.jpg",
+    "user": {
+      "screen_name": "QingyWilderness",
+      "name": "青野Aono"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLRLiqda4AEE3sG.jpg",
+    "read_time": "2026-06-21T00:02:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27380,
+      "timestamp": "2026-06-21T00:03:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 179121,
+      "size_mb": 0.17,
+      "timestamp": "2026-06-21T00:03:12",
+      "download_attempts": 0
+    },
+    "full_text": "要拿着吗 https://t.co/M0eVy2eDGy",
+    "publish_time": "2026-06-20T23:51:52"
+  },
+  {
+    "file_name": "HLRLjbuaYAALHjR.jpg",
+    "user": {
+      "screen_name": "QingyWilderness",
+      "name": "青野Aono"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLRLjbuaYAALHjR.jpg",
+    "read_time": "2026-06-21T00:02:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27381,
+      "timestamp": "2026-06-21T00:03:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 282184,
+      "size_mb": 0.27,
+      "timestamp": "2026-06-21T00:03:13",
+      "download_attempts": 0
+    },
+    "full_text": "神秘背面视角 https://t.co/KZYFLaWdw6",
+    "publish_time": "2026-06-20T23:51:57"
+  },
+  {
+    "file_name": "HLRLkAsbUAA04jz.jpg",
+    "user": {
+      "screen_name": "QingyWilderness",
+      "name": "青野Aono"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLRLkAsbUAA04jz.jpg",
+    "read_time": "2026-06-21T00:02:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27382,
+      "timestamp": "2026-06-21T00:03:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 246165,
+      "size_mb": 0.23,
+      "timestamp": "2026-06-21T00:03:15",
+      "download_attempts": 0
+    },
+    "full_text": "神秘背面视角 https://t.co/KZYFLaWdw6",
+    "publish_time": "2026-06-20T23:51:57"
   }
 ]
