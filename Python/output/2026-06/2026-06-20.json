@@ -1228,5 +1228,31 @@
     },
     "full_text": "闪现 https://t.co/AkiqdFw47Y",
     "publish_time": "2026-06-20T13:33:08"
+  },
+  {
+    "file_name": "HLPRqoDbUAAnAf5.jpg",
+    "user": {
+      "screen_name": "abdkym19",
+      "name": "keyoum"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLPRqoDbUAAnAf5.jpg",
+    "read_time": "2026-06-20T15:01:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27333,
+      "timestamp": "2026-06-20T15:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 53280,
+      "size_mb": 0.05,
+      "timestamp": "2026-06-20T15:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "我骂人be like https://t.co/xFqukIcVR7",
+    "publish_time": "2026-06-20T14:59:22"
   }
 ]
