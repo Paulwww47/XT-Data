@@ -1918,14 +1918,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (341MB > 50MB)",
       "timestamp": "2026-06-21T16:02:00",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 358596258,
       "size_mb": 341.98,
-      "timestamp": "2026-06-21T16:02:00",
+      "timestamp": "2026-06-21T17:02:07",
       "download_attempts": 0
     },
     "full_text": "https://t.co/fAwZIBd1US",
@@ -1946,14 +1946,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (537MB > 50MB)",
       "timestamp": "2026-06-21T16:02:01",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 563815973,
       "size_mb": 537.7,
-      "timestamp": "2026-06-21T16:02:01",
+      "timestamp": "2026-06-21T17:02:09",
       "download_attempts": 0
     },
     "full_text": "https://t.co/NdKMuQP6y9",
@@ -1984,5 +1984,83 @@
     },
     "full_text": "🌊 https://t.co/oSxaBSJoCZ",
     "publish_time": "2026-06-21T15:38:22"
+  },
+  {
+    "file_name": "HLUqBAZaQAAqpNh.jpg",
+    "user": {
+      "screen_name": "chen986903",
+      "name": "chen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLUqBAZaQAAqpNh.jpg",
+    "read_time": "2026-06-21T17:02:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27454,
+      "timestamp": "2026-06-21T17:02:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 135855,
+      "size_mb": 0.13,
+      "timestamp": "2026-06-21T17:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "我将调戏路过的每一个人 #健身男 https://t.co/tdNWrPs4qR",
+    "publish_time": "2026-06-21T16:03:53"
+  },
+  {
+    "file_name": "HLUqBAgacAEpd4L.jpg",
+    "user": {
+      "screen_name": "chen986903",
+      "name": "chen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLUqBAgacAEpd4L.jpg",
+    "read_time": "2026-06-21T17:02:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27455,
+      "timestamp": "2026-06-21T17:02:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 118724,
+      "size_mb": 0.11,
+      "timestamp": "2026-06-21T17:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "我将调戏路过的每一个人 #健身男 https://t.co/tdNWrPs4qR",
+    "publish_time": "2026-06-21T16:03:53"
+  },
+  {
+    "file_name": "HLUqBA4bIAEb3wp.jpg",
+    "user": {
+      "screen_name": "chen986903",
+      "name": "chen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLUqBA4bIAEb3wp.jpg",
+    "read_time": "2026-06-21T17:02:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27456,
+      "timestamp": "2026-06-21T17:02:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 126647,
+      "size_mb": 0.12,
+      "timestamp": "2026-06-21T17:02:13",
+      "download_attempts": 0
+    },
+    "full_text": "我将调戏路过的每一个人 #健身男 https://t.co/tdNWrPs4qR",
+    "publish_time": "2026-06-21T16:03:53"
   }
 ]
