@@ -272,5 +272,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2068465424300466517",
     "fullText": "https://t.co/FcNhwXjnae",
     "publishTime": "2026-06-21T06:46:02"
+  },
+  {
+    "user": {
+      "screenName": "SZionbaba",
+      "name": "zionbaba"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLS_BFZagAI-Jdi.jpg",
+      "https://pbs.twimg.com/media/HLS_BGZaoAAyIw-.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/SZionbaba/status/2068488162629001490",
+    "fullText": "今天是该你表现的节日 https://t.co/bYT4G0wLhu",
+    "publishTime": "2026-06-21T08:16:23"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLTB5YjbsAAhDrn.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2068491327004967009",
+    "fullText": "james_shih510 https://t.co/AIJaZub7gp",
+    "publishTime": "2026-06-21T08:28:57"
   }
 ]
