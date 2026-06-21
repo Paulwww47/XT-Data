@@ -1656,14 +1656,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (178MB > 50MB)",
       "timestamp": "2026-06-21T15:02:00",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 187600847,
       "size_mb": 178.91,
-      "timestamp": "2026-06-21T15:02:00",
+      "timestamp": "2026-06-21T16:01:56",
       "download_attempts": 0
     },
     "full_text": "👔西裝愛好者👔 https://t.co/sSTcj218zR",
@@ -1850,5 +1850,139 @@
     },
     "full_text": "入圈相遇\n错过，是为了下一次更好的相遇，如果相遇，我会更懂得如何珍惜，今生该遇到的人，都是前世修来的缘\n⬇️准备了一些福利回馈粉丝⬇️，无任何🚪费，不是广！🔥点击⬇️进群收藏哦 \n进入方式✈️TG:  https://t.co/IjRCEhnVYS\n入圈暗号：杰杰【秒回哦】 https://t.co/90CxwBppkY",
     "publish_time": "2026-06-21T14:56:59"
+  },
+  {
+    "file_name": "HLUdc9BagAAQXE_.jpg",
+    "user": {
+      "screen_name": "MoFrost_",
+      "name": "Mosura"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLUdc9BagAAQXE_.jpg",
+    "read_time": "2026-06-21T16:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27451,
+      "timestamp": "2026-06-21T16:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 103758,
+      "size_mb": 0.1,
+      "timestamp": "2026-06-21T16:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/E50sJlcqI7",
+    "publish_time": "2026-06-21T15:08:59"
+  },
+  {
+    "file_name": "HLUdc9IacAAzRa4.jpg",
+    "user": {
+      "screen_name": "MoFrost_",
+      "name": "Mosura"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLUdc9IacAAzRa4.jpg",
+    "read_time": "2026-06-21T16:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27452,
+      "timestamp": "2026-06-21T16:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 100921,
+      "size_mb": 0.1,
+      "timestamp": "2026-06-21T16:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/E50sJlcqI7",
+    "publish_time": "2026-06-21T15:08:59"
+  },
+  {
+    "file_name": "pQ4pn9NPZ0zxff6i.mp4",
+    "user": {
+      "screen_name": "cibxun0301",
+      "name": "蔡博轩"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2032019951159296003/vid/avc1/1080x1860/pQ4pn9NPZ0zxff6i.mp4?tag=21",
+    "read_time": "2026-06-21T16:01:54",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (341MB > 50MB)",
+      "timestamp": "2026-06-21T16:02:00",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 358596258,
+      "size_mb": 341.98,
+      "timestamp": "2026-06-21T16:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/fAwZIBd1US",
+    "publish_time": "2026-06-21T15:11:36"
+  },
+  {
+    "file_name": "XGm2kBKTOlQPtWzO.mp4",
+    "user": {
+      "screen_name": "Maxnicnix",
+      "name": "Max"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2068303951653650432/vid/avc1/1080x1860/XGm2kBKTOlQPtWzO.mp4?tag=28",
+    "read_time": "2026-06-21T16:01:54",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (537MB > 50MB)",
+      "timestamp": "2026-06-21T16:02:01",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 563815973,
+      "size_mb": 537.7,
+      "timestamp": "2026-06-21T16:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/NdKMuQP6y9",
+    "publish_time": "2026-06-21T15:17:21"
+  },
+  {
+    "file_name": "HLUkGxlbMAA3iRL.jpg",
+    "user": {
+      "screen_name": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLUkGxlbMAA3iRL.jpg",
+    "read_time": "2026-06-21T16:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27453,
+      "timestamp": "2026-06-21T16:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 273977,
+      "size_mb": 0.26,
+      "timestamp": "2026-06-21T16:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "🌊 https://t.co/oSxaBSJoCZ",
+    "publish_time": "2026-06-21T15:38:22"
   }
 ]
