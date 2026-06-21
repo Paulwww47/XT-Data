@@ -1144,5 +1144,111 @@
     },
     "full_text": "https://t.co/LcVlEgUbLZ",
     "publish_time": "2026-06-21T11:00:46"
+  },
+  {
+    "file_name": "HLTrFLiaAAAkyUH.mp4",
+    "user": {
+      "screen_name": "Uji_Hikaru",
+      "name": "虎不理"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/HLTrFLiaAAAkyUH.mp4",
+    "read_time": "2026-06-21T12:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27426,
+      "timestamp": "2026-06-21T12:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 61734,
+      "size_mb": 0.06,
+      "timestamp": "2026-06-21T12:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/eZNZbXPJCl",
+    "publish_time": "2026-06-21T11:28:58"
+  },
+  {
+    "file_name": "1rKpt6fQGKsbCOOm.mp4",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2068538502804119552/vid/avc1/1280x720/1rKpt6fQGKsbCOOm.mp4?tag=28",
+    "read_time": "2026-06-21T12:01:57",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (127MB > 50MB)",
+      "timestamp": "2026-06-21T12:02:01",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 133737744,
+      "size_mb": 127.54,
+      "timestamp": "2026-06-21T12:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "运动完射精记录 https://t.co/EgS8ZuBa3c",
+    "publish_time": "2026-06-21T11:41:33"
+  },
+  {
+    "file_name": "4QKBMAOrQp4gqBhk.mp4",
+    "user": {
+      "screen_name": "ck582023nmy6033",
+      "name": "佛系人生"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2068540719799947264/vid/avc1/698x1280/4QKBMAOrQp4gqBhk.mp4?tag=28",
+    "read_time": "2026-06-21T12:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27427,
+      "timestamp": "2026-06-21T12:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5938322,
+      "size_mb": 5.66,
+      "timestamp": "2026-06-21T12:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "直播日常 完整版在這\nhttps://t.co/uCB55iLad7 https://t.co/yLpduoSU6k",
+    "publish_time": "2026-06-21T11:45:33"
+  },
+  {
+    "file_name": "HLTw758bgAAb9az.jpg",
+    "user": {
+      "screen_name": "aidenannnnn",
+      "name": "Aiden An🐱"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLTw758bgAAb9az.jpg",
+    "read_time": "2026-06-21T12:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27428,
+      "timestamp": "2026-06-21T12:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 137942,
+      "size_mb": 0.13,
+      "timestamp": "2026-06-21T12:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "两周打卡 https://t.co/bwgEr1xweS",
+    "publish_time": "2026-06-21T11:54:27"
   }
 ]
