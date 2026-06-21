@@ -950,14 +950,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (71MB > 50MB)",
       "timestamp": "2026-06-21T10:02:05",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 75368592,
       "size_mb": 71.88,
-      "timestamp": "2026-06-21T10:02:05",
+      "timestamp": "2026-06-21T11:01:59",
       "download_attempts": 0
     },
     "full_text": "·\n这里三个帅哥的solo视频合集都在任壬老师的HORMONE 系列👍\n. https://t.co/dxwQPLy0C5",
@@ -1066,5 +1066,83 @@
     },
     "full_text": "【2026年6月21日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/oe9iqR7ETB",
     "publish_time": "2026-06-21T09:56:24"
+  },
+  {
+    "file_name": "HLTbBluacAAqxai.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLTbBluacAAqxai.jpg",
+    "read_time": "2026-06-21T11:01:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27423,
+      "timestamp": "2026-06-21T11:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 103469,
+      "size_mb": 0.1,
+      "timestamp": "2026-06-21T11:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "zhuangibo https://t.co/CtzBvUPscD",
+    "publish_time": "2026-06-21T10:18:44"
+  },
+  {
+    "file_name": "WVSvHUBKW-d1RGMA.mp4",
+    "user": {
+      "screen_name": "bohaixiaochen",
+      "name": "芋泥再多加芋圆"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2068521598534254592/pu/vid/avc1/1280x720/WVSvHUBKW-d1RGMA.mp4?tag=12",
+    "read_time": "2026-06-21T11:01:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27424,
+      "timestamp": "2026-06-21T11:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 303465,
+      "size_mb": 0.29,
+      "timestamp": "2026-06-21T11:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "陈伯说早时间 https://t.co/OtuSbgchfF",
+    "publish_time": "2026-06-21T10:29:17"
+  },
+  {
+    "file_name": "HLTkoHdawAAwhjS.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLTkoHdawAAwhjS.png",
+    "read_time": "2026-06-21T11:01:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27425,
+      "timestamp": "2026-06-21T11:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 287468,
+      "size_mb": 0.27,
+      "timestamp": "2026-06-21T11:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/LcVlEgUbLZ",
+    "publish_time": "2026-06-21T11:00:46"
   }
 ]
