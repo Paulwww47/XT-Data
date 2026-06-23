@@ -2692,14 +2692,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (82MB > 50MB)",
       "timestamp": "2026-06-24T06:03:16",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 86787055,
       "size_mb": 82.77,
-      "timestamp": "2026-06-24T06:03:16",
+      "timestamp": "2026-06-24T07:02:11",
       "download_attempts": 0
     },
     "full_text": "《That Summer》\n\nAm I a freak?\n\nWhy am I so obsessed with something\nvintage,\nsimple,\nyet quietly ornate?\n\nMaybe.  \nThat's why I ran after you, @supermankitty1 \nhoping to keep the warmth, the silence, the moment.\n\nMemories are not kept by time.\nThey live on through the body. https://t.co/zaIiBbVPsl",

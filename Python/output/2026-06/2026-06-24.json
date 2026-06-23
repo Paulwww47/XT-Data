@@ -248,14 +248,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (88MB > 50MB)",
       "timestamp": "2026-06-24T06:03:44",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 92564301,
       "size_mb": 88.28,
-      "timestamp": "2026-06-24T06:03:44",
+      "timestamp": "2026-06-24T07:02:11",
       "download_attempts": 0
     },
     "full_text": "https://t.co/7HykMac60F",
@@ -572,5 +572,31 @@
     },
     "full_text": "直接给你10斤行不行啊🥵 https://t.co/azncrAQ5kr",
     "publish_time": "2026-06-24T05:44:22"
+  },
+  {
+    "file_name": "HLiA6G8XIAAk7WT.jpg",
+    "user": {
+      "screen_name": "ZouJie31965",
+      "name": "Mr.CumBoY"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLiA6G8XIAAk7WT.jpg",
+    "read_time": "2026-06-24T07:02:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27690,
+      "timestamp": "2026-06-24T07:02:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 121725,
+      "size_mb": 0.12,
+      "timestamp": "2026-06-24T07:02:12",
+      "download_attempts": 0
+    },
+    "full_text": "#想玩直男 https://t.co/zw1HZYeqod",
+    "publish_time": "2026-06-24T06:18:57"
   }
 ]
