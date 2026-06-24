@@ -90,5 +90,33 @@
     "tweetUrl": "https://x.com/bohaixiaochen/status/2069823076083323175",
     "fullText": "黑袜训练记录📝 https://t.co/1ottgeQeCU",
     "publishTime": "2026-06-25T00:40:51"
+  },
+  {
+    "user": {
+      "screenName": "c558668",
+      "name": "0m"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2069652533283553280/vid/avc1/720x1280/ZNynJ5-eIwttbPhv.mp4?tag=28"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/c558668/status/2069833509158735879",
+    "fullText": "https://t.co/Lqph9vrQin",
+    "publishTime": "2026-06-25T01:22:18"
+  },
+  {
+    "user": {
+      "screenName": "c558668",
+      "name": "0m"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2033177787092385793/vid/avc1/720x1280/0szmy1je9WbKzNHu.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/c558668/status/2069834523144253792",
+    "fullText": "https://t.co/gVa3ZLmxs6",
+    "publishTime": "2026-06-25T01:26:20"
   }
 ]
