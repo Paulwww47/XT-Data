@@ -434,5 +434,47 @@
     "tweetUrl": "https://x.com/quebaner16598/status/2069637560209661991",
     "fullText": "🦋 https://t.co/bnoEjiYGZ2",
     "publishTime": "2026-06-24T12:23:41"
+  },
+  {
+    "user": {
+      "screenName": "captainshagang",
+      "name": "沙岗队长"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2069655478125449216/pu/vid/avc1/960x720/aK0EkSiswPaImeLc.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/captainshagang/status/2069655600628400573",
+    "fullText": "上海健身一对一 https://t.co/NeE61JKWCW",
+    "publishTime": "2026-06-24T13:35:22"
+  },
+  {
+    "user": {
+      "screenName": "hopechen0312",
+      "name": "hope"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLjm3QhaIAAh9mX.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/hopechen0312/status/2069657873102336083",
+    "fullText": "光影之間 https://t.co/SoYeJvEzRR",
+    "publishTime": "2026-06-24T13:44:23"
+  },
+  {
+    "user": {
+      "screenName": "chuanzhang0320",
+      "name": "Appetency."
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLjo6nZaAAAXttM.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/chuanzhang0320/status/2069660134692024612",
+    "fullText": "看海 https://t.co/DDQwF345jM",
+    "publishTime": "2026-06-24T13:53:23"
   }
 ]
