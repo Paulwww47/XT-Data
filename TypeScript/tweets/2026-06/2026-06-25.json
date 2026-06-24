@@ -118,5 +118,33 @@
     "tweetUrl": "https://x.com/c558668/status/2069834523144253792",
     "fullText": "https://t.co/gVa3ZLmxs6",
     "publishTime": "2026-06-25T01:26:20"
+  },
+  {
+    "user": {
+      "screenName": "c558668",
+      "name": "0m"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2046955660102029312/vid/avc1/720x1280/idVsDa7-AepooF_m.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/c558668/status/2069853779323973871",
+    "fullText": "https://t.co/bHmYscbC97",
+    "publishTime": "2026-06-25T02:42:51"
+  },
+  {
+    "user": {
+      "screenName": "hhh752093296",
+      "name": "大力宝宝"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2069855959552589824/vid/avc1/720x1280/t0iyAHx5hMvORYu_.mp4?tag=28"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/hhh752093296/status/2069856056927469656",
+    "fullText": "张嘴 https://t.co/37s4WAVa90",
+    "publishTime": "2026-06-25T02:51:54"
   }
 ]
