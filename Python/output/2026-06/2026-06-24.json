@@ -1846,5 +1846,109 @@
     },
     "full_text": "https://t.co/j54fN151Ih",
     "publish_time": "2026-06-24T20:58:42"
+  },
+  {
+    "file_name": "8TXc07DJaI2uckCP.mp4",
+    "user": {
+      "screen_name": "nlgzwmz0",
+      "name": "Vanda"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2069776693254832128/vid/avc1/720x1280/8TXc07DJaI2uckCP.mp4?tag=28",
+    "read_time": "2026-06-24T22:02:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27739,
+      "timestamp": "2026-06-24T22:02:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4902461,
+      "size_mb": 4.68,
+      "timestamp": "2026-06-24T22:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/BiwUqNGOR0",
+    "publish_time": "2026-06-24T21:36:54"
+  },
+  {
+    "file_name": "HLlWZL0WMAIMVbq.jpg",
+    "user": {
+      "screen_name": "DBH76",
+      "name": "Deru"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLlWZL0WMAIMVbq.jpg",
+    "read_time": "2026-06-24T22:02:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27740,
+      "timestamp": "2026-06-24T22:02:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 95556,
+      "size_mb": 0.09,
+      "timestamp": "2026-06-24T22:02:18",
+      "download_attempts": 0
+    },
+    "full_text": "🥸 https://t.co/c1Vad5VLSY",
+    "publish_time": "2026-06-24T21:51:42"
+  },
+  {
+    "file_name": "HLlX-f7W4AAiTTP.jpg",
+    "user": {
+      "screen_name": "jinmcleck1",
+      "name": "Juanto"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLlX-f7W4AAiTTP.jpg",
+    "read_time": "2026-06-24T22:02:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27741,
+      "timestamp": "2026-06-24T22:02:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 106612,
+      "size_mb": 0.1,
+      "timestamp": "2026-06-24T22:02:18",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/WSJOtXFT9J",
+    "publish_time": "2026-06-24T21:58:35"
+  },
+  {
+    "file_name": "HLlX-giWcAErF1a.jpg",
+    "user": {
+      "screen_name": "jinmcleck1",
+      "name": "Juanto"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLlX-giWcAErF1a.jpg",
+    "read_time": "2026-06-24T22:02:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27742,
+      "timestamp": "2026-06-24T22:02:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 127925,
+      "size_mb": 0.12,
+      "timestamp": "2026-06-24T22:02:19",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/WSJOtXFT9J",
+    "publish_time": "2026-06-24T21:58:35"
   }
 ]
