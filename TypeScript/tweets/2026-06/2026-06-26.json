@@ -156,5 +156,36 @@
     "tweetUrl": "https://x.com/xudieS/status/2070201735071867155",
     "fullText": "好不容易调来的双性恋 https://t.co/UGAhJpK9Uh",
     "publishTime": "2026-06-26T01:45:30"
+  },
+  {
+    "user": {
+      "screenName": "brooklyn29540",
+      "name": "不要问我从哪里来"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLradN-a8AA4eeq.jpg",
+      "https://pbs.twimg.com/media/HLradN-bsAAsnin.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2070207174236848128/vid/avc1/720x1280/0mvRun47N2CjJlE9.mp4?tag=28"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/brooklyn29540/status/2070207240276226155",
+    "fullText": "上海某健身教练，送给大家 https://t.co/Qa8BQPkikU",
+    "publishTime": "2026-06-26T02:07:23"
+  },
+  {
+    "user": {
+      "screenName": "inspiredPeng",
+      "name": "地空捣蛋"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2070212459944914944/vid/avc1/590x1280/HFbEV7vzF_zCpjHe.mp4?tag=28"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/inspiredPeng/status/2070212527850676613",
+    "fullText": "开发了一个聊骚App，大语言模型是自己喂养的。没谁了￼￼🫪 https://t.co/IJE8JQ1zjO",
+    "publishTime": "2026-06-26T02:28:23"
   }
 ]
