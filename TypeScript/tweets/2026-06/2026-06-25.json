@@ -858,5 +858,33 @@
     "tweetUrl": "https://x.com/zi80260/status/2070094177996795916",
     "fullText": "压抑了...",
     "publishTime": "2026-06-25T18:38:07"
+  },
+  {
+    "user": {
+      "screenName": "Divo1765100",
+      "name": "Divo"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLp5bimawAAFGNV.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Divo1765100/status/2070100500532666807",
+    "fullText": "🐻 https://t.co/ylcjv2KMx8",
+    "publishTime": "2026-06-25T19:03:14"
+  },
+  {
+    "user": {
+      "screenName": "shuitatata",
+      "name": "岛我脸上"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2070108383429210112/vid/avc1/720x1280/kMYiClGR4sRlumi6.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/shuitatata/status/2070109334261113257",
+    "fullText": "可以调自动挡和手动挡的飞机杯，还能查看总共使用时长，记录飞机时间。@guaishoujihe_01 @Monsterhub2024 https://t.co/xyiqhZvBTM",
+    "publishTime": "2026-06-25T19:38:20"
   }
 ]
