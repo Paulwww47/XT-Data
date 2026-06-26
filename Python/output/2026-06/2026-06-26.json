@@ -1324,5 +1324,137 @@
     },
     "full_text": "让狗把毛剃了 https://t.co/IZRjO4lqP6",
     "publish_time": "2026-06-26T16:00:59"
+  },
+  {
+    "file_name": "HLukMYKbkAA48kI.jpg",
+    "user": {
+      "screen_name": "SZionbaba",
+      "name": "zionbaba"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLukMYKbkAA48kI.jpg",
+    "read_time": "2026-06-26T17:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27926,
+      "timestamp": "2026-06-26T17:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 141357,
+      "size_mb": 0.13,
+      "timestamp": "2026-06-26T17:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "傻逼知道该清理哪里吗？\n对！手指的位置。 https://t.co/sBniIsOQuI",
+    "publish_time": "2026-06-26T16:48:43"
+  },
+  {
+    "file_name": "HLukMYLa0AASARo.jpg",
+    "user": {
+      "screen_name": "SZionbaba",
+      "name": "zionbaba"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLukMYLa0AASARo.jpg",
+    "read_time": "2026-06-26T17:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27927,
+      "timestamp": "2026-06-26T17:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 119340,
+      "size_mb": 0.11,
+      "timestamp": "2026-06-26T17:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "傻逼知道该清理哪里吗？\n对！手指的位置。 https://t.co/sBniIsOQuI",
+    "publish_time": "2026-06-26T16:48:43"
+  },
+  {
+    "file_name": "-zjeE678CcAsoZIe.mp4",
+    "user": {
+      "screen_name": "Happyali0809",
+      "name": "黑皮阿黎"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2070430516684419072/vid/avc1/720x1280/-zjeE678CcAsoZIe.mp4?tag=28",
+    "read_time": "2026-06-26T17:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27928,
+      "timestamp": "2026-06-26T17:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1696907,
+      "size_mb": 1.62,
+      "timestamp": "2026-06-26T17:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "好久没开荤了哈哈哈 https://t.co/biRxEBznAf",
+    "publish_time": "2026-06-26T16:54:52"
+  },
+  {
+    "file_name": "HLulvSnbwAAgPVO.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLulvSnbwAAgPVO.jpg",
+    "read_time": "2026-06-26T17:01:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27929,
+      "timestamp": "2026-06-26T17:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 56371,
+      "size_mb": 0.05,
+      "timestamp": "2026-06-26T17:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "ming_930zz https://t.co/zjkUYFqNKA",
+    "publish_time": "2026-06-26T16:55:18"
+  },
+  {
+    "file_name": "kshryM01XdYM2yI8.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2070430134927261696/vid/avc1/1080x1920/kshryM01XdYM2yI8.mp4?tag=28",
+    "read_time": "2026-06-26T17:01:34",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (118MB > 50MB)",
+      "timestamp": "2026-06-26T17:01:52",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 124416367,
+      "size_mb": 118.65,
+      "timestamp": "2026-06-26T17:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "kengojp https://t.co/nFe0HoyEsF",
+    "publish_time": "2026-06-26T16:55:33"
   }
 ]
