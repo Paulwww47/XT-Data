@@ -648,5 +648,57 @@
     },
     "full_text": "暴雨假 呵呵 https://t.co/HyHi0jCIEJ",
     "publish_time": "2026-06-26T07:03:20"
+  },
+  {
+    "file_name": "DcW8oBGpPFdu2saL.mp4",
+    "user": {
+      "screen_name": "toplcjfjv",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2070299856053399552/vid/avc1/720x1280/DcW8oBGpPFdu2saL.mp4?tag=28",
+    "read_time": "2026-06-26T09:01:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27894,
+      "timestamp": "2026-06-26T09:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 10830174,
+      "size_mb": 10.33,
+      "timestamp": "2026-06-26T09:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "睡飽 https://t.co/quPdGu1c4h",
+    "publish_time": "2026-06-26T08:15:57"
+  },
+  {
+    "file_name": "HLs1607acAAuHZH.jpg",
+    "user": {
+      "screen_name": "imfenshuajiang",
+      "name": "我是一个粉刷匠"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLs1607acAAuHZH.jpg",
+    "read_time": "2026-06-26T09:01:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27895,
+      "timestamp": "2026-06-26T09:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 244511,
+      "size_mb": 0.23,
+      "timestamp": "2026-06-26T09:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "和金鱼通电话\n它住在靴子里！ https://t.co/E44fHxc14C",
+    "publish_time": "2026-06-26T08:46:46"
   }
 ]

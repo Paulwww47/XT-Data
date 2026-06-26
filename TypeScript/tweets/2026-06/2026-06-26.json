@@ -243,5 +243,57 @@
     "tweetUrl": "https://x.com/toplcjfjv/status/2070281720696648115",
     "fullText": "暴雨假 呵呵 https://t.co/HyHi0jCIEJ",
     "publishTime": "2026-06-26T07:03:20"
+  },
+  {
+    "user": {
+      "screenName": "xvszrxq",
+      "name": "Pupfool"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/xvszrxq/status/2070297985683234875",
+    "fullText": "在找到主人前首先得活著",
+    "publishTime": "2026-06-26T08:07:58"
+  },
+  {
+    "user": {
+      "screenName": "toplcjfjv",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2070299856053399552/vid/avc1/720x1280/DcW8oBGpPFdu2saL.mp4?tag=28"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/toplcjfjv/status/2070299992586400012",
+    "fullText": "睡飽 https://t.co/quPdGu1c4h",
+    "publishTime": "2026-06-26T08:15:57"
+  },
+  {
+    "user": {
+      "screenName": "imfenshuajiang",
+      "name": "我是一个粉刷匠"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HLs1607acAAuHZH.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/imfenshuajiang/status/2070307748278157750",
+    "fullText": "和金鱼通电话\n它住在靴子里！ https://t.co/E44fHxc14C",
+    "publishTime": "2026-06-26T08:46:46"
+  },
+  {
+    "user": {
+      "screenName": "holy___cannoli",
+      "name": "dp"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/holy___cannoli/status/2070310481445744722",
+    "fullText": "Has anyone ever paid an Etsy witch for a weather spell",
+    "publishTime": "2026-06-26T08:57:37"
   }
 ]
