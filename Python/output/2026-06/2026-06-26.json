@@ -1444,17 +1444,69 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (118MB > 50MB)",
       "timestamp": "2026-06-26T17:01:52",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 124416367,
       "size_mb": 118.65,
-      "timestamp": "2026-06-26T17:01:52",
+      "timestamp": "2026-06-26T18:01:31",
       "download_attempts": 0
     },
     "full_text": "kengojp https://t.co/nFe0HoyEsF",
     "publish_time": "2026-06-26T16:55:33"
+  },
+  {
+    "file_name": "S_NzfiYoKKVmeL7e.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2070431548437102592/vid/avc1/612x1080/S_NzfiYoKKVmeL7e.mp4?tag=28",
+    "read_time": "2026-06-26T18:01:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27930,
+      "timestamp": "2026-06-26T18:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 33347851,
+      "size_mb": 31.8,
+      "timestamp": "2026-06-26T18:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "八级大狂风-高弹白袜堕落排精 https://t.co/3pIymEsm4K",
+    "publish_time": "2026-06-26T17:06:02"
+  },
+  {
+    "file_name": "HLusS95bEAAtpPv.jpg",
+    "user": {
+      "screen_name": "liangguai1",
+      "name": "亮拐"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLusS95bEAAtpPv.jpg",
+    "read_time": "2026-06-26T18:01:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27931,
+      "timestamp": "2026-06-26T18:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 135192,
+      "size_mb": 0.13,
+      "timestamp": "2026-06-26T18:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/NfB823fBUf",
+    "publish_time": "2026-06-26T17:24:05"
   }
 ]
