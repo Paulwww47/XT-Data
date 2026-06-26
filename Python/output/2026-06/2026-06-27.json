@@ -284,5 +284,57 @@
     },
     "full_text": "好想谈恋爱 https://t.co/ptfuHreSK3",
     "publish_time": "2026-06-27T01:55:32"
+  },
+  {
+    "file_name": "HLxUHSpbIAAlMZk.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HLxUHSpbIAAlMZk.jpg",
+    "read_time": "2026-06-27T06:01:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27966,
+      "timestamp": "2026-06-27T06:01:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 98990,
+      "size_mb": 0.09,
+      "timestamp": "2026-06-27T06:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/0gdq5uUIde",
+    "publish_time": "2026-06-27T05:37:09"
+  },
+  {
+    "file_name": "cnpLa8Vw3xr_E_sx.mp4",
+    "user": {
+      "screen_name": "toplcjfjv",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2070625343501975552/vid/avc1/720x1280/cnpLa8Vw3xr_E_sx.mp4?tag=28",
+    "read_time": "2026-06-27T06:01:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 27967,
+      "timestamp": "2026-06-27T06:01:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 6343399,
+      "size_mb": 6.05,
+      "timestamp": "2026-06-27T06:01:48",
+      "download_attempts": 0
+    },
+    "full_text": "週六 https://t.co/BWXKmGB7j9",
+    "publish_time": "2026-06-27T05:49:11"
   }
 ]
