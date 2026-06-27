@@ -274,14 +274,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (53MB > 50MB)",
       "timestamp": "2026-06-28T03:01:50",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 56423463,
       "size_mb": 53.81,
-      "timestamp": "2026-06-28T03:01:50",
+      "timestamp": "2026-06-28T04:01:43",
       "download_attempts": 0
     },
     "full_text": "https://t.co/OlrupMO5Mi",
@@ -302,17 +302,147 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (702MB > 50MB)",
       "timestamp": "2026-06-28T03:01:53",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 737026785,
       "size_mb": 702.88,
-      "timestamp": "2026-06-28T03:01:53",
+      "timestamp": "2026-06-28T04:01:58",
       "download_attempts": 0
     },
     "full_text": "https://t.co/NE6cWHmAIQ",
     "publish_time": "2026-06-28T02:48:56"
+  },
+  {
+    "file_name": "HL16kUBbEAAFBV5.jpg",
+    "user": {
+      "screen_name": "dunzh299016",
+      "name": "吉吉"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HL16kUBbEAAFBV5.jpg",
+    "read_time": "2026-06-28T04:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28042,
+      "timestamp": "2026-06-28T04:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 84556,
+      "size_mb": 0.08,
+      "timestamp": "2026-06-28T04:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "听说你们喜欢看硬的🧐 https://t.co/WmoAUe1vNp",
+    "publish_time": "2026-06-28T03:03:46"
+  },
+  {
+    "file_name": "HL16k-Sb0AARpw3.jpg",
+    "user": {
+      "screen_name": "dunzh299016",
+      "name": "吉吉"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HL16k-Sb0AARpw3.jpg",
+    "read_time": "2026-06-28T04:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28043,
+      "timestamp": "2026-06-28T04:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 90355,
+      "size_mb": 0.09,
+      "timestamp": "2026-06-28T04:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "听说你们喜欢看硬的🧐 https://t.co/WmoAUe1vNp",
+    "publish_time": "2026-06-28T03:03:46"
+  },
+  {
+    "file_name": "HL16lfRaIAAGyVc.jpg",
+    "user": {
+      "screen_name": "dunzh299016",
+      "name": "吉吉"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HL16lfRaIAAGyVc.jpg",
+    "read_time": "2026-06-28T04:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28044,
+      "timestamp": "2026-06-28T04:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 79034,
+      "size_mb": 0.08,
+      "timestamp": "2026-06-28T04:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "听说你们喜欢看硬的🧐 https://t.co/WmoAUe1vNp",
+    "publish_time": "2026-06-28T03:03:46"
+  },
+  {
+    "file_name": "HL16mAEa8AARGdz.jpg",
+    "user": {
+      "screen_name": "dunzh299016",
+      "name": "吉吉"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HL16mAEa8AARGdz.jpg",
+    "read_time": "2026-06-28T04:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28045,
+      "timestamp": "2026-06-28T04:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 90185,
+      "size_mb": 0.09,
+      "timestamp": "2026-06-28T04:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "听说你们喜欢看硬的🧐 https://t.co/WmoAUe1vNp",
+    "publish_time": "2026-06-28T03:03:46"
+  },
+  {
+    "file_name": "rtQvxqOja3aoLDCJ.mp4",
+    "user": {
+      "screen_name": "c558668",
+      "name": "0m"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2069789319347437568/vid/avc1/720x1280/rtQvxqOja3aoLDCJ.mp4?tag=14",
+    "read_time": "2026-06-28T04:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28046,
+      "timestamp": "2026-06-28T04:02:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 33695770,
+      "size_mb": 32.13,
+      "timestamp": "2026-06-28T04:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/QrSTbtP2eG",
+    "publish_time": "2026-06-28T03:17:19"
   }
 ]

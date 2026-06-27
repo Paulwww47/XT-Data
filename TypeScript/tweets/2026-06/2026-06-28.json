@@ -164,5 +164,36 @@
     "tweetUrl": "https://x.com/c558668/status/2070942474403807275",
     "fullText": "https://t.co/NE6cWHmAIQ",
     "publishTime": "2026-06-28T02:48:56"
+  },
+  {
+    "user": {
+      "screenName": "dunzh299016",
+      "name": "吉吉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HL16kUBbEAAFBV5.jpg",
+      "https://pbs.twimg.com/media/HL16k-Sb0AARpw3.jpg",
+      "https://pbs.twimg.com/media/HL16lfRaIAAGyVc.jpg",
+      "https://pbs.twimg.com/media/HL16mAEa8AARGdz.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/dunzh299016/status/2070946205673353348",
+    "fullText": "听说你们喜欢看硬的🧐 https://t.co/WmoAUe1vNp",
+    "publishTime": "2026-06-28T03:03:46"
+  },
+  {
+    "user": {
+      "screenName": "c558668",
+      "name": "0m"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2069789319347437568/vid/avc1/720x1280/rtQvxqOja3aoLDCJ.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/c558668/status/2070949617211154674",
+    "fullText": "https://t.co/QrSTbtP2eG",
+    "publishTime": "2026-06-28T03:17:19"
   }
 ]
