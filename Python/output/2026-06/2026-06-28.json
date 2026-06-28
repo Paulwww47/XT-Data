@@ -1240,17 +1240,69 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (68MB > 50MB)",
       "timestamp": "2026-06-28T12:02:10",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 71366983,
       "size_mb": 68.06,
-      "timestamp": "2026-06-28T12:02:10",
+      "timestamp": "2026-06-28T13:01:57",
       "download_attempts": 0
     },
     "full_text": "渣男骗我，说定带我体验电蛋快感，结果偷偷无套插进去了，里面还有电蛋在动，有一说一蛮快乐的不一样的体验。\n@UEKOUyekk  #UEKOU #囚狗 #无套 #m #内射 #玩具 https://t.co/CtAO3xkPrP",
     "publish_time": "2026-06-28T11:59:50"
+  },
+  {
+    "file_name": "HL34AcxbwAA_npx.jpg",
+    "user": {
+      "screen_name": "SZionbaba",
+      "name": "zionbaba"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HL34AcxbwAA_npx.jpg",
+    "read_time": "2026-06-28T13:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28077,
+      "timestamp": "2026-06-28T13:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 138280,
+      "size_mb": 0.13,
+      "timestamp": "2026-06-28T13:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "想成为脚下那张纸巾吗？ https://t.co/qum7482v3A",
+    "publish_time": "2026-06-28T12:11:43"
+  },
+  {
+    "file_name": "GcOnkk39td2RYjKD.mp4",
+    "user": {
+      "screen_name": "c558668",
+      "name": "0m"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1743969535084859392/pu/vid/avc1/720x1278/GcOnkk39td2RYjKD.mp4?tag=12",
+    "read_time": "2026-06-28T13:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28078,
+      "timestamp": "2026-06-28T13:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5952324,
+      "size_mb": 5.68,
+      "timestamp": "2026-06-28T13:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/RK8Ow3LYIc",
+    "publish_time": "2026-06-28T12:43:09"
   }
 ]
