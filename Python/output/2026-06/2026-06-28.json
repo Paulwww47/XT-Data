@@ -1372,14 +1372,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (79MB > 50MB)",
       "timestamp": "2026-06-28T14:02:01",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 83050896,
       "size_mb": 79.2,
-      "timestamp": "2026-06-28T14:02:01",
+      "timestamp": "2026-06-28T15:02:41",
       "download_attempts": 0
     },
     "full_text": "👔西裝愛好者👔 https://t.co/MqTB7dLdKS",
@@ -1400,14 +1400,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (60MB > 50MB)",
       "timestamp": "2026-06-28T14:02:01",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 63559693,
       "size_mb": 60.62,
-      "timestamp": "2026-06-28T14:02:01",
+      "timestamp": "2026-06-28T15:02:42",
       "download_attempts": 0
     },
     "full_text": "👔西裝愛好者👔 https://t.co/eFks1IDche",
@@ -1464,5 +1464,109 @@
     },
     "full_text": "瘦下来，下个月去海边 https://t.co/LUmpz6fy8A",
     "publish_time": "2026-06-28T13:56:14"
+  },
+  {
+    "file_name": "HL4UgvebYAAbetx.jpg",
+    "user": {
+      "screen_name": "shakeitbabee",
+      "name": "花事了"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HL4UgvebYAAbetx.jpg",
+    "read_time": "2026-06-28T15:02:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28083,
+      "timestamp": "2026-06-28T15:02:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 128488,
+      "size_mb": 0.12,
+      "timestamp": "2026-06-28T15:02:42",
+      "download_attempts": 0
+    },
+    "full_text": "我请问大家肚子都有褶吗？\n就除了早上起床没有之外\n坐下起身更夸张\n都瘦10斤了还是这样\n每次都p掉 懒得p了 https://t.co/D5ZIyrYnnH",
+    "publish_time": "2026-06-28T14:16:14"
+  },
+  {
+    "file_name": "HL4VCSGaYAAuNcA.jpg",
+    "user": {
+      "screen_name": "shejishi2020",
+      "name": "摄肌师"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HL4VCSGaYAAuNcA.jpg",
+    "read_time": "2026-06-28T15:02:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28084,
+      "timestamp": "2026-06-28T15:02:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 92384,
+      "size_mb": 0.09,
+      "timestamp": "2026-06-28T15:02:43",
+      "download_attempts": 0
+    },
+    "full_text": "活着的意义就是活着本身。 https://t.co/2MaEhkrfaP",
+    "publish_time": "2026-06-28T14:18:33"
+  },
+  {
+    "file_name": "HL4Xxp6aIAAHcAh.jpg",
+    "user": {
+      "screen_name": "ModdyChen",
+      "name": "舒克"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HL4Xxp6aIAAHcAh.jpg",
+    "read_time": "2026-06-28T15:02:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28085,
+      "timestamp": "2026-06-28T15:02:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 102242,
+      "size_mb": 0.1,
+      "timestamp": "2026-06-28T15:02:45",
+      "download_attempts": 0
+    },
+    "full_text": "那我…进来咯？ https://t.co/ZkG4nsplH6",
+    "publish_time": "2026-06-28T14:30:32"
+  },
+  {
+    "file_name": "MSI6sdo0r5NGHmd4.mp4",
+    "user": {
+      "screen_name": "Maxnicnix",
+      "name": "Max"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2063148793047257088/vid/avc1/720x1280/MSI6sdo0r5NGHmd4.mp4?tag=27",
+    "read_time": "2026-06-28T15:02:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28086,
+      "timestamp": "2026-06-28T15:02:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 20814484,
+      "size_mb": 19.85,
+      "timestamp": "2026-06-28T15:02:47",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/lt9UGh3YL9",
+    "publish_time": "2026-06-28T14:41:17"
   }
 ]
