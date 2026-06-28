@@ -3040,14 +3040,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (55MB > 50MB)",
       "timestamp": "2026-06-29T00:02:00",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 58296179,
       "size_mb": 55.6,
-      "timestamp": "2026-06-29T00:02:00",
+      "timestamp": "2026-06-29T01:01:51",
       "download_attempts": 0
     },
     "full_text": "别说人过三五身体真的不如以前\n跪着10分钟不到吃个鸡巴\n腿就酸的不得了\n不服老不行了\n私信现在都无人问津了\n真的真的得去锻炼下身体\n有没有上海的健身搭子？\n顺便庆祝下自己初级终于过了❤️ https://t.co/Hw0EROQZu1",
