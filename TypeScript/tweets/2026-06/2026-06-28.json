@@ -1101,5 +1101,45 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2071201158132355131",
     "fullText": "https://t.co/0x3Q3bZC1q",
     "publishTime": "2026-06-28T19:56:51"
+  },
+  {
+    "user": {
+      "screenName": "inspiredPeng",
+      "name": "地空捣蛋"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2071213160305225729/vid/avc1/590x1280/lJcRoAxltTOCQbGT.mp4?tag=28"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/inspiredPeng/status/2071213242979111276",
+    "fullText": "语音模式突破了。速度快多了！ https://t.co/Vas4phDkiZ",
+    "publishTime": "2026-06-28T20:44:53"
+  },
+  {
+    "user": {
+      "screenName": "lovesamoyed_tw",
+      "name": "Samoyed Lover🐶"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HL5xAn8bEAAdta5.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/lovesamoyed_tw/status/2071217143103066479",
+    "fullText": "Taipei stop raining 💦☔️🥺 https://t.co/Lyd3cjUEN7",
+    "publishTime": "2026-06-28T21:00:22"
+  },
+  {
+    "user": {
+      "screenName": "lovesamoyed_tw",
+      "name": "Samoyed Lover🐶"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/lovesamoyed_tw/status/2071217149092508028",
+    "fullText": "New update on of",
+    "publishTime": "2026-06-28T21:00:24"
   }
 ]

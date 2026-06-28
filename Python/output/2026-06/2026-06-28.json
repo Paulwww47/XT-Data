@@ -2374,5 +2374,57 @@
     },
     "full_text": "https://t.co/0x3Q3bZC1q",
     "publish_time": "2026-06-28T19:56:51"
+  },
+  {
+    "file_name": "lJcRoAxltTOCQbGT.mp4",
+    "user": {
+      "screen_name": "inspiredPeng",
+      "name": "地空捣蛋"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2071213160305225729/vid/avc1/590x1280/lJcRoAxltTOCQbGT.mp4?tag=28",
+    "read_time": "2026-06-28T21:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28118,
+      "timestamp": "2026-06-28T21:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2069528,
+      "size_mb": 1.97,
+      "timestamp": "2026-06-28T21:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "语音模式突破了。速度快多了！ https://t.co/Vas4phDkiZ",
+    "publish_time": "2026-06-28T20:44:53"
+  },
+  {
+    "file_name": "HL5xAn8bEAAdta5.jpg",
+    "user": {
+      "screen_name": "lovesamoyed_tw",
+      "name": "Samoyed Lover🐶"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HL5xAn8bEAAdta5.jpg",
+    "read_time": "2026-06-28T21:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28119,
+      "timestamp": "2026-06-28T21:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 89377,
+      "size_mb": 0.09,
+      "timestamp": "2026-06-28T21:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "Taipei stop raining 💦☔️🥺 https://t.co/Lyd3cjUEN7",
+    "publish_time": "2026-06-28T21:00:22"
   }
 ]
