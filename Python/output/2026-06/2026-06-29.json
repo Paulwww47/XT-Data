@@ -1342,14 +1342,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (1868MB > 50MB)",
       "timestamp": "2026-06-29T16:02:15",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 1959316860,
       "size_mb": 1868.55,
-      "timestamp": "2026-06-29T16:02:15",
+      "timestamp": "2026-06-29T17:01:52",
       "download_attempts": 0
     },
     "full_text": "https://t.co/vB01dhuc89",
@@ -1510,5 +1510,213 @@
     },
     "full_text": "https://t.co/Zy46Gfmyr3",
     "publish_time": "2026-06-29T15:48:52"
+  },
+  {
+    "file_name": "HL94AfwacAAqO2M.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HL94AfwacAAqO2M.jpg",
+    "read_time": "2026-06-29T17:01:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28199,
+      "timestamp": "2026-06-29T17:01:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 109451,
+      "size_mb": 0.1,
+      "timestamp": "2026-06-29T17:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/9ZV6k4AaeD",
+    "publish_time": "2026-06-29T16:09:26"
+  },
+  {
+    "file_name": "HL95TRKWQAATTRi.jpg",
+    "user": {
+      "screen_name": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HL95TRKWQAATTRi.jpg",
+    "read_time": "2026-06-29T17:01:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28200,
+      "timestamp": "2026-06-29T17:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 121522,
+      "size_mb": 0.12,
+      "timestamp": "2026-06-29T17:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "不算违规吧 https://t.co/oihR2EleUA",
+    "publish_time": "2026-06-29T16:15:04"
+  },
+  {
+    "file_name": "HL9-cFDacAAsayw.mp4",
+    "user": {
+      "screen_name": "Jeff07751908",
+      "name": "不穿内裤"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/HL9-cFDacAAsayw.mp4",
+    "read_time": "2026-06-29T17:01:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28201,
+      "timestamp": "2026-06-29T17:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 54988,
+      "size_mb": 0.05,
+      "timestamp": "2026-06-29T17:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "有要喝的吗 https://t.co/0HRjxyWcA0",
+    "publish_time": "2026-06-29T16:37:42"
+  },
+  {
+    "file_name": "HL9_W_9aYAACiso.jpg",
+    "user": {
+      "screen_name": "MoFrost_",
+      "name": "Mosura"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HL9_W_9aYAACiso.jpg",
+    "read_time": "2026-06-29T17:01:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28202,
+      "timestamp": "2026-06-29T17:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 80468,
+      "size_mb": 0.08,
+      "timestamp": "2026-06-29T17:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/cJNSjPHZwk",
+    "publish_time": "2026-06-29T16:41:33"
+  },
+  {
+    "file_name": "HL9_W__agAARs-e.jpg",
+    "user": {
+      "screen_name": "MoFrost_",
+      "name": "Mosura"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HL9_W__agAARs-e.jpg",
+    "read_time": "2026-06-29T17:01:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28203,
+      "timestamp": "2026-06-29T17:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 118439,
+      "size_mb": 0.11,
+      "timestamp": "2026-06-29T17:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/cJNSjPHZwk",
+    "publish_time": "2026-06-29T16:41:33"
+  },
+  {
+    "file_name": "HL9_W_7bAAA9p9A.jpg",
+    "user": {
+      "screen_name": "MoFrost_",
+      "name": "Mosura"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HL9_W_7bAAA9p9A.jpg",
+    "read_time": "2026-06-29T17:01:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28204,
+      "timestamp": "2026-06-29T17:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 71923,
+      "size_mb": 0.07,
+      "timestamp": "2026-06-29T17:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/cJNSjPHZwk",
+    "publish_time": "2026-06-29T16:41:33"
+  },
+  {
+    "file_name": "HL9_u29bEAAI9hH.jpg",
+    "user": {
+      "screen_name": "YCJ2023",
+      "name": "杨长进"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HL9_u29bEAAI9hH.jpg",
+    "read_time": "2026-06-29T17:01:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28205,
+      "timestamp": "2026-06-29T17:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 60205,
+      "size_mb": 0.06,
+      "timestamp": "2026-06-29T17:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "🈚️🧠🐶爬过来🤪\n#狠主 #top #臭脚 #肌肉 #无脑狗 #野爹爹 #肌肉 https://t.co/DcfoC3KDVm",
+    "publish_time": "2026-06-29T16:43:10"
+  },
+  {
+    "file_name": "HL-AIYcbAAAAhiK.jpg",
+    "user": {
+      "screen_name": "huohuo0707330",
+      "name": "嚯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HL-AIYcbAAAAhiK.jpg",
+    "read_time": "2026-06-29T17:01:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28206,
+      "timestamp": "2026-06-29T17:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 163835,
+      "size_mb": 0.16,
+      "timestamp": "2026-06-29T17:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "疏于训练 https://t.co/7JxMfIlarc",
+    "publish_time": "2026-06-29T16:44:56"
   }
 ]
