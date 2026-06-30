@@ -66,14 +66,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (115MB > 50MB)",
       "timestamp": "2026-06-30T23:02:52",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 120865150,
       "size_mb": 115.27,
-      "timestamp": "2026-06-30T23:02:52",
+      "timestamp": "2026-07-01T00:01:43",
       "download_attempts": 0
     },
     "full_text": "https://t.co/ahyJXe2xps",
@@ -510,14 +510,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (55MB > 50MB)",
       "timestamp": "2026-06-30T23:02:52",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 58590900,
       "size_mb": 55.88,
-      "timestamp": "2026-06-30T23:02:52",
+      "timestamp": "2026-07-01T00:01:43",
       "download_attempts": 0
     },
     "full_text": "退役兵哥哥，重庆现役消防员，休假出来玩，在酒店被勾引，骚气满满，有喜欢的吗？#直男 #消防员 #勾引 #退役 #兵哥哥 https://t.co/TUzkFwVRMS",
@@ -2496,14 +2496,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (78MB > 50MB)",
       "timestamp": "2026-06-30T23:03:10",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 82527871,
       "size_mb": 78.7,
-      "timestamp": "2026-06-30T23:03:10",
+      "timestamp": "2026-07-01T00:01:43",
       "download_attempts": 0
     },
     "full_text": "明天中午可约\n只想吃jj😁\n装b勿扰\n太小的勿扰 https://t.co/b1N4dstlGf",
@@ -2534,5 +2534,369 @@
     },
     "full_text": "体校练长跑的体育生弟弟，黑皮低体脂，鸡巴粗得像小孩手臂，青筋爆起！公共厕所隔间和记者视频，压低声警告“别叫太大声，队友在旁边…”，手速飞快却超持久，近20分钟才射！\n10多股高压浓精喷出屏幕，黑皮衬得精液又白又饱满，质量顶尖！全程露脸有声😈\n电报群🔗👇主页有联系方式\n#白袜 #直男 #体育生 https://t.co/YTLpEmtoC8",
     "publish_time": "2026-06-30T22:58:27"
+  },
+  {
+    "file_name": "HMEiyJTWYAAeTay.jpg",
+    "user": {
+      "screen_name": "TODDFOGE",
+      "name": "1759389706"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMEiyJTWYAAeTay.jpg",
+    "read_time": "2026-07-01T00:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28344,
+      "timestamp": "2026-07-01T00:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 92560,
+      "size_mb": 0.09,
+      "timestamp": "2026-07-01T00:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/mNT9C2rcWd",
+    "publish_time": "2026-06-30T23:14:02"
+  },
+  {
+    "file_name": "HMEiyVdXMAAURsN.jpg",
+    "user": {
+      "screen_name": "TODDFOGE",
+      "name": "1759389706"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMEiyVdXMAAURsN.jpg",
+    "read_time": "2026-07-01T00:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28345,
+      "timestamp": "2026-07-01T00:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 176369,
+      "size_mb": 0.17,
+      "timestamp": "2026-07-01T00:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/mNT9C2rcWd",
+    "publish_time": "2026-06-30T23:14:02"
+  },
+  {
+    "file_name": "HMEi0fMXEAAu9A1.jpg",
+    "user": {
+      "screen_name": "TODDFOGE",
+      "name": "1759389706"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMEi0fMXEAAu9A1.jpg",
+    "read_time": "2026-07-01T00:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28346,
+      "timestamp": "2026-07-01T00:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 92560,
+      "size_mb": 0.09,
+      "timestamp": "2026-07-01T00:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/DV5HLc8VrH",
+    "publish_time": "2026-06-30T23:14:11"
+  },
+  {
+    "file_name": "HMEi0pKWIAA8Jp5.jpg",
+    "user": {
+      "screen_name": "TODDFOGE",
+      "name": "1759389706"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMEi0pKWIAA8Jp5.jpg",
+    "read_time": "2026-07-01T00:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28347,
+      "timestamp": "2026-07-01T00:01:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 176369,
+      "size_mb": 0.17,
+      "timestamp": "2026-07-01T00:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/DV5HLc8VrH",
+    "publish_time": "2026-06-30T23:14:11"
+  },
+  {
+    "file_name": "HMEjFu6XwAATe1e.jpg",
+    "user": {
+      "screen_name": "chen986903",
+      "name": "chen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMEjFu6XwAATe1e.jpg",
+    "read_time": "2026-07-01T00:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28348,
+      "timestamp": "2026-07-01T00:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 103011,
+      "size_mb": 0.1,
+      "timestamp": "2026-07-01T00:01:48",
+      "download_attempts": 0
+    },
+    "full_text": "在我的胯下尽情享受\n#s #正装丝袜 #主人 #无脑贱狗 #雄臭 #健身男s https://t.co/bstLdmNH4S",
+    "publish_time": "2026-06-30T23:15:27"
+  },
+  {
+    "file_name": "HMEjFvBXcAAcFxh.jpg",
+    "user": {
+      "screen_name": "chen986903",
+      "name": "chen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMEjFvBXcAAcFxh.jpg",
+    "read_time": "2026-07-01T00:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28349,
+      "timestamp": "2026-07-01T00:01:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 113422,
+      "size_mb": 0.11,
+      "timestamp": "2026-07-01T00:01:49",
+      "download_attempts": 0
+    },
+    "full_text": "在我的胯下尽情享受\n#s #正装丝袜 #主人 #无脑贱狗 #雄臭 #健身男s https://t.co/bstLdmNH4S",
+    "publish_time": "2026-06-30T23:15:27"
+  },
+  {
+    "file_name": "HMEjFvDWYAAKUJD.jpg",
+    "user": {
+      "screen_name": "chen986903",
+      "name": "chen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMEjFvDWYAAKUJD.jpg",
+    "read_time": "2026-07-01T00:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28350,
+      "timestamp": "2026-07-01T00:01:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 107694,
+      "size_mb": 0.1,
+      "timestamp": "2026-07-01T00:01:50",
+      "download_attempts": 0
+    },
+    "full_text": "在我的胯下尽情享受\n#s #正装丝袜 #主人 #无脑贱狗 #雄臭 #健身男s https://t.co/bstLdmNH4S",
+    "publish_time": "2026-06-30T23:15:27"
+  },
+  {
+    "file_name": "qU-ikdKhuZtHo0ab.mp4",
+    "user": {
+      "screen_name": "hhh752093296",
+      "name": "大力宝宝"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2071976075647655936/vid/avc1/720x836/qU-ikdKhuZtHo0ab.mp4?tag=28",
+    "read_time": "2026-07-01T00:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28351,
+      "timestamp": "2026-07-01T00:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 372752,
+      "size_mb": 0.36,
+      "timestamp": "2026-07-01T00:01:51",
+      "download_attempts": 0
+    },
+    "full_text": "憋不住了 https://t.co/TmnOkISqLj",
+    "publish_time": "2026-06-30T23:17:47"
+  },
+  {
+    "file_name": "HMElHo7WIAEToiF.jpg",
+    "user": {
+      "screen_name": "dunzh299016",
+      "name": "吉吉"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMElHo7WIAEToiF.jpg",
+    "read_time": "2026-07-01T00:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28352,
+      "timestamp": "2026-07-01T00:01:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 86826,
+      "size_mb": 0.08,
+      "timestamp": "2026-07-01T00:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "第一次学着展背嘻嘻 https://t.co/HTaos6NXb1",
+    "publish_time": "2026-06-30T23:24:23"
+  },
+  {
+    "file_name": "HMElIdlXIAI_M7y.jpg",
+    "user": {
+      "screen_name": "dunzh299016",
+      "name": "吉吉"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMElIdlXIAI_M7y.jpg",
+    "read_time": "2026-07-01T00:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28353,
+      "timestamp": "2026-07-01T00:01:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 44508,
+      "size_mb": 0.04,
+      "timestamp": "2026-07-01T00:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "第一次学着展背嘻嘻 https://t.co/HTaos6NXb1",
+    "publish_time": "2026-06-30T23:24:23"
+  },
+  {
+    "file_name": "HMElJR-XUAAQDqc.jpg",
+    "user": {
+      "screen_name": "dunzh299016",
+      "name": "吉吉"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMElJR-XUAAQDqc.jpg",
+    "read_time": "2026-07-01T00:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28354,
+      "timestamp": "2026-07-01T00:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 94374,
+      "size_mb": 0.09,
+      "timestamp": "2026-07-01T00:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "第一次学着展背嘻嘻 https://t.co/HTaos6NXb1",
+    "publish_time": "2026-06-30T23:24:23"
+  },
+  {
+    "file_name": "HMEmfV9XQAAakwA.jpg",
+    "user": {
+      "screen_name": "Divo1765100",
+      "name": "Divo"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMEmfV9XQAAakwA.jpg",
+    "read_time": "2026-07-01T00:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28355,
+      "timestamp": "2026-07-01T00:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 88581,
+      "size_mb": 0.08,
+      "timestamp": "2026-07-01T00:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "it’s not hard https://t.co/havQfCZ8h9",
+    "publish_time": "2026-06-30T23:30:14"
+  },
+  {
+    "file_name": "HMEpGS6XEAAEwSU.jpg",
+    "user": {
+      "screen_name": "Doraemonmans",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMEpGS6XEAAEwSU.jpg",
+    "read_time": "2026-07-01T00:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28356,
+      "timestamp": "2026-07-01T00:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 75030,
+      "size_mb": 0.07,
+      "timestamp": "2026-07-01T00:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "出镜：@Lv_jorge188 https://t.co/n669M8sYWB",
+    "publish_time": "2026-06-30T23:41:39"
+  },
+  {
+    "file_name": "E7cPaoGlt0rkZiJq.mp4",
+    "user": {
+      "screen_name": "kaka_lac",
+      "name": "kaka"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2071986379031257088/vid/avc1/720x1280/E7cPaoGlt0rkZiJq.mp4?tag=28",
+    "read_time": "2026-07-01T00:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28357,
+      "timestamp": "2026-07-01T00:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4607325,
+      "size_mb": 4.39,
+      "timestamp": "2026-07-01T00:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "教练全裸的硬拉教学，是不是更容易学会。完整版视频订阅会员即可 https://t.co/hVTP0B7WSv",
+    "publish_time": "2026-06-30T23:57:47"
   }
 ]
