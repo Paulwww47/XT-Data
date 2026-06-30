@@ -2914,5 +2914,31 @@
     },
     "full_text": "走一趟 https://t.co/khfQv4bCtB",
     "publish_time": "2026-06-29T23:55:33"
+  },
+  {
+    "file_name": "1GSsIlISwKlwUVbq.mp4",
+    "user": {
+      "screen_name": "asshell",
+      "name": "🇦🇺澳洲男子公司🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2069086851101827072/vid/avc1/576x1280/1GSsIlISwKlwUVbq.mp4?tag=14",
+    "read_time": "2026-06-30T23:02:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28329,
+      "timestamp": "2026-06-30T23:02:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 42750549,
+      "size_mb": 40.77,
+      "timestamp": "2026-06-30T23:02:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/RwVEuhSEtf",
+    "publish_time": "2026-06-29T23:59:40"
   }
 ]
