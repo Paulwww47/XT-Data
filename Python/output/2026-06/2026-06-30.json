@@ -1106,14 +1106,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (248MB > 50MB)",
       "timestamp": "2026-06-30T15:01:43",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 260142414,
       "size_mb": 248.09,
-      "timestamp": "2026-06-30T15:01:43",
+      "timestamp": "2026-06-30T16:02:44",
       "download_attempts": 0
     },
     "full_text": "https://t.co/Yu9z0aQoOi",
@@ -1160,17 +1160,149 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (84MB > 50MB)",
       "timestamp": "2026-06-30T15:01:47",
+      "notification_sent": true
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 88139998,
+      "size_mb": 84.06,
+      "timestamp": "2026-06-30T16:02:45",
+      "download_attempts": 0
+    },
+    "full_text": "做1很厉害的寸头黑皮弟弟 看到我的武器后也没忍住 https://t.co/cNXWUymKHl",
+    "publish_time": "2026-06-30T14:41:27"
+  },
+  {
+    "file_name": "HMC7_iGXIAA-7AC.jpg",
+    "user": {
+      "screen_name": "neon385908",
+      "name": "ne on"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMC7_iGXIAA-7AC.jpg",
+    "read_time": "2026-06-30T16:02:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28296,
+      "timestamp": "2026-06-30T16:02:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 76877,
+      "size_mb": 0.07,
+      "timestamp": "2026-06-30T16:02:45",
+      "download_attempts": 0
+    },
+    "full_text": "放送 以及我需要被蕾丝肌肉男坐脸了 https://t.co/PNPIYSooaz",
+    "publish_time": "2026-06-30T15:45:08"
+  },
+  {
+    "file_name": "HMC7_h-XcAAfGlp.jpg",
+    "user": {
+      "screen_name": "neon385908",
+      "name": "ne on"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMC7_h-XcAAfGlp.jpg",
+    "read_time": "2026-06-30T16:02:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28297,
+      "timestamp": "2026-06-30T16:02:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 117903,
+      "size_mb": 0.11,
+      "timestamp": "2026-06-30T16:02:48",
+      "download_attempts": 0
+    },
+    "full_text": "放送 以及我需要被蕾丝肌肉男坐脸了 https://t.co/PNPIYSooaz",
+    "publish_time": "2026-06-30T15:45:08"
+  },
+  {
+    "file_name": "HMC7_iAW4AARTFK.jpg",
+    "user": {
+      "screen_name": "neon385908",
+      "name": "ne on"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMC7_iAW4AARTFK.jpg",
+    "read_time": "2026-06-30T16:02:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28298,
+      "timestamp": "2026-06-30T16:02:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 147336,
+      "size_mb": 0.14,
+      "timestamp": "2026-06-30T16:02:49",
+      "download_attempts": 0
+    },
+    "full_text": "放送 以及我需要被蕾丝肌肉男坐脸了 https://t.co/PNPIYSooaz",
+    "publish_time": "2026-06-30T15:45:08"
+  },
+  {
+    "file_name": "HMC7_iHW8AASQmi.jpg",
+    "user": {
+      "screen_name": "neon385908",
+      "name": "ne on"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMC7_iHW8AASQmi.jpg",
+    "read_time": "2026-06-30T16:02:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28299,
+      "timestamp": "2026-06-30T16:02:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 161442,
+      "size_mb": 0.15,
+      "timestamp": "2026-06-30T16:02:51",
+      "download_attempts": 0
+    },
+    "full_text": "放送 以及我需要被蕾丝肌肉男坐脸了 https://t.co/PNPIYSooaz",
+    "publish_time": "2026-06-30T15:45:08"
+  },
+  {
+    "file_name": "uiofro2_Sd9pxtuu.mp4",
+    "user": {
+      "screen_name": "sx84604818",
+      "name": "Rexsonic Man+ suits & socks"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2071792665235251200/vid/avc1/854x480/uiofro2_Sd9pxtuu.mp4?tag=28",
+    "read_time": "2026-06-30T16:02:41",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (128MB > 50MB)",
+      "timestamp": "2026-06-30T16:02:54",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 88139998,
-      "size_mb": 84.06,
-      "timestamp": "2026-06-30T15:01:47",
+      "size": 134387559,
+      "size_mb": 128.16,
+      "timestamp": "2026-06-30T16:02:54",
       "download_attempts": 0
     },
-    "full_text": "做1很厉害的寸头黑皮弟弟 看到我的武器后也没忍住 https://t.co/cNXWUymKHl",
-    "publish_time": "2026-06-30T14:41:27"
+    "full_text": "👔西裝愛好者👔 https://t.co/14h1JqZVVK",
+    "publish_time": "2026-06-30T16:01:50"
   }
 ]
