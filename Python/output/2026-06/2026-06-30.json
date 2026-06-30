@@ -1090,5 +1090,87 @@
     },
     "full_text": "钩子🪝来了🥵🥵🥵 https://t.co/3ZoVyKfQ6C",
     "publish_time": "2026-06-30T14:01:00"
+  },
+  {
+    "file_name": "Rc2zmO0EVYFku285.mp4",
+    "user": {
+      "screen_name": "Maxnicnix",
+      "name": "Max"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2071772393341648896/vid/avc1/1280x720/Rc2zmO0EVYFku285.mp4?tag=28",
+    "read_time": "2026-06-30T15:01:41",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (248MB > 50MB)",
+      "timestamp": "2026-06-30T15:01:43",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 260142414,
+      "size_mb": 248.09,
+      "timestamp": "2026-06-30T15:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Yu9z0aQoOi",
+    "publish_time": "2026-06-30T14:30:38"
+  },
+  {
+    "file_name": "HMCsVQIXgAAbI1m.jpg",
+    "user": {
+      "screen_name": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMCsVQIXgAAbI1m.jpg",
+    "read_time": "2026-06-30T15:01:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28295,
+      "timestamp": "2026-06-30T15:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 277947,
+      "size_mb": 0.27,
+      "timestamp": "2026-06-30T15:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "pride#Apple https://t.co/14nkiZ6gOA",
+    "publish_time": "2026-06-30T14:36:32"
+  },
+  {
+    "file_name": "WIut3os7n0M7unPq.mp4",
+    "user": {
+      "screen_name": "Jacobczj17",
+      "name": "你的健健"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2071846158700257280/vid/avc1/2160x3840/WIut3os7n0M7unPq.mp4?tag=28",
+    "read_time": "2026-06-30T15:01:41",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (84MB > 50MB)",
+      "timestamp": "2026-06-30T15:01:47",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 88139998,
+      "size_mb": 84.06,
+      "timestamp": "2026-06-30T15:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "做1很厉害的寸头黑皮弟弟 看到我的武器后也没忍住 https://t.co/cNXWUymKHl",
+    "publish_time": "2026-06-30T14:41:27"
   }
 ]
