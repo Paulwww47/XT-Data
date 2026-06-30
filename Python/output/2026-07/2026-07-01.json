@@ -40,14 +40,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (756MB > 50MB)",
       "timestamp": "2026-07-01T01:01:47",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 792905209,
       "size_mb": 756.17,
-      "timestamp": "2026-07-01T01:01:47",
+      "timestamp": "2026-07-01T02:01:50",
       "download_attempts": 0
     },
     "full_text": "https://t.co/RyjCGZ629O",
@@ -182,5 +182,187 @@
     },
     "full_text": "https://t.co/cO5TNAOfZW",
     "publish_time": "2026-07-01T00:45:56"
+  },
+  {
+    "file_name": "HME_rpGbMAASzhC.jpg",
+    "user": {
+      "screen_name": "suxiaoming69",
+      "name": "筋肉光酥饼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HME_rpGbMAASzhC.jpg",
+    "read_time": "2026-07-01T02:01:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28364,
+      "timestamp": "2026-07-01T02:01:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 105106,
+      "size_mb": 0.1,
+      "timestamp": "2026-07-01T02:01:50",
+      "download_attempts": 0
+    },
+    "full_text": "😂真的偷感很重，我自己看了也想笑哈哈，⛰️第二次在人才公园淋浴间裸，👮🏻‍♂️看到门口有保安把守，🕰️营业时间也改成8点就知道曾经风光过，😍几乎每个隔间都有遗弃的内裤，途中就进了两人，🚿其中一个居然开着门洗澡，洗完后还不经意的走到我隔间晃悠了一下，🌈感觉不直 https://t.co/kZwDXJ9ygz",
+    "publish_time": "2026-07-01T01:20:53"
+  },
+  {
+    "file_name": "HME_sRqbUAAszmD.jpg",
+    "user": {
+      "screen_name": "suxiaoming69",
+      "name": "筋肉光酥饼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HME_sRqbUAAszmD.jpg",
+    "read_time": "2026-07-01T02:01:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28365,
+      "timestamp": "2026-07-01T02:01:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 167061,
+      "size_mb": 0.16,
+      "timestamp": "2026-07-01T02:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "😂真的偷感很重，我自己看了也想笑哈哈，⛰️第二次在人才公园淋浴间裸，👮🏻‍♂️看到门口有保安把守，🕰️营业时间也改成8点就知道曾经风光过，😍几乎每个隔间都有遗弃的内裤，途中就进了两人，🚿其中一个居然开着门洗澡，洗完后还不经意的走到我隔间晃悠了一下，🌈感觉不直 https://t.co/kZwDXJ9ygz",
+    "publish_time": "2026-07-01T01:20:53"
+  },
+  {
+    "file_name": "g5W4tl9TJ4jxOYbc.mp4",
+    "user": {
+      "screen_name": "suxiaoming69",
+      "name": "筋肉光酥饼"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2072007308390047744/pu/vid/avc1/720x1280/g5W4tl9TJ4jxOYbc.mp4?tag=12",
+    "read_time": "2026-07-01T02:01:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28366,
+      "timestamp": "2026-07-01T02:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1457892,
+      "size_mb": 1.39,
+      "timestamp": "2026-07-01T02:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "😂真的偷感很重，我自己看了也想笑哈哈，⛰️第二次在人才公园淋浴间裸，👮🏻‍♂️看到门口有保安把守，🕰️营业时间也改成8点就知道曾经风光过，😍几乎每个隔间都有遗弃的内裤，途中就进了两人，🚿其中一个居然开着门洗澡，洗完后还不经意的走到我隔间晃悠了一下，🌈感觉不直 https://t.co/kZwDXJ9ygz",
+    "publish_time": "2026-07-01T01:20:53"
+  },
+  {
+    "file_name": "HMFBUN8aEAAhJy9.jpg",
+    "user": {
+      "screen_name": "lzj244",
+      "name": "好吧那好吧"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMFBUN8aEAAhJy9.jpg",
+    "read_time": "2026-07-01T02:01:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28367,
+      "timestamp": "2026-07-01T02:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 87774,
+      "size_mb": 0.08,
+      "timestamp": "2026-07-01T02:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "最近被工作烦死 女人多的地方事非真多 https://t.co/v2w02Jl3xS",
+    "publish_time": "2026-07-01T01:27:27"
+  },
+  {
+    "file_name": "HMFBUS3bAAAxHcL.jpg",
+    "user": {
+      "screen_name": "lzj244",
+      "name": "好吧那好吧"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMFBUS3bAAAxHcL.jpg",
+    "read_time": "2026-07-01T02:01:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28368,
+      "timestamp": "2026-07-01T02:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 64833,
+      "size_mb": 0.06,
+      "timestamp": "2026-07-01T02:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "最近被工作烦死 女人多的地方事非真多 https://t.co/v2w02Jl3xS",
+    "publish_time": "2026-07-01T01:27:27"
+  },
+  {
+    "file_name": "HMFD4QcWsAAhtV-.jpg",
+    "user": {
+      "screen_name": "lailai6699",
+      "name": "lailai69"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMFD4QcWsAAhtV-.jpg",
+    "read_time": "2026-07-01T02:01:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28369,
+      "timestamp": "2026-07-01T02:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 152315,
+      "size_mb": 0.15,
+      "timestamp": "2026-07-01T02:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "一起喝吧 https://t.co/t6oGz9yxKK",
+    "publish_time": "2026-07-01T01:38:40"
+  },
+  {
+    "file_name": "HMFIYzNaUAAJqMo.jpg",
+    "user": {
+      "screen_name": "inspiredPeng",
+      "name": "地空捣蛋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMFIYzNaUAAJqMo.jpg",
+    "read_time": "2026-07-01T02:01:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28370,
+      "timestamp": "2026-07-01T02:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 79529,
+      "size_mb": 0.08,
+      "timestamp": "2026-07-01T02:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "X版 https://t.co/7uY2l7LOLm",
+    "publish_time": "2026-07-01T01:58:20"
   }
 ]
