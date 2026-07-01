@@ -622,5 +622,137 @@
     },
     "full_text": "期待一下吧 https://t.co/4OD1nwjFtI",
     "publish_time": "2026-07-02T02:46:48"
+  },
+  {
+    "file_name": "xksC3USY-LUkDVCi.mp4",
+    "user": {
+      "screen_name": "wei821216",
+      "name": "rrr"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2071826664682651648/vid/avc1/720x1280/xksC3USY-LUkDVCi.mp4?tag=28",
+    "read_time": "2026-07-02T05:02:05",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (115MB > 50MB)",
+      "timestamp": "2026-07-02T05:02:08",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 120924763,
+      "size_mb": 115.32,
+      "timestamp": "2026-07-02T05:02:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/yPDYglnl9a",
+    "publish_time": "2026-07-02T04:21:39"
+  },
+  {
+    "file_name": "jeyo-nZ1qTx0UPU-.mp4",
+    "user": {
+      "screen_name": "wei821216",
+      "name": "rrr"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1969650156237963265/vid/avc1/1080x1920/jeyo-nZ1qTx0UPU-.mp4?tag=21",
+    "read_time": "2026-07-02T05:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28488,
+      "timestamp": "2026-07-02T05:02:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 29253503,
+      "size_mb": 27.9,
+      "timestamp": "2026-07-02T05:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ZA7XY8APds",
+    "publish_time": "2026-07-02T04:37:22"
+  },
+  {
+    "file_name": "HMK5CeKaQAAHDcR.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMK5CeKaQAAHDcR.jpg",
+    "read_time": "2026-07-02T05:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28489,
+      "timestamp": "2026-07-02T05:02:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 179173,
+      "size_mb": 0.17,
+      "timestamp": "2026-07-02T05:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "aaron0107lu https://t.co/klW3kfF4Lh",
+    "publish_time": "2026-07-02T04:48:59"
+  },
+  {
+    "file_name": "HMK7EeZaAAA_AS0.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMK7EeZaAAA_AS0.jpg",
+    "read_time": "2026-07-02T05:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28490,
+      "timestamp": "2026-07-02T05:02:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 137432,
+      "size_mb": 0.13,
+      "timestamp": "2026-07-02T05:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/LBTA4eGek3",
+    "publish_time": "2026-07-02T04:57:52"
+  },
+  {
+    "file_name": "HMK7FnkaoAAyVsP.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMK7FnkaoAAyVsP.jpg",
+    "read_time": "2026-07-02T05:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28491,
+      "timestamp": "2026-07-02T05:02:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 137432,
+      "size_mb": 0.13,
+      "timestamp": "2026-07-02T05:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/RowIQULhxS",
+    "publish_time": "2026-07-02T04:57:56"
   }
 ]
