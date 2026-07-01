@@ -754,5 +754,31 @@
     },
     "full_text": "https://t.co/RowIQULhxS",
     "publish_time": "2026-07-02T04:57:56"
+  },
+  {
+    "file_name": "HMLTR_UbAAERKG6.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMLTR_UbAAERKG6.jpg",
+    "read_time": "2026-07-02T07:02:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28492,
+      "timestamp": "2026-07-02T07:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 91176,
+      "size_mb": 0.09,
+      "timestamp": "2026-07-02T07:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "david_der_der https://t.co/XOddNDOpSY",
+    "publish_time": "2026-07-02T06:43:38"
   }
 ]
