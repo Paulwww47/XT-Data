@@ -544,5 +544,57 @@
     },
     "full_text": "可以进去吗？ https://t.co/jOT2q1Kipt",
     "publish_time": "2026-07-04T03:19:46"
+  },
+  {
+    "file_name": "dL4XksryaGKOeHNo.mp4",
+    "user": {
+      "screen_name": "77baxi",
+      "name": "健身教练cd伪娘"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2073051611992371200/vid/avc1/700x1280/dL4XksryaGKOeHNo.mp4?tag=28",
+    "read_time": "2026-07-04T05:01:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28701,
+      "timestamp": "2026-07-04T05:01:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 22797941,
+      "size_mb": 21.74,
+      "timestamp": "2026-07-04T05:01:18",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/1GJHx2cXKV",
+    "publish_time": "2026-07-04T04:47:06"
+  },
+  {
+    "file_name": "zDP3dyekEXzGL-RG.mp4",
+    "user": {
+      "screen_name": "77baxi",
+      "name": "健身教练cd伪娘"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2071825611819978752/vid/avc1/720x1280/zDP3dyekEXzGL-RG.mp4?tag=14",
+    "read_time": "2026-07-04T05:01:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28702,
+      "timestamp": "2026-07-04T05:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7012156,
+      "size_mb": 6.69,
+      "timestamp": "2026-07-04T05:01:23",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/RORwT2P4jT",
+    "publish_time": "2026-07-04T04:58:02"
   }
 ]
