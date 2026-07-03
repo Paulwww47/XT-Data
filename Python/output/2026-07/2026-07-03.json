@@ -1454,5 +1454,33 @@
     },
     "full_text": "Like this https://t.co/StPH2K28Bl",
     "publish_time": "2026-07-03T13:59:00"
+  },
+  {
+    "file_name": "EOCTfOmHbPCLMH16.mp4",
+    "user": {
+      "screen_name": "monkeyking_phys",
+      "name": "MonkeyKingPhysique"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2053932979953844224/vid/avc1/720x1280/EOCTfOmHbPCLMH16.mp4?tag=27",
+    "read_time": "2026-07-03T15:01:09",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (87MB > 50MB)",
+      "timestamp": "2026-07-03T15:01:11",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 92242084,
+      "size_mb": 87.97,
+      "timestamp": "2026-07-03T15:01:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/DQQJZ2N41p",
+    "publish_time": "2026-07-03T14:25:34"
   }
 ]

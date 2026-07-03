@@ -560,5 +560,19 @@
     "tweetUrl": "https://x.com/chuanzhang0320/status/2072923042280534411",
     "fullText": "Like this https://t.co/StPH2K28Bl",
     "publishTime": "2026-07-03T13:59:00"
+  },
+  {
+    "user": {
+      "screenName": "monkeyking_phys",
+      "name": "MonkeyKingPhysique"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2053932979953844224/vid/avc1/720x1280/EOCTfOmHbPCLMH16.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/monkeyking_phys/status/2072929725371302027",
+    "fullText": "https://t.co/DQQJZ2N41p",
+    "publishTime": "2026-07-03T14:25:34"
   }
 ]
