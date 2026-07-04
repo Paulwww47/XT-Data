@@ -924,14 +924,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (127MB > 50MB)",
       "timestamp": "2026-07-04T10:01:21",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 133476377,
       "size_mb": 127.29,
-      "timestamp": "2026-07-04T10:01:21",
+      "timestamp": "2026-07-04T11:01:57",
       "download_attempts": 0
     },
     "full_text": "👔西裝愛好者👔 https://t.co/0oRXgh9dF5",
@@ -952,14 +952,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (101MB > 50MB)",
       "timestamp": "2026-07-04T10:01:29",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 106526794,
       "size_mb": 101.59,
-      "timestamp": "2026-07-04T10:01:29",
+      "timestamp": "2026-07-04T11:01:58",
       "download_attempts": 0
     },
     "full_text": "yes有空了剪下上周视频 \n看自己射精还是太涩了 有感觉 https://t.co/57joYk7ijY",
@@ -990,5 +990,109 @@
     },
     "full_text": "单拎玩奶子到射精这段也很色噢\n喷了好多很浓的白精 留下来的感觉更色了 https://t.co/u0wo1dhvAi",
     "publish_time": "2026-07-04T09:57:17"
+  },
+  {
+    "file_name": "HMWYPJ1bIAALunX.jpg",
+    "user": {
+      "screen_name": "Mizsubm",
+      "name": "..."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMWYPJ1bIAALunX.jpg",
+    "read_time": "2026-07-04T11:01:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28716,
+      "timestamp": "2026-07-04T11:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 65008,
+      "size_mb": 0.06,
+      "timestamp": "2026-07-04T11:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/hpoa1vLMbi",
+    "publish_time": "2026-07-04T10:21:07"
+  },
+  {
+    "file_name": "HMWdl0UXwAAOkbf.jpg",
+    "user": {
+      "screen_name": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMWdl0UXwAAOkbf.jpg",
+    "read_time": "2026-07-04T11:01:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28717,
+      "timestamp": "2026-07-04T11:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 217610,
+      "size_mb": 0.21,
+      "timestamp": "2026-07-04T11:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "来到世界著名景点 https://t.co/XHAi6kacdP",
+    "publish_time": "2026-07-04T10:44:32"
+  },
+  {
+    "file_name": "HMWgfVkbAAAWTo9.jpg",
+    "user": {
+      "screen_name": "HorgeL_",
+      "name": "Horge🤖"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMWgfVkbAAAWTo9.jpg",
+    "read_time": "2026-07-04T11:01:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28718,
+      "timestamp": "2026-07-04T11:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 166817,
+      "size_mb": 0.16,
+      "timestamp": "2026-07-04T11:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "早上好🌞 https://t.co/5Env9HDSkl",
+    "publish_time": "2026-07-04T10:57:15"
+  },
+  {
+    "file_name": "BWc8_AT73GrhXr5n.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2073240537453514752/vid/avc1/720x1280/BWc8_AT73GrhXr5n.mp4?tag=14",
+    "read_time": "2026-07-04T11:01:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28719,
+      "timestamp": "2026-07-04T11:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1354701,
+      "size_mb": 1.29,
+      "timestamp": "2026-07-04T11:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年7月4日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/g78ydGmizJ",
+    "publish_time": "2026-07-04T11:00:47"
   }
 ]
