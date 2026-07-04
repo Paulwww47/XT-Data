@@ -2854,14 +2854,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (744MB > 50MB)",
       "timestamp": "2026-07-05T00:01:22",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 781146532,
       "size_mb": 744.96,
-      "timestamp": "2026-07-05T00:01:22",
+      "timestamp": "2026-07-05T01:01:58",
       "download_attempts": 0
     },
     "full_text": "https://t.co/zd23Enuymu",
