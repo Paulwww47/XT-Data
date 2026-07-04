@@ -856,14 +856,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (54MB > 50MB)",
       "timestamp": "2026-07-05T03:01:51",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 56889453,
       "size_mb": 54.25,
-      "timestamp": "2026-07-05T03:01:51",
+      "timestamp": "2026-07-05T04:01:03",
       "download_attempts": 0
     },
     "full_text": "https://t.co/8mcgE5gT0I",
@@ -894,5 +894,57 @@
     },
     "full_text": "https://t.co/hhZ4v2ur6G",
     "publish_time": "2026-07-05T02:47:12"
+  },
+  {
+    "file_name": "HMZ9AY7aAAA5SNt.jpg",
+    "user": {
+      "screen_name": "Harry1910040",
+      "name": "ai吃猪柳蛋麦满分"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMZ9AY7aAAA5SNt.jpg",
+    "read_time": "2026-07-05T04:01:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28816,
+      "timestamp": "2026-07-05T04:01:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 53378,
+      "size_mb": 0.05,
+      "timestamp": "2026-07-05T04:01:03",
+      "download_attempts": 0
+    },
+    "full_text": "终于终于被人要香水了 https://t.co/hGfdMj74Ky",
+    "publish_time": "2026-07-05T03:00:38"
+  },
+  {
+    "file_name": "DyZNZdvMHJyLqarn.mp4",
+    "user": {
+      "screen_name": "MCdanbaifen",
+      "name": "猛吃蛋白粉🐯"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2073487527919620096/pu/vid/avc1/1280x720/DyZNZdvMHJyLqarn.mp4?tag=12",
+    "read_time": "2026-07-05T04:01:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28817,
+      "timestamp": "2026-07-05T04:01:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1440377,
+      "size_mb": 1.37,
+      "timestamp": "2026-07-05T04:01:05",
+      "download_attempts": 0
+    },
+    "full_text": "想谈恋爱，但自己好像个妓女，随缘吧 https://t.co/oC5zymdTtT",
+    "publish_time": "2026-07-05T03:22:12"
   }
 ]
