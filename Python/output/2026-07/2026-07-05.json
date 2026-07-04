@@ -222,17 +222,285 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (408MB > 50MB)",
       "timestamp": "2026-07-05T01:02:57",
+      "notification_sent": true
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 428562266,
+      "size_mb": 408.71,
+      "timestamp": "2026-07-05T02:01:10",
+      "download_attempts": 0
+    },
+    "full_text": "大活络丸 https://t.co/eCNVahKJkX",
+    "publish_time": "2026-07-05T00:59:50"
+  },
+  {
+    "file_name": "TWKhUFdhYm6sezcB.mp4",
+    "user": {
+      "screen_name": "asshell",
+      "name": "🇦🇺澳洲男子公司🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2073094048227995648/vid/avc1/1920x1080/TWKhUFdhYm6sezcB.mp4?tag=28",
+    "read_time": "2026-07-05T02:01:04",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (547MB > 50MB)",
+      "timestamp": "2026-07-05T02:01:12",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 428562266,
-      "size_mb": 408.71,
-      "timestamp": "2026-07-05T01:02:57",
+      "size": 574335412,
+      "size_mb": 547.73,
+      "timestamp": "2026-07-05T02:01:12",
       "download_attempts": 0
     },
-    "full_text": "大活络丸 https://t.co/eCNVahKJkX",
-    "publish_time": "2026-07-05T00:59:50"
+    "full_text": "https://t.co/zZXUIpkL19",
+    "publish_time": "2026-07-05T01:01:24"
+  },
+  {
+    "file_name": "bTAsOUc2bHZowOfA.mp4",
+    "user": {
+      "screen_name": "asshell",
+      "name": "🇦🇺澳洲男子公司🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2072936260558319616/vid/avc1/1920x1080/bTAsOUc2bHZowOfA.mp4?tag=28",
+    "read_time": "2026-07-05T02:01:04",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (1094MB > 50MB)",
+      "timestamp": "2026-07-05T02:01:16",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 1147244163,
+      "size_mb": 1094.1,
+      "timestamp": "2026-07-05T02:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/P2ji9K5Yap",
+    "publish_time": "2026-07-05T01:08:11"
+  },
+  {
+    "file_name": "ZEhcvCMe3smjFf2K.mp4",
+    "user": {
+      "screen_name": "asshell",
+      "name": "🇦🇺澳洲男子公司🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2067497639458041856/vid/avc1/720x1280/ZEhcvCMe3smjFf2K.mp4?tag=28",
+    "read_time": "2026-07-05T02:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28796,
+      "timestamp": "2026-07-05T02:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 8789421,
+      "size_mb": 8.38,
+      "timestamp": "2026-07-05T02:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/HdZvG16Oqn",
+    "publish_time": "2026-07-05T01:08:53"
+  },
+  {
+    "file_name": "9cYqvnLcobkHwNV5.mp4",
+    "user": {
+      "screen_name": "asshell",
+      "name": "🇦🇺澳洲男子公司🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2073265860651962368/vid/avc1/1920x1080/9cYqvnLcobkHwNV5.mp4?tag=28",
+    "read_time": "2026-07-05T02:01:04",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (1891MB > 50MB)",
+      "timestamp": "2026-07-05T02:01:27",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 1982906747,
+      "size_mb": 1891.05,
+      "timestamp": "2026-07-05T02:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/FwPc8SiKZ1",
+    "publish_time": "2026-07-05T01:43:10"
+  },
+  {
+    "file_name": "pNFDPDx9T9pHhO9e.mp4",
+    "user": {
+      "screen_name": "asshell",
+      "name": "🇦🇺澳洲男子公司🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2073163804385652736/pu/vid/avc1/1280x720/pNFDPDx9T9pHhO9e.mp4?tag=12",
+    "read_time": "2026-07-05T02:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28797,
+      "timestamp": "2026-07-05T02:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 13682836,
+      "size_mb": 13.05,
+      "timestamp": "2026-07-05T02:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vCuafwKnro",
+    "publish_time": "2026-07-05T01:44:06"
+  },
+  {
+    "file_name": "pH_QZZdIo_A4CrDh.mp4",
+    "user": {
+      "screen_name": "asshell",
+      "name": "🇦🇺澳洲男子公司🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2073393352188547073/vid/avc1/720x1280/pH_QZZdIo_A4CrDh.mp4?tag=28",
+    "read_time": "2026-07-05T02:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28798,
+      "timestamp": "2026-07-05T02:01:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5926226,
+      "size_mb": 5.65,
+      "timestamp": "2026-07-05T02:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/1Mggxqxb2S",
+    "publish_time": "2026-07-05T01:46:03"
+  },
+  {
+    "file_name": "pV8dCd3G3I1fRu6F.mp4",
+    "user": {
+      "screen_name": "asshell",
+      "name": "🇦🇺澳洲男子公司🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2073173946850271232/vid/avc1/720x1280/pV8dCd3G3I1fRu6F.mp4?tag=28",
+    "read_time": "2026-07-05T02:01:04",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (124MB > 50MB)",
+      "timestamp": "2026-07-05T02:01:32",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 130368671,
+      "size_mb": 124.33,
+      "timestamp": "2026-07-05T02:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/iH4bqzx8HC",
+    "publish_time": "2026-07-05T01:49:35"
+  },
+  {
+    "file_name": "Ltvqvzcaa71vsgqf.mp4",
+    "user": {
+      "screen_name": "asshell",
+      "name": "🇦🇺澳洲男子公司🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2072785322535251968/pu/vid/avc1/694x1278/Ltvqvzcaa71vsgqf.mp4?tag=12",
+    "read_time": "2026-07-05T02:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28799,
+      "timestamp": "2026-07-05T02:01:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 20011807,
+      "size_mb": 19.08,
+      "timestamp": "2026-07-05T02:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/P4phmNYwCH",
+    "publish_time": "2026-07-05T01:51:49"
+  },
+  {
+    "file_name": "_P_0--4TYqo2RBB5.mp4",
+    "user": {
+      "screen_name": "asshell",
+      "name": "🇦🇺澳洲男子公司🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2073070557701287936/vid/avc1/920x720/_P_0--4TYqo2RBB5.mp4?tag=14",
+    "read_time": "2026-07-05T02:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28800,
+      "timestamp": "2026-07-05T02:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7225385,
+      "size_mb": 6.89,
+      "timestamp": "2026-07-05T02:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/dGobD7La0G",
+    "publish_time": "2026-07-05T01:55:12"
+  },
+  {
+    "file_name": "XcqHN298XM6YC0IY.mp4",
+    "user": {
+      "screen_name": "asshell",
+      "name": "🇦🇺澳洲男子公司🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1758417609303920640/pu/vid/avc1/1920x1080/XcqHN298XM6YC0IY.mp4?tag=14",
+    "read_time": "2026-07-05T02:01:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28801,
+      "timestamp": "2026-07-05T02:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 39116693,
+      "size_mb": 37.3,
+      "timestamp": "2026-07-05T02:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/i4pTq3LUw9",
+    "publish_time": "2026-07-05T01:58:38"
   }
 ]
