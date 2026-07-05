@@ -2184,17 +2184,227 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (408MB > 50MB)",
       "timestamp": "2026-07-05T18:01:33",
+      "notification_sent": true
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 428346707,
+      "size_mb": 408.5,
+      "timestamp": "2026-07-05T19:01:03",
+      "download_attempts": 0
+    },
+    "full_text": "chocolatemint_g https://t.co/VTtwaO8Vx8",
+    "publish_time": "2026-07-05T17:51:51"
+  },
+  {
+    "file_name": "HMdMsTPbcAEpQDY.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMdMsTPbcAEpQDY.jpg",
+    "read_time": "2026-07-05T19:01:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28865,
+      "timestamp": "2026-07-05T19:01:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 83347,
+      "size_mb": 0.08,
+      "timestamp": "2026-07-05T19:01:03",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/gzEGOXS8DM",
+    "publish_time": "2026-07-05T18:08:01"
+  },
+  {
+    "file_name": "HMdN-RxawAAgeVy.jpg",
+    "user": {
+      "screen_name": "caiancheng2",
+      "name": "山一户"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMdN-RxawAAgeVy.jpg",
+    "read_time": "2026-07-05T19:01:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28866,
+      "timestamp": "2026-07-05T19:01:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 172399,
+      "size_mb": 0.16,
+      "timestamp": "2026-07-05T19:01:05",
+      "download_attempts": 0
+    },
+    "full_text": "努力减脂 https://t.co/W6Mruvy5aU",
+    "publish_time": "2026-07-05T18:13:38"
+  },
+  {
+    "file_name": "HMdN-RyaYAAnfGL.jpg",
+    "user": {
+      "screen_name": "caiancheng2",
+      "name": "山一户"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMdN-RyaYAAnfGL.jpg",
+    "read_time": "2026-07-05T19:01:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28867,
+      "timestamp": "2026-07-05T19:01:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 128328,
+      "size_mb": 0.12,
+      "timestamp": "2026-07-05T19:01:07",
+      "download_attempts": 0
+    },
+    "full_text": "努力减脂 https://t.co/W6Mruvy5aU",
+    "publish_time": "2026-07-05T18:13:38"
+  },
+  {
+    "file_name": "HMdN-RyagAAjZ1s.jpg",
+    "user": {
+      "screen_name": "caiancheng2",
+      "name": "山一户"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMdN-RyagAAjZ1s.jpg",
+    "read_time": "2026-07-05T19:01:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28868,
+      "timestamp": "2026-07-05T19:01:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 153792,
+      "size_mb": 0.15,
+      "timestamp": "2026-07-05T19:01:08",
+      "download_attempts": 0
+    },
+    "full_text": "努力减脂 https://t.co/W6Mruvy5aU",
+    "publish_time": "2026-07-05T18:13:38"
+  },
+  {
+    "file_name": "Tyy8Ss9y21_EXCPU.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2073706729322557440/vid/avc1/1920x886/Tyy8Ss9y21_EXCPU.mp4?tag=28",
+    "read_time": "2026-07-05T19:01:01",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (132MB > 50MB)",
+      "timestamp": "2026-07-05T19:01:10",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 428346707,
-      "size_mb": 408.5,
-      "timestamp": "2026-07-05T18:01:33",
+      "size": 139082155,
+      "size_mb": 132.64,
+      "timestamp": "2026-07-05T19:01:10",
       "download_attempts": 0
     },
-    "full_text": "chocolatemint_g https://t.co/VTtwaO8Vx8",
-    "publish_time": "2026-07-05T17:51:51"
+    "full_text": "坐哪呀 https://t.co/ObdgVWdeVr",
+    "publish_time": "2026-07-05T18:16:41"
+  },
+  {
+    "file_name": "oblwW2upkYmnUNn2.mp4",
+    "user": {
+      "screen_name": "shakeitbabee",
+      "name": "花事了"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2073712941116051456/vid/avc1/720x1280/oblwW2upkYmnUNn2.mp4?tag=28",
+    "read_time": "2026-07-05T19:01:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28869,
+      "timestamp": "2026-07-05T19:01:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 281437,
+      "size_mb": 0.27,
+      "timestamp": "2026-07-05T19:01:10",
+      "download_attempts": 0
+    },
+    "full_text": "换了个进阶版的Hiit 好累 https://t.co/YT1eo58DGt",
+    "publish_time": "2026-07-05T18:18:01"
+  },
+  {
+    "file_name": "QDFT2HGyWGn3OmkM.mp4",
+    "user": {
+      "screen_name": "shakeitbabee",
+      "name": "花事了"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2073712941132881920/vid/avc1/720x1280/QDFT2HGyWGn3OmkM.mp4?tag=28",
+    "read_time": "2026-07-05T19:01:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28870,
+      "timestamp": "2026-07-05T19:01:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 548783,
+      "size_mb": 0.52,
+      "timestamp": "2026-07-05T19:01:12",
+      "download_attempts": 0
+    },
+    "full_text": "换了个进阶版的Hiit 好累 https://t.co/YT1eo58DGt",
+    "publish_time": "2026-07-05T18:18:01"
+  },
+  {
+    "file_name": "HMdXwvaagAA9IIK.jpg",
+    "user": {
+      "screen_name": "chen986903",
+      "name": "chen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMdXwvaagAA9IIK.jpg",
+    "read_time": "2026-07-05T19:01:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28871,
+      "timestamp": "2026-07-05T19:01:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 85343,
+      "size_mb": 0.08,
+      "timestamp": "2026-07-05T19:01:14",
+      "download_attempts": 0
+    },
+    "full_text": "美味震撼来袭 https://t.co/vdTFmRaDPe",
+    "publish_time": "2026-07-05T18:56:25"
   }
 ]
