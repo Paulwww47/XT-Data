@@ -2316,14 +2316,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (132MB > 50MB)",
       "timestamp": "2026-07-05T19:01:10",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 139082155,
       "size_mb": 132.64,
-      "timestamp": "2026-07-05T19:01:10",
+      "timestamp": "2026-07-05T20:01:03",
       "download_attempts": 0
     },
     "full_text": "坐哪呀 https://t.co/ObdgVWdeVr",
@@ -2406,5 +2406,31 @@
     },
     "full_text": "美味震撼来袭 https://t.co/vdTFmRaDPe",
     "publish_time": "2026-07-05T18:56:25"
+  },
+  {
+    "file_name": "HMdiI8TbEAAqKDi.jpg",
+    "user": {
+      "screen_name": "thihasoe_ts",
+      "name": "T"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMdiI8TbEAAqKDi.jpg",
+    "read_time": "2026-07-05T20:01:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28872,
+      "timestamp": "2026-07-05T20:01:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 121531,
+      "size_mb": 0.12,
+      "timestamp": "2026-07-05T20:01:03",
+      "download_attempts": 0
+    },
+    "full_text": "I think I like this underwear 🐼 https://t.co/9o3DiCarAJ",
+    "publish_time": "2026-07-05T19:41:44"
   }
 ]
