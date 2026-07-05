@@ -2168,5 +2168,33 @@
     },
     "full_text": "【推荐】想要他的写真或者上海按摩spa的可以私信，🚪 https://t.co/5TJJZw840x",
     "publish_time": "2026-07-05T16:46:44"
+  },
+  {
+    "file_name": "1aPwQPhr-4tqIFkK.mp4",
+    "user": {
+      "screen_name": "maletease",
+      "name": "MaleTease"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2073703317260357632/vid/avc1/1080x1920/1aPwQPhr-4tqIFkK.mp4?tag=28",
+    "read_time": "2026-07-05T18:00:59",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (408MB > 50MB)",
+      "timestamp": "2026-07-05T18:01:33",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 428346707,
+      "size_mb": 408.5,
+      "timestamp": "2026-07-05T18:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "chocolatemint_g https://t.co/VTtwaO8Vx8",
+    "publish_time": "2026-07-05T17:51:51"
   }
 ]
