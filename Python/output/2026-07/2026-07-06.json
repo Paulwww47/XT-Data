@@ -492,5 +492,31 @@
     },
     "full_text": "https://t.co/isU13NFd1r",
     "publish_time": "2026-07-06T05:27:44"
+  },
+  {
+    "file_name": "ExmjBqTG3JWdhNkC.mp4",
+    "user": {
+      "screen_name": "nlgzwmz0",
+      "name": "Vanda"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2073902609719574528/vid/avc1/720x1280/ExmjBqTG3JWdhNkC.mp4?tag=28",
+    "read_time": "2026-07-06T07:01:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 28921,
+      "timestamp": "2026-07-06T07:01:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4062456,
+      "size_mb": 3.87,
+      "timestamp": "2026-07-06T07:01:10",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/BuKmK0hAM9",
+    "publish_time": "2026-07-06T06:51:56"
   }
 ]

@@ -189,5 +189,19 @@
     "tweetUrl": "https://x.com/monkeyking_phys/status/2073881541416243615",
     "fullText": "https://t.co/isU13NFd1r",
     "publishTime": "2026-07-06T05:27:44"
+  },
+  {
+    "user": {
+      "screenName": "nlgzwmz0",
+      "name": "Vanda"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2073902609719574528/vid/avc1/720x1280/ExmjBqTG3JWdhNkC.mp4?tag=28"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/nlgzwmz0/status/2073902727935987988",
+    "fullText": "https://t.co/BuKmK0hAM9",
+    "publishTime": "2026-07-06T06:51:56"
   }
 ]
