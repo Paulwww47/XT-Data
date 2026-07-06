@@ -40,14 +40,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (57MB > 50MB)",
       "timestamp": "2026-07-07T01:01:09",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 60180166,
       "size_mb": 57.39,
-      "timestamp": "2026-07-07T01:01:09",
+      "timestamp": "2026-07-07T02:02:08",
       "download_attempts": 0
     },
     "full_text": "https://t.co/JE6Hyx7WK8",
@@ -156,5 +156,187 @@
     },
     "full_text": "6cm的 https://t.co/ntxCij97mI",
     "publish_time": "2026-07-07T00:46:07"
+  },
+  {
+    "file_name": "HMj2icAaAAAuDZi.jpg",
+    "user": {
+      "screen_name": "Harry1910040",
+      "name": "ai吃猪柳蛋麦满分"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMj2icAaAAAuDZi.jpg",
+    "read_time": "2026-07-07T02:02:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29012,
+      "timestamp": "2026-07-07T02:02:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 124659,
+      "size_mb": 0.12,
+      "timestamp": "2026-07-07T02:02:08",
+      "download_attempts": 0
+    },
+    "full_text": "想谈恋爱了😞 https://t.co/yra4Opf3M6",
+    "publish_time": "2026-07-07T01:08:34"
+  },
+  {
+    "file_name": "mK2WtCjm3pwOO3Gh.mp4",
+    "user": {
+      "screen_name": "sx84604818",
+      "name": "Rexsonic Man+ suits & socks"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1959177397775003648/vid/avc1/720x1280/mK2WtCjm3pwOO3Gh.mp4?tag=14",
+    "read_time": "2026-07-07T02:02:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29013,
+      "timestamp": "2026-07-07T02:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 929509,
+      "size_mb": 0.89,
+      "timestamp": "2026-07-07T02:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "👬男極性樂園👬 https://t.co/ig0O3aShPY",
+    "publish_time": "2026-07-07T01:09:58"
+  },
+  {
+    "file_name": "a2NY3BqcXrQijC3Y.mp4",
+    "user": {
+      "screen_name": "sx84604818",
+      "name": "Rexsonic Man+ suits & socks"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1985645756540469250/vid/avc1/720x1280/a2NY3BqcXrQijC3Y.mp4?tag=21",
+    "read_time": "2026-07-07T02:02:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29014,
+      "timestamp": "2026-07-07T02:02:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 9414460,
+      "size_mb": 8.98,
+      "timestamp": "2026-07-07T02:02:13",
+      "download_attempts": 0
+    },
+    "full_text": "👬男極性樂園👬 https://t.co/yMwrBKTHfp",
+    "publish_time": "2026-07-07T01:11:04"
+  },
+  {
+    "file_name": "HMkCa8FboAA8YZ6.jpg",
+    "user": {
+      "screen_name": "dunzh299016",
+      "name": "吉吉"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMkCa8FboAA8YZ6.jpg",
+    "read_time": "2026-07-07T02:02:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29015,
+      "timestamp": "2026-07-07T02:02:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 76182,
+      "size_mb": 0.07,
+      "timestamp": "2026-07-07T02:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "努力是我唯一能做的事 https://t.co/YZLtpvHApK",
+    "publish_time": "2026-07-07T02:00:44"
+  },
+  {
+    "file_name": "HMkCb_waEAAEdVf.jpg",
+    "user": {
+      "screen_name": "dunzh299016",
+      "name": "吉吉"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMkCb_waEAAEdVf.jpg",
+    "read_time": "2026-07-07T02:02:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29016,
+      "timestamp": "2026-07-07T02:02:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 67133,
+      "size_mb": 0.06,
+      "timestamp": "2026-07-07T02:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "努力是我唯一能做的事 https://t.co/YZLtpvHApK",
+    "publish_time": "2026-07-07T02:00:44"
+  },
+  {
+    "file_name": "HMkCc67b0AASn22.jpg",
+    "user": {
+      "screen_name": "dunzh299016",
+      "name": "吉吉"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMkCc67b0AASn22.jpg",
+    "read_time": "2026-07-07T02:02:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29017,
+      "timestamp": "2026-07-07T02:02:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 52742,
+      "size_mb": 0.05,
+      "timestamp": "2026-07-07T02:02:17",
+      "download_attempts": 0
+    },
+    "full_text": "努力是我唯一能做的事 https://t.co/YZLtpvHApK",
+    "publish_time": "2026-07-07T02:00:44"
+  },
+  {
+    "file_name": "HMkCd3naoAE5H9j.jpg",
+    "user": {
+      "screen_name": "dunzh299016",
+      "name": "吉吉"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMkCd3naoAE5H9j.jpg",
+    "read_time": "2026-07-07T02:02:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29018,
+      "timestamp": "2026-07-07T02:02:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 50618,
+      "size_mb": 0.05,
+      "timestamp": "2026-07-07T02:02:18",
+      "download_attempts": 0
+    },
+    "full_text": "努力是我唯一能做的事 https://t.co/YZLtpvHApK",
+    "publish_time": "2026-07-07T02:00:44"
   }
 ]
