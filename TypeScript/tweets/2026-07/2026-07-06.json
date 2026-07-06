@@ -203,5 +203,19 @@
     "tweetUrl": "https://x.com/nlgzwmz0/status/2073902727935987988",
     "fullText": "https://t.co/BuKmK0hAM9",
     "publishTime": "2026-07-06T06:51:56"
+  },
+  {
+    "user": {
+      "screenName": "Maxnicnix",
+      "name": "Max"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1998886837746552832/pu/vid/avc1/720x720/A2Lud61FJMDDcfts.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Maxnicnix/status/2073912995051405497",
+    "fullText": "https://t.co/t3W9Ao7JTV",
+    "publishTime": "2026-07-06T07:32:44"
   }
 ]
