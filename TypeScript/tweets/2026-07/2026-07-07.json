@@ -226,5 +226,33 @@
     "tweetUrl": "https://x.com/tnzhfng41/status/2074261825018057198",
     "fullText": "https://t.co/SGtXvm6aFZ",
     "publishTime": "2026-07-07T06:38:51"
+  },
+  {
+    "user": {
+      "screenName": "singlechain1",
+      "name": "单链Harvey"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlnmnAbYAAKska.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/singlechain1/status/2074303032540745985",
+    "fullText": "忙到一周遗精三回 https://t.co/JTHneBBIvH",
+    "publishTime": "2026-07-07T09:22:36"
+  },
+  {
+    "user": {
+      "screenName": "inspiredPeng",
+      "name": "地空捣蛋"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMlvp1ja0AAZKxf.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/inspiredPeng/status/2074311885542035592",
+    "fullText": "https://t.co/Ku1sUvoG4s",
+    "publishTime": "2026-07-07T09:57:47"
   }
 ]
