@@ -284,5 +284,33 @@
     },
     "full_text": "Japanese people please repost 😂 เห็นช่องนี้แดกทุกอย่างกับน้ำจิ้มไก่ละกูงึดมาก 555555 ล่าสุดแตงกวาจิ้มน้ำจิ้มไก่ แล้วเห็นให้แต่A คือยี่ห้อนี้มันไม่อร่อยปะ แม่ประนอมจิ้มอะไรก็อร่อยอะเอาดีๆ (ยกเว้นปลาดิบ) https://t.co/ePGl9sx2U9",
     "publish_time": "2026-07-08T01:46:20"
+  },
+  {
+    "file_name": "_YOnoOTt5gryVL2I.mp4",
+    "user": {
+      "screen_name": "iamcaptainbrat",
+      "name": "Captain"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2045142463933997056/vid/avc1/1280x720/_YOnoOTt5gryVL2I.mp4?tag=21",
+    "read_time": "2026-07-08T07:01:52",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (337MB > 50MB)",
+      "timestamp": "2026-07-08T07:01:54",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 353389814,
+      "size_mb": 337.02,
+      "timestamp": "2026-07-08T07:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/tdVNBR0D5e",
+    "publish_time": "2026-07-08T06:36:36"
   }
 ]

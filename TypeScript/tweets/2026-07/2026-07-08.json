@@ -202,5 +202,19 @@
     "tweetUrl": "https://x.com/XXxLin18cn/status/2074563780290531532",
     "fullText": "你们是从哪里关注我的？",
     "publishTime": "2026-07-08T02:38:43"
+  },
+  {
+    "user": {
+      "screenName": "iamcaptainbrat",
+      "name": "Captain"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2045142463933997056/vid/avc1/1280x720/_YOnoOTt5gryVL2I.mp4?tag=21"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/iamcaptainbrat/status/2074623647852212541",
+    "fullText": "https://t.co/tdVNBR0D5e",
+    "publishTime": "2026-07-08T06:36:36"
   }
 ]
