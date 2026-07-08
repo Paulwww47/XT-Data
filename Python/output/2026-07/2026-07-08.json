@@ -300,14 +300,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (337MB > 50MB)",
       "timestamp": "2026-07-08T07:01:54",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 353389814,
       "size_mb": 337.02,
-      "timestamp": "2026-07-08T07:01:54",
+      "timestamp": "2026-07-08T08:01:56",
       "download_attempts": 0
     },
     "full_text": "https://t.co/tdVNBR0D5e",
