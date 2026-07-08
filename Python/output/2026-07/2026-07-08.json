@@ -666,14 +666,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (612MB > 50MB)",
       "timestamp": "2026-07-08T12:02:07",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 642115200,
       "size_mb": 612.37,
-      "timestamp": "2026-07-08T12:02:07",
+      "timestamp": "2026-07-08T13:02:54",
       "download_attempts": 0
     },
     "full_text": "https://t.co/6dHvfJTx1u",
@@ -886,5 +886,31 @@
     },
     "full_text": "初访蒙特利尔\n结识了新朋友\n这座城市的夏天 \n处处透着加拿大人的随和\n又不乏穿着精致鲜亮的丽人\n比温哥华洋气许多\n但似乎也少了点烟火气 https://t.co/QmyXS3jiIh",
     "publish_time": "2026-07-08T11:52:56"
+  },
+  {
+    "file_name": "HMrYVWQbwAAhoLL.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMrYVWQbwAAhoLL.jpg",
+    "read_time": "2026-07-08T13:02:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29143,
+      "timestamp": "2026-07-08T13:02:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 151031,
+      "size_mb": 0.14,
+      "timestamp": "2026-07-08T13:02:54",
+      "download_attempts": 0
+    },
+    "full_text": "sraorun https://t.co/LXmd8EIvyk",
+    "publish_time": "2026-07-08T12:13:34"
   }
 ]
