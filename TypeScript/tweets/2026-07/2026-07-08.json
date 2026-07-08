@@ -499,5 +499,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2074708444653957518",
     "fullText": "sraorun https://t.co/LXmd8EIvyk",
     "publishTime": "2026-07-08T12:13:34"
+  },
+  {
+    "user": {
+      "screenName": "zi80260",
+      "name": "赍志以殁"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2074721866477158400/pu/vid/avc1/1080x1920/6S5ttNXbH-MbKo2m.mp4?tag=26"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/zi80260/status/2074721991232499738",
+    "fullText": "https://t.co/jPA6zMd2kl",
+    "publishTime": "2026-07-08T13:07:23"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMrpUbHa0AAyKti.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2074727119960310182",
+    "fullText": "piffle.paffle_tl https://t.co/XPN3oPa5Lf",
+    "publishTime": "2026-07-08T13:27:46"
+  },
+  {
+    "user": {
+      "screenName": "XXxLin18cn",
+      "name": "小林不小"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMrvQEUa4AEAEiY.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/XXxLin18cn/status/2074733661778514388",
+    "fullText": "躺躺 https://t.co/Ly4BUTNsPw",
+    "publishTime": "2026-07-08T13:53:46"
   }
 ]
