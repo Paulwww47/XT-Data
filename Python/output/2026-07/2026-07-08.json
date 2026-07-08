@@ -572,5 +572,83 @@
     },
     "full_text": "anselm_cheng https://t.co/u5Cy1UlvQJ",
     "publish_time": "2026-07-08T10:01:03"
+  },
+  {
+    "file_name": "HMrCQr-aAAAXqm8.jpg",
+    "user": {
+      "screen_name": "xiaobei1554153",
+      "name": "xiaobei"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMrCQr-aAAAXqm8.jpg",
+    "read_time": "2026-07-08T11:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29132,
+      "timestamp": "2026-07-08T11:01:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 98736,
+      "size_mb": 0.09,
+      "timestamp": "2026-07-08T11:01:50",
+      "download_attempts": 0
+    },
+    "full_text": "额…昨天说的不算…重新计算😑 https://t.co/d2c9s8X8Hp",
+    "publish_time": "2026-07-08T10:37:08"
+  },
+  {
+    "file_name": "M6VMKBBfzUdHQ8rm.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2074686547207794688/vid/avc1/720x1280/M6VMKBBfzUdHQ8rm.mp4?tag=14",
+    "read_time": "2026-07-08T11:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29133,
+      "timestamp": "2026-07-08T11:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2035875,
+      "size_mb": 1.94,
+      "timestamp": "2026-07-08T11:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年7月8日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/Ulhd5sDnWS",
+    "publish_time": "2026-07-08T10:46:47"
+  },
+  {
+    "file_name": "HMrGQjBawAAVn3m.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMrGQjBawAAVn3m.jpg",
+    "read_time": "2026-07-08T11:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29134,
+      "timestamp": "2026-07-08T11:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101474,
+      "size_mb": 0.1,
+      "timestamp": "2026-07-08T11:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/tX6nWzKXTk",
+    "publish_time": "2026-07-08T10:54:35"
   }
 ]
