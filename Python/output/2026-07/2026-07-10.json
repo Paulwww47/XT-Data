@@ -480,7 +480,7 @@
     "upload_info": {},
     "is_downloaded": false,
     "download_info": {
-      "download_attempts": 1
+      "download_attempts": 2
     },
     "full_text": "https://t.co/fD3SmZkKtO",
     "publish_time": "2026-07-10T01:30:05"
@@ -500,14 +500,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (56MB > 50MB)",
       "timestamp": "2026-07-10T02:06:08",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 59071402,
       "size_mb": 56.33,
-      "timestamp": "2026-07-10T02:06:08",
+      "timestamp": "2026-07-10T03:06:14",
       "download_attempts": 0
     },
     "full_text": "https://t.co/sGl6YN4vZS",
@@ -616,5 +616,83 @@
     },
     "full_text": "https://t.co/hIKuvFNrr3",
     "publish_time": "2026-07-10T01:46:29"
+  },
+  {
+    "file_name": "HMzgiJcWMAAXDIJ.jpg",
+    "user": {
+      "screen_name": "klspbr",
+      "name": "小帅气"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMzgiJcWMAAXDIJ.jpg",
+    "read_time": "2026-07-10T03:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29354,
+      "timestamp": "2026-07-10T03:06:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 77057,
+      "size_mb": 0.07,
+      "timestamp": "2026-07-10T03:06:14",
+      "download_attempts": 0
+    },
+    "full_text": "听说你想看胯？OK 那看仔细了 https://t.co/x55ricnCuW",
+    "publish_time": "2026-07-10T02:07:28"
+  },
+  {
+    "file_name": "TipVWLGn-vk0Xg4E.mp4",
+    "user": {
+      "screen_name": "klspbr",
+      "name": "小帅气"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2075280470229635072/pu/vid/avc1/544x966/TipVWLGn-vk0Xg4E.mp4?tag=12",
+    "read_time": "2026-07-10T03:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29355,
+      "timestamp": "2026-07-10T03:06:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4200211,
+      "size_mb": 4.01,
+      "timestamp": "2026-07-10T03:06:16",
+      "download_attempts": 0
+    },
+    "full_text": "听说你想看胯？OK 那看仔细了 https://t.co/x55ricnCuW",
+    "publish_time": "2026-07-10T02:07:28"
+  },
+  {
+    "file_name": "hZCrF47hI4mAibrY.mp4",
+    "user": {
+      "screen_name": "LiugangLogan",
+      "name": "刘刚Logan"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2075285511560892416/vid/avc1/1280x720/hZCrF47hI4mAibrY.mp4?tag=28",
+    "read_time": "2026-07-10T03:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29356,
+      "timestamp": "2026-07-10T03:06:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1079038,
+      "size_mb": 1.03,
+      "timestamp": "2026-07-10T03:06:20",
+      "download_attempts": 0
+    },
+    "full_text": "慢动作倒放一下 https://t.co/HEU0S9i9NI",
+    "publish_time": "2026-07-10T02:26:53"
   }
 ]

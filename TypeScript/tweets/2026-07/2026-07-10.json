@@ -279,5 +279,35 @@
     "tweetUrl": "https://x.com/asshell/status/2075275412570304953",
     "fullText": "https://t.co/hIKuvFNrr3",
     "publishTime": "2026-07-10T01:46:29"
+  },
+  {
+    "user": {
+      "screenName": "klspbr",
+      "name": "小帅气"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HMzgiJcWMAAXDIJ.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2075280470229635072/pu/vid/avc1/544x966/TipVWLGn-vk0Xg4E.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/klspbr/status/2075280692624212399",
+    "fullText": "听说你想看胯？OK 那看仔细了 https://t.co/x55ricnCuW",
+    "publishTime": "2026-07-10T02:07:28"
+  },
+  {
+    "user": {
+      "screenName": "LiugangLogan",
+      "name": "刘刚Logan"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2075285511560892416/vid/avc1/1280x720/hZCrF47hI4mAibrY.mp4?tag=28"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/LiugangLogan/status/2075285578015482253",
+    "fullText": "慢动作倒放一下 https://t.co/HEU0S9i9NI",
+    "publishTime": "2026-07-10T02:26:53"
   }
 ]
