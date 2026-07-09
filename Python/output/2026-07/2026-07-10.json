@@ -477,10 +477,20 @@
     "url": "https://video.twimg.com/amplify_video/2074801289335296000/vid/avc1/1920x1080/w9HXmegPcpKFWfbS.mp4?tag=28",
     "read_time": "2026-07-10T02:01:41",
     "is_uploaded": false,
-    "upload_info": {},
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (3110MB > 50MB)",
+      "timestamp": "2026-07-10T04:01:56",
+      "notification_sent": false
+    },
     "is_downloaded": false,
     "download_info": {
-      "download_attempts": 2
+      "download_attempts": 0,
+      "success": true,
+      "size": 3261227672,
+      "size_mb": 3110.15,
+      "timestamp": "2026-07-10T04:01:56"
     },
     "full_text": "https://t.co/fD3SmZkKtO",
     "publish_time": "2026-07-10T01:30:05"
@@ -694,5 +704,57 @@
     },
     "full_text": "慢动作倒放一下 https://t.co/HEU0S9i9NI",
     "publish_time": "2026-07-10T02:26:53"
+  },
+  {
+    "file_name": "HMzu_VqasAAHvDB.jpg",
+    "user": {
+      "screen_name": "diedie65450999",
+      "name": "die die"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMzu_VqasAAHvDB.jpg",
+    "read_time": "2026-07-10T04:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29357,
+      "timestamp": "2026-07-10T04:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 191049,
+      "size_mb": 0.18,
+      "timestamp": "2026-07-10T04:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "hi https://t.co/gyW9owl3GJ",
+    "publish_time": "2026-07-10T03:09:33"
+  },
+  {
+    "file_name": "HMzvACybsAAZoEX.jpg",
+    "user": {
+      "screen_name": "diedie65450999",
+      "name": "die die"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMzvACybsAAZoEX.jpg",
+    "read_time": "2026-07-10T04:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29358,
+      "timestamp": "2026-07-10T04:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 212174,
+      "size_mb": 0.2,
+      "timestamp": "2026-07-10T04:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "hi https://t.co/gyW9owl3GJ",
+    "publish_time": "2026-07-10T03:09:33"
   }
 ]
