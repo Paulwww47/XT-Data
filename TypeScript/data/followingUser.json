@@ -4296,32 +4296,6 @@
     }
   },
   {
-    "restId": "2055209511502372864",
-    "legacy": {
-      "name": "omeboi",
-      "screenName": "omeboi83841",
-      "createdAt": "Fri May 15 08:51:57 +0000 2026",
-      "description": "https://t.co/xuFnuJqcgM\ndm for private group\nสนใจกลุ่มทักได้ค้าบตี๋อปป้างานดีเพียบ",
-      "entities": {
-        "description": {
-          "urls": [
-            {
-              "display_url": "t.me/+_P5NryTmTN8zO…",
-              "expanded_url": "https://t.me/+_P5NryTmTN8zODA1",
-              "indices": [
-                0,
-                23
-              ],
-              "url": "https://t.co/xuFnuJqcgM"
-            }
-          ]
-        }
-      },
-      "profileBannerUrl": "",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2073067541422075904/aeoS3xsf_normal.jpg"
-    }
-  },
-  {
     "restId": "1591089027846766592",
     "legacy": {
       "name": "OnceWu",

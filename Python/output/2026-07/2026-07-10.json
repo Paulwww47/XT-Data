@@ -2384,14 +2384,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (144MB > 50MB)",
       "timestamp": "2026-07-10T20:02:10",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 151341675,
       "size_mb": 144.33,
-      "timestamp": "2026-07-10T20:02:10",
+      "timestamp": "2026-07-10T21:03:01",
       "download_attempts": 0
     },
     "full_text": "🦌 https://t.co/UrmNKHWhSr",
@@ -2422,5 +2422,239 @@
     },
     "full_text": "🥵 https://t.co/ZfgWRq2vZz",
     "publish_time": "2026-07-10T19:35:58"
+  },
+  {
+    "file_name": "HM3bkg0bMAAFqwg.jpg",
+    "user": {
+      "screen_name": "Doraemonmans",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM3bkg0bMAAFqwg.jpg",
+    "read_time": "2026-07-10T21:03:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29422,
+      "timestamp": "2026-07-10T21:03:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 104629,
+      "size_mb": 0.1,
+      "timestamp": "2026-07-10T21:03:01",
+      "download_attempts": 0
+    },
+    "full_text": "写真和视频\n\n穿or脱 https://t.co/v9dPSAsAsr",
+    "publish_time": "2026-07-10T20:23:09"
+  },
+  {
+    "file_name": "HM3bkg6asAAH5-A.jpg",
+    "user": {
+      "screen_name": "Doraemonmans",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM3bkg6asAAH5-A.jpg",
+    "read_time": "2026-07-10T21:03:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29423,
+      "timestamp": "2026-07-10T21:03:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 137228,
+      "size_mb": 0.13,
+      "timestamp": "2026-07-10T21:03:02",
+      "download_attempts": 0
+    },
+    "full_text": "写真和视频\n\n穿or脱 https://t.co/v9dPSAsAsr",
+    "publish_time": "2026-07-10T20:23:09"
+  },
+  {
+    "file_name": "HM3bkgyaoAAdYbb.jpg",
+    "user": {
+      "screen_name": "Doraemonmans",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM3bkgyaoAAdYbb.jpg",
+    "read_time": "2026-07-10T21:03:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29424,
+      "timestamp": "2026-07-10T21:03:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 134450,
+      "size_mb": 0.13,
+      "timestamp": "2026-07-10T21:03:04",
+      "download_attempts": 0
+    },
+    "full_text": "写真和视频\n\n穿or脱 https://t.co/v9dPSAsAsr",
+    "publish_time": "2026-07-10T20:23:09"
+  },
+  {
+    "file_name": "HM3bkg_bsAEfD4Q.jpg",
+    "user": {
+      "screen_name": "Doraemonmans",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM3bkg_bsAEfD4Q.jpg",
+    "read_time": "2026-07-10T21:03:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29425,
+      "timestamp": "2026-07-10T21:03:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 161673,
+      "size_mb": 0.15,
+      "timestamp": "2026-07-10T21:03:05",
+      "download_attempts": 0
+    },
+    "full_text": "写真和视频\n\n穿or脱 https://t.co/v9dPSAsAsr",
+    "publish_time": "2026-07-10T20:23:09"
+  },
+  {
+    "file_name": "YE4MMfVXC9G81V8g.mp4",
+    "user": {
+      "screen_name": "xiaojin20001112",
+      "name": "小金"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2075556405650812928/vid/avc1/1280x720/YE4MMfVXC9G81V8g.mp4?tag=28",
+    "read_time": "2026-07-10T21:03:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29426,
+      "timestamp": "2026-07-10T21:03:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1234143,
+      "size_mb": 1.18,
+      "timestamp": "2026-07-10T21:03:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Yxayl6jvF6",
+    "publish_time": "2026-07-10T20:23:27"
+  },
+  {
+    "file_name": "X4LvT458Gpouvr8F.mp4",
+    "user": {
+      "screen_name": "L1Snium_2580",
+      "name": "蛋黄不带派"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2075558518434955264/vid/avc1/1280x720/X4LvT458Gpouvr8F.mp4?tag=28",
+    "read_time": "2026-07-10T21:03:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29427,
+      "timestamp": "2026-07-10T21:03:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7509629,
+      "size_mb": 7.16,
+      "timestamp": "2026-07-10T21:03:12",
+      "download_attempts": 0
+    },
+    "full_text": "隔壁直男们都在聚餐呢 我偷偷跑回自己房间借口躺一会 实则是跑来自己控射自己 🧠已上交 想被榨干….#牛m https://t.co/iRodNbsPDP",
+    "publish_time": "2026-07-10T20:32:02"
+  },
+  {
+    "file_name": "HM3e8pGbEAAOrvr.jpg",
+    "user": {
+      "screen_name": "MaryBak64398222",
+      "name": "直男调教S"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM3e8pGbEAAOrvr.jpg",
+    "read_time": "2026-07-10T21:03:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29428,
+      "timestamp": "2026-07-10T21:03:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 39889,
+      "size_mb": 0.04,
+      "timestamp": "2026-07-10T21:03:14",
+      "download_attempts": 0
+    },
+    "full_text": "你们某些赔钱剑货差不多行了\n在别人记者电报群里讨论抹黑我的意义是？就算我不玩电报，其他粉丝看到了不告诉我吗😂\n\n我从不反感女记者之间建群讨论互相学习、交流经验。我只坚持维护每一位原创记者作品，倒卖外泄就是可耻的司马行为！\n\n我懒得搞饭圈撕b那套，随便你们背后狗吠😃 对得起自己的良心就好 https://t.co/9hKaxaGxAs",
+    "publish_time": "2026-07-10T20:37:54"
+  },
+  {
+    "file_name": "HM3ihg5a8AEMdw5.jpg",
+    "user": {
+      "screen_name": "Doraemonmans",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM3ihg5a8AEMdw5.jpg",
+    "read_time": "2026-07-10T21:03:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29429,
+      "timestamp": "2026-07-10T21:03:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 105615,
+      "size_mb": 0.1,
+      "timestamp": "2026-07-10T21:03:15",
+      "download_attempts": 0
+    },
+    "full_text": "有喜欢暴露的无🧠gooner吗\n\n欢迎私信我 记得发图 ⬇️ 样图如下 https://t.co/m2i5WWgMUo",
+    "publish_time": "2026-07-10T20:53:33"
+  },
+  {
+    "file_name": "HM3jKD2bkAE_10_.jpg",
+    "user": {
+      "screen_name": "Doraemonmans",
+      "name": "Doraemon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM3jKD2bkAE_10_.jpg",
+    "read_time": "2026-07-10T21:03:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29430,
+      "timestamp": "2026-07-10T21:03:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 142542,
+      "size_mb": 0.14,
+      "timestamp": "2026-07-10T21:03:15",
+      "download_attempts": 0
+    },
+    "full_text": "无脑 https://t.co/PuxQPQ7aGJ",
+    "publish_time": "2026-07-10T20:56:18"
   }
 ]
