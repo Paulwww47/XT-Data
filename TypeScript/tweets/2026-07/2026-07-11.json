@@ -111,5 +111,35 @@
     "tweetUrl": "https://x.com/nlgzwmz0/status/2075648336925700255",
     "fullText": "出原味 https://t.co/96IvxU4ttU",
     "publishTime": "2026-07-11T02:28:21"
+  },
+  {
+    "user": {
+      "screenName": "allen7460",
+      "name": "arthur"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2075660491591155712/vid/avc1/720x1280/Nn8Dd0TPZtKEzYCS.mp4?tag=28"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/allen7460/status/2075660552119239139",
+    "fullText": "懷孕三個月 https://t.co/Zvvsf0da22",
+    "publishTime": "2026-07-11T03:16:54"
+  },
+  {
+    "user": {
+      "screenName": "lin120260901",
+      "name": "香草味狗子"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HM5BjUdWoAA7J_n.jpg",
+      "https://pbs.twimg.com/media/HM5BjROXIAAT52r.jpg",
+      "https://pbs.twimg.com/media/HM5BjivXgAAnRzX.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/lin120260901/status/2075668574857736208",
+    "fullText": "不是很大但看着很好吃 https://t.co/p7tYEWm17g",
+    "publishTime": "2026-07-11T03:48:46"
   }
 ]
