@@ -2342,5 +2342,85 @@
     },
     "full_text": "吃饱犯困😪 https://t.co/927RyzC63O",
     "publish_time": "2026-07-10T18:51:32"
+  },
+  {
+    "file_name": "7EMpWpUdr5Tbd09t.mp4",
+    "user": {
+      "screen_name": "sx84604818",
+      "name": "Rexsonic Man+ suits & socks"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2075537212394061824/vid/avc1/720x1280/7EMpWpUdr5Tbd09t.mp4?tag=28",
+    "read_time": "2026-07-10T20:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29420,
+      "timestamp": "2026-07-10T20:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2120077,
+      "size_mb": 2.02,
+      "timestamp": "2026-07-10T20:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "👔西裝愛好者👔 https://t.co/auh022Ab1N",
+    "publish_time": "2026-07-10T19:07:06"
+  },
+  {
+    "file_name": "zmcg17QPMv69-rlX.mp4",
+    "user": {
+      "screen_name": "alwyn_shown",
+      "name": "Alwyn Lu"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2075538198814765056/vid/avc1/1080x1920/zmcg17QPMv69-rlX.mp4?tag=28",
+    "read_time": "2026-07-10T20:01:53",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (144MB > 50MB)",
+      "timestamp": "2026-07-10T20:02:10",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 151341675,
+      "size_mb": 144.33,
+      "timestamp": "2026-07-10T20:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "🦌 https://t.co/UrmNKHWhSr",
+    "publish_time": "2026-07-10T19:19:58"
+  },
+  {
+    "file_name": "iXCaa3AwIHOG4ob5.mp4",
+    "user": {
+      "screen_name": "paeching",
+      "name": "屁吃"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2075544333017899008/vid/avc1/720x1280/iXCaa3AwIHOG4ob5.mp4?tag=28",
+    "read_time": "2026-07-10T20:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29421,
+      "timestamp": "2026-07-10T20:02:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3416918,
+      "size_mb": 3.26,
+      "timestamp": "2026-07-10T20:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "🥵 https://t.co/ZfgWRq2vZz",
+    "publish_time": "2026-07-10T19:35:58"
   }
 ]
