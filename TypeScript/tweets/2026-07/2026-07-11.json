@@ -226,6 +226,23 @@
   },
   {
     "user": {
+      "screenName": "eccmair",
+      "name": "焛"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HM59_Q5aMAAvbAL.jpg",
+      "https://pbs.twimg.com/media/HM59_QubgAAPOOv.jpg",
+      "https://pbs.twimg.com/media/HM59_QzbwAACA08.jpg",
+      "https://pbs.twimg.com/media/HM59_QxbMAAJzbG.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eccmair/status/2075735015569416371",
+    "fullText": "练完就失眠\n嗯...\n以后周末白天练 https://t.co/SCLJQAiVN0",
+    "publishTime": "2026-07-11T08:12:47"
+  },
+  {
+    "user": {
       "screenName": "BLPDBNANA",
       "name": "Mr.CumBoY🍌"
     },
@@ -297,5 +314,29 @@
     "tweetUrl": "https://x.com/yhao_97/status/2075756750645686713",
     "fullText": "早 https://t.co/BOuVeVGbXd",
     "publishTime": "2026-07-11T09:39:09"
+  },
+  {
+    "user": {
+      "screenName": "Mcsswest",
+      "name": "炸鸡爸爸"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Mcsswest/status/2075761530449338879",
+    "fullText": "@eccmair 🥲🥲这才几点",
+    "publishTime": "2026-07-11T09:58:09"
+  },
+  {
+    "user": {
+      "screenName": "eccmair",
+      "name": "焛"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eccmair/status/2075769366952784220",
+    "fullText": "@Mcsswest 2点睡，6.30就烦躁的睡不着起来了🫪🫪🫪",
+    "publishTime": "2026-07-11T10:29:17"
   }
 ]
