@@ -1,5 +1,31 @@
 [
   {
+    "file_name": "HM4T5KLbYAMBR3T.jpg",
+    "user": {
+      "screen_name": "a17739",
+      "name": "吳先生"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM4T5KLbYAMBR3T.jpg",
+    "read_time": "2026-07-11T18:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29523,
+      "timestamp": "2026-07-11T18:02:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 124076,
+      "size_mb": 0.12,
+      "timestamp": "2026-07-11T18:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "好想寶寶抱抱🥹 https://t.co/gjX90QfiIJ",
+    "publish_time": "2026-07-11T00:29:14"
+  },
+  {
     "file_name": "MXJr7sqPtz5qQWtf.mp4",
     "user": {
       "screen_name": "wwxia8898",
@@ -1066,6 +1092,32 @@
     "publish_time": "2026-07-11T13:35:05"
   },
   {
+    "file_name": "HM7IqhybwAAua69.jpg",
+    "user": {
+      "screen_name": "vmya_",
+      "name": "vm"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM7IqhybwAAua69.jpg",
+    "read_time": "2026-07-11T18:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29524,
+      "timestamp": "2026-07-11T18:02:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 125238,
+      "size_mb": 0.12,
+      "timestamp": "2026-07-11T18:02:17",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/pHmQy270XF",
+    "publish_time": "2026-07-11T13:39:04"
+  },
+  {
     "file_name": "HM7SKm8XYAAMt8N.jpg",
     "user": {
       "screen_name": "nlgzwmz0",
@@ -1604,14 +1656,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (231MB > 50MB)",
       "timestamp": "2026-07-11T17:01:21",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 243046388,
       "size_mb": 231.79,
-      "timestamp": "2026-07-11T17:01:21",
+      "timestamp": "2026-07-11T18:02:19",
       "download_attempts": 0
     },
     "full_text": "https://t.co/zoWq0VntkY",
@@ -1762,14 +1814,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (69MB > 50MB)",
       "timestamp": "2026-07-11T17:01:36",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 72978823,
       "size_mb": 69.6,
-      "timestamp": "2026-07-11T17:01:36",
+      "timestamp": "2026-07-11T18:02:19",
       "download_attempts": 0
     },
     "full_text": "https://t.co/3jDpQVZ27C",
@@ -1930,5 +1982,31 @@
     },
     "full_text": "新写真（上）已发布，fansone同步更新，地址：https://t.co/Sua7sAWkPn\n\n购买小卤蛋可免费获取，\n小卤蛋链接：https://t.co/VHUeyZizoV https://t.co/wpCncLn95f",
     "publish_time": "2026-07-11T16:57:40"
+  },
+  {
+    "file_name": "HM8A3Hzb0AEV7Sv.jpg",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM8A3Hzb0AEV7Sv.jpg",
+    "read_time": "2026-07-11T18:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29525,
+      "timestamp": "2026-07-11T18:02:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 115790,
+      "size_mb": 0.11,
+      "timestamp": "2026-07-11T18:02:19",
+      "download_attempts": 0
+    },
+    "full_text": "😩 https://t.co/1Q6NiAlTjG",
+    "publish_time": "2026-07-11T17:44:35"
   }
 ]
