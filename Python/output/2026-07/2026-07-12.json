@@ -274,14 +274,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (516MB > 50MB)",
       "timestamp": "2026-07-12T05:01:30",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 541918590,
       "size_mb": 516.81,
-      "timestamp": "2026-07-12T05:01:30",
+      "timestamp": "2026-07-12T06:01:34",
       "download_attempts": 0
     },
     "full_text": "🔥 https://t.co/A2cInSgzxd",
@@ -312,5 +312,31 @@
     },
     "full_text": "https://t.co/eZYuSxDj54",
     "publish_time": "2026-07-12T04:05:00"
+  },
+  {
+    "file_name": "HM-d-xAW8AA12O7.jpg",
+    "user": {
+      "screen_name": "keaiyiyeshiyi",
+      "name": "可爱1也是1吖"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM-d-xAW8AA12O7.jpg",
+    "read_time": "2026-07-12T06:01:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29575,
+      "timestamp": "2026-07-12T06:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 84678,
+      "size_mb": 0.08,
+      "timestamp": "2026-07-12T06:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "张嘴 https://t.co/Ilw5OHrU9C",
+    "publish_time": "2026-07-12T05:11:03"
   }
 ]
