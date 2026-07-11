@@ -232,5 +232,31 @@
     },
     "full_text": "喜欢这个角度看着吗？ https://t.co/WXDan4faAR",
     "publish_time": "2026-07-12T02:14:41"
+  },
+  {
+    "file_name": "dBBTYqxqWBdBZiwr.mp4",
+    "user": {
+      "screen_name": "c558668",
+      "name": "0m"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2075630488677679104/vid/avc1/720x1280/dBBTYqxqWBdBZiwr.mp4?tag=28",
+    "read_time": "2026-07-12T04:01:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29573,
+      "timestamp": "2026-07-12T04:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 28904297,
+      "size_mb": 27.57,
+      "timestamp": "2026-07-12T04:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/egqQZ6qxfj",
+    "publish_time": "2026-07-12T03:18:46"
   }
 ]
