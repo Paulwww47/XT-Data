@@ -1106,14 +1106,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (75MB > 50MB)",
       "timestamp": "2026-07-11T15:01:59",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 78976545,
       "size_mb": 75.32,
-      "timestamp": "2026-07-11T15:01:59",
+      "timestamp": "2026-07-11T16:01:55",
       "download_attempts": 0
     },
     "full_text": "https://t.co/rjBCH3FCQr",
@@ -1160,17 +1160,381 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (118MB > 50MB)",
       "timestamp": "2026-07-11T15:02:03",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 123922872,
       "size_mb": 118.18,
-      "timestamp": "2026-07-11T15:02:03",
+      "timestamp": "2026-07-11T16:01:56",
       "download_attempts": 0
     },
     "full_text": "https://t.co/DpUUXtBYGY",
     "publish_time": "2026-07-11T14:52:17"
+  },
+  {
+    "file_name": "HM7cUOCagAAFcrz.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM7cUOCagAAFcrz.jpg",
+    "read_time": "2026-07-11T16:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29493,
+      "timestamp": "2026-07-11T16:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 96989,
+      "size_mb": 0.09,
+      "timestamp": "2026-07-11T16:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "zhuangibo https://t.co/Oz5VJwTmS8",
+    "publish_time": "2026-07-11T15:04:53"
+  },
+  {
+    "file_name": "Ch87byt-Co9NeOeV.mp4",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2075837841175945216/vid/avc1/720x1280/Ch87byt-Co9NeOeV.mp4?tag=14",
+    "read_time": "2026-07-11T16:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29494,
+      "timestamp": "2026-07-11T16:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3331581,
+      "size_mb": 3.18,
+      "timestamp": "2026-07-11T16:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/QcVwDSmwsS",
+    "publish_time": "2026-07-11T15:09:48"
+  },
+  {
+    "file_name": "4Mxlhz170e_XfIfv.mp4",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2075840006799966208/vid/avc1/720x1280/4Mxlhz170e_XfIfv.mp4?tag=14",
+    "read_time": "2026-07-11T16:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29495,
+      "timestamp": "2026-07-11T16:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1945094,
+      "size_mb": 1.85,
+      "timestamp": "2026-07-11T16:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/z15cIYAc1p",
+    "publish_time": "2026-07-11T15:10:13"
+  },
+  {
+    "file_name": "axOAZdlrHqJA6i-y.mp4",
+    "user": {
+      "screen_name": "imfenshuajiang",
+      "name": "我是一个粉刷匠"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2075844964156887040/vid/avc1/720x1280/axOAZdlrHqJA6i-y.mp4?tag=28",
+    "read_time": "2026-07-11T16:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29496,
+      "timestamp": "2026-07-11T16:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 9720108,
+      "size_mb": 9.27,
+      "timestamp": "2026-07-11T16:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "我回来啦！恢复更新！\n先来期素的 https://t.co/3HDiYLe2BI",
+    "publish_time": "2026-07-11T15:30:01"
+  },
+  {
+    "file_name": "HM7iamqakAANS7H.jpg",
+    "user": {
+      "screen_name": "XXxLin18cn",
+      "name": "小林不小"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM7iamqakAANS7H.jpg",
+    "read_time": "2026-07-11T16:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29497,
+      "timestamp": "2026-07-11T16:02:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 59516,
+      "size_mb": 0.06,
+      "timestamp": "2026-07-11T16:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "薄肌🐮 https://t.co/uDqx3f0H3L",
+    "publish_time": "2026-07-11T15:31:33"
+  },
+  {
+    "file_name": "HM7iamibwAAQG_X.jpg",
+    "user": {
+      "screen_name": "XXxLin18cn",
+      "name": "小林不小"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM7iamibwAAQG_X.jpg",
+    "read_time": "2026-07-11T16:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29498,
+      "timestamp": "2026-07-11T16:02:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 60227,
+      "size_mb": 0.06,
+      "timestamp": "2026-07-11T16:02:07",
+      "download_attempts": 0
+    },
+    "full_text": "薄肌🐮 https://t.co/uDqx3f0H3L",
+    "publish_time": "2026-07-11T15:31:33"
+  },
+  {
+    "file_name": "HM7iamhaIAAMovr.jpg",
+    "user": {
+      "screen_name": "XXxLin18cn",
+      "name": "小林不小"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM7iamhaIAAMovr.jpg",
+    "read_time": "2026-07-11T16:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29499,
+      "timestamp": "2026-07-11T16:02:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 58991,
+      "size_mb": 0.06,
+      "timestamp": "2026-07-11T16:02:07",
+      "download_attempts": 0
+    },
+    "full_text": "薄肌🐮 https://t.co/uDqx3f0H3L",
+    "publish_time": "2026-07-11T15:31:33"
+  },
+  {
+    "file_name": "HM7jrJub0AAdMmu.jpg",
+    "user": {
+      "screen_name": "youan1144",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM7jrJub0AAdMmu.jpg",
+    "read_time": "2026-07-11T16:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29500,
+      "timestamp": "2026-07-11T16:02:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 194663,
+      "size_mb": 0.19,
+      "timestamp": "2026-07-11T16:02:08",
+      "download_attempts": 0
+    },
+    "full_text": "更新啦 https://t.co/Xf0Z88WA0W",
+    "publish_time": "2026-07-11T15:37:05"
+  },
+  {
+    "file_name": "HM7jrJtagAAfRz8.jpg",
+    "user": {
+      "screen_name": "youan1144",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM7jrJtagAAfRz8.jpg",
+    "read_time": "2026-07-11T16:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29501,
+      "timestamp": "2026-07-11T16:02:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 160070,
+      "size_mb": 0.15,
+      "timestamp": "2026-07-11T16:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "更新啦 https://t.co/Xf0Z88WA0W",
+    "publish_time": "2026-07-11T15:37:05"
+  },
+  {
+    "file_name": "HM7jrJuaEAAGonx.jpg",
+    "user": {
+      "screen_name": "youan1144",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM7jrJuaEAAGonx.jpg",
+    "read_time": "2026-07-11T16:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29502,
+      "timestamp": "2026-07-11T16:02:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 190259,
+      "size_mb": 0.18,
+      "timestamp": "2026-07-11T16:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "更新啦 https://t.co/Xf0Z88WA0W",
+    "publish_time": "2026-07-11T15:37:05"
+  },
+  {
+    "file_name": "HM7jrJsakAAAFuu.jpg",
+    "user": {
+      "screen_name": "youan1144",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM7jrJsakAAAFuu.jpg",
+    "read_time": "2026-07-11T16:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29503,
+      "timestamp": "2026-07-11T16:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 163041,
+      "size_mb": 0.16,
+      "timestamp": "2026-07-11T16:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "更新啦 https://t.co/Xf0Z88WA0W",
+    "publish_time": "2026-07-11T15:37:05"
+  },
+  {
+    "file_name": "54XZaf0-wB-aiNL-.mp4",
+    "user": {
+      "screen_name": "neon385908",
+      "name": "ne on"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2075847275470008321/vid/avc1/720x1280/54XZaf0-wB-aiNL-.mp4?tag=28",
+    "read_time": "2026-07-11T16:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29504,
+      "timestamp": "2026-07-11T16:02:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 753475,
+      "size_mb": 0.72,
+      "timestamp": "2026-07-11T16:02:12",
+      "download_attempts": 0
+    },
+    "full_text": "本人开通私人电报：https://t.co/H8czie2SQm暗号：n\n\n要进我私人空间互动看完整版高清\n露脸视频，和最近刚拍的新素材的宝宝，电报私我。名额有限！ https://t.co/uNZyI1oXhV",
+    "publish_time": "2026-07-11T15:39:07"
+  },
+  {
+    "file_name": "HM7nFSJb0AAkyA9.jpg",
+    "user": {
+      "screen_name": "HorgeL_",
+      "name": "Horge🤖（抖音同名"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM7nFSJb0AAkyA9.jpg",
+    "read_time": "2026-07-11T16:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29505,
+      "timestamp": "2026-07-11T16:02:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 116775,
+      "size_mb": 0.11,
+      "timestamp": "2026-07-11T16:02:13",
+      "download_attempts": 0
+    },
+    "full_text": "全福建最尊重台风，在家躺一天 https://t.co/Mw5Mw5oFlV",
+    "publish_time": "2026-07-11T15:51:57"
+  },
+  {
+    "file_name": "HM7nFSPbIAAedcX.jpg",
+    "user": {
+      "screen_name": "HorgeL_",
+      "name": "Horge🤖（抖音同名"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM7nFSPbIAAedcX.jpg",
+    "read_time": "2026-07-11T16:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29506,
+      "timestamp": "2026-07-11T16:02:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 150944,
+      "size_mb": 0.14,
+      "timestamp": "2026-07-11T16:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "全福建最尊重台风，在家躺一天 https://t.co/Mw5Mw5oFlV",
+    "publish_time": "2026-07-11T15:51:57"
   }
 ]
