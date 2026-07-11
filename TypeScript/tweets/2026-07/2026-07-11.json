@@ -268,5 +268,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2075740783945392526",
     "fullText": "zerolh610 https://t.co/Q42ASYMOk3",
     "publishTime": "2026-07-11T08:35:42"
+  },
+  {
+    "user": {
+      "screenName": "caiancheng2",
+      "name": "山一户"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HM6Ju7hbEAAxDI-.jpg",
+      "https://pbs.twimg.com/media/HM6Ju8magAA7fSX.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/caiancheng2/status/2075747929340748012",
+    "fullText": "台风来了 https://t.co/MsAdrCsvPN",
+    "publishTime": "2026-07-11T09:04:06"
+  },
+  {
+    "user": {
+      "screenName": "yhao_97",
+      "name": "大虎"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2075756617321353216/vid/avc1/1280x720/3InkMzWnwoExEIVm.mp4?tag=28"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/yhao_97/status/2075756750645686713",
+    "fullText": "早 https://t.co/BOuVeVGbXd",
+    "publishTime": "2026-07-11T09:39:09"
   }
 ]
