@@ -258,5 +258,59 @@
     },
     "full_text": "https://t.co/egqQZ6qxfj",
     "publish_time": "2026-07-12T03:18:46"
+  },
+  {
+    "file_name": "jTpdbtI0nbe0RTQK.mp4",
+    "user": {
+      "screen_name": "Rex1719124799",
+      "name": "Rex大鹏"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2075737640759144448/vid/avc1/1920x1080/jTpdbtI0nbe0RTQK.mp4?tag=28",
+    "read_time": "2026-07-12T05:01:26",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (516MB > 50MB)",
+      "timestamp": "2026-07-12T05:01:30",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 541918590,
+      "size_mb": 516.81,
+      "timestamp": "2026-07-12T05:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "🔥 https://t.co/A2cInSgzxd",
+    "publish_time": "2026-07-12T04:04:06"
+  },
+  {
+    "file_name": "mwkP_yh_ruPh3MWV.mp4",
+    "user": {
+      "screen_name": "Rex1719124799",
+      "name": "Rex大鹏"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2062930735829536768/vid/avc1/1920x1080/mwkP_yh_ruPh3MWV.mp4?tag=27",
+    "read_time": "2026-07-12T05:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29574,
+      "timestamp": "2026-07-12T05:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 43182989,
+      "size_mb": 41.18,
+      "timestamp": "2026-07-12T05:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/eZYuSxDj54",
+    "publish_time": "2026-07-12T04:05:00"
   }
 ]

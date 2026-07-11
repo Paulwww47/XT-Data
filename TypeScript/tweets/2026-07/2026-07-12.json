@@ -124,5 +124,33 @@
     "tweetUrl": "https://x.com/c558668/status/2076023410233401444",
     "fullText": "https://t.co/egqQZ6qxfj",
     "publishTime": "2026-07-12T03:18:46"
+  },
+  {
+    "user": {
+      "screenName": "Rex1719124799",
+      "name": "Rex大鹏"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2075737640759144448/vid/avc1/1920x1080/jTpdbtI0nbe0RTQK.mp4?tag=28"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Rex1719124799/status/2076034818773852542",
+    "fullText": "🔥 https://t.co/A2cInSgzxd",
+    "publishTime": "2026-07-12T04:04:06"
+  },
+  {
+    "user": {
+      "screenName": "Rex1719124799",
+      "name": "Rex大鹏"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2062930735829536768/vid/avc1/1920x1080/mwkP_yh_ruPh3MWV.mp4?tag=27"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Rex1719124799/status/2076035047560503481",
+    "fullText": "https://t.co/eZYuSxDj54",
+    "publishTime": "2026-07-12T04:05:00"
   }
 ]
