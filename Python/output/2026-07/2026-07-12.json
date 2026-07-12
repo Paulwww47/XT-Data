@@ -2420,14 +2420,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (295MB > 50MB)",
       "timestamp": "2026-07-13T00:02:30",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 310060387,
       "size_mb": 295.7,
-      "timestamp": "2026-07-13T00:02:30",
+      "timestamp": "2026-07-13T01:01:27",
       "download_attempts": 0
     },
     "full_text": "酷力酥 https://t.co/l2TU4nK1Ww",
