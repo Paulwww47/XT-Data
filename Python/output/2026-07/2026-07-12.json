@@ -1120,5 +1120,165 @@
     },
     "full_text": "🟣🩲 https://t.co/jIJSbwYQ6G",
     "publish_time": "2026-07-12T12:57:36"
+  },
+  {
+    "file_name": "c8koKvdyeg2yc7zd.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2073189236149551104/vid/avc1/1078x1920/c8koKvdyeg2yc7zd.mp4?tag=28",
+    "read_time": "2026-07-12T14:01:26",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (174MB > 50MB)",
+      "timestamp": "2026-07-12T14:01:42",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 183319731,
+      "size_mb": 174.83,
+      "timestamp": "2026-07-12T14:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/mAfKG3XL1E",
+    "publish_time": "2026-07-12T13:06:49"
+  },
+  {
+    "file_name": "uSPuY-__VNG0ZuAP.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2045932598162272256/vid/avc1/1078x1920/uSPuY-__VNG0ZuAP.mp4?tag=21",
+    "read_time": "2026-07-12T14:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29605,
+      "timestamp": "2026-07-12T14:01:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 39324054,
+      "size_mb": 37.5,
+      "timestamp": "2026-07-12T14:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/9XHvo56uNo",
+    "publish_time": "2026-07-12T13:11:30"
+  },
+  {
+    "file_name": "GTK7J4XaEAAevec.jpg",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/GTK7J4XaEAAevec.jpg",
+    "read_time": "2026-07-12T14:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29606,
+      "timestamp": "2026-07-12T14:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 61121,
+      "size_mb": 0.06,
+      "timestamp": "2026-07-12T14:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/GWyDRKwzjx",
+    "publish_time": "2026-07-12T13:24:55"
+  },
+  {
+    "file_name": "nlvF_o8QwzRsU-Dz.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1815719378224349184/pu/vid/avc1/720x1280/nlvF_o8QwzRsU-Dz.mp4?tag=12",
+    "read_time": "2026-07-12T14:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29607,
+      "timestamp": "2026-07-12T14:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 14110150,
+      "size_mb": 13.46,
+      "timestamp": "2026-07-12T14:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/GWyDRKwzjx",
+    "publish_time": "2026-07-12T13:24:55"
+  },
+  {
+    "file_name": "PvHDP9-KLDlItXRy.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2075765995722178560/vid/avc1/714x1280/PvHDP9-KLDlItXRy.mp4?tag=28",
+    "read_time": "2026-07-12T14:01:26",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (132MB > 50MB)",
+      "timestamp": "2026-07-12T14:01:58",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 138980615,
+      "size_mb": 132.54,
+      "timestamp": "2026-07-12T14:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/KG3CZQRF4g",
+    "publish_time": "2026-07-12T13:29:00"
+  },
+  {
+    "file_name": "FrcGFwDVfYauMkc4.mp4",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2075199751801249792/pu/vid/avc1/720x1280/FrcGFwDVfYauMkc4.mp4?tag=12",
+    "read_time": "2026-07-12T14:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29608,
+      "timestamp": "2026-07-12T14:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 13492577,
+      "size_mb": 12.87,
+      "timestamp": "2026-07-12T14:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "·\n仲夏夜骑·如梦如幻\n\n宸琛骑士 @S_chenchen1\n\n各位夏安！ https://t.co/v4cUBbyePl",
+    "publish_time": "2026-07-12T13:52:51"
   }
 ]
