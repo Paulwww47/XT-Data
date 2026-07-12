@@ -562,14 +562,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (80MB > 50MB)",
       "timestamp": "2026-07-12T10:01:41",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 84848882,
       "size_mb": 80.92,
-      "timestamp": "2026-07-12T10:01:41",
+      "timestamp": "2026-07-12T11:01:19",
       "download_attempts": 0
     },
     "full_text": "·\n호킵 🧍‍♂️\n\nIG：hokeep https://t.co/24qecXDxoo",
@@ -600,5 +600,109 @@
     },
     "full_text": "来，傻福，把你的R跟耳机准备好😏 https://t.co/LRcCvOIalF",
     "publish_time": "2026-07-12T09:49:16"
+  },
+  {
+    "file_name": "HM_jMd5bYAABeIW.jpg",
+    "user": {
+      "screen_name": "BspEmjQNrip7fjd",
+      "name": "风"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM_jMd5bYAABeIW.jpg",
+    "read_time": "2026-07-12T11:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29585,
+      "timestamp": "2026-07-12T11:01:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 87104,
+      "size_mb": 0.08,
+      "timestamp": "2026-07-12T11:01:19",
+      "download_attempts": 0
+    },
+    "full_text": "引体状态在线 https://t.co/niQDUGWY6d",
+    "publish_time": "2026-07-12T10:17:32"
+  },
+  {
+    "file_name": "HM_jMdsasAAjJjC.jpg",
+    "user": {
+      "screen_name": "BspEmjQNrip7fjd",
+      "name": "风"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HM_jMdsasAAjJjC.jpg",
+    "read_time": "2026-07-12T11:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29586,
+      "timestamp": "2026-07-12T11:01:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 108490,
+      "size_mb": 0.1,
+      "timestamp": "2026-07-12T11:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "引体状态在线 https://t.co/niQDUGWY6d",
+    "publish_time": "2026-07-12T10:17:32"
+  },
+  {
+    "file_name": "qtQCHVbtzkgJLMXH.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2076132758016126977/vid/avc1/720x1280/qtQCHVbtzkgJLMXH.mp4?tag=14",
+    "read_time": "2026-07-12T11:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29587,
+      "timestamp": "2026-07-12T11:01:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 693781,
+      "size_mb": 0.66,
+      "timestamp": "2026-07-12T11:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年7月12日】今日補檔資源3部，置頂24小時！以下視頻與補檔資源無關！ https://t.co/UgbM4AoEJ3",
+    "publish_time": "2026-07-12T10:33:23"
+  },
+  {
+    "file_name": "AoRajqmOcGiWc4YK.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2076138777593131008/vid/avc1/720x1280/AoRajqmOcGiWc4YK.mp4?tag=14",
+    "read_time": "2026-07-12T11:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29588,
+      "timestamp": "2026-07-12T11:01:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1276330,
+      "size_mb": 1.22,
+      "timestamp": "2026-07-12T11:01:24",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年7月12日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/zXGotfXT8t",
+    "publish_time": "2026-07-12T10:57:18"
   }
 ]
