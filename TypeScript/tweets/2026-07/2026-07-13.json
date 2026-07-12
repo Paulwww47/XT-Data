@@ -138,5 +138,31 @@
     "tweetUrl": "https://x.com/c558668/status/2076379459821912413",
     "fullText": "https://t.co/hWSEozyep4",
     "publishTime": "2026-07-13T02:53:35"
+  },
+  {
+    "user": {
+      "screenName": "yangmoyum",
+      "name": "阳沫雨"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/yangmoyum/status/2076381970150654216",
+    "fullText": "好爽🥵",
+    "publishTime": "2026-07-13T03:03:33"
+  },
+  {
+    "user": {
+      "screenName": "c558668",
+      "name": "0m"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2073246766133346305/vid/avc1/1080x1920/cMdySkGRjxOonToD.mp4?tag=28"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/c558668/status/2076383699806126219",
+    "fullText": "https://t.co/rw0Qy1gSl3",
+    "publishTime": "2026-07-13T03:10:26"
   }
 ]
