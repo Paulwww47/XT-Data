@@ -274,14 +274,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (639MB > 50MB)",
       "timestamp": "2026-07-14T02:03:34",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 670949688,
       "size_mb": 639.87,
-      "timestamp": "2026-07-14T02:03:34",
+      "timestamp": "2026-07-14T03:02:03",
       "download_attempts": 0
     },
     "full_text": "https://t.co/h0jocjHgWn",
@@ -302,14 +302,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (446MB > 50MB)",
       "timestamp": "2026-07-14T02:03:39",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 468565938,
       "size_mb": 446.86,
-      "timestamp": "2026-07-14T02:03:39",
+      "timestamp": "2026-07-14T03:02:06",
       "download_attempts": 0
     },
     "full_text": "https://t.co/eQDvIK2GhK",
@@ -330,14 +330,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (257MB > 50MB)",
       "timestamp": "2026-07-14T02:03:44",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 270122772,
       "size_mb": 257.61,
-      "timestamp": "2026-07-14T02:03:44",
+      "timestamp": "2026-07-14T03:02:12",
       "download_attempts": 0
     },
     "full_text": "https://t.co/ZQR7ItIMH0",
@@ -358,17 +358,43 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (51MB > 50MB)",
       "timestamp": "2026-07-14T02:03:45",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 54042695,
       "size_mb": 51.54,
-      "timestamp": "2026-07-14T02:03:45",
+      "timestamp": "2026-07-14T03:02:13",
       "download_attempts": 0
     },
     "full_text": "https://t.co/0If9eP9s6R",
     "publish_time": "2026-07-14T01:45:06"
+  },
+  {
+    "file_name": "HNILLaza4AAkGN6.jpg",
+    "user": {
+      "screen_name": "EthanXPC",
+      "name": "Ethan小趴菜（想谈恋爱版）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNILLaza4AAkGN6.jpg",
+    "read_time": "2026-07-14T03:01:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29762,
+      "timestamp": "2026-07-14T03:02:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 142629,
+      "size_mb": 0.14,
+      "timestamp": "2026-07-14T03:02:13",
+      "download_attempts": 0
+    },
+    "full_text": "前面还是后面？ https://t.co/eGTgA8NdPX",
+    "publish_time": "2026-07-14T02:25:05"
   }
 ]
