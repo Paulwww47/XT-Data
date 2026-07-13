@@ -396,5 +396,57 @@
     },
     "full_text": "前面还是后面？ https://t.co/eGTgA8NdPX",
     "publish_time": "2026-07-14T02:25:05"
+  },
+  {
+    "file_name": "y6nTMlH_ACjWyyK_.mp4",
+    "user": {
+      "screen_name": "playellowdog",
+      "name": "宝宝"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1891825855732592641/vid/avc1/1280x720/y6nTMlH_ACjWyyK_.mp4?tag=14",
+    "read_time": "2026-07-14T04:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29763,
+      "timestamp": "2026-07-14T04:02:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 18250173,
+      "size_mb": 17.4,
+      "timestamp": "2026-07-14T04:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/QccC8lwxiO",
+    "publish_time": "2026-07-14T03:01:25"
+  },
+  {
+    "file_name": "WC2QmnMABChLdMRS.mp4",
+    "user": {
+      "screen_name": "77baxi",
+      "name": "健身教练cd伪娘"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2010381759897346048/vid/avc1/720x1280/WC2QmnMABChLdMRS.mp4?tag=21",
+    "read_time": "2026-07-14T04:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29764,
+      "timestamp": "2026-07-14T04:02:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 8144938,
+      "size_mb": 7.77,
+      "timestamp": "2026-07-14T04:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/oI78h125V9",
+    "publish_time": "2026-07-14T03:04:51"
   }
 ]
