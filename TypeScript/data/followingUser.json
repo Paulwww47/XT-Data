@@ -2317,6 +2317,20 @@
     }
   },
   {
+    "restId": "2041804511270912000",
+    "legacy": {
+      "name": "黑皮阿黎",
+      "screenName": "Happyali0809",
+      "createdAt": "Wed Apr 08 09:05:14 +0000 2026",
+      "description": "🚪99，🛰️Yu37115299 抖音and小红书：黑皮阿黎 荤水版：@Happyali01  可约拍",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2041804511270912000/1780040112",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2060262253753249792/No6T9WBr_normal.jpg"
+    }
+  },
+  {
     "restId": "1727946933724233728",
     "legacy": {
       "name": "ai吃猪柳蛋麦满分",
@@ -2630,7 +2644,7 @@
       "entities": {
         "description": {}
       },
-      "profileBannerUrl": "",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2016680830710796290/1784056449",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2053477955075284992/ZKlUgu1O_normal.jpg"
     }
   },
