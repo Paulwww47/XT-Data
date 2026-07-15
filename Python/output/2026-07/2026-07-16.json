@@ -378,14 +378,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (155MB > 50MB)",
       "timestamp": "2026-07-16T02:02:33",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 163398206,
       "size_mb": 155.83,
-      "timestamp": "2026-07-16T02:02:33",
+      "timestamp": "2026-07-16T03:03:08",
       "download_attempts": 0
     },
     "full_text": "https://t.co/8QBA1qza8W",
@@ -458,14 +458,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (144MB > 50MB)",
       "timestamp": "2026-07-16T02:02:37",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 151874392,
       "size_mb": 144.84,
-      "timestamp": "2026-07-16T02:02:37",
+      "timestamp": "2026-07-16T03:03:09",
       "download_attempts": 0
     },
     "full_text": "https://t.co/orojlIkmQZ",
@@ -486,14 +486,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (113MB > 50MB)",
       "timestamp": "2026-07-16T02:02:38",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 118643797,
       "size_mb": 113.15,
-      "timestamp": "2026-07-16T02:02:38",
+      "timestamp": "2026-07-16T03:03:09",
       "download_attempts": 0
     },
     "full_text": "https://t.co/EmzJwEanJS",
@@ -524,5 +524,31 @@
     },
     "full_text": "https://t.co/GbWGVQKcZX",
     "publish_time": "2026-07-16T01:54:37"
+  },
+  {
+    "file_name": "HNSgpZJaQAAbb4S.jpg",
+    "user": {
+      "screen_name": "brooklyn29540",
+      "name": "不要问我从哪里来"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNSgpZJaQAAbb4S.jpg",
+    "read_time": "2026-07-16T03:03:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29952,
+      "timestamp": "2026-07-16T03:03:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 43740,
+      "size_mb": 0.04,
+      "timestamp": "2026-07-16T03:03:09",
+      "download_attempts": 0
+    },
+    "full_text": "有需要的可以联系 https://t.co/kbRpw0xDaO",
+    "publish_time": "2026-07-16T02:35:05"
   }
 ]
