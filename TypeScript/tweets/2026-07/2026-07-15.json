@@ -696,5 +696,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2077301635861401790",
     "fullText": "https://t.co/cPhBqlLR70",
     "publishTime": "2026-07-15T15:57:59"
+  },
+  {
+    "user": {
+      "screenName": "d461385024",
+      "name": "大猛一"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNQhha9akAAkDp8.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/d461385024/status/2077322203172089949",
+    "fullText": "https://t.co/uhVynoGV4y",
+    "publishTime": "2026-07-15T17:19:42"
+  },
+  {
+    "user": {
+      "screenName": "abdkym19",
+      "name": "keyoum"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNQjHoMXgAAHfdY.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/abdkym19/status/2077323953068970372",
+    "fullText": "https://t.co/elEAICZFXM",
+    "publishTime": "2026-07-15T17:26:39"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNQmoPka8AAFRs9.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2077327805822763099",
+    "fullText": "https://t.co/zVtBc3a16Q",
+    "publishTime": "2026-07-15T17:41:58"
   }
 ]
