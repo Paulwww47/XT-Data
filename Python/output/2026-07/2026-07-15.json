@@ -664,14 +664,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (95MB > 50MB)",
       "timestamp": "2026-07-15T11:02:15",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 100361062,
       "size_mb": 95.71,
-      "timestamp": "2026-07-15T11:02:15",
+      "timestamp": "2026-07-15T12:02:10",
       "download_attempts": 0
     },
     "full_text": "https://t.co/6CFnbWJ1gf",
@@ -728,5 +728,57 @@
     },
     "full_text": "就差腹肌了，急不得，慢慢雕刻 https://t.co/qoMnW10zJz",
     "publish_time": "2026-07-15T10:58:03"
+  },
+  {
+    "file_name": "HNPSugiaEAEhdeY.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNPSugiaEAEhdeY.jpg",
+    "read_time": "2026-07-15T12:02:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29882,
+      "timestamp": "2026-07-15T12:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 207051,
+      "size_mb": 0.2,
+      "timestamp": "2026-07-15T12:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "看下背 https://t.co/mKN1XPVa6V",
+    "publish_time": "2026-07-15T11:35:25"
+  },
+  {
+    "file_name": "HNPSugob0AA18xz.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNPSugob0AA18xz.jpg",
+    "read_time": "2026-07-15T12:02:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 29883,
+      "timestamp": "2026-07-15T12:02:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 194341,
+      "size_mb": 0.19,
+      "timestamp": "2026-07-15T12:02:12",
+      "download_attempts": 0
+    },
+    "full_text": "看下背 https://t.co/mKN1XPVa6V",
+    "publish_time": "2026-07-15T11:35:25"
   }
 ]
