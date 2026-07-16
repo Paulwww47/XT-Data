@@ -2932,14 +2932,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (118MB > 50MB)",
       "timestamp": "2026-07-16T22:02:46",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 123922872,
       "size_mb": 118.18,
-      "timestamp": "2026-07-16T22:02:46",
+      "timestamp": "2026-07-16T23:01:29",
       "download_attempts": 0
     },
     "full_text": "https://t.co/upJuJHLiBg",
@@ -3048,5 +3048,109 @@
     },
     "full_text": "I'm just @MYedging  assistant today...\n\nBut watching @sharksharkgun  having all the fun is making it really hard to behave.\n\nLooks like Gotham has claimed another victim...And this time, it's me 🦇😘\n\n三人行，必有我也要濕焉 😁\n\n🎬 No.103a 𝐅𝐔𝐋𝐋 𝐕𝗲𝗿.｜21 min\n\n𝐒𝐮𝐛. &amp; https://t.co/kUjYGdFR3M",
     "publish_time": "2026-07-16T22:01:00"
+  },
+  {
+    "file_name": "HNWtPygbMAA338v.jpg",
+    "user": {
+      "screen_name": "Nionggg1",
+      "name": "N"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNWtPygbMAA338v.jpg",
+    "read_time": "2026-07-16T23:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30055,
+      "timestamp": "2026-07-16T23:01:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 131103,
+      "size_mb": 0.13,
+      "timestamp": "2026-07-16T23:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "想内射骚逼 https://t.co/TngyHZu7UF",
+    "publish_time": "2026-07-16T22:08:36"
+  },
+  {
+    "file_name": "ZuE0mlEHUt_GaBr6.mp4",
+    "user": {
+      "screen_name": "icemeishi2001",
+      "name": "灏子不是耗子"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2077762937679413248/pu/vid/avc1/720x1280/ZuE0mlEHUt_GaBr6.mp4?tag=12",
+    "read_time": "2026-07-16T23:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30056,
+      "timestamp": "2026-07-16T23:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3784605,
+      "size_mb": 3.61,
+      "timestamp": "2026-07-16T23:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "接上条补个近景🥵🥵 #gay https://t.co/o6kmV3en3m",
+    "publish_time": "2026-07-16T22:31:38"
+  },
+  {
+    "file_name": "0jaeROVWh8rPvNoK.mp4",
+    "user": {
+      "screen_name": "icemeishi2001",
+      "name": "灏子不是耗子"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2077762942108598272/pu/vid/avc1/720x1280/0jaeROVWh8rPvNoK.mp4?tag=12",
+    "read_time": "2026-07-16T23:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30057,
+      "timestamp": "2026-07-16T23:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3530893,
+      "size_mb": 3.37,
+      "timestamp": "2026-07-16T23:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "接上条补个近景🥵🥵 #gay https://t.co/o6kmV3en3m",
+    "publish_time": "2026-07-16T22:31:38"
+  },
+  {
+    "file_name": "EpWrYK9IMYFbFFPG.mp4",
+    "user": {
+      "screen_name": "icemeishi2001",
+      "name": "灏子不是耗子"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2077763039240364032/pu/vid/avc1/720x1280/EpWrYK9IMYFbFFPG.mp4?tag=12",
+    "read_time": "2026-07-16T23:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30058,
+      "timestamp": "2026-07-16T23:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2118806,
+      "size_mb": 2.02,
+      "timestamp": "2026-07-16T23:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "接上条补个近景🥵🥵 #gay https://t.co/o6kmV3en3m",
+    "publish_time": "2026-07-16T22:31:38"
   }
 ]
