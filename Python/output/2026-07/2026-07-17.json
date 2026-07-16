@@ -388,5 +388,31 @@
     },
     "full_text": "https://t.co/0mTQwlmSaD",
     "publish_time": "2026-07-17T04:49:34"
+  },
+  {
+    "file_name": "HNYWtgaaEAA68Iq.jpg",
+    "user": {
+      "screen_name": "chuanzhang0320",
+      "name": "Appetency."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNYWtgaaEAA68Iq.jpg",
+    "read_time": "2026-07-17T06:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30085,
+      "timestamp": "2026-07-17T06:01:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 132812,
+      "size_mb": 0.13,
+      "timestamp": "2026-07-17T06:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "弯刀划过红玫瑰，英雄也曾流眼泪😭 https://t.co/zPBhiiq5aI",
+    "publish_time": "2026-07-17T05:49:23"
   }
 ]
