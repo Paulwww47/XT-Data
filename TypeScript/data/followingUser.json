@@ -1283,20 +1283,6 @@
     }
   },
   {
-    "restId": "1466014862526533635",
-    "legacy": {
-      "name": "大猛一",
-      "screenName": "d461385024",
-      "createdAt": "Wed Dec 01 12:02:43 +0000 2021",
-      "description": "🍆土直男型 175.75.1S 地陪空降V🚪广西（盗图挡灾）不闲聊",
-      "entities": {
-        "description": {}
-      },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1466014862526533635/1752570506",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2032172987743346688/HUqHnEhx_normal.jpg"
-    }
-  },
-  {
     "restId": "1076304259698839553",
     "legacy": {
       "name": "呆子",
@@ -1349,6 +1335,20 @@
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1521681123528650756/1715349420",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1521686686668836865/4FtqifaV_normal.jpg"
+    }
+  },
+  {
+    "restId": "1627915294009065474",
+    "legacy": {
+      "name": "David 大卫老师",
+      "screenName": "Davidmfun1",
+      "createdAt": "Tue Feb 21 06:17:18 +0000 2023",
+      "description": "🔞🐶🥵伪S 都是本人 106k大号被盗",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1776773450318647296/1Ih8zVfv_normal.jpg"
     }
   },
   {
@@ -2895,6 +2895,20 @@
       },
       "profileBannerUrl": "",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1929186617170001920/MEQktEFD_normal.jpg"
+    }
+  },
+  {
+    "restId": "2030938468311048192",
+    "legacy": {
+      "name": "阳光小茄子",
+      "screenName": "jj20cm_",
+      "createdAt": "Mon Mar 09 09:31:06 +0000 2026",
+      "description": "纯洁，土直，憨厚，善良，真诚待人，没有开任何小号，本人仅此一号！#188加V送高清无码视频💞",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2030938468311048192/1782480045",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2070497051700555776/7T3gwBcz_normal.jpg"
     }
   },
   {
@@ -6771,7 +6785,7 @@
       "name": "我是谁（退推版）",
       "screenName": "YangYuChao3",
       "createdAt": "Fri Nov 23 10:49:55 +0000 2018",
-      "description": "南昌，男研，无聊且爱吃。喜瘦",
+      "description": "南昌，男研，喜瘦（体脂低），发照聊。",
       "entities": {
         "description": {}
       },
