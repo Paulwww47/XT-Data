@@ -2810,5 +2810,31 @@
     },
     "full_text": "มาเป็นแท่ง https://t.co/zexwTRfpOi",
     "publish_time": "2026-07-17T22:17:51"
+  },
+  {
+    "file_name": "o8rVREE93NJ4fgur.mp4",
+    "user": {
+      "screen_name": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2078134609393618945/vid/avc1/720x1280/o8rVREE93NJ4fgur.mp4?tag=29",
+    "read_time": "2026-07-18T00:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30180,
+      "timestamp": "2026-07-18T00:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3398496,
+      "size_mb": 3.24,
+      "timestamp": "2026-07-18T00:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/48ZtLFxGCp",
+    "publish_time": "2026-07-17T23:08:09"
   }
 ]
