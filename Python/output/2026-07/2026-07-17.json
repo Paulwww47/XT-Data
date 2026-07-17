@@ -1420,17 +1420,225 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (72MB > 50MB)",
       "timestamp": "2026-07-17T14:01:26",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 75554716,
       "size_mb": 72.05,
-      "timestamp": "2026-07-17T14:01:26",
+      "timestamp": "2026-07-17T15:02:06",
       "download_attempts": 0
     },
     "full_text": "好想操他 https://t.co/GHywl1iMgc",
     "publish_time": "2026-07-17T13:23:41"
+  },
+  {
+    "file_name": "HNaIgRibMAABM7L.jpg",
+    "user": {
+      "screen_name": "SummerSonCold1",
+      "name": "SummerSonCold"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNaIgRibMAABM7L.jpg",
+    "read_time": "2026-07-17T15:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30123,
+      "timestamp": "2026-07-17T15:02:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 68192,
+      "size_mb": 0.07,
+      "timestamp": "2026-07-17T15:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/wP0T56RBp0",
+    "publish_time": "2026-07-17T14:06:34"
+  },
+  {
+    "file_name": "dWNsUtDVjf-8N1el.mp4",
+    "user": {
+      "screen_name": "sx84604818",
+      "name": "Rexsonic Man+ suits & socks"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2078004702990729216/vid/avc1/720x1280/dWNsUtDVjf-8N1el.mp4?tag=29",
+    "read_time": "2026-07-17T15:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30124,
+      "timestamp": "2026-07-17T15:02:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1532670,
+      "size_mb": 1.46,
+      "timestamp": "2026-07-17T15:02:07",
+      "download_attempts": 0
+    },
+    "full_text": "👔西裝愛好者👔 https://t.co/ag0Q4g7eDh",
+    "publish_time": "2026-07-17T14:31:56"
+  },
+  {
+    "file_name": "MRLsvTzStbjqb-AB.mp4",
+    "user": {
+      "screen_name": "sx84604818",
+      "name": "Rexsonic Man+ suits & socks"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2078004897308704768/vid/avc1/720x1280/MRLsvTzStbjqb-AB.mp4?tag=29",
+    "read_time": "2026-07-17T15:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30125,
+      "timestamp": "2026-07-17T15:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 869604,
+      "size_mb": 0.83,
+      "timestamp": "2026-07-17T15:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "👔西裝愛好者👔 https://t.co/5IduaZts8g",
+    "publish_time": "2026-07-17T14:32:35"
+  },
+  {
+    "file_name": "HNaPyPybkAAPD5R.jpg",
+    "user": {
+      "screen_name": "junjunshiheihei",
+      "name": "JunJun"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNaPyPybkAAPD5R.jpg",
+    "read_time": "2026-07-17T15:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30126,
+      "timestamp": "2026-07-17T15:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 135649,
+      "size_mb": 0.13,
+      "timestamp": "2026-07-17T15:02:12",
+      "download_attempts": 0
+    },
+    "full_text": "在雨后绿野中，为我插上花束 https://t.co/RWwbpje6Fc",
+    "publish_time": "2026-07-17T14:38:39"
+  },
+  {
+    "file_name": "HNaPyPva0AA8wVB.jpg",
+    "user": {
+      "screen_name": "junjunshiheihei",
+      "name": "JunJun"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNaPyPva0AA8wVB.jpg",
+    "read_time": "2026-07-17T15:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30127,
+      "timestamp": "2026-07-17T15:02:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 113510,
+      "size_mb": 0.11,
+      "timestamp": "2026-07-17T15:02:13",
+      "download_attempts": 0
+    },
+    "full_text": "在雨后绿野中，为我插上花束 https://t.co/RWwbpje6Fc",
+    "publish_time": "2026-07-17T14:38:39"
+  },
+  {
+    "file_name": "HNaPyP7agAALXsN.jpg",
+    "user": {
+      "screen_name": "junjunshiheihei",
+      "name": "JunJun"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNaPyP7agAALXsN.jpg",
+    "read_time": "2026-07-17T15:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30128,
+      "timestamp": "2026-07-17T15:02:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 165865,
+      "size_mb": 0.16,
+      "timestamp": "2026-07-17T15:02:13",
+      "download_attempts": 0
+    },
+    "full_text": "在雨后绿野中，为我插上花束 https://t.co/RWwbpje6Fc",
+    "publish_time": "2026-07-17T14:38:39"
+  },
+  {
+    "file_name": "HNaUH86aUAARd5B.jpg",
+    "user": {
+      "screen_name": "MoFrost_",
+      "name": "Mosura"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNaUH86aUAARd5B.jpg",
+    "read_time": "2026-07-17T15:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30129,
+      "timestamp": "2026-07-17T15:02:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 184978,
+      "size_mb": 0.18,
+      "timestamp": "2026-07-17T15:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/zPAhfGq6Wq",
+    "publish_time": "2026-07-17T14:57:30"
+  },
+  {
+    "file_name": "HNaUH8sasAAE93v.jpg",
+    "user": {
+      "screen_name": "MoFrost_",
+      "name": "Mosura"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNaUH8sasAAE93v.jpg",
+    "read_time": "2026-07-17T15:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30130,
+      "timestamp": "2026-07-17T15:02:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 127578,
+      "size_mb": 0.12,
+      "timestamp": "2026-07-17T15:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/zPAhfGq6Wq",
+    "publish_time": "2026-07-17T14:57:30"
   }
 ]
