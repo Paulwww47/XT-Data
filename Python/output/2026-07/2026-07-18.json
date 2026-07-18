@@ -1680,14 +1680,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (1099MB > 50MB)",
       "timestamp": "2026-07-18T16:03:01",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 1152414833,
       "size_mb": 1099.03,
-      "timestamp": "2026-07-18T16:03:01",
+      "timestamp": "2026-07-18T17:03:00",
       "download_attempts": 0
     },
     "full_text": "佐罗s https://t.co/hd0D16aVPq",
@@ -1718,5 +1718,135 @@
     },
     "full_text": "https://t.co/JI2RjwU7PU",
     "publish_time": "2026-07-18T15:53:31"
+  },
+  {
+    "file_name": "_wudNADFcmhuMKvV.mp4",
+    "user": {
+      "screen_name": "aishangzhinan00",
+      "name": "shuaige"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2078393021310406656/vid/avc1/716x1280/_wudNADFcmhuMKvV.mp4?tag=29",
+    "read_time": "2026-07-18T17:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30246,
+      "timestamp": "2026-07-18T17:03:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1009818,
+      "size_mb": 0.96,
+      "timestamp": "2026-07-18T17:03:01",
+      "download_attempts": 0
+    },
+    "full_text": "9️⃣\n帅气篮球体育生，一开始跟姐姐加上就各种热情但是姐姐说到涩涩的话题就开始装高冷了，没想到后面在姐姐的诱惑下，直播完在酒店里被姐姐，尽情调解，变成姐姐的小狗，最后在酒店厕所里全部给了姐姐！预览喷射片段，只放一天，然后就私密了，喜欢的私我吧 https://t.co/qhxpeCz0ZI",
+    "publish_time": "2026-07-18T16:15:00"
+  },
+  {
+    "file_name": "g4A_qaIw_RnGL5HX.mp4",
+    "user": {
+      "screen_name": "aishangzhinan00",
+      "name": "shuaige"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2078393021297758208/vid/avc1/718x1280/g4A_qaIw_RnGL5HX.mp4?tag=29",
+    "read_time": "2026-07-18T17:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30247,
+      "timestamp": "2026-07-18T17:03:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2557139,
+      "size_mb": 2.44,
+      "timestamp": "2026-07-18T17:03:04",
+      "download_attempts": 0
+    },
+    "full_text": "9️⃣\n帅气篮球体育生，一开始跟姐姐加上就各种热情但是姐姐说到涩涩的话题就开始装高冷了，没想到后面在姐姐的诱惑下，直播完在酒店里被姐姐，尽情调解，变成姐姐的小狗，最后在酒店厕所里全部给了姐姐！预览喷射片段，只放一天，然后就私密了，喜欢的私我吧 https://t.co/qhxpeCz0ZI",
+    "publish_time": "2026-07-18T16:15:00"
+  },
+  {
+    "file_name": "iGSHGPj6z1-Dp2Sx.mp4",
+    "user": {
+      "screen_name": "aishangzhinan00",
+      "name": "shuaige"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2078393021297803264/vid/avc1/720x1280/iGSHGPj6z1-Dp2Sx.mp4?tag=29",
+    "read_time": "2026-07-18T17:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30248,
+      "timestamp": "2026-07-18T17:03:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1686244,
+      "size_mb": 1.61,
+      "timestamp": "2026-07-18T17:03:06",
+      "download_attempts": 0
+    },
+    "full_text": "9️⃣\n帅气篮球体育生，一开始跟姐姐加上就各种热情但是姐姐说到涩涩的话题就开始装高冷了，没想到后面在姐姐的诱惑下，直播完在酒店里被姐姐，尽情调解，变成姐姐的小狗，最后在酒店厕所里全部给了姐姐！预览喷射片段，只放一天，然后就私密了，喜欢的私我吧 https://t.co/qhxpeCz0ZI",
+    "publish_time": "2026-07-18T16:15:00"
+  },
+  {
+    "file_name": "qmwj-hBeKtqd1IQj.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2078398685818568704/vid/avc1/1280x720/qmwj-hBeKtqd1IQj.mp4?tag=29",
+    "read_time": "2026-07-18T17:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30249,
+      "timestamp": "2026-07-18T17:03:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2766379,
+      "size_mb": 2.64,
+      "timestamp": "2026-07-18T17:03:08",
+      "download_attempts": 0
+    },
+    "full_text": "太矮了… https://t.co/Pa24x1IVJH",
+    "publish_time": "2026-07-18T16:37:37"
+  },
+  {
+    "file_name": "HNf20bebwAAYcem.jpg",
+    "user": {
+      "screen_name": "Li2798345105",
+      "name": "Li"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNf20bebwAAYcem.jpg",
+    "read_time": "2026-07-18T17:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30250,
+      "timestamp": "2026-07-18T17:03:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 64451,
+      "size_mb": 0.06,
+      "timestamp": "2026-07-18T17:03:10",
+      "download_attempts": 0
+    },
+    "full_text": "坐骑 https://t.co/lJDvqBXqSt",
+    "publish_time": "2026-07-18T16:47:02"
   }
 ]
