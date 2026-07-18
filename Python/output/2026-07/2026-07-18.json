@@ -2724,14 +2724,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (50MB > 50MB)",
       "timestamp": "2026-07-18T23:01:37",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 53313296,
       "size_mb": 50.84,
-      "timestamp": "2026-07-18T23:01:37",
+      "timestamp": "2026-07-19T00:01:33",
       "download_attempts": 0
     },
     "full_text": "The Ultimate Assistant ⭐\nI know it wasn't enough. \nHere's how it works...\n\nRule of three:\nThey have fun. I get wet 😍\nFt. @MYedging  @sharksharkgun \n\n三代同躺，和樂濃濃\n～今天我是全能小助手 😜\n\n🎬 No.103ab 𝐅𝐔𝐋𝐋 𝐕𝗲𝗿.｜21+27 min\n\n𝐒𝐮𝐛. &amp; 𝐅𝐮𝐥𝐥 𝐀𝐜𝐜𝐞𝐬𝐬 &amp; 𝐏𝐏𝐕\n▶️ https://t.co/lyE8tbyEb4",
@@ -2830,17 +2830,121 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (54MB > 50MB)",
       "timestamp": "2026-07-18T23:01:47",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 57149362,
       "size_mb": 54.5,
-      "timestamp": "2026-07-18T23:01:47",
+      "timestamp": "2026-07-19T00:01:34",
       "download_attempts": 0
     },
     "full_text": "sub 筋犬 https://t.co/utP8ycSIn3",
     "publish_time": "2026-07-18T22:38:13"
+  },
+  {
+    "file_name": "HNhOnOXa8AAxLnI.jpg",
+    "user": {
+      "screen_name": "Xiongdaha",
+      "name": "帕丁顿熊（成都）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNhOnOXa8AAxLnI.jpg",
+    "read_time": "2026-07-19T00:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30286,
+      "timestamp": "2026-07-19T00:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 77525,
+      "size_mb": 0.07,
+      "timestamp": "2026-07-19T00:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "🤨 https://t.co/sPWMhTLw2l",
+    "publish_time": "2026-07-18T23:10:35"
+  },
+  {
+    "file_name": "HNhRCMbXoAABFAR.jpg",
+    "user": {
+      "screen_name": "fangsheng10",
+      "name": "fangsheng"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNhRCMbXoAABFAR.jpg",
+    "read_time": "2026-07-19T00:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30287,
+      "timestamp": "2026-07-19T00:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 123657,
+      "size_mb": 0.12,
+      "timestamp": "2026-07-19T00:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "@WINKYKINKY_SA @mrwinkykinky #winkykinky #winkykinkybodywear \n🧏🏽‍♂️ https://t.co/y3cQL2POlS",
+    "publish_time": "2026-07-18T23:22:59"
+  },
+  {
+    "file_name": "HNhRCMYXsAA8Ac_.jpg",
+    "user": {
+      "screen_name": "fangsheng10",
+      "name": "fangsheng"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNhRCMYXsAA8Ac_.jpg",
+    "read_time": "2026-07-19T00:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30288,
+      "timestamp": "2026-07-19T00:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 119107,
+      "size_mb": 0.11,
+      "timestamp": "2026-07-19T00:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "@WINKYKINKY_SA @mrwinkykinky #winkykinky #winkykinkybodywear \n🧏🏽‍♂️ https://t.co/y3cQL2POlS",
+    "publish_time": "2026-07-18T23:22:59"
+  },
+  {
+    "file_name": "-BTam7l7I9GmsOaW.mp4",
+    "user": {
+      "screen_name": "182and18",
+      "name": "Wilvino"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1929190845590441984/pu/vid/avc1/960x720/-BTam7l7I9GmsOaW.mp4?tag=12",
+    "read_time": "2026-07-19T00:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30289,
+      "timestamp": "2026-07-19T00:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 16013235,
+      "size_mb": 15.27,
+      "timestamp": "2026-07-19T00:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vtWzeqgNZK",
+    "publish_time": "2026-07-18T23:26:07"
   }
 ]
