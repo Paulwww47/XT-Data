@@ -335,5 +335,35 @@
     "tweetUrl": "https://x.com/toplcjfjv/status/2078641034234597633",
     "fullText": "努力消肚子 https://t.co/AAiGJ0qHEC",
     "publishTime": "2026-07-19T08:40:16"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNjio48bcAADLxN.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2078660425663873479",
+    "fullText": "muchuanze https://t.co/OLeUyrTdjo",
+    "publishTime": "2026-07-19T09:57:19"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNjixQNa8AA4d6i.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [
+      "http://brad.com.tw"
+    ],
+    "tweetUrl": "https://x.com/eric_kk97/status/2078660570585375215",
+    "fullText": "https://t.co/FrQHuZMsQn https://t.co/3DIXqOjFYn",
+    "publishTime": "2026-07-19T09:57:54"
   }
 ]
