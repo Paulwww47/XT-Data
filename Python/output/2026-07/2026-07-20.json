@@ -492,5 +492,57 @@
     },
     "full_text": "https://t.co/WgMxPDnDeO",
     "publish_time": "2026-07-20T03:33:32"
+  },
+  {
+    "file_name": "qypA4BQkoFTuWBI3.mp4",
+    "user": {
+      "screen_name": "klspbr",
+      "name": "小帅气"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2078939384917721090/vid/avc1/720x1280/qypA4BQkoFTuWBI3.mp4?tag=29",
+    "read_time": "2026-07-20T05:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30426,
+      "timestamp": "2026-07-20T05:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1581711,
+      "size_mb": 1.51,
+      "timestamp": "2026-07-20T05:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "哥哥的钟爱粉♥️ https://t.co/JRjTIG6Nnl",
+    "publish_time": "2026-07-20T04:26:05"
+  },
+  {
+    "file_name": "HNnkE0Fa8AAhEBl.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNnkE0Fa8AAhEBl.jpg",
+    "read_time": "2026-07-20T05:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30427,
+      "timestamp": "2026-07-20T05:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 190976,
+      "size_mb": 0.18,
+      "timestamp": "2026-07-20T05:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "imjasperz🍆 https://t.co/yKBYd4Yc7e",
+    "publish_time": "2026-07-20T04:42:05"
   }
 ]
