@@ -1721,6 +1721,20 @@
     }
   },
   {
+    "restId": "2053119361398034432",
+    "legacy": {
+      "name": "Ethan小趴菜（想谈恋爱版）",
+      "screenName": "EthanXPC",
+      "createdAt": "Sat May 09 14:27:26 +0000 2026",
+      "description": "🔞嚴正警告！含成人內容，未滿18歲請勿點閱\n178 vers 增肌中 找BF👨🏻‍❤️‍💋‍👨🏻 🚪\n🥵XP都在这里@EthanXPC1",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2053119361398034432/1778387058",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2053329983804977152/oTtHc4li_normal.jpg"
+    }
+  },
+  {
     "restId": "2059643964358270976",
     "legacy": {
       "name": "Ethan小趴菜（见不得人版）",
@@ -7272,7 +7286,7 @@
       "name": "直男教母",
       "screenName": "znjm1234",
       "createdAt": "Thu Jul 14 02:07:06 +0000 2022",
-      "description": "采访直男 原创 可帮钓\nQ 3948983169（小号关注防走丢@znjm123)\n电报群 https://t.co/NTvW4iePr0",
+      "description": "采访直男 原创 \nQ 3948983169（小号关注防走丢@znjm123)\n电报群 https://t.co/NTvW4iePr0",
       "entities": {
         "description": {
           "urls": [
@@ -7280,8 +7294,8 @@
               "display_url": "t.me/+VUJAd63JpRIxZ…",
               "expanded_url": "https://t.me/+VUJAd63JpRIxZTFh",
               "indices": [
-                46,
-                69
+                43,
+                66
               ],
               "url": "https://t.co/NTvW4iePr0"
             }
