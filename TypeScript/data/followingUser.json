@@ -3144,7 +3144,7 @@
       "name": "kaka",
       "screenName": "kaka_lac",
       "createdAt": "Wed Oct 18 18:29:53 +0000 2017",
-      "description": "完整版视频，请点击https://t.co/aEm4nA1ZS8（支持支付宝用户。银联），https://t.co/VwQD1juEPO，电报Ak_lac （永久电报会员群499，支付宝口令即可），防走丢@kakalac_，🚪199，合拍私信带照",
+      "description": "完整版视频，请点击https://t.co/aEm4nA1ZS8（支持支付宝用户。银联），https://t.co/VwQD1juEPO，防走丢@kakalac_，🚪199，合拍私信带照",
       "entities": {
         "description": {
           "urls": [
@@ -3262,7 +3262,7 @@
       "name": "kidden",
       "screenName": "KIDDEN7777777",
       "createdAt": "Fri May 17 15:58:20 +0000 2024",
-      "description": "色情只是我的一首诗\n卖点原味",
+      "description": "也许只是一首诗",
       "entities": {
         "description": {}
       },
@@ -3651,7 +3651,7 @@
       "name": "刘刚Logan",
       "screenName": "LiugangLogan",
       "createdAt": "Sat Jul 13 03:38:53 +0000 2024",
-      "description": "体育硕士，B站/抖音/小红书：刘刚Logan 佛系出🩲🧦 加V门槛🧧188",
+      "description": "体育硕士，B站/抖音/小红书：刘刚Logan 佛系出🩲🧦 加微信门槛🧧188 : liuganglogan",
       "entities": {
         "description": {},
         "url": {
@@ -3885,20 +3885,6 @@
       },
       "profileBannerUrl": "",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1937748492115755008/mXilUVZM_normal.jpg"
-    }
-  },
-  {
-    "restId": "1598817949821042691",
-    "legacy": {
-      "name": "MaleTease",
-      "screenName": "maletease",
-      "createdAt": "Fri Dec 02 23:14:46 +0000 2022",
-      "description": "如有侵權，請私信我刪除內容 DM me for copyright I will delete the video）账号问题收不到关注请求 本账户无法关注",
-      "entities": {
-        "description": {}
-      },
-      "profileBannerUrl": "",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1610107167734136833/qHGXnU6P_normal.jpg"
     }
   },
   {
@@ -5987,6 +5973,20 @@
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1622310286089764868/1731754324",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1944396326562861056/yYZaHwFH_normal.jpg"
+    }
+  },
+  {
+    "restId": "633891609",
+    "legacy": {
+      "name": "小狼叔",
+      "screenName": "uncledoggie",
+      "createdAt": "Thu Jul 12 15:19:11 +0000 2012",
+      "description": "偶尔放荡不羁爱自由 🌈 野草有主🍀 CN/EN/un peu FR",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/633891609/1646588152",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1735684483935047680/5cgzzLVZ_normal.jpg"
     }
   },
   {
