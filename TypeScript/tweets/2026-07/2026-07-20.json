@@ -235,5 +235,31 @@
     "tweetUrl": "https://x.com/xxxydd1/status/2078916653124112521",
     "fullText": "挑战一个星期不打飞机",
     "publishTime": "2026-07-20T02:55:29"
+  },
+  {
+    "user": {
+      "screenName": "klspbr",
+      "name": "小帅气"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/klspbr/status/2078921922683998379",
+    "fullText": "好好看就行 这视频可难得了独一份级别",
+    "publishTime": "2026-07-20T03:16:25"
+  },
+  {
+    "user": {
+      "screenName": "T13602S",
+      "name": "大野菊"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2078926189180121089/vid/avc1/364x640/vOrhylCXu5Eg4LZQ.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/T13602S/status/2078926231311909057",
+    "fullText": "https://t.co/WgMxPDnDeO",
+    "publishTime": "2026-07-20T03:33:32"
   }
 ]
