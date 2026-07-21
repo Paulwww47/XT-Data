@@ -1372,14 +1372,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (864MB > 50MB)",
       "timestamp": "2026-07-21T17:01:55",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 906867267,
       "size_mb": 864.86,
-      "timestamp": "2026-07-21T17:01:55",
+      "timestamp": "2026-07-21T18:03:01",
       "download_attempts": 0
     },
     "full_text": "https://t.co/gSbZJfIsfD",
@@ -1462,5 +1462,191 @@
     },
     "full_text": "白色的 https://t.co/5VE6nx7fnO",
     "publish_time": "2026-07-21T17:00:13"
+  },
+  {
+    "file_name": "q8Wg_6WkV5IxtXur.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1967289098311442433/vid/avc1/574x1280/q8Wg_6WkV5IxtXur.mp4?tag=21",
+    "read_time": "2026-07-21T18:02:58",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (61MB > 50MB)",
+      "timestamp": "2026-07-21T18:03:02",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 64308247,
+      "size_mb": 61.33,
+      "timestamp": "2026-07-21T18:03:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/GYdfVMmbTT",
+    "publish_time": "2026-07-21T17:04:07"
+  },
+  {
+    "file_name": "HNvZS_yboAABvA8.jpg",
+    "user": {
+      "screen_name": "huohuo0707330",
+      "name": "嚯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNvZS_yboAABvA8.jpg",
+    "read_time": "2026-07-21T18:02:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30565,
+      "timestamp": "2026-07-21T18:03:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 230783,
+      "size_mb": 0.22,
+      "timestamp": "2026-07-21T18:03:02",
+      "download_attempts": 0
+    },
+    "full_text": "🔲 https://t.co/ze3T9pglVx",
+    "publish_time": "2026-07-21T17:11:59"
+  },
+  {
+    "file_name": "HNvZS_oawAApmqA.jpg",
+    "user": {
+      "screen_name": "huohuo0707330",
+      "name": "嚯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNvZS_oawAApmqA.jpg",
+    "read_time": "2026-07-21T18:02:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30566,
+      "timestamp": "2026-07-21T18:03:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 202084,
+      "size_mb": 0.19,
+      "timestamp": "2026-07-21T18:03:04",
+      "download_attempts": 0
+    },
+    "full_text": "🔲 https://t.co/ze3T9pglVx",
+    "publish_time": "2026-07-21T17:11:59"
+  },
+  {
+    "file_name": "4En-S-TVW_YIS1KY.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2078097297808687104/vid/avc1/1080x1918/4En-S-TVW_YIS1KY.mp4?tag=29",
+    "read_time": "2026-07-21T18:02:58",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (662MB > 50MB)",
+      "timestamp": "2026-07-21T18:04:05",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 694386318,
+      "size_mb": 662.22,
+      "timestamp": "2026-07-21T18:04:05",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/LX8Lz1irbK",
+    "publish_time": "2026-07-21T17:17:50"
+  },
+  {
+    "file_name": "DuPLf2OU2irZAPfB.mp4",
+    "user": {
+      "screen_name": "yhao_97",
+      "name": "大虎"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2079496573206380544/vid/avc1/1280x720/DuPLf2OU2irZAPfB.mp4?tag=29",
+    "read_time": "2026-07-21T18:02:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30567,
+      "timestamp": "2026-07-21T18:04:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7054358,
+      "size_mb": 6.73,
+      "timestamp": "2026-07-21T18:04:06",
+      "download_attempts": 0
+    },
+    "full_text": "one more time… https://t.co/6lqICjxCAS",
+    "publish_time": "2026-07-21T17:20:29"
+  },
+  {
+    "file_name": "HNvfMAFa0AAhDbF.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNvfMAFa0AAhDbF.jpg",
+    "read_time": "2026-07-21T18:02:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30568,
+      "timestamp": "2026-07-21T18:04:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 131058,
+      "size_mb": 0.12,
+      "timestamp": "2026-07-21T18:04:09",
+      "download_attempts": 0
+    },
+    "full_text": "riesling_0903 🍆🐢 https://t.co/gjg0enYUSa",
+    "publish_time": "2026-07-21T17:37:41"
+  },
+  {
+    "file_name": "rL3nyu787KJN6Yur.mp4",
+    "user": {
+      "screen_name": "imfenshuajiang",
+      "name": "我是一个粉刷匠"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2078469352974856192/vid/avc1/720x960/rL3nyu787KJN6Yur.mp4?tag=29",
+    "read_time": "2026-07-21T18:02:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30569,
+      "timestamp": "2026-07-21T18:04:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 21712800,
+      "size_mb": 20.71,
+      "timestamp": "2026-07-21T18:04:10",
+      "download_attempts": 0
+    },
+    "full_text": "还怪有意思😂😂 https://t.co/Lcmul1dlQD",
+    "publish_time": "2026-07-21T17:44:37"
   }
 ]
