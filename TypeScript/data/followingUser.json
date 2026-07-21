@@ -485,6 +485,19 @@
               "url": "https://t.co/pTiYh22DYe"
             }
           ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "fansone.co/alwyn_shown",
+              "expanded_url": "https://fansone.co/alwyn_shown",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/pTiYh22DYe"
+            }
+          ]
         }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1945349845486813185/1767188493",
@@ -2413,6 +2426,33 @@
     }
   },
   {
+    "restId": "1089357438585729024",
+    "legacy": {
+      "name": "亞洲狗子",
+      "screenName": "hashiqi1s",
+      "createdAt": "Sun Jan 27 03:00:27 +0000 2019",
+      "description": "がっち専 マッチョ専 183 80 0.5 SM 双向 喜欢体训肌肉男爸爸爹",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/hashiqi_",
+              "expanded_url": "https://instagram.com/hashiqi_",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/rknjxEa06g"
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1089357438585729024/1583921492",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1756081082217484288/83v-hW7o_normal.jpg"
+    }
+  },
+  {
     "restId": "1543475174066257920",
     "legacy": {
       "name": "WordWang",
@@ -2722,7 +2762,7 @@
       "name": "灏子不是耗子",
       "screenName": "icemeishi2001",
       "createdAt": "Thu Jan 29 01:12:49 +0000 2026",
-      "description": "推止于推/186.80.44.16*4/ISTP♈🌈/就这一个号其他的都是假的大家不要被骗💰",
+      "description": "推止于推/就这一个号其他的都是假的大家不要被骗💰",
       "entities": {
         "description": {}
       },
@@ -5371,7 +5411,7 @@
       "name": "岛我脸上",
       "screenName": "shuitatata",
       "createdAt": "Sun Mar 17 01:15:26 +0000 2024",
-      "description": "06年 176-58-16 重度内裤爱好者",
+      "description": "06年 176-58-16 重度内裤爱好者 常驻成都周边，欢迎约拍",
       "entities": {
         "description": {}
       },
