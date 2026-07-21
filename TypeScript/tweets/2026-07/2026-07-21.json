@@ -614,5 +614,61 @@
     "tweetUrl": "https://x.com/shuitatata/status/2079475910500331647",
     "fullText": "里版 https://t.co/hRUUSAAngW",
     "publishTime": "2026-07-21T15:57:46"
+  },
+  {
+    "user": {
+      "screenName": "Trungn5at",
+      "name": "Trung"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2079224356631404544/vid/avc1/1080x1920/8OepKXj7qIpsV6uD.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Trungn5at/status/2079478091311968664",
+    "fullText": "https://t.co/gSbZJfIsfD",
+    "publishTime": "2026-07-21T16:06:26"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNvOMSVa0AA2Vog.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2079482368440873453",
+    "fullText": "ren06091998 https://t.co/RDF54qr33O",
+    "publishTime": "2026-07-21T16:23:26"
+  },
+  {
+    "user": {
+      "screenName": "Trungn5at",
+      "name": "Trung"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2079459635699007488/vid/avc1/592x1280/-5mJ0vrwYzzTLzeN.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Trungn5at/status/2079483801923895705",
+    "fullText": "https://t.co/3Sk3olMi0v",
+    "publishTime": "2026-07-21T16:29:07"
+  },
+  {
+    "user": {
+      "screenName": "SahuanerdeDD",
+      "name": "酷酷的丁子"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HNvWnEZa4AAaP4q.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/SahuanerdeDD/status/2079491625936712082",
+    "fullText": "白色的 https://t.co/5VE6nx7fnO",
+    "publishTime": "2026-07-21T17:00:13"
   }
 ]
