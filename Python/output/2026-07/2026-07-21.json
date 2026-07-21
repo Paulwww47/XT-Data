@@ -1478,14 +1478,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (61MB > 50MB)",
       "timestamp": "2026-07-21T18:03:02",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 64308247,
       "size_mb": 61.33,
-      "timestamp": "2026-07-21T18:03:02",
+      "timestamp": "2026-07-21T19:02:07",
       "download_attempts": 0
     },
     "full_text": "https://t.co/GYdfVMmbTT",
@@ -1558,14 +1558,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (662MB > 50MB)",
       "timestamp": "2026-07-21T18:04:05",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 694386318,
       "size_mb": 662.22,
-      "timestamp": "2026-07-21T18:04:05",
+      "timestamp": "2026-07-21T19:02:09",
       "download_attempts": 0
     },
     "full_text": "https://t.co/LX8Lz1irbK",
@@ -1648,5 +1648,187 @@
     },
     "full_text": "还怪有意思😂😂 https://t.co/Lcmul1dlQD",
     "publish_time": "2026-07-21T17:44:37"
+  },
+  {
+    "file_name": "ZI8fX7RirOxmC_Uj.mp4",
+    "user": {
+      "screen_name": "imfenshuajiang",
+      "name": "我是一个粉刷匠"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2079508628298727424/vid/avc1/720x1280/ZI8fX7RirOxmC_Uj.mp4?tag=29",
+    "read_time": "2026-07-21T19:02:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30570,
+      "timestamp": "2026-07-21T19:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1238131,
+      "size_mb": 1.18,
+      "timestamp": "2026-07-21T19:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "今日有点憔悴，\n刚做完实验，太累了\n4k原相机直出 https://t.co/IdLzZtfP9s",
+    "publish_time": "2026-07-21T18:08:01"
+  },
+  {
+    "file_name": "2ozSXjxCY4AkJLFh.mp4",
+    "user": {
+      "screen_name": "imfenshuajiang",
+      "name": "我是一个粉刷匠"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2079508628294537216/vid/avc1/720x1280/2ozSXjxCY4AkJLFh.mp4?tag=29",
+    "read_time": "2026-07-21T19:02:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30571,
+      "timestamp": "2026-07-21T19:02:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3932589,
+      "size_mb": 3.75,
+      "timestamp": "2026-07-21T19:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "今日有点憔悴，\n刚做完实验，太累了\n4k原相机直出 https://t.co/IdLzZtfP9s",
+    "publish_time": "2026-07-21T18:08:01"
+  },
+  {
+    "file_name": "HNvolOaaoAAZ6J0.jpg",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNvolOaaoAAZ6J0.jpg",
+    "read_time": "2026-07-21T19:02:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30572,
+      "timestamp": "2026-07-21T19:02:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 356705,
+      "size_mb": 0.34,
+      "timestamp": "2026-07-21T19:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "汗湿 https://t.co/I8UqaygNqU",
+    "publish_time": "2026-07-21T18:18:46"
+  },
+  {
+    "file_name": "HNvolOdasAAZO51.jpg",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNvolOdasAAZO51.jpg",
+    "read_time": "2026-07-21T19:02:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30573,
+      "timestamp": "2026-07-21T19:02:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 193224,
+      "size_mb": 0.18,
+      "timestamp": "2026-07-21T19:02:18",
+      "download_attempts": 0
+    },
+    "full_text": "汗湿 https://t.co/I8UqaygNqU",
+    "publish_time": "2026-07-21T18:18:46"
+  },
+  {
+    "file_name": "HNvqSlAboAAsxFE.jpg",
+    "user": {
+      "screen_name": "naizhouzhou",
+      "name": "奶粥🪬"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNvqSlAboAAsxFE.jpg",
+    "read_time": "2026-07-21T19:02:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30574,
+      "timestamp": "2026-07-21T19:02:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 64996,
+      "size_mb": 0.06,
+      "timestamp": "2026-07-21T19:02:18",
+      "download_attempts": 0
+    },
+    "full_text": "问你们问题不帮我解答🥹就等着看是吧！你们好气人 https://t.co/u1F7s8itFK",
+    "publish_time": "2026-07-21T18:26:12"
+  },
+  {
+    "file_name": "Kowdw2JGD1_FAhHl.mp4",
+    "user": {
+      "screen_name": "imfenshuajiang",
+      "name": "我是一个粉刷匠"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2079513345842130944/vid/avc1/1280x720/Kowdw2JGD1_FAhHl.mp4?tag=29",
+    "read_time": "2026-07-21T19:02:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30575,
+      "timestamp": "2026-07-21T19:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3540879,
+      "size_mb": 3.38,
+      "timestamp": "2026-07-21T19:02:20",
+      "download_attempts": 0
+    },
+    "full_text": "出了一条一条又一条内裤\n精液作蘸料，挂在内裤上\n出内裤还会附带射精的视频，太贴心了 https://t.co/jnClYqa4JZ",
+    "publish_time": "2026-07-21T18:26:59"
+  },
+  {
+    "file_name": "VhIU_yjjUEm58cvz.mp4",
+    "user": {
+      "screen_name": "imfenshuajiang",
+      "name": "我是一个粉刷匠"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2079513345829556224/vid/avc1/1280x720/VhIU_yjjUEm58cvz.mp4?tag=29",
+    "read_time": "2026-07-21T19:02:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30576,
+      "timestamp": "2026-07-21T19:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2653439,
+      "size_mb": 2.53,
+      "timestamp": "2026-07-21T19:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "出了一条一条又一条内裤\n精液作蘸料，挂在内裤上\n出内裤还会附带射精的视频，太贴心了 https://t.co/jnClYqa4JZ",
+    "publish_time": "2026-07-21T18:26:59"
   }
 ]
