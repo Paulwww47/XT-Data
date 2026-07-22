@@ -146,14 +146,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (59MB > 50MB)",
       "timestamp": "2026-07-23T02:02:13",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 62897909,
       "size_mb": 59.98,
-      "timestamp": "2026-07-23T02:02:13",
+      "timestamp": "2026-07-23T03:02:07",
       "download_attempts": 0
     },
     "full_text": "https://t.co/NyBOHXqIgy",
@@ -174,14 +174,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (53MB > 50MB)",
       "timestamp": "2026-07-23T02:02:14",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 56390618,
       "size_mb": 53.78,
-      "timestamp": "2026-07-23T02:02:14",
+      "timestamp": "2026-07-23T03:02:07",
       "download_attempts": 0
     },
     "full_text": "超长版（关注我不迷路！） https://t.co/xWnOxU3L9q",
@@ -202,14 +202,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (234MB > 50MB)",
       "timestamp": "2026-07-23T02:02:15",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 245603024,
       "size_mb": 234.23,
-      "timestamp": "2026-07-23T02:02:15",
+      "timestamp": "2026-07-23T03:02:09",
       "download_attempts": 0
     },
     "full_text": "https://t.co/bE3aA176LC",
@@ -230,14 +230,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (52MB > 50MB)",
       "timestamp": "2026-07-23T02:02:16",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 55479474,
       "size_mb": 52.91,
-      "timestamp": "2026-07-23T02:02:16",
+      "timestamp": "2026-07-23T03:02:10",
       "download_attempts": 0
     },
     "full_text": "https://t.co/y5Ngha3bVF",
@@ -310,14 +310,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (136MB > 50MB)",
       "timestamp": "2026-07-23T02:02:21",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 142831908,
       "size_mb": 136.22,
-      "timestamp": "2026-07-23T02:02:21",
+      "timestamp": "2026-07-23T03:02:12",
       "download_attempts": 0
     },
     "full_text": "https://t.co/yPVkw5SXZY",
@@ -364,14 +364,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (73MB > 50MB)",
       "timestamp": "2026-07-23T02:02:23",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 77028373,
       "size_mb": 73.46,
-      "timestamp": "2026-07-23T02:02:23",
+      "timestamp": "2026-07-23T03:02:12",
       "download_attempts": 0
     },
     "full_text": "https://t.co/eqxoZEWT13",
@@ -392,17 +392,149 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (53MB > 50MB)",
       "timestamp": "2026-07-23T02:02:24",
+      "notification_sent": true
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 56134469,
+      "size_mb": 53.53,
+      "timestamp": "2026-07-23T03:02:12",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Oydh8HMCPc",
+    "publish_time": "2026-07-23T01:52:07"
+  },
+  {
+    "file_name": "HN2c4khaAAArb_a.jpg",
+    "user": {
+      "screen_name": "Harry1910040",
+      "name": "ai吃猪柳蛋麦满分"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN2c4khaAAArb_a.jpg",
+    "read_time": "2026-07-23T03:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30738,
+      "timestamp": "2026-07-23T03:02:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 194917,
+      "size_mb": 0.19,
+      "timestamp": "2026-07-23T03:02:12",
+      "download_attempts": 0
+    },
+    "full_text": "此时心情如p4belike https://t.co/Xd61zkw5Ou",
+    "publish_time": "2026-07-23T02:04:58"
+  },
+  {
+    "file_name": "HN2c4khagAAqJMW.jpg",
+    "user": {
+      "screen_name": "Harry1910040",
+      "name": "ai吃猪柳蛋麦满分"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN2c4khagAAqJMW.jpg",
+    "read_time": "2026-07-23T03:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30739,
+      "timestamp": "2026-07-23T03:02:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 233657,
+      "size_mb": 0.22,
+      "timestamp": "2026-07-23T03:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "此时心情如p4belike https://t.co/Xd61zkw5Ou",
+    "publish_time": "2026-07-23T02:04:58"
+  },
+  {
+    "file_name": "HN2c4kbboAAGSJc.jpg",
+    "user": {
+      "screen_name": "Harry1910040",
+      "name": "ai吃猪柳蛋麦满分"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN2c4kbboAAGSJc.jpg",
+    "read_time": "2026-07-23T03:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30740,
+      "timestamp": "2026-07-23T03:02:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 199674,
+      "size_mb": 0.19,
+      "timestamp": "2026-07-23T03:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "此时心情如p4belike https://t.co/Xd61zkw5Ou",
+    "publish_time": "2026-07-23T02:04:58"
+  },
+  {
+    "file_name": "HN2c4kibAAApvQR.jpg",
+    "user": {
+      "screen_name": "Harry1910040",
+      "name": "ai吃猪柳蛋麦满分"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN2c4kibAAApvQR.jpg",
+    "read_time": "2026-07-23T03:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30741,
+      "timestamp": "2026-07-23T03:02:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 90076,
+      "size_mb": 0.09,
+      "timestamp": "2026-07-23T03:02:17",
+      "download_attempts": 0
+    },
+    "full_text": "此时心情如p4belike https://t.co/Xd61zkw5Ou",
+    "publish_time": "2026-07-23T02:04:58"
+  },
+  {
+    "file_name": "D6Q6fN9P041qbEHa.mp4",
+    "user": {
+      "screen_name": "cibxun0301",
+      "name": "蔡博轩"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2079846710269083648/vid/avc1/1920x1080/D6Q6fN9P041qbEHa.mp4?tag=29",
+    "read_time": "2026-07-23T03:02:06",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (771MB > 50MB)",
+      "timestamp": "2026-07-23T03:02:21",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 56134469,
-      "size_mb": 53.53,
-      "timestamp": "2026-07-23T02:02:24",
+      "size": 809164478,
+      "size_mb": 771.68,
+      "timestamp": "2026-07-23T03:02:21",
       "download_attempts": 0
     },
-    "full_text": "https://t.co/Oydh8HMCPc",
-    "publish_time": "2026-07-23T01:52:07"
+    "full_text": "https://t.co/ibEUT8pyaM",
+    "publish_time": "2026-07-23T02:16:37"
   }
 ]
