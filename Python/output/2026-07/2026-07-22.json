@@ -2970,5 +2970,59 @@
     },
     "full_text": "📺❓ https://t.co/5bvSuumMQi",
     "publish_time": "2026-07-22T22:00:35"
+  },
+  {
+    "file_name": "ZfhKGn9QTZoVBqJ-.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2079588686178758656/vid/avc1/720x1280/ZfhKGn9QTZoVBqJ-.mp4?tag=14",
+    "read_time": "2026-07-22T23:02:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (59MB > 50MB)",
+      "timestamp": "2026-07-22T23:02:14",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 62897909,
+      "size_mb": 59.98,
+      "timestamp": "2026-07-22T23:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/zHYdZWaE5i",
+    "publish_time": "2026-07-22T22:28:30"
+  },
+  {
+    "file_name": "nbfgrc8AhXVJQTob.mp4",
+    "user": {
+      "screen_name": "imfenshuajiang",
+      "name": "我是一个粉刷匠"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2079941366965276672/vid/avc1/720x1280/nbfgrc8AhXVJQTob.mp4?tag=29",
+    "read_time": "2026-07-22T23:02:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30713,
+      "timestamp": "2026-07-22T23:02:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4488495,
+      "size_mb": 4.28,
+      "timestamp": "2026-07-22T23:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "给大家看看我新买的设备！\n二手pocket3，北京面交的，几乎全新，1650块\n买了张内存卡明天送达 https://t.co/2ABnpsrOWr",
+    "publish_time": "2026-07-22T22:47:47"
   }
 ]
