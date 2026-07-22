@@ -2986,14 +2986,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (59MB > 50MB)",
       "timestamp": "2026-07-22T23:02:14",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 62897909,
       "size_mb": 59.98,
-      "timestamp": "2026-07-22T23:02:14",
+      "timestamp": "2026-07-23T00:02:13",
       "download_attempts": 0
     },
     "full_text": "https://t.co/zHYdZWaE5i",
@@ -3024,5 +3024,447 @@
     },
     "full_text": "给大家看看我新买的设备！\n二手pocket3，北京面交的，几乎全新，1650块\n买了张内存卡明天送达 https://t.co/2ABnpsrOWr",
     "publish_time": "2026-07-22T22:47:47"
+  },
+  {
+    "file_name": "HN1zB2BaAAASzaO.jpg",
+    "user": {
+      "screen_name": "allen7460",
+      "name": "arthur"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN1zB2BaAAASzaO.jpg",
+    "read_time": "2026-07-23T00:02:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30714,
+      "timestamp": "2026-07-23T00:02:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 109885,
+      "size_mb": 0.1,
+      "timestamp": "2026-07-23T00:02:13",
+      "download_attempts": 0
+    },
+    "full_text": "還有呼吸 https://t.co/aCznHVz7up",
+    "publish_time": "2026-07-22T23:02:06"
+  },
+  {
+    "file_name": "HN1zNOkbkAA3Vjt.jpg",
+    "user": {
+      "screen_name": "haoyun9988",
+      "name": "三亚原(天蝎)"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN1zNOkbkAA3Vjt.jpg",
+    "read_time": "2026-07-23T00:02:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30715,
+      "timestamp": "2026-07-23T00:02:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 63458,
+      "size_mb": 0.06,
+      "timestamp": "2026-07-23T00:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "北京 https://t.co/7FeZV0B0TD",
+    "publish_time": "2026-07-22T23:02:56"
+  },
+  {
+    "file_name": "HN1zNOlbkAAMZxr.jpg",
+    "user": {
+      "screen_name": "haoyun9988",
+      "name": "三亚原(天蝎)"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN1zNOlbkAAMZxr.jpg",
+    "read_time": "2026-07-23T00:02:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30716,
+      "timestamp": "2026-07-23T00:02:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 72303,
+      "size_mb": 0.07,
+      "timestamp": "2026-07-23T00:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "北京 https://t.co/7FeZV0B0TD",
+    "publish_time": "2026-07-22T23:02:56"
+  },
+  {
+    "file_name": "HN1zNOiaMAAZ7-x.jpg",
+    "user": {
+      "screen_name": "haoyun9988",
+      "name": "三亚原(天蝎)"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN1zNOiaMAAZ7-x.jpg",
+    "read_time": "2026-07-23T00:02:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30717,
+      "timestamp": "2026-07-23T00:02:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 64265,
+      "size_mb": 0.06,
+      "timestamp": "2026-07-23T00:02:17",
+      "download_attempts": 0
+    },
+    "full_text": "北京 https://t.co/7FeZV0B0TD",
+    "publish_time": "2026-07-22T23:02:56"
+  },
+  {
+    "file_name": "HN10jSzbIAA6lIP.jpg",
+    "user": {
+      "screen_name": "dunzh299016",
+      "name": "吉吉"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN10jSzbIAA6lIP.jpg",
+    "read_time": "2026-07-23T00:02:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30718,
+      "timestamp": "2026-07-23T00:02:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 65916,
+      "size_mb": 0.06,
+      "timestamp": "2026-07-23T00:02:18",
+      "download_attempts": 0
+    },
+    "full_text": "嘻嘻😬 https://t.co/FlealKSh0c",
+    "publish_time": "2026-07-22T23:08:49"
+  },
+  {
+    "file_name": "HN10j9MakAAIGA-.jpg",
+    "user": {
+      "screen_name": "dunzh299016",
+      "name": "吉吉"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN10j9MakAAIGA-.jpg",
+    "read_time": "2026-07-23T00:02:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30719,
+      "timestamp": "2026-07-23T00:02:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 53884,
+      "size_mb": 0.05,
+      "timestamp": "2026-07-23T00:02:20",
+      "download_attempts": 0
+    },
+    "full_text": "嘻嘻😬 https://t.co/FlealKSh0c",
+    "publish_time": "2026-07-22T23:08:49"
+  },
+  {
+    "file_name": "1-bDZef6-MRV490D.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2079948648641908736/pu/vid/avc1/1280x720/1-bDZef6-MRV490D.mp4?tag=12",
+    "read_time": "2026-07-23T00:02:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30720,
+      "timestamp": "2026-07-23T00:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 253211,
+      "size_mb": 0.24,
+      "timestamp": "2026-07-23T00:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "运动完搓搓被汗湿浸透的高弹包裹的乳头更有感觉，包皮鸡巴一点点硬起来 https://t.co/5WGoJw0zPd",
+    "publish_time": "2026-07-22T23:16:28"
+  },
+  {
+    "file_name": "5Nr82wAV6lW3OoUl.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2079948648293842944/pu/vid/avc1/1280x720/5Nr82wAV6lW3OoUl.mp4?tag=12",
+    "read_time": "2026-07-23T00:02:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30721,
+      "timestamp": "2026-07-23T00:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 314950,
+      "size_mb": 0.3,
+      "timestamp": "2026-07-23T00:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "运动完搓搓被汗湿浸透的高弹包裹的乳头更有感觉，包皮鸡巴一点点硬起来 https://t.co/5WGoJw0zPd",
+    "publish_time": "2026-07-22T23:16:28"
+  },
+  {
+    "file_name": "RbQhxDMU3iRHXEvS.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2079948685811875840/pu/vid/avc1/1280x720/RbQhxDMU3iRHXEvS.mp4?tag=12",
+    "read_time": "2026-07-23T00:02:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30722,
+      "timestamp": "2026-07-23T00:02:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 263907,
+      "size_mb": 0.25,
+      "timestamp": "2026-07-23T00:02:24",
+      "download_attempts": 0
+    },
+    "full_text": "运动完搓搓被汗湿浸透的高弹包裹的乳头更有感觉，包皮鸡巴一点点硬起来 https://t.co/5WGoJw0zPd",
+    "publish_time": "2026-07-22T23:16:28"
+  },
+  {
+    "file_name": "HN143xzbgAEOa6t.jpg",
+    "user": {
+      "screen_name": "chen986903",
+      "name": "chen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN143xzbgAEOa6t.jpg",
+    "read_time": "2026-07-23T00:02:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30723,
+      "timestamp": "2026-07-23T00:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 93598,
+      "size_mb": 0.09,
+      "timestamp": "2026-07-23T00:02:26",
+      "download_attempts": 0
+    },
+    "full_text": "本人刚开通私人电报：https://t.co/umuZq6Nv6v暗\n号：k\n要进我私人空间互动看完整版高清\n，空降，露脸视频，和最近刚拍的新素材的宝宝，电报私我。名额有限！ https://t.co/XO1SuK2yqU",
+    "publish_time": "2026-07-22T23:27:38"
+  },
+  {
+    "file_name": "HN16hl6bsAATUXX.jpg",
+    "user": {
+      "screen_name": "Szzsen",
+      "name": "Jensen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN16hl6bsAATUXX.jpg",
+    "read_time": "2026-07-23T00:02:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30724,
+      "timestamp": "2026-07-23T00:02:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 144653,
+      "size_mb": 0.14,
+      "timestamp": "2026-07-23T00:02:27",
+      "download_attempts": 0
+    },
+    "full_text": "🥵 https://t.co/7r6Z3YnNYK",
+    "publish_time": "2026-07-22T23:34:52"
+  },
+  {
+    "file_name": "HN16hl8aoAAAr6y.jpg",
+    "user": {
+      "screen_name": "Szzsen",
+      "name": "Jensen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN16hl8aoAAAr6y.jpg",
+    "read_time": "2026-07-23T00:02:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30725,
+      "timestamp": "2026-07-23T00:02:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 112626,
+      "size_mb": 0.11,
+      "timestamp": "2026-07-23T00:02:28",
+      "download_attempts": 0
+    },
+    "full_text": "🥵 https://t.co/7r6Z3YnNYK",
+    "publish_time": "2026-07-22T23:34:52"
+  },
+  {
+    "file_name": "HN16hl7akAAKI2O.jpg",
+    "user": {
+      "screen_name": "Szzsen",
+      "name": "Jensen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN16hl7akAAKI2O.jpg",
+    "read_time": "2026-07-23T00:02:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30726,
+      "timestamp": "2026-07-23T00:02:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 94417,
+      "size_mb": 0.09,
+      "timestamp": "2026-07-23T00:02:29",
+      "download_attempts": 0
+    },
+    "full_text": "🥵 https://t.co/7r6Z3YnNYK",
+    "publish_time": "2026-07-22T23:34:52"
+  },
+  {
+    "file_name": "HN16lOfbQAE9uc4.jpg",
+    "user": {
+      "screen_name": "Harry1910040",
+      "name": "ai吃猪柳蛋麦满分"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN16lOfbQAE9uc4.jpg",
+    "read_time": "2026-07-23T00:02:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30727,
+      "timestamp": "2026-07-23T00:02:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 116530,
+      "size_mb": 0.11,
+      "timestamp": "2026-07-23T00:02:30",
+      "download_attempts": 0
+    },
+    "full_text": "体验一下范思哲总体感觉还是没有安达士的环境舒服 https://t.co/9MYxbSBWXl",
+    "publish_time": "2026-07-22T23:35:06"
+  },
+  {
+    "file_name": "_5abJyTvAo4SD0-3.mp4",
+    "user": {
+      "screen_name": "182and18",
+      "name": "Wilvino"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2079957497641934848/vid/avc1/720x1280/_5abJyTvAo4SD0-3.mp4?tag=29",
+    "read_time": "2026-07-23T00:02:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30728,
+      "timestamp": "2026-07-23T00:02:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2847859,
+      "size_mb": 2.72,
+      "timestamp": "2026-07-23T00:02:32",
+      "download_attempts": 0
+    },
+    "full_text": "第一次自己洗澡录个视频想到这里竟然硬了起来。 https://t.co/uLPuybqGyW",
+    "publish_time": "2026-07-22T23:52:11"
+  },
+  {
+    "file_name": "AnufdX1teWm7U8-1.mp4",
+    "user": {
+      "screen_name": "LiugangLogan",
+      "name": "刘刚Logan"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2079958021413961728/vid/avc1/1280x720/AnufdX1teWm7U8-1.mp4?tag=29",
+    "read_time": "2026-07-23T00:02:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30729,
+      "timestamp": "2026-07-23T00:02:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1544221,
+      "size_mb": 1.47,
+      "timestamp": "2026-07-23T00:02:36",
+      "download_attempts": 0
+    },
+    "full_text": "🐟🐟🐟 https://t.co/h9AhSCrl5l",
+    "publish_time": "2026-07-22T23:53:38"
+  },
+  {
+    "file_name": "8hBKAoLywFBcKgZg.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2079570986958270464/vid/avc1/1280x716/8hBKAoLywFBcKgZg.mp4?tag=29",
+    "read_time": "2026-07-23T00:02:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30730,
+      "timestamp": "2026-07-23T00:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 15992339,
+      "size_mb": 15.25,
+      "timestamp": "2026-07-23T00:02:39",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/qdwAegea7D",
+    "publish_time": "2026-07-22T23:57:50"
   }
 ]
