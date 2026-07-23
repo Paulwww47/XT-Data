@@ -2268,14 +2268,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (287MB > 50MB)",
       "timestamp": "2026-07-23T17:03:00",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 301860681,
       "size_mb": 287.88,
-      "timestamp": "2026-07-23T17:03:00",
+      "timestamp": "2026-07-23T18:02:06",
       "download_attempts": 0
     },
     "full_text": "https://t.co/LOOWzvH024",
@@ -2384,5 +2384,265 @@
     },
     "full_text": "今天好韩～ https://t.co/Vk5XViZg1R",
     "publish_time": "2026-07-23T17:01:11"
+  },
+  {
+    "file_name": "HN5s672bMAAn_Q5.jpg",
+    "user": {
+      "screen_name": "caiancheng2",
+      "name": "wcyg"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN5s672bMAAn_Q5.jpg",
+    "read_time": "2026-07-23T18:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30812,
+      "timestamp": "2026-07-23T18:02:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 100370,
+      "size_mb": 0.1,
+      "timestamp": "2026-07-23T18:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "上海第二个家 https://t.co/gPTKfrb8DU",
+    "publish_time": "2026-07-23T17:13:54"
+  },
+  {
+    "file_name": "HN5s67taoAE5Xc8.jpg",
+    "user": {
+      "screen_name": "caiancheng2",
+      "name": "wcyg"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN5s67taoAE5Xc8.jpg",
+    "read_time": "2026-07-23T18:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30813,
+      "timestamp": "2026-07-23T18:02:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 179418,
+      "size_mb": 0.17,
+      "timestamp": "2026-07-23T18:02:08",
+      "download_attempts": 0
+    },
+    "full_text": "上海第二个家 https://t.co/gPTKfrb8DU",
+    "publish_time": "2026-07-23T17:13:54"
+  },
+  {
+    "file_name": "HN5xxJAWoAAqey6.jpg",
+    "user": {
+      "screen_name": "abdkym19",
+      "name": "keyoum"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN5xxJAWoAAqey6.jpg",
+    "read_time": "2026-07-23T18:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30814,
+      "timestamp": "2026-07-23T18:02:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 105127,
+      "size_mb": 0.1,
+      "timestamp": "2026-07-23T18:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "产品实物图已经更新\n微信小程序搜超牛品牌可以直接下单【购买渠道仅此一个，谨防被骗】\n购买后福利很多，想要直接冲 https://t.co/a9lCnhdFeB",
+    "publish_time": "2026-07-23T17:35:06"
+  },
+  {
+    "file_name": "HN5xxJBXcAAgmm3.jpg",
+    "user": {
+      "screen_name": "abdkym19",
+      "name": "keyoum"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN5xxJBXcAAgmm3.jpg",
+    "read_time": "2026-07-23T18:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30815,
+      "timestamp": "2026-07-23T18:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 122268,
+      "size_mb": 0.12,
+      "timestamp": "2026-07-23T18:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "产品实物图已经更新\n微信小程序搜超牛品牌可以直接下单【购买渠道仅此一个，谨防被骗】\n购买后福利很多，想要直接冲 https://t.co/a9lCnhdFeB",
+    "publish_time": "2026-07-23T17:35:06"
+  },
+  {
+    "file_name": "HN5xxI_XgAA1_rV.jpg",
+    "user": {
+      "screen_name": "abdkym19",
+      "name": "keyoum"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN5xxI_XgAA1_rV.jpg",
+    "read_time": "2026-07-23T18:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30816,
+      "timestamp": "2026-07-23T18:02:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 120689,
+      "size_mb": 0.12,
+      "timestamp": "2026-07-23T18:02:12",
+      "download_attempts": 0
+    },
+    "full_text": "产品实物图已经更新\n微信小程序搜超牛品牌可以直接下单【购买渠道仅此一个，谨防被骗】\n购买后福利很多，想要直接冲 https://t.co/a9lCnhdFeB",
+    "publish_time": "2026-07-23T17:35:06"
+  },
+  {
+    "file_name": "HN5xxJAXwAAcz6A.jpg",
+    "user": {
+      "screen_name": "abdkym19",
+      "name": "keyoum"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN5xxJAXwAAcz6A.jpg",
+    "read_time": "2026-07-23T18:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30817,
+      "timestamp": "2026-07-23T18:02:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 91830,
+      "size_mb": 0.09,
+      "timestamp": "2026-07-23T18:02:13",
+      "download_attempts": 0
+    },
+    "full_text": "产品实物图已经更新\n微信小程序搜超牛品牌可以直接下单【购买渠道仅此一个，谨防被骗】\n购买后福利很多，想要直接冲 https://t.co/a9lCnhdFeB",
+    "publish_time": "2026-07-23T17:35:06"
+  },
+  {
+    "file_name": "HN51TAmbMAA6Gnq.jpg",
+    "user": {
+      "screen_name": "tuoxie0",
+      "name": "拖鞋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN51TAmbMAA6Gnq.jpg",
+    "read_time": "2026-07-23T18:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30818,
+      "timestamp": "2026-07-23T18:02:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 319144,
+      "size_mb": 0.3,
+      "timestamp": "2026-07-23T18:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "野外、天体、暴露\n确实蛮刺激的，羞耻感和快感同时充斥大脑，路边行人的观摩，快感来的更上头\n#野外 #锁奴挑战 #天体 #暴露 #羞耻感 https://t.co/vDr7Ze2M43",
+    "publish_time": "2026-07-23T17:50:40"
+  },
+  {
+    "file_name": "HN51S-3asAAwlfU.jpg",
+    "user": {
+      "screen_name": "tuoxie0",
+      "name": "拖鞋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN51S-3asAAwlfU.jpg",
+    "read_time": "2026-07-23T18:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30819,
+      "timestamp": "2026-07-23T18:02:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 349255,
+      "size_mb": 0.33,
+      "timestamp": "2026-07-23T18:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "野外、天体、暴露\n确实蛮刺激的，羞耻感和快感同时充斥大脑，路边行人的观摩，快感来的更上头\n#野外 #锁奴挑战 #天体 #暴露 #羞耻感 https://t.co/vDr7Ze2M43",
+    "publish_time": "2026-07-23T17:50:40"
+  },
+  {
+    "file_name": "HN51TAmbcAA364l.jpg",
+    "user": {
+      "screen_name": "tuoxie0",
+      "name": "拖鞋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN51TAmbcAA364l.jpg",
+    "read_time": "2026-07-23T18:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30820,
+      "timestamp": "2026-07-23T18:02:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 366914,
+      "size_mb": 0.35,
+      "timestamp": "2026-07-23T18:02:17",
+      "download_attempts": 0
+    },
+    "full_text": "野外、天体、暴露\n确实蛮刺激的，羞耻感和快感同时充斥大脑，路边行人的观摩，快感来的更上头\n#野外 #锁奴挑战 #天体 #暴露 #羞耻感 https://t.co/vDr7Ze2M43",
+    "publish_time": "2026-07-23T17:50:40"
+  },
+  {
+    "file_name": "vHj4oXx8TjOFOFVi.mp4",
+    "user": {
+      "screen_name": "tuoxie0",
+      "name": "拖鞋"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2080229046865297408/vid/avc1/720x1242/vHj4oXx8TjOFOFVi.mp4?tag=29",
+    "read_time": "2026-07-23T18:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30821,
+      "timestamp": "2026-07-23T18:02:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3105974,
+      "size_mb": 2.96,
+      "timestamp": "2026-07-23T18:02:18",
+      "download_attempts": 0
+    },
+    "full_text": "野外、天体、暴露\n确实蛮刺激的，羞耻感和快感同时充斥大脑，路边行人的观摩，快感来的更上头\n#野外 #锁奴挑战 #天体 #暴露 #羞耻感 https://t.co/vDr7Ze2M43",
+    "publish_time": "2026-07-23T17:50:40"
   }
 ]
