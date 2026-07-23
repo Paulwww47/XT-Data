@@ -14,14 +14,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (56MB > 50MB)",
       "timestamp": "2026-07-24T01:02:08",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 59106230,
       "size_mb": 56.37,
-      "timestamp": "2026-07-24T01:02:08",
+      "timestamp": "2026-07-24T02:03:09",
       "download_attempts": 0
     },
     "full_text": "https://t.co/s1OSnYZus9",
@@ -78,5 +78,239 @@
     },
     "full_text": "八方城有人一起健身吗 https://t.co/X0CEBy3woD",
     "publish_time": "2026-07-24T00:27:47"
+  },
+  {
+    "file_name": "HN7YgYxaMAAx1Yw.jpg",
+    "user": {
+      "screen_name": "Azrael64300",
+      "name": "薅壕好昊"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN7YgYxaMAAx1Yw.jpg",
+    "read_time": "2026-07-24T02:03:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30861,
+      "timestamp": "2026-07-24T02:03:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 114050,
+      "size_mb": 0.11,
+      "timestamp": "2026-07-24T02:03:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/sObiy6jqur",
+    "publish_time": "2026-07-24T01:03:59"
+  },
+  {
+    "file_name": "HN7YgY-b0AAKK5B.jpg",
+    "user": {
+      "screen_name": "Azrael64300",
+      "name": "薅壕好昊"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN7YgY-b0AAKK5B.jpg",
+    "read_time": "2026-07-24T02:03:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30862,
+      "timestamp": "2026-07-24T02:03:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 80540,
+      "size_mb": 0.08,
+      "timestamp": "2026-07-24T02:03:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/sObiy6jqur",
+    "publish_time": "2026-07-24T01:03:59"
+  },
+  {
+    "file_name": "HN7Y56uaYAAUYkh.jpg",
+    "user": {
+      "screen_name": "icemeishi2001",
+      "name": "灏子不是耗子"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN7Y56uaYAAUYkh.jpg",
+    "read_time": "2026-07-24T02:03:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30863,
+      "timestamp": "2026-07-24T02:03:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 72502,
+      "size_mb": 0.07,
+      "timestamp": "2026-07-24T02:03:13",
+      "download_attempts": 0
+    },
+    "full_text": "哎～骂不过他～我的素质让我说不出太难听的话😑看这样应该是因为长得丑身材也不好又性无能又不被爱又没人喜欢他时间长了产生的性压抑产生了很严重的戾气，没事～我理解我理解，没别的话安慰你，只能祝愿你一会就死掉，死了就没有烦恼了，希望你下辈子投好点😊希望你也可以被爱😄 #gay https://t.co/huwp8mmgfV",
+    "publish_time": "2026-07-24T01:05:46"
+  },
+  {
+    "file_name": "HN7Y6vkbwAADijY.jpg",
+    "user": {
+      "screen_name": "icemeishi2001",
+      "name": "灏子不是耗子"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN7Y6vkbwAADijY.jpg",
+    "read_time": "2026-07-24T02:03:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30864,
+      "timestamp": "2026-07-24T02:03:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 32278,
+      "size_mb": 0.03,
+      "timestamp": "2026-07-24T02:03:14",
+      "download_attempts": 0
+    },
+    "full_text": "哎～骂不过他～我的素质让我说不出太难听的话😑看这样应该是因为长得丑身材也不好又性无能又不被爱又没人喜欢他时间长了产生的性压抑产生了很严重的戾气，没事～我理解我理解，没别的话安慰你，只能祝愿你一会就死掉，死了就没有烦恼了，希望你下辈子投好点😊希望你也可以被爱😄 #gay https://t.co/huwp8mmgfV",
+    "publish_time": "2026-07-24T01:05:46"
+  },
+  {
+    "file_name": "hlrU5WZmYwjmd0zW.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2080293100682104832/vid/avc1/336x608/hlrU5WZmYwjmd0zW.mp4?tag=29",
+    "read_time": "2026-07-24T02:03:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30865,
+      "timestamp": "2026-07-24T02:03:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 17784204,
+      "size_mb": 16.96,
+      "timestamp": "2026-07-24T02:03:15",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Gufksn1w3F",
+    "publish_time": "2026-07-24T01:09:15"
+  },
+  {
+    "file_name": "HN7cXtybsAITUC1.jpg",
+    "user": {
+      "screen_name": "SahuanerdeDD",
+      "name": "酷酷的丁子"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN7cXtybsAITUC1.jpg",
+    "read_time": "2026-07-24T02:03:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30866,
+      "timestamp": "2026-07-24T02:03:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 137051,
+      "size_mb": 0.13,
+      "timestamp": "2026-07-24T02:03:19",
+      "download_attempts": 0
+    },
+    "full_text": "捏 https://t.co/wgifAtM88S",
+    "publish_time": "2026-07-24T01:20:50"
+  },
+  {
+    "file_name": "HN7foMhacAA-0dz.jpg",
+    "user": {
+      "screen_name": "huohuo0707330",
+      "name": "嚯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN7foMhacAA-0dz.jpg",
+    "read_time": "2026-07-24T02:03:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30867,
+      "timestamp": "2026-07-24T02:03:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 72294,
+      "size_mb": 0.07,
+      "timestamp": "2026-07-24T02:03:19",
+      "download_attempts": 0
+    },
+    "full_text": "想今年快点过去吧  \n每天的生活像极了没有前戏没有情趣的性爱  \n虽然爱三天两头都有在做  \n但生活中情趣却在日常中被磨灭 https://t.co/yUUDmifS29",
+    "publish_time": "2026-07-24T01:35:07"
+  },
+  {
+    "file_name": "HN7fovrasAAQB-1.jpg",
+    "user": {
+      "screen_name": "huohuo0707330",
+      "name": "嚯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN7fovrasAAQB-1.jpg",
+    "read_time": "2026-07-24T02:03:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30868,
+      "timestamp": "2026-07-24T02:03:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 63003,
+      "size_mb": 0.06,
+      "timestamp": "2026-07-24T02:03:20",
+      "download_attempts": 0
+    },
+    "full_text": "想今年快点过去吧  \n每天的生活像极了没有前戏没有情趣的性爱  \n虽然爱三天两头都有在做  \n但生活中情趣却在日常中被磨灭 https://t.co/yUUDmifS29",
+    "publish_time": "2026-07-24T01:35:07"
+  },
+  {
+    "file_name": "HN7kv10agAAIkTK.jpg",
+    "user": {
+      "screen_name": "xidaophotog",
+      "name": "西岛"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HN7kv10agAAIkTK.jpg",
+    "read_time": "2026-07-24T02:03:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30869,
+      "timestamp": "2026-07-24T02:03:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 83193,
+      "size_mb": 0.08,
+      "timestamp": "2026-07-24T02:03:21",
+      "download_attempts": 0
+    },
+    "full_text": "做s笑场做m怕疼 https://t.co/kMVVSy1N4q",
+    "publish_time": "2026-07-24T01:57:27"
   }
 ]
