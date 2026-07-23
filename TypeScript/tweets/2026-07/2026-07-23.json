@@ -1225,5 +1225,34 @@
     "tweetUrl": "https://x.com/runlielie/status/2080237804433633701",
     "fullText": "https://t.co/YIfz48okDC",
     "publishTime": "2026-07-23T18:25:16"
+  },
+  {
+    "user": {
+      "screenName": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2080248912481554432/vid/avc1/720x1280/1ogvUuMGDCN_lEBz.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/BBoy1069/status/2080248937362198991",
+    "fullText": "【有關主力視頻伺服器】近期，我們發現主力視頻伺服器的轉碼時間不穩定，導致某些視頻上傳之後需要等1-3個工作日才可以正常觀看，同學們近期盡可能使用【備用2，備用3】視頻伺服器。感謝支持！ https://t.co/mcMe6mnIhb",
+    "publishTime": "2026-07-23T19:09:30"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HN6N3cVa8AAFtne.jpg",
+      "https://pbs.twimg.com/media/HN6N3cZakAEQC5p.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2080256067678941377",
+    "fullText": "zinhokm https://t.co/VCftxXC4ua",
+    "publishTime": "2026-07-23T19:37:50"
   }
 ]
