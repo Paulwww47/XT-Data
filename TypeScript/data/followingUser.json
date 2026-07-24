@@ -3551,6 +3551,20 @@
     }
   },
   {
+    "restId": "1887069323631714304",
+    "legacy": {
+      "name": "lancelin",
+      "screenName": "lancelin1120",
+      "createdAt": "Wed Feb 05 09:22:50 +0000 2025",
+      "description": "随便发发，随时删",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2070666514576080896/swa0n5wj_normal.jpg"
+    }
+  },
+  {
     "restId": "1914009351402192896",
     "legacy": {
       "name": "烂烂wink",
@@ -6627,20 +6641,6 @@
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/4606009573/1744259130",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1911101785223110656/4o2Z2N9i_normal.jpg"
-    }
-  },
-  {
-    "restId": "1979927538454663168",
-    "legacy": {
-      "name": "发疯小狗",
-      "screenName": "xiaogou427",
-      "createdAt": "Sun Oct 19 15:08:16 +0000 2025",
-      "description": "日常/ 无癖好 / 🎶同名 \n\n你也很好看",
-      "entities": {
-        "description": {}
-      },
-      "profileBannerUrl": "",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2080188946676604928/QmyeuONP_normal.jpg"
     }
   },
   {

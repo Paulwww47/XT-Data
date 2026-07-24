@@ -263,5 +263,19 @@
     "tweetUrl": "https://x.com/haoyun9988/status/2080750589999477003",
     "fullText": "北京 https://t.co/nl8h41nKbv",
     "publishTime": "2026-07-25T04:22:53"
+  },
+  {
+    "user": {
+      "screenName": "toplcjfjv",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2080763528311697408/vid/avc1/720x1280/951VbSh134xhKqAE.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/toplcjfjv/status/2080763663917666624",
+    "fullText": "今天去外縣市玩 https://t.co/HMsaGqeX4D",
+    "publishTime": "2026-07-25T05:14:50"
   }
 ]

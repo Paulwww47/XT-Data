@@ -570,5 +570,31 @@
     },
     "full_text": "北京 https://t.co/nl8h41nKbv",
     "publish_time": "2026-07-25T04:22:53"
+  },
+  {
+    "file_name": "951VbSh134xhKqAE.mp4",
+    "user": {
+      "screen_name": "toplcjfjv",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2080763528311697408/vid/avc1/720x1280/951VbSh134xhKqAE.mp4?tag=29",
+    "read_time": "2026-07-25T06:03:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31022,
+      "timestamp": "2026-07-25T06:03:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 9475578,
+      "size_mb": 9.04,
+      "timestamp": "2026-07-25T06:03:37",
+      "download_attempts": 0
+    },
+    "full_text": "今天去外縣市玩 https://t.co/HMsaGqeX4D",
+    "publish_time": "2026-07-25T05:14:50"
   }
 ]
