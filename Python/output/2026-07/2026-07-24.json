@@ -2600,5 +2600,85 @@
     },
     "full_text": "我说夏天是蓝色的  🔹\n他就送了我一件蓝色的内裤 https://t.co/ljUQLbzYiW",
     "publish_time": "2026-07-24T18:58:38"
+  },
+  {
+    "file_name": "67lKHyWHQKsFPhsB.mp4",
+    "user": {
+      "screen_name": "alwyn_shown",
+      "name": "Alwyn Lu"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2080610362697895936/vid/avc1/1080x1920/67lKHyWHQKsFPhsB.mp4?tag=29",
+    "read_time": "2026-07-24T20:02:10",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (53MB > 50MB)",
+      "timestamp": "2026-07-24T20:02:10",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 56593466,
+      "size_mb": 53.97,
+      "timestamp": "2026-07-24T20:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "失业人员再就业\n\n完整版：https://t.co/CjqaE3xelv https://t.co/4wH7zIBH4f",
+    "publish_time": "2026-07-24T19:06:54"
+  },
+  {
+    "file_name": "cRvqub3a92WmkgHH.mp4",
+    "user": {
+      "screen_name": "Divo1765100",
+      "name": "Divo"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2080617994687070209/vid/avc1/1438x2004/cRvqub3a92WmkgHH.mp4?tag=29",
+    "read_time": "2026-07-24T20:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30958,
+      "timestamp": "2026-07-24T20:02:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3978422,
+      "size_mb": 3.79,
+      "timestamp": "2026-07-24T20:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "👀 https://t.co/Z4b0EEZL2F",
+    "publish_time": "2026-07-24T19:36:09"
+  },
+  {
+    "file_name": "DceOzzKK-rEt3GTU.mp4",
+    "user": {
+      "screen_name": "77baxi",
+      "name": "健身教练cd伪娘"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2078009159673405440/vid/avc1/1280x720/DceOzzKK-rEt3GTU.mp4?tag=14",
+    "read_time": "2026-07-24T20:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 30959,
+      "timestamp": "2026-07-24T20:02:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7993815,
+      "size_mb": 7.62,
+      "timestamp": "2026-07-24T20:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/AtX36oET85",
+    "publish_time": "2026-07-24T19:41:50"
   }
 ]
