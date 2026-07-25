@@ -1574,5 +1574,66 @@
     "tweetUrl": "https://x.com/zerosugarcoffee/status/2081031734783819820",
     "fullText": "无意看到crush和他男友\n心跳没有漏拍 仅是轻晃一下\n是痊愈了",
     "publishTime": "2026-07-25T23:00:03"
+  },
+  {
+    "user": {
+      "screenName": "paeching",
+      "name": "屁吃"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOFVHeza0AAaHhQ.jpg",
+      "https://pbs.twimg.com/media/HOFVHe-aAAAVTHU.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/paeching/status/2081038172168114565",
+    "fullText": "https://t.co/UPcZpXgfAT",
+    "publishTime": "2026-07-25T23:25:38"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2081038211586174976/vid/avc1/720x1564/oaPeU6wdqSf1rn3P.mp4?tag=14"
+    ],
+    "expandUrls": [
+      "https://github.com/PokiTavern/PokiCore"
+    ],
+    "tweetUrl": "https://x.com/easychen/status/2081038320705077724",
+    "fullText": "Rewrite the SillyTavern server in Dart so it can run everywhere.  with on-device models supports.\n\nhttps://t.co/VPKG7zcFKt https://t.co/0v1I8fJdZP",
+    "publishTime": "2026-07-25T23:26:14"
+  },
+  {
+    "user": {
+      "screenName": "neon385908",
+      "name": "ne on"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOFYEekbIAAF5YS.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/neon385908/status/2081041352385851584",
+    "fullText": "好适合适合做gooner呀 有没有会开发的😬 https://t.co/Wfo2zq8cfY",
+    "publishTime": "2026-07-25T23:38:16"
+  },
+  {
+    "user": {
+      "screenName": "ColinHoo_Wuhan",
+      "name": "ColinHoo"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOFdAxyaMAAMfaG.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HOFdAxzaMAAC1zf.mp4"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/ColinHoo_Wuhan/status/2081046790661619784",
+    "fullText": "在公园被责哭，龟头被内裤磨到求饶 https://t.co/UXofNtlsc7",
+    "publishTime": "2026-07-25T23:59:53"
   }
 ]
