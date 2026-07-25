@@ -430,14 +430,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (71MB > 50MB)",
       "timestamp": "2026-07-26T02:02:22",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 75010335,
       "size_mb": 71.54,
-      "timestamp": "2026-07-26T02:02:22",
+      "timestamp": "2026-07-26T03:03:14",
       "download_attempts": 0
     },
     "full_text": "https://t.co/whHwRcNyYY",
@@ -572,5 +572,241 @@
     },
     "full_text": "😉 https://t.co/cmQ7GqgVRL",
     "publish_time": "2026-07-26T01:59:16"
+  },
+  {
+    "file_name": "HOF5d7HbIAEbdva.jpg",
+    "user": {
+      "screen_name": "Uji_Hikaru",
+      "name": "虎不理"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOF5d7HbIAEbdva.jpg",
+    "read_time": "2026-07-26T03:03:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31155,
+      "timestamp": "2026-07-26T03:03:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 154189,
+      "size_mb": 0.15,
+      "timestamp": "2026-07-26T03:03:14",
+      "download_attempts": 0
+    },
+    "full_text": "恋爱中旧作品清空 最多擦边了😪 https://t.co/InlmgbbckD",
+    "publish_time": "2026-07-26T02:04:09"
+  },
+  {
+    "file_name": "HMHtijsbUAAMTi0.jpg",
+    "user": {
+      "screen_name": "77baxi",
+      "name": "健身教练cd伪娘"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HMHtijsbUAAMTi0.jpg",
+    "read_time": "2026-07-26T03:03:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31156,
+      "timestamp": "2026-07-26T03:03:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 64628,
+      "size_mb": 0.06,
+      "timestamp": "2026-07-26T03:03:16",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/3oTSfLgcQ5",
+    "publish_time": "2026-07-26T02:07:13"
+  },
+  {
+    "file_name": "pOA6RlMFHFDqpbrn.mp4",
+    "user": {
+      "screen_name": "77baxi",
+      "name": "健身教练cd伪娘"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2072198481553526784/vid/avc1/720x1270/pOA6RlMFHFDqpbrn.mp4?tag=14",
+    "read_time": "2026-07-26T03:03:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31157,
+      "timestamp": "2026-07-26T03:03:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 22640589,
+      "size_mb": 21.59,
+      "timestamp": "2026-07-26T03:03:17",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/3oTSfLgcQ5",
+    "publish_time": "2026-07-26T02:07:13"
+  },
+  {
+    "file_name": "vL-ObEXShGsvuTqj.mp4",
+    "user": {
+      "screen_name": "77baxi",
+      "name": "健身教练cd伪娘"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2072198481587118080/vid/avc1/720x1270/vL-ObEXShGsvuTqj.mp4?tag=14",
+    "read_time": "2026-07-26T03:03:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31158,
+      "timestamp": "2026-07-26T03:03:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 14899514,
+      "size_mb": 14.21,
+      "timestamp": "2026-07-26T03:03:22",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/3oTSfLgcQ5",
+    "publish_time": "2026-07-26T02:07:13"
+  },
+  {
+    "file_name": "5gYGJuxlVWSmNAMS.mp4",
+    "user": {
+      "screen_name": "77baxi",
+      "name": "健身教练cd伪娘"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2072198481608138752/vid/avc1/720x1270/5gYGJuxlVWSmNAMS.mp4?tag=14",
+    "read_time": "2026-07-26T03:03:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31159,
+      "timestamp": "2026-07-26T03:03:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 14618064,
+      "size_mb": 13.94,
+      "timestamp": "2026-07-26T03:03:25",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/3oTSfLgcQ5",
+    "publish_time": "2026-07-26T02:07:13"
+  },
+  {
+    "file_name": "qkWyNMP3ypp_niNv.mp4",
+    "user": {
+      "screen_name": "haoyun9988",
+      "name": "三亚原(天蝎)"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2081080383890919424/vid/avc1/720x1280/qkWyNMP3ypp_niNv.mp4?tag=29",
+    "read_time": "2026-07-26T03:03:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31160,
+      "timestamp": "2026-07-26T03:03:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 797341,
+      "size_mb": 0.76,
+      "timestamp": "2026-07-26T03:03:27",
+      "download_attempts": 0
+    },
+    "full_text": "北京 https://t.co/08zDpSFI09",
+    "publish_time": "2026-07-26T02:13:29"
+  },
+  {
+    "file_name": "dUTMXgRYYXUFUQ3n.mp4",
+    "user": {
+      "screen_name": "asuitedguy8989",
+      "name": "葛生"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2081087365288972288/vid/avc1/720x1280/dUTMXgRYYXUFUQ3n.mp4?tag=29",
+    "read_time": "2026-07-26T03:03:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31161,
+      "timestamp": "2026-07-26T03:03:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5873583,
+      "size_mb": 5.6,
+      "timestamp": "2026-07-26T03:03:28",
+      "download_attempts": 0
+    },
+    "full_text": "亲身示范贞操锁给学生补课 https://t.co/KdAEpNilny",
+    "publish_time": "2026-07-26T02:42:34"
+  },
+  {
+    "file_name": "57lFzn7NPWgpEUjY.mp4",
+    "user": {
+      "screen_name": "huoxini66",
+      "name": "霍西尼"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2081085671754936320/vid/avc1/720x1600/57lFzn7NPWgpEUjY.mp4?tag=14",
+    "read_time": "2026-07-26T03:03:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31162,
+      "timestamp": "2026-07-26T03:03:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2115598,
+      "size_mb": 2.02,
+      "timestamp": "2026-07-26T03:03:30",
+      "download_attempts": 0
+    },
+    "full_text": "抖音主播的镜头只聚焦一个点位！ https://t.co/qdgwQ3rmUo",
+    "publish_time": "2026-07-26T02:45:23"
+  },
+  {
+    "file_name": "Mf4vTFGOJEkav7lD.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2081066863409414144/vid/avc1/720x1280/Mf4vTFGOJEkav7lD.mp4?tag=29",
+    "read_time": "2026-07-26T03:03:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (176MB > 50MB)",
+      "timestamp": "2026-07-26T03:03:48",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 185128099,
+      "size_mb": 176.55,
+      "timestamp": "2026-07-26T03:03:48",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/rMaF4uRcXx",
+    "publish_time": "2026-07-26T02:47:29"
   }
 ]
