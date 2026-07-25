@@ -796,17 +796,43 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (176MB > 50MB)",
       "timestamp": "2026-07-26T03:03:48",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 185128099,
       "size_mb": 176.55,
-      "timestamp": "2026-07-26T03:03:48",
+      "timestamp": "2026-07-26T04:02:09",
       "download_attempts": 0
     },
     "full_text": "https://t.co/rMaF4uRcXx",
     "publish_time": "2026-07-26T02:47:29"
+  },
+  {
+    "file_name": "zvQqwqlDs7RbeaKU.mp4",
+    "user": {
+      "screen_name": "kkttfzp",
+      "name": "哪个"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2081093867282329600/vid/avc1/1280x700/zvQqwqlDs7RbeaKU.mp4?tag=29",
+    "read_time": "2026-07-26T04:02:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31163,
+      "timestamp": "2026-07-26T04:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4722696,
+      "size_mb": 4.5,
+      "timestamp": "2026-07-26T04:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "练后肌肉松解 https://t.co/igO80ZPMa5",
+    "publish_time": "2026-07-26T03:07:21"
   }
 ]
