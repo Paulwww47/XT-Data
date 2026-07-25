@@ -976,14 +976,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (460MB > 50MB)",
       "timestamp": "2026-07-25T10:02:31",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 482592792,
       "size_mb": 460.24,
-      "timestamp": "2026-07-25T10:02:31",
+      "timestamp": "2026-07-25T11:02:10",
       "download_attempts": 0
     },
     "full_text": "•\nDuc Vuong 👑 \nIG：dz.venn X：dz_venn \n🌿 https://t.co/I8GfTxlnmK",
