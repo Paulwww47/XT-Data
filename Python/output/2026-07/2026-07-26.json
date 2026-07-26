@@ -3842,14 +3842,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (57MB > 50MB)",
       "timestamp": "2026-07-26T23:01:55",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 60391030,
       "size_mb": 57.59,
-      "timestamp": "2026-07-26T23:01:55",
+      "timestamp": "2026-07-27T00:02:54",
       "download_attempts": 0
     },
     "full_text": "～ From Senior to Senpai\nThis time...\nMore than your senior.\nYour favorite midnight treat.\nAnd the reason you wake up smiling. \n\n從「學長」到「前輩」\n改變的只是稱呼。\n我以為，等 @sam_axian  畢業\n這段關係也會停留在那段青春裡。\n但我錯了，每當他抬起頭看著我\n那雙眼睛裡的依賴 https://t.co/KD7JP8tzIM",
@@ -4114,5 +4114,369 @@
     },
     "full_text": "内裤博主的修养。小红书发一遍穿裤子的，x再发一遍不穿的\n@WINKYKINKY_SA @mrwinkykinky #winkykinky #winkykinkybodywear https://t.co/x4pYvc2A6S",
     "publish_time": "2026-07-26T22:59:34"
+  },
+  {
+    "file_name": "HOKZNaWbMAA_goV.jpg",
+    "user": {
+      "screen_name": "brooklyn29540",
+      "name": "不要问我从哪里来"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOKZNaWbMAA_goV.jpg",
+    "read_time": "2026-07-27T00:02:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31288,
+      "timestamp": "2026-07-27T00:02:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 53217,
+      "size_mb": 0.05,
+      "timestamp": "2026-07-27T00:02:54",
+      "download_attempts": 0
+    },
+    "full_text": "骚男的作品很精彩，需要的私信，价格实惠 https://t.co/yak262PPAf",
+    "publish_time": "2026-07-26T23:01:21"
+  },
+  {
+    "file_name": "HOKZNaVbsAAya_L.jpg",
+    "user": {
+      "screen_name": "brooklyn29540",
+      "name": "不要问我从哪里来"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOKZNaVbsAAya_L.jpg",
+    "read_time": "2026-07-27T00:02:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31289,
+      "timestamp": "2026-07-27T00:02:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 110364,
+      "size_mb": 0.11,
+      "timestamp": "2026-07-27T00:02:56",
+      "download_attempts": 0
+    },
+    "full_text": "骚男的作品很精彩，需要的私信，价格实惠 https://t.co/yak262PPAf",
+    "publish_time": "2026-07-26T23:01:21"
+  },
+  {
+    "file_name": "HOKZNaVbsAEFGH0.jpg",
+    "user": {
+      "screen_name": "brooklyn29540",
+      "name": "不要问我从哪里来"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOKZNaVbsAEFGH0.jpg",
+    "read_time": "2026-07-27T00:02:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31290,
+      "timestamp": "2026-07-27T00:02:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 126671,
+      "size_mb": 0.12,
+      "timestamp": "2026-07-27T00:02:57",
+      "download_attempts": 0
+    },
+    "full_text": "骚男的作品很精彩，需要的私信，价格实惠 https://t.co/yak262PPAf",
+    "publish_time": "2026-07-26T23:01:21"
+  },
+  {
+    "file_name": "HOKZn9ibUAADPIL.jpg",
+    "user": {
+      "screen_name": "brooklyn29540",
+      "name": "不要问我从哪里来"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOKZn9ibUAADPIL.jpg",
+    "read_time": "2026-07-27T00:02:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31291,
+      "timestamp": "2026-07-27T00:03:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 83801,
+      "size_mb": 0.08,
+      "timestamp": "2026-07-27T00:02:59",
+      "download_attempts": 0
+    },
+    "full_text": "上新啦，需要的私信 https://t.co/CooVVcbtdI",
+    "publish_time": "2026-07-26T23:03:08"
+  },
+  {
+    "file_name": "HOKZ4BfboAAO0bF.jpg",
+    "user": {
+      "screen_name": "yhao_97",
+      "name": "大虎"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOKZ4BfboAAO0bF.jpg",
+    "read_time": "2026-07-27T00:02:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31292,
+      "timestamp": "2026-07-27T00:03:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 165734,
+      "size_mb": 0.16,
+      "timestamp": "2026-07-27T00:03:00",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/l3LCqZgdaE",
+    "publish_time": "2026-07-26T23:04:14"
+  },
+  {
+    "file_name": "HOKde7LbQAAyA4U.jpg",
+    "user": {
+      "screen_name": "sha_la82602",
+      "name": "249"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOKde7LbQAAyA4U.jpg",
+    "read_time": "2026-07-27T00:02:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31293,
+      "timestamp": "2026-07-27T00:03:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 59980,
+      "size_mb": 0.06,
+      "timestamp": "2026-07-27T00:03:02",
+      "download_attempts": 0
+    },
+    "full_text": "po 一下穿搭👨‍💼\n\n#直男 #健身 #健身日常 #胸肌 #腹肌 #手臂 https://t.co/4lLKK8mk5Z",
+    "publish_time": "2026-07-26T23:20:00"
+  },
+  {
+    "file_name": "HOKde7RbUAAQk32.jpg",
+    "user": {
+      "screen_name": "sha_la82602",
+      "name": "249"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOKde7RbUAAQk32.jpg",
+    "read_time": "2026-07-27T00:02:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31294,
+      "timestamp": "2026-07-27T00:03:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 208981,
+      "size_mb": 0.2,
+      "timestamp": "2026-07-27T00:03:03",
+      "download_attempts": 0
+    },
+    "full_text": "po 一下穿搭👨‍💼\n\n#直男 #健身 #健身日常 #胸肌 #腹肌 #手臂 https://t.co/4lLKK8mk5Z",
+    "publish_time": "2026-07-26T23:20:00"
+  },
+  {
+    "file_name": "HOKde7KaIAAsW3C.jpg",
+    "user": {
+      "screen_name": "sha_la82602",
+      "name": "249"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOKde7KaIAAsW3C.jpg",
+    "read_time": "2026-07-27T00:02:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31295,
+      "timestamp": "2026-07-27T00:03:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 201644,
+      "size_mb": 0.19,
+      "timestamp": "2026-07-27T00:03:04",
+      "download_attempts": 0
+    },
+    "full_text": "po 一下穿搭👨‍💼\n\n#直男 #健身 #健身日常 #胸肌 #腹肌 #手臂 https://t.co/4lLKK8mk5Z",
+    "publish_time": "2026-07-26T23:20:00"
+  },
+  {
+    "file_name": "HOKjetOWoAAcD6n.jpg",
+    "user": {
+      "screen_name": "mGskn5cq509fHvH",
+      "name": "狗头爸爸"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOKjetOWoAAcD6n.jpg",
+    "read_time": "2026-07-27T00:02:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31296,
+      "timestamp": "2026-07-27T00:03:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 99804,
+      "size_mb": 0.1,
+      "timestamp": "2026-07-27T00:03:06",
+      "download_attempts": 0
+    },
+    "full_text": "上海好热 https://t.co/QNTvemRSt6",
+    "publish_time": "2026-07-26T23:46:18"
+  },
+  {
+    "file_name": "HOKjetPWkAEaZ3k.jpg",
+    "user": {
+      "screen_name": "mGskn5cq509fHvH",
+      "name": "狗头爸爸"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOKjetPWkAEaZ3k.jpg",
+    "read_time": "2026-07-27T00:02:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31297,
+      "timestamp": "2026-07-27T00:03:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 136366,
+      "size_mb": 0.13,
+      "timestamp": "2026-07-27T00:03:07",
+      "download_attempts": 0
+    },
+    "full_text": "上海好热 https://t.co/QNTvemRSt6",
+    "publish_time": "2026-07-26T23:46:18"
+  },
+  {
+    "file_name": "hZIpHr1K8huHDn_p.mp4",
+    "user": {
+      "screen_name": "allen7460",
+      "name": "arthur"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2080541411540430848/vid/avc1/1280x720/hZIpHr1K8huHDn_p.mp4?tag=14",
+    "read_time": "2026-07-27T00:02:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31298,
+      "timestamp": "2026-07-27T00:03:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 13738771,
+      "size_mb": 13.1,
+      "timestamp": "2026-07-27T00:03:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/uLQxfqpYmU",
+    "publish_time": "2026-07-26T23:52:27"
+  },
+  {
+    "file_name": "HOKliohXoAE5S_r.jpg",
+    "user": {
+      "screen_name": "mGskn5cq509fHvH",
+      "name": "狗头爸爸"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOKliohXoAE5S_r.jpg",
+    "read_time": "2026-07-27T00:02:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31299,
+      "timestamp": "2026-07-27T00:03:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 66365,
+      "size_mb": 0.06,
+      "timestamp": "2026-07-27T00:03:11",
+      "download_attempts": 0
+    },
+    "full_text": "👈 https://t.co/s6pB0Um8mS",
+    "publish_time": "2026-07-26T23:55:15"
+  },
+  {
+    "file_name": "gJpjPcV0OCBYnWIi.mp4",
+    "user": {
+      "screen_name": "kaka_lac",
+      "name": "kaka"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2081408077522403328/vid/avc1/720x1280/gJpjPcV0OCBYnWIi.mp4?tag=29",
+    "read_time": "2026-07-27T00:02:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31300,
+      "timestamp": "2026-07-27T00:03:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 8249046,
+      "size_mb": 7.87,
+      "timestamp": "2026-07-27T00:03:12",
+      "download_attempts": 0
+    },
+    "full_text": "肌肉男恶堕，玩奶，10，裸体骑车，飞机\nhttps://t.co/0gQF4oafEb（可以支付宝付款订阅）\nhttps://t.co/MmbJNJD3Ui https://t.co/y6y7LIiJZL",
+    "publish_time": "2026-07-26T23:58:04"
+  },
+  {
+    "file_name": "_Oq-9oOpzvnhYxlK.mp4",
+    "user": {
+      "screen_name": "Divo1765100",
+      "name": "Divo"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2081409158797225984/vid/avc1/1440x2112/_Oq-9oOpzvnhYxlK.mp4?tag=29",
+    "read_time": "2026-07-27T00:02:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31301,
+      "timestamp": "2026-07-27T00:03:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3796796,
+      "size_mb": 3.62,
+      "timestamp": "2026-07-27T00:03:15",
+      "download_attempts": 0
+    },
+    "full_text": "好久不见 https://t.co/0i69sJzn2K",
+    "publish_time": "2026-07-26T23:59:59"
   }
 ]
