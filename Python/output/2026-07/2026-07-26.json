@@ -3450,14 +3450,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (52MB > 50MB)",
       "timestamp": "2026-07-26T20:01:55",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 55495615,
       "size_mb": 52.92,
-      "timestamp": "2026-07-26T20:01:55",
+      "timestamp": "2026-07-26T21:01:57",
       "download_attempts": 0
     },
     "full_text": "憋了一周了每天刺激玩玩鸡巴昨天终于射出来了 可惜想控喷失败了hh https://t.co/w8OakRF6ID",
@@ -3514,5 +3514,109 @@
     },
     "full_text": "西域舞蹈少年系列之一民族版 https://t.co/KVoIKdMejQ",
     "publish_time": "2026-07-26T19:23:30"
+  },
+  {
+    "file_name": "HOJwOx9bIAAU31c.jpg",
+    "user": {
+      "screen_name": "zhozho622075",
+      "name": "biofrost"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOJwOx9bIAAU31c.jpg",
+    "read_time": "2026-07-26T21:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31266,
+      "timestamp": "2026-07-26T21:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 83106,
+      "size_mb": 0.08,
+      "timestamp": "2026-07-26T21:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "好久不见拉啦 https://t.co/6ND0APdsWT",
+    "publish_time": "2026-07-26T20:02:17"
+  },
+  {
+    "file_name": "HOJwOx9aoAAjvzE.jpg",
+    "user": {
+      "screen_name": "zhozho622075",
+      "name": "biofrost"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOJwOx9aoAAjvzE.jpg",
+    "read_time": "2026-07-26T21:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31267,
+      "timestamp": "2026-07-26T21:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 140314,
+      "size_mb": 0.13,
+      "timestamp": "2026-07-26T21:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "好久不见拉啦 https://t.co/6ND0APdsWT",
+    "publish_time": "2026-07-26T20:02:17"
+  },
+  {
+    "file_name": "Sih2wF6bdVT3rmfN.mp4",
+    "user": {
+      "screen_name": "sx84604818",
+      "name": "Rexsonic Man+ suits & socks"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2077322540167643137/vid/avc1/720x1280/Sih2wF6bdVT3rmfN.mp4?tag=14",
+    "read_time": "2026-07-26T21:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31268,
+      "timestamp": "2026-07-26T21:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1368741,
+      "size_mb": 1.31,
+      "timestamp": "2026-07-26T21:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "👔西裝愛好者👔 https://t.co/rs84vcbFtR",
+    "publish_time": "2026-07-26T20:42:16"
+  },
+  {
+    "file_name": "HOJ8g8DaYAALNbj.jpg",
+    "user": {
+      "screen_name": "lovesamoyed_tw",
+      "name": "Samoyed Lover🐶"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOJ8g8DaYAALNbj.jpg",
+    "read_time": "2026-07-26T21:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31269,
+      "timestamp": "2026-07-26T21:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 98655,
+      "size_mb": 0.09,
+      "timestamp": "2026-07-26T21:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "🚿🛀💦 https://t.co/AR6Y2jxjHb",
+    "publish_time": "2026-07-26T20:55:57"
   }
 ]
