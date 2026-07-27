@@ -2318,5 +2318,87 @@
     },
     "full_text": "https://t.co/MoaNiyDubE",
     "publish_time": "2026-07-27T17:58:57"
+  },
+  {
+    "file_name": "XDQ9B6Odu7vPhyoq.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2081456087358918656/vid/avc1/1280x720/XDQ9B6Odu7vPhyoq.mp4?tag=14",
+    "read_time": "2026-07-27T19:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31388,
+      "timestamp": "2026-07-27T19:01:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 34566619,
+      "size_mb": 32.97,
+      "timestamp": "2026-07-27T19:01:48",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/tp1fsR1zYI",
+    "publish_time": "2026-07-27T18:12:04"
+  },
+  {
+    "file_name": "4NaMjeU50Vcc1USF.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2068312544650166272/vid/avc1/1440x2560/4NaMjeU50Vcc1USF.mp4?tag=28",
+    "read_time": "2026-07-27T19:01:47",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (201MB > 50MB)",
+      "timestamp": "2026-07-27T19:02:11",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 211018336,
+      "size_mb": 201.24,
+      "timestamp": "2026-07-27T19:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Rj0NWL5Rsw",
+    "publish_time": "2026-07-27T18:15:05"
+  },
+  {
+    "file_name": "0_nb2gmcKTmvOMtP.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2062554873967919105/vid/avc1/1080x1920/0_nb2gmcKTmvOMtP.mp4?tag=27",
+    "read_time": "2026-07-27T19:01:47",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (258MB > 50MB)",
+      "timestamp": "2026-07-27T19:02:12",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 271482626,
+      "size_mb": 258.91,
+      "timestamp": "2026-07-27T19:02:12",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/9tV95KVdk8",
+    "publish_time": "2026-07-27T18:46:16"
   }
 ]
