@@ -2360,14 +2360,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (201MB > 50MB)",
       "timestamp": "2026-07-27T19:02:11",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 211018336,
       "size_mb": 201.24,
-      "timestamp": "2026-07-27T19:02:11",
+      "timestamp": "2026-07-27T20:02:00",
       "download_attempts": 0
     },
     "full_text": "https://t.co/Rj0NWL5Rsw",
@@ -2388,17 +2388,121 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (258MB > 50MB)",
       "timestamp": "2026-07-27T19:02:12",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 271482626,
       "size_mb": 258.91,
-      "timestamp": "2026-07-27T19:02:12",
+      "timestamp": "2026-07-27T20:02:03",
       "download_attempts": 0
     },
     "full_text": "https://t.co/9tV95KVdk8",
     "publish_time": "2026-07-27T18:46:16"
+  },
+  {
+    "file_name": "HOOtjXqaoAAW8Ie.jpg",
+    "user": {
+      "screen_name": "wwxia8898",
+      "name": "罗夏 （上海）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOOtjXqaoAAW8Ie.jpg",
+    "read_time": "2026-07-27T20:01:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31389,
+      "timestamp": "2026-07-27T20:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 69882,
+      "size_mb": 0.07,
+      "timestamp": "2026-07-27T20:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "31号，回北京待一周 https://t.co/HY1PYStOmS",
+    "publish_time": "2026-07-27T19:08:41"
+  },
+  {
+    "file_name": "8wwAJ1TS62CJML17.mp4",
+    "user": {
+      "screen_name": "ppguyguy123",
+      "name": "专攻直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2081705644730773504/vid/avc1/720x1280/8wwAJ1TS62CJML17.mp4?tag=29",
+    "read_time": "2026-07-27T20:01:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31390,
+      "timestamp": "2026-07-27T20:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 11983054,
+      "size_mb": 11.43,
+      "timestamp": "2026-07-27T20:02:08",
+      "download_attempts": 0
+    },
+    "full_text": "#直男开苞 #直男菊花 #中年 #腹肌 #人夫熊 直男17下：大哥年轻时候长得很帅，以前当过兵，菊花太紧了，我插进去的时候，勒的我鸡吧特别疼。他被操的满头大汗，闭着眼忍着，看到他浑身的精壮肌肉，我真的太迷恋他了，他说年轻时候操过太多女人，没想到到头来被一个男人操的死去活来。电报私信，闲聊拉黑 https://t.co/f2f4XUXdGi",
+    "publish_time": "2026-07-27T19:38:18"
+  },
+  {
+    "file_name": "HOO3uAkaEAADGGe.jpg",
+    "user": {
+      "screen_name": "eccmair",
+      "name": "焛"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOO3uAkaEAADGGe.jpg",
+    "read_time": "2026-07-27T20:01:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31391,
+      "timestamp": "2026-07-27T20:02:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 138083,
+      "size_mb": 0.13,
+      "timestamp": "2026-07-27T20:02:12",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/169E6UtkPN",
+    "publish_time": "2026-07-27T19:53:06"
+  },
+  {
+    "file_name": "HOO3uAUboAA3-VX.jpg",
+    "user": {
+      "screen_name": "eccmair",
+      "name": "焛"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOO3uAUboAA3-VX.jpg",
+    "read_time": "2026-07-27T20:01:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31392,
+      "timestamp": "2026-07-27T20:02:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 143938,
+      "size_mb": 0.14,
+      "timestamp": "2026-07-27T20:02:13",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/169E6UtkPN",
+    "publish_time": "2026-07-27T19:53:06"
   }
 ]
