@@ -159,5 +159,31 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2081846095945269540",
     "fullText": "leon8.10 https://t.co/ayUYBECF2f",
     "publishTime": "2026-07-28T04:56:02"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOQ7nkTasAAw4J5.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2081854484268077384",
+    "fullText": "https://t.co/jWZraQD96O",
+    "publishTime": "2026-07-28T05:29:22"
+  },
+  {
+    "user": {
+      "screenName": "chuanzhang0320",
+      "name": "Appetency."
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/chuanzhang0320/status/2081861061020667959",
+    "fullText": "欢迎回归",
+    "publishTime": "2026-07-28T05:55:30"
   }
 ]
