@@ -1099,5 +1099,47 @@
     "tweetUrl": "https://x.com/eccmair/status/2081709462788985227",
     "fullText": "https://t.co/169E6UtkPN",
     "publishTime": "2026-07-27T19:53:06"
+  },
+  {
+    "user": {
+      "screenName": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2081719463804882944/vid/avc1/720x1280/O3TOkbTI0IdcFpF3.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/sbbupeihaolian/status/2081719636710904208",
+    "fullText": "天天要搞得换头像 搞个清淡点的头像 https://t.co/VyrYVjGzYh",
+    "publishTime": "2026-07-27T20:33:32"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2081677380855500801/vid/avc1/720x1280/AHCmqQHqkFbPHYcB.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/2081720808066662679",
+    "fullText": "https://t.co/2LmKUWEIiF",
+    "publishTime": "2026-07-27T20:38:11"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOPDk5cbQAAJLZk.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2081722496550924567",
+    "fullText": "0224n https://t.co/CdnlbfQAph",
+    "publishTime": "2026-07-27T20:44:54"
   }
 ]
