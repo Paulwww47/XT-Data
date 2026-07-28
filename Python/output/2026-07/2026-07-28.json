@@ -1922,5 +1922,57 @@
     },
     "full_text": "依旧粉丝福利 https://t.co/QWkLVVsykV",
     "publish_time": "2026-07-28T14:40:30"
+  },
+  {
+    "file_name": "HOS_MD7XAAART4m.jpg",
+    "user": {
+      "screen_name": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOS_MD7XAAART4m.jpg",
+    "read_time": "2026-07-28T16:02:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31488,
+      "timestamp": "2026-07-28T16:02:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 396031,
+      "size_mb": 0.38,
+      "timestamp": "2026-07-28T16:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/DoRnEalkBS",
+    "publish_time": "2026-07-28T15:04:16"
+  },
+  {
+    "file_name": "HOTK0u0a8AErUeg.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOTK0u0a8AErUeg.jpg",
+    "read_time": "2026-07-28T16:02:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31489,
+      "timestamp": "2026-07-28T16:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 147546,
+      "size_mb": 0.14,
+      "timestamp": "2026-07-28T16:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/YCrm3qSwo5",
+    "publish_time": "2026-07-28T15:55:03"
   }
 ]
