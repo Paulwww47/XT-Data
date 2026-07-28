@@ -893,5 +893,21 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2082011941653074347",
     "fullText": "https://t.co/YCrm3qSwo5",
     "publishTime": "2026-07-28T15:55:03"
+  },
+  {
+    "user": {
+      "screenName": "kaka_lac",
+      "name": "kaka"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HOTRWqQbcAA0i5U.jpg",
+      "https://pbs.twimg.com/media/HOTRWqOaUAAGCWm.jpg",
+      "https://pbs.twimg.com/media/HOTRWqNawAAYquV.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/kaka_lac/status/2082019125761855771",
+    "fullText": "https://t.co/u4NTHZBhes",
+    "publishTime": "2026-07-28T16:23:36"
   }
 ]
