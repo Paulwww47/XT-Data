@@ -622,5 +622,31 @@
     },
     "full_text": "张嘴 https://t.co/QNBQiguxom",
     "publish_time": "2026-07-28T07:36:39"
+  },
+  {
+    "file_name": "HORgUZmb0AAGqZk.jpg",
+    "user": {
+      "screen_name": "CherishGil99144",
+      "name": "蒋同学iocn"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HORgUZmb0AAGqZk.jpg",
+    "read_time": "2026-07-28T09:02:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31438,
+      "timestamp": "2026-07-28T09:02:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 57019,
+      "size_mb": 0.05,
+      "timestamp": "2026-07-28T09:02:30",
+      "download_attempts": 0
+    },
+    "full_text": "早起的鸟儿有虫吃 https://t.co/1MrdasKzo6",
+    "publish_time": "2026-07-28T08:09:43"
   }
 ]
