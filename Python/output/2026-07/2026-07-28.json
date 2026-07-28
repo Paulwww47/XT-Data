@@ -2224,14 +2224,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (183MB > 50MB)",
       "timestamp": "2026-07-28T18:03:41",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 191973935,
       "size_mb": 183.08,
-      "timestamp": "2026-07-28T18:03:41",
+      "timestamp": "2026-07-28T19:02:20",
       "download_attempts": 0
     },
     "full_text": "·\nBro8 in bkk @bagelijun 他们的非常好看，氛围感强。https://t.co/8QBm9LSQCD",
@@ -2288,5 +2288,109 @@
     },
     "full_text": "有力\n❤️熊 https://t.co/HMoB4qhJgP",
     "publish_time": "2026-07-28T17:55:08"
+  },
+  {
+    "file_name": "Phh82V2IOmzr0s0O.mp4",
+    "user": {
+      "screen_name": "asuitedguy8989",
+      "name": "葛生"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2082049161919389696/vid/avc1/720x1280/Phh82V2IOmzr0s0O.mp4?tag=29",
+    "read_time": "2026-07-28T19:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31501,
+      "timestamp": "2026-07-28T19:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1962593,
+      "size_mb": 1.87,
+      "timestamp": "2026-07-28T19:02:20",
+      "download_attempts": 0
+    },
+    "full_text": "亲身穿上丁字裤给同学教单丁和双丁的英文表达。教学要敬业，你们才会努力学。加油 https://t.co/Jj3Rkvnp27",
+    "publish_time": "2026-07-28T18:24:26"
+  },
+  {
+    "file_name": "nT4nndL9H6Q8e0EI.mp4",
+    "user": {
+      "screen_name": "tuoxie0",
+      "name": "拖鞋"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2082051916427894785/vid/avc1/720x1280/nT4nndL9H6Q8e0EI.mp4?tag=29",
+    "read_time": "2026-07-28T19:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31502,
+      "timestamp": "2026-07-28T19:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 14342057,
+      "size_mb": 13.68,
+      "timestamp": "2026-07-28T19:02:24",
+      "download_attempts": 0
+    },
+    "full_text": "人类大屌大战异形章鱼触手，很爽\n@DeanWtst84156 \n#绮趣 #章趣 #电动异形 https://t.co/t9icHZyRsD",
+    "publish_time": "2026-07-28T18:34:58"
+  },
+  {
+    "file_name": "HOTwI69aoAAYNiP.jpg",
+    "user": {
+      "screen_name": "inspiredPeng",
+      "name": "地空捣蛋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOTwI69aoAAYNiP.jpg",
+    "read_time": "2026-07-28T19:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31503,
+      "timestamp": "2026-07-28T19:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 137005,
+      "size_mb": 0.13,
+      "timestamp": "2026-07-28T19:02:27",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/co6qkZryt7",
+    "publish_time": "2026-07-28T18:38:07"
+  },
+  {
+    "file_name": "HOTyuRjbcAAof-n.jpg",
+    "user": {
+      "screen_name": "inspiredPeng",
+      "name": "地空捣蛋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOTyuRjbcAAof-n.jpg",
+    "read_time": "2026-07-28T19:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31504,
+      "timestamp": "2026-07-28T19:02:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 109614,
+      "size_mb": 0.1,
+      "timestamp": "2026-07-28T19:02:27",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/GSbsmPatQt",
+    "publish_time": "2026-07-28T18:49:25"
   }
 ]
