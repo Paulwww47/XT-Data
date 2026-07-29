@@ -1002,14 +1002,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (434MB > 50MB)",
       "timestamp": "2026-07-29T12:02:14",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 455926630,
       "size_mb": 434.81,
-      "timestamp": "2026-07-29T12:02:14",
+      "timestamp": "2026-07-29T13:02:12",
       "download_attempts": 0
     },
     "full_text": "https://t.co/yT1XbRiUin",
@@ -1040,5 +1040,57 @@
     },
     "full_text": "https://t.co/TUuPtdknob",
     "publish_time": "2026-07-29T11:49:28"
+  },
+  {
+    "file_name": "HOXpS7va0AABZGv.jpg",
+    "user": {
+      "screen_name": "Mo2pho_",
+      "name": "肥臀炭烧"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOXpS7va0AABZGv.jpg",
+    "read_time": "2026-07-29T13:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31570,
+      "timestamp": "2026-07-29T13:02:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 112099,
+      "size_mb": 0.11,
+      "timestamp": "2026-07-29T13:02:12",
+      "download_attempts": 0
+    },
+    "full_text": "看我雷霆大腚 https://t.co/skwXRru0wa",
+    "publish_time": "2026-07-29T12:46:40"
+  },
+  {
+    "file_name": "HOXpb-RaQAA4bOy.jpg",
+    "user": {
+      "screen_name": "Nonglaoshi520",
+      "name": "长沙农老师"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOXpb-RaQAA4bOy.jpg",
+    "read_time": "2026-07-29T13:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31571,
+      "timestamp": "2026-07-29T13:02:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 98487,
+      "size_mb": 0.09,
+      "timestamp": "2026-07-29T13:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "这个白沫，夯不夯？ https://t.co/7pQlmgyVyf",
+    "publish_time": "2026-07-29T12:47:18"
   }
 ]
