@@ -2739,7 +2739,20 @@
       "createdAt": "Tue Sep 05 22:42:11 +0000 2023",
       "description": "更多訊息都在link裡面喔🥳PPV 30% off for subscribers Stay subscribed and DM me for exclusive perks ✌️ Your initiative decides how naughty I get 😚更多請直接私信💗",
       "entities": {
-        "description": {}
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "fansone.co/iamwaylonsuen",
+              "expanded_url": "https://fansone.co/iamwaylonsuen",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/tu2KXDWW6b"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1699191166858825728/1756999377",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2006589059154800640/rbRyI3aJ_normal.jpg"
@@ -2946,7 +2959,7 @@
       "name": "暴走的豌豆",
       "screenName": "Jetmvp",
       "createdAt": "Fri Oct 25 05:06:06 +0000 2019",
-      "description": "全网同名 🉑 私信带照 颜控",
+      "description": "全网同名 🉑 私信带照 颜控\n不回复无聊消息 懂得直接🚪",
       "entities": {
         "description": {}
       },
@@ -6462,6 +6475,20 @@
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/857588858954932224/1503781131",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1427869659051675650/x7DfBMgw_normal.jpg"
+    }
+  },
+  {
+    "restId": "961218060861370369",
+    "legacy": {
+      "name": "touse234",
+      "screenName": "Williamweilin23",
+      "createdAt": "Wed Feb 07 12:40:19 +0000 2018",
+      "description": "shy 申请解锁滴滴滴",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/985927764640321536/2qax75gW_normal.jpg"
     }
   },
   {
