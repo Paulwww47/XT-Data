@@ -120,14 +120,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (998MB > 50MB)",
       "timestamp": "2026-07-31T02:04:28",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 1047134121,
       "size_mb": 998.62,
-      "timestamp": "2026-07-31T02:04:28",
+      "timestamp": "2026-07-31T03:01:43",
       "download_attempts": 0
     },
     "full_text": "https://t.co/9Nxj9ALrte",
@@ -174,17 +174,199 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (522MB > 50MB)",
       "timestamp": "2026-07-31T02:05:20",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 547536005,
       "size_mb": 522.17,
-      "timestamp": "2026-07-31T02:05:20",
+      "timestamp": "2026-07-31T03:01:45",
       "download_attempts": 0
     },
     "full_text": "https://t.co/ilKgMO93XB",
     "publish_time": "2026-07-31T01:59:30"
+  },
+  {
+    "file_name": "HOfuUzFbkAAS7K0.jpg",
+    "user": {
+      "screen_name": "abdkym19",
+      "name": "keyoum"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOfuUzFbkAAS7K0.jpg",
+    "read_time": "2026-07-31T03:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31735,
+      "timestamp": "2026-07-31T03:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 91830,
+      "size_mb": 0.09,
+      "timestamp": "2026-07-31T03:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "微信小程序搜超牛可以下单倒膜\n1️⃣制作视频\n 2️⃣本人微信\n3️⃣个人写真 https://t.co/pNdcifs3K4",
+    "publish_time": "2026-07-31T02:25:37"
+  },
+  {
+    "file_name": "HOfvqnsasAAi7NS.jpg",
+    "user": {
+      "screen_name": "Harry1910040",
+      "name": "ai吃猪柳蛋麦满分"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOfvqnsasAAi7NS.jpg",
+    "read_time": "2026-07-31T03:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31736,
+      "timestamp": "2026-07-31T03:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 217510,
+      "size_mb": 0.21,
+      "timestamp": "2026-07-31T03:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "嘿 https://t.co/F4CPVYnNIR",
+    "publish_time": "2026-07-31T02:31:28"
+  },
+  {
+    "file_name": "HOfvqntbUAAOq8q.jpg",
+    "user": {
+      "screen_name": "Harry1910040",
+      "name": "ai吃猪柳蛋麦满分"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOfvqntbUAAOq8q.jpg",
+    "read_time": "2026-07-31T03:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31737,
+      "timestamp": "2026-07-31T03:01:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 253995,
+      "size_mb": 0.24,
+      "timestamp": "2026-07-31T03:01:49",
+      "download_attempts": 0
+    },
+    "full_text": "嘿 https://t.co/F4CPVYnNIR",
+    "publish_time": "2026-07-31T02:31:28"
+  },
+  {
+    "file_name": "HOfvqnubUAAT8Gh.jpg",
+    "user": {
+      "screen_name": "Harry1910040",
+      "name": "ai吃猪柳蛋麦满分"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOfvqnubUAAT8Gh.jpg",
+    "read_time": "2026-07-31T03:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31738,
+      "timestamp": "2026-07-31T03:01:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 140435,
+      "size_mb": 0.13,
+      "timestamp": "2026-07-31T03:01:50",
+      "download_attempts": 0
+    },
+    "full_text": "嘿 https://t.co/F4CPVYnNIR",
+    "publish_time": "2026-07-31T02:31:28"
+  },
+  {
+    "file_name": "HOfvqoOaoAAQQpj.jpg",
+    "user": {
+      "screen_name": "Harry1910040",
+      "name": "ai吃猪柳蛋麦满分"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOfvqoOaoAAQQpj.jpg",
+    "read_time": "2026-07-31T03:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31739,
+      "timestamp": "2026-07-31T03:01:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 71929,
+      "size_mb": 0.07,
+      "timestamp": "2026-07-31T03:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "嘿 https://t.co/F4CPVYnNIR",
+    "publish_time": "2026-07-31T02:31:28"
+  },
+  {
+    "file_name": "GEDeNc4inRalMxN4.mp4",
+    "user": {
+      "screen_name": "hhh752093296",
+      "name": "大力宝宝"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2082900015153037312/vid/avc1/720x1280/GEDeNc4inRalMxN4.mp4?tag=29",
+    "read_time": "2026-07-31T03:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31740,
+      "timestamp": "2026-07-31T03:01:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1903817,
+      "size_mb": 1.82,
+      "timestamp": "2026-07-31T03:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "控傻了 https://t.co/r28EYeSzIe",
+    "publish_time": "2026-07-31T02:44:12"
+  },
+  {
+    "file_name": "HOf0UrJa8AAm8so.jpg",
+    "user": {
+      "screen_name": "xiaofeilius",
+      "name": "小肥刘"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOf0UrJa8AAm8so.jpg",
+    "read_time": "2026-07-31T03:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31741,
+      "timestamp": "2026-07-31T03:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 78842,
+      "size_mb": 0.08,
+      "timestamp": "2026-07-31T03:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "肌肉狗1m🥵 https://t.co/M6NIaCDroe",
+    "publish_time": "2026-07-31T02:51:49"
   }
 ]
