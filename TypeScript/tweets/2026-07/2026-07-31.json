@@ -68,5 +68,47 @@
     "tweetUrl": "https://x.com/asshell/status/2082866844361470338",
     "fullText": "https://t.co/XVIzxLEg6n",
     "publishTime": "2026-07-31T00:32:08"
+  },
+  {
+    "user": {
+      "screenName": "Trungn5at",
+      "name": "Trung"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082758623542071296/vid/avc1/1080x1914/obJVaID-CD9JDy7m.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Trungn5at/status/2082874020417171769",
+    "fullText": "https://t.co/9Nxj9ALrte",
+    "publishTime": "2026-07-31T01:00:39"
+  },
+  {
+    "user": {
+      "screenName": "xiao57520",
+      "name": "翱哥备用机"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082880840498122752/vid/avc1/720x1280/YkSiYENHsXmBtUlU.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/xiao57520/status/2082880874442629271",
+    "fullText": "🧦 https://t.co/z6SeQB7OE9",
+    "publishTime": "2026-07-31T01:27:53"
+  },
+  {
+    "user": {
+      "screenName": "Trungn5at",
+      "name": "Trung"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2082868127667499009/vid/avc1/1080x1920/038cE90wGK3Fomnk.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Trungn5at/status/2082888832559812882",
+    "fullText": "https://t.co/ilKgMO93XB",
+    "publishTime": "2026-07-31T01:59:30"
   }
 ]

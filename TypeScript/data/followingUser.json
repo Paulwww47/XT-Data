@@ -609,7 +609,20 @@
       "createdAt": "Sun Jul 26 13:02:16 +0000 2015",
       "description": "ชอบใส่ชุดออฟฟิศ || แอคนี้ 18+ ไม่ต้องฟอลกลับก็ได้ || ไม่นัด ไม่คอลแลบ ไม่รับงานทุกกรณี ไม่เล่นแอปหาคู่ ไม่มีแอคจีน || มีแฟนแล้วครับ @PureParattakorn 🥰❤️✨✨",
       "entities": {
-        "description": {}
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/arthur_pmt_bot",
+              "expanded_url": "http://t.me/arthur_pmt_bot",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Ub7ojxYCNc"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3295129758/1753539462",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2064658659662348288/_O69fSza_normal.jpg"
@@ -649,7 +662,7 @@
       "name": "葛生",
       "screenName": "asuitedguy8989",
       "createdAt": "Thu Dec 24 12:44:34 +0000 2020",
-      "description": "踩在男人脚下仰视，变态欲望在这。也喜粗口骂骚逼。",
+      "description": "踩在男人脚下仰视，变态欲望在这。也喜粗口骂骚逼。接寄拍 约拍 玩具测评  ➕V🚪🧧",
       "entities": {
         "description": {}
       },
@@ -3446,7 +3459,7 @@
       "name": "小帅气",
       "screenName": "klspbr",
       "createdAt": "Sun Feb 25 15:35:50 +0000 2024",
-      "description": "男模/男星🔞⚠️不止是帅！ X止X \n投稿/其他✉️",
+      "description": "男模/男星🔞⚠️不止是帅！ X止X\n投稿/其他✉️",
       "entities": {
         "description": {}
       },
@@ -3831,10 +3844,10 @@
   {
     "restId": "1716737814459744257",
     "legacy": {
-      "name": "老王spa (在 广州",
+      "name": "老王在深圳💪🏻",
       "screenName": "lllllljs11270",
       "createdAt": "Tue Oct 24 08:46:14 +0000 2023",
-      "description": "深圳南山｜spa￥500｜#出差备用  #闲人会清理 🚪 100｜❤️ wz993990000  注 X",
+      "description": "深圳南山｜spa￥500｜#出差备用  #闲人会清理 🚪 99｜ ❤️ wz993990000  备: X",
       "entities": {
         "description": {}
       },

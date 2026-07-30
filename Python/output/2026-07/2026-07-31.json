@@ -92,17 +92,99 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (215MB > 50MB)",
       "timestamp": "2026-07-31T01:02:04",
+      "notification_sent": true
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 225888647,
+      "size_mb": 215.42,
+      "timestamp": "2026-07-31T02:02:53",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/XVIzxLEg6n",
+    "publish_time": "2026-07-31T00:32:08"
+  },
+  {
+    "file_name": "obJVaID-CD9JDy7m.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2082758623542071296/vid/avc1/1080x1914/obJVaID-CD9JDy7m.mp4?tag=29",
+    "read_time": "2026-07-31T02:02:51",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (998MB > 50MB)",
+      "timestamp": "2026-07-31T02:04:28",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 225888647,
-      "size_mb": 215.42,
-      "timestamp": "2026-07-31T01:02:04",
+      "size": 1047134121,
+      "size_mb": 998.62,
+      "timestamp": "2026-07-31T02:04:28",
       "download_attempts": 0
     },
-    "full_text": "https://t.co/XVIzxLEg6n",
-    "publish_time": "2026-07-31T00:32:08"
+    "full_text": "https://t.co/9Nxj9ALrte",
+    "publish_time": "2026-07-31T01:00:39"
+  },
+  {
+    "file_name": "YkSiYENHsXmBtUlU.mp4",
+    "user": {
+      "screen_name": "xiao57520",
+      "name": "翱哥备用机"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2082880840498122752/vid/avc1/720x1280/YkSiYENHsXmBtUlU.mp4?tag=29",
+    "read_time": "2026-07-31T02:02:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31734,
+      "timestamp": "2026-07-31T02:04:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1447170,
+      "size_mb": 1.38,
+      "timestamp": "2026-07-31T02:04:28",
+      "download_attempts": 0
+    },
+    "full_text": "🧦 https://t.co/z6SeQB7OE9",
+    "publish_time": "2026-07-31T01:27:53"
+  },
+  {
+    "file_name": "038cE90wGK3Fomnk.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2082868127667499009/vid/avc1/1080x1920/038cE90wGK3Fomnk.mp4?tag=29",
+    "read_time": "2026-07-31T02:02:51",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (522MB > 50MB)",
+      "timestamp": "2026-07-31T02:05:20",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 547536005,
+      "size_mb": 522.17,
+      "timestamp": "2026-07-31T02:05:20",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ilKgMO93XB",
+    "publish_time": "2026-07-31T01:59:30"
   }
 ]
