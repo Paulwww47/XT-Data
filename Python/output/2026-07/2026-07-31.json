@@ -644,17 +644,43 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (223MB > 50MB)",
       "timestamp": "2026-07-31T06:06:52",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 234478061,
       "size_mb": 223.62,
-      "timestamp": "2026-07-31T06:06:52",
+      "timestamp": "2026-07-31T07:01:53",
       "download_attempts": 0
     },
     "full_text": "·\nBro8 in bkk @bagelijun \n有八哥的视频真的就非常好看，氛围感也强。 https://t.co/tnZ6Ev8cHu",
     "publish_time": "2026-07-31T05:57:47"
+  },
+  {
+    "file_name": "-LwqmJ4P6XjakL4J.mp4",
+    "user": {
+      "screen_name": "Wanfeng549513",
+      "name": "醇野挽风"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2082951305321168896/vid/avc1/720x1280/-LwqmJ4P6XjakL4J.mp4?tag=29",
+    "read_time": "2026-07-31T07:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31752,
+      "timestamp": "2026-07-31T07:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2709145,
+      "size_mb": 2.58,
+      "timestamp": "2026-07-31T07:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "#醇野挽风  润滑液准备上市了 https://t.co/5RFXV2J52a",
+    "publish_time": "2026-07-31T06:08:02"
   }
 ]
