@@ -622,5 +622,85 @@
     },
     "full_text": "https://t.co/APWntag40c",
     "publish_time": "2026-08-01T04:44:01"
+  },
+  {
+    "file_name": "8WyfyJWfyQPZH8C7.mp4",
+    "user": {
+      "screen_name": "toplcjfjv",
+      "name": "發發top"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2083301253942222848/vid/avc1/720x1280/8WyfyJWfyQPZH8C7.mp4?tag=29",
+    "read_time": "2026-08-01T06:02:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31878,
+      "timestamp": "2026-08-01T06:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7974339,
+      "size_mb": 7.6,
+      "timestamp": "2026-08-01T06:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "早 繼續睡 https://t.co/KKtGi50nWr",
+    "publish_time": "2026-08-01T05:18:48"
+  },
+  {
+    "file_name": "ygHiz-g91zN4I1Hz.mp4",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2083163498914476032/vid/avc1/1080x1920/ygHiz-g91zN4I1Hz.mp4?tag=29",
+    "read_time": "2026-08-01T06:02:22",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (153MB > 50MB)",
+      "timestamp": "2026-08-01T06:02:29",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 160890063,
+      "size_mb": 153.44,
+      "timestamp": "2026-08-01T06:02:29",
+      "download_attempts": 0
+    },
+    "full_text": ".\n这个明明有水印写箸“蒙面莮神”拍的，看到现在，他，第一，不蒙面了，第二不是照片而且卖视频了，恭喜好看。 https://t.co/4x2XQgxY8l",
+    "publish_time": "2026-08-01T05:38:24"
+  },
+  {
+    "file_name": "HOll8dNaMAA9L-2.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOll8dNaMAA9L-2.jpg",
+    "read_time": "2026-08-01T06:02:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31879,
+      "timestamp": "2026-08-01T06:02:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 195918,
+      "size_mb": 0.19,
+      "timestamp": "2026-08-01T06:02:29",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/bcVuKdP34T",
+    "publish_time": "2026-08-01T05:46:42"
   }
 ]
