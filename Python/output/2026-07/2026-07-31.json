@@ -776,14 +776,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (57MB > 50MB)",
       "timestamp": "2026-07-31T08:01:42",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 60068103,
       "size_mb": 57.29,
-      "timestamp": "2026-07-31T08:01:42",
+      "timestamp": "2026-07-31T09:02:30",
       "download_attempts": 0
     },
     "full_text": "·\n刚才发的这个视频被微博删掉发在X吧👉2026度 韩国国际先生31位决赛选手官方定妆内裤/泳裤版，选手拍摄进入摄影棚仪式昨晚新鲜出炉💥奉上。今年拍得也非常有突破，有视觉冲击力！👉 选手编号依次照片排列｜详情请查看IG：misterinternationalkorea 🔥 https://t.co/Wogkicm2gg",
@@ -892,5 +892,83 @@
     },
     "full_text": "https://t.co/NCpXSmPWCc",
     "publish_time": "2026-07-31T07:41:45"
+  },
+  {
+    "file_name": "HOg9nAwbwAACz2w.jpg",
+    "user": {
+      "screen_name": "Neil19899885",
+      "name": "Neil_nan"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOg9nAwbwAACz2w.jpg",
+    "read_time": "2026-07-31T09:02:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31760,
+      "timestamp": "2026-07-31T09:02:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 127402,
+      "size_mb": 0.12,
+      "timestamp": "2026-07-31T09:02:30",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/sHdM1sd9Oh",
+    "publish_time": "2026-07-31T08:12:01"
+  },
+  {
+    "file_name": "QEIFNlRYC51NBI03.mp4",
+    "user": {
+      "screen_name": "jj20cm_",
+      "name": "阳光小茄子"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2082988036313563136/vid/avc1/720x918/QEIFNlRYC51NBI03.mp4?tag=29",
+    "read_time": "2026-07-31T09:02:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31761,
+      "timestamp": "2026-07-31T09:02:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5735465,
+      "size_mb": 5.47,
+      "timestamp": "2026-07-31T09:02:32",
+      "download_attempts": 0
+    },
+    "full_text": "Does anyone want some cotton candy? https://t.co/Huu2UfyYho",
+    "publish_time": "2026-07-31T08:34:13"
+  },
+  {
+    "file_name": "yvbbwsdoC224YCB7.mp4",
+    "user": {
+      "screen_name": "jj20cm_",
+      "name": "阳光小茄子"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2082992955359739904/vid/avc1/720x1280/yvbbwsdoC224YCB7.mp4?tag=29",
+    "read_time": "2026-07-31T09:02:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31762,
+      "timestamp": "2026-07-31T09:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 34009940,
+      "size_mb": 32.43,
+      "timestamp": "2026-07-31T09:02:38",
+      "download_attempts": 0
+    },
+    "full_text": "兄弟姐妹们，大家早上好呀！ https://t.co/Kaq8l0RGHM",
+    "publish_time": "2026-07-31T08:55:35"
   }
 ]
