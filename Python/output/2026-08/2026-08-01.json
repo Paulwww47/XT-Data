@@ -664,14 +664,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (153MB > 50MB)",
       "timestamp": "2026-08-01T06:02:29",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 160890063,
       "size_mb": 153.44,
-      "timestamp": "2026-08-01T06:02:29",
+      "timestamp": "2026-08-01T07:01:32",
       "download_attempts": 0
     },
     "full_text": ".\n这个明明有水印写箸“蒙面莮神”拍的，看到现在，他，第一，不蒙面了，第二不是照片而且卖视频了，恭喜好看。 https://t.co/4x2XQgxY8l",
@@ -702,5 +702,57 @@
     },
     "full_text": "https://t.co/bcVuKdP34T",
     "publish_time": "2026-08-01T05:46:42"
+  },
+  {
+    "file_name": "HOlvuPTbsAEY2LM.jpg",
+    "user": {
+      "screen_name": "T13602S",
+      "name": "大野菊"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOlvuPTbsAEY2LM.jpg",
+    "read_time": "2026-08-01T07:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31880,
+      "timestamp": "2026-08-01T07:01:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 107049,
+      "size_mb": 0.1,
+      "timestamp": "2026-08-01T07:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "这个七月体验了一番军妓的生活，感悟就是他们做事很有原则，虽然大家都是战友，但操菊必需一个一个来，绝对不会大家一起上，我能做的就是化好妆穿好衣服，打开氛围灯，等待他们一个一个轮奸我。 https://t.co/7Vjdimyf74",
+    "publish_time": "2026-08-01T06:29:27"
+  },
+  {
+    "file_name": "HOlwTU1agAA81G9.jpg",
+    "user": {
+      "screen_name": "T13602S",
+      "name": "大野菊"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOlwTU1agAA81G9.jpg",
+    "read_time": "2026-08-01T07:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31881,
+      "timestamp": "2026-08-01T07:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 110912,
+      "size_mb": 0.11,
+      "timestamp": "2026-08-01T07:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "今晚的野鸡妆 https://t.co/vVQUmMQAMx",
+    "publish_time": "2026-08-01T06:31:58"
   }
 ]
