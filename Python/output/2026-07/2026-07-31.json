@@ -2478,5 +2478,31 @@
     },
     "full_text": "https://t.co/y4t26ecUdW",
     "publish_time": "2026-07-31T17:55:23"
+  },
+  {
+    "file_name": "KvaKPzehUTWyiPPj.mp4",
+    "user": {
+      "screen_name": "wangluweii",
+      "name": "过期牛油果"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2083137643869798400/vid/avc1/966x544/KvaKPzehUTWyiPPj.mp4?tag=29",
+    "read_time": "2026-07-31T19:01:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31821,
+      "timestamp": "2026-07-31T19:01:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1798708,
+      "size_mb": 1.72,
+      "timestamp": "2026-07-31T19:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/MFWl3gksNt",
+    "publish_time": "2026-07-31T18:28:33"
   }
 ]
