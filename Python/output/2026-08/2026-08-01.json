@@ -2902,14 +2902,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (50MB > 50MB)",
       "timestamp": "2026-08-01T23:01:33",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 52846430,
       "size_mb": 50.4,
-      "timestamp": "2026-08-01T23:01:33",
+      "timestamp": "2026-08-02T00:01:36",
       "download_attempts": 0
     },
     "full_text": "尿了我一床 还好你老公床单管够 https://t.co/fT9lpyhB0F",
@@ -3044,5 +3044,239 @@
     },
     "full_text": "江西交通单位离异直男\n本来不想玩的无奈这骚男太会调情，字字句句感叹发骚，还很会提供情绪价值，虽然长得不帅，但是还蛮会做毛发管理的，全身就鸡吧上修剪整齐的阴毛露出，嘴巴嗯嗯啊啊的在骚叫，最后龟头通过鸡吧喷出来的精水遍地都是 https://t.co/dUm6aHb8L2",
     "publish_time": "2026-08-01T22:54:33"
+  },
+  {
+    "file_name": "HOpWhZUaUAA2XtY.jpg",
+    "user": {
+      "screen_name": "Nichola80721283",
+      "name": "云琥"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOpWhZUaUAA2XtY.jpg",
+    "read_time": "2026-08-02T00:01:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31969,
+      "timestamp": "2026-08-02T00:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 100748,
+      "size_mb": 0.1,
+      "timestamp": "2026-08-02T00:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/MevrPKbgKy",
+    "publish_time": "2026-08-01T23:18:06"
+  },
+  {
+    "file_name": "HOpWpBiaIAA2uJK.jpg",
+    "user": {
+      "screen_name": "lancelin1120",
+      "name": "lancelin"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOpWpBiaIAA2uJK.jpg",
+    "read_time": "2026-08-02T00:01:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31970,
+      "timestamp": "2026-08-02T00:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 246327,
+      "size_mb": 0.23,
+      "timestamp": "2026-08-02T00:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "今天 https://t.co/Tl1bxz9bUj",
+    "publish_time": "2026-08-01T23:18:21"
+  },
+  {
+    "file_name": "HOpWpBhbcAAXVnz.jpg",
+    "user": {
+      "screen_name": "lancelin1120",
+      "name": "lancelin"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOpWpBhbcAAXVnz.jpg",
+    "read_time": "2026-08-02T00:01:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31971,
+      "timestamp": "2026-08-02T00:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 441974,
+      "size_mb": 0.42,
+      "timestamp": "2026-08-02T00:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "今天 https://t.co/Tl1bxz9bUj",
+    "publish_time": "2026-08-01T23:18:21"
+  },
+  {
+    "file_name": "HOpWpBjawAAmxqQ.jpg",
+    "user": {
+      "screen_name": "lancelin1120",
+      "name": "lancelin"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOpWpBjawAAmxqQ.jpg",
+    "read_time": "2026-08-02T00:01:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31972,
+      "timestamp": "2026-08-02T00:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 430955,
+      "size_mb": 0.41,
+      "timestamp": "2026-08-02T00:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "今天 https://t.co/Tl1bxz9bUj",
+    "publish_time": "2026-08-01T23:18:21"
+  },
+  {
+    "file_name": "HOpWpBhaUAA7BZW.jpg",
+    "user": {
+      "screen_name": "lancelin1120",
+      "name": "lancelin"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOpWpBhaUAA7BZW.jpg",
+    "read_time": "2026-08-02T00:01:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31973,
+      "timestamp": "2026-08-02T00:01:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 119149,
+      "size_mb": 0.11,
+      "timestamp": "2026-08-02T00:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "今天 https://t.co/Tl1bxz9bUj",
+    "publish_time": "2026-08-01T23:18:21"
+  },
+  {
+    "file_name": "HOpX31mboAA8C0h.jpg",
+    "user": {
+      "screen_name": "LUCAS_0126",
+      "name": "阿昊小怪兽"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOpX31mboAA8C0h.jpg",
+    "read_time": "2026-08-02T00:01:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31974,
+      "timestamp": "2026-08-02T00:01:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 83970,
+      "size_mb": 0.08,
+      "timestamp": "2026-08-02T00:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "tiǎn. https://t.co/Z5WvCoTpUE",
+    "publish_time": "2026-08-01T23:23:46"
+  },
+  {
+    "file_name": "HOpX31oaQAA8ZOe.jpg",
+    "user": {
+      "screen_name": "LUCAS_0126",
+      "name": "阿昊小怪兽"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOpX31oaQAA8ZOe.jpg",
+    "read_time": "2026-08-02T00:01:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31975,
+      "timestamp": "2026-08-02T00:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 83369,
+      "size_mb": 0.08,
+      "timestamp": "2026-08-02T00:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "tiǎn. https://t.co/Z5WvCoTpUE",
+    "publish_time": "2026-08-01T23:23:46"
+  },
+  {
+    "file_name": "HOpX310bwAEfuIW.jpg",
+    "user": {
+      "screen_name": "LUCAS_0126",
+      "name": "阿昊小怪兽"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOpX310bwAEfuIW.jpg",
+    "read_time": "2026-08-02T00:01:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31976,
+      "timestamp": "2026-08-02T00:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 83733,
+      "size_mb": 0.08,
+      "timestamp": "2026-08-02T00:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "tiǎn. https://t.co/Z5WvCoTpUE",
+    "publish_time": "2026-08-01T23:23:46"
+  },
+  {
+    "file_name": "HOpX34_bUAAieky.jpg",
+    "user": {
+      "screen_name": "LUCAS_0126",
+      "name": "阿昊小怪兽"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOpX34_bUAAieky.jpg",
+    "read_time": "2026-08-02T00:01:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 31977,
+      "timestamp": "2026-08-02T00:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 85090,
+      "size_mb": 0.08,
+      "timestamp": "2026-08-02T00:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "tiǎn. https://t.co/Z5WvCoTpUE",
+    "publish_time": "2026-08-01T23:23:46"
   }
 ]
