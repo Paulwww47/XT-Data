@@ -938,14 +938,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (629MB > 50MB)",
       "timestamp": "2026-08-02T06:01:47",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 660469139,
       "size_mb": 629.87,
-      "timestamp": "2026-08-02T06:01:47",
+      "timestamp": "2026-08-02T07:01:57",
       "download_attempts": 0
     },
     "full_text": "Kkk  https://t.co/9IKhXR46QA",
@@ -966,14 +966,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (854MB > 50MB)",
       "timestamp": "2026-08-02T06:01:53",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 896188360,
       "size_mb": 854.67,
-      "timestamp": "2026-08-02T06:01:53",
+      "timestamp": "2026-08-02T07:02:01",
       "download_attempts": 0
     },
     "full_text": "https://t.co/IuwAKGIVgX",
@@ -1004,5 +1004,31 @@
     },
     "full_text": "qp9933 https://t.co/vyOl3W4pwP",
     "publish_time": "2026-08-02T05:43:47"
+  },
+  {
+    "file_name": "HOqzCopbUAAttA4.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOqzCopbUAAttA4.jpg",
+    "read_time": "2026-08-02T07:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32008,
+      "timestamp": "2026-08-02T07:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 153586,
+      "size_mb": 0.15,
+      "timestamp": "2026-08-02T07:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "leon8.10 https://t.co/FBgV2fgrDS",
+    "publish_time": "2026-08-02T06:02:01"
   }
 ]
