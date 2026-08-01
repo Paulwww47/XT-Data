@@ -418,5 +418,19 @@
     "tweetUrl": "https://x.com/asshell/status/2083604920486511070",
     "fullText": "https://t.co/gL8a4ctDVH",
     "publishTime": "2026-08-02T01:24:59"
+  },
+  {
+    "user": {
+      "screenName": "huoxini66",
+      "name": "霍西尼"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2083624577440395264/vid/avc1/720x1578/zlJmkCqQXX1ar8-H.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/huoxini66/status/2083624685724647502",
+    "fullText": "抖音主播刚捏了几下就被封了！ https://t.co/nHeogcynuu",
+    "publishTime": "2026-08-02T02:43:31"
   }
 ]

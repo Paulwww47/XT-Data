@@ -698,14 +698,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (277MB > 50MB)",
       "timestamp": "2026-08-02T02:01:57",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 290896518,
       "size_mb": 277.42,
-      "timestamp": "2026-08-02T02:01:57",
+      "timestamp": "2026-08-02T03:02:57",
       "download_attempts": 0
     },
     "full_text": "https://t.co/E47U8GZyVt",
@@ -726,14 +726,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (153MB > 50MB)",
       "timestamp": "2026-08-02T02:01:58",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 160890063,
       "size_mb": 153.44,
-      "timestamp": "2026-08-02T02:01:58",
+      "timestamp": "2026-08-02T03:02:58",
       "download_attempts": 0
     },
     "full_text": "https://t.co/JR8gxIiBbm",
@@ -790,5 +790,31 @@
     },
     "full_text": "https://t.co/gL8a4ctDVH",
     "publish_time": "2026-08-02T01:24:59"
+  },
+  {
+    "file_name": "zlJmkCqQXX1ar8-H.mp4",
+    "user": {
+      "screen_name": "huoxini66",
+      "name": "霍西尼"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2083624577440395264/vid/avc1/720x1578/zlJmkCqQXX1ar8-H.mp4?tag=14",
+    "read_time": "2026-08-02T03:02:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32003,
+      "timestamp": "2026-08-02T03:03:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2411209,
+      "size_mb": 2.3,
+      "timestamp": "2026-08-02T03:02:59",
+      "download_attempts": 0
+    },
+    "full_text": "抖音主播刚捏了几下就被封了！ https://t.co/nHeogcynuu",
+    "publish_time": "2026-08-02T02:43:31"
   }
 ]
