@@ -2512,5 +2512,139 @@
     },
     "full_text": "【2026年8月2日】今日補檔資源3部，置頂24小時！以下視頻與補檔資源無關！ https://t.co/JKUl9tQ7dP",
     "publish_time": "2026-08-02T13:52:27"
+  },
+  {
+    "file_name": "HOsjcfdboAA36hb.jpg",
+    "user": {
+      "screen_name": "Andrewanzhu",
+      "name": "安猪大王"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOsjcfdboAA36hb.jpg",
+    "read_time": "2026-08-02T15:01:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32066,
+      "timestamp": "2026-08-02T15:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 118815,
+      "size_mb": 0.11,
+      "timestamp": "2026-08-02T15:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "想吃？想舔？想进入？还是想大口闻？ https://t.co/GA526y1zI8",
+    "publish_time": "2026-08-02T14:13:11"
+  },
+  {
+    "file_name": "4xZ6NiQqrA9UgGM2.mp4",
+    "user": {
+      "screen_name": "sx84604818",
+      "name": "Rexsonic Man+ suits & socks"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2083612392077053952/vid/avc1/852x480/4xZ6NiQqrA9UgGM2.mp4?tag=29",
+    "read_time": "2026-08-02T15:01:36",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (78MB > 50MB)",
+      "timestamp": "2026-08-02T15:01:38",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 81810646,
+      "size_mb": 78.02,
+      "timestamp": "2026-08-02T15:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "👔西裝愛好者👔 https://t.co/75bBugpALx",
+    "publish_time": "2026-08-02T14:13:50"
+  },
+  {
+    "file_name": "EAoB8RXYq8TTHDlM.mp4",
+    "user": {
+      "screen_name": "sx84604818",
+      "name": "Rexsonic Man+ suits & socks"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2083798656885653504/vid/avc1/720x1280/EAoB8RXYq8TTHDlM.mp4?tag=29",
+    "read_time": "2026-08-02T15:01:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32067,
+      "timestamp": "2026-08-02T15:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2141566,
+      "size_mb": 2.04,
+      "timestamp": "2026-08-02T15:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "👔西裝愛好者👔 https://t.co/ooJvf6LDxz",
+    "publish_time": "2026-08-02T14:14:56"
+  },
+  {
+    "file_name": "HOslqBhbAAAytiK.jpg",
+    "user": {
+      "screen_name": "vmya_",
+      "name": "vm"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOslqBhbAAAytiK.jpg",
+    "read_time": "2026-08-02T15:01:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32068,
+      "timestamp": "2026-08-02T15:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 203313,
+      "size_mb": 0.19,
+      "timestamp": "2026-08-02T15:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vO8qKQiIHU",
+    "publish_time": "2026-08-02T14:22:48"
+  },
+  {
+    "file_name": "dUDe2ofWczW_LSTZ.mp4",
+    "user": {
+      "screen_name": "asshell",
+      "name": "🇦🇺澳洲男子公司🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2051341505009418240/vid/avc1/720x1272/dUDe2ofWczW_LSTZ.mp4?tag=27",
+    "read_time": "2026-08-02T15:01:36",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (81MB > 50MB)",
+      "timestamp": "2026-08-02T15:01:43",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 85102182,
+      "size_mb": 81.16,
+      "timestamp": "2026-08-02T15:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/uHIDfM5KEx",
+    "publish_time": "2026-08-02T14:58:19"
   }
 ]
