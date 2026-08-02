@@ -2554,14 +2554,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (78MB > 50MB)",
       "timestamp": "2026-08-02T15:01:38",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 81810646,
       "size_mb": 78.02,
-      "timestamp": "2026-08-02T15:01:38",
+      "timestamp": "2026-08-02T16:01:33",
       "download_attempts": 0
     },
     "full_text": "👔西裝愛好者👔 https://t.co/75bBugpALx",
@@ -2634,17 +2634,173 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (81MB > 50MB)",
       "timestamp": "2026-08-02T15:01:43",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 85102182,
       "size_mb": 81.16,
-      "timestamp": "2026-08-02T15:01:43",
+      "timestamp": "2026-08-02T16:01:33",
       "download_attempts": 0
     },
     "full_text": "https://t.co/uHIDfM5KEx",
     "publish_time": "2026-08-02T14:58:19"
+  },
+  {
+    "file_name": "HOswrv9asAAblhP.jpg",
+    "user": {
+      "screen_name": "youan1144",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOswrv9asAAblhP.jpg",
+    "read_time": "2026-08-02T16:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32069,
+      "timestamp": "2026-08-02T16:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 129723,
+      "size_mb": 0.12,
+      "timestamp": "2026-08-02T16:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "这腿可以吗？ https://t.co/4BM2SMuAOs",
+    "publish_time": "2026-08-02T15:11:09"
+  },
+  {
+    "file_name": "HOs2G1caMAA1kDm.jpg",
+    "user": {
+      "screen_name": "youshu29016120",
+      "name": "youshu"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOs2G1caMAA1kDm.jpg",
+    "read_time": "2026-08-02T16:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32070,
+      "timestamp": "2026-08-02T16:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 107411,
+      "size_mb": 0.1,
+      "timestamp": "2026-08-02T16:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "男人该有的样子 https://t.co/RARAH4f5Oz",
+    "publish_time": "2026-08-02T15:34:43"
+  },
+  {
+    "file_name": "HOs2Ha8bEAAEZiO.jpg",
+    "user": {
+      "screen_name": "wwxia8898",
+      "name": "罗夏 （北京）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOs2Ha8bEAAEZiO.jpg",
+    "read_time": "2026-08-02T16:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32071,
+      "timestamp": "2026-08-02T16:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 193922,
+      "size_mb": 0.18,
+      "timestamp": "2026-08-02T16:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "北京，开练 https://t.co/ISueqdveij",
+    "publish_time": "2026-08-02T15:34:46"
+  },
+  {
+    "file_name": "HOs2Ha9aYAAyF7a.jpg",
+    "user": {
+      "screen_name": "wwxia8898",
+      "name": "罗夏 （北京）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOs2Ha9aYAAyF7a.jpg",
+    "read_time": "2026-08-02T16:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32072,
+      "timestamp": "2026-08-02T16:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 189439,
+      "size_mb": 0.18,
+      "timestamp": "2026-08-02T16:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "北京，开练 https://t.co/ISueqdveij",
+    "publish_time": "2026-08-02T15:34:46"
+  },
+  {
+    "file_name": "HOs5V2fXcAAjBdb.jpg",
+    "user": {
+      "screen_name": "cibxun0301",
+      "name": "蔡博轩"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOs5V2fXcAAjBdb.jpg",
+    "read_time": "2026-08-02T16:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32073,
+      "timestamp": "2026-08-02T16:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 72514,
+      "size_mb": 0.07,
+      "timestamp": "2026-08-02T16:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/IePjFgIchJ",
+    "publish_time": "2026-08-02T15:48:49"
+  },
+  {
+    "file_name": "HOs7ABwaoAEfXkr.jpg",
+    "user": {
+      "screen_name": "T13602S",
+      "name": "大野菊"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOs7ABwaoAEfXkr.jpg",
+    "read_time": "2026-08-02T16:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32074,
+      "timestamp": "2026-08-02T16:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 154793,
+      "size_mb": 0.15,
+      "timestamp": "2026-08-02T16:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "结束了，我化好妆他来楼下接我，以为会请我吃饭，结果在车上聊了一会儿就来我家了，全程不让拍视频，把我手机压在他枕头下，最后完事洗完澡勉强戴着头套让我拍了几张照片，一些片段，还不发声……，跟我讲了一些事，感叹他吃的好棒，那些女生好美。 https://t.co/dNlGE1sIqS",
+    "publish_time": "2026-08-02T15:56:04"
   }
 ]
