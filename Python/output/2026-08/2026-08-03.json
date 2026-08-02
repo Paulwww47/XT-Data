@@ -196,14 +196,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (56MB > 50MB)",
       "timestamp": "2026-08-03T01:02:04",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 58975104,
       "size_mb": 56.24,
-      "timestamp": "2026-08-03T01:02:04",
+      "timestamp": "2026-08-03T02:01:43",
       "download_attempts": 0
     },
     "full_text": "👔西裝愛好者👔 https://t.co/iQXvjbJci5",
@@ -224,17 +224,175 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (524MB > 50MB)",
       "timestamp": "2026-08-03T01:02:05",
+      "notification_sent": true
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 549880096,
+      "size_mb": 524.41,
+      "timestamp": "2026-08-03T02:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/1QPv3wNygA",
+    "publish_time": "2026-08-03T00:53:30"
+  },
+  {
+    "file_name": "OdNYeUazwmnYuWm_.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2083837233283698689/vid/avc1/720x1280/OdNYeUazwmnYuWm_.mp4?tag=29",
+    "read_time": "2026-08-03T02:01:42",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (115MB > 50MB)",
+      "timestamp": "2026-08-03T02:01:46",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 549880096,
-      "size_mb": 524.41,
-      "timestamp": "2026-08-03T01:02:05",
+      "size": 120679476,
+      "size_mb": 115.09,
+      "timestamp": "2026-08-03T02:01:46",
       "download_attempts": 0
     },
-    "full_text": "https://t.co/1QPv3wNygA",
-    "publish_time": "2026-08-03T00:53:30"
+    "full_text": "https://t.co/e26B2IW3IL",
+    "publish_time": "2026-08-03T01:18:53"
+  },
+  {
+    "file_name": "HOu8a2pbsAAO9Ua.jpg",
+    "user": {
+      "screen_name": "T13602S",
+      "name": "大野菊"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOu8a2pbsAAO9Ua.jpg",
+    "read_time": "2026-08-03T02:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32135,
+      "timestamp": "2026-08-03T02:01:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 114044,
+      "size_mb": 0.11,
+      "timestamp": "2026-08-03T02:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "晚安💤 https://t.co/rjqlVkbmPo",
+    "publish_time": "2026-08-03T01:21:30"
+  },
+  {
+    "file_name": "HOvAVXWawAAY79d.mp4",
+    "user": {
+      "screen_name": "Harry1910040",
+      "name": "ai吃猪柳蛋麦满分"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/HOvAVXWawAAY79d.mp4",
+    "read_time": "2026-08-03T02:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32136,
+      "timestamp": "2026-08-03T02:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 35394,
+      "size_mb": 0.03,
+      "timestamp": "2026-08-03T02:01:48",
+      "download_attempts": 0
+    },
+    "full_text": "kiss me https://t.co/yjLQzOc0VA",
+    "publish_time": "2026-08-03T01:38:39"
+  },
+  {
+    "file_name": "HOvCgsTakAA3LCT.jpg",
+    "user": {
+      "screen_name": "xiaojin20001112",
+      "name": "小金"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOvCgsTakAA3LCT.jpg",
+    "read_time": "2026-08-03T02:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32137,
+      "timestamp": "2026-08-03T02:01:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 124012,
+      "size_mb": 0.12,
+      "timestamp": "2026-08-03T02:01:49",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/luDL7xepZk",
+    "publish_time": "2026-08-03T01:48:07"
+  },
+  {
+    "file_name": "HOvCgsSasAAuzq4.jpg",
+    "user": {
+      "screen_name": "xiaojin20001112",
+      "name": "小金"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOvCgsSasAAuzq4.jpg",
+    "read_time": "2026-08-03T02:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32138,
+      "timestamp": "2026-08-03T02:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 160716,
+      "size_mb": 0.15,
+      "timestamp": "2026-08-03T02:01:51",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/luDL7xepZk",
+    "publish_time": "2026-08-03T01:48:07"
+  },
+  {
+    "file_name": "HOvCgsJa8AAPhMY.jpg",
+    "user": {
+      "screen_name": "xiaojin20001112",
+      "name": "小金"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOvCgsJa8AAPhMY.jpg",
+    "read_time": "2026-08-03T02:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32139,
+      "timestamp": "2026-08-03T02:01:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 130948,
+      "size_mb": 0.12,
+      "timestamp": "2026-08-03T02:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/luDL7xepZk",
+    "publish_time": "2026-08-03T01:48:07"
   }
 ]
