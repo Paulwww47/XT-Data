@@ -252,14 +252,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (115MB > 50MB)",
       "timestamp": "2026-08-03T02:01:46",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 120679476,
       "size_mb": 115.09,
-      "timestamp": "2026-08-03T02:01:46",
+      "timestamp": "2026-08-03T03:01:41",
       "download_attempts": 0
     },
     "full_text": "https://t.co/e26B2IW3IL",
@@ -394,5 +394,57 @@
     },
     "full_text": "https://t.co/luDL7xepZk",
     "publish_time": "2026-08-03T01:48:07"
+  },
+  {
+    "file_name": "HOvG0PHakAAnVYA.jpg",
+    "user": {
+      "screen_name": "snkrss01",
+      "name": "snkrss"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOvG0PHakAAnVYA.jpg",
+    "read_time": "2026-08-03T03:01:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32140,
+      "timestamp": "2026-08-03T03:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 163710,
+      "size_mb": 0.16,
+      "timestamp": "2026-08-03T03:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "大家在的城市有什么好玩的地方，可以分享下嘛？ https://t.co/a98y4ZOC0i",
+    "publish_time": "2026-08-03T02:06:54"
+  },
+  {
+    "file_name": "HOvG0PIawAAL_oN.jpg",
+    "user": {
+      "screen_name": "snkrss01",
+      "name": "snkrss"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOvG0PIawAAL_oN.jpg",
+    "read_time": "2026-08-03T03:01:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32141,
+      "timestamp": "2026-08-03T03:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 148252,
+      "size_mb": 0.14,
+      "timestamp": "2026-08-03T03:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "大家在的城市有什么好玩的地方，可以分享下嘛？ https://t.co/a98y4ZOC0i",
+    "publish_time": "2026-08-03T02:06:54"
   }
 ]
