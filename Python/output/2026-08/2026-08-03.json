@@ -1684,17 +1684,227 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (51MB > 50MB)",
       "timestamp": "2026-08-03T13:02:03",
+      "notification_sent": true
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 53999322,
+      "size_mb": 51.5,
+      "timestamp": "2026-08-03T14:02:41",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/C52hrYJGXn",
+    "publish_time": "2026-08-03T12:52:56"
+  },
+  {
+    "file_name": "HOxdW6QbMAAIBzk.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOxdW6QbMAAIBzk.png",
+    "read_time": "2026-08-03T14:02:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32189,
+      "timestamp": "2026-08-03T14:02:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 671800,
+      "size_mb": 0.64,
+      "timestamp": "2026-08-03T14:02:41",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/fYOg6uQBfv",
+    "publish_time": "2026-08-03T13:04:44"
+  },
+  {
+    "file_name": "HOxdd0yaUAADVgv.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOxdd0yaUAADVgv.png",
+    "read_time": "2026-08-03T14:02:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32190,
+      "timestamp": "2026-08-03T14:02:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 498210,
+      "size_mb": 0.48,
+      "timestamp": "2026-08-03T14:02:44",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/s5kc4nsxDl",
+    "publish_time": "2026-08-03T13:05:10"
+  },
+  {
+    "file_name": "HOxdwiObUAAiMso.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOxdwiObUAAiMso.png",
+    "read_time": "2026-08-03T14:02:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32191,
+      "timestamp": "2026-08-03T14:02:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 727735,
+      "size_mb": 0.69,
+      "timestamp": "2026-08-03T14:02:46",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/S0ENLrnDxL",
+    "publish_time": "2026-08-03T13:06:29"
+  },
+  {
+    "file_name": "z4Jj0pmx_m8aHGw9.mp4",
+    "user": {
+      "screen_name": "liujinm71443681",
+      "name": "维尼"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2084145737340948480/vid/avc1/720x1280/z4Jj0pmx_m8aHGw9.mp4?tag=29",
+    "read_time": "2026-08-03T14:02:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32192,
+      "timestamp": "2026-08-03T14:02:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4101842,
+      "size_mb": 3.91,
+      "timestamp": "2026-08-03T14:02:47",
+      "download_attempts": 0
+    },
+    "full_text": "之前顶胯也没感觉这么难，果然老了干啥都心酸 https://t.co/Amrv38WIWq",
+    "publish_time": "2026-08-03T13:14:13"
+  },
+  {
+    "file_name": "HOxl-OybAAAhscq.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOxl-OybAAAhscq.jpg",
+    "read_time": "2026-08-03T14:02:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32193,
+      "timestamp": "2026-08-03T14:02:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 158676,
+      "size_mb": 0.15,
+      "timestamp": "2026-08-03T14:02:50",
+      "download_attempts": 0
+    },
+    "full_text": "案例分享/ \n图1-术前双眼皮过宽 姨化无神👀x术后三十天对比🆚年轻好几岁，越来越自然越来越好看\n图2-改单一个月的小哥哥，说他做得最正确的选择就是找我们做了眼睛，确实好看了不少，更有少年感👏\n图3-客户改单1月反馈，自然到就像天生的单眼皮\n喜欢单眼皮，要改单眼皮，还有做眼修护的宝子，私信我 https://t.co/L4QDu8Am7B",
+    "publish_time": "2026-08-03T13:42:17"
+  },
+  {
+    "file_name": "HOxl-O1bIAAzjsk.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOxl-O1bIAAzjsk.jpg",
+    "read_time": "2026-08-03T14:02:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32194,
+      "timestamp": "2026-08-03T14:02:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 153446,
+      "size_mb": 0.15,
+      "timestamp": "2026-08-03T14:02:51",
+      "download_attempts": 0
+    },
+    "full_text": "案例分享/ \n图1-术前双眼皮过宽 姨化无神👀x术后三十天对比🆚年轻好几岁，越来越自然越来越好看\n图2-改单一个月的小哥哥，说他做得最正确的选择就是找我们做了眼睛，确实好看了不少，更有少年感👏\n图3-客户改单1月反馈，自然到就像天生的单眼皮\n喜欢单眼皮，要改单眼皮，还有做眼修护的宝子，私信我 https://t.co/L4QDu8Am7B",
+    "publish_time": "2026-08-03T13:42:17"
+  },
+  {
+    "file_name": "HOxl-O0aQAEBeY9.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOxl-O0aQAEBeY9.jpg",
+    "read_time": "2026-08-03T14:02:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32195,
+      "timestamp": "2026-08-03T14:02:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 159534,
+      "size_mb": 0.15,
+      "timestamp": "2026-08-03T14:02:52",
+      "download_attempts": 0
+    },
+    "full_text": "案例分享/ \n图1-术前双眼皮过宽 姨化无神👀x术后三十天对比🆚年轻好几岁，越来越自然越来越好看\n图2-改单一个月的小哥哥，说他做得最正确的选择就是找我们做了眼睛，确实好看了不少，更有少年感👏\n图3-客户改单1月反馈，自然到就像天生的单眼皮\n喜欢单眼皮，要改单眼皮，还有做眼修护的宝子，私信我 https://t.co/L4QDu8Am7B",
+    "publish_time": "2026-08-03T13:42:17"
+  },
+  {
+    "file_name": "BThLHLJilVhvCsKw.mp4",
+    "user": {
+      "screen_name": "wei821216",
+      "name": "rrr"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2079053029735817216/vid/avc1/1280x706/BThLHLJilVhvCsKw.mp4?tag=29",
+    "read_time": "2026-08-03T14:02:40",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (78MB > 50MB)",
+      "timestamp": "2026-08-03T14:02:54",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 53999322,
-      "size_mb": 51.5,
-      "timestamp": "2026-08-03T13:02:03",
+      "size": 81814047,
+      "size_mb": 78.02,
+      "timestamp": "2026-08-03T14:02:54",
       "download_attempts": 0
     },
-    "full_text": "https://t.co/C52hrYJGXn",
-    "publish_time": "2026-08-03T12:52:56"
+    "full_text": "https://t.co/mvjzXNQ5zW",
+    "publish_time": "2026-08-03T14:00:03"
   }
 ]
