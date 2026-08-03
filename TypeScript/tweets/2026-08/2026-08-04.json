@@ -96,5 +96,33 @@
     "tweetUrl": "https://x.com/xiao57520/status/2084320997591887996",
     "fullText": "🐻 https://t.co/LdfRe4FJH5",
     "publishTime": "2026-08-04T00:50:25"
+  },
+  {
+    "user": {
+      "screenName": "KIDDEN7777777",
+      "name": "kidden"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2084325594859552768/vid/avc1/720x836/neq8HJY6QK2bX6z6.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/KIDDEN7777777/status/2084325720239833500",
+    "fullText": "几点回家 https://t.co/jBkUhTzu2I",
+    "publishTime": "2026-08-04T01:09:11"
+  },
+  {
+    "user": {
+      "screenName": "17sevente",
+      "name": "seventeen"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO0MP5SbwAAxpUV.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/17sevente/status/2084335678243131496",
+    "fullText": "ilikeit https://t.co/pirw5QMGaI",
+    "publishTime": "2026-08-04T01:48:45"
   }
 ]
