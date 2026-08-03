@@ -1894,17 +1894,175 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (78MB > 50MB)",
       "timestamp": "2026-08-03T14:02:54",
+      "notification_sent": true
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 81814047,
+      "size_mb": 78.02,
+      "timestamp": "2026-08-03T15:01:50",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/mvjzXNQ5zW",
+    "publish_time": "2026-08-03T14:00:03"
+  },
+  {
+    "file_name": "HOxrliBbQAAwOia.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOxrliBbQAAwOia.jpg",
+    "read_time": "2026-08-03T15:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32196,
+      "timestamp": "2026-08-03T15:01:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 139118,
+      "size_mb": 0.13,
+      "timestamp": "2026-08-03T15:01:50",
+      "download_attempts": 0
+    },
+    "full_text": "案例反馈/ 图1: 小哥哥在别家做的改单手术，线条不流畅+有明显疤痕显得眼睛短 \n图2: 找我们修复后第五天的反馈，修复了疤痕调整了形状显得整个眼睛修长又有神，小哥哥非常满意 确实肉眼可见的变帅[抱拳]\n\n要做眼睛的男生速来！私我！加我！ https://t.co/uLgifTxmEZ",
+    "publish_time": "2026-08-03T14:06:49"
+  },
+  {
+    "file_name": "HOxrliDbsAE5W9G.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOxrliDbsAE5W9G.jpg",
+    "read_time": "2026-08-03T15:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32197,
+      "timestamp": "2026-08-03T15:01:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 98092,
+      "size_mb": 0.09,
+      "timestamp": "2026-08-03T15:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "案例反馈/ 图1: 小哥哥在别家做的改单手术，线条不流畅+有明显疤痕显得眼睛短 \n图2: 找我们修复后第五天的反馈，修复了疤痕调整了形状显得整个眼睛修长又有神，小哥哥非常满意 确实肉眼可见的变帅[抱拳]\n\n要做眼睛的男生速来！私我！加我！ https://t.co/uLgifTxmEZ",
+    "publish_time": "2026-08-03T14:06:49"
+  },
+  {
+    "file_name": "ByTMj7ERtjZntc43.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2083554751405600768/vid/avc1/1080x1920/ByTMj7ERtjZntc43.mp4?tag=29",
+    "read_time": "2026-08-03T15:01:49",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (422MB > 50MB)",
+      "timestamp": "2026-08-03T15:01:57",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 81814047,
-      "size_mb": 78.02,
-      "timestamp": "2026-08-03T14:02:54",
+      "size": 442820005,
+      "size_mb": 422.31,
+      "timestamp": "2026-08-03T15:01:57",
       "download_attempts": 0
     },
-    "full_text": "https://t.co/mvjzXNQ5zW",
-    "publish_time": "2026-08-03T14:00:03"
+    "full_text": "https://t.co/HgVshqSreM",
+    "publish_time": "2026-08-03T14:32:31"
+  },
+  {
+    "file_name": "HOx1suqW8AATJ0X.jpg",
+    "user": {
+      "screen_name": "klspbr",
+      "name": "小帅气"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOx1suqW8AATJ0X.jpg",
+    "read_time": "2026-08-03T15:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32198,
+      "timestamp": "2026-08-03T15:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 51835,
+      "size_mb": 0.05,
+      "timestamp": "2026-08-03T15:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "我好想看贾乃亮的鸡巴 https://t.co/aua3poFyWi",
+    "publish_time": "2026-08-03T14:51:04"
+  },
+  {
+    "file_name": "HOx1td4XAAAYSKo.jpg",
+    "user": {
+      "screen_name": "klspbr",
+      "name": "小帅气"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HOx1td4XAAAYSKo.jpg",
+    "read_time": "2026-08-03T15:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32199,
+      "timestamp": "2026-08-03T15:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 15935,
+      "size_mb": 0.02,
+      "timestamp": "2026-08-03T15:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "我好想看贾乃亮的鸡巴 https://t.co/aua3poFyWi",
+    "publish_time": "2026-08-03T14:51:04"
+  },
+  {
+    "file_name": "BsRLqI8mduxts2u_.mp4",
+    "user": {
+      "screen_name": "sx84604818",
+      "name": "Rexsonic Man+ suits & socks"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2082325576921325568/vid/avc1/544x960/BsRLqI8mduxts2u_.mp4?tag=29",
+    "read_time": "2026-08-03T15:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32200,
+      "timestamp": "2026-08-03T15:02:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 36007312,
+      "size_mb": 34.34,
+      "timestamp": "2026-08-03T15:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "👔西裝愛好者👔 https://t.co/rQHhhr2B7g",
+    "publish_time": "2026-08-03T14:54:20"
   }
 ]
