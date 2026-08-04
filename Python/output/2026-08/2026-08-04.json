@@ -1420,17 +1420,177 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (56MB > 50MB)",
       "timestamp": "2026-08-04T15:01:36",
+      "notification_sent": true
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 59393069,
+      "size_mb": 56.64,
+      "timestamp": "2026-08-04T16:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/D0e6VolhdJ",
+    "publish_time": "2026-08-04T14:46:53"
+  },
+  {
+    "file_name": "eA2u3TfmNtMsGmyd.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2083798358108631040/vid/avc1/720x1280/eA2u3TfmNtMsGmyd.mp4?tag=14",
+    "read_time": "2026-08-04T16:01:29",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (71MB > 50MB)",
+      "timestamp": "2026-08-04T16:01:30",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 59393069,
-      "size_mb": 56.64,
-      "timestamp": "2026-08-04T15:01:36",
+      "size": 75066064,
+      "size_mb": 71.59,
+      "timestamp": "2026-08-04T16:01:30",
       "download_attempts": 0
     },
-    "full_text": "https://t.co/D0e6VolhdJ",
-    "publish_time": "2026-08-04T14:46:53"
+    "full_text": "https://t.co/0XZC9BPF4u",
+    "publish_time": "2026-08-04T15:02:20"
+  },
+  {
+    "file_name": "nSS0057KUF8ckXSO.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2048266500205887488/vid/avc1/720x1280/nSS0057KUF8ckXSO.mp4?tag=21",
+    "read_time": "2026-08-04T16:01:29",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (80MB > 50MB)",
+      "timestamp": "2026-08-04T16:01:38",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 84869882,
+      "size_mb": 80.94,
+      "timestamp": "2026-08-04T16:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/1jsTmti45P",
+    "publish_time": "2026-08-04T15:04:48"
+  },
+  {
+    "file_name": "HO3EFSSbsAAWj79.jpg",
+    "user": {
+      "screen_name": "BspEmjQNrip7fjd",
+      "name": "风"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HO3EFSSbsAAWj79.jpg",
+    "read_time": "2026-08-04T16:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32307,
+      "timestamp": "2026-08-04T16:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 73149,
+      "size_mb": 0.07,
+      "timestamp": "2026-08-04T16:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "今天练背，整体效果快出来了 https://t.co/wmBSTTI54v",
+    "publish_time": "2026-08-04T15:12:07"
+  },
+  {
+    "file_name": "Hdpt9kbw6L3RYOZr.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2084539692075327488/vid/avc1/1272x720/Hdpt9kbw6L3RYOZr.mp4?tag=29",
+    "read_time": "2026-08-04T16:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32308,
+      "timestamp": "2026-08-04T16:01:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4303919,
+      "size_mb": 4.1,
+      "timestamp": "2026-08-04T16:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "为了回馈广大粉丝对我的支持！今天进我福利群🌹的将不收取任何费用，对我的粉丝们限时无门槛📷进入，可观看所有视频和写真！\n 唯一通道：https://t.co/TtGftYuj4v\n暗号：UU https://t.co/jKiefY2ec0",
+    "publish_time": "2026-08-04T15:19:46"
+  },
+  {
+    "file_name": "HO3NcBUacAAZXBi.jpg",
+    "user": {
+      "screen_name": "Jeff07751908",
+      "name": "杰尼龟"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HO3NcBUacAAZXBi.jpg",
+    "read_time": "2026-08-04T16:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32309,
+      "timestamp": "2026-08-04T16:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 181827,
+      "size_mb": 0.17,
+      "timestamp": "2026-08-04T16:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "现在人很少，裸起很舒服 https://t.co/wKq3bEm0FS",
+    "publish_time": "2026-08-04T15:52:48"
+  },
+  {
+    "file_name": "HO3OKa9aYAAWsr-.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HO3OKa9aYAAWsr-.jpg",
+    "read_time": "2026-08-04T16:01:29",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32310,
+      "timestamp": "2026-08-04T16:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 78017,
+      "size_mb": 0.07,
+      "timestamp": "2026-08-04T16:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "tyng_337 https://t.co/rbjADDsxvB",
+    "publish_time": "2026-08-04T15:55:58"
   }
 ]
