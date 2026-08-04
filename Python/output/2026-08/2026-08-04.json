@@ -430,14 +430,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (77MB > 50MB)",
       "timestamp": "2026-08-04T07:01:37",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 81523123,
       "size_mb": 77.75,
-      "timestamp": "2026-08-04T07:01:37",
+      "timestamp": "2026-08-04T08:01:41",
       "download_attempts": 0
     },
     "full_text": "·\n第一位特别帅！@HiMMPhotobook 的solo X 3 视频. 12:32. https://t.co/VhLvCA4rGj",
