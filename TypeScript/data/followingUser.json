@@ -1772,7 +1772,7 @@
       "name": "F∧LL",
       "screenName": "falling2024",
       "createdAt": "Sat Aug 10 15:46:08 +0000 2024",
-      "description": "dom‖欢迎私信",
+      "description": "DOM‖欢迎私信",
       "entities": {
         "description": {}
       },
@@ -2510,6 +2510,33 @@
       },
       "profileBannerUrl": "",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2073128159395164160/NK4wOwzF_normal.jpg"
+    }
+  },
+  {
+    "restId": "1855123044530106368",
+    "legacy": {
+      "name": "男性ホルモン",
+      "screenName": "hhr_e7",
+      "createdAt": "Sat Nov 09 05:39:43 +0000 2024",
+      "description": "Male hormones to seduce you!                                      \n静默 @SGamble5909",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/hormoneofmale",
+              "expanded_url": "https://t.me/hormoneofmale",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/N3iPIKBMAC"
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1855123044530106368/1773801898",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2034098447037698049/XX73ZDV0_normal.jpg"
     }
   },
   {
@@ -5382,6 +5409,33 @@
     }
   },
   {
+    "restId": "1431866186816393221",
+    "legacy": {
+      "name": "Samuval",
+      "screenName": "Samuval12",
+      "createdAt": "Sun Aug 29 06:28:17 +0000 2021",
+      "description": "My love!\n@SGamble5909\n@hhr_e7",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/hormone_of_men",
+              "expanded_url": "https://t.me/hormone_of_men",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/5ttb0QfZ0s"
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2081779481124216832/ZOxxkNby_normal.jpg"
+    }
+  },
+  {
     "restId": "1516338356875055114",
     "legacy": {
       "name": "moboai",
@@ -5461,6 +5515,33 @@
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1273633310950846464/1644778812",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1563921793743667206/KL4qmFku_normal.jpg"
+    }
+  },
+  {
+    "restId": "91329046",
+    "legacy": {
+      "name": "Sierra Gamble",
+      "screenName": "SGamble5909",
+      "createdAt": "Fri Nov 20 12:24:02 +0000 2009",
+      "description": "So many male hormone temptations! @Subrata42011533\n@Samuval12                                                      \n静默! 置顶群见精彩~",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/hormone_of_men",
+              "expanded_url": "https://t.me/hormone_of_men",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/K5kUKdeEv6"
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/91329046/1776000427",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2043320125047345152/iz9Go-Co_normal.jpg"
     }
   },
   {
@@ -5847,6 +5928,33 @@
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/899558782467833856/1717053409",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1987469380972843008/-VR7C_5h_normal.jpg"
+    }
+  },
+  {
+    "restId": "1326958549264687105",
+    "legacy": {
+      "name": "Subrata Mondal",
+      "screenName": "Subrata42011533",
+      "createdAt": "Thu Nov 12 18:43:03 +0000 2020",
+      "description": "Love!\n@SGamble5909\n@eleuter52420952   @Samuval12",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/hormone_of_men",
+              "expanded_url": "https://t.me/hormone_of_men",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/4kiqlGvpH4"
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2081422247533969408/X-Y98PWM_normal.jpg"
     }
   },
   {
