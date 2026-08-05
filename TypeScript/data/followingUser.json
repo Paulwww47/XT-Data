@@ -1361,7 +1361,7 @@
       "name": "亲爱的小龙",
       "screenName": "DearxLong",
       "createdAt": "Sun May 25 03:26:00 +0000 2025",
-      "description": "X ID: DearxLong\nTelegram ID: DearxLong\nBilibili ID: DearxLong\nWeChat ID: DearxLong\n其他的号都是骗子，小心被骗。\n建议交叉验证，确认真实再购买。",
+      "description": "X ID: DearxLong\nBilibili ID: DearxLong\nWeChat ID: DearxLong\n其他的号都是骗子，小心被骗。\n建议交叉验证，确认真实再购买。",
       "entities": {
         "description": {}
       },
@@ -2278,9 +2278,22 @@
       "name": "咕咕",
       "screenName": "gugude123",
       "createdAt": "Sat Nov 16 04:56:53 +0000 2024",
-      "description": "私信进群",
+      "description": "私or进群",
       "entities": {
-        "description": {}
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/+JZVVoa_b2ZNhN…",
+              "expanded_url": "https://t.me/+JZVVoa_b2ZNhNDc5",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/x4VWFntVkJ"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1857648966407696389/1784021666",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2076965956451225600/fkacMBS5_normal.jpg"
@@ -2807,19 +2820,19 @@
       "name": "灏子不是耗子",
       "screenName": "icemeishi2001",
       "createdAt": "Thu Jan 29 01:12:49 +0000 2026",
-      "description": "推止于推/186.80.44.🌈/就这一个号其他的都是假的大家不要被骗💰",
+      "description": "推止于推/186.80.16.44./其他两个号是假的注意不要被骗💰🌈",
       "entities": {
         "description": {},
         "url": {
           "urls": [
             {
-              "display_url": "bsky.app/profile/icemei…",
-              "expanded_url": "https://bsky.app/profile/icemeishi411.bsky.social",
+              "display_url": "fansone.co/icemeishi",
+              "expanded_url": "https://fansone.co/icemeishi",
               "indices": [
                 0,
                 23
               ],
-              "url": "https://t.co/MuTZZN9dqq"
+              "url": "https://t.co/iqzyJTTBCN"
             }
           ]
         }
@@ -4816,7 +4829,7 @@
         "description": {}
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1666086811775676417/1701168658",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2067502406259417088/X9VQuM67_normal.jpg"
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2084997275592585216/Sbi4oz8n_normal.jpg"
     }
   },
   {
