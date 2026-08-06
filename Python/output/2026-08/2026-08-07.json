@@ -92,14 +92,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (134MB > 50MB)",
       "timestamp": "2026-08-07T06:01:29",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 141354874,
       "size_mb": 134.81,
-      "timestamp": "2026-08-07T06:01:29",
+      "timestamp": "2026-08-07T07:02:36",
       "download_attempts": 0
     },
     "full_text": "ahhh robert pattinson ❤️❤️❤️❤️❤️❤️ https://t.co/eWwmhOo52P",
@@ -198,14 +198,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (73MB > 50MB)",
       "timestamp": "2026-08-07T06:01:37",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 77323598,
       "size_mb": 73.74,
-      "timestamp": "2026-08-07T06:01:37",
+      "timestamp": "2026-08-07T07:02:43",
       "download_attempts": 0
     },
     "full_text": "https://t.co/XH7GQXCkjj",
@@ -600,5 +600,57 @@
     },
     "full_text": "https://t.co/iOogZ6c6vJ",
     "publish_time": "2026-08-07T04:27:28"
+  },
+  {
+    "file_name": "dnAZ8_2XSqxwPlbH.mp4",
+    "user": {
+      "screen_name": "xxjy9696",
+      "name": "小小脚丫🐾全见版（新）"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2085492194073571328/vid/avc1/720x1268/dnAZ8_2XSqxwPlbH.mp4?tag=29",
+    "read_time": "2026-08-07T07:02:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32606,
+      "timestamp": "2026-08-07T07:02:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 15595660,
+      "size_mb": 14.87,
+      "timestamp": "2026-08-07T07:02:45",
+      "download_attempts": 0
+    },
+    "full_text": "🫟超优精品天菜男❺🫟\n又被催更的一天！升级版本，不用多说，直呼全程好刺激，直男不仅身材好，鸡巴大，连叫声都是骚不可及…对于美女姐姐的骚逼，他拿出了超强的本事，让姐姐的骚逼流水不止！真的完全受不了！各种肌肉姿势猛猛干，最后射了一大滩～💦\n＃超优精品天菜男5\n＃小小脚丫原创\n＃精品升级版 https://t.co/15LEUokBaQ",
+    "publish_time": "2026-08-07T06:25:04"
+  },
+  {
+    "file_name": "HPEpZIPaEAAzTSC.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPEpZIPaEAAzTSC.jpg",
+    "read_time": "2026-08-07T07:02:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32607,
+      "timestamp": "2026-08-07T07:02:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 182339,
+      "size_mb": 0.17,
+      "timestamp": "2026-08-07T07:02:49",
+      "download_attempts": 0
+    },
+    "full_text": "muyuryan https://t.co/MpwCEmjEdT",
+    "publish_time": "2026-08-07T06:30:01"
   }
 ]
