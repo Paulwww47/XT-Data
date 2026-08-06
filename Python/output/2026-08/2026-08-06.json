@@ -898,14 +898,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (230MB > 50MB)",
       "timestamp": "2026-08-06T11:03:28",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 241189714,
       "size_mb": 230.02,
-      "timestamp": "2026-08-06T11:03:28",
+      "timestamp": "2026-08-06T12:02:23",
       "download_attempts": 0
     },
     "full_text": "https://t.co/T6URIfSzwc",
@@ -1092,5 +1092,265 @@
     },
     "full_text": "练后 #薄肌 #健身男  #背 https://t.co/TK5TiRDInD",
     "publish_time": "2026-08-06T10:49:43"
+  },
+  {
+    "file_name": "HPAghEFbUAAaY8o.jpg",
+    "user": {
+      "screen_name": "snkrss01",
+      "name": "snkrss"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPAghEFbUAAaY8o.jpg",
+    "read_time": "2026-08-06T12:02:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32512,
+      "timestamp": "2026-08-06T12:02:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 108368,
+      "size_mb": 0.1,
+      "timestamp": "2026-08-06T12:02:23",
+      "download_attempts": 0
+    },
+    "full_text": "有想玩🔒🐶的嘛？ https://t.co/XA6aDyJtCR",
+    "publish_time": "2026-08-06T11:12:46"
+  },
+  {
+    "file_name": "HPAghF8aoAAlcst.jpg",
+    "user": {
+      "screen_name": "snkrss01",
+      "name": "snkrss"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPAghF8aoAAlcst.jpg",
+    "read_time": "2026-08-06T12:02:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32513,
+      "timestamp": "2026-08-06T12:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 106361,
+      "size_mb": 0.1,
+      "timestamp": "2026-08-06T12:02:26",
+      "download_attempts": 0
+    },
+    "full_text": "有想玩🔒🐶的嘛？ https://t.co/XA6aDyJtCR",
+    "publish_time": "2026-08-06T11:12:46"
+  },
+  {
+    "file_name": "HPAg0GZboAAr1s0.jpg",
+    "user": {
+      "screen_name": "wangsan820",
+      "name": "王利华的键盘"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPAg0GZboAAr1s0.jpg",
+    "read_time": "2026-08-06T12:02:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32514,
+      "timestamp": "2026-08-06T12:02:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 157244,
+      "size_mb": 0.15,
+      "timestamp": "2026-08-06T12:02:27",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/JvDzKVBM9j",
+    "publish_time": "2026-08-06T11:14:05"
+  },
+  {
+    "file_name": "HPAg0GabQAAKjnj.jpg",
+    "user": {
+      "screen_name": "wangsan820",
+      "name": "王利华的键盘"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPAg0GabQAAKjnj.jpg",
+    "read_time": "2026-08-06T12:02:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32515,
+      "timestamp": "2026-08-06T12:02:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 118665,
+      "size_mb": 0.11,
+      "timestamp": "2026-08-06T12:02:29",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/JvDzKVBM9j",
+    "publish_time": "2026-08-06T11:14:05"
+  },
+  {
+    "file_name": "HPAg0GZbIAAoxEH.jpg",
+    "user": {
+      "screen_name": "wangsan820",
+      "name": "王利华的键盘"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPAg0GZbIAAoxEH.jpg",
+    "read_time": "2026-08-06T12:02:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32516,
+      "timestamp": "2026-08-06T12:02:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 105833,
+      "size_mb": 0.1,
+      "timestamp": "2026-08-06T12:02:31",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/JvDzKVBM9j",
+    "publish_time": "2026-08-06T11:14:05"
+  },
+  {
+    "file_name": "HPAnH8ZaEAA_Iw9.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPAnH8ZaEAA_Iw9.png",
+    "read_time": "2026-08-06T12:02:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32517,
+      "timestamp": "2026-08-06T12:02:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 865192,
+      "size_mb": 0.83,
+      "timestamp": "2026-08-06T12:02:32",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/C8xU3tsxrp",
+    "publish_time": "2026-08-06T11:41:42"
+  },
+  {
+    "file_name": "HPAqKmBaYAA0UHO.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPAqKmBaYAA0UHO.png",
+    "read_time": "2026-08-06T12:02:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32518,
+      "timestamp": "2026-08-06T12:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 113789,
+      "size_mb": 0.11,
+      "timestamp": "2026-08-06T12:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/wq9wUNmcKh",
+    "publish_time": "2026-08-06T11:55:04"
+  },
+  {
+    "file_name": "HPAqYuvbsAAfhXq.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPAqYuvbsAAfhXq.jpg",
+    "read_time": "2026-08-06T12:02:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32519,
+      "timestamp": "2026-08-06T12:02:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 80195,
+      "size_mb": 0.08,
+      "timestamp": "2026-08-06T12:02:36",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/OHRkH6Ph6U",
+    "publish_time": "2026-08-06T11:56:06"
+  },
+  {
+    "file_name": "HPAq8cRbcAEolRS.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPAq8cRbcAEolRS.jpg",
+    "read_time": "2026-08-06T12:02:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32520,
+      "timestamp": "2026-08-06T12:02:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 78770,
+      "size_mb": 0.08,
+      "timestamp": "2026-08-06T12:02:37",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/MSTTqB5PRx",
+    "publish_time": "2026-08-06T11:58:31"
+  },
+  {
+    "file_name": "HPArOAZb0AA-DnT.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPArOAZb0AA-DnT.png",
+    "read_time": "2026-08-06T12:02:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32521,
+      "timestamp": "2026-08-06T12:02:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1323221,
+      "size_mb": 1.26,
+      "timestamp": "2026-08-06T12:02:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/3WmhygpefN",
+    "publish_time": "2026-08-06T11:59:43"
   }
 ]
