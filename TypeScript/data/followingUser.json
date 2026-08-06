@@ -5866,9 +5866,22 @@
       "name": "@zhui",
       "screenName": "SSmakabaka",
       "createdAt": "Thu Apr 02 16:11:21 +0000 2020",
-      "description": "抖音追追老师，收🏧，无🧠贱🐶，推止于推，🧦🩲可以出一些，多的也没有，买yw可在推私信,🛰️：🚪48",
+      "description": "抖音追追老师，收🏧，无🧠贱🐶，推止于推，🧦🩲可以出一些，多的也没有，买yw可在推私信,🛰️：🚪48\n稳定vpn可自行按需注册购买",
       "entities": {
-        "description": {}
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "yy01.tz86.vip/#/register?cod…",
+              "expanded_url": "https://yy01.tz86.vip/#/register?code=tAz7RgvY",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/R2Y3NDoqMY"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1245745611367944194/1718252757",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1245746758031941638/bhkQ7E8V_normal.jpg"
@@ -6625,6 +6638,20 @@
     }
   },
   {
+    "restId": "1645262092264697857",
+    "legacy": {
+      "name": "Dr.十五五",
+      "screenName": "wazn1314",
+      "createdAt": "Mon Apr 10 03:07:17 +0000 2023",
+      "description": "q 2054518596",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1645262092264697857/1681096945",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1678037521652129792/IVT-IY8i_normal.jpg"
+    }
+  },
+  {
     "restId": "1395038635032924162",
     "legacy": {
       "name": "油汁碳水",
@@ -7241,7 +7268,7 @@
       "name": "阳沫雨（杭州",
       "screenName": "yangmoyum",
       "createdAt": "Wed Aug 06 13:31:11 +0000 2025",
-      "description": "喜欢拍照 可接spa💆到位：1074683（可全国✈️）99-168-75-1 更喜欢聊天 可出原味 🧦🩲 |小蓝翻咔：阳沫雨|v:zmj0241（有门槛🧧注明来意）交友群可以私聊 备用号@yangmoyub",
+      "description": "｜喜欢拍照📷｜\n｜可接spa💆到位：1074683（全国🉑✈️）｜\n｜可出原味 🧦🩲 |\n｜小蓝翻咔：阳沫雨（全网同名）|\n｜v:zmj0241（有门槛🧧注明来意）｜\n备用号@yangmoyub",
       "entities": {
         "description": {}
       },
