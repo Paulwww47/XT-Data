@@ -76,5 +76,529 @@
     },
     "full_text": "https://t.co/mdXyNTxR0o",
     "publish_time": "2026-08-07T00:05:31"
+  },
+  {
+    "file_name": "yEZmZyrPV2ZvTuj9.mp4",
+    "user": {
+      "screen_name": "arthurz_xcx",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2085347099768508416/vid/avc1/1920x1280/yEZmZyrPV2ZvTuj9.mp4?tag=29",
+    "read_time": "2026-08-07T06:01:28",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (134MB > 50MB)",
+      "timestamp": "2026-08-07T06:01:29",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 141354874,
+      "size_mb": 134.81,
+      "timestamp": "2026-08-07T06:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "ahhh robert pattinson ❤️❤️❤️❤️❤️❤️ https://t.co/eWwmhOo52P",
+    "publish_time": "2026-08-07T00:13:01"
+  },
+  {
+    "file_name": "j9zLu6i0O6Updk4o.mp4",
+    "user": {
+      "screen_name": "asshell",
+      "name": "🇦🇺澳洲男子公司🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2085004920248520704/vid/avc1/544x960/j9zLu6i0O6Updk4o.mp4?tag=29",
+    "read_time": "2026-08-07T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32588,
+      "timestamp": "2026-08-07T06:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4294260,
+      "size_mb": 4.1,
+      "timestamp": "2026-08-07T06:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/WNo6FRTpbI",
+    "publish_time": "2026-08-07T00:17:14"
+  },
+  {
+    "file_name": "OFYWpfWzO_yjUfxH.mp4",
+    "user": {
+      "screen_name": "asshell",
+      "name": "🇦🇺澳洲男子公司🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1906673904187568129/pu/vid/avc1/720x1280/OFYWpfWzO_yjUfxH.mp4?tag=12",
+    "read_time": "2026-08-07T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32589,
+      "timestamp": "2026-08-07T06:01:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4412436,
+      "size_mb": 4.21,
+      "timestamp": "2026-08-07T06:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/DJ2oOd2TEu",
+    "publish_time": "2026-08-07T00:18:18"
+  },
+  {
+    "file_name": "bNuMBwttuC7mhZvF.mp4",
+    "user": {
+      "screen_name": "asshell",
+      "name": "🇦🇺澳洲男子公司🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2072678402805641216/vid/avc1/720x1280/bNuMBwttuC7mhZvF.mp4?tag=14",
+    "read_time": "2026-08-07T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32590,
+      "timestamp": "2026-08-07T06:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 14344820,
+      "size_mb": 13.68,
+      "timestamp": "2026-08-07T06:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/NVWUYaA7X0",
+    "publish_time": "2026-08-07T00:18:48"
+  },
+  {
+    "file_name": "2sqtlsEm6gj0kcfF.mp4",
+    "user": {
+      "screen_name": "asshell",
+      "name": "🇦🇺澳洲男子公司🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2062025591533215744/vid/avc1/720x1280/2sqtlsEm6gj0kcfF.mp4?tag=27",
+    "read_time": "2026-08-07T06:01:28",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (73MB > 50MB)",
+      "timestamp": "2026-08-07T06:01:37",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 77323598,
+      "size_mb": 73.74,
+      "timestamp": "2026-08-07T06:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/XH7GQXCkjj",
+    "publish_time": "2026-08-07T00:22:00"
+  },
+  {
+    "file_name": "mlKF54ifTjXVK10S.mp4",
+    "user": {
+      "screen_name": "Subrata42011533",
+      "name": "Subrata Mondal"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2085404909995012104/vid/avc1/480x848/mlKF54ifTjXVK10S.mp4?tag=29",
+    "read_time": "2026-08-07T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32591,
+      "timestamp": "2026-08-07T06:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 8129250,
+      "size_mb": 7.75,
+      "timestamp": "2026-08-07T06:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "“我尝试一下，尽量满足你，喜欢我穿的黑袜么，脚放你bi里，有味道的脚放你脸上猛猛闻臭味是么~”\n黑袜帅气机长带你飞，足交粗口射黑袜上吃干净，超级反差诱惑！\n超全超长完整版三部曲-1，不要太精彩！\n#黑袜 #制服 #帅哥 #反差 #调教 https://t.co/sN5Xll6a79",
+    "publish_time": "2026-08-07T00:38:05"
+  },
+  {
+    "file_name": "HPDZ73IbsAYVIQS.jpg",
+    "user": {
+      "screen_name": "hhr_e7",
+      "name": "男性ホルモン"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPDZ73IbsAYVIQS.jpg",
+    "read_time": "2026-08-07T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32592,
+      "timestamp": "2026-08-07T06:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 146097,
+      "size_mb": 0.14,
+      "timestamp": "2026-08-07T06:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "@Samuval12 #直男 #秀脚 #黑袜 #光脚\n土憨直男家中展示自己的黑袜光脚！ https://t.co/qgUlfSdW0d",
+    "publish_time": "2026-08-07T00:42:51"
+  },
+  {
+    "file_name": "HPDbfJdaUAAgfRw.jpg",
+    "user": {
+      "screen_name": "Harry1910040",
+      "name": "ai吃猪柳蛋麦满分"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPDbfJdaUAAgfRw.jpg",
+    "read_time": "2026-08-07T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32593,
+      "timestamp": "2026-08-07T06:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 187270,
+      "size_mb": 0.18,
+      "timestamp": "2026-08-07T06:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "很喜欢这张🙂‍↔️ https://t.co/2I2AAn6hfz",
+    "publish_time": "2026-08-07T00:49:37"
+  },
+  {
+    "file_name": "HPDe73PbwAAhPO6.jpg",
+    "user": {
+      "screen_name": "caili324",
+      "name": "广州-健壮Top1"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPDe73PbwAAhPO6.jpg",
+    "read_time": "2026-08-07T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32594,
+      "timestamp": "2026-08-07T06:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 154829,
+      "size_mb": 0.15,
+      "timestamp": "2026-08-07T06:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "需要前还是后🌿 https://t.co/xWA2jZnh9Y",
+    "publish_time": "2026-08-07T01:04:43"
+  },
+  {
+    "file_name": "HPDe73KaUAArt-t.jpg",
+    "user": {
+      "screen_name": "caili324",
+      "name": "广州-健壮Top1"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPDe73KaUAArt-t.jpg",
+    "read_time": "2026-08-07T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32595,
+      "timestamp": "2026-08-07T06:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 163173,
+      "size_mb": 0.16,
+      "timestamp": "2026-08-07T06:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "需要前还是后🌿 https://t.co/xWA2jZnh9Y",
+    "publish_time": "2026-08-07T01:04:43"
+  },
+  {
+    "file_name": "HPDi2mFbkAA7taO.jpg",
+    "user": {
+      "screen_name": "icemeishi2001",
+      "name": "灏子不是耗子"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPDi2mFbkAA7taO.jpg",
+    "read_time": "2026-08-07T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32596,
+      "timestamp": "2026-08-07T06:01:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 99495,
+      "size_mb": 0.09,
+      "timestamp": "2026-08-07T06:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "热🙄啥也不想穿🙄想裸奔 #gay https://t.co/5cN2tP8fIw",
+    "publish_time": "2026-08-07T01:21:58"
+  },
+  {
+    "file_name": "HPDq0d0b0AEQd6M.jpg",
+    "user": {
+      "screen_name": "dunzh299016",
+      "name": "吉吉"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPDq0d0b0AEQd6M.jpg",
+    "read_time": "2026-08-07T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32597,
+      "timestamp": "2026-08-07T06:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 140128,
+      "size_mb": 0.13,
+      "timestamp": "2026-08-07T06:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "抱歉粉丝宝宝们，几天没更新，梯子到期了，目前只能用免费的了😭 https://t.co/NInTlKIwR7",
+    "publish_time": "2026-08-07T01:56:42"
+  },
+  {
+    "file_name": "HPDq1QpbAAAbyV4.jpg",
+    "user": {
+      "screen_name": "dunzh299016",
+      "name": "吉吉"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPDq1QpbAAAbyV4.jpg",
+    "read_time": "2026-08-07T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32598,
+      "timestamp": "2026-08-07T06:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 63764,
+      "size_mb": 0.06,
+      "timestamp": "2026-08-07T06:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "抱歉粉丝宝宝们，几天没更新，梯子到期了，目前只能用免费的了😭 https://t.co/NInTlKIwR7",
+    "publish_time": "2026-08-07T01:56:42"
+  },
+  {
+    "file_name": "HPDrlpWa0AA5f-g.jpg",
+    "user": {
+      "screen_name": "Andrewanzhu",
+      "name": "安猪大王"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPDrlpWa0AA5f-g.jpg",
+    "read_time": "2026-08-07T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32599,
+      "timestamp": "2026-08-07T06:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 136789,
+      "size_mb": 0.13,
+      "timestamp": "2026-08-07T06:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "That's my pleasure https://t.co/EJjeNFMxaw",
+    "publish_time": "2026-08-07T02:00:45"
+  },
+  {
+    "file_name": "HPDrnbAbMAAf8ju.jpg",
+    "user": {
+      "screen_name": "Andrewanzhu",
+      "name": "安猪大王"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPDrnbAbMAAf8ju.jpg",
+    "read_time": "2026-08-07T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32600,
+      "timestamp": "2026-08-07T06:01:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 146254,
+      "size_mb": 0.14,
+      "timestamp": "2026-08-07T06:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "That's my pleasure https://t.co/EJjeNFMxaw",
+    "publish_time": "2026-08-07T02:00:45"
+  },
+  {
+    "file_name": "HPDrrB5aEAA-5GN.jpg",
+    "user": {
+      "screen_name": "Andrewanzhu",
+      "name": "安猪大王"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPDrrB5aEAA-5GN.jpg",
+    "read_time": "2026-08-07T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32601,
+      "timestamp": "2026-08-07T06:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 140094,
+      "size_mb": 0.13,
+      "timestamp": "2026-08-07T06:01:48",
+      "download_attempts": 0
+    },
+    "full_text": "That's my pleasure https://t.co/EJjeNFMxaw",
+    "publish_time": "2026-08-07T02:00:45"
+  },
+  {
+    "file_name": "HPDrtyLaoAAWv9o.jpg",
+    "user": {
+      "screen_name": "Andrewanzhu",
+      "name": "安猪大王"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPDrtyLaoAAWv9o.jpg",
+    "read_time": "2026-08-07T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32602,
+      "timestamp": "2026-08-07T06:01:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 143378,
+      "size_mb": 0.14,
+      "timestamp": "2026-08-07T06:01:49",
+      "download_attempts": 0
+    },
+    "full_text": "That's my pleasure https://t.co/EJjeNFMxaw",
+    "publish_time": "2026-08-07T02:00:45"
+  },
+  {
+    "file_name": "IUDCIZ8HvcxMzxEK.mp4",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2085437189916434432/vid/avc1/1652x1240/IUDCIZ8HvcxMzxEK.mp4?tag=29",
+    "read_time": "2026-08-07T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32603,
+      "timestamp": "2026-08-07T06:01:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 12832283,
+      "size_mb": 12.24,
+      "timestamp": "2026-08-07T06:01:51",
+      "download_attempts": 0
+    },
+    "full_text": "·\n“ 一跃之前，先吻你 ” \n爱（ai）生成 by 深山拙诚 rednote ID: 95427985987 ｜网友说，这一吻很销魂，但是这注明是中国跳水员，发在内地网络的啊，不知能幸存多久？关注。\n #跳台之吻  #起跳之前  #一起飞翔 https://t.co/vmScYBOhat",
+    "publish_time": "2026-08-07T02:47:05"
+  },
+  {
+    "file_name": "D9uzKfe3NjImLpZ3.mp4",
+    "user": {
+      "screen_name": "xiao57520",
+      "name": "翱哥备用机"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2085443610309476352/vid/avc1/720x1280/D9uzKfe3NjImLpZ3.mp4?tag=29",
+    "read_time": "2026-08-07T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32604,
+      "timestamp": "2026-08-07T06:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1846610,
+      "size_mb": 1.76,
+      "timestamp": "2026-08-07T06:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "🐶 https://t.co/JaqJuFCR6B",
+    "publish_time": "2026-08-07T03:11:25"
+  },
+  {
+    "file_name": "HPENWSKa4AAxyRe.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPENWSKa4AAxyRe.jpg",
+    "read_time": "2026-08-07T06:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32605,
+      "timestamp": "2026-08-07T06:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 154937,
+      "size_mb": 0.15,
+      "timestamp": "2026-08-07T06:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/iOogZ6c6vJ",
+    "publish_time": "2026-08-07T04:27:28"
   }
 ]
