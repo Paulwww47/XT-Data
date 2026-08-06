@@ -234,5 +234,32 @@
     "tweetUrl": "https://x.com/lailai6699/status/2085122387616620655",
     "fullText": "不管走去哪都一樣\n死胡同",
     "publishTime": "2026-08-06T05:54:51"
+  },
+  {
+    "user": {
+      "screenName": "lailai6699",
+      "name": "lailai69"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/lailai6699/status/2085143808845775233",
+    "fullText": "為么都没人要跟我聊天",
+    "publishTime": "2026-08-06T07:19:58"
+  },
+  {
+    "user": {
+      "screenName": "lancelin1120",
+      "name": "lancelin"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HO_u22_awAAtg3O.jpg",
+      "https://pbs.twimg.com/media/HO_u23AbwAAjSam.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/lancelin1120/status/2085147784681066577",
+    "fullText": "早 https://t.co/1i6xTvXfoW",
+    "publishTime": "2026-08-06T07:35:46"
   }
 ]
