@@ -652,5 +652,31 @@
     },
     "full_text": "muyuryan https://t.co/MpwCEmjEdT",
     "publish_time": "2026-08-07T06:30:01"
+  },
+  {
+    "file_name": "HPE8UHAbsAADRNd.jpg",
+    "user": {
+      "screen_name": "CherishGil99144",
+      "name": "蒋同学iocn"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPE8UHAbsAADRNd.jpg",
+    "read_time": "2026-08-07T08:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32608,
+      "timestamp": "2026-08-07T08:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 127030,
+      "size_mb": 0.12,
+      "timestamp": "2026-08-07T08:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "早 https://t.co/FvGzDlatBf",
+    "publish_time": "2026-08-07T07:52:40"
   }
 ]
