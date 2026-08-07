@@ -180,5 +180,137 @@
     },
     "full_text": "https://t.co/svGJQHM1DZ",
     "publish_time": "2026-08-08T00:58:04"
+  },
+  {
+    "file_name": "HPIubwDaAAAKnku.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPIubwDaAAAKnku.jpg",
+    "read_time": "2026-08-08T02:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32699,
+      "timestamp": "2026-08-08T02:01:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 89670,
+      "size_mb": 0.09,
+      "timestamp": "2026-08-08T02:01:21",
+      "download_attempts": 0
+    },
+    "full_text": "·\nModel 系列日常\n\n王浩權 Ferry  👉，IG:ferry_0715   \n🌿🌞🙌 ​​​\nIG: mens darkroom https://t.co/6qC4DHELcv",
+    "publish_time": "2026-08-08T01:30:30"
+  },
+  {
+    "file_name": "HPIubwCa8AAn0gL.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPIubwCa8AAn0gL.jpg",
+    "read_time": "2026-08-08T02:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32700,
+      "timestamp": "2026-08-08T02:01:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 93801,
+      "size_mb": 0.09,
+      "timestamp": "2026-08-08T02:01:23",
+      "download_attempts": 0
+    },
+    "full_text": "·\nModel 系列日常\n\n王浩權 Ferry  👉，IG:ferry_0715   \n🌿🌞🙌 ​​​\nIG: mens darkroom https://t.co/6qC4DHELcv",
+    "publish_time": "2026-08-08T01:30:30"
+  },
+  {
+    "file_name": "HPIubwCaMAA4zSm.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPIubwCaMAA4zSm.jpg",
+    "read_time": "2026-08-08T02:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32701,
+      "timestamp": "2026-08-08T02:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 89848,
+      "size_mb": 0.09,
+      "timestamp": "2026-08-08T02:01:24",
+      "download_attempts": 0
+    },
+    "full_text": "·\nModel 系列日常\n\n王浩權 Ferry  👉，IG:ferry_0715   \n🌿🌞🙌 ​​​\nIG: mens darkroom https://t.co/6qC4DHELcv",
+    "publish_time": "2026-08-08T01:30:30"
+  },
+  {
+    "file_name": "SWDX1Nt_q0ki4kdX.mp4",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2085782428686458880/vid/avc1/1216x2014/SWDX1Nt_q0ki4kdX.mp4?tag=29",
+    "read_time": "2026-08-08T02:01:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32702,
+      "timestamp": "2026-08-08T02:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 685448,
+      "size_mb": 0.65,
+      "timestamp": "2026-08-08T02:01:26",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/U76RQP83pP",
+    "publish_time": "2026-08-08T01:37:41"
+  },
+  {
+    "file_name": "MdvWCNH1HDlX2smS.mp4",
+    "user": {
+      "screen_name": "asshell",
+      "name": "🇦🇺澳洲男子公司🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2084575112293171201/vid/avc1/1920x1080/MdvWCNH1HDlX2smS.mp4?tag=29",
+    "read_time": "2026-08-08T02:01:21",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (931MB > 50MB)",
+      "timestamp": "2026-08-08T02:04:05",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 977127262,
+      "size_mb": 931.86,
+      "timestamp": "2026-08-08T02:04:05",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4V2rQ3rPMz",
+    "publish_time": "2026-08-08T01:48:29"
   }
 ]
