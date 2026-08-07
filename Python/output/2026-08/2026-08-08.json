@@ -520,5 +520,33 @@
     },
     "full_text": "骚🐶又把毛剃掉了，来一个更骚的贱狗舔我的锁吊 https://t.co/KAsG5ajvun",
     "publish_time": "2026-08-08T03:53:16"
+  },
+  {
+    "file_name": "QMeuUIZIr3OhhdK0.mp4",
+    "user": {
+      "screen_name": "BLPDBNANA",
+      "name": "Mr.CumBoY🍌"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2085293541530730496/vid/avc1/1280x720/QMeuUIZIr3OhhdK0.mp4?tag=29",
+    "read_time": "2026-08-08T05:01:15",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (341MB > 50MB)",
+      "timestamp": "2026-08-08T05:01:16",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 358066429,
+      "size_mb": 341.48,
+      "timestamp": "2026-08-08T05:01:16",
+      "download_attempts": 0
+    },
+    "full_text": "想吃吃广州本地鸡 https://t.co/vpqldZyDJz",
+    "publish_time": "2026-08-08T04:02:59"
   }
 ]
