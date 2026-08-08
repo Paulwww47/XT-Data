@@ -290,5 +290,19 @@
     "tweetUrl": "https://x.com/c558668/status/2085854580634726486",
     "fullText": "https://t.co/3yHB1D19Ep",
     "publishTime": "2026-08-08T06:24:19"
+  },
+  {
+    "user": {
+      "screenName": "toplcjfjv",
+      "name": "發發top"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2085877358972801024/vid/avc1/720x1280/Sqk6m571xoWmagWr.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/toplcjfjv/status/2085877446822559988",
+    "fullText": "早 https://t.co/OYuu2aYy4x",
+    "publishTime": "2026-08-08T07:55:11"
   }
 ]
