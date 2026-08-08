@@ -274,14 +274,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (81MB > 50MB)",
       "timestamp": "2026-08-09T02:01:27",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 85281239,
       "size_mb": 81.33,
-      "timestamp": "2026-08-09T02:01:27",
+      "timestamp": "2026-08-09T03:01:27",
       "download_attempts": 0
     },
     "full_text": "https://t.co/tQtvR53xv6",
@@ -328,14 +328,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (53MB > 50MB)",
       "timestamp": "2026-08-09T02:01:30",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 56100811,
       "size_mb": 53.5,
-      "timestamp": "2026-08-09T02:01:30",
+      "timestamp": "2026-08-09T03:01:28",
       "download_attempts": 0
     },
     "full_text": "https://t.co/6zZuTCHx7i",
@@ -366,5 +366,135 @@
     },
     "full_text": "我真的以为北京的熊是全国最多的，结果在 sister 见到了此生最多的熊😭 https://t.co/FNZDzqVWpc",
     "publish_time": "2026-08-09T01:58:13"
+  },
+  {
+    "file_name": "HPN-sgzWMAEDNTK.jpg",
+    "user": {
+      "screen_name": "yyycc_c",
+      "name": "C"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPN-sgzWMAEDNTK.jpg",
+    "read_time": "2026-08-09T03:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32808,
+      "timestamp": "2026-08-09T03:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 159659,
+      "size_mb": 0.15,
+      "timestamp": "2026-08-09T03:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "💪 https://t.co/5w6Rz9ZBh4",
+    "publish_time": "2026-08-09T02:03:27"
+  },
+  {
+    "file_name": "HPN-sgyXAAAB0ip.jpg",
+    "user": {
+      "screen_name": "yyycc_c",
+      "name": "C"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPN-sgyXAAAB0ip.jpg",
+    "read_time": "2026-08-09T03:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32809,
+      "timestamp": "2026-08-09T03:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 154141,
+      "size_mb": 0.15,
+      "timestamp": "2026-08-09T03:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "💪 https://t.co/5w6Rz9ZBh4",
+    "publish_time": "2026-08-09T02:03:27"
+  },
+  {
+    "file_name": "HPODI14bcAABibO.jpg",
+    "user": {
+      "screen_name": "xiao57520",
+      "name": "翱哥备用机"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPODI14bcAABibO.jpg",
+    "read_time": "2026-08-09T03:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32810,
+      "timestamp": "2026-08-09T03:01:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 392557,
+      "size_mb": 0.37,
+      "timestamp": "2026-08-09T03:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "☀️ https://t.co/IOIcirBLL0",
+    "publish_time": "2026-08-09T02:19:06"
+  },
+  {
+    "file_name": "HPODMcya0AAYzz_.jpg",
+    "user": {
+      "screen_name": "EthanXPC",
+      "name": "Ethan小趴菜（想谈恋爱版）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPODMcya0AAYzz_.jpg",
+    "read_time": "2026-08-09T03:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32811,
+      "timestamp": "2026-08-09T03:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 121372,
+      "size_mb": 0.12,
+      "timestamp": "2026-08-09T03:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/YUAoBH9NKr",
+    "publish_time": "2026-08-09T02:19:19"
+  },
+  {
+    "file_name": "VfDWFKdKUDt5HpPe.mp4",
+    "user": {
+      "screen_name": "BRMIKS",
+      "name": "布莱麦克斯"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2086158441664729088/vid/avc1/720x1280/VfDWFKdKUDt5HpPe.mp4?tag=29",
+    "read_time": "2026-08-09T03:01:26",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32812,
+      "timestamp": "2026-08-09T03:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 596430,
+      "size_mb": 0.57,
+      "timestamp": "2026-08-09T03:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "做梦素材(高清版)：顶流欧巴送给大家的粉色天鹅 让你们爽一下 封神之作回顾 https://t.co/jVQxiciPSj",
+    "publish_time": "2026-08-09T02:32:14"
   }
 ]
