@@ -1656,14 +1656,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (92MB > 50MB)",
       "timestamp": "2026-08-09T17:01:11",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 96698322,
       "size_mb": 92.22,
-      "timestamp": "2026-08-09T17:01:11",
+      "timestamp": "2026-08-09T18:01:29",
       "download_attempts": 0
     },
     "full_text": "https://t.co/8JqonDUGEq",
@@ -1684,14 +1684,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (61MB > 50MB)",
       "timestamp": "2026-08-09T17:01:11",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 64420644,
       "size_mb": 61.44,
-      "timestamp": "2026-08-09T17:01:11",
+      "timestamp": "2026-08-09T18:01:34",
       "download_attempts": 0
     },
     "full_text": "https://t.co/ElpTOKMCNV",
@@ -1826,5 +1826,241 @@
     },
     "full_text": "蕾丝就是很瑟瑟 #内裤控 https://t.co/Rhg59IXgQu",
     "publish_time": "2026-08-09T16:57:08"
+  },
+  {
+    "file_name": "2zxP17htkAqdh2z_.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1957465447756152832/vid/avc1/1080x1920/2zxP17htkAqdh2z_.mp4?tag=21",
+    "read_time": "2026-08-09T18:01:28",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (155MB > 50MB)",
+      "timestamp": "2026-08-09T18:01:48",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 163556321,
+      "size_mb": 155.98,
+      "timestamp": "2026-08-09T18:01:48",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/spuyFHdYAt",
+    "publish_time": "2026-08-09T17:06:54"
+  },
+  {
+    "file_name": "2rOg64oH9rdPkGFh.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2082150533578776576/vid/avc1/376x668/2rOg64oH9rdPkGFh.mp4?tag=14",
+    "read_time": "2026-08-09T18:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32862,
+      "timestamp": "2026-08-09T18:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 6083070,
+      "size_mb": 5.8,
+      "timestamp": "2026-08-09T18:01:49",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/yRPJsACNZ8",
+    "publish_time": "2026-08-09T17:13:35"
+  },
+  {
+    "file_name": "ZTFRZ4KLJY3aLpp9.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2081991464834551808/vid/avc1/1072x1920/ZTFRZ4KLJY3aLpp9.mp4?tag=29",
+    "read_time": "2026-08-09T18:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32863,
+      "timestamp": "2026-08-09T18:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 49196295,
+      "size_mb": 46.92,
+      "timestamp": "2026-08-09T18:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4JtBkODPDU",
+    "publish_time": "2026-08-09T17:13:55"
+  },
+  {
+    "file_name": "HPRQa2Va4AELGgY.jpg",
+    "user": {
+      "screen_name": "LiugangLogan",
+      "name": "刘刚Logan"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPRQa2Va4AELGgY.jpg",
+    "read_time": "2026-08-09T18:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32864,
+      "timestamp": "2026-08-09T18:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 231663,
+      "size_mb": 0.22,
+      "timestamp": "2026-08-09T18:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "泡泡 https://t.co/Y8VpHW93nl",
+    "publish_time": "2026-08-09T17:15:58"
+  },
+  {
+    "file_name": "YHKyTqG1N-QqKx1V.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2086382836559536129/vid/avc1/720x1252/YHKyTqG1N-QqKx1V.mp4?tag=29",
+    "read_time": "2026-08-09T18:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32865,
+      "timestamp": "2026-08-09T18:02:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5851907,
+      "size_mb": 5.58,
+      "timestamp": "2026-08-09T18:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "为了回馈广大粉丝对我的支持！今天进我福利群🌹的将不收取任何费用，对我的粉丝们限时无门槛📷进入，可观看所有视频和写真！\n 唯一通道：https://t.co/TtGftYuj4v\n暗号：WU https://t.co/cdwigt8Ozv",
+    "publish_time": "2026-08-09T17:25:02"
+  },
+  {
+    "file_name": "u5ePgWCt8C0MD6Qa.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2084675387079168000/vid/avc1/360x640/u5ePgWCt8C0MD6Qa.mp4?tag=29",
+    "read_time": "2026-08-09T18:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32866,
+      "timestamp": "2026-08-09T18:02:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 12494551,
+      "size_mb": 11.92,
+      "timestamp": "2026-08-09T18:02:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/2o0GV3LjjX",
+    "publish_time": "2026-08-09T17:42:14"
+  },
+  {
+    "file_name": "8SOR74iEa01DIV7G.mp4",
+    "user": {
+      "screen_name": "hhh752093296",
+      "name": "大力宝宝"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2086388176202207233/vid/avc1/572x1280/8SOR74iEa01DIV7G.mp4?tag=29",
+    "read_time": "2026-08-09T18:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32867,
+      "timestamp": "2026-08-09T18:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1423497,
+      "size_mb": 1.36,
+      "timestamp": "2026-08-09T18:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "别碰那里… https://t.co/ut7hHGsT6F",
+    "publish_time": "2026-08-09T17:44:51"
+  },
+  {
+    "file_name": "vXeHlIeAGbY5_jdS.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2028480347756015616/vid/avc1/720x1280/vXeHlIeAGbY5_jdS.mp4?tag=14",
+    "read_time": "2026-08-09T18:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32868,
+      "timestamp": "2026-08-09T18:02:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 24107719,
+      "size_mb": 22.99,
+      "timestamp": "2026-08-09T18:02:12",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/TY9I6poDhZ",
+    "publish_time": "2026-08-09T17:49:55"
+  },
+  {
+    "file_name": "fGPdWT_8hhc0NxCV.mp4",
+    "user": {
+      "screen_name": "neon385908",
+      "name": "ne on"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2086391063825231872/vid/avc1/720x1280/fGPdWT_8hhc0NxCV.mp4?tag=29",
+    "read_time": "2026-08-09T18:01:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32869,
+      "timestamp": "2026-08-09T18:02:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1137610,
+      "size_mb": 1.08,
+      "timestamp": "2026-08-09T18:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "大家心心念念的私密空间，今天决定大放水！不用付费，不用绕路，只要今天进群，所有视频完整版合集，全部无门槛免费开启。\n• 📡 神秘入口：https://t.co/CYvJFL7IiQ\n• 💬 进群暗号： NN\n名额有限，满员即刻关门。有些精彩，只在群里见哦～ https://t.co/ZRcn2iqot8",
+    "publish_time": "2026-08-09T17:56:17"
   }
 ]
