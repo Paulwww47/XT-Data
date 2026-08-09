@@ -765,5 +765,35 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2086344346622902656",
     "fullText": "marktyy95 https://t.co/7RSf1Lculw",
     "publishTime": "2026-08-09T14:50:29"
+  },
+  {
+    "user": {
+      "screenName": "lancelin1120",
+      "name": "lancelin"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPQyavLbkAAieq_.jpg",
+      "https://pbs.twimg.com/media/HPQyavMbgAAdti-.jpg",
+      "https://pbs.twimg.com/media/HPQyauwbcAAKiKs.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/lancelin1120/status/2086347975534756298",
+    "fullText": "在练 https://t.co/cd2QheofPo",
+    "publishTime": "2026-08-09T15:04:54"
+  },
+  {
+    "user": {
+      "screenName": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPQ-zyNbUAAAbLk.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/markma58304799/status/2086361600072810641",
+    "fullText": "今天练手臂！ https://t.co/AqMsCQC60Q",
+    "publishTime": "2026-08-09T15:59:02"
   }
 ]
