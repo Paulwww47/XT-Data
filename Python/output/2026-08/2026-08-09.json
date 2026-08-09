@@ -1842,14 +1842,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (155MB > 50MB)",
       "timestamp": "2026-08-09T18:01:48",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 163556321,
       "size_mb": 155.98,
-      "timestamp": "2026-08-09T18:01:48",
+      "timestamp": "2026-08-09T19:01:17",
       "download_attempts": 0
     },
     "full_text": "https://t.co/spuyFHdYAt",
@@ -2062,5 +2062,241 @@
     },
     "full_text": "大家心心念念的私密空间，今天决定大放水！不用付费，不用绕路，只要今天进群，所有视频完整版合集，全部无门槛免费开启。\n• 📡 神秘入口：https://t.co/CYvJFL7IiQ\n• 💬 进群暗号： NN\n名额有限，满员即刻关门。有些精彩，只在群里见哦～ https://t.co/ZRcn2iqot8",
     "publish_time": "2026-08-09T17:56:17"
+  },
+  {
+    "file_name": "ub_342Jjj1TDqAmf.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2086368159129612288/vid/avc1/720x1280/ub_342Jjj1TDqAmf.mp4?tag=14",
+    "read_time": "2026-08-09T19:01:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (115MB > 50MB)",
+      "timestamp": "2026-08-09T19:01:18",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 121121241,
+      "size_mb": 115.51,
+      "timestamp": "2026-08-09T19:01:18",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/EeGLxeCZnI",
+    "publish_time": "2026-08-09T18:01:17"
+  },
+  {
+    "file_name": "HPRckjDaQAAanBJ.jpg",
+    "user": {
+      "screen_name": "youshu29016120",
+      "name": "youshu"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPRckjDaQAAanBJ.jpg",
+    "read_time": "2026-08-09T19:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32870,
+      "timestamp": "2026-08-09T19:01:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 117527,
+      "size_mb": 0.11,
+      "timestamp": "2026-08-09T19:01:18",
+      "download_attempts": 0
+    },
+    "full_text": "就一普通男大 https://t.co/eEXt6TMWTJ",
+    "publish_time": "2026-08-09T18:09:36"
+  },
+  {
+    "file_name": "HPRckjJaYAAMmES.jpg",
+    "user": {
+      "screen_name": "youshu29016120",
+      "name": "youshu"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPRckjJaYAAMmES.jpg",
+    "read_time": "2026-08-09T19:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32871,
+      "timestamp": "2026-08-09T19:01:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 112086,
+      "size_mb": 0.11,
+      "timestamp": "2026-08-09T19:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "就一普通男大 https://t.co/eEXt6TMWTJ",
+    "publish_time": "2026-08-09T18:09:36"
+  },
+  {
+    "file_name": "rvtpCVAGWuqI7Fd4.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2081217297667219456/vid/avc1/720x1280/rvtpCVAGWuqI7Fd4.mp4?tag=29",
+    "read_time": "2026-08-09T19:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32872,
+      "timestamp": "2026-08-09T19:01:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5940620,
+      "size_mb": 5.67,
+      "timestamp": "2026-08-09T19:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/rxy9DjGFwh",
+    "publish_time": "2026-08-09T18:12:37"
+  },
+  {
+    "file_name": "uZLeqNmjoZeMFCg7.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2086398655737864192/vid/avc1/1280x720/uZLeqNmjoZeMFCg7.mp4?tag=29",
+    "read_time": "2026-08-09T19:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32873,
+      "timestamp": "2026-08-09T19:01:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 259801,
+      "size_mb": 0.25,
+      "timestamp": "2026-08-09T19:01:26",
+      "download_attempts": 0
+    },
+    "full_text": "玩一下 感觉很充血 https://t.co/bsWExXZz72",
+    "publish_time": "2026-08-09T18:26:37"
+  },
+  {
+    "file_name": "AXmv2zudDvfWQW8H.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2086398672850571265/vid/avc1/1280x720/AXmv2zudDvfWQW8H.mp4?tag=29",
+    "read_time": "2026-08-09T19:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32874,
+      "timestamp": "2026-08-09T19:01:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 373759,
+      "size_mb": 0.36,
+      "timestamp": "2026-08-09T19:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "玩一下 感觉很充血 https://t.co/bsWExXZz72",
+    "publish_time": "2026-08-09T18:26:37"
+  },
+  {
+    "file_name": "XlDKD5jrC1DO5l7L.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2086398697697632256/vid/avc1/1280x720/XlDKD5jrC1DO5l7L.mp4?tag=29",
+    "read_time": "2026-08-09T19:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32875,
+      "timestamp": "2026-08-09T19:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 287762,
+      "size_mb": 0.27,
+      "timestamp": "2026-08-09T19:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "玩一下 感觉很充血 https://t.co/bsWExXZz72",
+    "publish_time": "2026-08-09T18:26:37"
+  },
+  {
+    "file_name": "0HIHWqXa2krgI4Dt.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2086398722070749184/vid/avc1/1280x720/0HIHWqXa2krgI4Dt.mp4?tag=29",
+    "read_time": "2026-08-09T19:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32876,
+      "timestamp": "2026-08-09T19:01:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 300199,
+      "size_mb": 0.29,
+      "timestamp": "2026-08-09T19:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "玩一下 感觉很充血 https://t.co/bsWExXZz72",
+    "publish_time": "2026-08-09T18:26:37"
+  },
+  {
+    "file_name": "2GrnUCUX1ijBvU2B.mp4",
+    "user": {
+      "screen_name": "shakeitbabee",
+      "name": "花事了"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2086403185015656448/vid/avc1/720x1280/2GrnUCUX1ijBvU2B.mp4?tag=29",
+    "read_time": "2026-08-09T19:01:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 32877,
+      "timestamp": "2026-08-09T19:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1780997,
+      "size_mb": 1.7,
+      "timestamp": "2026-08-09T19:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "周末这两天大太阳\n把颜色都补回来了 https://t.co/8hiIMgwvPO",
+    "publish_time": "2026-08-09T18:44:28"
   }
 ]
