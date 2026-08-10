@@ -222,14 +222,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (62MB > 50MB)",
       "timestamp": "2026-08-11T02:03:12",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 65089171,
       "size_mb": 62.07,
-      "timestamp": "2026-08-11T02:03:12",
+      "timestamp": "2026-08-11T03:01:48",
       "download_attempts": 0
     },
     "full_text": "谁想在下面？ https://t.co/I9zvMkUYTJ",
