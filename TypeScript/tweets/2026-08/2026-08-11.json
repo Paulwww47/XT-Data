@@ -150,5 +150,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2086917532427190422",
     "fullText": "https://t.co/13cQjfyT8l",
     "publishTime": "2026-08-11T04:48:07"
+  },
+  {
+    "user": {
+      "screenName": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HPY_ypBa4AAKTNt.mp4"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/RYANMUYU/status/2086925652394156338",
+    "fullText": "https://t.co/s34OCmEtWo",
+    "publishTime": "2026-08-11T05:20:23"
+  },
+  {
+    "user": {
+      "screenName": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPY_5OxaIAA6oKt.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/RYANMUYU/status/2086925739547611630",
+    "fullText": "https://t.co/lgFLfACBgo",
+    "publishTime": "2026-08-11T05:20:44"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HPZBrAKbAAAJ-ZX.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2086927690062569474",
+    "fullText": "https://t.co/RXxvollrwy",
+    "publishTime": "2026-08-11T05:28:29"
   }
 ]
