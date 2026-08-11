@@ -362,5 +362,57 @@
     },
     "full_text": "睡不着 抽一个 https://t.co/xnkI5BoDZG",
     "publish_time": "2026-08-12T02:00:57"
+  },
+  {
+    "file_name": "D6_SND2Bh81Q-ph4.mp4",
+    "user": {
+      "screen_name": "haoyun9988",
+      "name": "上海原(天蝎)"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2087244635412496384/vid/avc1/720x1280/D6_SND2Bh81Q-ph4.mp4?tag=29",
+    "read_time": "2026-08-12T03:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33175,
+      "timestamp": "2026-08-12T03:02:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1793854,
+      "size_mb": 1.71,
+      "timestamp": "2026-08-12T03:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "正装\n最近杭州。深圳广州 成都北京 https://t.co/LS4x8MqMOz",
+    "publish_time": "2026-08-12T02:28:13"
+  },
+  {
+    "file_name": "HPdmFjpb0AAVGJc.jpg",
+    "user": {
+      "screen_name": "gugude123",
+      "name": "咕咕"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPdmFjpb0AAVGJc.jpg",
+    "read_time": "2026-08-12T03:02:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33176,
+      "timestamp": "2026-08-12T03:02:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 77046,
+      "size_mb": 0.07,
+      "timestamp": "2026-08-12T03:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "迟到的抽奖，已经私信发送给关注加转发的宝子了，请大家看看私信哦，可能被当垃圾了。 https://t.co/HKPUvsG8zq",
+    "publish_time": "2026-08-12T02:46:11"
   }
 ]
