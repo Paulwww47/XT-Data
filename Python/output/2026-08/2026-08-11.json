@@ -3214,14 +3214,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (51MB > 50MB)",
       "timestamp": "2026-08-12T00:02:08",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 54045398,
       "size_mb": 51.54,
-      "timestamp": "2026-08-12T00:02:08",
+      "timestamp": "2026-08-12T01:01:51",
       "download_attempts": 0
     },
     "full_text": "https://t.co/Dl0FBqnime",
@@ -3398,14 +3398,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (216MB > 50MB)",
       "timestamp": "2026-08-12T00:02:33",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 227024056,
       "size_mb": 216.51,
-      "timestamp": "2026-08-12T00:02:33",
+      "timestamp": "2026-08-12T01:01:53",
       "download_attempts": 0
     },
     "full_text": "https://t.co/WIRrNmBx1q",
@@ -3426,14 +3426,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (754MB > 50MB)",
       "timestamp": "2026-08-12T00:02:46",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 790969785,
       "size_mb": 754.33,
-      "timestamp": "2026-08-12T00:02:46",
+      "timestamp": "2026-08-12T01:01:57",
       "download_attempts": 0
     },
     "full_text": "https://t.co/NXWaDtQIcb",
