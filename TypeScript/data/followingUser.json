@@ -636,9 +636,22 @@
       "name": "葛生",
       "screenName": "asuitedguy8989",
       "createdAt": "Thu Dec 24 12:44:34 +0000 2020",
-      "description": "踩在男人脚下仰视，变态欲望在这。喜粗口骂骚逼。接寄拍 约拍 玩具测评 品牌可联系",
+      "description": "踩在男人脚下仰视，变态欲望在这，探索性癖。也喜粗口骂骚逼。接寄拍 约拍 玩具测评 ，联系加纸飞机 带照打招呼👇",
       "entities": {
-        "description": {}
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/hotmandarintea…",
+              "expanded_url": "https://t.me/hotmandarinteacher",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/93GZfgc4uV"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1342088728043376640/1760076208",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1976528937892360192/La3y0Fj0_normal.jpg"
@@ -2423,7 +2436,7 @@
       "name": "黑皮阿黎",
       "screenName": "Happyali0809",
       "createdAt": "Wed Apr 08 09:05:14 +0000 2026",
-      "description": "🚪128 加🛰️发口令\n抖音and小红书➡️黑皮阿黎 \n荤水版➡️@Happyali01 \n订阅➡️ https://t.co/QOYHPeka0o\n电报群➡️https://t.co/oyYqr8aDft",
+      "description": "🚪128 加🛰️发口令\n抖音and小红书➡️黑皮阿黎 \n荤水版➡️@Happyali01 \n订阅➡️ https://t.co/QOYHPeka0o",
       "entities": {
         "description": {
           "urls": [
@@ -2435,13 +2448,17 @@
                 74
               ],
               "url": "https://t.co/QOYHPeka0o"
-            },
+            }
+          ]
+        },
+        "url": {
+          "urls": [
             {
               "display_url": "t.me/+kLUN6MCFuHVhY…",
               "expanded_url": "https://t.me/+kLUN6MCFuHVhYzJh",
               "indices": [
-                80,
-                103
+                0,
+                23
               ],
               "url": "https://t.co/oyYqr8aDft"
             }
@@ -4190,6 +4207,32 @@
     }
   },
   {
+    "restId": "1547982926",
+    "legacy": {
+      "name": "直男女记者77",
+      "screenName": "Mateusdiasotoni",
+      "createdAt": "Wed Jun 26 11:31:57 +0000 2013",
+      "description": "77是一个原创直男女记者，作品目录群https://t.co/VzhWE4Cs9M\n电报完整版群188，不帮钓，喜欢原创一手资源关注电报群",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "t.me/qqqaxchbcxxvnjj",
+              "expanded_url": "https://t.me/qqqaxchbcxxvnjj",
+              "indices": [
+                18,
+                41
+              ],
+              "url": "https://t.co/VzhWE4Cs9M"
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2069829485273272320/W8VbPr6z_normal.jpg"
+    }
+  },
+  {
     "restId": "860593362134609920",
     "legacy": {
       "name": "Max",
@@ -5862,7 +5905,7 @@
       "name": "snkrss",
       "screenName": "snkrss01",
       "createdAt": "Thu Sep 19 06:13:29 +0000 2024",
-      "description": "东北人 全能薄肌 💪 贪财好色🧧",
+      "description": "东北薄肌 全能💪 贪财好色🧧",
       "entities": {
         "description": {}
       },
