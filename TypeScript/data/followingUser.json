@@ -583,20 +583,7 @@
       "createdAt": "Sun Jul 26 13:02:16 +0000 2015",
       "description": "ชอบใส่ชุดออฟฟิศ || แอคนี้ 18+ ไม่ต้องฟอลกลับก็ได้ || ไม่นัด ไม่คอลแลบ ไม่รับงานทุกกรณี ไม่เล่นแอปหาคู่ ไม่มีแอคจีน || มีแฟนแล้วครับ @PureParattakorn 🥰❤️✨✨",
       "entities": {
-        "description": {},
-        "url": {
-          "urls": [
-            {
-              "display_url": "t.me/arthur_pmt_bot",
-              "expanded_url": "http://t.me/arthur_pmt_bot",
-              "indices": [
-                0,
-                23
-              ],
-              "url": "https://t.co/Ub7ojxYCNc"
-            }
-          ]
-        }
+        "description": {}
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3295129758/1753539462",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2087383111676108801/sku43haa_normal.jpg"
@@ -2436,7 +2423,7 @@
       "name": "黑皮阿黎",
       "screenName": "Happyali0809",
       "createdAt": "Wed Apr 08 09:05:14 +0000 2026",
-      "description": "🚪128 加🛰️发口令\n抖音and小红书➡️黑皮阿黎 \n荤水版➡️@Happyali01 \n订阅➡️ https://t.co/QOYHPeka0o",
+      "description": "🚪128 加🛰️发口令\n抖音and小红书➡️黑皮阿黎 \n荤水版➡️@Happyali03\n订阅➡️ https://t.co/QOYHPeka0o",
       "entities": {
         "description": {
           "urls": [
@@ -2444,8 +2431,8 @@
               "display_url": "fansone.co/Happali8090",
               "expanded_url": "https://fansone.co/Happali8090",
               "indices": [
-                51,
-                74
+                50,
+                73
               ],
               "url": "https://t.co/QOYHPeka0o"
             }
@@ -2811,6 +2798,20 @@
       },
       "profileBannerUrl": "",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1948286888634146819/XWx4u3GE_normal.jpg"
+    }
+  },
+  {
+    "restId": "1219321970908635136",
+    "legacy": {
+      "name": "Un 🇹🇼",
+      "screenName": "HyHowie",
+      "createdAt": "Mon Jan 20 18:13:19 +0000 2020",
+      "description": "不是网黄",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1219321970908635136/1744532345",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1911333493637861376/jCqbTMKX_normal.jpg"
     }
   },
   {
@@ -3941,7 +3942,7 @@
       "name": "老王在深圳💪🏻",
       "screenName": "lllllljs11270",
       "createdAt": "Tue Oct 24 08:46:14 +0000 2023",
-      "description": "深圳南山｜spa500｜❤️ wz993990000  备: X   🚪99 #闲人会清理 #出差备用",
+      "description": "深圳南山｜spa500｜❤️ wz993990000  备: X   #闲人会清理 #出差备用  🚪99",
       "entities": {
         "description": {}
       },
