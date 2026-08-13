@@ -612,14 +612,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (557MB > 50MB)",
       "timestamp": "2026-08-14T00:03:13",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 584773060,
       "size_mb": 557.68,
-      "timestamp": "2026-08-14T00:03:13",
+      "timestamp": "2026-08-14T01:02:14",
       "download_attempts": 0
     },
     "full_text": "https://t.co/fbLDy3pTQm",
@@ -640,14 +640,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (575MB > 50MB)",
       "timestamp": "2026-08-14T00:03:23",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 603593215,
       "size_mb": 575.63,
-      "timestamp": "2026-08-14T00:03:23",
+      "timestamp": "2026-08-14T01:02:16",
       "download_attempts": 0
     },
     "full_text": "https://t.co/a9RXr3C8wh",
@@ -3246,14 +3246,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (52MB > 50MB)",
       "timestamp": "2026-08-14T00:03:48",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 55096663,
       "size_mb": 52.54,
-      "timestamp": "2026-08-14T00:03:48",
+      "timestamp": "2026-08-14T01:02:16",
       "download_attempts": 0
     },
     "full_text": "https://t.co/MyhIOh3nvo",
@@ -3274,14 +3274,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (223MB > 50MB)",
       "timestamp": "2026-08-14T00:03:50",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 234421702,
       "size_mb": 223.56,
-      "timestamp": "2026-08-14T00:03:50",
+      "timestamp": "2026-08-14T01:02:17",
       "download_attempts": 0
     },
     "full_text": "https://t.co/W7KmcvX3iI",
