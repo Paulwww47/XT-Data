@@ -508,14 +508,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (55MB > 50MB)",
       "timestamp": "2026-08-14T04:01:57",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 57786915,
       "size_mb": 55.11,
-      "timestamp": "2026-08-14T04:01:57",
+      "timestamp": "2026-08-14T05:01:57",
       "download_attempts": 0
     },
     "full_text": "https://t.co/y6Xk9BLSMx",
@@ -572,5 +572,31 @@
     },
     "full_text": "岁月不及念，一晃又一秋，有人再见，有人再也不见，这世间总是事事值得，事事也遗憾，一辈子很短，短到来不及细算，蓦然回首，风景依然在，人已非少年。 https://t.co/8s4mwygt4o",
     "publish_time": "2026-08-14T04:00:01"
+  },
+  {
+    "file_name": "HPoX0LsbwAAOwIj.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPoX0LsbwAAOwIj.jpg",
+    "read_time": "2026-08-14T05:01:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33426,
+      "timestamp": "2026-08-14T05:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 141010,
+      "size_mb": 0.13,
+      "timestamp": "2026-08-14T05:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/pvDeyjZhfp",
+    "publish_time": "2026-08-14T04:59:32"
   }
 ]
