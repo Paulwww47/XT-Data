@@ -1184,17 +1184,251 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (53MB > 50MB)",
       "timestamp": "2026-08-13T15:02:23",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 55906947,
       "size_mb": 53.32,
-      "timestamp": "2026-08-13T15:02:23",
+      "timestamp": "2026-08-13T16:02:10",
       "download_attempts": 0
     },
     "full_text": "https://t.co/7xlbHZJ0kf",
     "publish_time": "2026-08-13T14:59:29"
+  },
+  {
+    "file_name": "HPlX5-3boAACxnM.jpg",
+    "user": {
+      "screen_name": "chen986903",
+      "name": "chen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPlX5-3boAACxnM.jpg",
+    "read_time": "2026-08-13T16:02:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33325,
+      "timestamp": "2026-08-13T16:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 93880,
+      "size_mb": 0.09,
+      "timestamp": "2026-08-13T16:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "别让我哭 #薄肌 #蒙面 #s https://t.co/ZbeS5LVGWY",
+    "publish_time": "2026-08-13T15:01:06"
+  },
+  {
+    "file_name": "HPlX59xasAAUoVh.jpg",
+    "user": {
+      "screen_name": "chen986903",
+      "name": "chen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPlX59xasAAUoVh.jpg",
+    "read_time": "2026-08-13T16:02:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33326,
+      "timestamp": "2026-08-13T16:02:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 89738,
+      "size_mb": 0.09,
+      "timestamp": "2026-08-13T16:02:12",
+      "download_attempts": 0
+    },
+    "full_text": "别让我哭 #薄肌 #蒙面 #s https://t.co/ZbeS5LVGWY",
+    "publish_time": "2026-08-13T15:01:06"
+  },
+  {
+    "file_name": "HPlZETeaMAAgbHN.jpg",
+    "user": {
+      "screen_name": "SahuanerdeDD",
+      "name": "酷酷的丁"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPlZETeaMAAgbHN.jpg",
+    "read_time": "2026-08-13T16:02:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33327,
+      "timestamp": "2026-08-13T16:02:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 129207,
+      "size_mb": 0.12,
+      "timestamp": "2026-08-13T16:02:13",
+      "download_attempts": 0
+    },
+    "full_text": "来洗澡 https://t.co/r5H0Mr31sl",
+    "publish_time": "2026-08-13T15:06:09"
+  },
+  {
+    "file_name": "HPlZVZCbUAAFYgu.jpg",
+    "user": {
+      "screen_name": "JamesShihShih",
+      "name": "JamesShih"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPlZVZCbUAAFYgu.jpg",
+    "read_time": "2026-08-13T16:02:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33328,
+      "timestamp": "2026-08-13T16:02:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 80051,
+      "size_mb": 0.08,
+      "timestamp": "2026-08-13T16:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/6hPk3iHgWU",
+    "publish_time": "2026-08-13T15:07:20"
+  },
+  {
+    "file_name": "oF4QQ-D3THe0sZS_.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2087805547420782592/vid/avc1/720x1132/oF4QQ-D3THe0sZS_.mp4?tag=29",
+    "read_time": "2026-08-13T16:02:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33329,
+      "timestamp": "2026-08-13T16:02:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1479118,
+      "size_mb": 1.41,
+      "timestamp": "2026-08-13T16:02:17",
+      "download_attempts": 0
+    },
+    "full_text": "X上懒得更新!!!!! 以后所有完整版这里日更欢迎来到我的私人空间——今天开通电报，可观看📷我的所有视频和写真 。（今日无需任何门槛粉丝福利) 电报私信我 https://t.co/mPOID2AcC5\n暗号： 肌肉教练\n不回复X推特私信  一切问题电报放胆私信我!!!!!! https://t.co/A4zB3nyC54",
+    "publish_time": "2026-08-13T15:37:21"
+  },
+  {
+    "file_name": "RBnZ7jMPTgrs4kh9.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2087805547404042240/vid/avc1/1280x720/RBnZ7jMPTgrs4kh9.mp4?tag=29",
+    "read_time": "2026-08-13T16:02:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33330,
+      "timestamp": "2026-08-13T16:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2783208,
+      "size_mb": 2.65,
+      "timestamp": "2026-08-13T16:02:20",
+      "download_attempts": 0
+    },
+    "full_text": "X上懒得更新!!!!! 以后所有完整版这里日更欢迎来到我的私人空间——今天开通电报，可观看📷我的所有视频和写真 。（今日无需任何门槛粉丝福利) 电报私信我 https://t.co/mPOID2AcC5\n暗号： 肌肉教练\n不回复X推特私信  一切问题电报放胆私信我!!!!!! https://t.co/A4zB3nyC54",
+    "publish_time": "2026-08-13T15:37:21"
+  },
+  {
+    "file_name": "5Y83FXy4vJMEHjEe.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2087805547546570752/vid/avc1/720x1280/5Y83FXy4vJMEHjEe.mp4?tag=29",
+    "read_time": "2026-08-13T16:02:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33331,
+      "timestamp": "2026-08-13T16:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1733872,
+      "size_mb": 1.65,
+      "timestamp": "2026-08-13T16:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "X上懒得更新!!!!! 以后所有完整版这里日更欢迎来到我的私人空间——今天开通电报，可观看📷我的所有视频和写真 。（今日无需任何门槛粉丝福利) 电报私信我 https://t.co/mPOID2AcC5\n暗号： 肌肉教练\n不回复X推特私信  一切问题电报放胆私信我!!!!!! https://t.co/A4zB3nyC54",
+    "publish_time": "2026-08-13T15:37:21"
+  },
+  {
+    "file_name": "wDf5rzCYOb8UA66J.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2087805547550736384/vid/avc1/1038x720/wDf5rzCYOb8UA66J.mp4?tag=29",
+    "read_time": "2026-08-13T16:02:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33332,
+      "timestamp": "2026-08-13T16:02:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 453981,
+      "size_mb": 0.43,
+      "timestamp": "2026-08-13T16:02:25",
+      "download_attempts": 0
+    },
+    "full_text": "X上懒得更新!!!!! 以后所有完整版这里日更欢迎来到我的私人空间——今天开通电报，可观看📷我的所有视频和写真 。（今日无需任何门槛粉丝福利) 电报私信我 https://t.co/mPOID2AcC5\n暗号： 肌肉教练\n不回复X推特私信  一切问题电报放胆私信我!!!!!! https://t.co/A4zB3nyC54",
+    "publish_time": "2026-08-13T15:37:21"
+  },
+  {
+    "file_name": "HPlkVDiaQAEUVuk.jpg",
+    "user": {
+      "screen_name": "Leon_pan999",
+      "name": "Leon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPlkVDiaQAEUVuk.jpg",
+    "read_time": "2026-08-13T16:02:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33333,
+      "timestamp": "2026-08-13T16:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 161214,
+      "size_mb": 0.15,
+      "timestamp": "2026-08-13T16:02:26",
+      "download_attempts": 0
+    },
+    "full_text": "😈👻 https://t.co/mpfTLbiaWV",
+    "publish_time": "2026-08-13T15:55:21"
   }
 ]
