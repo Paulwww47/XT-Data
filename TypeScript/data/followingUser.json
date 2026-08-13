@@ -2919,7 +2919,20 @@
       "createdAt": "Thu Jan 29 01:12:49 +0000 2026",
       "description": "推止于推/186.80.44/其他的号是假的注意别被骗💰",
       "entities": {
-        "description": {}
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "bsky.app/profile/icemei…",
+              "expanded_url": "https://bsky.app/profile/icemeishi411.bsky.social",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/MuTZZN9dqq"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2016680830710796290/1785695463",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2087020568126312448/lPbDxraA_normal.jpg"
@@ -3014,7 +3027,7 @@
       "name": "你的健健",
       "screenName": "Jacobczj17",
       "createdAt": "Tue Jun 04 07:16:00 +0000 2019",
-      "description": "深圳 🔞 💪拉伸 🛰️🚪（pyq 🈶fu利）\nbro：@Jacobfz4sd",
+      "description": "深圳 🔞 💪拉伸 🛰️🚪\nbro：@Jacobfz4sd",
       "entities": {
         "description": {}
       },
