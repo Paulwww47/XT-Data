@@ -156,6 +156,32 @@
     "publish_time": "2026-08-13T01:59:20"
   },
   {
+    "file_name": "tIILJRrd_o78xCT9.mp4",
+    "user": {
+      "screen_name": "azzd553",
+      "name": "Muscle guy"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2087606376906539008/vid/avc1/720x1280/tIILJRrd_o78xCT9.mp4?tag=29",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33386,
+      "timestamp": "2026-08-14T00:03:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1596306,
+      "size_mb": 1.52,
+      "timestamp": "2026-08-14T00:03:00",
+      "download_attempts": 0
+    },
+    "full_text": "电报里有完整 https://t.co/wvoZaiMZYy",
+    "publish_time": "2026-08-13T02:25:38"
+  },
+  {
     "file_name": "0eIUzAjwxYfbEiPK.mp4",
     "user": {
       "screen_name": "kkttfzp",
@@ -544,6 +570,114 @@
     },
     "full_text": "好涩 https://t.co/KMIcklrzFn",
     "publish_time": "2026-08-13T08:45:22"
+  },
+  {
+    "file_name": "6aCWNDP_wcHJMaLj.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2084186197170237440/vid/avc1/720x1280/6aCWNDP_wcHJMaLj.mp4?tag=29",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33387,
+      "timestamp": "2026-08-14T00:03:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 41129412,
+      "size_mb": 39.22,
+      "timestamp": "2026-08-14T00:03:04",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/EEG55Tzlfp",
+    "publish_time": "2026-08-13T09:33:59"
+  },
+  {
+    "file_name": "-rUEN-osJ_JoY40V.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2087534565829275648/vid/avc1/1080x1920/-rUEN-osJ_JoY40V.mp4?tag=29",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (557MB > 50MB)",
+      "timestamp": "2026-08-14T00:03:13",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 584773060,
+      "size_mb": 557.68,
+      "timestamp": "2026-08-14T00:03:13",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/fbLDy3pTQm",
+    "publish_time": "2026-08-13T09:37:18"
+  },
+  {
+    "file_name": "PJenTqhYsY8KQdCG.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2087261142653734912/vid/avc1/1080x1920/PJenTqhYsY8KQdCG.mp4?tag=29",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (575MB > 50MB)",
+      "timestamp": "2026-08-14T00:03:23",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 603593215,
+      "size_mb": 575.63,
+      "timestamp": "2026-08-14T00:03:23",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/a9RXr3C8wh",
+    "publish_time": "2026-08-13T09:51:15"
+  },
+  {
+    "file_name": "DBRUMkw136QR7zWE.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1933810043662811136/vid/avc1/1280x720/DBRUMkw136QR7zWE.mp4?tag=14",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33388,
+      "timestamp": "2026-08-14T00:03:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 12138219,
+      "size_mb": 11.58,
+      "timestamp": "2026-08-14T00:03:23",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/epQNk13ttM",
+    "publish_time": "2026-08-13T09:52:04"
   },
   {
     "file_name": "HPkSpadbkAAH2Uu.jpg",
@@ -1066,6 +1200,32 @@
     "publish_time": "2026-08-13T12:29:57"
   },
   {
+    "file_name": "y_IS22VL_5tWoUL6.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2087773165472894976/vid/avc1/720x1280/y_IS22VL_5tWoUL6.mp4?tag=29",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33389,
+      "timestamp": "2026-08-14T00:03:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 12863456,
+      "size_mb": 12.27,
+      "timestamp": "2026-08-14T00:03:26",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4gvMxjaq3y",
+    "publish_time": "2026-08-13T13:28:18"
+  },
+  {
     "file_name": "HPlD5pFaUAAhMyY.jpg",
     "user": {
       "screen_name": "hhouston850",
@@ -1168,6 +1328,58 @@
     },
     "full_text": "#镶金边的粗腿爸爸 \n不要上赶着去给臭直男送钱，好不好？ \n13s的鸡巴视频门槛128 \n是跟直男本人买片子比较有幸福感吗？~\n如果没有告密🐔存在 \n这样的片子12.8都嫌贵呢 🥲\n➗粗腿飞机视频\n\n性爱视频全套咨询@xxjy9696 https://t.co/GE4mNdUUUS",
     "publish_time": "2026-08-13T13:33:47"
+  },
+  {
+    "file_name": "mVfI3pGzQz_s4aL8.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2087775611351904256/vid/avc1/1126x582/mVfI3pGzQz_s4aL8.mp4?tag=29",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33390,
+      "timestamp": "2026-08-14T00:03:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 26686746,
+      "size_mb": 25.45,
+      "timestamp": "2026-08-14T00:03:28",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/SxsEQlCcIU",
+    "publish_time": "2026-08-13T13:39:23"
+  },
+  {
+    "file_name": "gqxsbsOsNdWGHAYH.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2087535049746878464/vid/avc1/720x1280/gqxsbsOsNdWGHAYH.mp4?tag=29",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33391,
+      "timestamp": "2026-08-14T00:03:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 24045061,
+      "size_mb": 22.93,
+      "timestamp": "2026-08-14T00:03:32",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/atyYLeUcwC",
+    "publish_time": "2026-08-13T13:45:50"
   },
   {
     "file_name": "uhUSHhGuVX83YQj0.mp4",
@@ -1404,6 +1616,84 @@
     },
     "full_text": "X上懒得更新!!!!! 以后所有完整版这里日更欢迎来到我的私人空间——今天开通电报，可观看📷我的所有视频和写真 。（今日无需任何门槛粉丝福利) 电报私信我 https://t.co/mPOID2AcC5\n暗号： 肌肉教练\n不回复X推特私信  一切问题电报放胆私信我!!!!!! https://t.co/A4zB3nyC54",
     "publish_time": "2026-08-13T15:37:21"
+  },
+  {
+    "file_name": "HPljt7qbUAE5_2h.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPljt7qbUAE5_2h.jpg",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33392,
+      "timestamp": "2026-08-14T00:03:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 87122,
+      "size_mb": 0.08,
+      "timestamp": "2026-08-14T00:03:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/CPybNbjKwx",
+    "publish_time": "2026-08-13T15:52:42"
+  },
+  {
+    "file_name": "HPljuLBa4AA79KU.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPljuLBa4AA79KU.jpg",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33393,
+      "timestamp": "2026-08-14T00:03:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 88318,
+      "size_mb": 0.08,
+      "timestamp": "2026-08-14T00:03:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/CPybNbjKwx",
+    "publish_time": "2026-08-13T15:52:42"
+  },
+  {
+    "file_name": "HPljuapbUAA3czN.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPljuapbUAA3czN.jpg",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33394,
+      "timestamp": "2026-08-14T00:03:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 78359,
+      "size_mb": 0.07,
+      "timestamp": "2026-08-14T00:03:36",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/CPybNbjKwx",
+    "publish_time": "2026-08-13T15:52:42"
   },
   {
     "file_name": "HPlkVDiaQAEUVuk.jpg",
@@ -2590,14 +2880,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (69MB > 50MB)",
       "timestamp": "2026-08-13T23:02:14",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 72520411,
       "size_mb": 69.16,
-      "timestamp": "2026-08-13T23:02:14",
+      "timestamp": "2026-08-14T00:03:38",
       "download_attempts": 0
     },
     "full_text": "Showing my Filipino bro @wreckitfreddie  some hospitality. 😜\n\n🎬 No.106 𝐅𝐔𝐋𝐋 𝐕𝗲𝗿.｜21 min https://t.co/av9dmEViWr",
@@ -2810,5 +3100,321 @@
     },
     "full_text": "黑皮体育生⚾️ https://t.co/PZlpa8oqLK",
     "publish_time": "2026-08-13T22:52:15"
+  },
+  {
+    "file_name": "Jr33vRMkDMrlnEVW.mp4",
+    "user": {
+      "screen_name": "Divo1765100",
+      "name": "Divo"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2087918472068227072/vid/avc1/720x1002/Jr33vRMkDMrlnEVW.mp4?tag=29",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33395,
+      "timestamp": "2026-08-14T00:03:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 798800,
+      "size_mb": 0.76,
+      "timestamp": "2026-08-14T00:03:38",
+      "download_attempts": 0
+    },
+    "full_text": "🤤 https://t.co/WzaJe563Va",
+    "publish_time": "2026-08-13T23:05:57"
+  },
+  {
+    "file_name": "HWuSP2e0txlWe1TQ.mp4",
+    "user": {
+      "screen_name": "zhzkj162968",
+      "name": "人间乐园Yuki熟男采访"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2087922358791376896/vid/avc1/480x848/HWuSP2e0txlWe1TQ.mp4?tag=14",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33396,
+      "timestamp": "2026-08-14T00:03:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 9696500,
+      "size_mb": 9.25,
+      "timestamp": "2026-08-14T00:03:40",
+      "download_attempts": 0
+    },
+    "full_text": "上海金山区健身教练\n赛级选手肌肉教练，平时打过一些省内比赛，操逼起来毫不含糊，练得越大越需要发泄，岑曾经跟骚女人一起开房两天疯狂做爱有氧掉了五斤肉，射到没办法接受采访，有图有真相，极品不极品自己看～ https://t.co/AvJxNYuAIV",
+    "publish_time": "2026-08-13T23:21:03"
+  },
+  {
+    "file_name": "Gd3zWyWW7fZOx5Gr.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2087922382409543680/vid/avc1/1280x720/Gd3zWyWW7fZOx5Gr.mp4?tag=29",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33397,
+      "timestamp": "2026-08-14T00:03:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 299108,
+      "size_mb": 0.29,
+      "timestamp": "2026-08-14T00:03:42",
+      "download_attempts": 0
+    },
+    "full_text": "喝金叶纯享下hh，很浓，加喝了好多水才算喝干净了 https://t.co/Dp8sKTvF6D",
+    "publish_time": "2026-08-13T23:21:35"
+  },
+  {
+    "file_name": "CpEprmbSnKlfR0Ed.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2087922406228885504/vid/avc1/1280x720/CpEprmbSnKlfR0Ed.mp4?tag=29",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33398,
+      "timestamp": "2026-08-14T00:03:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 339817,
+      "size_mb": 0.32,
+      "timestamp": "2026-08-14T00:03:44",
+      "download_attempts": 0
+    },
+    "full_text": "喝金叶纯享下hh，很浓，加喝了好多水才算喝干净了 https://t.co/Dp8sKTvF6D",
+    "publish_time": "2026-08-13T23:21:35"
+  },
+  {
+    "file_name": "LDq-Yj-w-o5ahh7t.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2087922474172506112/vid/avc1/1280x720/LDq-Yj-w-o5ahh7t.mp4?tag=29",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33399,
+      "timestamp": "2026-08-14T00:03:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5829524,
+      "size_mb": 5.56,
+      "timestamp": "2026-08-14T00:03:45",
+      "download_attempts": 0
+    },
+    "full_text": "喝金叶纯享下hh，很浓，加喝了好多水才算喝干净了 https://t.co/Dp8sKTvF6D",
+    "publish_time": "2026-08-13T23:21:35"
+  },
+  {
+    "file_name": "6SoW4sSpbkB7k41i.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2055948645875568640/vid/avc1/720x1280/6SoW4sSpbkB7k41i.mp4?tag=27",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (52MB > 50MB)",
+      "timestamp": "2026-08-14T00:03:48",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 55096663,
+      "size_mb": 52.54,
+      "timestamp": "2026-08-14T00:03:48",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/MyhIOh3nvo",
+    "publish_time": "2026-08-13T23:22:14"
+  },
+  {
+    "file_name": "3sOjJHf-hhNP4T5m.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2087867790103560193/vid/avc1/608x1080/3sOjJHf-hhNP4T5m.mp4?tag=29",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (223MB > 50MB)",
+      "timestamp": "2026-08-14T00:03:50",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 234421702,
+      "size_mb": 223.56,
+      "timestamp": "2026-08-14T00:03:50",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/W7KmcvX3iI",
+    "publish_time": "2026-08-13T23:23:43"
+  },
+  {
+    "file_name": "HPnMApSb0AAZxyE.jpg",
+    "user": {
+      "screen_name": "goodbaobao_",
+      "name": "起司burg"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPnMApSb0AAZxyE.jpg",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33400,
+      "timestamp": "2026-08-14T00:03:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 135366,
+      "size_mb": 0.13,
+      "timestamp": "2026-08-14T00:03:50",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/nClG0un3xB",
+    "publish_time": "2026-08-13T23:28:21"
+  },
+  {
+    "file_name": "HPnMAmtbcAAVh-l.jpg",
+    "user": {
+      "screen_name": "goodbaobao_",
+      "name": "起司burg"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPnMAmtbcAAVh-l.jpg",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33401,
+      "timestamp": "2026-08-14T00:03:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 147631,
+      "size_mb": 0.14,
+      "timestamp": "2026-08-14T00:03:51",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/nClG0un3xB",
+    "publish_time": "2026-08-13T23:28:21"
+  },
+  {
+    "file_name": "HPnMAmzaMAA_GbL.jpg",
+    "user": {
+      "screen_name": "goodbaobao_",
+      "name": "起司burg"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPnMAmzaMAA_GbL.jpg",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33402,
+      "timestamp": "2026-08-14T00:03:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 250499,
+      "size_mb": 0.24,
+      "timestamp": "2026-08-14T00:03:52",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/nClG0un3xB",
+    "publish_time": "2026-08-13T23:28:21"
+  },
+  {
+    "file_name": "HPnMAm4bsAANldK.jpg",
+    "user": {
+      "screen_name": "goodbaobao_",
+      "name": "起司burg"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPnMAm4bsAANldK.jpg",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33403,
+      "timestamp": "2026-08-14T00:03:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 129394,
+      "size_mb": 0.12,
+      "timestamp": "2026-08-14T00:03:53",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/nClG0un3xB",
+    "publish_time": "2026-08-13T23:28:21"
+  },
+  {
+    "file_name": "4Sv7nuI_IfzZDkQj.mp4",
+    "user": {
+      "screen_name": "jj20cm_",
+      "name": "阳光小茄子"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2087929465657819136/vid/avc1/596x1000/4Sv7nuI_IfzZDkQj.mp4?tag=29",
+    "read_time": "2026-08-14T00:02:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33404,
+      "timestamp": "2026-08-14T00:04:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 46088076,
+      "size_mb": 43.95,
+      "timestamp": "2026-08-14T00:03:55",
+      "download_attempts": 0
+    },
+    "full_text": "Quantos minutos é considerado normal para um homem tomar banho? https://t.co/r4bx4Oem5w",
+    "publish_time": "2026-08-13T23:51:48"
   }
 ]
