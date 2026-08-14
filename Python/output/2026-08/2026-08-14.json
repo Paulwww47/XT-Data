@@ -666,14 +666,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (93MB > 50MB)",
       "timestamp": "2026-08-14T09:01:41",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 97961162,
       "size_mb": 93.42,
-      "timestamp": "2026-08-14T09:01:41",
+      "timestamp": "2026-08-14T10:01:48",
       "download_attempts": 0
     },
     "full_text": "https://t.co/PzdY1kDbjl",
@@ -694,14 +694,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (95MB > 50MB)",
       "timestamp": "2026-08-14T09:01:41",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 99973285,
       "size_mb": 95.34,
-      "timestamp": "2026-08-14T09:01:41",
+      "timestamp": "2026-08-14T10:01:49",
       "download_attempts": 0
     },
     "full_text": "https://t.co/rjrJgFmSLW",
@@ -940,5 +940,109 @@
     },
     "full_text": "·\n嘿嘿，他的IG比别人的X都好看很多👍\n\n纪夫IG：jifu7777\n\n第一幅：play games https://t.co/33GGj8Xr4n",
     "publish_time": "2026-08-14T08:44:55"
+  },
+  {
+    "file_name": "q_--soMh2LyGnXLU.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2088069438545518592/vid/avc1/720x1280/q_--soMh2LyGnXLU.mp4?tag=14",
+    "read_time": "2026-08-14T10:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33438,
+      "timestamp": "2026-08-14T10:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1701419,
+      "size_mb": 1.62,
+      "timestamp": "2026-08-14T10:01:49",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年8月14日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/O0C9v8Jnpv",
+    "publish_time": "2026-08-14T09:05:31"
+  },
+  {
+    "file_name": "HPpTir5akAABMdC.mp4",
+    "user": {
+      "screen_name": "youan1144",
+      "name": "YOUAN"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/HPpTir5akAABMdC.mp4",
+    "read_time": "2026-08-14T10:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33439,
+      "timestamp": "2026-08-14T10:01:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 59040,
+      "size_mb": 0.06,
+      "timestamp": "2026-08-14T10:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "好喜欢这个动态图 https://t.co/2ud8Fd7TtW",
+    "publish_time": "2026-08-14T09:20:36"
+  },
+  {
+    "file_name": "HPpX9g4bkAAzAHE.jpg",
+    "user": {
+      "screen_name": "cdlrte",
+      "name": "直男控"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPpX9g4bkAAzAHE.jpg",
+    "read_time": "2026-08-14T10:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33440,
+      "timestamp": "2026-08-14T10:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 69177,
+      "size_mb": 0.07,
+      "timestamp": "2026-08-14T10:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "熟男大叔，就喜欢尻逼，又粗又大又黑，真正的熟男直男，gay子永远比不上直男爹的魅力，爱死了，完整版在主页扣扣。 https://t.co/IcIkXu5bcq",
+    "publish_time": "2026-08-14T09:40:54"
+  },
+  {
+    "file_name": "HPpZghEbUAA0A6h.jpg",
+    "user": {
+      "screen_name": "huohuo0707330",
+      "name": "嚯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPpZghEbUAA0A6h.jpg",
+    "read_time": "2026-08-14T10:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33441,
+      "timestamp": "2026-08-14T10:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 190808,
+      "size_mb": 0.18,
+      "timestamp": "2026-08-14T10:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/KpDVPG8rbL",
+    "publish_time": "2026-08-14T09:46:34"
   }
 ]
