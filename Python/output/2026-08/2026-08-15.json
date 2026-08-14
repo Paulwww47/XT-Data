@@ -234,5 +234,59 @@
     },
     "full_text": "kristoff_tat https://t.co/hVBwyqqWgv",
     "publish_time": "2026-08-15T05:51:46"
+  },
+  {
+    "file_name": "nT4hcfk8W27H047n.mp4",
+    "user": {
+      "screen_name": "EdwinBigEnergy",
+      "name": "青蛙不会游泳"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2088320349922562048/vid/avc1/1080x1920/nT4hcfk8W27H047n.mp4?tag=29",
+    "read_time": "2026-08-15T07:02:02",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (116MB > 50MB)",
+      "timestamp": "2026-08-15T07:02:07",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 121755195,
+      "size_mb": 116.11,
+      "timestamp": "2026-08-15T07:02:07",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/INxQ3PVIWe",
+    "publish_time": "2026-08-15T06:08:21"
+  },
+  {
+    "file_name": "HPt7xWJbgAAgbTD.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPt7xWJbgAAgbTD.jpg",
+    "read_time": "2026-08-15T07:02:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33614,
+      "timestamp": "2026-08-15T07:02:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 124063,
+      "size_mb": 0.12,
+      "timestamp": "2026-08-15T07:02:07",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/bChh00Plhu",
+    "publish_time": "2026-08-15T06:54:43"
   }
 ]
