@@ -3740,7 +3740,7 @@
     "upload_info": {},
     "is_downloaded": false,
     "download_info": {
-      "download_attempts": 4
+      "download_attempts": 5
     },
     "full_text": "https://t.co/s3Rqf0kwoU",
     "publish_time": "2026-08-14T18:00:24"
@@ -4368,5 +4368,57 @@
     },
     "full_text": "上来骚了，有没有刺激我的 https://t.co/LMTcPoHe1G",
     "publish_time": "2026-08-14T20:52:12"
+  },
+  {
+    "file_name": "HPr5TtpbMAEgeOV.jpg",
+    "user": {
+      "screen_name": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPr5TtpbMAEgeOV.jpg",
+    "read_time": "2026-08-14T22:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33570,
+      "timestamp": "2026-08-14T22:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 166530,
+      "size_mb": 0.16,
+      "timestamp": "2026-08-14T22:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "Friday. 🌙 https://t.co/sqTBBNAQ39",
+    "publish_time": "2026-08-14T21:24:44"
+  },
+  {
+    "file_name": "uMHZbf2Y6KKPnnBZ.mp4",
+    "user": {
+      "screen_name": "Happyali03",
+      "name": "Alibaby"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2088256998135758848/vid/avc1/720x1280/uMHZbf2Y6KKPnnBZ.mp4?tag=29",
+    "read_time": "2026-08-14T22:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33571,
+      "timestamp": "2026-08-14T22:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 9763175,
+      "size_mb": 9.31,
+      "timestamp": "2026-08-14T22:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "與猛男克🐴@ld9862523983018 \n黑皮對黑皮，肌肉撞肌肉，每一下都幹到最深。\n▶️訂閱：https://t.co/eZK4O7T9eV\n⏰20min https://t.co/BR2nsZNgBO",
+    "publish_time": "2026-08-14T21:31:23"
   }
 ]
