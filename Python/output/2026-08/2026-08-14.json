@@ -3740,7 +3740,7 @@
     "upload_info": {},
     "is_downloaded": false,
     "download_info": {
-      "download_attempts": 6
+      "download_attempts": 7
     },
     "full_text": "https://t.co/s3Rqf0kwoU",
     "publish_time": "2026-08-14T18:00:24"
@@ -4436,14 +4436,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (183MB > 50MB)",
       "timestamp": "2026-08-14T23:01:57",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 192271659,
       "size_mb": 183.36,
-      "timestamp": "2026-08-14T23:01:57",
+      "timestamp": "2026-08-15T00:01:54",
       "download_attempts": 0
     },
     "full_text": "这次的内裤和袜子都很骚🖕🧠 https://t.co/G2sejqGfU8",
@@ -4760,5 +4760,525 @@
     },
     "full_text": "https://t.co/3W8lJ2bpY6",
     "publish_time": "2026-08-14T23:00:31"
+  },
+  {
+    "file_name": "RAEVWlA3pyPLU9FF.mp4",
+    "user": {
+      "screen_name": "lala080430",
+      "name": "和弦"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2088279814235140096/pu/vid/avc1/720x1280/RAEVWlA3pyPLU9FF.mp4?tag=12",
+    "read_time": "2026-08-15T00:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33584,
+      "timestamp": "2026-08-15T00:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3432630,
+      "size_mb": 3.27,
+      "timestamp": "2026-08-15T00:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "还是打桩爽 ＃熊 https://t.co/1lk74VccaR",
+    "publish_time": "2026-08-14T23:01:31"
+  },
+  {
+    "file_name": "HPsStWMbkAA_7nE.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPsStWMbkAA_7nE.jpg",
+    "read_time": "2026-08-15T00:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33585,
+      "timestamp": "2026-08-15T00:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 70692,
+      "size_mb": 0.07,
+      "timestamp": "2026-08-15T00:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/XhBdWUqiTI",
+    "publish_time": "2026-08-14T23:15:45"
+  },
+  {
+    "file_name": "HPsStlRaQAAakYm.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPsStlRaQAAakYm.jpg",
+    "read_time": "2026-08-15T00:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33586,
+      "timestamp": "2026-08-15T00:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 73861,
+      "size_mb": 0.07,
+      "timestamp": "2026-08-15T00:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/XhBdWUqiTI",
+    "publish_time": "2026-08-14T23:15:45"
+  },
+  {
+    "file_name": "HPsSt2qaIAAUHN4.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPsSt2qaIAAUHN4.jpg",
+    "read_time": "2026-08-15T00:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33587,
+      "timestamp": "2026-08-15T00:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 150175,
+      "size_mb": 0.14,
+      "timestamp": "2026-08-15T00:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/XhBdWUqiTI",
+    "publish_time": "2026-08-14T23:15:45"
+  },
+  {
+    "file_name": "HPsSuGUbEAEkAcG.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPsSuGUbEAEkAcG.jpg",
+    "read_time": "2026-08-15T00:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33588,
+      "timestamp": "2026-08-15T00:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 131831,
+      "size_mb": 0.13,
+      "timestamp": "2026-08-15T00:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/XhBdWUqiTI",
+    "publish_time": "2026-08-14T23:15:45"
+  },
+  {
+    "file_name": "qrTHlLlvw6ap-NIG.mp4",
+    "user": {
+      "screen_name": "T13602S",
+      "name": "大野菊"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2088287036742774784/vid/avc1/720x1280/qrTHlLlvw6ap-NIG.mp4?tag=29",
+    "read_time": "2026-08-15T00:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33589,
+      "timestamp": "2026-08-15T00:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 19543341,
+      "size_mb": 18.64,
+      "timestamp": "2026-08-15T00:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "又见山东大汉，敦实，屁股蛋子又大又圆，胡青好有男人味儿，真的是又臭又雄，肉壮熊男！ https://t.co/id3RsXkg3c",
+    "publish_time": "2026-08-14T23:31:14"
+  },
+  {
+    "file_name": "HPsXBItW8AA_Ren.jpg",
+    "user": {
+      "screen_name": "haoyun9988",
+      "name": "杭州原(天蝎)后深圳广州成都北京上海"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPsXBItW8AA_Ren.jpg",
+    "read_time": "2026-08-15T00:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33590,
+      "timestamp": "2026-08-15T00:02:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 162521,
+      "size_mb": 0.15,
+      "timestamp": "2026-08-15T00:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "最近杭州 广州深圳 成都 北京上海 https://t.co/hT19m9xcd7",
+    "publish_time": "2026-08-14T23:34:35"
+  },
+  {
+    "file_name": "HPsXBItWoAAC_zq.jpg",
+    "user": {
+      "screen_name": "haoyun9988",
+      "name": "杭州原(天蝎)后深圳广州成都北京上海"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPsXBItWoAAC_zq.jpg",
+    "read_time": "2026-08-15T00:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33591,
+      "timestamp": "2026-08-15T00:02:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 50420,
+      "size_mb": 0.05,
+      "timestamp": "2026-08-15T00:02:07",
+      "download_attempts": 0
+    },
+    "full_text": "最近杭州 广州深圳 成都 北京上海 https://t.co/hT19m9xcd7",
+    "publish_time": "2026-08-14T23:34:35"
+  },
+  {
+    "file_name": "sx8OuRNsTnszTJaf.mp4",
+    "user": {
+      "screen_name": "BLPDBNANA",
+      "name": "Mr.CumBoY🍌"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2088289793683988480/vid/avc1/720x1280/sx8OuRNsTnszTJaf.mp4?tag=29",
+    "read_time": "2026-08-15T00:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33592,
+      "timestamp": "2026-08-15T00:02:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1653681,
+      "size_mb": 1.58,
+      "timestamp": "2026-08-15T00:02:08",
+      "download_attempts": 0
+    },
+    "full_text": "腿毛bb吃饭中\n不妨碍我跪在他腿中吃鸡当中饭\n😁 https://t.co/cQO5oGx3lc",
+    "publish_time": "2026-08-14T23:41:14"
+  },
+  {
+    "file_name": "NFb3COit36j5klm6.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2087421785075838976/vid/avc1/720x1280/NFb3COit36j5klm6.mp4?tag=29",
+    "read_time": "2026-08-15T00:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33593,
+      "timestamp": "2026-08-15T00:02:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 50837552,
+      "size_mb": 48.48,
+      "timestamp": "2026-08-15T00:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/8f0kKScSeG",
+    "publish_time": "2026-08-14T23:42:28"
+  },
+  {
+    "file_name": "HPsY84Oa8AAesH5.jpg",
+    "user": {
+      "screen_name": "OMyfavoriteboys",
+      "name": "My favorite boys"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPsY84Oa8AAesH5.jpg",
+    "read_time": "2026-08-15T00:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33594,
+      "timestamp": "2026-08-15T00:02:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 90190,
+      "size_mb": 0.09,
+      "timestamp": "2026-08-15T00:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "帅男人 https://t.co/P3PH98qY0Q",
+    "publish_time": "2026-08-14T23:42:59"
+  },
+  {
+    "file_name": "esCrDBWLyYhWs4LJ.mp4",
+    "user": {
+      "screen_name": "Trungn5at",
+      "name": "Trung"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2087978268259463169/vid/avc1/720x1280/esCrDBWLyYhWs4LJ.mp4?tag=14",
+    "read_time": "2026-08-15T00:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33595,
+      "timestamp": "2026-08-15T00:02:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 16016893,
+      "size_mb": 15.27,
+      "timestamp": "2026-08-15T00:02:17",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/SdHG30jlgW",
+    "publish_time": "2026-08-14T23:43:42"
+  },
+  {
+    "file_name": "QZhtOtbguYv0xiM-.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2088290443822088192/vid/avc1/720x1280/QZhtOtbguYv0xiM-.mp4?tag=29",
+    "read_time": "2026-08-15T00:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33596,
+      "timestamp": "2026-08-15T00:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5008050,
+      "size_mb": 4.78,
+      "timestamp": "2026-08-15T00:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/MbJNL0JHxG",
+    "publish_time": "2026-08-14T23:43:42"
+  },
+  {
+    "file_name": "hJ1enw6nIW_AU2Wb.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2088290505486704640/vid/avc1/720x1280/hJ1enw6nIW_AU2Wb.mp4?tag=29",
+    "read_time": "2026-08-15T00:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33597,
+      "timestamp": "2026-08-15T00:02:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 8546166,
+      "size_mb": 8.15,
+      "timestamp": "2026-08-15T00:02:26",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/IxhqhFlsak",
+    "publish_time": "2026-08-14T23:43:58"
+  },
+  {
+    "file_name": "EscG4TIdDffPzNUj.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2088290574088671232/vid/avc1/720x1280/EscG4TIdDffPzNUj.mp4?tag=29",
+    "read_time": "2026-08-15T00:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33598,
+      "timestamp": "2026-08-15T00:02:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1599327,
+      "size_mb": 1.53,
+      "timestamp": "2026-08-15T00:02:29",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/3KcEbwBc1f",
+    "publish_time": "2026-08-14T23:44:10"
+  },
+  {
+    "file_name": "dbXgnexrf-lyKsz1.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2088290776522592256/vid/avc1/720x1280/dbXgnexrf-lyKsz1.mp4?tag=29",
+    "read_time": "2026-08-15T00:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33599,
+      "timestamp": "2026-08-15T00:02:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4098331,
+      "size_mb": 3.91,
+      "timestamp": "2026-08-15T00:02:30",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/5UCWxYbv59",
+    "publish_time": "2026-08-14T23:45:02"
+  },
+  {
+    "file_name": "1HWRqM-N47APi33i.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2088290776535203840/vid/avc1/720x1280/1HWRqM-N47APi33i.mp4?tag=29",
+    "read_time": "2026-08-15T00:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33600,
+      "timestamp": "2026-08-15T00:02:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4323521,
+      "size_mb": 4.12,
+      "timestamp": "2026-08-15T00:02:32",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/5UCWxYbv59",
+    "publish_time": "2026-08-14T23:45:02"
+  },
+  {
+    "file_name": "D6ZwEUrh_uTxkIRO.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2088290818088112128/vid/avc1/720x1280/D6ZwEUrh_uTxkIRO.mp4?tag=29",
+    "read_time": "2026-08-15T00:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33601,
+      "timestamp": "2026-08-15T00:02:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4356001,
+      "size_mb": 4.15,
+      "timestamp": "2026-08-15T00:02:36",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/3U0BiaZ0bi",
+    "publish_time": "2026-08-14T23:45:11"
+  },
+  {
+    "file_name": "HPscpMXbkAAVyV_.jpg",
+    "user": {
+      "screen_name": "PAiXU99",
+      "name": "柏旭"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPscpMXbkAAVyV_.jpg",
+    "read_time": "2026-08-15T00:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33602,
+      "timestamp": "2026-08-15T00:02:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 84037,
+      "size_mb": 0.08,
+      "timestamp": "2026-08-15T00:02:38",
+      "download_attempts": 0
+    },
+    "full_text": "试试黑皮体育生的流量如何，我一般拍摄没露脸的模特，是因为拍摄尺度过大，相当于是提前给脸打码了。 https://t.co/CR3yAsq3Ly",
+    "publish_time": "2026-08-14T23:59:08"
+  },
+  {
+    "file_name": "HPscpMXbQAAniXV.jpg",
+    "user": {
+      "screen_name": "PAiXU99",
+      "name": "柏旭"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPscpMXbQAAniXV.jpg",
+    "read_time": "2026-08-15T00:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33603,
+      "timestamp": "2026-08-15T00:02:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 96199,
+      "size_mb": 0.09,
+      "timestamp": "2026-08-15T00:02:39",
+      "download_attempts": 0
+    },
+    "full_text": "试试黑皮体育生的流量如何，我一般拍摄没露脸的模特，是因为拍摄尺度过大，相当于是提前给脸打码了。 https://t.co/CR3yAsq3Ly",
+    "publish_time": "2026-08-14T23:59:08"
   }
 ]
