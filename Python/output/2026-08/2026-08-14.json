@@ -2892,6 +2892,32 @@
     "publish_time": "2026-08-14T12:42:36"
   },
   {
+    "file_name": "HPqEXYraEAAQKfm.jpg",
+    "user": {
+      "screen_name": "liu6864",
+      "name": "CL357"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPqEXYraEAAQKfm.jpg",
+    "read_time": "2026-08-15T04:02:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33610,
+      "timestamp": "2026-08-15T04:03:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 161505,
+      "size_mb": 0.15,
+      "timestamp": "2026-08-15T04:03:00",
+      "download_attempts": 0
+    },
+    "full_text": "这会是你的视角吗？ https://t.co/l3KY9qz0fx",
+    "publish_time": "2026-08-14T12:54:37"
+  },
+  {
     "file_name": "Lc7BKe3K8UJzLClD.mp4",
     "user": {
       "screen_name": "Luvmy2girls2011",
@@ -3150,6 +3176,32 @@
     },
     "full_text": "https://t.co/mmT3IuiBBz",
     "publish_time": "2026-08-14T13:31:22"
+  },
+  {
+    "file_name": "7S3ad1RmMwhTxXKW.mp4",
+    "user": {
+      "screen_name": "liu6864",
+      "name": "CL357"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2088142161149886464/vid/avc1/720x960/7S3ad1RmMwhTxXKW.mp4?tag=14",
+    "read_time": "2026-08-15T04:02:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33611,
+      "timestamp": "2026-08-15T04:03:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1339036,
+      "size_mb": 1.28,
+      "timestamp": "2026-08-15T04:03:02",
+      "download_attempts": 0
+    },
+    "full_text": "最后一滴，一滴入心 https://t.co/vE3p2owtpa",
+    "publish_time": "2026-08-14T13:54:42"
   },
   {
     "file_name": "u4CLptmVelHeCvHR.mp4",
@@ -3740,7 +3792,7 @@
     "upload_info": {
       "success": false,
       "error_type": "max_download_attempts",
-      "message": "404 Client Error: Not Found for url: https://video.twimg.com/amplify_video/2088204064450547712/vid/avc1/360x640/8zaZS3QobAYrVa2Y.mp4?tag=29",
+      "message": "连续下载失败10次",
       "timestamp": "2026-08-15T03:01:55",
       "notification_sent": true
     },
