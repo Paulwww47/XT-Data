@@ -3737,10 +3737,16 @@
     "url": "https://video.twimg.com/amplify_video/2088204064450547712/vid/avc1/360x640/8zaZS3QobAYrVa2Y.mp4?tag=29",
     "read_time": "2026-08-14T18:01:50",
     "is_uploaded": false,
-    "upload_info": {},
+    "upload_info": {
+      "success": false,
+      "error_type": "max_download_attempts",
+      "message": "404 Client Error: Not Found for url: https://video.twimg.com/amplify_video/2088204064450547712/vid/avc1/360x640/8zaZS3QobAYrVa2Y.mp4?tag=29",
+      "timestamp": "2026-08-15T03:01:55",
+      "notification_sent": true
+    },
     "is_downloaded": false,
     "download_info": {
-      "download_attempts": 9
+      "download_attempts": 10
     },
     "full_text": "https://t.co/s3Rqf0kwoU",
     "publish_time": "2026-08-14T18:00:24"
