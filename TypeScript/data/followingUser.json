@@ -3804,6 +3804,20 @@
     }
   },
   {
+    "restId": "1687395076929155073",
+    "legacy": {
+      "name": "和弦",
+      "screenName": "lala080430",
+      "createdAt": "Fri Aug 04 09:28:44 +0000 2023",
+      "description": "1/183/95kg",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1687395076929155073/1699727174",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1687395217752969216/3ErEN_Y1_normal.jpg"
+    }
+  },
+  {
     "restId": "1887069323631714304",
     "legacy": {
       "name": "lancelin",
@@ -4238,6 +4252,33 @@
       },
       "profileBannerUrl": "",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2025656837807419392/VVH2VR06_normal.jpg"
+    }
+  },
+  {
+    "restId": "420615688",
+    "legacy": {
+      "name": "爱玩直男",
+      "screenName": "Luvmy2girls2011",
+      "createdAt": "Thu Nov 24 21:31:08 +0000 2011",
+      "description": "qq977421414 小众原创略贵 无会员群只单卖 作品很花时间精力 预算低勿扰 购买需提供真实支付宝绑定的电话号码打视频水印 ＋q防失联 电报有更多预览",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/locklock66666",
+              "expanded_url": "https://t.me/locklock66666",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/7zBJT13nD4"
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/420615688/1775888829",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2042854183469223936/cIl5McAb_normal.jpg"
     }
   },
   {
@@ -4772,7 +4813,7 @@
       "name": "ne on",
       "screenName": "neon385908",
       "createdAt": "Mon Jul 24 05:42:16 +0000 2023",
-      "description": "爱爱内含光",
+      "description": "Forfun",
       "entities": {
         "description": {}
       },
@@ -7661,7 +7702,7 @@
       "name": "眼镜男资源群",
       "screenName": "yjnzyq",
       "createdAt": "Wed May 06 06:45:59 +0000 2026",
-      "description": "眼镜男电报资源群，付费群，大号@yjnzyz20000119",
+      "description": "眼镜男电报资源群，付费群，有事咨询大号@yjnzyz20000119",
       "entities": {
         "description": {}
       },
