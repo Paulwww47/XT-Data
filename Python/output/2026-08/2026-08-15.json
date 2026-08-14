@@ -14,14 +14,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (1276MB > 50MB)",
       "timestamp": "2026-08-15T01:01:56",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 1338202530,
       "size_mb": 1276.21,
-      "timestamp": "2026-08-15T01:01:56",
+      "timestamp": "2026-08-15T02:01:53",
       "download_attempts": 0
     },
     "full_text": "https://t.co/Fu67czz6vb",
@@ -104,5 +104,31 @@
     },
     "full_text": "欠骂的贱逼快跪在老子正装皮鞋面前犯贱。把自己狗几把掏出来撸废物 https://t.co/Cmqd8P37MT",
     "publish_time": "2026-08-15T00:55:03"
+  },
+  {
+    "file_name": "UgEyu8Cof-Xcv4ba.mp4",
+    "user": {
+      "screen_name": "huohuo0707330",
+      "name": "嚯"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2088314825948663808/vid/avc1/720x1280/UgEyu8Cof-Xcv4ba.mp4?tag=29",
+    "read_time": "2026-08-15T02:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33607,
+      "timestamp": "2026-08-15T02:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2992614,
+      "size_mb": 2.85,
+      "timestamp": "2026-08-15T02:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "统统都发！撸一次都不解渴！\n忙到一个月一两次这谁受的了！ https://t.co/CccOn7hfW5",
+    "publish_time": "2026-08-15T01:20:46"
   }
 ]
