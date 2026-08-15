@@ -2780,14 +2780,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (95MB > 50MB)",
       "timestamp": "2026-08-15T18:03:06",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 100211897,
       "size_mb": 95.57,
-      "timestamp": "2026-08-15T18:03:06",
+      "timestamp": "2026-08-15T19:02:03",
       "download_attempts": 0
     },
     "full_text": "https://t.co/XuIULIQo0t",
@@ -2844,5 +2844,135 @@
     },
     "full_text": "jerric_k https://t.co/WDzuawz6pT",
     "publish_time": "2026-08-15T18:01:04"
+  },
+  {
+    "file_name": "D3ZfM6QxcU1Ej-rl.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2088567001849688064/vid/avc1/360x640/D3ZfM6QxcU1Ej-rl.mp4?tag=29",
+    "read_time": "2026-08-15T19:02:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33695,
+      "timestamp": "2026-08-15T19:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 729690,
+      "size_mb": 0.7,
+      "timestamp": "2026-08-15T19:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/n4YZCYdlbe",
+    "publish_time": "2026-08-15T18:02:34"
+  },
+  {
+    "file_name": "HPwVRgUb0AAncX-.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPwVRgUb0AAncX-.jpg",
+    "read_time": "2026-08-15T19:02:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33696,
+      "timestamp": "2026-08-15T19:02:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 94378,
+      "size_mb": 0.09,
+      "timestamp": "2026-08-15T19:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/bnVQ5x7yZa",
+    "publish_time": "2026-08-15T18:05:31"
+  },
+  {
+    "file_name": "HPwYkypbwAAKd6U.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPwYkypbwAAKd6U.png",
+    "read_time": "2026-08-15T19:02:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33697,
+      "timestamp": "2026-08-15T19:02:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 484127,
+      "size_mb": 0.46,
+      "timestamp": "2026-08-15T19:02:07",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/3DphvnDT1M",
+    "publish_time": "2026-08-15T18:24:56"
+  },
+  {
+    "file_name": "HPwZGvmacAAB5de.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPwZGvmacAAB5de.jpg",
+    "read_time": "2026-08-15T19:02:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33698,
+      "timestamp": "2026-08-15T19:02:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 306983,
+      "size_mb": 0.29,
+      "timestamp": "2026-08-15T19:02:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/xGsvzmrjzI",
+    "publish_time": "2026-08-15T18:39:11"
+  },
+  {
+    "file_name": "HPwgDinbwAAVrdK.jpg",
+    "user": {
+      "screen_name": "OMyfavoriteboys",
+      "name": "My favorite boys"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPwgDinbwAAVrdK.jpg",
+    "read_time": "2026-08-15T19:02:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33699,
+      "timestamp": "2026-08-15T19:02:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 122308,
+      "size_mb": 0.12,
+      "timestamp": "2026-08-15T19:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "体育生儿子来认主 https://t.co/l1OclrAyRl",
+    "publish_time": "2026-08-15T18:52:30"
   }
 ]
