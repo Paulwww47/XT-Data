@@ -3496,6 +3496,32 @@
     "publish_time": "2026-08-15T21:17:22"
   },
   {
+    "file_name": "83fIjH8IuuOwjmLu.mp4",
+    "user": {
+      "screen_name": "kkkean2",
+      "name": "kean"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2088617422144389120/vid/avc1/1280x720/83fIjH8IuuOwjmLu.mp4?tag=29",
+    "read_time": "2026-08-16T01:02:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33736,
+      "timestamp": "2026-08-16T01:02:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 372720,
+      "size_mb": 0.36,
+      "timestamp": "2026-08-16T01:02:57",
+      "download_attempts": 0
+    },
+    "full_text": "粗粗的大腿 https://t.co/CWoilt9DnI",
+    "publish_time": "2026-08-15T21:23:07"
+  },
+  {
     "file_name": "9n0KL4EkHEynJMcT.mp4",
     "user": {
       "screen_name": "fanglangnantu",
@@ -3770,14 +3796,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (57MB > 50MB)",
       "timestamp": "2026-08-16T00:01:56",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 59863195,
       "size_mb": 57.09,
-      "timestamp": "2026-08-16T00:01:56",
+      "timestamp": "2026-08-16T01:03:00",
       "download_attempts": 0
     },
     "full_text": "https://t.co/J5LpAFPgaT",
