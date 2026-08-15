@@ -1008,14 +1008,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (672MB > 50MB)",
       "timestamp": "2026-08-15T11:03:17",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 705622284,
       "size_mb": 672.93,
-      "timestamp": "2026-08-15T11:03:17",
+      "timestamp": "2026-08-15T12:01:56",
       "download_attempts": 0
     },
     "full_text": "https://t.co/ijerXbfLCv",
@@ -1062,14 +1062,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (889MB > 50MB)",
       "timestamp": "2026-08-15T11:03:28",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 932390713,
       "size_mb": 889.2,
-      "timestamp": "2026-08-15T11:03:28",
+      "timestamp": "2026-08-15T12:02:01",
       "download_attempts": 0
     },
     "full_text": "https://t.co/Nc12VM3UYK",
@@ -1412,5 +1412,83 @@
     },
     "full_text": "健身后 https://t.co/KHOG4jU6jC",
     "publish_time": "2026-08-15T10:58:07"
+  },
+  {
+    "file_name": "HPu8CQ5bYAA5qYa.jpg",
+    "user": {
+      "screen_name": "yhao_97",
+      "name": "大虎"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPu8CQ5bYAA5qYa.jpg",
+    "read_time": "2026-08-15T12:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33641,
+      "timestamp": "2026-08-15T12:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 105892,
+      "size_mb": 0.1,
+      "timestamp": "2026-08-15T12:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/2341AwlzLy",
+    "publish_time": "2026-08-15T11:35:31"
+  },
+  {
+    "file_name": "HPu8CQ5asAIJc87.jpg",
+    "user": {
+      "screen_name": "yhao_97",
+      "name": "大虎"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HPu8CQ5asAIJc87.jpg",
+    "read_time": "2026-08-15T12:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33642,
+      "timestamp": "2026-08-15T12:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 111535,
+      "size_mb": 0.11,
+      "timestamp": "2026-08-15T12:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/2341AwlzLy",
+    "publish_time": "2026-08-15T11:35:31"
+  },
+  {
+    "file_name": "TJgOReyIwVCvKMa0.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2088471961219588096/vid/avc1/360x640/TJgOReyIwVCvKMa0.mp4?tag=29",
+    "read_time": "2026-08-15T12:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33643,
+      "timestamp": "2026-08-15T12:02:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1004711,
+      "size_mb": 0.96,
+      "timestamp": "2026-08-15T12:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/OMdMiSmfVW",
+    "publish_time": "2026-08-15T11:44:55"
   }
 ]
