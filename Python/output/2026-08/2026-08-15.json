@@ -3964,5 +3964,33 @@
     },
     "full_text": "is it hard?😮‍💨 https://t.co/ZKTDdxaMdR",
     "publish_time": "2026-08-15T23:47:19"
+  },
+  {
+    "file_name": "-zNRyvx7yL1RAPTQ.mp4",
+    "user": {
+      "screen_name": "cai_chi88",
+      "name": "香菜好吃"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2088342897477525504/vid/avc1/720x1264/-zNRyvx7yL1RAPTQ.mp4?tag=29",
+    "read_time": "2026-08-16T15:02:37",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (265MB > 50MB)",
+      "timestamp": "2026-08-16T15:02:39",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 278022790,
+      "size_mb": 265.14,
+      "timestamp": "2026-08-16T15:02:39",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/8jtDHdPGpl",
+    "publish_time": "2026-08-15T23:55:16"
   }
 ]
