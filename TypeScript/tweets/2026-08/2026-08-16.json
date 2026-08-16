@@ -1187,5 +1187,75 @@
     "tweetUrl": "https://x.com/gugude123/status/2088926246097018887",
     "fullText": "好久不见 越来越帅了 https://t.co/DkCS5K5hn1",
     "publishTime": "2026-08-16T17:50:02"
+  },
+  {
+    "user": {
+      "screenName": "gugude123",
+      "name": "咕咕"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://t.me/+oUjSLr5xtphlYzZh"
+    ],
+    "tweetUrl": "https://x.com/gugude123/status/2088929031773421889",
+    "fullText": "https://t.co/vqgIIYbgNh",
+    "publishTime": "2026-08-16T18:01:06"
+  },
+  {
+    "user": {
+      "screenName": "gugude123",
+      "name": "咕咕"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://t.me/+oUjSLr5xtphlYzZh"
+    ],
+    "tweetUrl": "https://x.com/gugude123/status/2088929054644965714",
+    "fullText": "https://t.co/vqgIIYbgNh",
+    "publishTime": "2026-08-16T18:01:11"
+  },
+  {
+    "user": {
+      "screenName": "gugude123",
+      "name": "咕咕"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://t.me/+oUjSLr5xtphlYzZh"
+    ],
+    "tweetUrl": "https://x.com/gugude123/status/2088929092922208327",
+    "fullText": "https://t.co/vqgIIYbgNh",
+    "publishTime": "2026-08-16T18:01:20"
+  },
+  {
+    "user": {
+      "screenName": "vmya_",
+      "name": "vm"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HP1mfJZaMAA-maf.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/vmya_/status/2088938496333598978",
+    "fullText": "https://t.co/95jE64m6kc",
+    "publishTime": "2026-08-16T18:38:42"
+  },
+  {
+    "user": {
+      "screenName": "chuanzhang0320",
+      "name": "Appetency."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2088939908627042304/vid/avc1/1280x720/FoD6yLeBRRlugqlL.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/chuanzhang0320/status/2088939982094467139",
+    "fullText": "吃不完？ https://t.co/81zgTjfQtK",
+    "publishTime": "2026-08-16T18:44:37"
   }
 ]
