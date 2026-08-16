@@ -1340,14 +1340,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (846MB > 50MB)",
       "timestamp": "2026-08-16T13:03:01",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 888056883,
       "size_mb": 846.92,
-      "timestamp": "2026-08-16T13:03:01",
+      "timestamp": "2026-08-16T14:01:56",
       "download_attempts": 0
     },
     "full_text": "over 1 hour！ https://t.co/MqDOFUFYqG",
@@ -1690,5 +1690,187 @@
     },
     "full_text": "抖音的我vsX上的我 https://t.co/kDVODxCKPA",
     "publish_time": "2026-08-16T12:58:52"
+  },
+  {
+    "file_name": "HP0ahiiaAAACO4n.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HP0ahiiaAAACO4n.jpg",
+    "read_time": "2026-08-16T14:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33801,
+      "timestamp": "2026-08-16T14:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 56095,
+      "size_mb": 0.05,
+      "timestamp": "2026-08-16T14:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "yiliroubaozi https://t.co/0kGpAJnha0",
+    "publish_time": "2026-08-16T13:06:48"
+  },
+  {
+    "file_name": "HP0cGYvboAAtGre.jpg",
+    "user": {
+      "screen_name": "Nonglaoshi520",
+      "name": "长沙农老师"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HP0cGYvboAAtGre.jpg",
+    "read_time": "2026-08-16T14:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33802,
+      "timestamp": "2026-08-16T14:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 79947,
+      "size_mb": 0.08,
+      "timestamp": "2026-08-16T14:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "农牛区已更新。 https://t.co/EVsNT6R7s9",
+    "publish_time": "2026-08-16T13:13:45"
+  },
+  {
+    "file_name": "HP0cGYsaoAAeA7G.jpg",
+    "user": {
+      "screen_name": "Nonglaoshi520",
+      "name": "长沙农老师"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HP0cGYsaoAAeA7G.jpg",
+    "read_time": "2026-08-16T14:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33803,
+      "timestamp": "2026-08-16T14:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 81867,
+      "size_mb": 0.08,
+      "timestamp": "2026-08-16T14:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "农牛区已更新。 https://t.co/EVsNT6R7s9",
+    "publish_time": "2026-08-16T13:13:45"
+  },
+  {
+    "file_name": "HP0cGYxbgAEd4DQ.jpg",
+    "user": {
+      "screen_name": "Nonglaoshi520",
+      "name": "长沙农老师"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HP0cGYxbgAEd4DQ.jpg",
+    "read_time": "2026-08-16T14:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33804,
+      "timestamp": "2026-08-16T14:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 70867,
+      "size_mb": 0.07,
+      "timestamp": "2026-08-16T14:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "农牛区已更新。 https://t.co/EVsNT6R7s9",
+    "publish_time": "2026-08-16T13:13:45"
+  },
+  {
+    "file_name": "HP0eZmKakAEYYZQ.jpg",
+    "user": {
+      "screen_name": "gagagalalalago",
+      "name": "嘎嘎嘎拉拉"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HP0eZmKakAEYYZQ.jpg",
+    "read_time": "2026-08-16T14:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33805,
+      "timestamp": "2026-08-16T14:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 165892,
+      "size_mb": 0.16,
+      "timestamp": "2026-08-16T14:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "今年第一次玩水💦💦💦 https://t.co/nezbrNWBra",
+    "publish_time": "2026-08-16T13:23:45"
+  },
+  {
+    "file_name": "HP0g3ZrbwAIGuJN.jpg",
+    "user": {
+      "screen_name": "xxjy9696",
+      "name": "小小脚丫🐾全见版（新）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HP0g3ZrbwAIGuJN.jpg",
+    "read_time": "2026-08-16T14:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33806,
+      "timestamp": "2026-08-16T14:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 124739,
+      "size_mb": 0.12,
+      "timestamp": "2026-08-16T14:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "新人、潜水党看图！⬇️ https://t.co/qQ5uVcPh88",
+    "publish_time": "2026-08-16T13:34:31"
+  },
+  {
+    "file_name": "HP0iBnTaIAAIwjp.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HP0iBnTaIAAIwjp.jpg",
+    "read_time": "2026-08-16T14:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 33807,
+      "timestamp": "2026-08-16T14:02:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 114161,
+      "size_mb": 0.11,
+      "timestamp": "2026-08-16T14:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/AQ7eDjyupZ",
+    "publish_time": "2026-08-16T13:39:35"
   }
 ]
