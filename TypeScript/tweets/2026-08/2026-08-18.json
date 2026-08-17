@@ -196,5 +196,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2089456202564669847",
     "fullText": "https://t.co/q26ck2j6Go",
     "publishTime": "2026-08-18T04:55:53"
+  },
+  {
+    "user": {
+      "screenName": "chuanzhang0320",
+      "name": "Appetency."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2089475357271629824/vid/avc1/1280x720/8JK6VyhMUJQTEb_o.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/chuanzhang0320/status/2089475550230553074",
+    "fullText": "艾特你们认为最耐操的博主出来 https://t.co/EiGWNrL4VG",
+    "publishTime": "2026-08-18T06:12:46"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HP9V10magAAWIkl.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2089483140251427160",
+    "fullText": "https://t.co/HYbJ1z4R7R",
+    "publishTime": "2026-08-18T06:42:56"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HP9WGNqbMAEodlh.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2089483422607769686",
+    "fullText": "https://t.co/Cs90QdqwRw",
+    "publishTime": "2026-08-18T06:44:03"
   }
 ]

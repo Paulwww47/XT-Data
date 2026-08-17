@@ -388,5 +388,83 @@
     },
     "full_text": "https://t.co/q26ck2j6Go",
     "publish_time": "2026-08-18T04:55:53"
+  },
+  {
+    "file_name": "8JK6VyhMUJQTEb_o.mp4",
+    "user": {
+      "screen_name": "chuanzhang0320",
+      "name": "Appetency."
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2089475357271629824/vid/avc1/1280x720/8JK6VyhMUJQTEb_o.mp4?tag=29",
+    "read_time": "2026-08-18T07:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34055,
+      "timestamp": "2026-08-18T07:01:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 8661176,
+      "size_mb": 8.26,
+      "timestamp": "2026-08-18T07:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "艾特你们认为最耐操的博主出来 https://t.co/EiGWNrL4VG",
+    "publish_time": "2026-08-18T06:12:46"
+  },
+  {
+    "file_name": "HP9V10magAAWIkl.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HP9V10magAAWIkl.jpg",
+    "read_time": "2026-08-18T07:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34056,
+      "timestamp": "2026-08-18T07:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 107025,
+      "size_mb": 0.1,
+      "timestamp": "2026-08-18T07:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/HYbJ1z4R7R",
+    "publish_time": "2026-08-18T06:42:56"
+  },
+  {
+    "file_name": "HP9WGNqbMAEodlh.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HP9WGNqbMAEodlh.jpg",
+    "read_time": "2026-08-18T07:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34057,
+      "timestamp": "2026-08-18T07:01:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 127502,
+      "size_mb": 0.12,
+      "timestamp": "2026-08-18T07:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Cs90QdqwRw",
+    "publish_time": "2026-08-18T06:44:03"
   }
 ]
