@@ -1118,6 +1118,58 @@
     "publish_time": "2026-08-17T08:09:57"
   },
   {
+    "file_name": "HP4qYuDaIAAo73s.jpg",
+    "user": {
+      "screen_name": "CDDDHL",
+      "name": "嘻嘻哈哈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HP4qYuDaIAAo73s.jpg",
+    "read_time": "2026-08-18T03:02:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34046,
+      "timestamp": "2026-08-18T03:02:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 123019,
+      "size_mb": 0.12,
+      "timestamp": "2026-08-18T03:02:52",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/dlkiRMu1KX",
+    "publish_time": "2026-08-17T08:54:37"
+  },
+  {
+    "file_name": "HP4qYuHbkAAml5i.jpg",
+    "user": {
+      "screen_name": "CDDDHL",
+      "name": "嘻嘻哈哈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HP4qYuHbkAAml5i.jpg",
+    "read_time": "2026-08-18T03:02:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34047,
+      "timestamp": "2026-08-18T03:02:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 140143,
+      "size_mb": 0.13,
+      "timestamp": "2026-08-18T03:02:54",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/dlkiRMu1KX",
+    "publish_time": "2026-08-17T08:54:37"
+  },
+  {
     "file_name": "p30DLaZSvsq-HRJc.mp4",
     "user": {
       "screen_name": "BBoy1069",
@@ -2702,6 +2754,32 @@
     },
     "full_text": "https://t.co/lpi0oDabGS",
     "publish_time": "2026-08-17T18:16:40"
+  },
+  {
+    "file_name": "FeXOVsjDr6mYHyzr.mp4",
+    "user": {
+      "screen_name": "tzz_an",
+      "name": "安捏甘丟"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2089298703068901376/vid/avc1/720x1280/FeXOVsjDr6mYHyzr.mp4?tag=29",
+    "read_time": "2026-08-18T03:02:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34048,
+      "timestamp": "2026-08-18T03:02:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 625145,
+      "size_mb": 0.6,
+      "timestamp": "2026-08-18T03:02:55",
+      "download_attempts": 0
+    },
+    "full_text": "🐶 https://t.co/PUFxHuLY5S",
+    "publish_time": "2026-08-17T18:30:07"
   },
   {
     "file_name": "HP6yPx-a0AAfi14.jpg",
