@@ -768,17 +768,147 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (115MB > 50MB)",
       "timestamp": "2026-08-18T11:01:51",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 121433342,
       "size_mb": 115.81,
-      "timestamp": "2026-08-18T11:01:51",
+      "timestamp": "2026-08-18T12:01:39",
       "download_attempts": 0
     },
     "full_text": "https://t.co/rcRcuXjL28",
     "publish_time": "2026-08-18T10:50:40"
+  },
+  {
+    "file_name": "HP-R_JNbMAAmeW_.jpg",
+    "user": {
+      "screen_name": "zerosugarcoffee",
+      "name": "芬太可"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HP-R_JNbMAAmeW_.jpg",
+    "read_time": "2026-08-18T12:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34070,
+      "timestamp": "2026-08-18T12:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 98458,
+      "size_mb": 0.09,
+      "timestamp": "2026-08-18T12:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "最近在认真地social和充实自己 https://t.co/SnsfaFr7no",
+    "publish_time": "2026-08-18T11:07:39"
+  },
+  {
+    "file_name": "HP-SGxgawAARHFh.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HP-SGxgawAARHFh.jpg",
+    "read_time": "2026-08-18T12:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34071,
+      "timestamp": "2026-08-18T12:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 286466,
+      "size_mb": 0.27,
+      "timestamp": "2026-08-18T12:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/0JfWqsly2W",
+    "publish_time": "2026-08-18T11:08:25"
+  },
+  {
+    "file_name": "HP-SKuJacAAX_6j.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HP-SKuJacAAX_6j.jpg",
+    "read_time": "2026-08-18T12:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34072,
+      "timestamp": "2026-08-18T12:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 265388,
+      "size_mb": 0.25,
+      "timestamp": "2026-08-18T12:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/0JfWqsly2W",
+    "publish_time": "2026-08-18T11:08:25"
+  },
+  {
+    "file_name": "HP-SNaoboAA4F8F.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HP-SNaoboAA4F8F.jpg",
+    "read_time": "2026-08-18T12:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34073,
+      "timestamp": "2026-08-18T12:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 218464,
+      "size_mb": 0.21,
+      "timestamp": "2026-08-18T12:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/0JfWqsly2W",
+    "publish_time": "2026-08-18T11:08:25"
+  },
+  {
+    "file_name": "HP-SpVlXwAA2Upv.jpg",
+    "user": {
+      "screen_name": "chounizadi2021",
+      "name": "男神传送门"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HP-SpVlXwAA2Upv.jpg",
+    "read_time": "2026-08-18T12:01:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34074,
+      "timestamp": "2026-08-18T12:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 201591,
+      "size_mb": 0.19,
+      "timestamp": "2026-08-18T12:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "【粉丝投稿】谁知道这个是谁，知道的社交账号的请私信。第一个私信开门的可以免费寻人。（发帖寻人收费🧧，vpn不稳定，寻人/征友/买男性用品加个人VX（SYLjiankang2023），注明来意否则不通过） https://t.co/3LjBvDoxlX",
+    "publish_time": "2026-08-18T11:08:38"
   }
 ]
