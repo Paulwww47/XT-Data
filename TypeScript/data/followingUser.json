@@ -583,7 +583,20 @@
       "createdAt": "Sun Jul 26 13:02:16 +0000 2015",
       "description": "ชอบใส่ชุดออฟฟิศ || แอคนี้ 18+ ไม่ต้องฟอลกลับก็ได้ || ไม่นัด ไม่คอลแลบ ไม่รับงานทุกกรณี ไม่เล่นแอปหาคู่ ไม่มีแอคจีน || มีแฟนแล้วครับ @PureParattakorn 🥰❤️✨✨",
       "entities": {
-        "description": {}
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/arthur_pmt_bot",
+              "expanded_url": "http://t.me/arthur_pmt_bot",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Ub7ojxY4XE"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3295129758/1753539462",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2087383111676108801/sku43haa_normal.jpg"
