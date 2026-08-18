@@ -238,5 +238,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2089483422607769686",
     "fullText": "https://t.co/Cs90QdqwRw",
     "publishTime": "2026-08-18T06:44:03"
+  },
+  {
+    "user": {
+      "screenName": "abdkym19",
+      "name": "keyoum"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HP9hvd9bEAAyLXc.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/abdkym19/status/2089496232851087520",
+    "fullText": "https://t.co/XSCUinTbsp",
+    "publishTime": "2026-08-18T07:34:57"
+  },
+  {
+    "user": {
+      "screenName": "Ve666v",
+      "name": "Ve"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HP9i4fCWAAACvYs.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Ve666v/status/2089497502164689307",
+    "fullText": "又熬穿了 这一切的一切都完蛋了. https://t.co/e9LqIeVRCr",
+    "publishTime": "2026-08-18T07:40:00"
   }
 ]
