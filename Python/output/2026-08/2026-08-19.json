@@ -3062,14 +3062,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (60MB > 50MB)",
       "timestamp": "2026-08-19T22:02:30",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 63105515,
       "size_mb": 60.18,
-      "timestamp": "2026-08-19T22:02:30",
+      "timestamp": "2026-08-19T23:02:22",
       "download_attempts": 0
     },
     "full_text": "https://t.co/CfzofO6AU0",
@@ -3100,5 +3100,291 @@
     },
     "full_text": "情人呢年纪小的我接受不了， https://t.co/4dGmtxrMd0",
     "publish_time": "2026-08-19T21:57:52"
+  },
+  {
+    "file_name": "KXhBzai_xQVWfKC9.mp4",
+    "user": {
+      "screen_name": "N92328292",
+      "name": "N🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2090077405285371904/vid/avc1/1280x720/KXhBzai_xQVWfKC9.mp4?tag=29",
+    "read_time": "2026-08-19T23:02:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34275,
+      "timestamp": "2026-08-19T23:02:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2014137,
+      "size_mb": 1.92,
+      "timestamp": "2026-08-19T23:02:23",
+      "download_attempts": 0
+    },
+    "full_text": "新內\n低調的色色 https://t.co/2bkBWx1pms",
+    "publish_time": "2026-08-19T22:04:32"
+  },
+  {
+    "file_name": "HQF0A5bbYAAxHbd.jpg",
+    "user": {
+      "screen_name": "OMyfavoriteboys",
+      "name": "My favorite boys"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQF0A5bbYAAxHbd.jpg",
+    "read_time": "2026-08-19T23:02:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34276,
+      "timestamp": "2026-08-19T23:02:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 99323,
+      "size_mb": 0.09,
+      "timestamp": "2026-08-19T23:02:27",
+      "download_attempts": 0
+    },
+    "full_text": "新作品 \n\n喜欢看简介过门槛后私信🥵 https://t.co/YDwZllrUBs",
+    "publish_time": "2026-08-19T22:11:44"
+  },
+  {
+    "file_name": "UxtGFv1X_Q_RWgYJ.mp4",
+    "user": {
+      "screen_name": "jj20cm_",
+      "name": "阳光小茄子"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2090081258831589376/vid/avc1/720x1280/UxtGFv1X_Q_RWgYJ.mp4?tag=29",
+    "read_time": "2026-08-19T23:02:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34277,
+      "timestamp": "2026-08-19T23:02:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 27299945,
+      "size_mb": 26.04,
+      "timestamp": "2026-08-19T23:02:29",
+      "download_attempts": 0
+    },
+    "full_text": "คุณชอบดูอะไรบ้าง🫣 https://t.co/S45jtOQ6pQ",
+    "publish_time": "2026-08-19T22:20:53"
+  },
+  {
+    "file_name": "HQF2phlbQAAbqQZ.jpg",
+    "user": {
+      "screen_name": "Leon_pan999",
+      "name": "Leon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQF2phlbQAAbqQZ.jpg",
+    "read_time": "2026-08-19T23:02:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34278,
+      "timestamp": "2026-08-19T23:02:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 91929,
+      "size_mb": 0.09,
+      "timestamp": "2026-08-19T23:02:33",
+      "download_attempts": 0
+    },
+    "full_text": "@BForBoysHK https://t.co/SxYs5BMlIe",
+    "publish_time": "2026-08-19T22:23:14"
+  },
+  {
+    "file_name": "HQF4TN1aMAA8I6V.jpg",
+    "user": {
+      "screen_name": "EthanXPC",
+      "name": "Ethan小趴菜（想谈恋爱版）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQF4TN1aMAA8I6V.jpg",
+    "read_time": "2026-08-19T23:02:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34279,
+      "timestamp": "2026-08-19T23:02:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 91376,
+      "size_mb": 0.09,
+      "timestamp": "2026-08-19T23:02:34",
+      "download_attempts": 0
+    },
+    "full_text": "预告 👊 https://t.co/RtExcl2URp",
+    "publish_time": "2026-08-19T22:30:30"
+  },
+  {
+    "file_name": "_pp2vQbrYPMcnksK.mp4",
+    "user": {
+      "screen_name": "zhzkj162968",
+      "name": "人间乐园Yuki熟男采访"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2090083979332554752/vid/avc1/464x848/_pp2vQbrYPMcnksK.mp4?tag=14",
+    "read_time": "2026-08-19T23:02:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34280,
+      "timestamp": "2026-08-19T23:02:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 8344875,
+      "size_mb": 7.96,
+      "timestamp": "2026-08-19T23:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "深圳广告设计大叔\n平时有健身，也有除毛，没毛🐔看起来是比较可口，最近比较忙没出去约炮，就只能在网上打发时间，熟男的味道真的很不错，尤其是说粗口的时候，好想天天榨干他👅 https://t.co/PrluNOyV6o",
+    "publish_time": "2026-08-19T22:30:44"
+  },
+  {
+    "file_name": "HQF6m3waYAAQBiq.jpg",
+    "user": {
+      "screen_name": "falling2024",
+      "name": "F∧LL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQF6m3waYAAQBiq.jpg",
+    "read_time": "2026-08-19T23:02:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34281,
+      "timestamp": "2026-08-19T23:02:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 105208,
+      "size_mb": 0.1,
+      "timestamp": "2026-08-19T23:02:39",
+      "download_attempts": 0
+    },
+    "full_text": "又一只大脑空空的肌肉🌶️😄 他已经变成翻白眼的sb了 ＃gooner ＃goon ＃肌肉反差 ＃反差 https://t.co/GlAOWtebMu",
+    "publish_time": "2026-08-19T22:40:35"
+  },
+  {
+    "file_name": "HQF6nesbgAAEE0G.jpg",
+    "user": {
+      "screen_name": "falling2024",
+      "name": "F∧LL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQF6nesbgAAEE0G.jpg",
+    "read_time": "2026-08-19T23:02:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34282,
+      "timestamp": "2026-08-19T23:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 103357,
+      "size_mb": 0.1,
+      "timestamp": "2026-08-19T23:02:40",
+      "download_attempts": 0
+    },
+    "full_text": "又一只大脑空空的肌肉🌶️😄 他已经变成翻白眼的sb了 ＃gooner ＃goon ＃肌肉反差 ＃反差 https://t.co/GlAOWtebMu",
+    "publish_time": "2026-08-19T22:40:35"
+  },
+  {
+    "file_name": "HQF8q5HbgAAeO4J.jpg",
+    "user": {
+      "screen_name": "huohuo0707330",
+      "name": "嚯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQF8q5HbgAAeO4J.jpg",
+    "read_time": "2026-08-19T23:02:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34283,
+      "timestamp": "2026-08-19T23:02:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 174914,
+      "size_mb": 0.17,
+      "timestamp": "2026-08-19T23:02:41",
+      "download_attempts": 0
+    },
+    "full_text": "七夕是什么🥱 https://t.co/66g3EeCvEs",
+    "publish_time": "2026-08-19T22:49:43"
+  },
+  {
+    "file_name": "HQF8q5BbQAArXYz.jpg",
+    "user": {
+      "screen_name": "huohuo0707330",
+      "name": "嚯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQF8q5BbQAArXYz.jpg",
+    "read_time": "2026-08-19T23:02:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34284,
+      "timestamp": "2026-08-19T23:02:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 194535,
+      "size_mb": 0.19,
+      "timestamp": "2026-08-19T23:02:43",
+      "download_attempts": 0
+    },
+    "full_text": "七夕是什么🥱 https://t.co/66g3EeCvEs",
+    "publish_time": "2026-08-19T22:49:43"
+  },
+  {
+    "file_name": "HQF9tKqagAAtAmu.jpg",
+    "user": {
+      "screen_name": "Nonglaoshi520",
+      "name": "长沙农老师"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQF9tKqagAAtAmu.jpg",
+    "read_time": "2026-08-19T23:02:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34285,
+      "timestamp": "2026-08-19T23:02:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 134405,
+      "size_mb": 0.13,
+      "timestamp": "2026-08-19T23:02:44",
+      "download_attempts": 0
+    },
+    "full_text": "七夕快乐，祝宝宝们天天玩粗大🐔🐔 https://t.co/aXFWK2W4wX",
+    "publish_time": "2026-08-19T22:54:06"
   }
 ]
