@@ -2148,17 +2148,121 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (53MB > 50MB)",
       "timestamp": "2026-08-19T16:02:39",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 56258221,
       "size_mb": 53.65,
-      "timestamp": "2026-08-19T16:02:39",
+      "timestamp": "2026-08-19T17:02:15",
       "download_attempts": 0
     },
     "full_text": "#云贵川肉壮体育老师 \n白天教小朋友们立正稍息\n晚上教小母狗如何用骚逼安抚辛苦了一天的爸爸\n鸡巴丑了点，但有一把骚嘴 \n5分钟的视频，能让多少姐妹看射？ https://t.co/Dnsql5PQiq",
     "publish_time": "2026-08-19T15:53:12"
+  },
+  {
+    "file_name": "HQEhxHyWgAACF97.jpg",
+    "user": {
+      "screen_name": "junjunshiheihei",
+      "name": "JunJun"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQEhxHyWgAACF97.jpg",
+    "read_time": "2026-08-19T17:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34241,
+      "timestamp": "2026-08-19T17:02:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 204709,
+      "size_mb": 0.2,
+      "timestamp": "2026-08-19T17:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "狗逼光是看你臭脚爹的爷们鞋垫就翻白眼流口水了🧠 https://t.co/z1kliWmIXG",
+    "publish_time": "2026-08-19T16:12:26"
+  },
+  {
+    "file_name": "HQEqRYcbEAAH_xQ.jpg",
+    "user": {
+      "screen_name": "JamesShihShih",
+      "name": "JamesShih"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQEqRYcbEAAH_xQ.jpg",
+    "read_time": "2026-08-19T17:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34242,
+      "timestamp": "2026-08-19T17:02:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 112052,
+      "size_mb": 0.11,
+      "timestamp": "2026-08-19T17:02:17",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/9SnHS576sU",
+    "publish_time": "2026-08-19T16:49:38"
+  },
+  {
+    "file_name": "HQEqsvPbwAAPN5S.jpg",
+    "user": {
+      "screen_name": "xiaojin20001112",
+      "name": "小金"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQEqsvPbwAAPN5S.jpg",
+    "read_time": "2026-08-19T17:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34243,
+      "timestamp": "2026-08-19T17:02:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 124012,
+      "size_mb": 0.12,
+      "timestamp": "2026-08-19T17:02:19",
+      "download_attempts": 0
+    },
+    "full_text": "七夕福利门槛49看全部视频 https://t.co/xDZBz3UOY9",
+    "publish_time": "2026-08-19T16:51:29"
+  },
+  {
+    "file_name": "dLR0_iPQyUstm4qg.mp4",
+    "user": {
+      "screen_name": "tuo_522",
+      "name": "是坨坨啊"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2090000451186180096/vid/avc1/1280x428/dLR0_iPQyUstm4qg.mp4?tag=29",
+    "read_time": "2026-08-19T17:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34244,
+      "timestamp": "2026-08-19T17:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 616771,
+      "size_mb": 0.59,
+      "timestamp": "2026-08-19T17:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/kkGL9sSusO",
+    "publish_time": "2026-08-19T16:58:39"
   }
 ]
