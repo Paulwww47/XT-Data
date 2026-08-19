@@ -1418,14 +1418,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (56MB > 50MB)",
       "timestamp": "2026-08-19T13:02:07",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 58874416,
       "size_mb": 56.15,
-      "timestamp": "2026-08-19T13:02:07",
+      "timestamp": "2026-08-19T14:03:22",
       "download_attempts": 0
     },
     "full_text": "小色鬼们七夕快乐 开头放了射精片段\n来跟你爹一起释放吧 https://t.co/ZeoFAepSTH",
@@ -1534,5 +1534,109 @@
     },
     "full_text": "·\nEric 真的身材越来越棒；越来越帅了！@_ericeast  https://t.co/mPhq02i9t3",
     "publish_time": "2026-08-19T12:21:03"
+  },
+  {
+    "file_name": "HQD644fXIAATo6A.jpg",
+    "user": {
+      "screen_name": "jia6995322",
+      "name": "小鸡炖金针菇"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQD644fXIAATo6A.jpg",
+    "read_time": "2026-08-19T14:03:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34218,
+      "timestamp": "2026-08-19T14:03:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 204776,
+      "size_mb": 0.2,
+      "timestamp": "2026-08-19T14:03:22",
+      "download_attempts": 0
+    },
+    "full_text": "好无聊 https://t.co/Vu1FNaKYVx",
+    "publish_time": "2026-08-19T13:22:34"
+  },
+  {
+    "file_name": "HQEAGs6a8AAzr9e.jpg",
+    "user": {
+      "screen_name": "arthurz_xcx",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQEAGs6a8AAzr9e.jpg",
+    "read_time": "2026-08-19T14:03:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34219,
+      "timestamp": "2026-08-19T14:03:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 118993,
+      "size_mb": 0.11,
+      "timestamp": "2026-08-19T14:03:24",
+      "download_attempts": 0
+    },
+    "full_text": "จิ้มสีได้ละปะแบบนี้ #iPhone18 https://t.co/8LAr9lKyhN",
+    "publish_time": "2026-08-19T13:45:25"
+  },
+  {
+    "file_name": "O_9xJb9ikh9kuQSW.mp4",
+    "user": {
+      "screen_name": "Hhhhddo8",
+      "name": "Hhhh"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2089954524928913408/vid/avc1/720x1280/O_9xJb9ikh9kuQSW.mp4?tag=29",
+    "read_time": "2026-08-19T14:03:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34220,
+      "timestamp": "2026-08-19T14:03:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 624840,
+      "size_mb": 0.6,
+      "timestamp": "2026-08-19T14:03:26",
+      "download_attempts": 0
+    },
+    "full_text": "#体育生 #健身教练 #直男 #腹肌  #粗口 #胸肌 https://t.co/L3hC3oxMn7",
+    "publish_time": "2026-08-19T13:56:07"
+  },
+  {
+    "file_name": "TYfNVg-BztTg1gHw.mp4",
+    "user": {
+      "screen_name": "liu6864",
+      "name": "CL357"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2089953873096241152/vid/avc1/720x960/TYfNVg-BztTg1gHw.mp4?tag=14",
+    "read_time": "2026-08-19T14:03:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34221,
+      "timestamp": "2026-08-19T14:03:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2608892,
+      "size_mb": 2.49,
+      "timestamp": "2026-08-19T14:03:29",
+      "download_attempts": 0
+    },
+    "full_text": "《爱的供养》，好了博主要去减肥去了，肚子肉太多了~消失一段时间? https://t.co/3i0pFrpGoR",
+    "publish_time": "2026-08-19T13:56:20"
   }
 ]
