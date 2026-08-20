@@ -2200,14 +2200,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (193MB > 50MB)",
       "timestamp": "2026-08-20T16:02:19",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 202704072,
       "size_mb": 193.31,
-      "timestamp": "2026-08-20T16:02:19",
+      "timestamp": "2026-08-20T17:02:23",
       "download_attempts": 0
     },
     "full_text": "https://t.co/SgxuaNeNO2",
@@ -2290,5 +2290,135 @@
     },
     "full_text": "整路流到淹水了\n（開玩笑的\n不過一直擦是真的\n我還是很有道德\n怕把別人椅子弄髒了 https://t.co/Ub29IV0MwE",
     "publish_time": "2026-08-20T15:31:58"
+  },
+  {
+    "file_name": "HQJtUkQa4AAfJ2v.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQJtUkQa4AAfJ2v.jpg",
+    "read_time": "2026-08-20T17:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34385,
+      "timestamp": "2026-08-20T17:02:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 98045,
+      "size_mb": 0.09,
+      "timestamp": "2026-08-20T17:02:23",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/zFVhdnJfMJ",
+    "publish_time": "2026-08-20T16:20:57"
+  },
+  {
+    "file_name": "2xkZJcVpZjxOwhI_.mp4",
+    "user": {
+      "screen_name": "N92328292",
+      "name": "N🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2090356190333288448/vid/avc1/720x720/2xkZJcVpZjxOwhI_.mp4?tag=29",
+    "read_time": "2026-08-20T17:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34386,
+      "timestamp": "2026-08-20T17:02:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3841579,
+      "size_mb": 3.66,
+      "timestamp": "2026-08-20T17:02:26",
+      "download_attempts": 0
+    },
+    "full_text": "快閃台南啦 https://t.co/XWvr9RDfli",
+    "publish_time": "2026-08-20T16:32:33"
+  },
+  {
+    "file_name": "HQJwEr5XcAAhxG1.jpg",
+    "user": {
+      "screen_name": "chounizadi2021",
+      "name": "男神传送门"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQJwEr5XcAAhxG1.jpg",
+    "read_time": "2026-08-20T17:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34387,
+      "timestamp": "2026-08-20T17:02:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 123229,
+      "size_mb": 0.12,
+      "timestamp": "2026-08-20T17:02:29",
+      "download_attempts": 0
+    },
+    "full_text": "【粉丝投稿】谁知道这个是谁，知道的社交账号的请私信。第一个私信开门的可以免费寻人。（发帖寻人收费🧧，vpn不稳定，寻人/征友/买男性用品加个人VX（SYLjiankang2023），注明来意否则不通过） https://t.co/Tkx18eUaRL",
+    "publish_time": "2026-08-20T16:33:03"
+  },
+  {
+    "file_name": "vQSajuhBbe0VyvrF.mp4",
+    "user": {
+      "screen_name": "N92328292",
+      "name": "N🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2090358299279720448/vid/avc1/720x1280/vQSajuhBbe0VyvrF.mp4?tag=29",
+    "read_time": "2026-08-20T17:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34388,
+      "timestamp": "2026-08-20T17:02:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2943414,
+      "size_mb": 2.81,
+      "timestamp": "2026-08-20T17:02:31",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/73B8V84WZP",
+    "publish_time": "2026-08-20T16:40:39"
+  },
+  {
+    "file_name": "HQJx_kubAAAxa89.jpg",
+    "user": {
+      "screen_name": "neon385908",
+      "name": "ne on"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQJx_kubAAAxa89.jpg",
+    "read_time": "2026-08-20T17:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34389,
+      "timestamp": "2026-08-20T17:02:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101689,
+      "size_mb": 0.1,
+      "timestamp": "2026-08-20T17:02:33",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/U7CwRS0Isj",
+    "publish_time": "2026-08-20T16:41:23"
   }
 ]
