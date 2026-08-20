@@ -2172,17 +2172,123 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (209MB > 50MB)",
       "timestamp": "2026-08-20T15:02:44",
+      "notification_sent": true
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 219914665,
+      "size_mb": 209.73,
+      "timestamp": "2026-08-20T16:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Q0aVa9wPsk",
+    "publish_time": "2026-08-20T15:00:45"
+  },
+  {
+    "file_name": "hrljJAPkVKbQR1A4.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2090334388118827008/vid/avc1/1280x720/hrljJAPkVKbQR1A4.mp4?tag=29",
+    "read_time": "2026-08-20T16:02:00",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (193MB > 50MB)",
+      "timestamp": "2026-08-20T16:02:19",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 219914665,
-      "size_mb": 209.73,
-      "timestamp": "2026-08-20T15:02:44",
+      "size": 202704072,
+      "size_mb": 193.31,
+      "timestamp": "2026-08-20T16:02:19",
       "download_attempts": 0
     },
-    "full_text": "https://t.co/Q0aVa9wPsk",
-    "publish_time": "2026-08-20T15:00:45"
+    "full_text": "https://t.co/SgxuaNeNO2",
+    "publish_time": "2026-08-20T15:09:13"
+  },
+  {
+    "file_name": "bKwH0YfAVbhiQL0p.mp4",
+    "user": {
+      "screen_name": "Linxs5767",
+      "name": "特大号（上翘粗🍆深圳"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2090335949226123264/vid/avc1/720x1280/bKwH0YfAVbhiQL0p.mp4?tag=29",
+    "read_time": "2026-08-20T16:02:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34382,
+      "timestamp": "2026-08-20T16:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 6965040,
+      "size_mb": 6.64,
+      "timestamp": "2026-08-20T16:02:20",
+      "download_attempts": 0
+    },
+    "full_text": "#肌肉0  包裹性很强的🍑真的很加分 全程包裹性很强每操一下包的🐔满满的， https://t.co/NrJYIvrEPl",
+    "publish_time": "2026-08-20T15:12:05"
+  },
+  {
+    "file_name": "HQJgK_kaIAAeCUc.jpg",
+    "user": {
+      "screen_name": "xiaojin20001112",
+      "name": "小金"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQJgK_kaIAAeCUc.jpg",
+    "read_time": "2026-08-20T16:02:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34383,
+      "timestamp": "2026-08-20T16:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 180054,
+      "size_mb": 0.17,
+      "timestamp": "2026-08-20T16:02:24",
+      "download_attempts": 0
+    },
+    "full_text": "限时今天门槛44。过时按原价。送全部视频 https://t.co/7INAzVxDWn",
+    "publish_time": "2026-08-20T15:23:37"
+  },
+  {
+    "file_name": "dhRZB08Pl3JEKoyA.mp4",
+    "user": {
+      "screen_name": "N92328292",
+      "name": "N🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2090340954117136385/vid/avc1/720x720/dhRZB08Pl3JEKoyA.mp4?tag=29",
+    "read_time": "2026-08-20T16:02:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34384,
+      "timestamp": "2026-08-20T16:02:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2178804,
+      "size_mb": 2.08,
+      "timestamp": "2026-08-20T16:02:25",
+      "download_attempts": 0
+    },
+    "full_text": "整路流到淹水了\n（開玩笑的\n不過一直擦是真的\n我還是很有道德\n怕把別人椅子弄髒了 https://t.co/Ub29IV0MwE",
+    "publish_time": "2026-08-20T15:31:58"
   }
 ]
