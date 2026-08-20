@@ -35,6 +35,18 @@
     "images": [],
     "videos": [],
     "expandUrls": [],
+    "tweetUrl": "https://x.com/Big_straight_H/status/2090108998808924598",
+    "fullText": "能拍片優先啦🤣🤣🤣🤣",
+    "publishTime": "2026-08-20T00:09:52"
+  },
+  {
+    "user": {
+      "screenName": "Big_straight_H",
+      "name": "荒"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
     "tweetUrl": "https://x.com/Big_straight_H/status/2090109888131485722",
     "fullText": "哇 這篇終於真人回來了 好感人🫶🫶🫶 不要再給我假帳號了",
     "publishTime": "2026-08-20T00:13:24"
@@ -425,5 +437,50 @@
     "tweetUrl": "https://x.com/junglewildwild/status/2090241505390973168",
     "fullText": "https://t.co/eYAmPpwX3l",
     "publishTime": "2026-08-20T08:56:24"
+  },
+  {
+    "user": {
+      "screenName": "hymanjuan4",
+      "name": "HL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2090249144602652672/vid/avc1/360x640/CiQzGuxon5XTZ3cz.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/hymanjuan4/status/2090249171056128462",
+    "fullText": "https://t.co/1pUSm3pAgD",
+    "publishTime": "2026-08-20T09:26:51"
+  },
+  {
+    "user": {
+      "screenName": "hymanjuan4",
+      "name": "HL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQIOmZRb0AAWcHt.jpg",
+      "https://pbs.twimg.com/media/HQIOmpka0AAnO8f.jpg",
+      "https://pbs.twimg.com/media/HQIOm5HawAAxLjT.jpg",
+      "https://pbs.twimg.com/media/HQIOnJQawAExXAk.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/hymanjuan4/status/2090249247589539967",
+    "fullText": "https://t.co/UPllM9tUJc",
+    "publishTime": "2026-08-20T09:27:10"
+  },
+  {
+    "user": {
+      "screenName": "vmya_",
+      "name": "vm"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQISSBGWwAAeLAG.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/vmya_/status/2090253296107651409",
+    "fullText": "#直男体育生 #背 https://t.co/lr0c60wVRK",
+    "publishTime": "2026-08-20T09:43:15"
   }
 ]
