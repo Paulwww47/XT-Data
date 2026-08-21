@@ -581,7 +581,7 @@
       "name": "Arthur (อาเธอร์) ♠︎",
       "screenName": "arthurz_xcx",
       "createdAt": "Sun Jul 26 13:02:16 +0000 2015",
-      "description": "ชอบใส่ชุดออฟฟิศ || แอคนี้ 18+ ไม่ต้องฟอลกลับก็ได้ || ไม่นัด ไม่คอลแลบ ไม่รับงานทุกกรณี ไม่เล่นแอปหาคู่ ไม่มีแอคจีน || มีแฟนแล้วครับ @PureParattakorn 🥰❤️✨✨",
+      "description": "NSFW 18+ ไม่ต้องฟอลกลับก็ได้ || ไม่เล่นแอปหาคู่ ไม่มีแอคจีน || Joe Bird + Robert Pattinson + Declan Rice Stan 🤩 || มีแฟนแล้วครับ @PureParattakorn 🥰❤️✨✨",
       "entities": {
         "description": {},
         "url": {
@@ -2628,7 +2628,7 @@
         "description": {}
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1372658526963699716/1656949343",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1891153919721852928/9PONC7Af_normal.jpg"
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2090538046945140736/NuDVIpKh_normal.jpg"
     }
   },
   {
@@ -7613,9 +7613,21 @@
       "name": "路过",
       "screenName": "xhn1069",
       "createdAt": "Thu Dec 20 01:56:33 +0000 2018",
-      "description": "很反差，想被拍摄想兼职做spa了操蛋",
+      "description": "很反差，想被拍摄想兼职做spa了操蛋\n\nhttps://t.co/3vHuiNXjia",
       "entities": {
-        "description": {}
+        "description": {
+          "urls": [
+            {
+              "display_url": "fansone.co/xhn1069",
+              "expanded_url": "https://fansone.co/xhn1069",
+              "indices": [
+                20,
+                43
+              ],
+              "url": "https://t.co/3vHuiNXjia"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1075570620606373888/1545271360",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1368777769967099904/2JobABd4_normal.jpg"
