@@ -2637,7 +2637,7 @@
       "name": "黑皮阿黎Alibaby",
       "screenName": "Happyali03",
       "createdAt": "Tue Jun 09 22:56:24 +0000 2026",
-      "description": "🚪128➕🛰️/防丟失➡️@Happyali0809\n原創博主 完整無碼版➡️請订阅https://t.co/ETJtbcilIN\n电报群➡️https://t.co/MHIQXYU7bH",
+      "description": "🚪128➕🛰️/防丟失➡️@Happyali01\n原創博主 完整無碼版➡️請订阅https://t.co/ETJtbcilIN\n电报群➡️https://t.co/MHIQXYU7bH",
       "entities": {
         "description": {
           "urls": [
@@ -2645,8 +2645,8 @@
               "display_url": "fansone.co/Happali8090",
               "expanded_url": "https://fansone.co/Happali8090",
               "indices": [
-                42,
-                65
+                40,
+                63
               ],
               "url": "https://t.co/ETJtbcilIN"
             },
@@ -2654,8 +2654,8 @@
               "display_url": "t.me/+kLUN6MCFuHVhY…",
               "expanded_url": "https://t.me/+kLUN6MCFuHVhYzJh",
               "indices": [
-                71,
-                94
+                69,
+                92
               ],
               "url": "https://t.co/MHIQXYU7bH"
             }
@@ -3529,27 +3529,36 @@
       "name": "185 Joseph",
       "screenName": "josephmrkao",
       "createdAt": "Sun Aug 20 14:35:09 +0000 2023",
-      "description": "🔞R18，未成年禁止點閱🔞｜Adult Content ｜185｜85｜Bi｜https://t.co/Adab52VvG9｜https://t.co/tEqaIGPOdq｜\nanother side 🌛 @roadshow01",
+      "description": "🔞R18，未成年禁止點閱🔞｜Adult Content \n🙎‍♂️ https://t.co/OpH6nsXiej\n▶️ https://t.co/Adab52UXQB\n📽 https://t.co/tEqaIGPgnS\nanother side 🌛 @roadshow01",
       "entities": {
         "description": {
           "urls": [
             {
+              "display_url": "onlyfans.com/josephmrkao185",
+              "expanded_url": "http://onlyfans.com/josephmrkao185",
+              "indices": [
+                34,
+                57
+              ],
+              "url": "https://t.co/OpH6nsXiej"
+            },
+            {
               "display_url": "Fansone.co/josephkao001",
               "expanded_url": "http://Fansone.co/josephkao001",
               "indices": [
-                39,
-                62
+                61,
+                84
               ],
-              "url": "https://t.co/Adab52VvG9"
+              "url": "https://t.co/Adab52UXQB"
             },
             {
               "display_url": "Justfor.fans/josephkao001",
               "expanded_url": "http://Justfor.fans/josephkao001",
               "indices": [
-                63,
-                86
+                87,
+                110
               ],
-              "url": "https://t.co/tEqaIGPOdq"
+              "url": "https://t.co/tEqaIGPgnS"
             }
           ]
         },
@@ -3562,7 +3571,7 @@
                 0,
                 23
               ],
-              "url": "https://t.co/NVIRCFNzxj"
+              "url": "https://t.co/NVIRCFN1HL"
             }
           ]
         }
@@ -7613,16 +7622,17 @@
       "name": "路过",
       "screenName": "xhn1069",
       "createdAt": "Thu Dec 20 01:56:33 +0000 2018",
-      "description": "很反差，想被拍摄想兼职做spa了操蛋\n\nhttps://t.co/3vHuiNXjia",
+      "description": "很反差，想被拍摄想兼职做spa了操蛋",
       "entities": {
-        "description": {
+        "description": {},
+        "url": {
           "urls": [
             {
               "display_url": "fansone.co/xhn1069",
               "expanded_url": "https://fansone.co/xhn1069",
               "indices": [
-                20,
-                43
+                0,
+                23
               ],
               "url": "https://t.co/3vHuiNXjia"
             }
@@ -8017,7 +8027,20 @@
       "createdAt": "Fri May 15 09:18:37 +0000 2026",
       "description": "",
       "entities": {
-        "description": {}
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/xlin18cn?igsi=…",
+              "expanded_url": "https://www.instagram.com/xlin18cn?igsi=OXAyendrNXl2aWVh&utm_source=qr",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/L1QFWNroiD"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2081905022116450304/W13nD13n_normal.jpg"
