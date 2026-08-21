@@ -622,5 +622,57 @@
     },
     "full_text": "在車上睡一覺醒來\n又變這樣了\n好漲 https://t.co/lxFHDS9URe",
     "publish_time": "2026-08-21T07:56:33"
+  },
+  {
+    "file_name": "HQNRdstbMAAbj0G.jpg",
+    "user": {
+      "screen_name": "XXxLin18cn",
+      "name": "小林不小"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQNRdstbMAAbj0G.jpg",
+    "read_time": "2026-08-21T09:02:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34463,
+      "timestamp": "2026-08-21T09:02:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 94018,
+      "size_mb": 0.09,
+      "timestamp": "2026-08-21T09:02:19",
+      "download_attempts": 0
+    },
+    "full_text": "早上好 https://t.co/Kle1CviWRz",
+    "publish_time": "2026-08-21T08:57:44"
+  },
+  {
+    "file_name": "J2gxjRMHXI6t-gQ9.mp4",
+    "user": {
+      "screen_name": "yhao_97",
+      "name": "大虎"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2090604587187380225/vid/avc1/1280x720/J2gxjRMHXI6t-gQ9.mp4?tag=29",
+    "read_time": "2026-08-21T09:02:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34464,
+      "timestamp": "2026-08-21T09:02:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1066791,
+      "size_mb": 1.02,
+      "timestamp": "2026-08-21T09:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "硬醒 https://t.co/U8FWVFnC2v",
+    "publish_time": "2026-08-21T08:59:16"
   }
 ]

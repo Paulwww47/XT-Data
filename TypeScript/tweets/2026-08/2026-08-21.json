@@ -343,5 +343,33 @@
     "tweetUrl": "https://x.com/N92328292/status/2090588831355703579",
     "fullText": "在車上睡一覺醒來\n又變這樣了\n好漲 https://t.co/lxFHDS9URe",
     "publishTime": "2026-08-21T07:56:33"
+  },
+  {
+    "user": {
+      "screenName": "XXxLin18cn",
+      "name": "小林不小"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQNRdstbMAAbj0G.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/XXxLin18cn/status/2090604229300007304",
+    "fullText": "早上好 https://t.co/Kle1CviWRz",
+    "publishTime": "2026-08-21T08:57:44"
+  },
+  {
+    "user": {
+      "screenName": "yhao_97",
+      "name": "大虎"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2090604587187380225/vid/avc1/1280x720/J2gxjRMHXI6t-gQ9.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/yhao_97/status/2090604613980631388",
+    "fullText": "硬醒 https://t.co/U8FWVFnC2v",
+    "publishTime": "2026-08-21T08:59:16"
   }
 ]
