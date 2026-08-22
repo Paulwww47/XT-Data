@@ -2738,9 +2738,22 @@
       "name": "和大人",
       "screenName": "HeKyo7991",
       "createdAt": "Mon Sep 25 13:30:54 +0000 2017",
-      "description": "记录些好看的，日常在dy和小红书（同id）",
+      "description": "记录些好看的，如果你能关注我的小红书我会更高兴啦。",
       "entities": {
-        "description": {}
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "",
+              "expanded_url": "",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/eIaFLVqyES"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/912308431163232259/1582274566",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1969634283192270852/rnfGE4HK_normal.jpg"
@@ -3139,7 +3152,7 @@
       "name": "灏子不是耗子",
       "screenName": "icemeishi2001",
       "createdAt": "Thu Jan 29 01:12:49 +0000 2026",
-      "description": "推止于推/另外两个账号是假的别被骗💰",
+      "description": "推止于推/其他账号是假的别被骗💰",
       "entities": {
         "description": {}
       },
@@ -4304,7 +4317,7 @@
   {
     "restId": "2056600122403020800",
     "legacy": {
-      "name": "特大号（上翘粗🍆深圳",
+      "name": "特大号（上翘粗🍆杭州24-26",
       "screenName": "Linxs5767",
       "createdAt": "Tue May 19 04:58:34 +0000 2026",
       "description": "新号：🛰️🚪🙅🏻‍♂️闲聊@66881026H大号\n🍆 178-65-17.5上翘🐔🍆顶 比视频粗大 🉑 🙅🏻‍♂️懂？🉑🪂抖音：林先生D",
@@ -6259,7 +6272,7 @@
       "name": "穆萨（互推私）",
       "screenName": "Shangsujanmh",
       "createdAt": "Thu Jun 25 15:07:58 +0000 2026",
-      "description": "二级运动员  男大",
+      "description": "二级运动员 男大 双",
       "entities": {
         "description": {}
       },
@@ -8166,7 +8179,7 @@
   {
     "restId": "1953086407616217088",
     "legacy": {
-      "name": "阳沫雨（宁波",
+      "name": "阳沫雨（杭州",
       "screenName": "yangmoyum",
       "createdAt": "Wed Aug 06 13:31:11 +0000 2025",
       "description": "｜喜欢拍照📷｜\n｜可接spa💆到位：1074683（全国🉑✈️）｜\n｜可出原味 🧦🩲 |\n｜小蓝翻咔：阳沫雨（全网同名）|\n｜v:zmj0241（有门槛🧧注明来意）｜\n备用号@yangmoyub",
