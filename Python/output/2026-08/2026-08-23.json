@@ -924,14 +924,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (1127MB > 50MB)",
       "timestamp": "2026-08-23T13:02:01",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 1182358807,
       "size_mb": 1127.59,
-      "timestamp": "2026-08-23T13:02:01",
+      "timestamp": "2026-08-23T14:02:06",
       "download_attempts": 0
     },
     "full_text": "这个0也太好看了 好帅好乖啊 天菜了 https://t.co/7fMxaDGMDo",
@@ -1066,5 +1066,135 @@
     },
     "full_text": "怎么那么多人说我是🐻啊😑，我真的不是🐻，我是儿童身材😑 #gay https://t.co/4shPsazbyC",
     "publish_time": "2026-08-23T12:54:15"
+  },
+  {
+    "file_name": "HQYdLGsboAATWrw.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQYdLGsboAATWrw.jpg",
+    "read_time": "2026-08-23T14:02:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34771,
+      "timestamp": "2026-08-23T14:02:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101840,
+      "size_mb": 0.1,
+      "timestamp": "2026-08-23T14:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/DcwYHIEC80",
+    "publish_time": "2026-08-23T13:04:43"
+  },
+  {
+    "file_name": "HQYdh-qbgAAWEva.jpg",
+    "user": {
+      "screen_name": "vmya_",
+      "name": "vm"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQYdh-qbgAAWEva.jpg",
+    "read_time": "2026-08-23T14:02:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34772,
+      "timestamp": "2026-08-23T14:02:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 118219,
+      "size_mb": 0.11,
+      "timestamp": "2026-08-23T14:02:08",
+      "download_attempts": 0
+    },
+    "full_text": "#真空腹 https://t.co/FbUFfixnTI",
+    "publish_time": "2026-08-23T13:06:17"
+  },
+  {
+    "file_name": "HQYdu9obwAAw9v3.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQYdu9obwAAw9v3.jpg",
+    "read_time": "2026-08-23T14:02:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34773,
+      "timestamp": "2026-08-23T14:02:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 139401,
+      "size_mb": 0.13,
+      "timestamp": "2026-08-23T14:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/nJhrLUJVMe",
+    "publish_time": "2026-08-23T13:07:10"
+  },
+  {
+    "file_name": "HQYfJcibYAAXJuU.jpg",
+    "user": {
+      "screen_name": "liu6864",
+      "name": "CL357"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQYfJcibYAAXJuU.jpg",
+    "read_time": "2026-08-23T14:02:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34774,
+      "timestamp": "2026-08-23T14:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 147715,
+      "size_mb": 0.14,
+      "timestamp": "2026-08-23T14:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "包裹性很好，你知道如何判断，需要示范一下使用方法么？😉 https://t.co/lOoLR3Xatv",
+    "publish_time": "2026-08-23T13:14:02"
+  },
+  {
+    "file_name": "HQYj5dxbMAAPmmG.jpg",
+    "user": {
+      "screen_name": "alvingoooo",
+      "name": "go"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQYj5dxbMAAPmmG.jpg",
+    "read_time": "2026-08-23T14:02:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 34775,
+      "timestamp": "2026-08-23T14:02:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 192820,
+      "size_mb": 0.18,
+      "timestamp": "2026-08-23T14:02:12",
+      "download_attempts": 0
+    },
+    "full_text": "End of bulking szn? https://t.co/Zcl8Rp2maj",
+    "publish_time": "2026-08-23T13:34:06"
   }
 ]
