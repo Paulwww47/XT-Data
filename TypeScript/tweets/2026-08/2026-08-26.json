@@ -1169,5 +1169,46 @@
     "tweetUrl": "https://x.com/chuanzhang0320/status/2092552444920385713",
     "fullText": "群众里有坏人😪",
     "publishTime": "2026-08-26T17:59:15"
+  },
+  {
+    "user": {
+      "screenName": "thisisforoasis",
+      "name": "THRASHER"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/thisisforoasis/status/2092562171091878288",
+    "fullText": "girl you aren’t ariana grande",
+    "publishTime": "2026-08-26T18:37:54"
+  },
+  {
+    "user": {
+      "screenName": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQpKlKIaIAE-QY2.jpg",
+      "https://pbs.twimg.com/media/HQpKl9MbIAANOiL.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/RYANMUYU/status/2092567007564800041",
+    "fullText": "很喜欢的两张图 https://t.co/2BN3uEEC5I",
+    "publishTime": "2026-08-26T18:57:07"
+  },
+  {
+    "user": {
+      "screenName": "Divo1765100",
+      "name": "Divo"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2092567117786951680/vid/avc1/720x842/shB4NnHPLAWrR_dl.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Divo1765100/status/2092567131149992247",
+    "fullText": "看一下？ https://t.co/GmMriQvdbL",
+    "publishTime": "2026-08-26T18:57:36"
   }
 ]
