@@ -2588,14 +2588,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (58MB > 50MB)",
       "timestamp": "2026-08-26T21:03:48",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 61338822,
       "size_mb": 58.5,
-      "timestamp": "2026-08-26T21:03:48",
+      "timestamp": "2026-08-26T22:02:35",
       "download_attempts": 0
     },
     "full_text": "原创作品  片段📸  \n舞蹈老师舔棒棒糖，说喜欢听我叫。🥲（有偿出完整版，可私信）\n\n#北京 #天津 #Beijing #Tianjin #第一视角 #口交  #舞蹈老师 #原创 #自拍 https://t.co/Tc5NLwOThg",
@@ -2704,5 +2704,135 @@
     },
     "full_text": "你们加了也不说话，不约了 https://t.co/k2bXbm3zJ6",
     "publish_time": "2026-08-26T20:57:00"
+  },
+  {
+    "file_name": "HQpq8-LaAAAwtzW.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQpq8-LaAAAwtzW.jpg",
+    "read_time": "2026-08-26T22:02:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35212,
+      "timestamp": "2026-08-26T22:02:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 69709,
+      "size_mb": 0.07,
+      "timestamp": "2026-08-26T22:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/fCPVBwjun3",
+    "publish_time": "2026-08-26T21:18:27"
+  },
+  {
+    "file_name": "HQpwHQ0a8AA2sSD.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQpwHQ0a8AA2sSD.jpg",
+    "read_time": "2026-08-26T22:02:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35213,
+      "timestamp": "2026-08-26T22:02:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 137949,
+      "size_mb": 0.13,
+      "timestamp": "2026-08-26T22:02:37",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/dGwrWaAkdu",
+    "publish_time": "2026-08-26T21:41:16"
+  },
+  {
+    "file_name": "Gh9eaf8VqRC4NSW0.mp4",
+    "user": {
+      "screen_name": "heichai6666",
+      "name": "黑柴"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2092608449716830208/vid/avc1/720x1008/Gh9eaf8VqRC4NSW0.mp4?tag=29",
+    "read_time": "2026-08-26T22:02:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35214,
+      "timestamp": "2026-08-26T22:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 318779,
+      "size_mb": 0.3,
+      "timestamp": "2026-08-26T22:02:39",
+      "download_attempts": 0
+    },
+    "full_text": "力竭了😣 https://t.co/7Jy13bESSP",
+    "publish_time": "2026-08-26T21:41:53"
+  },
+  {
+    "file_name": "MYzL86EP7nxfexu1.mp4",
+    "user": {
+      "screen_name": "haoyun9988",
+      "name": "广州原(天蝎)后深圳成都北京上海杭州"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2092609533667692544/vid/avc1/1280x720/MYzL86EP7nxfexu1.mp4?tag=29",
+    "read_time": "2026-08-26T22:02:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35215,
+      "timestamp": "2026-08-26T22:02:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 889420,
+      "size_mb": 0.85,
+      "timestamp": "2026-08-26T22:02:41",
+      "download_attempts": 0
+    },
+    "full_text": "深圳 广州 成都 北京 上海 杭州 https://t.co/qAr5Fx4OI6",
+    "publish_time": "2026-08-26T21:46:15"
+  },
+  {
+    "file_name": "HQp0Qg6b0AANDmE.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQp0Qg6b0AANDmE.png",
+    "read_time": "2026-08-26T22:02:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35216,
+      "timestamp": "2026-08-26T22:02:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 506650,
+      "size_mb": 0.48,
+      "timestamp": "2026-08-26T22:02:43",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/NEtmHN6CZ8",
+    "publish_time": "2026-08-26T21:59:12"
   }
 ]
