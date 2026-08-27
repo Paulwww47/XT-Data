@@ -623,5 +623,50 @@
     "tweetUrl": "https://x.com/youdi/status/2092837427924894141",
     "fullText": "https://t.co/dy6E8ilivR",
     "publishTime": "2026-08-27T12:51:40"
+  },
+  {
+    "user": {
+      "screenName": "hymanjuan4",
+      "name": "HL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQtDLhVa0AA2Dhf.jpg",
+      "https://pbs.twimg.com/media/HQtDLwrbEAAcjLH.jpg",
+      "https://pbs.twimg.com/media/HQtDMAlagAAVm_V.jpg",
+      "https://pbs.twimg.com/media/HQtDMRTbUAAxlN5.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/hymanjuan4/status/2092840335135367341",
+    "fullText": "https://t.co/TqGBA0171B",
+    "publishTime": "2026-08-27T13:03:13"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQtFnc9aIAAELG5.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2092843000955285695",
+    "fullText": "https://t.co/XqBZI4TeFY",
+    "publishTime": "2026-08-27T13:13:49"
+  },
+  {
+    "user": {
+      "screenName": "sx84604818",
+      "name": "Rexsonic Man+ suits & socks"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2092845154864607232/vid/avc1/1280x720/6cYFiXaJm2MKlSzl.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/sx84604818/status/2092845179611037970",
+    "fullText": "👔西裝愛好者👔 https://t.co/Qyf6EBxgpB",
+    "publishTime": "2026-08-27T13:22:28"
   }
 ]
