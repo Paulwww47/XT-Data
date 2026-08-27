@@ -82,5 +82,19 @@
     "tweetUrl": "https://x.com/eccmair/status/2093016592498192686",
     "fullText": "https://t.co/gBC75MlhDm",
     "publishTime": "2026-08-28T00:43:36"
+  },
+  {
+    "user": {
+      "screenName": "paeching",
+      "name": "屁吃"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2093044481843232769/vid/avc1/720x1280/oDq-JlTsUMjoh_oU.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/paeching/status/2093044516295262281",
+    "fullText": "🕳️ https://t.co/Equ6NlGw13",
+    "publishTime": "2026-08-28T02:34:34"
   }
 ]
