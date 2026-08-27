@@ -568,19 +568,19 @@
       "name": "鸡肉卷",
       "screenName": "ar2026m",
       "createdAt": "Sun Jan 17 12:05:13 +0000 2021",
-      "description": "@Salha_dh (联系方式只有🛩)",
+      "description": "@Salha_dh (联系方式只有🛩)\n原预览群被冻结，新预览群已放在下方",
       "entities": {
         "description": {},
         "url": {
           "urls": [
             {
-              "display_url": "t.me/+y1pAgPc7OHIzN…",
-              "expanded_url": "https://t.me/+y1pAgPc7OHIzN2Vk",
+              "display_url": "t.me/+-xK12Zp5aO4zZ…",
+              "expanded_url": "https://t.me/+-xK12Zp5aO4zZWM5",
               "indices": [
                 0,
                 23
               ],
-              "url": "https://t.co/M4xxoGNxwM"
+              "url": "https://t.co/hDrcJhjcvS"
             }
           ]
         }
@@ -1229,6 +1229,20 @@
       },
       "profileBannerUrl": "",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2064642089145765890/ZqJUgzEm_normal.jpg"
+    }
+  },
+  {
+    "restId": "896587996379488256",
+    "legacy": {
+      "name": "Celexa",
+      "screenName": "Celexa716",
+      "createdAt": "Sun Aug 13 04:23:30 +0000 2017",
+      "description": "#0351",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/896587996379488256/1682066943",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1794593796094939136/7aaRP5-R_normal.jpg"
     }
   },
   {
@@ -6078,19 +6092,19 @@
       "name": "鸡肉卷",
       "screenName": "Salha_dh",
       "createdAt": "Thu Feb 09 04:44:59 +0000 2012",
-      "description": "@ar2012m(视频更新)\n预览群更新到NO.162",
+      "description": "@ar2012m(视频更新)\n原预览群被冻结，新预览群已放在下方",
       "entities": {
         "description": {},
         "url": {
           "urls": [
             {
-              "display_url": "t.me/+y1pAgPc7OHIzN…",
-              "expanded_url": "https://t.me/+y1pAgPc7OHIzN2Vk",
+              "display_url": "t.me/+-xK12Zp5aO4zZ…",
+              "expanded_url": "https://t.me/+-xK12Zp5aO4zZWM5",
               "indices": [
                 0,
                 23
               ],
-              "url": "https://t.co/vepDlEsgGB"
+              "url": "https://t.co/kTSzbk0qAC"
             }
           ]
         }
