@@ -1139,5 +1139,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2092959346825290021",
     "fullText": "https://t.co/E5GzocqS71",
     "publishTime": "2026-08-27T20:56:08"
+  },
+  {
+    "user": {
+      "screenName": "OMyfavoriteboys",
+      "name": "My favorite boys"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQuyI4_b0AAuzUT.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/OMyfavoriteboys/status/2092962329323614617",
+    "fullText": "传递亲吻 https://t.co/RUBZdiIWei",
+    "publishTime": "2026-08-27T21:07:59"
+  },
+  {
+    "user": {
+      "screenName": "Uji_Hikaru",
+      "name": "虎不理"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQuyX4GaMAANbG9.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Uji_Hikaru/status/2092962582470803666",
+    "fullText": "https://t.co/CdIDjvDY8T",
+    "publishTime": "2026-08-27T21:08:59"
+  },
+  {
+    "user": {
+      "screenName": "josephmrkao",
+      "name": "185 Joseph"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2092811116053442560/vid/avc1/1080x1920/Ig3KKqmNqezwnVl2.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/josephmrkao/status/2092975671215841328",
+    "fullText": "PE was boring, huh?\nBut if it were me…\nwould you be good and show up for class?\n@ToyBoy_Nexy  @Xiaole0522 https://t.co/EHu6xKUjYm",
+    "publishTime": "2026-08-27T22:01:00"
   }
 ]
