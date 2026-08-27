@@ -1652,14 +1652,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (385MB > 50MB)",
       "timestamp": "2026-08-27T16:02:44",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 403804977,
       "size_mb": 385.1,
-      "timestamp": "2026-08-27T16:02:44",
+      "timestamp": "2026-08-27T17:02:17",
       "download_attempts": 0
     },
     "full_text": "https://t.co/ffQHbIQbG5",
@@ -1690,5 +1690,135 @@
     },
     "full_text": "狗狗因为要比赛禁欲了很久，刚打完比赛就忍不住来找主人了\n\n完整版：https://t.co/gl2xhMKVY2 https://t.co/YtUnqybmHH",
     "publish_time": "2026-08-27T15:26:51"
+  },
+  {
+    "file_name": "Xw1ua3bAdv6wqY4T.mp4",
+    "user": {
+      "screen_name": "heiyanquan19cm",
+      "name": "黑眼圈主理人"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2092891924940443648/vid/avc1/464x832/Xw1ua3bAdv6wqY4T.mp4?tag=14",
+    "read_time": "2026-08-27T17:02:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35304,
+      "timestamp": "2026-08-27T17:02:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1527973,
+      "size_mb": 1.46,
+      "timestamp": "2026-08-27T17:02:17",
+      "download_attempts": 0
+    },
+    "full_text": "每次喷完，🍆还会流出几股 https://t.co/XX4XCcvp7f",
+    "publish_time": "2026-08-27T16:29:03"
+  },
+  {
+    "file_name": "sdLHTYqZRjohv3tQ.mp4",
+    "user": {
+      "screen_name": "xiao57520",
+      "name": "翱哥备用机"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2092895370351386624/vid/avc1/720x1280/sdLHTYqZRjohv3tQ.mp4?tag=29",
+    "read_time": "2026-08-27T17:02:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35305,
+      "timestamp": "2026-08-27T17:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2118228,
+      "size_mb": 2.02,
+      "timestamp": "2026-08-27T17:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/xpT5zmE0Xf",
+    "publish_time": "2026-08-27T16:42:07"
+  },
+  {
+    "file_name": "vXWJAlSU9KFJmh30.mp4",
+    "user": {
+      "screen_name": "xiaobei1554153",
+      "name": "xiaobei"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2092894654236946432/vid/avc1/720x1280/vXWJAlSU9KFJmh30.mp4?tag=29",
+    "read_time": "2026-08-27T17:02:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35306,
+      "timestamp": "2026-08-27T17:02:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3493049,
+      "size_mb": 3.33,
+      "timestamp": "2026-08-27T17:02:24",
+      "download_attempts": 0
+    },
+    "full_text": "上班累了就玩一下，有个杯子那最好了，省了自己动手 https://t.co/3NnjTvrCG0",
+    "publish_time": "2026-08-27T16:42:53"
+  },
+  {
+    "file_name": "HQt3LyGbkAAsTPb.jpg",
+    "user": {
+      "screen_name": "paeching",
+      "name": "屁吃"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQt3LyGbkAAsTPb.jpg",
+    "read_time": "2026-08-27T17:02:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35307,
+      "timestamp": "2026-08-27T17:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 102820,
+      "size_mb": 0.1,
+      "timestamp": "2026-08-27T17:02:26",
+      "download_attempts": 0
+    },
+    "full_text": "😋 https://t.co/xYUO6WEH2x",
+    "publish_time": "2026-08-27T16:50:24"
+  },
+  {
+    "file_name": "HQt3Lx6a0AEkyXN.jpg",
+    "user": {
+      "screen_name": "paeching",
+      "name": "屁吃"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQt3Lx6a0AEkyXN.jpg",
+    "read_time": "2026-08-27T17:02:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35308,
+      "timestamp": "2026-08-27T17:02:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 129408,
+      "size_mb": 0.12,
+      "timestamp": "2026-08-27T17:02:27",
+      "download_attempts": 0
+    },
+    "full_text": "😋 https://t.co/xYUO6WEH2x",
+    "publish_time": "2026-08-27T16:50:24"
   }
 ]
