@@ -1422,14 +1422,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (949MB > 50MB)",
       "timestamp": "2026-08-28T12:03:38",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 995530820,
       "size_mb": 949.41,
-      "timestamp": "2026-08-28T12:03:38",
+      "timestamp": "2026-08-28T13:02:19",
       "download_attempts": 0
     },
     "full_text": "•\n任壬老师制作的《天神降臨1》\n视频长：44:31 ｜非常不易✨ https://t.co/HVoXM2RT3W",
@@ -1642,5 +1642,83 @@
     },
     "full_text": "人无完人，知足常乐！ https://t.co/2fj48oq9jb",
     "publish_time": "2026-08-28T11:49:10"
+  },
+  {
+    "file_name": "HQyGNKKaUAAUq0I.jpg",
+    "user": {
+      "screen_name": "YoungOu123",
+      "name": "Young Ou"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQyGNKKaUAAUq0I.jpg",
+    "read_time": "2026-08-28T13:02:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35417,
+      "timestamp": "2026-08-28T13:02:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 69265,
+      "size_mb": 0.07,
+      "timestamp": "2026-08-28T13:02:19",
+      "download_attempts": 0
+    },
+    "full_text": "你长的还行 https://t.co/qZMfJQ0UD0",
+    "publish_time": "2026-08-28T12:34:30"
+  },
+  {
+    "file_name": "HQyGNKKbYAAu5JA.jpg",
+    "user": {
+      "screen_name": "YoungOu123",
+      "name": "Young Ou"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQyGNKKbYAAu5JA.jpg",
+    "read_time": "2026-08-28T13:02:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35418,
+      "timestamp": "2026-08-28T13:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 66085,
+      "size_mb": 0.06,
+      "timestamp": "2026-08-28T13:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "你长的还行 https://t.co/qZMfJQ0UD0",
+    "publish_time": "2026-08-28T12:34:30"
+  },
+  {
+    "file_name": "HQyGNKHbUAAFI-N.jpg",
+    "user": {
+      "screen_name": "YoungOu123",
+      "name": "Young Ou"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQyGNKHbUAAFI-N.jpg",
+    "read_time": "2026-08-28T13:02:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35419,
+      "timestamp": "2026-08-28T13:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 63548,
+      "size_mb": 0.06,
+      "timestamp": "2026-08-28T13:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "你长的还行 https://t.co/qZMfJQ0UD0",
+    "publish_time": "2026-08-28T12:34:30"
   }
 ]

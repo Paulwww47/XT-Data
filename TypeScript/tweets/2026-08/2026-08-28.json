@@ -858,5 +858,33 @@
     "tweetUrl": "https://x.com/jj20cm_/status/2093184085263024159",
     "fullText": "人无完人，知足常乐！ https://t.co/2fj48oq9jb",
     "publishTime": "2026-08-28T11:49:10"
+  },
+  {
+    "user": {
+      "screenName": "azzd553",
+      "name": "Muscle guy"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/azzd553/status/2093188185845281011",
+    "fullText": "当记者好累🫩，每天都要照顾一堆肌肉男的情绪，感觉要被榨干了🥹",
+    "publishTime": "2026-08-28T12:05:27"
+  },
+  {
+    "user": {
+      "screenName": "YoungOu123",
+      "name": "Young Ou"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HQyGNKKaUAAUq0I.jpg",
+      "https://pbs.twimg.com/media/HQyGNKKbYAAu5JA.jpg",
+      "https://pbs.twimg.com/media/HQyGNKHbUAAFI-N.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/YoungOu123/status/2093195495137259587",
+    "fullText": "你长的还行 https://t.co/qZMfJQ0UD0",
+    "publishTime": "2026-08-28T12:34:30"
   }
 ]
