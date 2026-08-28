@@ -2050,14 +2050,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (115MB > 50MB)",
       "timestamp": "2026-08-28T15:03:48",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 121515450,
       "size_mb": 115.89,
-      "timestamp": "2026-08-28T15:03:48",
+      "timestamp": "2026-08-28T16:02:21",
       "download_attempts": 0
     },
     "full_text": "https://t.co/6vk8TWTApt",
@@ -2104,14 +2104,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (137MB > 50MB)",
       "timestamp": "2026-08-28T15:04:04",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 144540917,
       "size_mb": 137.84,
-      "timestamp": "2026-08-28T15:04:04",
+      "timestamp": "2026-08-28T16:02:34",
       "download_attempts": 0
     },
     "full_text": "https://t.co/a32rIJtKXu",
@@ -2132,14 +2132,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (95MB > 50MB)",
       "timestamp": "2026-08-28T15:04:12",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 99888707,
       "size_mb": 95.26,
-      "timestamp": "2026-08-28T15:04:12",
+      "timestamp": "2026-08-28T16:02:42",
       "download_attempts": 0
     },
     "full_text": "https://t.co/RPdZY6eTdM",
@@ -2352,5 +2352,57 @@
     },
     "full_text": "嘶吼+喷精 是流量密码嘛？ https://t.co/eiCtAJnxgG",
     "publish_time": "2026-08-28T15:01:26"
+  },
+  {
+    "file_name": "HQyve_iaAAAp8tI.jpg",
+    "user": {
+      "screen_name": "undefinedjy",
+      "name": "JY"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQyve_iaAAAp8tI.jpg",
+    "read_time": "2026-08-28T16:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35440,
+      "timestamp": "2026-08-28T16:02:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 109787,
+      "size_mb": 0.1,
+      "timestamp": "2026-08-28T16:02:42",
+      "download_attempts": 0
+    },
+    "full_text": "推送在发什么疯呢😑 https://t.co/LsYZI30O8u",
+    "publish_time": "2026-08-28T15:34:54"
+  },
+  {
+    "file_name": "HQy1HXIa8AA1qoW.jpg",
+    "user": {
+      "screen_name": "Owen95769106",
+      "name": "Cow"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQy1HXIa8AA1qoW.jpg",
+    "read_time": "2026-08-28T16:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35441,
+      "timestamp": "2026-08-28T16:02:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 155076,
+      "size_mb": 0.15,
+      "timestamp": "2026-08-28T16:02:44",
+      "download_attempts": 0
+    },
+    "full_text": "不用软件，有什么线下活动或途径可以打开社交，想认识一些朋友（主要想找对象），周末能见面，不要一直线上聊的。 https://t.co/jxRW0pRPtv",
+    "publish_time": "2026-08-28T15:59:26"
   }
 ]
