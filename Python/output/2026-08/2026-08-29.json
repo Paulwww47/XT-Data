@@ -3344,14 +3344,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (87MB > 50MB)",
       "timestamp": "2026-08-29T21:02:18",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 92227450,
       "size_mb": 87.95,
-      "timestamp": "2026-08-29T21:02:18",
+      "timestamp": "2026-08-29T22:01:49",
       "download_attempts": 0
     },
     "full_text": "来！对着屁股 对着足球袜 对着鸡巴射给爹… https://t.co/3mRFovt7NG",
@@ -3408,5 +3408,109 @@
     },
     "full_text": "哈亚赞 https://t.co/jjuu1Fjm8C",
     "publish_time": "2026-08-29T20:59:31"
+  },
+  {
+    "file_name": "HQ5Fg0gacAA9IHk.jpg",
+    "user": {
+      "screen_name": "uncledoggie",
+      "name": "小狼叔"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQ5Fg0gacAA9IHk.jpg",
+    "read_time": "2026-08-29T22:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35628,
+      "timestamp": "2026-08-29T22:01:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 191646,
+      "size_mb": 0.18,
+      "timestamp": "2026-08-29T22:01:49",
+      "download_attempts": 0
+    },
+    "full_text": "小狗也喜欢白袜🧦 https://t.co/rFYbfW3Ols",
+    "publish_time": "2026-08-29T21:08:49"
+  },
+  {
+    "file_name": "HQ5Ir5QbUAEWtuH.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQ5Ir5QbUAEWtuH.jpg",
+    "read_time": "2026-08-29T22:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35629,
+      "timestamp": "2026-08-29T22:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 170837,
+      "size_mb": 0.16,
+      "timestamp": "2026-08-29T22:01:51",
+      "download_attempts": 0
+    },
+    "full_text": "今日案例/ 双改单\n高难度眼修复🧑‍⚕️宽改窄+内眼角回缩+下至回缩👀\n术后即刻对比回归自然双眸✔️跟痕迹感人工感说拜拜👋（咨询双改单，留言 私） https://t.co/bmKus2EgXi",
+    "publish_time": "2026-08-29T21:22:42"
+  },
+  {
+    "file_name": "HQ5OhnxbIAABJYC.jpg",
+    "user": {
+      "screen_name": "Rishira58635681",
+      "name": "治骚男神"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQ5OhnxbIAABJYC.jpg",
+    "read_time": "2026-08-29T22:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35630,
+      "timestamp": "2026-08-29T22:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 91069,
+      "size_mb": 0.09,
+      "timestamp": "2026-08-29T22:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "近距离拍摄大肉棒杠杆滴硬，懂的来战 https://t.co/zQb031vo93",
+    "publish_time": "2026-08-29T21:49:11"
+  },
+  {
+    "file_name": "HQ5OigyaUAAEj8Q.jpg",
+    "user": {
+      "screen_name": "Rishira58635681",
+      "name": "治骚男神"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQ5OigyaUAAEj8Q.jpg",
+    "read_time": "2026-08-29T22:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35631,
+      "timestamp": "2026-08-29T22:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 80458,
+      "size_mb": 0.08,
+      "timestamp": "2026-08-29T22:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "近距离拍摄大肉棒杠杆滴硬，懂的来战 https://t.co/zQb031vo93",
+    "publish_time": "2026-08-29T21:49:11"
   }
 ]
