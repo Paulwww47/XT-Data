@@ -574,13 +574,13 @@
         "url": {
           "urls": [
             {
-              "display_url": "t.me/+a-IH5qiLKAs2N…",
-              "expanded_url": "https://t.me/+a-IH5qiLKAs2NmQx",
+              "display_url": "t.me/+DhMisD60H8BjN…",
+              "expanded_url": "https://t.me/+DhMisD60H8BjNDAx",
               "indices": [
                 0,
                 23
               ],
-              "url": "https://t.co/UJFBMsOgKa"
+              "url": "https://t.co/Mo5o2nX1lg"
             }
           ]
         }
@@ -1769,7 +1769,20 @@
       "createdAt": "Sun Dec 21 04:39:02 +0000 2025",
       "description": "",
       "entities": {
-        "description": {}
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/notyourbadhusb…",
+              "expanded_url": "https://www.instagram.com/notyourbadhusband_?igsi=d2ZjZGg4ZGN5ZmNn&utm_source=qr",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/upXNmRXeAo"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2002599577757888512/1766309811",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2057474830547783680/JaB8eQ22_normal.jpg"
@@ -3213,8 +3226,8 @@
           ]
         }
       },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1699191166858825728/1756999377",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2006589059154800640/rbRyI3aJ_normal.jpg"
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1699191166858825728/1787961615",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2093488816967618560/-nUzIubT_normal.jpg"
     }
   },
   {
@@ -6112,13 +6125,13 @@
         "url": {
           "urls": [
             {
-              "display_url": "t.me/+a-IH5qiLKAs2N…",
-              "expanded_url": "https://t.me/+a-IH5qiLKAs2NmQx",
+              "display_url": "t.me/+DhMisD60H8BjN…",
+              "expanded_url": "https://t.me/+DhMisD60H8BjNDAx",
               "indices": [
                 0,
                 23
               ],
-              "url": "https://t.co/Z8G5LwNuBx"
+              "url": "https://t.co/tqQyzldKDO"
             }
           ]
         }
@@ -6160,7 +6173,7 @@
       "name": "Sans Nom",
       "screenName": "Sans_Nom_4",
       "createdAt": "Fri Jan 17 13:00:40 +0000 2014",
-      "description": "好人太少，我选择自己保密，\n发一些大陆发不出去的非色情内容。",
+      "description": "好人太少，保护好自己。\n发一些大陆发不出去的非色情内容。",
       "entities": {
         "description": {}
       },
@@ -7137,6 +7150,20 @@
     }
   },
   {
+    "restId": "38146718",
+    "legacy": {
+      "name": "石头磊",
+      "screenName": "TopStoneL",
+      "createdAt": "Wed May 06 09:31:47 +0000 2009",
+      "description": "刚来玩  仅此一号❗ 土直猛Top💪🏻 想看更多过🚪送私密视频➕私照  🉑定制丨原味.支持验证本人  私信有事直说 #所有内容原创",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/38146718/1787718102",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2092469630552145920/TDRj4Ar0_normal.jpg"
+    }
+  },
+  {
     "restId": "191370743",
     "legacy": {
       "name": "岛民*荒哥",
@@ -7350,7 +7377,7 @@
       "name": "vm",
       "screenName": "vmya_",
       "createdAt": "Fri May 13 03:29:11 +0000 2022",
-      "description": "直男 | PhD 工程师 | 不约 | 原创 | 关注可申请",
+      "description": "直男 | PhD 工程师 | 不约 | 原创",
       "entities": {
         "description": {},
         "url": {
@@ -7362,7 +7389,7 @@
                 0,
                 23
               ],
-              "url": "https://t.co/Q2kXut8XJR"
+              "url": "https://t.co/Q2kXut9vzp"
             }
           ]
         }
