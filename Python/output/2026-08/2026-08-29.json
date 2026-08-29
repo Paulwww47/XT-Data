@@ -2666,14 +2666,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (80MB > 50MB)",
       "timestamp": "2026-08-29T18:01:57",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 84296126,
       "size_mb": 80.39,
-      "timestamp": "2026-08-29T18:01:57",
+      "timestamp": "2026-08-29T19:02:54",
       "download_attempts": 0
     },
     "full_text": "·\n这个视频是胸肌控的专集制作者，一直没有机会看完整版，这儿就是，来了！非常性感，撸……大家周末愉快！ https://t.co/agyTDnMsMV",
@@ -2834,5 +2834,135 @@
     },
     "full_text": "好无聊 https://t.co/rWIQS0LrJe",
     "publish_time": "2026-08-29T17:33:02"
+  },
+  {
+    "file_name": "ibqhnqze7hvYvO4A.mp4",
+    "user": {
+      "screen_name": "Big_straight_H",
+      "name": "荒"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2093545876710965248/vid/avc1/720x1280/ibqhnqze7hvYvO4A.mp4?tag=29",
+    "read_time": "2026-08-29T19:02:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35607,
+      "timestamp": "2026-08-29T19:02:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 702093,
+      "size_mb": 0.67,
+      "timestamp": "2026-08-29T19:02:54",
+      "download_attempts": 0
+    },
+    "full_text": "頂這裡的時候舒服嗎😏 https://t.co/a9eaMS9VCS",
+    "publish_time": "2026-08-29T18:14:43"
+  },
+  {
+    "file_name": "HQ4eULBaIAA7k7e.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQ4eULBaIAA7k7e.jpg",
+    "read_time": "2026-08-29T19:02:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35608,
+      "timestamp": "2026-08-29T19:02:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 177181,
+      "size_mb": 0.17,
+      "timestamp": "2026-08-29T19:02:56",
+      "download_attempts": 0
+    },
+    "full_text": "植发（眉）案例/不剃发植发 没有尴尬期✔️\n男生拒绝纹眉拒绝半永久‼️纹眉痕迹感毁了很多男生🙅\n毛发移植一次管终生✔️自然没痕迹人都有精气神了👏\n（咨询私信我） https://t.co/9J5Pqoo97Q",
+    "publish_time": "2026-08-29T18:17:34"
+  },
+  {
+    "file_name": "HQ4eULDboAAgfem.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQ4eULDboAAgfem.jpg",
+    "read_time": "2026-08-29T19:02:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35609,
+      "timestamp": "2026-08-29T19:02:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 144814,
+      "size_mb": 0.14,
+      "timestamp": "2026-08-29T19:02:57",
+      "download_attempts": 0
+    },
+    "full_text": "植发（眉）案例/不剃发植发 没有尴尬期✔️\n男生拒绝纹眉拒绝半永久‼️纹眉痕迹感毁了很多男生🙅\n毛发移植一次管终生✔️自然没痕迹人都有精气神了👏\n（咨询私信我） https://t.co/9J5Pqoo97Q",
+    "publish_time": "2026-08-29T18:17:34"
+  },
+  {
+    "file_name": "HQ4gTbwawAAlgfB.jpg",
+    "user": {
+      "screen_name": "SZionbaba",
+      "name": "zionbaba"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQ4gTbwawAAlgfB.jpg",
+    "read_time": "2026-08-29T19:02:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35610,
+      "timestamp": "2026-08-29T19:02:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 105076,
+      "size_mb": 0.1,
+      "timestamp": "2026-08-29T19:02:58",
+      "download_attempts": 0
+    },
+    "full_text": "知道该怎么做吧 https://t.co/ssVcgzPgZz",
+    "publish_time": "2026-08-29T18:26:15"
+  },
+  {
+    "file_name": "HQ4gkzPbMAAgNKK.jpg",
+    "user": {
+      "screen_name": "Li2798345105",
+      "name": "Li"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQ4gkzPbMAAgNKK.jpg",
+    "read_time": "2026-08-29T19:02:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35611,
+      "timestamp": "2026-08-29T19:03:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 62223,
+      "size_mb": 0.06,
+      "timestamp": "2026-08-29T19:02:59",
+      "download_attempts": 0
+    },
+    "full_text": "小狗尿床是会被表扬的 https://t.co/n0taiPLQdu",
+    "publish_time": "2026-08-29T18:27:26"
   }
 ]
