@@ -943,7 +943,7 @@
   {
     "restId": "1078356002079010816",
     "legacy": {
-      "name": "黑羊（南京",
+      "name": "黑羊（上海",
       "screenName": "BlacksheepTop",
       "createdAt": "Thu Dec 27 18:24:40 +0000 2018",
       "description": "原创｜26-176-63-18-1️⃣｜\n优质可联名｜不闲聊｜WeChat：108｜",
@@ -1783,7 +1783,20 @@
       "createdAt": "Sun Dec 21 04:39:02 +0000 2025",
       "description": "",
       "entities": {
-        "description": {}
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/notyourbadhusb…",
+              "expanded_url": "https://www.instagram.com/notyourbadhusband_?igsi=d2ZjZGg4ZGN5ZmNn&utm_source=qr",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/upXNmRXeAo"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2002599577757888512/1766309811",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2057474830547783680/JaB8eQ22_normal.jpg"
@@ -6227,7 +6240,7 @@
       "name": "Sans Nom",
       "screenName": "Sans_Nom_4",
       "createdAt": "Fri Jan 17 13:00:40 +0000 2014",
-      "description": "好人太少，保护好自己。\n发一些大陆发不出去的非色情内容。",
+      "description": "好人太少，保护好自己。",
       "entities": {
         "description": {}
       },
