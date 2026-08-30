@@ -3734,14 +3734,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (87MB > 50MB)",
       "timestamp": "2026-08-30T20:01:56",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 91684865,
       "size_mb": 87.44,
-      "timestamp": "2026-08-30T20:01:56",
+      "timestamp": "2026-08-30T21:01:45",
       "download_attempts": 0
     },
     "full_text": "https://t.co/5hW2FT0LPV",
@@ -3850,5 +3850,109 @@
     },
     "full_text": "https://t.co/zQXeim6Rwg",
     "publish_time": "2026-08-30T19:59:35"
+  },
+  {
+    "file_name": "HQ-LisBbUAAVNoI.jpg",
+    "user": {
+      "screen_name": "OMyfavoriteboys",
+      "name": "My favorite boys"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQ-LisBbUAAVNoI.jpg",
+    "read_time": "2026-08-30T21:01:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35801,
+      "timestamp": "2026-08-30T21:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 105711,
+      "size_mb": 0.1,
+      "timestamp": "2026-08-30T21:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "🍑\n\n🥵🥵🥵 https://t.co/7kCCX2ipQP",
+    "publish_time": "2026-08-30T20:53:23"
+  },
+  {
+    "file_name": "HQ-LisAbYAAZcca.jpg",
+    "user": {
+      "screen_name": "OMyfavoriteboys",
+      "name": "My favorite boys"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQ-LisAbYAAZcca.jpg",
+    "read_time": "2026-08-30T21:01:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35802,
+      "timestamp": "2026-08-30T21:01:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 114414,
+      "size_mb": 0.11,
+      "timestamp": "2026-08-30T21:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "🍑\n\n🥵🥵🥵 https://t.co/7kCCX2ipQP",
+    "publish_time": "2026-08-30T20:53:23"
+  },
+  {
+    "file_name": "HQ-Lir-bYAAWd5Z.jpg",
+    "user": {
+      "screen_name": "OMyfavoriteboys",
+      "name": "My favorite boys"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQ-Lir-bYAAWd5Z.jpg",
+    "read_time": "2026-08-30T21:01:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35803,
+      "timestamp": "2026-08-30T21:01:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 134234,
+      "size_mb": 0.13,
+      "timestamp": "2026-08-30T21:01:49",
+      "download_attempts": 0
+    },
+    "full_text": "🍑\n\n🥵🥵🥵 https://t.co/7kCCX2ipQP",
+    "publish_time": "2026-08-30T20:53:23"
+  },
+  {
+    "file_name": "HQ-NDYpbQAEWiUG.jpg",
+    "user": {
+      "screen_name": "HorgeL_",
+      "name": "Horge🤖"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HQ-NDYpbQAEWiUG.jpg",
+    "read_time": "2026-08-30T21:01:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35804,
+      "timestamp": "2026-08-30T21:01:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 162341,
+      "size_mb": 0.15,
+      "timestamp": "2026-08-30T21:01:50",
+      "download_attempts": 0
+    },
+    "full_text": "五五分 https://t.co/I0Tfvbo93K",
+    "publish_time": "2026-08-30T20:59:52"
   }
 ]
