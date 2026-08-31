@@ -3772,5 +3772,371 @@
     },
     "full_text": "搏斗 https://t.co/iA8vCVwIFO",
     "publish_time": "2026-08-31T22:55:27"
+  },
+  {
+    "file_name": "HRDyWCpasAAyx0q.jpg",
+    "user": {
+      "screen_name": "kaka_lac",
+      "name": "kaka"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRDyWCpasAAyx0q.jpg",
+    "read_time": "2026-09-01T00:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35972,
+      "timestamp": "2026-09-01T00:01:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 42868,
+      "size_mb": 0.04,
+      "timestamp": "2026-09-01T00:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "炮机使用 https://t.co/IMqBdrPPS1",
+    "publish_time": "2026-08-31T23:02:00"
+  },
+  {
+    "file_name": "-mEQoTi7EApx4SrH.mp4",
+    "user": {
+      "screen_name": "kaka_lac",
+      "name": "kaka"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2094440288106545152/vid/avc1/1080x1920/-mEQoTi7EApx4SrH.mp4?tag=29",
+    "read_time": "2026-09-01T00:01:22",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (75MB > 50MB)",
+      "timestamp": "2026-09-01T00:01:32",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 79222993,
+      "size_mb": 75.55,
+      "timestamp": "2026-09-01T00:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "炮机使用 https://t.co/IMqBdrPPS1",
+    "publish_time": "2026-08-31T23:02:00"
+  },
+  {
+    "file_name": "HRDzggXbMAAdiyX.jpg",
+    "user": {
+      "screen_name": "a17739",
+      "name": "吳先生"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRDzggXbMAAdiyX.jpg",
+    "read_time": "2026-09-01T00:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35973,
+      "timestamp": "2026-09-01T00:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 278943,
+      "size_mb": 0.27,
+      "timestamp": "2026-09-01T00:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "去花蓮3天，也積了3天⋯🥴 https://t.co/QTBdwKDHMD",
+    "publish_time": "2026-08-31T23:05:58"
+  },
+  {
+    "file_name": "AtT_XYceXtVo7jgS.mp4",
+    "user": {
+      "screen_name": "BLPDBNANA",
+      "name": "Mr.CumBoY🍌"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2094441922261909504/vid/avc1/720x1280/AtT_XYceXtVo7jgS.mp4?tag=29",
+    "read_time": "2026-09-01T00:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35974,
+      "timestamp": "2026-09-01T00:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2124170,
+      "size_mb": 2.03,
+      "timestamp": "2026-09-01T00:01:34",
+      "download_attempts": 0
+    },
+    "full_text": "一起来玩 https://t.co/CYPxzEKIRT",
+    "publish_time": "2026-08-31T23:07:36"
+  },
+  {
+    "file_name": "xWU0-6lt106JCNcm.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2081902766142754816/pu/vid/avc1/1280x720/xWU0-6lt106JCNcm.mp4?tag=12",
+    "read_time": "2026-09-01T00:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35975,
+      "timestamp": "2026-09-01T00:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2202036,
+      "size_mb": 2.1,
+      "timestamp": "2026-09-01T00:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/j43JQivDxz",
+    "publish_time": "2026-08-31T23:30:47"
+  },
+  {
+    "file_name": "HRD6GbjaIAAQit2.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRD6GbjaIAAQit2.jpg",
+    "read_time": "2026-09-01T00:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35976,
+      "timestamp": "2026-09-01T00:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 181761,
+      "size_mb": 0.17,
+      "timestamp": "2026-09-01T00:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/grUAoMyWld",
+    "publish_time": "2026-08-31T23:34:46"
+  },
+  {
+    "file_name": "tOjpcj6l1FlbOEJT.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2094448850669129728/vid/avc1/720x1280/tOjpcj6l1FlbOEJT.mp4?tag=29",
+    "read_time": "2026-09-01T00:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35977,
+      "timestamp": "2026-09-01T00:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 5257974,
+      "size_mb": 5.01,
+      "timestamp": "2026-09-01T00:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/27xhyoKnP5",
+    "publish_time": "2026-08-31T23:35:01"
+  },
+  {
+    "file_name": "eKTHKeOhnASpNXhz.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2093858684598374400/vid/avc1/1280x712/eKTHKeOhnASpNXhz.mp4?tag=29",
+    "read_time": "2026-09-01T00:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35978,
+      "timestamp": "2026-09-01T00:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 9154371,
+      "size_mb": 8.73,
+      "timestamp": "2026-09-01T00:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/TAG6MmNvBN",
+    "publish_time": "2026-08-31T23:37:09"
+  },
+  {
+    "file_name": "HJTSs4ZbgAA0jpL.jpg",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HJTSs4ZbgAA0jpL.jpg",
+    "read_time": "2026-09-01T00:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35979,
+      "timestamp": "2026-09-01T00:01:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 134287,
+      "size_mb": 0.13,
+      "timestamp": "2026-09-01T00:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/2Md8PU8UFw",
+    "publish_time": "2026-08-31T23:55:38"
+  },
+  {
+    "file_name": "pMTQherY2UzvrM8i.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2059502598122885120/vid/avc1/720x1274/pMTQherY2UzvrM8i.mp4?tag=27",
+    "read_time": "2026-09-01T00:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35980,
+      "timestamp": "2026-09-01T00:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1226727,
+      "size_mb": 1.17,
+      "timestamp": "2026-09-01T00:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/2Md8PU8UFw",
+    "publish_time": "2026-08-31T23:55:38"
+  },
+  {
+    "file_name": "HHyh-mha0AAEdYH.jpg",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HHyh-mha0AAEdYH.jpg",
+    "read_time": "2026-09-01T00:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35981,
+      "timestamp": "2026-09-01T00:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 115610,
+      "size_mb": 0.11,
+      "timestamp": "2026-09-01T00:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/RJP674SSEI",
+    "publish_time": "2026-08-31T23:57:03"
+  },
+  {
+    "file_name": "ZOrXlRErqtqyDkNn.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2052693627059777536/vid/avc1/576x1280/ZOrXlRErqtqyDkNn.mp4?tag=27",
+    "read_time": "2026-09-01T00:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35982,
+      "timestamp": "2026-09-01T00:01:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 6129796,
+      "size_mb": 5.85,
+      "timestamp": "2026-09-01T00:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/RJP674SSEI",
+    "publish_time": "2026-08-31T23:57:03"
+  },
+  {
+    "file_name": "Zj0IWaG0dL-l-ayh.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2045436180528041984/vid/avc1/576x1280/Zj0IWaG0dL-l-ayh.mp4?tag=21",
+    "read_time": "2026-09-01T00:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35983,
+      "timestamp": "2026-09-01T00:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 659765,
+      "size_mb": 0.63,
+      "timestamp": "2026-09-01T00:01:48",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/GjzZ4yV5VN",
+    "publish_time": "2026-08-31T23:59:05"
+  },
+  {
+    "file_name": "UfU1ZdtkZUuQmFzX.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2045436180561526785/vid/avc1/576x1280/UfU1ZdtkZUuQmFzX.mp4?tag=21",
+    "read_time": "2026-09-01T00:01:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35984,
+      "timestamp": "2026-09-01T00:01:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2773640,
+      "size_mb": 2.65,
+      "timestamp": "2026-09-01T00:01:49",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/GjzZ4yV5VN",
+    "publish_time": "2026-08-31T23:59:05"
   }
 ]
