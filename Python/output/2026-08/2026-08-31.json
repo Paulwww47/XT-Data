@@ -1836,14 +1836,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (104MB > 50MB)",
       "timestamp": "2026-08-31T12:01:28",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 110063236,
       "size_mb": 104.96,
-      "timestamp": "2026-08-31T12:01:28",
+      "timestamp": "2026-08-31T13:02:20",
       "download_attempts": 0
     },
     "full_text": "「原创」📸   都在催更舞蹈老师，剪个打桩片段（完整版有偿私信）\n\n#北京 #Beijing #天津 #Tianjin #打桩 https://t.co/1VkGGtEa3p",
@@ -1900,5 +1900,135 @@
     },
     "full_text": "直男的嘴简直了，太八卦了。 https://t.co/bFaDoOtzdI",
     "publish_time": "2026-08-31T11:48:15"
+  },
+  {
+    "file_name": "HRBg4hNXcAAEzdx.jpg",
+    "user": {
+      "screen_name": "liu6864",
+      "name": "CL357"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRBg4hNXcAAEzdx.jpg",
+    "read_time": "2026-08-31T13:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35900,
+      "timestamp": "2026-08-31T13:02:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 18551,
+      "size_mb": 0.02,
+      "timestamp": "2026-08-31T13:02:20",
+      "download_attempts": 0
+    },
+    "full_text": "蛛丝~ https://t.co/fYMeCzdBYl",
+    "publish_time": "2026-08-31T12:25:24"
+  },
+  {
+    "file_name": "HRBkyBsa4AA6Qn_.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRBkyBsa4AA6Qn_.jpg",
+    "read_time": "2026-08-31T13:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35901,
+      "timestamp": "2026-08-31T13:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 142797,
+      "size_mb": 0.14,
+      "timestamp": "2026-08-31T13:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/VRo1GiWqAj",
+    "publish_time": "2026-08-31T12:42:24"
+  },
+  {
+    "file_name": "HRBky9WakAAdsLs.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRBky9WakAAdsLs.jpg",
+    "read_time": "2026-08-31T13:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35902,
+      "timestamp": "2026-08-31T13:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 142797,
+      "size_mb": 0.14,
+      "timestamp": "2026-08-31T13:02:23",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/PYVA9dw79k",
+    "publish_time": "2026-08-31T12:42:27"
+  },
+  {
+    "file_name": "HRBk3tKbYAAN8T8.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRBk3tKbYAAN8T8.jpg",
+    "read_time": "2026-08-31T13:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35903,
+      "timestamp": "2026-08-31T13:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 84641,
+      "size_mb": 0.08,
+      "timestamp": "2026-08-31T13:02:23",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/HfkfxMyHJT",
+    "publish_time": "2026-08-31T12:42:46"
+  },
+  {
+    "file_name": "HRBo_c4akAAiLyR.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRBo_c4akAAiLyR.png",
+    "read_time": "2026-08-31T13:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35904,
+      "timestamp": "2026-08-31T13:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 582575,
+      "size_mb": 0.56,
+      "timestamp": "2026-08-31T13:02:24",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/PDqfbwUfSw",
+    "publish_time": "2026-08-31T13:00:52"
   }
 ]
