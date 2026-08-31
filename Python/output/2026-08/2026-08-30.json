@@ -4582,6 +4582,34 @@
     "publish_time": "2026-08-30T23:41:55"
   },
   {
+    "file_name": "xod1LKZqVHbADwgs.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2052054366111387648/vid/avc1/720x1308/xod1LKZqVHbADwgs.mp4?tag=27",
+    "read_time": "2026-08-31T20:02:39",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (77MB > 50MB)",
+      "timestamp": "2026-08-31T20:02:40",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 80912738,
+      "size_mb": 77.16,
+      "timestamp": "2026-08-31T20:02:40",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/7U1bveafoE",
+    "publish_time": "2026-08-30T23:42:33"
+  },
+  {
     "file_name": "HQ-1taIacAA9ReH.jpg",
     "user": {
       "screen_name": "youdi",
