@@ -3814,14 +3814,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (75MB > 50MB)",
       "timestamp": "2026-09-01T00:01:32",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 79222993,
       "size_mb": 75.55,
-      "timestamp": "2026-09-01T00:01:32",
+      "timestamp": "2026-09-01T01:01:30",
       "download_attempts": 0
     },
     "full_text": "炮机使用 https://t.co/IMqBdrPPS1",
