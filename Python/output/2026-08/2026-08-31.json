@@ -638,14 +638,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (87MB > 50MB)",
       "timestamp": "2026-08-31T07:01:21",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 92078590,
       "size_mb": 87.81,
-      "timestamp": "2026-08-31T07:01:21",
+      "timestamp": "2026-08-31T08:01:22",
       "download_attempts": 0
     },
     "full_text": "·\nNEW 💦新｜陳光@chinkou_ ：\n『  Let’s make some unforgettable summer memories together! 』\n\n📍EAU DE TOILETTE ，Bangkok https://t.co/6hkKe29qi0",
@@ -676,5 +676,317 @@
     },
     "full_text": "https://t.co/gSrNmAjpec",
     "publish_time": "2026-08-31T06:56:55"
+  },
+  {
+    "file_name": "HRAXxQ-bIAABfgw.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRAXxQ-bIAABfgw.jpg",
+    "read_time": "2026-08-31T08:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35854,
+      "timestamp": "2026-08-31T08:01:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 134521,
+      "size_mb": 0.13,
+      "timestamp": "2026-08-31T08:01:22",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/AF2K63ldNz",
+    "publish_time": "2026-08-31T07:05:55"
+  },
+  {
+    "file_name": "HRAdbgObcAAoei3.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRAdbgObcAAoei3.jpg",
+    "read_time": "2026-08-31T08:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35855,
+      "timestamp": "2026-08-31T08:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 93095,
+      "size_mb": 0.09,
+      "timestamp": "2026-08-31T08:01:24",
+      "download_attempts": 0
+    },
+    "full_text": "·\n【小趴菜首本全见写真】158幅\n\n联系摄影师👉舟心_cq\n@zhouxin68\n模特👉小趴菜\n@yvifan https://t.co/cHhPIk8SId",
+    "publish_time": "2026-08-31T07:31:45"
+  },
+  {
+    "file_name": "HRAdbgSbQAEuW3W.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRAdbgSbQAEuW3W.jpg",
+    "read_time": "2026-08-31T08:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35856,
+      "timestamp": "2026-08-31T08:01:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 111354,
+      "size_mb": 0.11,
+      "timestamp": "2026-08-31T08:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "·\n【小趴菜首本全见写真】158幅\n\n联系摄影师👉舟心_cq\n@zhouxin68\n模特👉小趴菜\n@yvifan https://t.co/cHhPIk8SId",
+    "publish_time": "2026-08-31T07:31:45"
+  },
+  {
+    "file_name": "HRAdbgMa8AAW_fv.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRAdbgMa8AAW_fv.jpg",
+    "read_time": "2026-08-31T08:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35857,
+      "timestamp": "2026-08-31T08:01:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 80496,
+      "size_mb": 0.08,
+      "timestamp": "2026-08-31T08:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "·\n【小趴菜首本全见写真】158幅\n\n联系摄影师👉舟心_cq\n@zhouxin68\n模特👉小趴菜\n@yvifan https://t.co/cHhPIk8SId",
+    "publish_time": "2026-08-31T07:31:45"
+  },
+  {
+    "file_name": "HRAdbgPbYAAd2Xu.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRAdbgPbYAAd2Xu.jpg",
+    "read_time": "2026-08-31T08:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35858,
+      "timestamp": "2026-08-31T08:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 77624,
+      "size_mb": 0.07,
+      "timestamp": "2026-08-31T08:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "·\n【小趴菜首本全见写真】158幅\n\n联系摄影师👉舟心_cq\n@zhouxin68\n模特👉小趴菜\n@yvifan https://t.co/cHhPIk8SId",
+    "publish_time": "2026-08-31T07:31:45"
+  },
+  {
+    "file_name": "HRAf7lMacAA1BzH.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRAf7lMacAA1BzH.jpg",
+    "read_time": "2026-08-31T08:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35859,
+      "timestamp": "2026-08-31T08:01:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 102102,
+      "size_mb": 0.1,
+      "timestamp": "2026-08-31T08:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "·\n#东方男孩# \n在谢梓秋老师工作室@xieziqiu1027 \n出镜：小📕，：桐一。\n\n是你们喜欢的薄肌吗？ https://t.co/ILnJNnEs7a",
+    "publish_time": "2026-08-31T07:41:35"
+  },
+  {
+    "file_name": "HRAf7lMa0AAFBVa.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRAf7lMa0AAFBVa.jpg",
+    "read_time": "2026-08-31T08:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35860,
+      "timestamp": "2026-08-31T08:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 111346,
+      "size_mb": 0.11,
+      "timestamp": "2026-08-31T08:01:31",
+      "download_attempts": 0
+    },
+    "full_text": "·\n#东方男孩# \n在谢梓秋老师工作室@xieziqiu1027 \n出镜：小📕，：桐一。\n\n是你们喜欢的薄肌吗？ https://t.co/ILnJNnEs7a",
+    "publish_time": "2026-08-31T07:41:35"
+  },
+  {
+    "file_name": "HRAf7lLa8AAmVy7.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRAf7lLa8AAmVy7.jpg",
+    "read_time": "2026-08-31T08:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35861,
+      "timestamp": "2026-08-31T08:01:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 98935,
+      "size_mb": 0.09,
+      "timestamp": "2026-08-31T08:01:32",
+      "download_attempts": 0
+    },
+    "full_text": "·\n#东方男孩# \n在谢梓秋老师工作室@xieziqiu1027 \n出镜：小📕，：桐一。\n\n是你们喜欢的薄肌吗？ https://t.co/ILnJNnEs7a",
+    "publish_time": "2026-08-31T07:41:35"
+  },
+  {
+    "file_name": "HRAf7lKboAAwLqH.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRAf7lKboAAwLqH.jpg",
+    "read_time": "2026-08-31T08:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35862,
+      "timestamp": "2026-08-31T08:01:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 105053,
+      "size_mb": 0.1,
+      "timestamp": "2026-08-31T08:01:33",
+      "download_attempts": 0
+    },
+    "full_text": "·\n#东方男孩# \n在谢梓秋老师工作室@xieziqiu1027 \n出镜：小📕，：桐一。\n\n是你们喜欢的薄肌吗？ https://t.co/ILnJNnEs7a",
+    "publish_time": "2026-08-31T07:41:35"
+  },
+  {
+    "file_name": "Mz4f79RiapSkQeHG.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2094212304506363904/vid/avc1/1280x720/Mz4f79RiapSkQeHG.mp4?tag=29",
+    "read_time": "2026-08-31T08:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35863,
+      "timestamp": "2026-08-31T08:01:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 337872,
+      "size_mb": 0.32,
+      "timestamp": "2026-08-31T08:01:35",
+      "download_attempts": 0
+    },
+    "full_text": "早 https://t.co/V8CAhNzpxl",
+    "publish_time": "2026-08-31T07:55:13"
+  },
+  {
+    "file_name": "MSz_XSVf9Rrc7pr9.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2094212329399525376/vid/avc1/1280x720/MSz_XSVf9Rrc7pr9.mp4?tag=29",
+    "read_time": "2026-08-31T08:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35864,
+      "timestamp": "2026-08-31T08:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 396078,
+      "size_mb": 0.38,
+      "timestamp": "2026-08-31T08:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "早 https://t.co/V8CAhNzpxl",
+    "publish_time": "2026-08-31T07:55:13"
+  },
+  {
+    "file_name": "-t0GWz2uz8JIfqVH.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2094212352820543488/vid/avc1/1280x720/-t0GWz2uz8JIfqVH.mp4?tag=29",
+    "read_time": "2026-08-31T08:01:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35865,
+      "timestamp": "2026-08-31T08:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 415600,
+      "size_mb": 0.4,
+      "timestamp": "2026-08-31T08:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "早 https://t.co/V8CAhNzpxl",
+    "publish_time": "2026-08-31T07:55:13"
   }
 ]
