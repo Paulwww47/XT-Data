@@ -1820,5 +1820,85 @@
     },
     "full_text": "work～ https://t.co/3Kn9LPIjJq",
     "publish_time": "2026-08-31T10:59:23"
+  },
+  {
+    "file_name": "s4ab5spnW5sjVxTC.mp4",
+    "user": {
+      "screen_name": "DJIMAGE111",
+      "name": "Cyrus"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2094258695928741888/vid/avc1/2160x3840/s4ab5spnW5sjVxTC.mp4?tag=29",
+    "read_time": "2026-08-31T12:01:17",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (104MB > 50MB)",
+      "timestamp": "2026-08-31T12:01:28",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 110063236,
+      "size_mb": 104.96,
+      "timestamp": "2026-08-31T12:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "「原创」📸   都在催更舞蹈老师，剪个打桩片段（完整版有偿私信）\n\n#北京 #Beijing #天津 #Tianjin #打桩 https://t.co/1VkGGtEa3p",
+    "publish_time": "2026-08-31T11:01:08"
+  },
+  {
+    "file_name": "HRBYQFBbkAAqSq2.jpg",
+    "user": {
+      "screen_name": "EthanXPC",
+      "name": "Ethan小趴菜（想谈恋爱版）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRBYQFBbkAAqSq2.jpg",
+    "read_time": "2026-08-31T12:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35898,
+      "timestamp": "2026-08-31T12:01:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 135775,
+      "size_mb": 0.13,
+      "timestamp": "2026-08-31T12:01:28",
+      "download_attempts": 0
+    },
+    "full_text": "@ArcaneHarmony_ 🍑真的太🉑了，这谁顶得住啊 https://t.co/ygOXOtbyOs",
+    "publish_time": "2026-08-31T11:47:41"
+  },
+  {
+    "file_name": "HRBYYqNWAAArSa_.jpg",
+    "user": {
+      "screen_name": "T13602S",
+      "name": "大野菊"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRBYYqNWAAArSa_.jpg",
+    "read_time": "2026-08-31T12:01:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 35899,
+      "timestamp": "2026-08-31T12:01:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 62532,
+      "size_mb": 0.06,
+      "timestamp": "2026-08-31T12:01:29",
+      "download_attempts": 0
+    },
+    "full_text": "直男的嘴简直了，太八卦了。 https://t.co/bFaDoOtzdI",
+    "publish_time": "2026-08-31T11:48:15"
   }
 ]
