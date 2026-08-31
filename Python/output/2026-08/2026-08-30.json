@@ -4596,14 +4596,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (77MB > 50MB)",
       "timestamp": "2026-08-31T20:02:40",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 80912738,
       "size_mb": 77.16,
-      "timestamp": "2026-08-31T20:02:40",
+      "timestamp": "2026-08-31T21:01:26",
       "download_attempts": 0
     },
     "full_text": "https://t.co/7U1bveafoE",
