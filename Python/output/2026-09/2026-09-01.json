@@ -1188,14 +1188,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (60MB > 50MB)",
       "timestamp": "2026-09-01T10:02:34",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 63473468,
       "size_mb": 60.53,
-      "timestamp": "2026-09-01T10:02:34",
+      "timestamp": "2026-09-01T11:01:19",
       "download_attempts": 0
     },
     "full_text": "https://t.co/JXNMBG55zD",
@@ -1356,5 +1356,213 @@
     },
     "full_text": "这个姿势可以？ https://t.co/pIwumBQTEu",
     "publish_time": "2026-09-01T09:59:34"
+  },
+  {
+    "file_name": "pJCweEJow0P99Ni2.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2094606850306232321/vid/avc1/720x1280/pJCweEJow0P99Ni2.mp4?tag=29",
+    "read_time": "2026-09-01T11:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36034,
+      "timestamp": "2026-09-01T11:01:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 12904251,
+      "size_mb": 12.31,
+      "timestamp": "2026-09-01T11:01:20",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/pBIlmSZ85e",
+    "publish_time": "2026-09-01T10:02:55"
+  },
+  {
+    "file_name": "HRGOxtZWkAACdSU.jpg",
+    "user": {
+      "screen_name": "liu6864",
+      "name": "CL357"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRGOxtZWkAACdSU.jpg",
+    "read_time": "2026-09-01T11:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36035,
+      "timestamp": "2026-09-01T11:01:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 173520,
+      "size_mb": 0.17,
+      "timestamp": "2026-09-01T11:01:24",
+      "download_attempts": 0
+    },
+    "full_text": "这书真不错啊 https://t.co/pFF9i9lNoY",
+    "publish_time": "2026-09-01T10:24:28"
+  },
+  {
+    "file_name": "HRGOxtWWkAA4bCQ.jpg",
+    "user": {
+      "screen_name": "liu6864",
+      "name": "CL357"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRGOxtWWkAA4bCQ.jpg",
+    "read_time": "2026-09-01T11:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36036,
+      "timestamp": "2026-09-01T11:01:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 179679,
+      "size_mb": 0.17,
+      "timestamp": "2026-09-01T11:01:24",
+      "download_attempts": 0
+    },
+    "full_text": "这书真不错啊 https://t.co/pFF9i9lNoY",
+    "publish_time": "2026-09-01T10:24:28"
+  },
+  {
+    "file_name": "HRGOxtWWEAAOMQB.jpg",
+    "user": {
+      "screen_name": "liu6864",
+      "name": "CL357"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRGOxtWWEAAOMQB.jpg",
+    "read_time": "2026-09-01T11:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36037,
+      "timestamp": "2026-09-01T11:01:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 137207,
+      "size_mb": 0.13,
+      "timestamp": "2026-09-01T11:01:25",
+      "download_attempts": 0
+    },
+    "full_text": "这书真不错啊 https://t.co/pFF9i9lNoY",
+    "publish_time": "2026-09-01T10:24:28"
+  },
+  {
+    "file_name": "HRGRj_raUAAH0R8.jpg",
+    "user": {
+      "screen_name": "eccmair",
+      "name": "焛"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRGRj_raUAAH0R8.jpg",
+    "read_time": "2026-09-01T11:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36038,
+      "timestamp": "2026-09-01T11:01:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 127660,
+      "size_mb": 0.12,
+      "timestamp": "2026-09-01T11:01:26",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/73NNtX08Lg",
+    "publish_time": "2026-09-01T10:36:31"
+  },
+  {
+    "file_name": "HRGSU9jaYAA6CxH.jpg",
+    "user": {
+      "screen_name": "Uji_Hikaru",
+      "name": "虎不理"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRGSU9jaYAA6CxH.jpg",
+    "read_time": "2026-09-01T11:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36039,
+      "timestamp": "2026-09-01T11:01:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 75979,
+      "size_mb": 0.07,
+      "timestamp": "2026-09-01T11:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "有些生活日常只能在这里分享，男人睡觉时候下面全程梆硬，昨天晚上突发奇想给自己后面摸了点油，然后让男人从后面侧着抱我睡，然后就实现了以前一直想却没有实现的幻想“被插里面睡”，虽然过了几十分钟换了个睡姿他还是软下来了，但睡着能硬那么久也蛮厉害了 https://t.co/7L3XEuduvk",
+    "publish_time": "2026-09-01T10:39:52"
+  },
+  {
+    "file_name": "HRGSajiaMAAZLFY.jpg",
+    "user": {
+      "screen_name": "EthanXPC",
+      "name": "Ethan小趴菜（想谈恋爱版）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRGSajiaMAAZLFY.jpg",
+    "read_time": "2026-09-01T11:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36040,
+      "timestamp": "2026-09-01T11:01:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 68411,
+      "size_mb": 0.07,
+      "timestamp": "2026-09-01T11:01:27",
+      "download_attempts": 0
+    },
+    "full_text": "@EthanXPC1 抱歉各位，以后水印不会再避开🌼了。这个人把我水印截掉盗我视频 https://t.co/YaqZzS29s2",
+    "publish_time": "2026-09-01T10:40:15"
+  },
+  {
+    "file_name": "inKwm6fX3nItga4g.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2094621091478351872/vid/avc1/360x640/inKwm6fX3nItga4g.mp4?tag=29",
+    "read_time": "2026-09-01T11:01:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36041,
+      "timestamp": "2026-09-01T11:01:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2388775,
+      "size_mb": 2.28,
+      "timestamp": "2026-09-01T11:01:30",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Jhmwp3Q7Cr",
+    "publish_time": "2026-09-01T10:59:24"
   }
 ]
