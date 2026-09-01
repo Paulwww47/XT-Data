@@ -638,14 +638,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (82MB > 50MB)",
       "timestamp": "2026-09-01T07:01:12",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 86270192,
       "size_mb": 82.27,
-      "timestamp": "2026-09-01T07:01:12",
+      "timestamp": "2026-09-01T08:01:48",
       "download_attempts": 0
     },
     "full_text": "·\nNEW ｜陳光 @chinkou_\nand Krittayot Kanchanadul  IG: smilejohn ：『  Let’s make some unforgettable summer memories together! 』\nEAU DE TOILETTE ，📍Bangkok https://t.co/PD2Yjy97Ee",
@@ -754,5 +754,241 @@
     },
     "full_text": "早 https://t.co/JnHYRyP8ox",
     "publish_time": "2026-09-01T06:55:07"
+  },
+  {
+    "file_name": "wJM4vTASYg0tG7Nj.mp4",
+    "user": {
+      "screen_name": "chuanzhang0320",
+      "name": "Appetency."
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2094563402006061057/vid/avc1/1280x720/wJM4vTASYg0tG7Nj.mp4?tag=29",
+    "read_time": "2026-09-01T08:01:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36013,
+      "timestamp": "2026-09-01T08:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 8853765,
+      "size_mb": 8.44,
+      "timestamp": "2026-09-01T08:01:48",
+      "download_attempts": 0
+    },
+    "full_text": "💦 https://t.co/JcDvIyGrnN",
+    "publish_time": "2026-09-01T07:10:24"
+  },
+  {
+    "file_name": "v5CSkMYUMQVAHGEA.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2094564643591356416/vid/avc1/720x1280/v5CSkMYUMQVAHGEA.mp4?tag=29",
+    "read_time": "2026-09-01T08:01:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36014,
+      "timestamp": "2026-09-01T08:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1405217,
+      "size_mb": 1.34,
+      "timestamp": "2026-09-01T08:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/l1uEp9qDrk",
+    "publish_time": "2026-09-01T07:15:04"
+  },
+  {
+    "file_name": "7F8Bz897HZBTf3vY.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2094566247858044928/vid/avc1/592x1280/7F8Bz897HZBTf3vY.mp4?tag=29",
+    "read_time": "2026-09-01T08:01:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36015,
+      "timestamp": "2026-09-01T08:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 10496063,
+      "size_mb": 10.01,
+      "timestamp": "2026-09-01T08:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/NxHwXPZ0h8",
+    "publish_time": "2026-09-01T07:21:44"
+  },
+  {
+    "file_name": "zmyxM76FxbZ71cjn.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2094568781515534336/vid/avc1/1280x592/zmyxM76FxbZ71cjn.mp4?tag=29",
+    "read_time": "2026-09-01T08:01:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36016,
+      "timestamp": "2026-09-01T08:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 10075799,
+      "size_mb": 9.61,
+      "timestamp": "2026-09-01T08:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4gYcpjNzUP",
+    "publish_time": "2026-09-01T07:31:43"
+  },
+  {
+    "file_name": "CcMAFnV09HZO6D6U.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2094569632111984641/vid/avc1/1280x592/CcMAFnV09HZO6D6U.mp4?tag=29",
+    "read_time": "2026-09-01T08:01:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36017,
+      "timestamp": "2026-09-01T08:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 10923397,
+      "size_mb": 10.42,
+      "timestamp": "2026-09-01T08:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/MGIwCJsPkP",
+    "publish_time": "2026-09-01T07:35:07"
+  },
+  {
+    "file_name": "LNYdEfPujm8fuAk-.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2094570240915238912/vid/avc1/284x496/LNYdEfPujm8fuAk-.mp4?tag=29",
+    "read_time": "2026-09-01T08:01:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36018,
+      "timestamp": "2026-09-01T08:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1704232,
+      "size_mb": 1.63,
+      "timestamp": "2026-09-01T08:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/zzYmUCbDBS",
+    "publish_time": "2026-09-01T07:37:25"
+  },
+  {
+    "file_name": "eV8h7YH97v75J_S-.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2094571589421715456/vid/avc1/1280x720/eV8h7YH97v75J_S-.mp4?tag=29",
+    "read_time": "2026-09-01T08:01:45",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (129MB > 50MB)",
+      "timestamp": "2026-09-01T08:02:04",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 135465026,
+      "size_mb": 129.19,
+      "timestamp": "2026-09-01T08:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/40NolttuxH",
+    "publish_time": "2026-09-01T07:44:31"
+  },
+  {
+    "file_name": "CiIT89Aun-wtscJD.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2094574888841551872/vid/avc1/1280x720/CiIT89Aun-wtscJD.mp4?tag=29",
+    "read_time": "2026-09-01T08:01:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36019,
+      "timestamp": "2026-09-01T08:02:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 16606992,
+      "size_mb": 15.84,
+      "timestamp": "2026-09-01T08:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/d8Y1aFAAGv",
+    "publish_time": "2026-09-01T07:56:02"
+  },
+  {
+    "file_name": "aYRufsSE34hXXHNf.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2094575263502008320/vid/avc1/736x1280/aYRufsSE34hXXHNf.mp4?tag=29",
+    "read_time": "2026-09-01T08:01:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36020,
+      "timestamp": "2026-09-01T08:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 13066548,
+      "size_mb": 12.46,
+      "timestamp": "2026-09-01T08:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/rIganJJyBU",
+    "publish_time": "2026-09-01T07:57:29"
   }
 ]
