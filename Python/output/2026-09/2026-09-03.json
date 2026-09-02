@@ -196,7 +196,7 @@
     "upload_info": {},
     "is_downloaded": false,
     "download_info": {
-      "download_attempts": 4
+      "download_attempts": 5
     },
     "full_text": "https://t.co/6sGjhX2JEM",
     "publish_time": "2026-09-03T00:46:44"
@@ -746,5 +746,31 @@
     },
     "full_text": "这次宿舍轮奸来到了篮球队，但不是同一个宿舍的，是一个队的，目前被轮了4人，三个答应拍视频，身高都在195➕，第四个拒绝视频，看看最后能被几个队友轮奸！ https://t.co/VnZTQ6pa4c",
     "publish_time": "2026-09-03T03:44:51"
+  },
+  {
+    "file_name": "HRPKBdwbwAANxnN.jpg",
+    "user": {
+      "screen_name": "zerosugarcoffee",
+      "name": "芬太可"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRPKBdwbwAANxnN.jpg",
+    "read_time": "2026-09-03T05:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36293,
+      "timestamp": "2026-09-03T05:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 70250,
+      "size_mb": 0.07,
+      "timestamp": "2026-09-03T05:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "八月很忙的 https://t.co/m0NZEcrOaS",
+    "publish_time": "2026-09-03T04:00:43"
   }
 ]
