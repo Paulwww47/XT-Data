@@ -196,7 +196,7 @@
     "upload_info": {},
     "is_downloaded": false,
     "download_info": {
-      "download_attempts": 6
+      "download_attempts": 7
     },
     "full_text": "https://t.co/6sGjhX2JEM",
     "publish_time": "2026-09-03T00:46:44"
@@ -798,5 +798,83 @@
     },
     "full_text": "https://t.co/QzTd2pqFoB",
     "publish_time": "2026-09-03T05:45:59"
+  },
+  {
+    "file_name": "HRPmU3HaEAAgmzy.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRPmU3HaEAAgmzy.jpg",
+    "read_time": "2026-09-03T07:01:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36295,
+      "timestamp": "2026-09-03T07:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 141430,
+      "size_mb": 0.13,
+      "timestamp": "2026-09-03T07:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "nickneylu https://t.co/hzgvaBYm9K",
+    "publish_time": "2026-09-03T06:03:49"
+  },
+  {
+    "file_name": "HRPxYpZboAAYPAQ.jpg",
+    "user": {
+      "screen_name": "lancelin1120",
+      "name": "lancelin"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRPxYpZboAAYPAQ.jpg",
+    "read_time": "2026-09-03T07:01:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36296,
+      "timestamp": "2026-09-03T07:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 91755,
+      "size_mb": 0.09,
+      "timestamp": "2026-09-03T07:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "嗯 https://t.co/3vnxL7PiEl",
+    "publish_time": "2026-09-03T06:52:08"
+  },
+  {
+    "file_name": "HRPxYpVbwAAdxDp.jpg",
+    "user": {
+      "screen_name": "lancelin1120",
+      "name": "lancelin"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRPxYpVbwAAdxDp.jpg",
+    "read_time": "2026-09-03T07:01:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36297,
+      "timestamp": "2026-09-03T07:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 122072,
+      "size_mb": 0.12,
+      "timestamp": "2026-09-03T07:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "嗯 https://t.co/3vnxL7PiEl",
+    "publish_time": "2026-09-03T06:52:08"
   }
 ]
