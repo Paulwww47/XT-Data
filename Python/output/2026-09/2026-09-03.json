@@ -196,7 +196,7 @@
     "upload_info": {},
     "is_downloaded": false,
     "download_info": {
-      "download_attempts": 5
+      "download_attempts": 6
     },
     "full_text": "https://t.co/6sGjhX2JEM",
     "publish_time": "2026-09-03T00:46:44"
@@ -772,5 +772,31 @@
     },
     "full_text": "八月很忙的 https://t.co/m0NZEcrOaS",
     "publish_time": "2026-09-03T04:00:43"
+  },
+  {
+    "file_name": "geZZhrMgMgCyOF_Q.mp4",
+    "user": {
+      "screen_name": "ran9592",
+      "name": "코란"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095266924951441409/vid/avc1/720x1280/geZZhrMgMgCyOF_Q.mp4?tag=29",
+    "read_time": "2026-09-03T06:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36294,
+      "timestamp": "2026-09-03T06:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3147441,
+      "size_mb": 3.0,
+      "timestamp": "2026-09-03T06:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/QzTd2pqFoB",
+    "publish_time": "2026-09-03T05:45:59"
   }
 ]
