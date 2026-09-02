@@ -9052,45 +9052,6 @@
     }
   },
   {
-    "restId": "2834199775",
-    "legacy": {
-      "name": "直男教母2.0",
-      "screenName": "znjm123",
-      "createdAt": "Sat Sep 27 15:38:07 +0000 2014",
-      "description": "大号在 @znjm1234 大号又被封了 Q 3948983169\n小号 @znjm12\n电报telegram https://t.co/KnizS5baO0",
-      "entities": {
-        "description": {
-          "urls": [
-            {
-              "display_url": "t.me/+VUJAd63JpRIxZ…",
-              "expanded_url": "https://t.me/+VUJAd63JpRIxZTFh",
-              "indices": [
-                56,
-                79
-              ],
-              "url": "https://t.co/KnizS5baO0"
-            }
-          ]
-        },
-        "url": {
-          "urls": [
-            {
-              "display_url": "t.me/+VUJAd63JpRIxZ…",
-              "expanded_url": "https://t.me/+VUJAd63JpRIxZTFh",
-              "indices": [
-                0,
-                23
-              ],
-              "url": "https://t.co/KnizS5baO0"
-            }
-          ]
-        }
-      },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2834199775/1490345292",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2059006909118894080/NYOJUi8S_normal.jpg"
-    }
-  },
-  {
     "restId": "1787153160974614528",
     "legacy": {
       "name": "Mr.CumBoY",
