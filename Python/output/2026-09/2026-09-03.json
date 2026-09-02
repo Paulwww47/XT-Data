@@ -170,14 +170,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (57MB > 50MB)",
       "timestamp": "2026-09-03T01:01:58",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 60253732,
       "size_mb": 57.46,
-      "timestamp": "2026-09-03T01:01:58",
+      "timestamp": "2026-09-03T02:02:56",
       "download_attempts": 0
     },
     "full_text": "「原创」📸  极品同事真的太能叫了，她的的男朋友。。。。也是我的同事，看到他男朋友我心里真的有种说不出的感觉🥲\n（无码完整版有偿，私信）\n\n#北京 #Beijing #天津 #Tianjin #后入 #母狗 https://t.co/vfppxdtDYf",
@@ -196,7 +196,7 @@
     "upload_info": {},
     "is_downloaded": false,
     "download_info": {
-      "download_attempts": 1
+      "download_attempts": 2
     },
     "full_text": "https://t.co/6sGjhX2JEM",
     "publish_time": "2026-09-03T00:46:44"
@@ -382,5 +382,187 @@
     },
     "full_text": "·\n🏆2026度 韩国国际先生31位决赛选手决赛在上周末举行：快讯-前八名集体照出现｜还有泳装走台的花絮先欣赏一下吧 ♥️ 待续！ ​​​…… https://t.co/weMZ8EHcvs",
     "publish_time": "2026-09-03T00:56:32"
+  },
+  {
+    "file_name": "EWMMcOLs4Qo1R6M8.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095195512790228992/vid/avc1/720x1280/EWMMcOLs4Qo1R6M8.mp4?tag=29",
+    "read_time": "2026-09-03T02:02:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36277,
+      "timestamp": "2026-09-03T02:03:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7832022,
+      "size_mb": 7.47,
+      "timestamp": "2026-09-03T02:02:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/dQRVbNnFis",
+    "publish_time": "2026-09-03T01:02:06"
+  },
+  {
+    "file_name": "gZ6JnyWzjHCzqQ4l.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095195512760905728/vid/avc1/720x1280/gZ6JnyWzjHCzqQ4l.mp4?tag=29",
+    "read_time": "2026-09-03T02:02:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36278,
+      "timestamp": "2026-09-03T02:03:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7001184,
+      "size_mb": 6.68,
+      "timestamp": "2026-09-03T02:03:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/dQRVbNnFis",
+    "publish_time": "2026-09-03T01:02:06"
+  },
+  {
+    "file_name": "G63yOTNZTtPPrPpy.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095195512848961537/vid/avc1/720x1280/G63yOTNZTtPPrPpy.mp4?tag=29",
+    "read_time": "2026-09-03T02:02:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36279,
+      "timestamp": "2026-09-03T02:03:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7455378,
+      "size_mb": 7.11,
+      "timestamp": "2026-09-03T02:03:05",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/dQRVbNnFis",
+    "publish_time": "2026-09-03T01:02:06"
+  },
+  {
+    "file_name": "HROlKDoaoAANAFY.jpg",
+    "user": {
+      "screen_name": "yyycc_c",
+      "name": "C"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HROlKDoaoAANAFY.jpg",
+    "read_time": "2026-09-03T02:02:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36280,
+      "timestamp": "2026-09-03T02:03:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 99878,
+      "size_mb": 0.1,
+      "timestamp": "2026-09-03T02:03:07",
+      "download_attempts": 0
+    },
+    "full_text": "🌙 https://t.co/oIO2lOAGU7",
+    "publish_time": "2026-09-03T01:19:07"
+  },
+  {
+    "file_name": "HROoQb0a8AAyalZ.jpg",
+    "user": {
+      "screen_name": "T13602S",
+      "name": "大野菊"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HROoQb0a8AAyalZ.jpg",
+    "read_time": "2026-09-03T02:02:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36281,
+      "timestamp": "2026-09-03T02:03:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 54352,
+      "size_mb": 0.05,
+      "timestamp": "2026-09-03T02:03:08",
+      "download_attempts": 0
+    },
+    "full_text": "还记得前几天给直男背后说我坏话那个cd嘛！装男号诱导我小红书私信违规后就在今晚继续装体育生诱导我Soul违规，但被我发现了，不断引导违规话术以及套我家庭住址以及电话号码与真实姓名，简直防不胜防！最终被我识破，气急败坏给我发了他推的cd姐妹和那个直男的床上合照，我简直是后怕！ https://t.co/cyFkYL2MAq",
+    "publish_time": "2026-09-03T01:33:18"
+  },
+  {
+    "file_name": "L8LgM92XAMnyFd0w.mp4",
+    "user": {
+      "screen_name": "T13602S",
+      "name": "大野菊"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095210388392681472/vid/avc1/720x1280/L8LgM92XAMnyFd0w.mp4?tag=29",
+    "read_time": "2026-09-03T02:02:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36282,
+      "timestamp": "2026-09-03T02:03:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7236759,
+      "size_mb": 6.9,
+      "timestamp": "2026-09-03T02:03:10",
+      "download_attempts": 0
+    },
+    "full_text": "分享一下黑人小哥的jb，这是没有硬的状态，已经接近23厘米了！我真的退缩了，害怕，最后买了超大尺寸的避孕套给他口了几下，他非要无套内射，我强烈拒绝。 https://t.co/ii4Y4n3Fay",
+    "publish_time": "2026-09-03T02:01:23"
+  },
+  {
+    "file_name": "Y8-gJRY_W__FOVKS.mp4",
+    "user": {
+      "screen_name": "T13602S",
+      "name": "大野菊"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095210388430458880/vid/avc1/720x1280/Y8-gJRY_W__FOVKS.mp4?tag=29",
+    "read_time": "2026-09-03T02:02:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36283,
+      "timestamp": "2026-09-03T02:03:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2199207,
+      "size_mb": 2.1,
+      "timestamp": "2026-09-03T02:03:14",
+      "download_attempts": 0
+    },
+    "full_text": "分享一下黑人小哥的jb，这是没有硬的状态，已经接近23厘米了！我真的退缩了，害怕，最后买了超大尺寸的避孕套给他口了几下，他非要无套内射，我强烈拒绝。 https://t.co/ii4Y4n3Fay",
+    "publish_time": "2026-09-03T02:01:23"
   }
 ]
