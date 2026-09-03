@@ -2280,17 +2280,251 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (3321MB > 50MB)",
       "timestamp": "2026-09-03T14:02:19",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 3482437219,
       "size_mb": 3321.11,
-      "timestamp": "2026-09-03T14:02:19",
+      "timestamp": "2026-09-03T15:01:51",
       "download_attempts": 0
     },
     "full_text": "分享最近看的片，為什麼會不自覺跟著很想射🥵\n持久度真的不行🥵🥵 https://t.co/G1eg4X7nxX",
     "publish_time": "2026-09-03T13:52:17"
+  },
+  {
+    "file_name": "HRRThStaIAA70e_.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRRThStaIAA70e_.jpg",
+    "read_time": "2026-09-03T15:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36349,
+      "timestamp": "2026-09-03T15:01:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 63771,
+      "size_mb": 0.06,
+      "timestamp": "2026-09-03T15:01:51",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/fMCtOmfAt1",
+    "publish_time": "2026-09-03T14:01:11"
+  },
+  {
+    "file_name": "9SZZ268sItEAIjsW.mp4",
+    "user": {
+      "screen_name": "xiguaultra",
+      "name": "野西瓜"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095393437403258880/vid/avc1/720x1280/9SZZ268sItEAIjsW.mp4?tag=29",
+    "read_time": "2026-09-03T15:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36350,
+      "timestamp": "2026-09-03T15:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 742743,
+      "size_mb": 0.71,
+      "timestamp": "2026-09-03T15:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "生日快乐小猴子🙊奖励自己瑞幸一下8 https://t.co/OqWJ9rhQBE",
+    "publish_time": "2026-09-03T14:08:29"
+  },
+  {
+    "file_name": "SAo0rr4gnS2x2aDr.mp4",
+    "user": {
+      "screen_name": "notrealakira",
+      "name": "akira"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095393558178177024/vid/avc1/720x1280/SAo0rr4gnS2x2aDr.mp4?tag=29",
+    "read_time": "2026-09-03T15:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36351,
+      "timestamp": "2026-09-03T15:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 486595,
+      "size_mb": 0.46,
+      "timestamp": "2026-09-03T15:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "kk https://t.co/4gkWhqCj8k",
+    "publish_time": "2026-09-03T14:08:57"
+  },
+  {
+    "file_name": "HQHN7IBxeHfNrOOX.mp4",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095394328583827457/vid/avc1/720x720/HQHN7IBxeHfNrOOX.mp4?tag=29",
+    "read_time": "2026-09-03T15:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36352,
+      "timestamp": "2026-09-03T15:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 884243,
+      "size_mb": 0.84,
+      "timestamp": "2026-09-03T15:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/MEqcCoE1IW",
+    "publish_time": "2026-09-03T14:12:51"
+  },
+  {
+    "file_name": "HRRWwqfbsAAx6JM.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRRWwqfbsAAx6JM.png",
+    "read_time": "2026-09-03T15:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36353,
+      "timestamp": "2026-09-03T15:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 958123,
+      "size_mb": 0.91,
+      "timestamp": "2026-09-03T15:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/6g7u1kXdFQ",
+    "publish_time": "2026-09-03T14:15:13"
+  },
+  {
+    "file_name": "HRRXHVYaUAATIt5.jpg",
+    "user": {
+      "screen_name": "MaryBak64398222",
+      "name": "直男调教S"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRRXHVYaUAATIt5.jpg",
+    "read_time": "2026-09-03T15:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36354,
+      "timestamp": "2026-09-03T15:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 160851,
+      "size_mb": 0.15,
+      "timestamp": "2026-09-03T15:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "【西装人夫-8号】第三部\n\n私密号已更新~ 速速观赏\n获取名额先阅读置顶推文，然后私信留言❤️ https://t.co/8SssSMw4zq",
+    "publish_time": "2026-09-03T14:16:37"
+  },
+  {
+    "file_name": "HRRa0xFboAAW0i7.jpg",
+    "user": {
+      "screen_name": "MaryBak64398222",
+      "name": "直男调教S"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRRa0xFboAAW0i7.jpg",
+    "read_time": "2026-09-03T15:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36355,
+      "timestamp": "2026-09-03T15:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 164490,
+      "size_mb": 0.16,
+      "timestamp": "2026-09-03T15:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "9月的粉丝福利即将开启🎉\n\n由于开学的原因，我会在本周末抽取幸运宝子发送私信~  名额时间延长至下周末！\n\n时间已经非常富裕咯❤️ 被选中的宝宝记得及时回复私信~  超过时间未回复，名额将跳给下一位，过时不候哦 https://t.co/RjAF38hkRa",
+    "publish_time": "2026-09-03T14:32:50"
+  },
+  {
+    "file_name": "ZNRYC87n__so95-M.mp4",
+    "user": {
+      "screen_name": "Mateusdiasotoni",
+      "name": "直男女记者77"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095403234001313792/vid/avc1/720x744/ZNRYC87n__so95-M.mp4?tag=29",
+    "read_time": "2026-09-03T15:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36356,
+      "timestamp": "2026-09-03T15:02:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 36800361,
+      "size_mb": 35.1,
+      "timestamp": "2026-09-03T15:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "车里勾引直男人夫 https://t.co/CQQY9IWHlt",
+    "publish_time": "2026-09-03T14:48:56"
+  },
+  {
+    "file_name": "HRRfeNrbwAAO1rr.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRRfeNrbwAAO1rr.jpg",
+    "read_time": "2026-09-03T15:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36357,
+      "timestamp": "2026-09-03T15:02:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 199096,
+      "size_mb": 0.19,
+      "timestamp": "2026-09-03T15:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "双改单案例/ 术前肉条感两边不对称👀\n术后即刻弱化人工痕迹感🔪硬朗阳光很多🔝\n（男生改单要趁早！多享受一下美丽时光）\n咨询留言 来私 https://t.co/BEzDL70uEk",
+    "publish_time": "2026-09-03T14:53:08"
   }
 ]
