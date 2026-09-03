@@ -196,7 +196,7 @@
     "upload_info": {
       "success": false,
       "error_type": "max_download_attempts",
-      "message": "404 Client Error: Not Found for url: https://video.twimg.com/amplify_video/2095191672468697092/vid/avc1/720x1280/I2X6QZiZPcEbh_Po.mp4?tag=29",
+      "message": "连续下载失败10次",
       "timestamp": "2026-09-03T10:01:39",
       "notification_sent": true
     },
@@ -1352,5 +1352,163 @@
     },
     "full_text": "https://t.co/wdtBtJF5gt",
     "publish_time": "2026-09-03T09:55:44"
+  },
+  {
+    "file_name": "HRQjwOXbEAAiHT1.jpg",
+    "user": {
+      "screen_name": "Uji_Hikaru",
+      "name": "虎不理"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRQjwOXbEAAiHT1.jpg",
+    "read_time": "2026-09-03T11:01:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36315,
+      "timestamp": "2026-09-03T11:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 196922,
+      "size_mb": 0.19,
+      "timestamp": "2026-09-03T11:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "这辈子做0爽的次数一只手能数的过来，所以基本都在做1，昨天晚上男人心血来潮突然又想侧躺插我里面睡，结果进去之后就是一顿肏把我干的又硬又流水，水多到他还问我是不是要射了，我说你老公这辈子做0还没被操射过能被你肏硬都已经是奇迹了，事后依然是插里面直接睡觉 https://t.co/20zyOGImSq",
+    "publish_time": "2026-09-03T10:32:13"
+  },
+  {
+    "file_name": "HRQmlaebsAAmW-_.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRQmlaebsAAmW-_.jpg",
+    "read_time": "2026-09-03T11:01:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36316,
+      "timestamp": "2026-09-03T11:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 73559,
+      "size_mb": 0.07,
+      "timestamp": "2026-09-03T11:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/MiWwRVZfO6",
+    "publish_time": "2026-09-03T10:44:34"
+  },
+  {
+    "file_name": "HRQmn24bYAATv3F.jpg",
+    "user": {
+      "screen_name": "yidada12345",
+      "name": "龙一豪"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRQmn24bYAATv3F.jpg",
+    "read_time": "2026-09-03T11:01:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36317,
+      "timestamp": "2026-09-03T11:01:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 76374,
+      "size_mb": 0.07,
+      "timestamp": "2026-09-03T11:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "有帅哥在佛山吗！我今天要去佛山玩！！！ https://t.co/LhK8WfJVkv",
+    "publish_time": "2026-09-03T10:44:44"
+  },
+  {
+    "file_name": "HRQm7ecaEAAxpRS.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRQm7ecaEAAxpRS.jpg",
+    "read_time": "2026-09-03T11:01:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36318,
+      "timestamp": "2026-09-03T11:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 139881,
+      "size_mb": 0.13,
+      "timestamp": "2026-09-03T11:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/hlipK1PFAD",
+    "publish_time": "2026-09-03T10:46:04"
+  },
+  {
+    "file_name": "r3vxhOw9xXBUtwhq.mp4",
+    "user": {
+      "screen_name": "Big_straight_H",
+      "name": "荒"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2039260102851690496/vid/avc1/2160x3840/r3vxhOw9xXBUtwhq.mp4?tag=21",
+    "read_time": "2026-09-03T11:01:35",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (161MB > 50MB)",
+      "timestamp": "2026-09-03T11:01:55",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 169502429,
+      "size_mb": 161.65,
+      "timestamp": "2026-09-03T11:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "這水柱太強勁了💦💦💦 https://t.co/FfGLMK6CKB",
+    "publish_time": "2026-09-03T10:46:05"
+  },
+  {
+    "file_name": "1YnYmgYkgZNCjdaI.mp4",
+    "user": {
+      "screen_name": "xiaojin20001112",
+      "name": "小金"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095344027545862144/vid/avc1/1280x720/1YnYmgYkgZNCjdaI.mp4?tag=29",
+    "read_time": "2026-09-03T11:01:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36319,
+      "timestamp": "2026-09-03T11:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 541856,
+      "size_mb": 0.52,
+      "timestamp": "2026-09-03T11:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "今日门槛44。看全部视频 https://t.co/r9DiywRfHA",
+    "publish_time": "2026-09-03T10:52:04"
   }
 ]
