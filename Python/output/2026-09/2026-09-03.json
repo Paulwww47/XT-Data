@@ -3540,5 +3540,165 @@
     },
     "full_text": "https://t.co/hix6vvHTV8",
     "publish_time": "2026-09-03T21:01:14"
+  },
+  {
+    "file_name": "0cLkn62XuJKpD_o5.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095498228745793536/vid/avc1/752x1280/0cLkn62XuJKpD_o5.mp4?tag=29",
+    "read_time": "2026-09-03T22:02:08",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "timestamp": "2026-09-03T22:02:30",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 18244126,
+      "size_mb": 17.4,
+      "timestamp": "2026-09-03T22:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vwBDfyBBRS",
+    "publish_time": "2026-09-03T21:04:59"
+  },
+  {
+    "file_name": "HRS1O9jbMAApkf5.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRS1O9jbMAApkf5.jpg",
+    "read_time": "2026-09-03T22:02:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36397,
+      "timestamp": "2026-09-03T22:02:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 139547,
+      "size_mb": 0.13,
+      "timestamp": "2026-09-03T22:02:31",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/hFYMC8Cf30",
+    "publish_time": "2026-09-03T21:07:52"
+  },
+  {
+    "file_name": "HRS1PazaAAAgdGi.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRS1PazaAAAgdGi.jpg",
+    "read_time": "2026-09-03T22:02:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36398,
+      "timestamp": "2026-09-03T22:02:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 157196,
+      "size_mb": 0.15,
+      "timestamp": "2026-09-03T22:02:34",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/hFYMC8Cf30",
+    "publish_time": "2026-09-03T21:07:52"
+  },
+  {
+    "file_name": "HRS1PxQaYAAXpPf.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRS1PxQaYAAXpPf.jpg",
+    "read_time": "2026-09-03T22:02:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36399,
+      "timestamp": "2026-09-03T22:02:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 133996,
+      "size_mb": 0.13,
+      "timestamp": "2026-09-03T22:02:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/hFYMC8Cf30",
+    "publish_time": "2026-09-03T21:07:52"
+  },
+  {
+    "file_name": "HRTBOT7aUAAOJFY.jpg",
+    "user": {
+      "screen_name": "sleepinbathtub",
+      "name": "Shawn"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRTBOT7aUAAOJFY.jpg",
+    "read_time": "2026-09-03T22:02:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36400,
+      "timestamp": "2026-09-03T22:02:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 206112,
+      "size_mb": 0.2,
+      "timestamp": "2026-09-03T22:02:43",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/eKkt31Ae4I",
+    "publish_time": "2026-09-03T22:00:12"
+  },
+  {
+    "file_name": "Glxyto9wM7jS9hZL.mp4",
+    "user": {
+      "screen_name": "josephmrkao",
+      "name": "185 Joseph"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095374498568761344/vid/avc1/1080x1920/Glxyto9wM7jS9hZL.mp4?tag=29",
+    "read_time": "2026-09-03T22:02:08",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (69MB > 50MB)",
+      "timestamp": "2026-09-03T22:02:55",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 72931412,
+      "size_mb": 69.55,
+      "timestamp": "2026-09-03T22:02:55",
+      "download_attempts": 0
+    },
+    "full_text": "I’m taking this training super seriously, you know.\n@J_y_2210  , you’ve improved, but you’re still not quite there yet.\n\nAfter all, in our line of work, it’s not just about “having fun”…\nstamina matters too 😏\n\nCome on, 1, 2, 3, 4. Nice work !\nLet’s do a few more sets together https://t.co/p3Bo8dI7Gk",
+    "publish_time": "2026-09-03T22:01:00"
   }
 ]
