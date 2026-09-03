@@ -3550,20 +3550,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/2095498228745793536/vid/avc1/752x1280/0cLkn62XuJKpD_o5.mp4?tag=29",
     "read_time": "2026-09-03T22:02:08",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "timestamp": "2026-09-03T23:02:57",
-      "notification_sent": false
+      "success": true,
+      "message_id": 36408,
+      "timestamp": "2026-09-04T00:01:36"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 18244126,
       "size_mb": 17.4,
-      "timestamp": "2026-09-03T23:02:37",
+      "timestamp": "2026-09-04T00:01:31",
       "download_attempts": 0
     },
     "full_text": "https://t.co/vwBDfyBBRS",
@@ -3882,5 +3880,137 @@
     },
     "full_text": "Kaka carnal https://t.co/yhq9lqLaek",
     "publish_time": "2026-09-03T22:42:20"
+  },
+  {
+    "file_name": "iq4Mmvs34bQ8hetJ.mp4",
+    "user": {
+      "screen_name": "jj20cm_",
+      "name": "阳光小茄子"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095534308228468736/vid/avc1/720x962/iq4Mmvs34bQ8hetJ.mp4?tag=29",
+    "read_time": "2026-09-04T00:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36409,
+      "timestamp": "2026-09-04T00:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 8272615,
+      "size_mb": 7.89,
+      "timestamp": "2026-09-04T00:01:37",
+      "download_attempts": 0
+    },
+    "full_text": "我知道自己几斤几两，但是真的希望傻人可以有傻福，我也不想这样，但我没有办法！ https://t.co/M6WPyAaF2x",
+    "publish_time": "2026-09-03T23:28:53"
+  },
+  {
+    "file_name": "qxJb2hQoGfT_DRb-.mp4",
+    "user": {
+      "screen_name": "Big_straight_H",
+      "name": "荒"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2085307118937325568/vid/avc1/1210x680/qxJb2hQoGfT_DRb-.mp4?tag=29",
+    "read_time": "2026-09-04T00:01:31",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (121MB > 50MB)",
+      "timestamp": "2026-09-04T00:01:50",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 127604997,
+      "size_mb": 121.69,
+      "timestamp": "2026-09-04T00:01:50",
+      "download_attempts": 0
+    },
+    "full_text": "乾 有夠變態 危險日 九人中出懷孕\n還會對照中出前後畫面\n第一次看到🥵🥵🥵🥵 看得都想內射了 https://t.co/RSoqlT3maV",
+    "publish_time": "2026-09-03T23:35:13"
+  },
+  {
+    "file_name": "HRTaprnasAAzo1W.jpg",
+    "user": {
+      "screen_name": "OMyfavoriteboys",
+      "name": "My favorite boys"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRTaprnasAAzo1W.jpg",
+    "read_time": "2026-09-04T00:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36410,
+      "timestamp": "2026-09-04T00:01:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 137300,
+      "size_mb": 0.13,
+      "timestamp": "2026-09-04T00:01:51",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/1Y8N58vRLU",
+    "publish_time": "2026-09-03T23:51:22"
+  },
+  {
+    "file_name": "HRTaprkbkAAGtWO.jpg",
+    "user": {
+      "screen_name": "OMyfavoriteboys",
+      "name": "My favorite boys"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRTaprkbkAAGtWO.jpg",
+    "read_time": "2026-09-04T00:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36411,
+      "timestamp": "2026-09-04T00:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 127193,
+      "size_mb": 0.12,
+      "timestamp": "2026-09-04T00:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/1Y8N58vRLU",
+    "publish_time": "2026-09-03T23:51:22"
+  },
+  {
+    "file_name": "DmRuSSgWSZRsX_al.mp4",
+    "user": {
+      "screen_name": "OMyfavoriteboys",
+      "name": "My favorite boys"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095540399913992192/vid/avc1/720x1264/DmRuSSgWSZRsX_al.mp4?tag=29",
+    "read_time": "2026-09-04T00:01:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36412,
+      "timestamp": "2026-09-04T00:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1980153,
+      "size_mb": 1.89,
+      "timestamp": "2026-09-04T00:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "完整版36min https://t.co/Utqnm3lscl",
+    "publish_time": "2026-09-03T23:52:43"
   }
 ]
