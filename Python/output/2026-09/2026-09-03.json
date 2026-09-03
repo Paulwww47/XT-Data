@@ -196,7 +196,7 @@
     "upload_info": {},
     "is_downloaded": false,
     "download_info": {
-      "download_attempts": 8
+      "download_attempts": 9
     },
     "full_text": "https://t.co/6sGjhX2JEM",
     "publish_time": "2026-09-03T00:46:44"
@@ -876,5 +876,215 @@
     },
     "full_text": "嗯 https://t.co/3vnxL7PiEl",
     "publish_time": "2026-09-03T06:52:08"
+  },
+  {
+    "file_name": "OSTq0pT1guf1eX8s.mp4",
+    "user": {
+      "screen_name": "liu6864",
+      "name": "CL357"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095300421912793089/vid/avc1/720x960/OSTq0pT1guf1eX8s.mp4?tag=14",
+    "read_time": "2026-09-03T09:02:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36298,
+      "timestamp": "2026-09-03T09:02:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2956072,
+      "size_mb": 2.82,
+      "timestamp": "2026-09-03T09:02:38",
+      "download_attempts": 0
+    },
+    "full_text": "Ended indoors actually. Stay tuned for the next episode! 这白袜真的好性感~I probably won’t be posting many more videos of this type, so enjoy them while you can. https://t.co/fS2QsGFaeu",
+    "publish_time": "2026-09-03T08:01:05"
+  },
+  {
+    "file_name": "HRQDbQqW4AE-g-1.jpg",
+    "user": {
+      "screen_name": "liu6864",
+      "name": "CL357"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRQDbQqW4AE-g-1.jpg",
+    "read_time": "2026-09-03T09:02:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36299,
+      "timestamp": "2026-09-03T09:02:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 104283,
+      "size_mb": 0.1,
+      "timestamp": "2026-09-03T09:02:42",
+      "download_attempts": 0
+    },
+    "full_text": "昨天跑了五公里，好累~ https://t.co/PLKB4oIgSJ",
+    "publish_time": "2026-09-03T08:11:37"
+  },
+  {
+    "file_name": "HRQF5rWboAAZsKs.jpg",
+    "user": {
+      "screen_name": "HorgeL_",
+      "name": "Horge🤖"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRQF5rWboAAZsKs.jpg",
+    "read_time": "2026-09-03T09:02:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36300,
+      "timestamp": "2026-09-03T09:02:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 129146,
+      "size_mb": 0.12,
+      "timestamp": "2026-09-03T09:02:43",
+      "download_attempts": 0
+    },
+    "full_text": "补药再下雨了，我真没内裤陪你闹了 https://t.co/WaG6aQXr1H",
+    "publish_time": "2026-09-03T08:21:47"
+  },
+  {
+    "file_name": "HRQF5rZbgAAvqMT.jpg",
+    "user": {
+      "screen_name": "HorgeL_",
+      "name": "Horge🤖"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRQF5rZbgAAvqMT.jpg",
+    "read_time": "2026-09-03T09:02:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36301,
+      "timestamp": "2026-09-03T09:02:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 135376,
+      "size_mb": 0.13,
+      "timestamp": "2026-09-03T09:02:44",
+      "download_attempts": 0
+    },
+    "full_text": "补药再下雨了，我真没内裤陪你闹了 https://t.co/WaG6aQXr1H",
+    "publish_time": "2026-09-03T08:21:47"
+  },
+  {
+    "file_name": "0Uwv96ilyqTsAoDU.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095310021626355712/vid/avc1/720x1280/0Uwv96ilyqTsAoDU.mp4?tag=29",
+    "read_time": "2026-09-03T09:02:37",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (138MB > 50MB)",
+      "timestamp": "2026-09-03T09:02:56",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 145421623,
+      "size_mb": 138.68,
+      "timestamp": "2026-09-03T09:02:56",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/8Vp0DKrHZH",
+    "publish_time": "2026-09-03T08:38:31"
+  },
+  {
+    "file_name": "HRQKDJRXgAERfvL.jpg",
+    "user": {
+      "screen_name": "T13602S",
+      "name": "大野菊"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRQKDJRXgAERfvL.jpg",
+    "read_time": "2026-09-03T09:02:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36302,
+      "timestamp": "2026-09-03T09:02:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 118679,
+      "size_mb": 0.11,
+      "timestamp": "2026-09-03T09:02:56",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/f5oHv8TrUY",
+    "publish_time": "2026-09-03T08:39:55"
+  },
+  {
+    "file_name": "HRQKFfxXwAIMtEH.jpg",
+    "user": {
+      "screen_name": "T13602S",
+      "name": "大野菊"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRQKFfxXwAIMtEH.jpg",
+    "read_time": "2026-09-03T09:02:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36303,
+      "timestamp": "2026-09-03T09:02:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 146956,
+      "size_mb": 0.14,
+      "timestamp": "2026-09-03T09:02:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/RZevGRi30P",
+    "publish_time": "2026-09-03T08:40:04"
+  },
+  {
+    "file_name": "1BrvPG1eKERk2jHd.mp4",
+    "user": {
+      "screen_name": "ran9592",
+      "name": "코란"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095313818154921985/vid/avc1/720x1280/1BrvPG1eKERk2jHd.mp4?tag=29",
+    "read_time": "2026-09-03T09:02:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36304,
+      "timestamp": "2026-09-03T09:03:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1096552,
+      "size_mb": 1.05,
+      "timestamp": "2026-09-03T09:02:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/SMVbvIIhTs",
+    "publish_time": "2026-09-03T08:52:03"
   }
 ]
