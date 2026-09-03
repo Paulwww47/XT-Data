@@ -3555,7 +3555,7 @@
       "success": false,
       "error_type": "api_error",
       "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "timestamp": "2026-09-03T22:02:30",
+      "timestamp": "2026-09-03T23:02:57",
       "notification_sent": false
     },
     "is_downloaded": false,
@@ -3563,7 +3563,7 @@
       "success": true,
       "size": 18244126,
       "size_mb": 17.4,
-      "timestamp": "2026-09-03T22:02:10",
+      "timestamp": "2026-09-03T23:02:37",
       "download_attempts": 0
     },
     "full_text": "https://t.co/vwBDfyBBRS",
@@ -3688,17 +3688,199 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (69MB > 50MB)",
       "timestamp": "2026-09-03T22:02:55",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 72931412,
       "size_mb": 69.55,
-      "timestamp": "2026-09-03T22:02:55",
+      "timestamp": "2026-09-03T23:02:58",
       "download_attempts": 0
     },
     "full_text": "I’m taking this training super seriously, you know.\n@J_y_2210  , you’ve improved, but you’re still not quite there yet.\n\nAfter all, in our line of work, it’s not just about “having fun”…\nstamina matters too 😏\n\nCome on, 1, 2, 3, 4. Nice work !\nLet’s do a few more sets together https://t.co/p3Bo8dI7Gk",
     "publish_time": "2026-09-03T22:01:00"
+  },
+  {
+    "file_name": "HRTDvm1aAAAZDaG.jpg",
+    "user": {
+      "screen_name": "SKXilanJ0220",
+      "name": "喜樂集"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRTDvm1aAAAZDaG.jpg",
+    "read_time": "2026-09-03T23:02:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36401,
+      "timestamp": "2026-09-03T23:03:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 31072,
+      "size_mb": 0.03,
+      "timestamp": "2026-09-03T23:02:58",
+      "download_attempts": 0
+    },
+    "full_text": "每隔一段时间就会出点问题\n不知道是什么毛病\n\n卸载也不管用 https://t.co/kLT01Gt2Jf",
+    "publish_time": "2026-09-03T22:11:12"
+  },
+  {
+    "file_name": "HRTEaGDawAAmQkv.jpg",
+    "user": {
+      "screen_name": "Cheesbaobao",
+      "name": "起司伯格"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRTEaGDawAAmQkv.jpg",
+    "read_time": "2026-09-03T23:02:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36402,
+      "timestamp": "2026-09-03T23:03:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 29120,
+      "size_mb": 0.03,
+      "timestamp": "2026-09-03T23:03:00",
+      "download_attempts": 0
+    },
+    "full_text": "记忆力堪比成年金鱼 https://t.co/TBtJIddcuv",
+    "publish_time": "2026-09-03T22:14:07"
+  },
+  {
+    "file_name": "4knDfMbm4QWRCf4p.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095168314008088576/vid/avc1/720x1280/4knDfMbm4QWRCf4p.mp4?tag=29",
+    "read_time": "2026-09-03T23:02:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36403,
+      "timestamp": "2026-09-03T23:03:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 15018246,
+      "size_mb": 14.32,
+      "timestamp": "2026-09-03T23:03:01",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/3O8G2yT3sw",
+    "publish_time": "2026-09-03T22:40:29"
+  },
+  {
+    "file_name": "HRTKnUOa8AA7fAu.jpg",
+    "user": {
+      "screen_name": "52778zhinan",
+      "name": "有求必硬"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRTKnUOa8AA7fAu.jpg",
+    "read_time": "2026-09-03T23:02:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36404,
+      "timestamp": "2026-09-03T23:03:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 140746,
+      "size_mb": 0.13,
+      "timestamp": "2026-09-03T23:03:05",
+      "download_attempts": 0
+    },
+    "full_text": "身材一级棒的现役兵哥哥，还拿尺子量🐓8️⃣，不过一直艹空气的样子看猛的嘞，最后整套制服一穿好有感觉\nhttps://t.co/VlQAjzLG5U完整影片欢迎订阅\n#制服\n#喷射\n#现役\n#内消 https://t.co/jVFyNCknOI",
+    "publish_time": "2026-09-03T22:41:13"
+  },
+  {
+    "file_name": "4iizXp6tDFLw1t7P.mp4",
+    "user": {
+      "screen_name": "MonsterMan95",
+      "name": "战地女记者"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095522611610730496/vid/avc1/352x640/4iizXp6tDFLw1t7P.mp4?tag=29",
+    "read_time": "2026-09-03T23:02:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36405,
+      "timestamp": "2026-09-03T23:03:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 375321,
+      "size_mb": 0.36,
+      "timestamp": "2026-09-03T23:03:06",
+      "download_attempts": 0
+    },
+    "full_text": "完整影片欢迎订阅👉 https://t.co/1Sb0SWJ6Sg\n#制服 \n#女记者 \n#喷射\n#现役\n#勾引 https://t.co/vW6zI1abGV",
+    "publish_time": "2026-09-03T22:41:41"
+  },
+  {
+    "file_name": "HRTK3RPbkAAF-3A.jpg",
+    "user": {
+      "screen_name": "kaka_lac",
+      "name": "kaka"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRTK3RPbkAAF-3A.jpg",
+    "read_time": "2026-09-03T23:02:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36406,
+      "timestamp": "2026-09-03T23:03:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 132761,
+      "size_mb": 0.13,
+      "timestamp": "2026-09-03T23:03:07",
+      "download_attempts": 0
+    },
+    "full_text": "Kaka carnal https://t.co/yhq9lqLaek",
+    "publish_time": "2026-09-03T22:42:20"
+  },
+  {
+    "file_name": "HRTK3RObUAAsdFX.jpg",
+    "user": {
+      "screen_name": "kaka_lac",
+      "name": "kaka"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRTK3RObUAAsdFX.jpg",
+    "read_time": "2026-09-03T23:02:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36407,
+      "timestamp": "2026-09-03T23:03:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 83845,
+      "size_mb": 0.08,
+      "timestamp": "2026-09-03T23:03:08",
+      "download_attempts": 0
+    },
+    "full_text": "Kaka carnal https://t.co/yhq9lqLaek",
+    "publish_time": "2026-09-03T22:42:20"
   }
 ]
