@@ -1730,14 +1730,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (69MB > 50MB)",
       "timestamp": "2026-09-04T17:02:19",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 72406555,
       "size_mb": 69.05,
-      "timestamp": "2026-09-04T17:02:19",
+      "timestamp": "2026-09-04T18:01:59",
       "download_attempts": 0
     },
     "full_text": "https://t.co/wsiyEqbr9F",
@@ -1898,5 +1898,213 @@
     },
     "full_text": "https://t.co/B8YIa80MmU",
     "publish_time": "2026-09-04T16:33:25"
+  },
+  {
+    "file_name": "Wkl57YAjMq0PMKN8.mp4",
+    "user": {
+      "screen_name": "imfenshuajiang",
+      "name": "我是一个粉刷匠"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095801642453241856/vid/avc1/720x1280/Wkl57YAjMq0PMKN8.mp4?tag=29",
+    "read_time": "2026-09-04T18:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36485,
+      "timestamp": "2026-09-04T18:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1810371,
+      "size_mb": 1.73,
+      "timestamp": "2026-09-04T18:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "最近一直闷闷不乐🫥\n日子，也就这样， https://t.co/JnJWbW2qBk",
+    "publish_time": "2026-09-04T17:10:33"
+  },
+  {
+    "file_name": "bLxBtK5fjDBOJaU6.mp4",
+    "user": {
+      "screen_name": "imfenshuajiang",
+      "name": "我是一个粉刷匠"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095801642457460736/vid/avc1/720x1280/bLxBtK5fjDBOJaU6.mp4?tag=29",
+    "read_time": "2026-09-04T18:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36486,
+      "timestamp": "2026-09-04T18:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 991480,
+      "size_mb": 0.95,
+      "timestamp": "2026-09-04T18:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "最近一直闷闷不乐🫥\n日子，也就这样， https://t.co/JnJWbW2qBk",
+    "publish_time": "2026-09-04T17:10:33"
+  },
+  {
+    "file_name": "HRXJ-GgbMAAEuVR.jpg",
+    "user": {
+      "screen_name": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRXJ-GgbMAAEuVR.jpg",
+    "read_time": "2026-09-04T18:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36487,
+      "timestamp": "2026-09-04T18:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 161645,
+      "size_mb": 0.15,
+      "timestamp": "2026-09-04T18:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "好容易湿 https://t.co/J4NeaKAoZC",
+    "publish_time": "2026-09-04T17:16:55"
+  },
+  {
+    "file_name": "HRXLefZbcAAG7Er.jpg",
+    "user": {
+      "screen_name": "MrShan001",
+      "name": "Mr.Shan大山"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRXLefZbcAAG7Er.jpg",
+    "read_time": "2026-09-04T18:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36488,
+      "timestamp": "2026-09-04T18:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 143761,
+      "size_mb": 0.14,
+      "timestamp": "2026-09-04T18:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/WtI0TkA9tN",
+    "publish_time": "2026-09-04T17:23:29"
+  },
+  {
+    "file_name": "HRXMbXOasAAlOOG.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRXMbXOasAAlOOG.jpg",
+    "read_time": "2026-09-04T18:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36489,
+      "timestamp": "2026-09-04T18:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 308743,
+      "size_mb": 0.29,
+      "timestamp": "2026-09-04T18:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "jay_caizhenghao https://t.co/Qvf6jMYwN5",
+    "publish_time": "2026-09-04T17:27:38"
+  },
+  {
+    "file_name": "HRXOsk1agAAD4nt.jpg",
+    "user": {
+      "screen_name": "xhn1069",
+      "name": "路过"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRXOsk1agAAD4nt.jpg",
+    "read_time": "2026-09-04T18:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36490,
+      "timestamp": "2026-09-04T18:02:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 78114,
+      "size_mb": 0.07,
+      "timestamp": "2026-09-04T18:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "啥时候拍的 https://t.co/z7qvwxfGj8",
+    "publish_time": "2026-09-04T17:37:36"
+  },
+  {
+    "file_name": "rSNUTsHp2eXDPsCQ.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095810176247037952/vid/avc1/360x640/rSNUTsHp2eXDPsCQ.mp4?tag=29",
+    "read_time": "2026-09-04T18:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36491,
+      "timestamp": "2026-09-04T18:02:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2904917,
+      "size_mb": 2.77,
+      "timestamp": "2026-09-04T18:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/acl2r50dAb",
+    "publish_time": "2026-09-04T17:44:26"
+  },
+  {
+    "file_name": "cYAOtsgyC9ngCJdg.mp4",
+    "user": {
+      "screen_name": "jinmcleck1",
+      "name": "Juanto"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2095812133946896384/vid/avc1/720x1280/cYAOtsgyC9ngCJdg.mp4?tag=14",
+    "read_time": "2026-09-04T18:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36492,
+      "timestamp": "2026-09-04T18:02:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 11636078,
+      "size_mb": 11.1,
+      "timestamp": "2026-09-04T18:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "老公不在家，只能自己玩 https://t.co/HPKKOPut2s",
+    "publish_time": "2026-09-04T17:52:30"
   }
 ]
