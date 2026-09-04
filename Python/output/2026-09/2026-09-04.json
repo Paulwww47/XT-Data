@@ -3424,14 +3424,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (121MB > 50MB)",
       "timestamp": "2026-09-04T23:01:57",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 127326186,
       "size_mb": 121.43,
-      "timestamp": "2026-09-04T23:01:57",
+      "timestamp": "2026-09-05T00:02:02",
       "download_attempts": 0
     },
     "full_text": "翻了下好多视频拍了都忘了剪了 \n周末跟你爹一起玩鸡巴吧小色狗 https://t.co/y2XXy0bzI7",
@@ -3488,5 +3488,213 @@
     },
     "full_text": "完整影片欢迎订阅👉 https://t.co/1Sb0SWJ6Sg\n#制服 \n#女记者 \n#喷射\n#现役\n#勾引 https://t.co/FpFS3RgI11",
     "publish_time": "2026-09-04T22:40:39"
+  },
+  {
+    "file_name": "HRYa3GRbYAA70TI.jpg",
+    "user": {
+      "screen_name": "YoungOu123",
+      "name": "Young Ou"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRYa3GRbYAA70TI.jpg",
+    "read_time": "2026-09-05T00:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36545,
+      "timestamp": "2026-09-05T00:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 136087,
+      "size_mb": 0.13,
+      "timestamp": "2026-09-05T00:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "又大了 https://t.co/Iu6zPIC7mj",
+    "publish_time": "2026-09-04T23:10:20"
+  },
+  {
+    "file_name": "HRYa3GSbgAAQvuj.jpg",
+    "user": {
+      "screen_name": "YoungOu123",
+      "name": "Young Ou"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRYa3GSbgAAQvuj.jpg",
+    "read_time": "2026-09-05T00:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36546,
+      "timestamp": "2026-09-05T00:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 130009,
+      "size_mb": 0.12,
+      "timestamp": "2026-09-05T00:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "又大了 https://t.co/Iu6zPIC7mj",
+    "publish_time": "2026-09-04T23:10:20"
+  },
+  {
+    "file_name": "HRYdorEbIAEuyv6.jpg",
+    "user": {
+      "screen_name": "SahuanerdeDD",
+      "name": "酷酷的丁"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRYdorEbIAEuyv6.jpg",
+    "read_time": "2026-09-05T00:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36547,
+      "timestamp": "2026-09-05T00:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 154737,
+      "size_mb": 0.15,
+      "timestamp": "2026-09-05T00:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "周末了 https://t.co/UzkZJjSijM",
+    "publish_time": "2026-09-04T23:22:30"
+  },
+  {
+    "file_name": "HRYebk0akAA8was.jpg",
+    "user": {
+      "screen_name": "Xushizier",
+      "name": "徐柿子"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRYebk0akAA8was.jpg",
+    "read_time": "2026-09-05T00:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36548,
+      "timestamp": "2026-09-05T00:02:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 162755,
+      "size_mb": 0.16,
+      "timestamp": "2026-09-05T00:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/SBe0ZgpsP9",
+    "publish_time": "2026-09-04T23:25:55"
+  },
+  {
+    "file_name": "HRYebkpbQAAqC0C.jpg",
+    "user": {
+      "screen_name": "Xushizier",
+      "name": "徐柿子"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRYebkpbQAAqC0C.jpg",
+    "read_time": "2026-09-05T00:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36549,
+      "timestamp": "2026-09-05T00:02:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 173591,
+      "size_mb": 0.17,
+      "timestamp": "2026-09-05T00:02:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/SBe0ZgpsP9",
+    "publish_time": "2026-09-04T23:25:55"
+  },
+  {
+    "file_name": "HRYhWoKa8AA77cp.jpg",
+    "user": {
+      "screen_name": "kaka_lac",
+      "name": "kaka"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRYhWoKa8AA77cp.jpg",
+    "read_time": "2026-09-05T00:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36550,
+      "timestamp": "2026-09-05T00:02:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 97751,
+      "size_mb": 0.09,
+      "timestamp": "2026-09-05T00:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/zXJu1YmiWf",
+    "publish_time": "2026-09-04T23:38:42"
+  },
+  {
+    "file_name": "HRYhWoLbMAAoku7.jpg",
+    "user": {
+      "screen_name": "kaka_lac",
+      "name": "kaka"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRYhWoLbMAAoku7.jpg",
+    "read_time": "2026-09-05T00:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36551,
+      "timestamp": "2026-09-05T00:02:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 102844,
+      "size_mb": 0.1,
+      "timestamp": "2026-09-05T00:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/zXJu1YmiWf",
+    "publish_time": "2026-09-04T23:38:42"
+  },
+  {
+    "file_name": "1Hf6WqkrXClE0_CF.mp4",
+    "user": {
+      "screen_name": "arthurz_xcx",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2095900256299003904/pu/vid/avc1/1080x1920/1Hf6WqkrXClE0_CF.mp4?tag=27",
+    "read_time": "2026-09-05T00:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36552,
+      "timestamp": "2026-09-05T00:02:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 9616768,
+      "size_mb": 9.17,
+      "timestamp": "2026-09-05T00:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "เล่นควยเยอะๆ น้ำมันจะซึมนะครับ 🥵 https://t.co/EDExKmPCvc",
+    "publish_time": "2026-09-04T23:42:31"
   }
 ]
