@@ -320,5 +320,33 @@
     "tweetUrl": "https://x.com/thisisforoasis/status/2096327655977283620",
     "fullText": "OMFGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG",
     "publishTime": "2026-09-06T04:00:35"
+  },
+  {
+    "user": {
+      "screenName": "thisisforoasis",
+      "name": "THRASHER"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/thisisforoasis/status/2096328999328976999",
+    "fullText": "ICONIC! LEGENDARY! BIBLICAL!!!!!",
+    "publishTime": "2026-09-06T04:05:56"
+  },
+  {
+    "user": {
+      "screenName": "hhouston850",
+      "name": "肉肉直男"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2096329933585043457/vid/avc1/720x1280/7NRqtOWYJ8tIesOq.mp4?tag=29"
+    ],
+    "expandUrls": [
+      "https://t.me/rourouzhinan850"
+    ],
+    "tweetUrl": "https://x.com/hhouston850/status/2096330104347783392",
+    "fullText": "这回总不能违规了吧？ \nhttps://t.co/DbSjABpgHl https://t.co/WfenhqpYqB",
+    "publishTime": "2026-09-06T04:10:19"
   }
 ]
