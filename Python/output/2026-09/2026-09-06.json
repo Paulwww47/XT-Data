@@ -716,14 +716,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (103MB > 50MB)",
       "timestamp": "2026-09-06T06:02:18",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 108422205,
       "size_mb": 103.4,
-      "timestamp": "2026-09-06T06:02:18",
+      "timestamp": "2026-09-06T07:03:07",
       "download_attempts": 0
     },
     "full_text": "https://t.co/Fo0spDjcqz",
@@ -770,17 +770,69 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (79MB > 50MB)",
       "timestamp": "2026-09-06T06:02:26",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 82854566,
       "size_mb": 79.02,
-      "timestamp": "2026-09-06T06:02:26",
+      "timestamp": "2026-09-06T07:03:07",
       "download_attempts": 0
     },
     "full_text": "https://t.co/itHUAC9siH",
     "publish_time": "2026-09-06T05:55:09"
+  },
+  {
+    "file_name": "HRfCjbObUAA1she.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRfCjbObUAA1she.jpg",
+    "read_time": "2026-09-06T07:03:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36741,
+      "timestamp": "2026-09-06T07:03:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 102646,
+      "size_mb": 0.1,
+      "timestamp": "2026-09-06T07:03:07",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/pww3CJpBU7",
+    "publish_time": "2026-09-06T06:01:27"
+  },
+  {
+    "file_name": "HRfMQshbEAA-wZ-.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRfMQshbEAA-wZ-.jpg",
+    "read_time": "2026-09-06T07:03:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36742,
+      "timestamp": "2026-09-06T07:03:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 104009,
+      "size_mb": 0.1,
+      "timestamp": "2026-09-06T07:03:09",
+      "download_attempts": 0
+    },
+    "full_text": "leeee2219 https://t.co/C07GnSsCkN",
+    "publish_time": "2026-09-06T06:43:51"
   }
 ]
