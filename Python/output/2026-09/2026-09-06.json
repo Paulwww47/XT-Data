@@ -648,5 +648,139 @@
     },
     "full_text": "这回总不能违规了吧？ \nhttps://t.co/DbSjABpgHl https://t.co/WfenhqpYqB",
     "publish_time": "2026-09-06T04:10:19"
+  },
+  {
+    "file_name": "eP19hbAPkxnGH0HU.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2096351130544701440/vid/avc1/406x720/eP19hbAPkxnGH0HU.mp4?tag=29",
+    "read_time": "2026-09-06T06:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36738,
+      "timestamp": "2026-09-06T06:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 30893130,
+      "size_mb": 29.46,
+      "timestamp": "2026-09-06T06:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/rXUqcspAdN",
+    "publish_time": "2026-09-06T05:34:37"
+  },
+  {
+    "file_name": "1x3mDfaNugpS6g01.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2096351674017398784/vid/avc1/720x1280/1x3mDfaNugpS6g01.mp4?tag=29",
+    "read_time": "2026-09-06T06:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36739,
+      "timestamp": "2026-09-06T06:02:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4483575,
+      "size_mb": 4.28,
+      "timestamp": "2026-09-06T06:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/579T89Zq9w",
+    "publish_time": "2026-09-06T05:36:10"
+  },
+  {
+    "file_name": "kDvR2zf1NwFiMPWs.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2096354652044550144/vid/avc1/720x1280/kDvR2zf1NwFiMPWs.mp4?tag=29",
+    "read_time": "2026-09-06T06:01:57",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (103MB > 50MB)",
+      "timestamp": "2026-09-06T06:02:18",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 108422205,
+      "size_mb": 103.4,
+      "timestamp": "2026-09-06T06:02:18",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Fo0spDjcqz",
+    "publish_time": "2026-09-06T05:49:05"
+  },
+  {
+    "file_name": "HRfAsRnaoAAO1wo.jpg",
+    "user": {
+      "screen_name": "ModdyChen",
+      "name": "舒克"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRfAsRnaoAAO1wo.jpg",
+    "read_time": "2026-09-06T06:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36740,
+      "timestamp": "2026-09-06T06:02:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 147683,
+      "size_mb": 0.14,
+      "timestamp": "2026-09-06T06:02:18",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/NYkC8YtNvY",
+    "publish_time": "2026-09-06T05:53:19"
+  },
+  {
+    "file_name": "9rzsBNM0kPvmWV6S.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2096356253224345600/vid/avc1/720x1280/9rzsBNM0kPvmWV6S.mp4?tag=29",
+    "read_time": "2026-09-06T06:01:57",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (79MB > 50MB)",
+      "timestamp": "2026-09-06T06:02:26",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 82854566,
+      "size_mb": 79.02,
+      "timestamp": "2026-09-06T06:02:26",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/itHUAC9siH",
+    "publish_time": "2026-09-06T05:55:09"
   }
 ]
