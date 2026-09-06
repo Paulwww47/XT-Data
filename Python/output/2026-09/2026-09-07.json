@@ -66,14 +66,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (195MB > 50MB)",
       "timestamp": "2026-09-07T01:02:11",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 204716684,
       "size_mb": 195.23,
-      "timestamp": "2026-09-07T01:02:11",
+      "timestamp": "2026-09-07T02:02:08",
       "download_attempts": 0
     },
     "full_text": "https://t.co/rdL9gcMmsb",
@@ -208,5 +208,31 @@
     },
     "full_text": "晚安😴 歡迎報名抱睡😏☺️ https://t.co/RHprRfNBOW",
     "publish_time": "2026-09-07T00:27:57"
+  },
+  {
+    "file_name": "HRjL1W7aEAA6uop.jpg",
+    "user": {
+      "screen_name": "Subrata42011533",
+      "name": "Subrata Mondal"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRjL1W7aEAA6uop.jpg",
+    "read_time": "2026-09-07T02:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36903,
+      "timestamp": "2026-09-07T02:02:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 182602,
+      "size_mb": 0.17,
+      "timestamp": "2026-09-07T02:02:08",
+      "download_attempts": 0
+    },
+    "full_text": "黑袜篮球体育生的大J诱惑！\n#黑袜 #体育生 #大 #光脚 #帅哥 https://t.co/oTvAcnEDJx",
+    "publish_time": "2026-09-07T01:20:31"
   }
 ]
