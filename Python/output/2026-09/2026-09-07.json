@@ -1870,17 +1870,199 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (121MB > 50MB)",
       "timestamp": "2026-09-07T19:02:12",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 127321978,
       "size_mb": 121.42,
-      "timestamp": "2026-09-07T19:02:12",
+      "timestamp": "2026-09-07T20:02:11",
       "download_attempts": 0
     },
     "full_text": "好像被删了 补一下 https://t.co/5Wd2WSmF5l",
     "publish_time": "2026-09-07T19:00:32"
+  },
+  {
+    "file_name": "HRnA2b6aEAACgxH.jpg",
+    "user": {
+      "screen_name": "biehaowotuimao",
+      "name": "别薅我腿毛"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRnA2b6aEAACgxH.jpg",
+    "read_time": "2026-09-07T20:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36963,
+      "timestamp": "2026-09-07T20:02:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 61423,
+      "size_mb": 0.06,
+      "timestamp": "2026-09-07T20:02:12",
+      "download_attempts": 0
+    },
+    "full_text": "想坐 https://t.co/iT0dVesDHj",
+    "publish_time": "2026-09-07T19:10:59"
+  },
+  {
+    "file_name": "HRnA2b_bEAAI43n.jpg",
+    "user": {
+      "screen_name": "biehaowotuimao",
+      "name": "别薅我腿毛"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRnA2b_bEAAI43n.jpg",
+    "read_time": "2026-09-07T20:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36964,
+      "timestamp": "2026-09-07T20:02:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 54023,
+      "size_mb": 0.05,
+      "timestamp": "2026-09-07T20:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "想坐 https://t.co/iT0dVesDHj",
+    "publish_time": "2026-09-07T19:10:59"
+  },
+  {
+    "file_name": "HRnA2b9b0AAmEHA.jpg",
+    "user": {
+      "screen_name": "biehaowotuimao",
+      "name": "别薅我腿毛"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRnA2b9b0AAmEHA.jpg",
+    "read_time": "2026-09-07T20:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36965,
+      "timestamp": "2026-09-07T20:02:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 62211,
+      "size_mb": 0.06,
+      "timestamp": "2026-09-07T20:02:18",
+      "download_attempts": 0
+    },
+    "full_text": "想坐 https://t.co/iT0dVesDHj",
+    "publish_time": "2026-09-07T19:10:59"
+  },
+  {
+    "file_name": "HRnCLY9bQAAtWnu.jpg",
+    "user": {
+      "screen_name": "wngyngh44820470",
+      "name": "SJerry"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRnCLY9bQAAtWnu.jpg",
+    "read_time": "2026-09-07T20:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36966,
+      "timestamp": "2026-09-07T20:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 180099,
+      "size_mb": 0.17,
+      "timestamp": "2026-09-07T20:02:20",
+      "download_attempts": 0
+    },
+    "full_text": "最近老是半夜醒来感觉旁边有人\n吓得不敢动 到底咋回事🫠 https://t.co/X7D3onE5SG",
+    "publish_time": "2026-09-07T19:16:48"
+  },
+  {
+    "file_name": "HRnCLYvaMAEVafv.jpg",
+    "user": {
+      "screen_name": "wngyngh44820470",
+      "name": "SJerry"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRnCLYvaMAEVafv.jpg",
+    "read_time": "2026-09-07T20:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36967,
+      "timestamp": "2026-09-07T20:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 88742,
+      "size_mb": 0.08,
+      "timestamp": "2026-09-07T20:02:23",
+      "download_attempts": 0
+    },
+    "full_text": "最近老是半夜醒来感觉旁边有人\n吓得不敢动 到底咋回事🫠 https://t.co/X7D3onE5SG",
+    "publish_time": "2026-09-07T19:16:48"
+  },
+  {
+    "file_name": "HRnHR8wbwAAZBEb.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRnHR8wbwAAZBEb.jpg",
+    "read_time": "2026-09-07T20:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36968,
+      "timestamp": "2026-09-07T20:02:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 67546,
+      "size_mb": 0.06,
+      "timestamp": "2026-09-07T20:02:24",
+      "download_attempts": 0
+    },
+    "full_text": "真是天天都這個色調 https://t.co/y1cXk8rAR7",
+    "publish_time": "2026-09-07T19:39:07"
+  },
+  {
+    "file_name": "HRnHR8NWQAExhtG.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRnHR8NWQAExhtG.jpg",
+    "read_time": "2026-09-07T20:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36969,
+      "timestamp": "2026-09-07T20:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 72774,
+      "size_mb": 0.07,
+      "timestamp": "2026-09-07T20:02:26",
+      "download_attempts": 0
+    },
+    "full_text": "真是天天都這個色調 https://t.co/y1cXk8rAR7",
+    "publish_time": "2026-09-07T19:39:07"
   }
 ]
