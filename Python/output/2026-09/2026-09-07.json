@@ -1530,17 +1530,43 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (105MB > 50MB)",
       "timestamp": "2026-09-07T16:02:02",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 110735507,
       "size_mb": 105.61,
-      "timestamp": "2026-09-07T16:02:02",
+      "timestamp": "2026-09-07T17:01:59",
       "download_attempts": 0
     },
     "full_text": "不管看幾次都覺得荒謬😹😹😹 https://t.co/kLV11bPFJJ",
     "publish_time": "2026-09-07T15:58:42"
+  },
+  {
+    "file_name": "ELAF6h7HtutZ7sET.mp4",
+    "user": {
+      "screen_name": "BiancaR71347203",
+      "name": "F大柴"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2096873700490620928/vid/avc1/720x1280/ELAF6h7HtutZ7sET.mp4?tag=29",
+    "read_time": "2026-09-07T17:01:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36951,
+      "timestamp": "2026-09-07T17:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7431584,
+      "size_mb": 7.09,
+      "timestamp": "2026-09-07T17:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "被草了🧐 https://t.co/XQ6SSTJLKH",
+    "publish_time": "2026-09-07T16:10:36"
   }
 ]
