@@ -668,17 +668,409 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (81MB > 50MB)",
       "timestamp": "2026-09-07T11:03:29",
+      "notification_sent": true
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 85674212,
+      "size_mb": 81.71,
+      "timestamp": "2026-09-07T12:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "第一次看到戴安全帽 https://t.co/oHfV6Itzc1",
+    "publish_time": "2026-09-07T10:56:01"
+  },
+  {
+    "file_name": "HRlSvSlaIAA4a-A.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRlSvSlaIAA4a-A.png",
+    "read_time": "2026-09-07T12:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36920,
+      "timestamp": "2026-09-07T12:02:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 966072,
+      "size_mb": 0.92,
+      "timestamp": "2026-09-07T12:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/uPyakUEq9e",
+    "publish_time": "2026-09-07T11:10:02"
+  },
+  {
+    "file_name": "JFbCWI2TcGmU-Z74.mp4",
+    "user": {
+      "screen_name": "liu6864",
+      "name": "CL357"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2096798577033199616/vid/avc1/720x960/JFbCWI2TcGmU-Z74.mp4?tag=14",
+    "read_time": "2026-09-07T12:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36921,
+      "timestamp": "2026-09-07T12:02:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1230194,
+      "size_mb": 1.17,
+      "timestamp": "2026-09-07T12:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "#youngiant https://t.co/OTdMBFnN3j",
+    "publish_time": "2026-09-07T11:12:28"
+  },
+  {
+    "file_name": "HRlWFViakAA6w8O.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRlWFViakAA6w8O.jpg",
+    "read_time": "2026-09-07T12:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36922,
+      "timestamp": "2026-09-07T12:02:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 51837,
+      "size_mb": 0.05,
+      "timestamp": "2026-09-07T12:02:19",
+      "download_attempts": 0
+    },
+    "full_text": "·\n｜浴｜💦💧｜经典｜\n\nmodel: 马良\nphotographer：任壬 https://t.co/upGAe7A39b",
+    "publish_time": "2026-09-07T11:24:29"
+  },
+  {
+    "file_name": "HRlWFVlbAAAVJo6.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRlWFVlbAAAVJo6.jpg",
+    "read_time": "2026-09-07T12:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36923,
+      "timestamp": "2026-09-07T12:02:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 92752,
+      "size_mb": 0.09,
+      "timestamp": "2026-09-07T12:02:20",
+      "download_attempts": 0
+    },
+    "full_text": "·\n｜浴｜💦💧｜经典｜\n\nmodel: 马良\nphotographer：任壬 https://t.co/upGAe7A39b",
+    "publish_time": "2026-09-07T11:24:29"
+  },
+  {
+    "file_name": "HRlWFViaQAEgdKm.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRlWFViaQAEgdKm.jpg",
+    "read_time": "2026-09-07T12:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36924,
+      "timestamp": "2026-09-07T12:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 121998,
+      "size_mb": 0.12,
+      "timestamp": "2026-09-07T12:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "·\n｜浴｜💦💧｜经典｜\n\nmodel: 马良\nphotographer：任壬 https://t.co/upGAe7A39b",
+    "publish_time": "2026-09-07T11:24:29"
+  },
+  {
+    "file_name": "HRlWfPkbUAAzTSM.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRlWfPkbUAAzTSM.jpg",
+    "read_time": "2026-09-07T12:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36925,
+      "timestamp": "2026-09-07T12:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 182271,
+      "size_mb": 0.17,
+      "timestamp": "2026-09-07T12:02:22",
+      "download_attempts": 0
+    },
+    "full_text": ".\n摄影师任壬的实体书《树临风》中的瑞瑞X4\n\n摄影师 IG：21renren｜男模 IG：LR_UNNG https://t.co/Tl8BrgMZwJ",
+    "publish_time": "2026-09-07T11:28:50"
+  },
+  {
+    "file_name": "HRlWfPhaQAEHXaG.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRlWfPhaQAEHXaG.jpg",
+    "read_time": "2026-09-07T12:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36926,
+      "timestamp": "2026-09-07T12:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 132719,
+      "size_mb": 0.13,
+      "timestamp": "2026-09-07T12:02:23",
+      "download_attempts": 0
+    },
+    "full_text": ".\n摄影师任壬的实体书《树临风》中的瑞瑞X4\n\n摄影师 IG：21renren｜男模 IG：LR_UNNG https://t.co/Tl8BrgMZwJ",
+    "publish_time": "2026-09-07T11:28:50"
+  },
+  {
+    "file_name": "HRlWfPhaMAAJF8D.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRlWfPhaMAAJF8D.jpg",
+    "read_time": "2026-09-07T12:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36927,
+      "timestamp": "2026-09-07T12:02:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 175419,
+      "size_mb": 0.17,
+      "timestamp": "2026-09-07T12:02:24",
+      "download_attempts": 0
+    },
+    "full_text": ".\n摄影师任壬的实体书《树临风》中的瑞瑞X4\n\n摄影师 IG：21renren｜男模 IG：LR_UNNG https://t.co/Tl8BrgMZwJ",
+    "publish_time": "2026-09-07T11:28:50"
+  },
+  {
+    "file_name": "HRlWfPhb0AAlBmN.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRlWfPhb0AAlBmN.jpg",
+    "read_time": "2026-09-07T12:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36928,
+      "timestamp": "2026-09-07T12:02:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 176514,
+      "size_mb": 0.17,
+      "timestamp": "2026-09-07T12:02:25",
+      "download_attempts": 0
+    },
+    "full_text": ".\n摄影师任壬的实体书《树临风》中的瑞瑞X4\n\n摄影师 IG：21renren｜男模 IG：LR_UNNG https://t.co/Tl8BrgMZwJ",
+    "publish_time": "2026-09-07T11:28:50"
+  },
+  {
+    "file_name": "-PMVgg7arW3glLK7.mp4",
+    "user": {
+      "screen_name": "DJIMAGE111",
+      "name": "Cyrus"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2096802668497059840/vid/avc1/3840x2160/-PMVgg7arW3glLK7.mp4?tag=29",
+    "read_time": "2026-09-07T12:02:03",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (81MB > 50MB)",
+      "timestamp": "2026-09-07T12:02:33",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 85674212,
-      "size_mb": 81.71,
-      "timestamp": "2026-09-07T11:03:29",
+      "size": 85262295,
+      "size_mb": 81.31,
+      "timestamp": "2026-09-07T12:02:33",
       "download_attempts": 0
     },
-    "full_text": "第一次看到戴安全帽 https://t.co/oHfV6Itzc1",
-    "publish_time": "2026-09-07T10:56:01"
+    "full_text": "「原创」📸    舞蹈老师第三视角穿上情趣内衣，红丝袜后入，女上位疯狂扭动。（出完整版2min，可私信）\n\n#北京 #天津 #Beijing #Tianjin #第三视角 #女上 #舞蹈老师 #原创 #自拍 https://t.co/8MQZmhi29f",
+    "publish_time": "2026-09-07T11:30:04"
+  },
+  {
+    "file_name": "IZQnLxI34ax1O2io.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2096805002056802304/vid/avc1/360x640/IZQnLxI34ax1O2io.mp4?tag=29",
+    "read_time": "2026-09-07T12:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36929,
+      "timestamp": "2026-09-07T12:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2930411,
+      "size_mb": 2.79,
+      "timestamp": "2026-09-07T12:02:34",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vtgAFQ8rg4",
+    "publish_time": "2026-09-07T11:37:29"
+  },
+  {
+    "file_name": "_rP9Mx53PghoW9iY.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2096805002069299200/vid/avc1/360x640/_rP9Mx53PghoW9iY.mp4?tag=29",
+    "read_time": "2026-09-07T12:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36930,
+      "timestamp": "2026-09-07T12:02:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1832912,
+      "size_mb": 1.75,
+      "timestamp": "2026-09-07T12:02:36",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vtgAFQ8rg4",
+    "publish_time": "2026-09-07T11:37:29"
+  },
+  {
+    "file_name": "nPKXkimhs1X44qYB.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2096805002048409600/vid/avc1/360x640/nPKXkimhs1X44qYB.mp4?tag=29",
+    "read_time": "2026-09-07T12:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36931,
+      "timestamp": "2026-09-07T12:02:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2675333,
+      "size_mb": 2.55,
+      "timestamp": "2026-09-07T12:02:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vtgAFQ8rg4",
+    "publish_time": "2026-09-07T11:37:29"
+  },
+  {
+    "file_name": "HRlaOtVagAAWWQ6.jpg",
+    "user": {
+      "screen_name": "d461385024",
+      "name": "大猛一"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRlaOtVagAAWWQ6.jpg",
+    "read_time": "2026-09-07T12:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36932,
+      "timestamp": "2026-09-07T12:02:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 162149,
+      "size_mb": 0.15,
+      "timestamp": "2026-09-07T12:02:39",
+      "download_attempts": 0
+    },
+    "full_text": "每日晨勃怎么办？ https://t.co/fWm3Jcgvx7",
+    "publish_time": "2026-09-07T11:42:38"
+  },
+  {
+    "file_name": "beLo2IVouIGIVLuw.mp4",
+    "user": {
+      "screen_name": "Big_straight_H",
+      "name": "荒"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2030617488359305216/vid/avc1/1920x1080/beLo2IVouIGIVLuw.mp4?tag=21",
+    "read_time": "2026-09-07T12:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36933,
+      "timestamp": "2026-09-07T12:02:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 20999218,
+      "size_mb": 20.03,
+      "timestamp": "2026-09-07T12:02:40",
+      "download_attempts": 0
+    },
+    "full_text": "這樣拔出來射也很好看😍 https://t.co/rhZmzVnnZj",
+    "publish_time": "2026-09-07T11:58:54"
   }
 ]
