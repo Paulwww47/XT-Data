@@ -267,5 +267,20 @@
     "tweetUrl": "https://x.com/junglewildwild/status/2096751380975305182",
     "fullText": "https://t.co/K76hc7Z9nk",
     "publishTime": "2026-09-07T08:04:19"
+  },
+  {
+    "user": {
+      "screenName": "Xushizier",
+      "name": "徐柿子"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRlCaZoaMAA1F8w.jpg",
+      "https://pbs.twimg.com/media/HRlCaZmakAAeDiV.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Xushizier/status/2096780131645944013",
+    "fullText": "https://t.co/TEyK0sVyip",
+    "publishTime": "2026-09-07T09:58:34"
   }
 ]
