@@ -1802,5 +1802,85 @@
     },
     "full_text": "最近的合作怎麼都那麼說走就走🤣🤣🤣 好好笑 https://t.co/Vm4s9vUZz7",
     "publish_time": "2026-09-07T17:52:01"
+  },
+  {
+    "file_name": "jhXuhI8gtzUpc_gg.mp4",
+    "user": {
+      "screen_name": "yinhuhz",
+      "name": "黑"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2096906743808946176/vid/avc1/720x960/jhXuhI8gtzUpc_gg.mp4?tag=29",
+    "read_time": "2026-09-07T19:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36961,
+      "timestamp": "2026-09-07T19:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 780563,
+      "size_mb": 0.74,
+      "timestamp": "2026-09-07T19:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "好久没练腿了 https://t.co/4M17VUIon1",
+    "publish_time": "2026-09-07T18:21:47"
+  },
+  {
+    "file_name": "0Elz6vFimsppfr2G.mp4",
+    "user": {
+      "screen_name": "oncewu",
+      "name": "OnceWu"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2096913458973593600/vid/avc1/720x1280/0Elz6vFimsppfr2G.mp4?tag=29",
+    "read_time": "2026-09-07T19:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36962,
+      "timestamp": "2026-09-07T19:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 6707903,
+      "size_mb": 6.4,
+      "timestamp": "2026-09-07T19:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "越练越胸💪🏻 https://t.co/ROWYHO2ITv",
+    "publish_time": "2026-09-07T18:48:53"
+  },
+  {
+    "file_name": "vxfMvUwdtnOgI66C.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2096915774225129472/vid/avc1/720x1280/vxfMvUwdtnOgI66C.mp4?tag=29",
+    "read_time": "2026-09-07T19:01:55",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (121MB > 50MB)",
+      "timestamp": "2026-09-07T19:02:12",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 127321978,
+      "size_mb": 121.42,
+      "timestamp": "2026-09-07T19:02:12",
+      "download_attempts": 0
+    },
+    "full_text": "好像被删了 补一下 https://t.co/5Wd2WSmF5l",
+    "publish_time": "2026-09-07T19:00:32"
   }
 ]
