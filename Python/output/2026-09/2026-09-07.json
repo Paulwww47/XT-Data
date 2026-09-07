@@ -930,14 +930,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (81MB > 50MB)",
       "timestamp": "2026-09-07T12:02:33",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 85262295,
       "size_mb": 81.31,
-      "timestamp": "2026-09-07T12:02:33",
+      "timestamp": "2026-09-07T13:02:05",
       "download_attempts": 0
     },
     "full_text": "「原创」📸    舞蹈老师第三视角穿上情趣内衣，红丝袜后入，女上位疯狂扭动。（出完整版2min，可私信）\n\n#北京 #天津 #Beijing #Tianjin #第三视角 #女上 #舞蹈老师 #原创 #自拍 https://t.co/8MQZmhi29f",
@@ -1072,5 +1072,57 @@
     },
     "full_text": "這樣拔出來射也很好看😍 https://t.co/rhZmzVnnZj",
     "publish_time": "2026-09-07T11:58:54"
+  },
+  {
+    "file_name": "HRljcYdaUAA12IQ.jpg",
+    "user": {
+      "screen_name": "captainshagang",
+      "name": "沙岗队长"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRljcYdaUAA12IQ.jpg",
+    "read_time": "2026-09-07T13:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36934,
+      "timestamp": "2026-09-07T13:02:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 164516,
+      "size_mb": 0.16,
+      "timestamp": "2026-09-07T13:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "上海健身一对一 https://t.co/EA2s4i8ryR",
+    "publish_time": "2026-09-07T12:22:53"
+  },
+  {
+    "file_name": "HRln0FVawAAP-rQ.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRln0FVawAAP-rQ.jpg",
+    "read_time": "2026-09-07T13:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 36935,
+      "timestamp": "2026-09-07T13:02:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 155790,
+      "size_mb": 0.15,
+      "timestamp": "2026-09-07T13:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/OIp6xil54l",
+    "publish_time": "2026-09-07T12:42:04"
   }
 ]
