@@ -700,5 +700,31 @@
     },
     "full_text": "long time ago https://t.co/exj4lgpWJ5",
     "publish_time": "2026-09-09T02:51:59"
+  },
+  {
+    "file_name": "HRt2mckawAATpO_.jpg",
+    "user": {
+      "screen_name": "hopechen0312",
+      "name": "hope"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRt2mckawAATpO_.jpg",
+    "read_time": "2026-09-09T04:02:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37144,
+      "timestamp": "2026-09-09T04:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 137511,
+      "size_mb": 0.13,
+      "timestamp": "2026-09-09T04:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "曬黑硬了\n\n背擦不到\n\n誰要來幫忙一下 https://t.co/yOIvhN9jtz",
+    "publish_time": "2026-09-09T03:03:32"
   }
 ]
