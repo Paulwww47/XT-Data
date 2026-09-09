@@ -1,0 +1,164 @@
+[
+  {
+    "file_name": "_Lhi0bNWesR6PBjk.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2086313570632105984/vid/avc1/720x1280/_Lhi0bNWesR6PBjk.mp4?tag=29",
+    "read_time": "2026-09-10T01:02:15",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "timestamp": "2026-09-10T01:02:38",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 7747119,
+      "size_mb": 7.39,
+      "timestamp": "2026-09-10T01:02:18",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Sk9V5DGvp6",
+    "publish_time": "2026-09-10T00:16:08"
+  },
+  {
+    "file_name": "HNyIntXWQAAmzLJ.jpg",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HNyIntXWQAAmzLJ.jpg",
+    "read_time": "2026-09-10T01:02:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37243,
+      "timestamp": "2026-09-10T01:02:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 147550,
+      "size_mb": 0.14,
+      "timestamp": "2026-09-10T01:02:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/6ZysXjq93X",
+    "publish_time": "2026-09-10T00:24:03"
+  },
+  {
+    "file_name": "hPuq4Ft64NQ2Nj0a.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2079687343712112640/vid/avc1/720x1280/hPuq4Ft64NQ2Nj0a.mp4?tag=29",
+    "read_time": "2026-09-10T01:02:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37244,
+      "timestamp": "2026-09-10T01:03:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1653801,
+      "size_mb": 1.58,
+      "timestamp": "2026-09-10T01:02:41",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/6ZysXjq93X",
+    "publish_time": "2026-09-10T00:24:03"
+  },
+  {
+    "file_name": "ZeBs7qv9nSuXX-l5.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2079687343707914240/vid/avc1/720x1280/ZeBs7qv9nSuXX-l5.mp4?tag=29",
+    "read_time": "2026-09-10T01:02:15",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "timestamp": "2026-09-10T01:03:24",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 2933617,
+      "size_mb": 2.8,
+      "timestamp": "2026-09-10T01:03:04",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/6ZysXjq93X",
+    "publish_time": "2026-09-10T00:24:03"
+  },
+  {
+    "file_name": "H4GenSN8LFIfCGXY.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2079686467899490305/vid/avc1/960x544/H4GenSN8LFIfCGXY.mp4?tag=29",
+    "read_time": "2026-09-10T01:02:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37245,
+      "timestamp": "2026-09-10T01:03:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 988244,
+      "size_mb": 0.94,
+      "timestamp": "2026-09-10T01:03:24",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Y5KgT1TdlA",
+    "publish_time": "2026-09-10T00:26:33"
+  },
+  {
+    "file_name": "z8Bjr5NZaM4AuSX3.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2079686467920486400/vid/avc1/720x1280/z8Bjr5NZaM4AuSX3.mp4?tag=29",
+    "read_time": "2026-09-10T01:02:15",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "timestamp": "2026-09-10T01:03:47",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 3571485,
+      "size_mb": 3.41,
+      "timestamp": "2026-09-10T01:03:27",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Y5KgT1TdlA",
+    "publish_time": "2026-09-10T00:26:33"
+  }
+]
