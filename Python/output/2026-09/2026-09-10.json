@@ -8,20 +8,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/2086313570632105984/vid/avc1/720x1280/_Lhi0bNWesR6PBjk.mp4?tag=29",
     "read_time": "2026-09-10T01:02:15",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "timestamp": "2026-09-10T01:02:38",
-      "notification_sent": false
+      "success": true,
+      "message_id": 37246,
+      "timestamp": "2026-09-10T02:01:59"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 7747119,
       "size_mb": 7.39,
-      "timestamp": "2026-09-10T01:02:18",
+      "timestamp": "2026-09-10T02:01:55",
       "download_attempts": 0
     },
     "full_text": "https://t.co/Sk9V5DGvp6",
@@ -88,20 +86,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/2079687343707914240/vid/avc1/720x1280/ZeBs7qv9nSuXX-l5.mp4?tag=29",
     "read_time": "2026-09-10T01:02:15",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "timestamp": "2026-09-10T01:03:24",
-      "notification_sent": false
+      "success": true,
+      "message_id": 37247,
+      "timestamp": "2026-09-10T02:02:01"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 2933617,
       "size_mb": 2.8,
-      "timestamp": "2026-09-10T01:03:04",
+      "timestamp": "2026-09-10T02:01:59",
       "download_attempts": 0
     },
     "full_text": "https://t.co/6ZysXjq93X",
@@ -142,23 +138,125 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/2079686467920486400/vid/avc1/720x1280/z8Bjr5NZaM4AuSX3.mp4?tag=29",
     "read_time": "2026-09-10T01:02:15",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "timestamp": "2026-09-10T01:03:47",
-      "notification_sent": false
+      "success": true,
+      "message_id": 37248,
+      "timestamp": "2026-09-10T02:02:02"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 3571485,
       "size_mb": 3.41,
-      "timestamp": "2026-09-10T01:03:27",
+      "timestamp": "2026-09-10T02:02:01",
       "download_attempts": 0
     },
     "full_text": "https://t.co/Y5KgT1TdlA",
     "publish_time": "2026-09-10T00:26:33"
+  },
+  {
+    "file_name": "5bUVbBwd1Q2OvWFI.mp4",
+    "user": {
+      "screen_name": "acheng21501864",
+      "name": "Wave"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2097733254371778560/vid/avc1/720x960/5bUVbBwd1Q2OvWFI.mp4?tag=29",
+    "read_time": "2026-09-10T02:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37249,
+      "timestamp": "2026-09-10T02:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1949961,
+      "size_mb": 1.86,
+      "timestamp": "2026-09-10T02:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "手感 https://t.co/cJ4K6661Oa",
+    "publish_time": "2026-09-10T01:06:17"
+  },
+  {
+    "file_name": "HRyqa7oawAABmVp.jpg",
+    "user": {
+      "screen_name": "xiao57520",
+      "name": "翱哥备用机"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRyqa7oawAABmVp.jpg",
+    "read_time": "2026-09-10T02:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37250,
+      "timestamp": "2026-09-10T02:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 190023,
+      "size_mb": 0.18,
+      "timestamp": "2026-09-10T02:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "🩲 https://t.co/IAKk0Lidhv",
+    "publish_time": "2026-09-10T01:28:28"
+  },
+  {
+    "file_name": "HRyshTsboAAGkQU.jpg",
+    "user": {
+      "screen_name": "17sevente",
+      "name": "seventeen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRyshTsboAAGkQU.jpg",
+    "read_time": "2026-09-10T02:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37251,
+      "timestamp": "2026-09-10T02:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 144665,
+      "size_mb": 0.14,
+      "timestamp": "2026-09-10T02:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "你有什么事吗 https://t.co/insHtYPixn",
+    "publish_time": "2026-09-10T01:37:43"
+  },
+  {
+    "file_name": "HRyshTraAAAgiHp.jpg",
+    "user": {
+      "screen_name": "17sevente",
+      "name": "seventeen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRyshTraAAAgiHp.jpg",
+    "read_time": "2026-09-10T02:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37252,
+      "timestamp": "2026-09-10T02:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 124957,
+      "size_mb": 0.12,
+      "timestamp": "2026-09-10T02:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "你有什么事吗 https://t.co/insHtYPixn",
+    "publish_time": "2026-09-10T01:37:43"
   }
 ]
