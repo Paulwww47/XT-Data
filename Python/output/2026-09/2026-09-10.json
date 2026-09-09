@@ -310,5 +310,57 @@
     },
     "full_text": "已练不欠 https://t.co/1A1Klt9cJ9",
     "publish_time": "2026-09-10T03:05:56"
+  },
+  {
+    "file_name": "tl44Z4kKuadM8Xh1.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2097777959394590720/vid/avc1/736x1280/tl44Z4kKuadM8Xh1.mp4?tag=29",
+    "read_time": "2026-09-10T05:03:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37255,
+      "timestamp": "2026-09-10T05:03:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1576207,
+      "size_mb": 1.5,
+      "timestamp": "2026-09-10T05:03:05",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/mcAwCkOPhC",
+    "publish_time": "2026-09-10T04:03:41"
+  },
+  {
+    "file_name": "HRzZIUWa4AApDi7.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRzZIUWa4AApDi7.jpg",
+    "read_time": "2026-09-10T05:03:04",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37256,
+      "timestamp": "2026-09-10T05:03:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 111124,
+      "size_mb": 0.11,
+      "timestamp": "2026-09-10T05:03:08",
+      "download_attempts": 0
+    },
+    "full_text": "張孝全 https://t.co/xveEa0YW1U",
+    "publish_time": "2026-09-10T04:52:29"
   }
 ]

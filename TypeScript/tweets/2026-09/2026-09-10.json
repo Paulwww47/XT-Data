@@ -199,5 +199,33 @@
     "tweetUrl": "https://x.com/HyHowie/status/2097763454325248409",
     "fullText": "已练不欠 https://t.co/1A1Klt9cJ9",
     "publishTime": "2026-09-10T03:05:56"
+  },
+  {
+    "user": {
+      "screenName": "hymanjuan4",
+      "name": "HL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2097777959394590720/vid/avc1/736x1280/tl44Z4kKuadM8Xh1.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/hymanjuan4/status/2097777985818698059",
+    "fullText": "https://t.co/mcAwCkOPhC",
+    "publishTime": "2026-09-10T04:03:41"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HRzZIUWa4AApDi7.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2097790268493955565",
+    "fullText": "張孝全 https://t.co/xveEa0YW1U",
+    "publishTime": "2026-09-10T04:52:29"
   }
 ]
