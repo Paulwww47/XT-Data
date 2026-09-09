@@ -362,5 +362,57 @@
     },
     "full_text": "張孝全 https://t.co/xveEa0YW1U",
     "publish_time": "2026-09-10T04:52:29"
+  },
+  {
+    "file_name": "HRziHjHasAAWPo8.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRziHjHasAAWPo8.jpg",
+    "read_time": "2026-09-10T06:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37257,
+      "timestamp": "2026-09-10T06:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 132434,
+      "size_mb": 0.13,
+      "timestamp": "2026-09-10T06:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "siony_99 https://t.co/PACYWJ9fwU",
+    "publish_time": "2026-09-10T05:31:45"
+  },
+  {
+    "file_name": "HRziPwAbEAA06l5.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HRziPwAbEAA06l5.jpg",
+    "read_time": "2026-09-10T06:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37258,
+      "timestamp": "2026-09-10T06:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 89695,
+      "size_mb": 0.09,
+      "timestamp": "2026-09-10T06:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "minhhoangngocnguyen https://t.co/rWY5H3OiBc",
+    "publish_time": "2026-09-10T05:32:19"
   }
 ]
