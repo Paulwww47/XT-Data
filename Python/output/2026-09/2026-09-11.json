@@ -190,11 +190,19 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/2098093003118411776/vid/avc1/720x1280/gzwoxAvO_JDKd7b0.mp4?tag=29",
     "read_time": "2026-09-11T01:01:33",
-    "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": false,
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37392,
+      "timestamp": "2026-09-11T03:01:36"
+    },
+    "is_downloaded": true,
     "download_info": {
-      "download_attempts": 2
+      "download_attempts": 0,
+      "success": true,
+      "size": 1343157,
+      "size_mb": 1.28,
+      "timestamp": "2026-09-11T03:01:33"
     },
     "full_text": "想拍点大尺度私房有没有一块的 https://t.co/3ncgpQFCKh",
     "publish_time": "2026-09-11T00:55:35"
@@ -302,5 +310,57 @@
     },
     "full_text": "等下删 https://t.co/P56K0LEBew",
     "publish_time": "2026-09-11T01:13:42"
+  },
+  {
+    "file_name": "BGpHvTZBPN4rvSjP.mp4",
+    "user": {
+      "screen_name": "xiao57520",
+      "name": "翱哥备用机"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2098109802362843136/vid/avc1/720x1280/BGpHvTZBPN4rvSjP.mp4?tag=29",
+    "read_time": "2026-09-11T03:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37393,
+      "timestamp": "2026-09-11T03:01:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2230655,
+      "size_mb": 2.13,
+      "timestamp": "2026-09-11T03:01:36",
+      "download_attempts": 0
+    },
+    "full_text": "夜晚遛狗 https://t.co/riCdPRenB7",
+    "publish_time": "2026-09-11T02:02:21"
+  },
+  {
+    "file_name": "HR4IiF6asAAcf6H.jpg",
+    "user": {
+      "screen_name": "Jiangjiang0004",
+      "name": "一只蒋蒋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HR4IiF6asAAcf6H.jpg",
+    "read_time": "2026-09-11T03:01:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37394,
+      "timestamp": "2026-09-11T03:01:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 120743,
+      "size_mb": 0.12,
+      "timestamp": "2026-09-11T03:01:38",
+      "download_attempts": 0
+    },
+    "full_text": "你们健身都怎么坚持下来的，我到摆烂期了。。。真的练不动。。。 https://t.co/gm0dMvRBkl",
+    "publish_time": "2026-09-11T02:58:05"
   }
 ]
