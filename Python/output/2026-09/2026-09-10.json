@@ -508,17 +508,147 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (53MB > 50MB)",
       "timestamp": "2026-09-10T09:01:56",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 56450130,
       "size_mb": 53.84,
-      "timestamp": "2026-09-10T09:01:56",
+      "timestamp": "2026-09-10T10:01:50",
       "download_attempts": 0
     },
     "full_text": "·\n♂️♂️I PROMISE I WILL COME BACK\n\n👬🏻一见钟情……帅气cp https://t.co/DLlNDvHQH7",
     "publish_time": "2026-09-10T08:11:57"
+  },
+  {
+    "file_name": "RC86Bq6OgnpqeTJ7.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2097861757721354240/vid/avc1/360x640/RC86Bq6OgnpqeTJ7.mp4?tag=29",
+    "read_time": "2026-09-10T10:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37262,
+      "timestamp": "2026-09-10T10:01:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1028118,
+      "size_mb": 0.98,
+      "timestamp": "2026-09-10T10:01:50",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/MLCRS7QLP4",
+    "publish_time": "2026-09-10T09:36:36"
+  },
+  {
+    "file_name": "VWJj5P0FGx0ddi-8.mp4",
+    "user": {
+      "screen_name": "HEARTST0PPER_1",
+      "name": "mimimi"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2097865555105779712/vid/avc1/720x1280/VWJj5P0FGx0ddi-8.mp4?tag=29",
+    "read_time": "2026-09-10T10:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37263,
+      "timestamp": "2026-09-10T10:01:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1798905,
+      "size_mb": 1.72,
+      "timestamp": "2026-09-10T10:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "详情看主页 #直男 #体育生 #肌肉 #精壮 #肉壮 #白袜 #黑袜 #无脑 #土嗨 https://t.co/U9ZPdRXuOt",
+    "publish_time": "2026-09-10T09:51:48"
+  },
+  {
+    "file_name": "HR0dwglaUAA5lkH.jpg",
+    "user": {
+      "screen_name": "Big_straight_H",
+      "name": "荒"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HR0dwglaUAA5lkH.jpg",
+    "read_time": "2026-09-10T10:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37264,
+      "timestamp": "2026-09-10T10:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 144845,
+      "size_mb": 0.14,
+      "timestamp": "2026-09-10T10:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "寶貝又來台灣了，北中南都可以約她👍👍👍❤️\n@Babylisaeiei  https://t.co/uVcWlmPbY5 https://t.co/8bsVPM9KB1",
+    "publish_time": "2026-09-10T09:52:20"
+  },
+  {
+    "file_name": "GQXUDpQm9PBIXRxu.mp4",
+    "user": {
+      "screen_name": "Big_straight_H",
+      "name": "荒"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2097604463913824256/vid/avc1/640x356/GQXUDpQm9PBIXRxu.mp4?tag=29",
+    "read_time": "2026-09-10T10:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37265,
+      "timestamp": "2026-09-10T10:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3080876,
+      "size_mb": 2.94,
+      "timestamp": "2026-09-10T10:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "寶貝又來台灣了，北中南都可以約她👍👍👍❤️\n@Babylisaeiei  https://t.co/uVcWlmPbY5 https://t.co/8bsVPM9KB1",
+    "publish_time": "2026-09-10T09:52:20"
+  },
+  {
+    "file_name": "HR0fawTaAAA1RdS.jpg",
+    "user": {
+      "screen_name": "imfenshuajiang",
+      "name": "我是一个粉刷匠"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HR0fawTaAAA1RdS.jpg",
+    "read_time": "2026-09-10T10:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37266,
+      "timestamp": "2026-09-10T10:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 72539,
+      "size_mb": 0.07,
+      "timestamp": "2026-09-10T10:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "不得不说舞蹈生脚是真臭，昨晚上她刚下课一起去看奥德赛，那种连座坐的很近，给我熏的犯晕，巨人眼睛被戳瞎的时候我的眼睛也快睁不开了 https://t.co/7X1aToLUDn",
+    "publish_time": "2026-09-10T09:59:35"
   }
 ]
