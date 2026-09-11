@@ -536,14 +536,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (352MB > 50MB)",
       "timestamp": "2026-09-12T06:02:36",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 369552036,
       "size_mb": 352.43,
-      "timestamp": "2026-09-12T06:02:36",
+      "timestamp": "2026-09-12T07:03:20",
       "download_attempts": 0
     },
     "full_text": "韩国国际先生 (Mister International Korea) 是韩国知名的男性选美大赛，而内衣秀 (Underwear Show) 是该赛事总决赛前非常具有标志性的经典预热/暖场环节。 https://t.co/5WNyu7wNWX",
@@ -564,14 +564,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (649MB > 50MB)",
       "timestamp": "2026-09-12T06:03:26",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 681486100,
       "size_mb": 649.92,
-      "timestamp": "2026-09-12T06:03:26",
+      "timestamp": "2026-09-12T07:04:20",
       "download_attempts": 0
     },
     "full_text": "2026韩国国际先生（Mister International Korea 2026 Grand Final ） 31位欧巴选手泳装登场（Part 03）泳装秀完美身材 （Swimsuit Competition） https://t.co/GkLsV9KTda",
