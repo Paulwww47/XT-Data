@@ -946,7 +946,7 @@
       "name": "F大柴",
       "screenName": "BiancaR71347203",
       "createdAt": "Wed Jun 03 17:13:07 +0000 2020",
-      "description": "🔞推止推。社恐小狗。v需🚪，🉑spa  闲聊移步其他软件(其他软件同名)。爱当伪1的0.3。翻主页下方看更多视频⬇️⬇️⬇️",
+      "description": "🔞推止推。社恐小狗。v需🚪，🉑spa  其他软件同名，偏好胡子，壮。爱当伪1的0.3。翻主页下方看更多视频⬇️⬇️⬇️",
       "entities": {
         "description": {}
       },
@@ -1078,7 +1078,7 @@
       "name": "布莱麦克斯",
       "screenName": "BRMIKS",
       "createdAt": "Sun Feb 25 15:35:50 +0000 2024",
-      "description": "🔞",
+      "description": "",
       "entities": {
         "description": {}
       },
@@ -1873,20 +1873,7 @@
       "createdAt": "Sun Dec 21 04:39:02 +0000 2025",
       "description": "",
       "entities": {
-        "description": {},
-        "url": {
-          "urls": [
-            {
-              "display_url": "instagram.com/notyourbadhusb…",
-              "expanded_url": "https://www.instagram.com/notyourbadhusband_?igsi=d2ZjZGg4ZGN5ZmNn&utm_source=qr",
-              "indices": [
-                0,
-                23
-              ],
-              "url": "https://t.co/upXNmRXeAo"
-            }
-          ]
-        }
+        "description": {}
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2002599577757888512/1766309811",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2057474830547783680/JaB8eQ22_normal.jpg"
@@ -2920,6 +2907,45 @@
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2064480550677827584/1785382198",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2081304760054063104/QkpSkVQV_normal.jpg"
+    }
+  },
+  {
+    "restId": "2041804511270912000",
+    "legacy": {
+      "name": "黑皮阿黎",
+      "screenName": "Happyali0809",
+      "createdAt": "Wed Apr 08 09:05:14 +0000 2026",
+      "description": "🚪128 加🛰️➡️Happy-ali0809\n抖音and小红书➡️黑皮阿黎 \n荤水版➡️@Happyali03\n订阅➡️ https://t.co/QOYHPeka0o",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "fansone.co/Happali8090",
+              "expanded_url": "https://fansone.co/Happali8090",
+              "indices": [
+                62,
+                85
+              ],
+              "url": "https://t.co/QOYHPeka0o"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/+kLUN6MCFuHVhY…",
+              "expanded_url": "https://t.me/+kLUN6MCFuHVhYzJh",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/oyYqr8aDft"
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2041804511270912000/1780040112",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2060262253753249792/No6T9WBr_normal.jpg"
     }
   },
   {
