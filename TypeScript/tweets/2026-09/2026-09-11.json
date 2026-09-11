@@ -208,5 +208,33 @@
     "tweetUrl": "https://x.com/HorgeL_/status/2098208640020935117",
     "fullText": "https://t.co/Os7m3BiCdP",
     "publishTime": "2026-09-11T08:34:57"
+  },
+  {
+    "user": {
+      "screenName": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2098224208052719616/vid/avc1/720x1280/RCAyL90vGFRrehiH.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/BBoy1069/status/2098224410742456418",
+    "fullText": "【2026年9月11日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/jNToFyMcDK",
+    "publishTime": "2026-09-11T09:37:37"
+  },
+  {
+    "user": {
+      "screenName": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR5m7gPbYAA356_.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/youdi/status/2098227675987137011",
+    "fullText": "https://t.co/VrZiK42ZZ5",
+    "publishTime": "2026-09-11T09:50:35"
   }
 ]

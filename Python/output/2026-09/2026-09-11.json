@@ -466,5 +466,57 @@
     },
     "full_text": "https://t.co/Os7m3BiCdP",
     "publish_time": "2026-09-11T08:34:57"
+  },
+  {
+    "file_name": "RCAyL90vGFRrehiH.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2098224208052719616/vid/avc1/720x1280/RCAyL90vGFRrehiH.mp4?tag=14",
+    "read_time": "2026-09-11T10:01:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37399,
+      "timestamp": "2026-09-11T10:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2505955,
+      "size_mb": 2.39,
+      "timestamp": "2026-09-11T10:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年9月11日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/jNToFyMcDK",
+    "publish_time": "2026-09-11T09:37:37"
+  },
+  {
+    "file_name": "HR5m7gPbYAA356_.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HR5m7gPbYAA356_.jpg",
+    "read_time": "2026-09-11T10:01:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37400,
+      "timestamp": "2026-09-11T10:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 236106,
+      "size_mb": 0.23,
+      "timestamp": "2026-09-11T10:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/VrZiK42ZZ5",
+    "publish_time": "2026-09-11T09:50:35"
   }
 ]
