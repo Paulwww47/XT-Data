@@ -2360,17 +2360,435 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (65MB > 50MB)",
       "timestamp": "2026-09-12T22:03:29",
+      "notification_sent": true
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 68972367,
+      "size_mb": 65.78,
+      "timestamp": "2026-09-12T23:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "TWN Bull ft. JPN Peach\n\nNot just for work.\nIt’s our little romance, and another chapter in the memories we’ve made together.\n\n@tatsu7777t \nいつも応援してくれてありがとう。\nまたひとつ、ふたりの大切な思い出が増えたね 💙 https://t.co/zgfCH2SkJ4",
+    "publish_time": "2026-09-12T22:01:00"
+  },
+  {
+    "file_name": "HSBZHg2b0AALvTO.jpg",
+    "user": {
+      "screen_name": "tuoxie0",
+      "name": "拖鞋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSBZHg2b0AALvTO.jpg",
+    "read_time": "2026-09-12T23:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37585,
+      "timestamp": "2026-09-12T23:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 171954,
+      "size_mb": 0.16,
+      "timestamp": "2026-09-12T23:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "干干净净出门 臭臭烘烘湿湿哒哒回家\n这袜子内裤绝了 湿臭湿臭 简直是限量版级别 #原味 #内裤 #袜子 https://t.co/EtCfPXLcNL",
+    "publish_time": "2026-09-12T22:07:09"
+  },
+  {
+    "file_name": "HSBZHg8boAE0U0J.jpg",
+    "user": {
+      "screen_name": "tuoxie0",
+      "name": "拖鞋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSBZHg8boAE0U0J.jpg",
+    "read_time": "2026-09-12T23:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37586,
+      "timestamp": "2026-09-12T23:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 297630,
+      "size_mb": 0.28,
+      "timestamp": "2026-09-12T23:02:23",
+      "download_attempts": 0
+    },
+    "full_text": "干干净净出门 臭臭烘烘湿湿哒哒回家\n这袜子内裤绝了 湿臭湿臭 简直是限量版级别 #原味 #内裤 #袜子 https://t.co/EtCfPXLcNL",
+    "publish_time": "2026-09-12T22:07:09"
+  },
+  {
+    "file_name": "HSBZHhBaoAE6c3Q.jpg",
+    "user": {
+      "screen_name": "tuoxie0",
+      "name": "拖鞋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSBZHhBaoAE6c3Q.jpg",
+    "read_time": "2026-09-12T23:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37587,
+      "timestamp": "2026-09-12T23:02:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 197248,
+      "size_mb": 0.19,
+      "timestamp": "2026-09-12T23:02:24",
+      "download_attempts": 0
+    },
+    "full_text": "干干净净出门 臭臭烘烘湿湿哒哒回家\n这袜子内裤绝了 湿臭湿臭 简直是限量版级别 #原味 #内裤 #袜子 https://t.co/EtCfPXLcNL",
+    "publish_time": "2026-09-12T22:07:09"
+  },
+  {
+    "file_name": "OcP7dn0U9CMQoFK4.mp4",
+    "user": {
+      "screen_name": "Happyali03",
+      "name": "黑皮Alibaby（@Happyali01防丟）"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2098779041084174339/vid/avc1/720x1280/OcP7dn0U9CMQoFK4.mp4?tag=29",
+    "read_time": "2026-09-12T23:02:20",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (66MB > 50MB)",
+      "timestamp": "2026-09-12T23:02:32",
       "notification_sent": false
     },
     "is_downloaded": false,
     "download_info": {
       "success": true,
-      "size": 68972367,
-      "size_mb": 65.78,
-      "timestamp": "2026-09-12T22:03:29",
+      "size": 69694472,
+      "size_mb": 66.47,
+      "timestamp": "2026-09-12T23:02:32",
       "download_attempts": 0
     },
-    "full_text": "TWN Bull ft. JPN Peach\n\nNot just for work.\nIt’s our little romance, and another chapter in the memories we’ve made together.\n\n@tatsu7777t \nいつも応援してくれてありがとう。\nまたひとつ、ふたりの大切な思い出が増えたね 💙 https://t.co/zgfCH2SkJ4",
-    "publish_time": "2026-09-12T22:01:00"
+    "full_text": "萬象匯獨自對抗路，多個粗大猛一輪番上陣。與🍆@nantangtop186 的片段。\n完整版可訂閱➡️ https://t.co/jgdwsCGVOy https://t.co/CCTWxBVJqs",
+    "publish_time": "2026-09-12T22:22:51"
+  },
+  {
+    "file_name": "HSBcxDSbUAAXKRJ.jpg",
+    "user": {
+      "screen_name": "52778zhinan",
+      "name": "有求必硬"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSBcxDSbUAAXKRJ.jpg",
+    "read_time": "2026-09-12T23:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37588,
+      "timestamp": "2026-09-12T23:02:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 115040,
+      "size_mb": 0.11,
+      "timestamp": "2026-09-12T23:02:32",
+      "download_attempts": 0
+    },
+    "full_text": "现役帅哥在器材室✈️，又爱又怕，这是憋了多久这么快就来感觉开喷了\nhttps://t.co/VlQAjzLG5U完整影片欢迎订阅\n#制服\n#喷射\n#现役\n#内消 https://t.co/3GzkBIrW1k",
+    "publish_time": "2026-09-12T22:23:17"
+  },
+  {
+    "file_name": "gs8iFIA2ZAJfeImi.mp4",
+    "user": {
+      "screen_name": "MonsterMan95",
+      "name": "战地女记者"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2098779691935215616/vid/avc1/700x1280/gs8iFIA2ZAJfeImi.mp4?tag=29",
+    "read_time": "2026-09-12T23:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37589,
+      "timestamp": "2026-09-12T23:02:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 949001,
+      "size_mb": 0.91,
+      "timestamp": "2026-09-12T23:02:33",
+      "download_attempts": 0
+    },
+    "full_text": "完整影片欢迎订阅👉 https://t.co/1Sb0SWJ6Sg\n#制服 \n#女记者 \n#喷射\n#现役\n#勾引 https://t.co/9Z7mQLvDdf",
+    "publish_time": "2026-09-12T22:24:23"
+  },
+  {
+    "file_name": "HSBg6zOa8AASQD9.jpg",
+    "user": {
+      "screen_name": "nanshaofu",
+      "name": "男少妇"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSBg6zOa8AASQD9.jpg",
+    "read_time": "2026-09-12T23:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37590,
+      "timestamp": "2026-09-12T23:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 108793,
+      "size_mb": 0.1,
+      "timestamp": "2026-09-12T23:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "冒个泡 #正装 #丝袜 #皮鞋 https://t.co/s6H9NQa8YG",
+    "publish_time": "2026-09-12T22:41:15"
+  },
+  {
+    "file_name": "HSBg6zObgAElghy.jpg",
+    "user": {
+      "screen_name": "nanshaofu",
+      "name": "男少妇"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSBg6zObgAElghy.jpg",
+    "read_time": "2026-09-12T23:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37591,
+      "timestamp": "2026-09-12T23:02:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 144894,
+      "size_mb": 0.14,
+      "timestamp": "2026-09-12T23:02:36",
+      "download_attempts": 0
+    },
+    "full_text": "冒个泡 #正装 #丝袜 #皮鞋 https://t.co/s6H9NQa8YG",
+    "publish_time": "2026-09-12T22:41:15"
+  },
+  {
+    "file_name": "HSBg6zXaAAAq1HP.jpg",
+    "user": {
+      "screen_name": "nanshaofu",
+      "name": "男少妇"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSBg6zXaAAAq1HP.jpg",
+    "read_time": "2026-09-12T23:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37592,
+      "timestamp": "2026-09-12T23:02:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 148568,
+      "size_mb": 0.14,
+      "timestamp": "2026-09-12T23:02:37",
+      "download_attempts": 0
+    },
+    "full_text": "冒个泡 #正装 #丝袜 #皮鞋 https://t.co/s6H9NQa8YG",
+    "publish_time": "2026-09-12T22:41:15"
+  },
+  {
+    "file_name": "HSBg6zPbEAA7Ixe.jpg",
+    "user": {
+      "screen_name": "nanshaofu",
+      "name": "男少妇"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSBg6zPbEAA7Ixe.jpg",
+    "read_time": "2026-09-12T23:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37593,
+      "timestamp": "2026-09-12T23:02:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 107130,
+      "size_mb": 0.1,
+      "timestamp": "2026-09-12T23:02:38",
+      "download_attempts": 0
+    },
+    "full_text": "冒个泡 #正装 #丝袜 #皮鞋 https://t.co/s6H9NQa8YG",
+    "publish_time": "2026-09-12T22:41:15"
+  },
+  {
+    "file_name": "HSBhCWQaEAA9fDD.jpg",
+    "user": {
+      "screen_name": "chen986903",
+      "name": "chen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSBhCWQaEAA9fDD.jpg",
+    "read_time": "2026-09-12T23:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37594,
+      "timestamp": "2026-09-12T23:02:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 66715,
+      "size_mb": 0.06,
+      "timestamp": "2026-09-12T23:02:38",
+      "download_attempts": 0
+    },
+    "full_text": "🌊 https://t.co/jHdDtYeatH",
+    "publish_time": "2026-09-12T22:41:47"
+  },
+  {
+    "file_name": "HSBhCWGbwAAzITf.jpg",
+    "user": {
+      "screen_name": "chen986903",
+      "name": "chen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSBhCWGbwAAzITf.jpg",
+    "read_time": "2026-09-12T23:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37595,
+      "timestamp": "2026-09-12T23:02:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 90268,
+      "size_mb": 0.09,
+      "timestamp": "2026-09-12T23:02:39",
+      "download_attempts": 0
+    },
+    "full_text": "🌊 https://t.co/jHdDtYeatH",
+    "publish_time": "2026-09-12T22:41:47"
+  },
+  {
+    "file_name": "HSBhCWEaEAE7MSu.jpg",
+    "user": {
+      "screen_name": "chen986903",
+      "name": "chen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSBhCWEaEAE7MSu.jpg",
+    "read_time": "2026-09-12T23:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37596,
+      "timestamp": "2026-09-12T23:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 67445,
+      "size_mb": 0.06,
+      "timestamp": "2026-09-12T23:02:40",
+      "download_attempts": 0
+    },
+    "full_text": "🌊 https://t.co/jHdDtYeatH",
+    "publish_time": "2026-09-12T22:41:47"
+  },
+  {
+    "file_name": "HSBhRjpb0AAbvW8.jpg",
+    "user": {
+      "screen_name": "therealjayxji",
+      "name": "jayxji"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSBhRjpb0AAbvW8.jpg",
+    "read_time": "2026-09-12T23:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37597,
+      "timestamp": "2026-09-12T23:02:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 172655,
+      "size_mb": 0.16,
+      "timestamp": "2026-09-12T23:02:41",
+      "download_attempts": 0
+    },
+    "full_text": "hyrox pro day@Beijing https://t.co/7lJrHKOaWa",
+    "publish_time": "2026-09-12T22:42:47"
+  },
+  {
+    "file_name": "HSBhRjha8AADB_p.jpg",
+    "user": {
+      "screen_name": "therealjayxji",
+      "name": "jayxji"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSBhRjha8AADB_p.jpg",
+    "read_time": "2026-09-12T23:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37598,
+      "timestamp": "2026-09-12T23:02:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 167950,
+      "size_mb": 0.16,
+      "timestamp": "2026-09-12T23:02:42",
+      "download_attempts": 0
+    },
+    "full_text": "hyrox pro day@Beijing https://t.co/7lJrHKOaWa",
+    "publish_time": "2026-09-12T22:42:47"
+  },
+  {
+    "file_name": "6AtPFaorTjGiSTGV.mp4",
+    "user": {
+      "screen_name": "zhzkj162968",
+      "name": "人间乐园Yuki熟男采访"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2098784657768865792/vid/avc1/480x848/6AtPFaorTjGiSTGV.mp4?tag=14",
+    "read_time": "2026-09-12T23:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37599,
+      "timestamp": "2026-09-12T23:02:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7587326,
+      "size_mb": 7.24,
+      "timestamp": "2026-09-12T23:02:43",
+      "download_attempts": 0
+    },
+    "full_text": "山东已婚橄榄球业余队员\n山豆男人腰粗膀大，哪怕没有太多健身房的训练痕迹，但是操起逼来肯定肯定又猛又爽，明明知道家里有老婆的情况下还是偷腥得不行的想要接受采访，看着直男做口型的模样很难想象朋友圈里头在草地上摔人抢球的是同一个男人，最后白花花的精液全部喷到了洗澡房的地板之上～ https://t.co/mXPmzhSeOZ",
+    "publish_time": "2026-09-12T22:44:07"
   }
 ]
