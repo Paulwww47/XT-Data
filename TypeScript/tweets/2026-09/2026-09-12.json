@@ -255,5 +255,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2098552112376676526",
     "fullText": "1xhic https://t.co/f8gL049JRV",
     "publishTime": "2026-09-12T07:19:47"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HR-Z3tyaoAA5FdL.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2098565142489510042",
+    "fullText": "iamnotwesley https://t.co/V2PPoygLlq",
+    "publishTime": "2026-09-12T08:11:34"
+  },
+  {
+    "user": {
+      "screenName": "xhn1069",
+      "name": "路过"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2098567160641781760/vid/avc1/720x1280/0Pss5sDH_Djrbr-0.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/xhn1069/status/2098567458022154262",
+    "fullText": "上个月的吧，想不起来发\n#接 https://t.co/olRlIiBbKZ",
+    "publishTime": "2026-09-12T08:20:46"
+  },
+  {
+    "user": {
+      "screenName": "hymanjuan4",
+      "name": "HL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2098577561995628544/vid/avc1/608x1280/7G1xXBj7EihD5Iz1.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/hymanjuan4/status/2098577613086441945",
+    "fullText": "https://t.co/aEXPCwENLT",
+    "publishTime": "2026-09-12T09:01:07"
   }
 ]
