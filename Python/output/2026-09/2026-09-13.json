@@ -14,14 +14,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (526MB > 50MB)",
       "timestamp": "2026-09-13T01:02:27",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 551846372,
       "size_mb": 526.28,
-      "timestamp": "2026-09-13T01:02:27",
+      "timestamp": "2026-09-13T02:02:41",
       "download_attempts": 0
     },
     "full_text": "https://t.co/ekiq459vyN",
@@ -156,5 +156,187 @@
     },
     "full_text": "https://t.co/0Lvfk9a1jj",
     "publish_time": "2026-09-13T00:43:26"
+  },
+  {
+    "file_name": "HSCDHx2awAATFjb.jpg",
+    "user": {
+      "screen_name": "Subrata42011533",
+      "name": "Subrata Mondal"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSCDHx2awAATFjb.jpg",
+    "read_time": "2026-09-13T02:02:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37614,
+      "timestamp": "2026-09-13T02:02:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 145737,
+      "size_mb": 0.14,
+      "timestamp": "2026-09-13T02:02:42",
+      "download_attempts": 0
+    },
+    "full_text": "帅气眼镜bing哥身材好，工具佳，还很会说骚话，不要太会了!\n#帅哥 #腹肌 #骚话 #男性荷尔蒙 https://t.co/Upg9pgk8bl",
+    "publish_time": "2026-09-13T01:10:39"
+  },
+  {
+    "file_name": "HSCDpWDaIAAZlEJ.jpg",
+    "user": {
+      "screen_name": "youan1144",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSCDpWDaIAAZlEJ.jpg",
+    "read_time": "2026-09-13T02:02:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37615,
+      "timestamp": "2026-09-13T02:02:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 147307,
+      "size_mb": 0.14,
+      "timestamp": "2026-09-13T02:02:44",
+      "download_attempts": 0
+    },
+    "full_text": "好舒服的内裤 https://t.co/CwAHZVhTzD",
+    "publish_time": "2026-09-13T01:12:57"
+  },
+  {
+    "file_name": "HSCDpWDaMAAEoSh.jpg",
+    "user": {
+      "screen_name": "youan1144",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSCDpWDaMAAEoSh.jpg",
+    "read_time": "2026-09-13T02:02:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37616,
+      "timestamp": "2026-09-13T02:02:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 148404,
+      "size_mb": 0.14,
+      "timestamp": "2026-09-13T02:02:46",
+      "download_attempts": 0
+    },
+    "full_text": "好舒服的内裤 https://t.co/CwAHZVhTzD",
+    "publish_time": "2026-09-13T01:12:57"
+  },
+  {
+    "file_name": "HSCDpWDaMAEUzk9.jpg",
+    "user": {
+      "screen_name": "youan1144",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSCDpWDaMAEUzk9.jpg",
+    "read_time": "2026-09-13T02:02:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37617,
+      "timestamp": "2026-09-13T02:02:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 172608,
+      "size_mb": 0.16,
+      "timestamp": "2026-09-13T02:02:48",
+      "download_attempts": 0
+    },
+    "full_text": "好舒服的内裤 https://t.co/CwAHZVhTzD",
+    "publish_time": "2026-09-13T01:12:57"
+  },
+  {
+    "file_name": "HSCDpWDaIAEVjl-.jpg",
+    "user": {
+      "screen_name": "youan1144",
+      "name": "YOUAN"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSCDpWDaIAEVjl-.jpg",
+    "read_time": "2026-09-13T02:02:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37618,
+      "timestamp": "2026-09-13T02:02:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 193811,
+      "size_mb": 0.18,
+      "timestamp": "2026-09-13T02:02:50",
+      "download_attempts": 0
+    },
+    "full_text": "好舒服的内裤 https://t.co/CwAHZVhTzD",
+    "publish_time": "2026-09-13T01:12:57"
+  },
+  {
+    "file_name": "yoSPN5_LpRv-e_3l.mp4",
+    "user": {
+      "screen_name": "nlgzwmz0",
+      "name": "Vanda"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2098828966261870606/vid/avc1/720x1280/yoSPN5_LpRv-e_3l.mp4?tag=29",
+    "read_time": "2026-09-13T02:02:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37619,
+      "timestamp": "2026-09-13T02:02:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 6612835,
+      "size_mb": 6.31,
+      "timestamp": "2026-09-13T02:02:52",
+      "download_attempts": 0
+    },
+    "full_text": "匀称鸡脸同框互换 https://t.co/UrOJTawimP",
+    "publish_time": "2026-09-13T01:40:22"
+  },
+  {
+    "file_name": "HSCOZp-XgAoYJTI.jpg",
+    "user": {
+      "screen_name": "nlgzwmz0",
+      "name": "Vanda"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSCOZp-XgAoYJTI.jpg",
+    "read_time": "2026-09-13T02:02:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37620,
+      "timestamp": "2026-09-13T02:02:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 67250,
+      "size_mb": 0.06,
+      "timestamp": "2026-09-13T02:02:55",
+      "download_attempts": 0
+    },
+    "full_text": "🧦 https://t.co/0nAL170CSu",
+    "publish_time": "2026-09-13T01:59:56"
   }
 ]
