@@ -1236,20 +1236,18 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/2098642402747744256/vid/avc1/1240x1862/WbhARc7wTXlbGFo2.mp4?tag=29",
     "read_time": "2026-09-12T14:03:31",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "urllib3 HTTPError ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "timestamp": "2026-09-12T14:04:11",
-      "notification_sent": false
+      "success": true,
+      "message_id": 37549,
+      "timestamp": "2026-09-12T15:02:39"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 31575661,
       "size_mb": 30.11,
-      "timestamp": "2026-09-12T14:03:51",
+      "timestamp": "2026-09-12T15:02:33",
       "download_attempts": 0
     },
     "full_text": "·\nI never seen the pole dance so beautiful 🤩 \n\nJosh / Joshiie\n🇸🇬 | 🌏 Dancer, open for bookings\nIG:thejoshiie https://t.co/qNZJ81qqi4",
@@ -1436,5 +1434,291 @@
     },
     "full_text": "欠了很久的写真\n饿到现在去拍一下 完成任务 https://t.co/2pOhJvbifc",
     "publish_time": "2026-09-12T13:51:41"
+  },
+  {
+    "file_name": "HR_riJBbUAAFmC1.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HR_riJBbUAAFmC1.jpg",
+    "read_time": "2026-09-12T15:02:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37550,
+      "timestamp": "2026-09-12T15:02:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 71508,
+      "size_mb": 0.07,
+      "timestamp": "2026-09-12T15:02:39",
+      "download_attempts": 0
+    },
+    "full_text": "最近莫名很爱用肥皂洗澡 https://t.co/cloNkteP6N",
+    "publish_time": "2026-09-12T14:08:23"
+  },
+  {
+    "file_name": "HR_r7u4agAA_-lR.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HR_r7u4agAA_-lR.jpg",
+    "read_time": "2026-09-12T15:02:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37551,
+      "timestamp": "2026-09-12T15:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 125531,
+      "size_mb": 0.12,
+      "timestamp": "2026-09-12T15:02:40",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/g7QSQBiP6F",
+    "publish_time": "2026-09-12T14:10:05"
+  },
+  {
+    "file_name": "HR_s0-vakAAWeXQ.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HR_s0-vakAAWeXQ.jpg",
+    "read_time": "2026-09-12T15:02:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37552,
+      "timestamp": "2026-09-12T15:02:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 108756,
+      "size_mb": 0.1,
+      "timestamp": "2026-09-12T15:02:41",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/HeF8qEtunn",
+    "publish_time": "2026-09-12T14:14:00"
+  },
+  {
+    "file_name": "HR_uGghaAAASQyn.jpg",
+    "user": {
+      "screen_name": "Nonglaoshi520",
+      "name": "长沙农老师"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HR_uGghaAAASQyn.jpg",
+    "read_time": "2026-09-12T15:02:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37553,
+      "timestamp": "2026-09-12T15:02:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 108439,
+      "size_mb": 0.1,
+      "timestamp": "2026-09-12T15:02:42",
+      "download_attempts": 0
+    },
+    "full_text": "PBJ新流出的，目前有这些 https://t.co/FXtnowTr5Z",
+    "publish_time": "2026-09-12T14:19:34"
+  },
+  {
+    "file_name": "HR_uIxeaUAAr2Td.jpg",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HR_uIxeaUAAr2Td.jpg",
+    "read_time": "2026-09-12T15:02:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37554,
+      "timestamp": "2026-09-12T15:02:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 137856,
+      "size_mb": 0.13,
+      "timestamp": "2026-09-12T15:02:43",
+      "download_attempts": 0
+    },
+    "full_text": "为了回馈广大粉丝对我的支持！凡是今天进我福利群🌹的将不收取任何费用，24h免费对我的粉丝们限时无门槛🏧进入，可观看所有完整视频和写真噢！\n          私信暗号： 11\n进群电报私👉 https://t.co/tZp36BGRZU https://t.co/9tUgBJUBL2",
+    "publish_time": "2026-09-12T14:20:05"
+  },
+  {
+    "file_name": "j_e5TVU3TGfZZPve.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2098657785890398208/vid/avc1/754x720/j_e5TVU3TGfZZPve.mp4?tag=29",
+    "read_time": "2026-09-12T15:02:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37555,
+      "timestamp": "2026-09-12T15:02:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1552955,
+      "size_mb": 1.48,
+      "timestamp": "2026-09-12T15:02:44",
+      "download_attempts": 0
+    },
+    "full_text": "为了回馈广大粉丝对我的支持！凡是今天进我福利群🌹的将不收取任何费用，24h免费对我的粉丝们限时无门槛🏧进入，可观看所有完整视频和写真噢！\n          私信暗号： 11\n进群电报私👉 https://t.co/tZp36BGRZU https://t.co/9tUgBJUBL2",
+    "publish_time": "2026-09-12T14:20:05"
+  },
+  {
+    "file_name": "ec439C1F_YPG9hJt.mp4",
+    "user": {
+      "screen_name": "MuscleHunterX",
+      "name": "Muscle Hunter"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2098657785894584320/vid/avc1/1114x720/ec439C1F_YPG9hJt.mp4?tag=29",
+    "read_time": "2026-09-12T15:02:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37556,
+      "timestamp": "2026-09-12T15:02:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 2849063,
+      "size_mb": 2.72,
+      "timestamp": "2026-09-12T15:02:46",
+      "download_attempts": 0
+    },
+    "full_text": "为了回馈广大粉丝对我的支持！凡是今天进我福利群🌹的将不收取任何费用，24h免费对我的粉丝们限时无门槛🏧进入，可观看所有完整视频和写真噢！\n          私信暗号： 11\n进群电报私👉 https://t.co/tZp36BGRZU https://t.co/9tUgBJUBL2",
+    "publish_time": "2026-09-12T14:20:05"
+  },
+  {
+    "file_name": "HR_wfAcaMAAf0jH.jpg",
+    "user": {
+      "screen_name": "Andrewanzhu",
+      "name": "安猪大王"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HR_wfAcaMAAf0jH.jpg",
+    "read_time": "2026-09-12T15:02:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37557,
+      "timestamp": "2026-09-12T15:02:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 115861,
+      "size_mb": 0.11,
+      "timestamp": "2026-09-12T15:02:48",
+      "download_attempts": 0
+    },
+    "full_text": "评论区蹲个1️⃣ https://t.co/xm3of58lGc",
+    "publish_time": "2026-09-12T14:30:04"
+  },
+  {
+    "file_name": "HR_wf-qasAAvytq.jpg",
+    "user": {
+      "screen_name": "Andrewanzhu",
+      "name": "安猪大王"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HR_wf-qasAAvytq.jpg",
+    "read_time": "2026-09-12T15:02:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37558,
+      "timestamp": "2026-09-12T15:02:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 122468,
+      "size_mb": 0.12,
+      "timestamp": "2026-09-12T15:02:48",
+      "download_attempts": 0
+    },
+    "full_text": "评论区蹲个1️⃣ https://t.co/xm3of58lGc",
+    "publish_time": "2026-09-12T14:30:04"
+  },
+  {
+    "file_name": "AEFDZcwYSTN0YmdO.mp4",
+    "user": {
+      "screen_name": "heichai6666",
+      "name": "黑柴"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2098660812126892032/vid/avc1/720x1010/AEFDZcwYSTN0YmdO.mp4?tag=29",
+    "read_time": "2026-09-12T15:02:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37559,
+      "timestamp": "2026-09-12T15:02:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 903037,
+      "size_mb": 0.86,
+      "timestamp": "2026-09-12T15:02:49",
+      "download_attempts": 0
+    },
+    "full_text": "没有信号 https://t.co/ZodilgvAK1",
+    "publish_time": "2026-09-12T14:31:50"
+  },
+  {
+    "file_name": "x96FHcKL42YS7vxI.mp4",
+    "user": {
+      "screen_name": "Jeff07751908",
+      "name": "杰尼龟"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2098662790487801856/vid/avc1/720x1280/x96FHcKL42YS7vxI.mp4?tag=29",
+    "read_time": "2026-09-12T15:02:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37560,
+      "timestamp": "2026-09-12T15:02:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7346540,
+      "size_mb": 7.01,
+      "timestamp": "2026-09-12T15:02:51",
+      "download_attempts": 0
+    },
+    "full_text": "艹尿了 下一位 https://t.co/ifmtGYiKTM",
+    "publish_time": "2026-09-12T14:39:57"
   }
 ]
