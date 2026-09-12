@@ -353,5 +353,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2098592732252188819",
     "fullText": "nrdy4u https://t.co/6DdFUUoLpI",
     "publishTime": "2026-09-12T10:01:11"
+  },
+  {
+    "user": {
+      "screenName": "jj20cm_",
+      "name": "阳光小茄子"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2098599869544046593/vid/avc1/720x1280/DGiT4pBbDVOG-cVI.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/jj20cm_/status/2098600162281283989",
+    "fullText": "내가 당신의 친구라면, 당신은 나에게 부적절한 생각을 하게 될까요? https://t.co/73lxMOT5cL",
+    "publishTime": "2026-09-12T10:30:43"
+  },
+  {
+    "user": {
+      "screenName": "imfenshuajiang",
+      "name": "我是一个粉刷匠"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2098607796686311424/vid/avc1/544x960/ZwhIgWpehU_W-vrb.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/imfenshuajiang/status/2098607838470005037",
+    "fullText": "爸爸射的高不高 https://t.co/sIR5c1pLfI",
+    "publishTime": "2026-09-12T11:01:13"
   }
 ]
