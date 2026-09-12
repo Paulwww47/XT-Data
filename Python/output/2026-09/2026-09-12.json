@@ -2292,5 +2292,85 @@
     },
     "full_text": "https://t.co/n8ojGYoJRU",
     "publish_time": "2026-09-12T20:39:00"
+  },
+  {
+    "file_name": "iFEf2OM_4Ri0uvOW.mp4",
+    "user": {
+      "screen_name": "Mateusdiasotoni",
+      "name": "直男女记者77"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2098761516548071425/vid/avc1/720x738/iFEf2OM_4Ri0uvOW.mp4?tag=29",
+    "read_time": "2026-09-12T22:03:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37583,
+      "timestamp": "2026-09-12T22:03:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 26674529,
+      "size_mb": 25.44,
+      "timestamp": "2026-09-12T22:03:18",
+      "download_attempts": 0
+    },
+    "full_text": "目前在寻找合作的宝宝，负责推广和后续处理。 有经验的宝宝可以电报私我喔，详情私聊，需要两位宝宝。 https://t.co/b3eN5iZs0A",
+    "publish_time": "2026-09-12T21:13:11"
+  },
+  {
+    "file_name": "HSBQG0fbAAAzGyr.jpg",
+    "user": {
+      "screen_name": "haoyun9988",
+      "name": "原(天蝎)北京"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSBQG0fbAAAzGyr.jpg",
+    "read_time": "2026-09-12T22:03:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37584,
+      "timestamp": "2026-09-12T22:03:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 89620,
+      "size_mb": 0.09,
+      "timestamp": "2026-09-12T22:03:23",
+      "download_attempts": 0
+    },
+    "full_text": "北京 https://t.co/D9K3w47A49",
+    "publish_time": "2026-09-12T21:27:46"
+  },
+  {
+    "file_name": "lJKwm5fGdcUgCvFF.mp4",
+    "user": {
+      "screen_name": "josephmrkao",
+      "name": "185 Joseph"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2098375276736679936/vid/avc1/1080x1920/lJKwm5fGdcUgCvFF.mp4?tag=29",
+    "read_time": "2026-09-12T22:03:15",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (65MB > 50MB)",
+      "timestamp": "2026-09-12T22:03:29",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 68972367,
+      "size_mb": 65.78,
+      "timestamp": "2026-09-12T22:03:29",
+      "download_attempts": 0
+    },
+    "full_text": "TWN Bull ft. JPN Peach\n\nNot just for work.\nIt’s our little romance, and another chapter in the memories we’ve made together.\n\n@tatsu7777t \nいつも応援してくれてありがとう。\nまたひとつ、ふたりの大切な思い出が増えたね 💙 https://t.co/zgfCH2SkJ4",
+    "publish_time": "2026-09-12T22:01:00"
   }
 ]
