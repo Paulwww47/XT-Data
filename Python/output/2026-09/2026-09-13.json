@@ -1346,17 +1346,563 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (52MB > 50MB)",
       "timestamp": "2026-09-13T12:02:47",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 55241321,
       "size_mb": 52.68,
-      "timestamp": "2026-09-13T12:02:47",
+      "timestamp": "2026-09-13T13:02:24",
       "download_attempts": 0
     },
     "full_text": "喜欢玩玩奶子搓屌爽射 https://t.co/2QF98mU6Tj",
     "publish_time": "2026-09-13T11:56:55"
+  },
+  {
+    "file_name": "HSEYgW0aEAAl9QW.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSEYgW0aEAAl9QW.jpg",
+    "read_time": "2026-09-13T13:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37660,
+      "timestamp": "2026-09-13T13:02:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 220998,
+      "size_mb": 0.21,
+      "timestamp": "2026-09-13T13:02:24",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/muXANcVEiF",
+    "publish_time": "2026-09-13T12:03:49"
+  },
+  {
+    "file_name": "HSEYj0fbAAADIG6.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSEYj0fbAAADIG6.jpg",
+    "read_time": "2026-09-13T13:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37661,
+      "timestamp": "2026-09-13T13:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 153390,
+      "size_mb": 0.15,
+      "timestamp": "2026-09-13T13:02:25",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/muXANcVEiF",
+    "publish_time": "2026-09-13T12:03:49"
+  },
+  {
+    "file_name": "HSEYmojbUAAe9vr.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSEYmojbUAAe9vr.jpg",
+    "read_time": "2026-09-13T13:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37662,
+      "timestamp": "2026-09-13T13:02:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 113526,
+      "size_mb": 0.11,
+      "timestamp": "2026-09-13T13:02:27",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/muXANcVEiF",
+    "publish_time": "2026-09-13T12:03:49"
+  },
+  {
+    "file_name": "HSEY6rdbIAAB6z6.jpg",
+    "user": {
+      "screen_name": "xhn1069",
+      "name": "路过"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSEY6rdbIAAB6z6.jpg",
+    "read_time": "2026-09-13T13:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37663,
+      "timestamp": "2026-09-13T13:02:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 117821,
+      "size_mb": 0.11,
+      "timestamp": "2026-09-13T13:02:28",
+      "download_attempts": 0
+    },
+    "full_text": "一只壮马锁屌骑行\n#野裸 #天体 #骑行 #锁屌 \n期待体验 https://t.co/RtvDgq7ATM",
+    "publish_time": "2026-09-13T12:05:11"
+  },
+  {
+    "file_name": "HSEY6rYaEAAdVOX.jpg",
+    "user": {
+      "screen_name": "xhn1069",
+      "name": "路过"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSEY6rYaEAAdVOX.jpg",
+    "read_time": "2026-09-13T13:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37664,
+      "timestamp": "2026-09-13T13:02:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 92947,
+      "size_mb": 0.09,
+      "timestamp": "2026-09-13T13:02:29",
+      "download_attempts": 0
+    },
+    "full_text": "一只壮马锁屌骑行\n#野裸 #天体 #骑行 #锁屌 \n期待体验 https://t.co/RtvDgq7ATM",
+    "publish_time": "2026-09-13T12:05:11"
+  },
+  {
+    "file_name": "HSEazLSa4AAbhpA.jpg",
+    "user": {
+      "screen_name": "a17739",
+      "name": "吳先生"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSEazLSa4AAbhpA.jpg",
+    "read_time": "2026-09-13T13:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37665,
+      "timestamp": "2026-09-13T13:02:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 215676,
+      "size_mb": 0.21,
+      "timestamp": "2026-09-13T13:02:30",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/mH9KpcqXUe",
+    "publish_time": "2026-09-13T12:13:20"
+  },
+  {
+    "file_name": "ZftzvRn7UfiYtc2E.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2098989171755089920/vid/avc1/720x1280/ZftzvRn7UfiYtc2E.mp4?tag=29",
+    "read_time": "2026-09-13T13:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37666,
+      "timestamp": "2026-09-13T13:02:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4770679,
+      "size_mb": 4.55,
+      "timestamp": "2026-09-13T13:02:32",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/AbjGgtU8Zf",
+    "publish_time": "2026-09-13T12:16:38"
+  },
+  {
+    "file_name": "-BtcGyZieSeMl05E.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2098990349981204480/vid/avc1/720x1280/-BtcGyZieSeMl05E.mp4?tag=29",
+    "read_time": "2026-09-13T13:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37667,
+      "timestamp": "2026-09-13T13:02:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3775825,
+      "size_mb": 3.6,
+      "timestamp": "2026-09-13T13:02:36",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/CpqFD9dMvF",
+    "publish_time": "2026-09-13T12:21:20"
+  },
+  {
+    "file_name": "yg87aBNlq9RQNHsd.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2098990349503139841/vid/avc1/720x1280/yg87aBNlq9RQNHsd.mp4?tag=29",
+    "read_time": "2026-09-13T13:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37668,
+      "timestamp": "2026-09-13T13:02:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4393156,
+      "size_mb": 4.19,
+      "timestamp": "2026-09-13T13:02:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/CpqFD9dMvF",
+    "publish_time": "2026-09-13T12:21:20"
+  },
+  {
+    "file_name": "KkT-52FwvrzwE5l4.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2098990349507264512/vid/avc1/720x1280/KkT-52FwvrzwE5l4.mp4?tag=29",
+    "read_time": "2026-09-13T13:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37669,
+      "timestamp": "2026-09-13T13:02:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3797150,
+      "size_mb": 3.62,
+      "timestamp": "2026-09-13T13:02:40",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/CpqFD9dMvF",
+    "publish_time": "2026-09-13T12:21:20"
+  },
+  {
+    "file_name": "RZf8OVRGwxO9qc3U.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2098990349503094784/vid/avc1/720x1280/RZf8OVRGwxO9qc3U.mp4?tag=29",
+    "read_time": "2026-09-13T13:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37670,
+      "timestamp": "2026-09-13T13:02:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4076966,
+      "size_mb": 3.89,
+      "timestamp": "2026-09-13T13:02:42",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/CpqFD9dMvF",
+    "publish_time": "2026-09-13T12:21:20"
+  },
+  {
+    "file_name": "QSqaS9LhC4qm0QWL.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2098990804480180225/vid/avc1/720x1280/QSqaS9LhC4qm0QWL.mp4?tag=29",
+    "read_time": "2026-09-13T13:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37671,
+      "timestamp": "2026-09-13T13:02:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7369077,
+      "size_mb": 7.03,
+      "timestamp": "2026-09-13T13:02:44",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/kd60bb1KoC",
+    "publish_time": "2026-09-13T12:23:09"
+  },
+  {
+    "file_name": "7iXZWIzTxsm9LCVK.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2098990804518027264/vid/avc1/720x1280/7iXZWIzTxsm9LCVK.mp4?tag=29",
+    "read_time": "2026-09-13T13:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37672,
+      "timestamp": "2026-09-13T13:02:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4225568,
+      "size_mb": 4.03,
+      "timestamp": "2026-09-13T13:02:47",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/kd60bb1KoC",
+    "publish_time": "2026-09-13T12:23:09"
+  },
+  {
+    "file_name": "-7z4GF-Nzv_LBKBL.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2098990804484382720/vid/avc1/720x1280/-7z4GF-Nzv_LBKBL.mp4?tag=29",
+    "read_time": "2026-09-13T13:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37673,
+      "timestamp": "2026-09-13T13:02:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1534670,
+      "size_mb": 1.46,
+      "timestamp": "2026-09-13T13:02:50",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/kd60bb1KoC",
+    "publish_time": "2026-09-13T12:23:09"
+  },
+  {
+    "file_name": "b2LlcTkiWEIsaMPb.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2098990804501250048/vid/avc1/720x1280/b2LlcTkiWEIsaMPb.mp4?tag=29",
+    "read_time": "2026-09-13T13:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37674,
+      "timestamp": "2026-09-13T13:02:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3965572,
+      "size_mb": 3.78,
+      "timestamp": "2026-09-13T13:02:53",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/kd60bb1KoC",
+    "publish_time": "2026-09-13T12:23:09"
+  },
+  {
+    "file_name": "imTgYtG_ntm9GuC-.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2098990850705666048/vid/avc1/720x1280/imTgYtG_ntm9GuC-.mp4?tag=29",
+    "read_time": "2026-09-13T13:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37675,
+      "timestamp": "2026-09-13T13:02:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 9531021,
+      "size_mb": 9.09,
+      "timestamp": "2026-09-13T13:02:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/EVjIdGvkcY",
+    "publish_time": "2026-09-13T12:23:18"
+  },
+  {
+    "file_name": "HSEd8hDagAAY-0y.jpg",
+    "user": {
+      "screen_name": "uncledoggie",
+      "name": "小狼叔"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSEd8hDagAAY-0y.jpg",
+    "read_time": "2026-09-13T13:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37676,
+      "timestamp": "2026-09-13T13:03:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 181720,
+      "size_mb": 0.17,
+      "timestamp": "2026-09-13T13:02:59",
+      "download_attempts": 0
+    },
+    "full_text": "连续挨打三天的小狗，打完还要安慰…\n芥末好吃吧？手套好吃吧？\n黑松露牛肉饼干好吃吧？ https://t.co/dA5XvdermP",
+    "publish_time": "2026-09-13T12:27:09"
+  },
+  {
+    "file_name": "HSEd8hGaoAApGiK.jpg",
+    "user": {
+      "screen_name": "uncledoggie",
+      "name": "小狼叔"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSEd8hGaoAApGiK.jpg",
+    "read_time": "2026-09-13T13:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37677,
+      "timestamp": "2026-09-13T13:03:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 149771,
+      "size_mb": 0.14,
+      "timestamp": "2026-09-13T13:03:00",
+      "download_attempts": 0
+    },
+    "full_text": "连续挨打三天的小狗，打完还要安慰…\n芥末好吃吧？手套好吃吧？\n黑松露牛肉饼干好吃吧？ https://t.co/dA5XvdermP",
+    "publish_time": "2026-09-13T12:27:09"
+  },
+  {
+    "file_name": "r1bxBGGAS-NHq0sP.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2098992899052666880/pu/vid/avc1/1280x720/r1bxBGGAS-NHq0sP.mp4?tag=12",
+    "read_time": "2026-09-13T13:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37678,
+      "timestamp": "2026-09-13T13:03:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 501116,
+      "size_mb": 0.48,
+      "timestamp": "2026-09-13T13:03:00",
+      "download_attempts": 0
+    },
+    "full_text": "发视频刷刷鸡巴又有感觉了 https://t.co/WfVY2TZK87",
+    "publish_time": "2026-09-13T12:32:00"
+  },
+  {
+    "file_name": "edZ8F9G2Ab1vhaOK.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2098993053260472320/pu/vid/avc1/1280x720/edZ8F9G2Ab1vhaOK.mp4?tag=12",
+    "read_time": "2026-09-13T13:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37679,
+      "timestamp": "2026-09-13T13:03:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 496626,
+      "size_mb": 0.47,
+      "timestamp": "2026-09-13T13:03:02",
+      "download_attempts": 0
+    },
+    "full_text": "发视频刷刷鸡巴又有感觉了 https://t.co/WfVY2TZK87",
+    "publish_time": "2026-09-13T12:32:00"
+  },
+  {
+    "file_name": "HSEj6q5bQAAbDfs.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSEj6q5bQAAbDfs.jpg",
+    "read_time": "2026-09-13T13:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37680,
+      "timestamp": "2026-09-13T13:03:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 213408,
+      "size_mb": 0.2,
+      "timestamp": "2026-09-13T13:03:03",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/8s1bQgzaDT",
+    "publish_time": "2026-09-13T12:53:19"
   }
 ]
