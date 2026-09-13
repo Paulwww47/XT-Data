@@ -640,14 +640,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (69MB > 50MB)",
       "timestamp": "2026-09-13T08:02:46",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 72732231,
       "size_mb": 69.36,
-      "timestamp": "2026-09-13T08:02:46",
+      "timestamp": "2026-09-13T09:02:35",
       "download_attempts": 0
     },
     "full_text": "【不失陪的夢】 同志片*紅樓夢*電影主題曲官方歌词版 （2018年 吳秉洛 Qrix Wu - “With Me To The End ”｜華納 Official HD 官方MV https://t.co/diJDwVqKBL",
@@ -694,14 +694,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (137MB > 50MB)",
       "timestamp": "2026-09-13T08:03:02",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 144595075,
       "size_mb": 137.9,
-      "timestamp": "2026-09-13T08:03:02",
+      "timestamp": "2026-09-13T09:02:36",
       "download_attempts": 0
     },
     "full_text": "𝐀𝐔𝐃𝐈𝐄𝐍𝐂𝐄 𝐕𝐈𝐄𝐖 | Mister Philippines, John Bonifacio during the Mister Cosmopolitan 2026 Talent Competition 🇵🇭. https://t.co/CWBuaQnzRG",
@@ -784,5 +784,57 @@
     },
     "full_text": "https://t.co/JVt9iusaQi",
     "publish_time": "2026-09-13T07:58:05"
+  },
+  {
+    "file_name": "HSDkfR1bIAA9xaT.jpg",
+    "user": {
+      "screen_name": "OMyfavoriteboys",
+      "name": "My favorite boys"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSDkfR1bIAA9xaT.jpg",
+    "read_time": "2026-09-13T09:02:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37639,
+      "timestamp": "2026-09-13T09:02:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 162890,
+      "size_mb": 0.16,
+      "timestamp": "2026-09-13T09:02:37",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/L1B6mfKHcH",
+    "publish_time": "2026-09-13T08:16:03"
+  },
+  {
+    "file_name": "HSDuf6obUAAvMYU.jpg",
+    "user": {
+      "screen_name": "HeKyo7991",
+      "name": "和大人"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSDuf6obUAAvMYU.jpg",
+    "read_time": "2026-09-13T09:02:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37640,
+      "timestamp": "2026-09-13T09:02:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 123906,
+      "size_mb": 0.12,
+      "timestamp": "2026-09-13T09:02:39",
+      "download_attempts": 0
+    },
+    "full_text": "困困 https://t.co/aLuEcSw2KI",
+    "publish_time": "2026-09-13T08:59:49"
   }
 ]
