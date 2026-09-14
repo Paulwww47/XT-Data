@@ -14,14 +14,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (137MB > 50MB)",
       "timestamp": "2026-09-15T01:02:41",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 144001448,
       "size_mb": 137.33,
-      "timestamp": "2026-09-15T01:02:41",
+      "timestamp": "2026-09-15T02:02:34",
       "download_attempts": 0
     },
     "full_text": "「原创」📷   极品同事，坐上骑乘\n\n#北京 #京津冀 #Beijing  #反差 https://t.co/ooA4b1Pii6",
@@ -104,5 +104,187 @@
     },
     "full_text": "九宫格有人看吗 https://t.co/iVEBa0cI0w",
     "publish_time": "2026-09-15T00:56:05"
+  },
+  {
+    "file_name": "HSMU-ZJbcAEFDJy.jpg",
+    "user": {
+      "screen_name": "hu15310017",
+      "name": "何图图"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSMU-ZJbcAEFDJy.jpg",
+    "read_time": "2026-09-15T02:02:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37865,
+      "timestamp": "2026-09-15T02:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 120880,
+      "size_mb": 0.12,
+      "timestamp": "2026-09-15T02:02:34",
+      "download_attempts": 0
+    },
+    "full_text": "你有几个好哥哥？ https://t.co/kN42Ah1Z2O",
+    "publish_time": "2026-09-15T01:05:00"
+  },
+  {
+    "file_name": "HSMU-ZGaoAAjaWT.jpg",
+    "user": {
+      "screen_name": "hu15310017",
+      "name": "何图图"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSMU-ZGaoAAjaWT.jpg",
+    "read_time": "2026-09-15T02:02:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37866,
+      "timestamp": "2026-09-15T02:02:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 83569,
+      "size_mb": 0.08,
+      "timestamp": "2026-09-15T02:02:36",
+      "download_attempts": 0
+    },
+    "full_text": "你有几个好哥哥？ https://t.co/kN42Ah1Z2O",
+    "publish_time": "2026-09-15T01:05:00"
+  },
+  {
+    "file_name": "HSMXX9maMAAivo5.jpg",
+    "user": {
+      "screen_name": "eccmair",
+      "name": "焛"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSMXX9maMAAivo5.jpg",
+    "read_time": "2026-09-15T02:02:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37867,
+      "timestamp": "2026-09-15T02:02:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 197746,
+      "size_mb": 0.19,
+      "timestamp": "2026-09-15T02:02:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/bzCCselrWW",
+    "publish_time": "2026-09-15T01:15:28"
+  },
+  {
+    "file_name": "HSMXX9gboAAmRXe.mp4",
+    "user": {
+      "screen_name": "eccmair",
+      "name": "焛"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/HSMXX9gboAAmRXe.mp4",
+    "read_time": "2026-09-15T02:02:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37868,
+      "timestamp": "2026-09-15T02:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 83629,
+      "size_mb": 0.08,
+      "timestamp": "2026-09-15T02:02:40",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/bzCCselrWW",
+    "publish_time": "2026-09-15T01:15:28"
+  },
+  {
+    "file_name": "KWi0WjosJIgX6FJl.mp4",
+    "user": {
+      "screen_name": "azzd553",
+      "name": "Muscle guy"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2099547580434972672/vid/avc1/1280x720/KWi0WjosJIgX6FJl.mp4?tag=29",
+    "read_time": "2026-09-15T02:02:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37869,
+      "timestamp": "2026-09-15T02:02:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4309155,
+      "size_mb": 4.11,
+      "timestamp": "2026-09-15T02:02:42",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vzSWkVjCTV",
+    "publish_time": "2026-09-15T01:15:34"
+  },
+  {
+    "file_name": "0HcoHOzFFFaHbULv.mp4",
+    "user": {
+      "screen_name": "imfenshuajiang",
+      "name": "我是一个粉刷匠"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2099550936872243201/vid/avc1/1280x720/0HcoHOzFFFaHbULv.mp4?tag=29",
+    "read_time": "2026-09-15T02:02:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37870,
+      "timestamp": "2026-09-15T02:02:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4499264,
+      "size_mb": 4.29,
+      "timestamp": "2026-09-15T02:02:46",
+      "download_attempts": 0
+    },
+    "full_text": "有人想买嘛？222块出掉，有没有想要的小伙伴\n带原包装盒 https://t.co/RXbFb3nDHD",
+    "publish_time": "2026-09-15T01:29:05"
+  },
+  {
+    "file_name": "HSMee-HbcAA7RhS.jpg",
+    "user": {
+      "screen_name": "WOOD_PIGEON111",
+      "name": "木小鹌鹑"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSMee-HbcAA7RhS.jpg",
+    "read_time": "2026-09-15T02:02:32",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 37871,
+      "timestamp": "2026-09-15T02:02:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 80749,
+      "size_mb": 0.08,
+      "timestamp": "2026-09-15T02:02:49",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/D24I19Ezk6",
+    "publish_time": "2026-09-15T01:46:25"
   }
 ]
