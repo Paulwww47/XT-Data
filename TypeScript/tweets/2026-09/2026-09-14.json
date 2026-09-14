@@ -816,5 +816,75 @@
     "tweetUrl": "https://x.com/Big_straight_H/status/2099419486558581123",
     "fullText": "我真的三條線 https://t.co/ThZ7dgRWSn",
     "publishTime": "2026-09-14T16:46:25"
+  },
+  {
+    "user": {
+      "screenName": "fanglangnantu",
+      "name": "NANTU"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/fanglangnantu/status/2099426845062320242",
+    "fullText": "今日在深圳 明天去往杭州上海",
+    "publishTime": "2026-09-14T17:15:39"
+  },
+  {
+    "user": {
+      "screenName": "hymanjuan4",
+      "name": "HL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSKwE40aUAAU7Tx.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/hymanjuan4/status/2099433980131172502",
+    "fullText": "https://t.co/zQFT7XUiqx",
+    "publishTime": "2026-09-14T17:44:01"
+  },
+  {
+    "user": {
+      "screenName": "hymanjuan4",
+      "name": "HL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2099434013203308544/vid/avc1/360x640/VHr5JmW34kjW-miF.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/hymanjuan4/status/2099434036985049281",
+    "fullText": "https://t.co/Fv104xsbjn",
+    "publishTime": "2026-09-14T17:44:14"
+  },
+  {
+    "user": {
+      "screenName": "hymanjuan4",
+      "name": "HL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2099434831793008640/vid/avc1/360x640/8BprFGhMUESucBAT.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/hymanjuan4/status/2099434851795706038",
+    "fullText": "https://t.co/kt8hToyLyi",
+    "publishTime": "2026-09-14T17:47:28"
+  },
+  {
+    "user": {
+      "screenName": "kaka_lac",
+      "name": "kaka"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2099436194967007232/vid/avc1/720x1280/PVxKshOjGOwZjkfx.mp4?tag=29"
+    ],
+    "expandUrls": [
+      "https://t.me/comshang"
+    ],
+    "tweetUrl": "https://x.com/kaka_lac/status/2099436274805612915",
+    "fullText": "在为了回馈广大粉丝对我的支持！凡是今天进的将不收取任何费用，24h免费我福利群对我的粉丝们限时无门槛ATM进入，可观看所有视频和写真！\n领取方式:https://t.co/ymKk38N7RM\n暗号：ss https://t.co/KiItvYbdER",
+    "publishTime": "2026-09-14T17:53:08"
   }
 ]
