@@ -348,5 +348,20 @@
     "tweetUrl": "https://x.com/diedie65450999/status/2099632115419889846",
     "fullText": "https://t.co/HiCA9uoMgx",
     "publishTime": "2026-09-15T06:51:20"
+  },
+  {
+    "user": {
+      "screenName": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2099646173946753024/vid/avc1/1280x720/tDi52sn169AViS2X.mp4?tag=29",
+      "https://video.twimg.com/amplify_video/2099646197653016577/vid/avc1/1280x720/SWfs5yBnL2lpV8aQ.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/sbbupeihaolian/status/2099646218402189699",
+    "fullText": "陈伯一下 https://t.co/ylAyqjAlue",
+    "publishTime": "2026-09-15T07:47:22"
   }
 ]
