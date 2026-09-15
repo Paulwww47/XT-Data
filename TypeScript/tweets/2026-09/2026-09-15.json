@@ -1378,5 +1378,43 @@
     "tweetUrl": "https://x.com/lixuanzhe36/status/2099875134404428012",
     "fullText": "@HorgeL_ 很好看",
     "publishTime": "2026-09-15T22:57:00"
+  },
+  {
+    "user": {
+      "screenName": "Big_straight_H",
+      "name": "荒"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Big_straight_H/status/2099882210199560456",
+    "fullText": "有人打過嗎",
+    "publishTime": "2026-09-15T23:25:07"
+  },
+  {
+    "user": {
+      "screenName": "alvingoooo",
+      "name": "go"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/alvingoooo/status/2099885013143785947",
+    "fullText": "Some ppl be saying shit",
+    "publishTime": "2026-09-15T23:36:15"
+  },
+  {
+    "user": {
+      "screenName": "rayon1369",
+      "name": "邹良军"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2099398659058384896/vid/avc1/720x1280/Yz9EZuPt-eTCRRyu.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/rayon1369/status/2099889785615835535",
+    "fullText": "https://t.co/kRTL0CT5QI",
+    "publishTime": "2026-09-15T23:55:13"
   }
 ]
