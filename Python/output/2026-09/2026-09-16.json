@@ -570,5 +570,31 @@
     },
     "full_text": "white_is_13 https://t.co/MpCqvGEU6H",
     "publish_time": "2026-09-16T05:17:19"
+  },
+  {
+    "file_name": "f0op4FbVWyoEYZJ-.mp4",
+    "user": {
+      "screen_name": "jj20cm_",
+      "name": "阳光小茄子"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2099988594903621632/vid/avc1/720x1280/f0op4FbVWyoEYZJ-.mp4?tag=29",
+    "read_time": "2026-09-16T07:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38005,
+      "timestamp": "2026-09-16T07:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3348271,
+      "size_mb": 3.19,
+      "timestamp": "2026-09-16T07:02:20",
+      "download_attempts": 0
+    },
+    "full_text": "这条内裤有人要吗？ https://t.co/DrN8m48nWC",
+    "publish_time": "2026-09-16T06:28:09"
   }
 ]
