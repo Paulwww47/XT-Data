@@ -1496,17 +1496,147 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (3305MB > 50MB)",
       "timestamp": "2026-09-16T15:02:40",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 3466333196,
       "size_mb": 3305.75,
-      "timestamp": "2026-09-16T15:02:40",
+      "timestamp": "2026-09-16T16:07:30",
       "download_attempts": 0
     },
     "full_text": "分享昨天睡前尻的🥵🥵🥵 又不小心尻了兩槍 https://t.co/wztLwCv35H",
     "publish_time": "2026-09-16T14:33:41"
+  },
+  {
+    "file_name": "HSUg5DlbEAAcfZW.jpg",
+    "user": {
+      "screen_name": "wngyngh44820470",
+      "name": "SJerry"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSUg5DlbEAAcfZW.jpg",
+    "read_time": "2026-09-16T16:07:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38043,
+      "timestamp": "2026-09-16T16:07:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 118894,
+      "size_mb": 0.11,
+      "timestamp": "2026-09-16T16:07:30",
+      "download_attempts": 0
+    },
+    "full_text": "天气不错 该穿的都穿上了 https://t.co/nYnL7S9fy7",
+    "publish_time": "2026-09-16T15:13:54"
+  },
+  {
+    "file_name": "HSUg5DkacAEvV0F.jpg",
+    "user": {
+      "screen_name": "wngyngh44820470",
+      "name": "SJerry"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSUg5DkacAEvV0F.jpg",
+    "read_time": "2026-09-16T16:07:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38044,
+      "timestamp": "2026-09-16T16:07:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 180581,
+      "size_mb": 0.17,
+      "timestamp": "2026-09-16T16:07:31",
+      "download_attempts": 0
+    },
+    "full_text": "天气不错 该穿的都穿上了 https://t.co/nYnL7S9fy7",
+    "publish_time": "2026-09-16T15:13:54"
+  },
+  {
+    "file_name": "HSUksR2aMAAPqyi.jpg",
+    "user": {
+      "screen_name": "yinhuhz",
+      "name": "黑"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSUksR2aMAAPqyi.jpg",
+    "read_time": "2026-09-16T16:07:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38045,
+      "timestamp": "2026-09-16T16:07:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 35615,
+      "size_mb": 0.03,
+      "timestamp": "2026-09-16T16:07:32",
+      "download_attempts": 0
+    },
+    "full_text": "我不知道 他们说戴平板的最骚 https://t.co/TWnFgREdnO",
+    "publish_time": "2026-09-16T15:30:32"
+  },
+  {
+    "file_name": "HSUm4wKaAAIcJnM.jpg",
+    "user": {
+      "screen_name": "lzj244",
+      "name": "好吧那好吧"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSUm4wKaAAIcJnM.jpg",
+    "read_time": "2026-09-16T16:07:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38046,
+      "timestamp": "2026-09-16T16:07:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 125857,
+      "size_mb": 0.12,
+      "timestamp": "2026-09-16T16:07:32",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/53k1s9kCZy",
+    "publish_time": "2026-09-16T15:40:06"
+  },
+  {
+    "file_name": "HSUnAaxasAAeuGF.jpg",
+    "user": {
+      "screen_name": "DJIMAGE111",
+      "name": "SIMAGE"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSUnAaxasAAeuGF.jpg",
+    "read_time": "2026-09-16T16:07:11",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38047,
+      "timestamp": "2026-09-16T16:07:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 131990,
+      "size_mb": 0.13,
+      "timestamp": "2026-09-16T16:07:33",
+      "download_attempts": 0
+    },
+    "full_text": "过来！我给你洗把脸🤓\n\n#北京 #Beijing #反差 #颜射 https://t.co/SxTtzVmNK3",
+    "publish_time": "2026-09-16T15:40:39"
   }
 ]
