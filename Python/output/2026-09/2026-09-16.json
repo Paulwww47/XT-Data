@@ -1758,14 +1758,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (152MB > 50MB)",
       "timestamp": "2026-09-16T18:02:34",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 160023493,
       "size_mb": 152.61,
-      "timestamp": "2026-09-16T18:02:34",
+      "timestamp": "2026-09-16T19:02:16",
       "download_attempts": 0
     },
     "full_text": "「原创」📸   极品女同事，坐骑猛摇，现在开始作品厚马，以防偷盗\n\n#北京 #Beijing #反差 https://t.co/64huvaLJf0",
@@ -1874,5 +1874,83 @@
     },
     "full_text": "🍆 入一下门槛啊🚪 https://t.co/mw9L47SZMq",
     "publish_time": "2026-09-16T17:57:17"
+  },
+  {
+    "file_name": "HSVL7_yaUAEeXov.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSVL7_yaUAEeXov.jpg",
+    "read_time": "2026-09-16T19:02:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38056,
+      "timestamp": "2026-09-16T19:02:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 123006,
+      "size_mb": 0.12,
+      "timestamp": "2026-09-16T19:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/H7LtaTLLIl",
+    "publish_time": "2026-09-16T18:22:02"
+  },
+  {
+    "file_name": "HSVMMUgbgAA9G6y.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSVMMUgbgAA9G6y.jpg",
+    "read_time": "2026-09-16T19:02:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38057,
+      "timestamp": "2026-09-16T19:02:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 110368,
+      "size_mb": 0.11,
+      "timestamp": "2026-09-16T19:02:18",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/H0ruFNHijE",
+    "publish_time": "2026-09-16T18:23:07"
+  },
+  {
+    "file_name": "HSVNZbMa0AAB-KB.jpg",
+    "user": {
+      "screen_name": "huohuo0707330",
+      "name": "嚯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSVNZbMa0AAB-KB.jpg",
+    "read_time": "2026-09-16T19:02:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38058,
+      "timestamp": "2026-09-16T19:02:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 202743,
+      "size_mb": 0.19,
+      "timestamp": "2026-09-16T19:02:20",
+      "download_attempts": 0
+    },
+    "full_text": "努力在每天的混乱中找规律 https://t.co/wtzKed0Dbm",
+    "publish_time": "2026-09-16T18:28:22"
   }
 ]
