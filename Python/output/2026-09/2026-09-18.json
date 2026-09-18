@@ -2798,14 +2798,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (240MB > 50MB)",
       "timestamp": "2026-09-18T21:02:00",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 251726218,
       "size_mb": 240.06,
-      "timestamp": "2026-09-18T21:02:00",
+      "timestamp": "2026-09-18T22:01:58",
       "download_attempts": 0
     },
     "full_text": "天台版 https://t.co/6dDtBgK9Ku",
@@ -3122,5 +3122,135 @@
     },
     "full_text": "☀️ https://t.co/GVtaYwg5k2",
     "publish_time": "2026-09-18T20:47:38"
+  },
+  {
+    "file_name": "HSgD6z1a4AEyCXg.jpg",
+    "user": {
+      "screen_name": "Divo1765100",
+      "name": "Divo"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSgD6z1a4AEyCXg.jpg",
+    "read_time": "2026-09-18T22:01:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38344,
+      "timestamp": "2026-09-18T22:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 103290,
+      "size_mb": 0.1,
+      "timestamp": "2026-09-18T22:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "Who loves sauna https://t.co/3l69GMu3AV",
+    "publish_time": "2026-09-18T21:02:45"
+  },
+  {
+    "file_name": "HSgLeNKagAEuJH8.jpg",
+    "user": {
+      "screen_name": "HorgeL_",
+      "name": "Horge🤖"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSgLeNKagAEuJH8.jpg",
+    "read_time": "2026-09-18T22:01:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38345,
+      "timestamp": "2026-09-18T22:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 134042,
+      "size_mb": 0.13,
+      "timestamp": "2026-09-18T22:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/I3vP9Cpsku",
+    "publish_time": "2026-09-18T21:35:45"
+  },
+  {
+    "file_name": "HSgLeNKaQAAQPUA.jpg",
+    "user": {
+      "screen_name": "HorgeL_",
+      "name": "Horge🤖"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSgLeNKaQAAQPUA.jpg",
+    "read_time": "2026-09-18T22:01:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38346,
+      "timestamp": "2026-09-18T22:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 132286,
+      "size_mb": 0.13,
+      "timestamp": "2026-09-18T22:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/I3vP9Cpsku",
+    "publish_time": "2026-09-18T21:35:45"
+  },
+  {
+    "file_name": "HSgN2L_XwAAyk7k.jpg",
+    "user": {
+      "screen_name": "Achen1286",
+      "name": "向军"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSgN2L_XwAAyk7k.jpg",
+    "read_time": "2026-09-18T22:01:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38347,
+      "timestamp": "2026-09-18T22:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 74065,
+      "size_mb": 0.07,
+      "timestamp": "2026-09-18T22:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "换号播啦😄 https://t.co/S57mxeOoZb",
+    "publish_time": "2026-09-18T21:46:08"
+  },
+  {
+    "file_name": "Bkyq3T9SHiHC5wmB.mp4",
+    "user": {
+      "screen_name": "gfhfbv72550",
+      "name": "Yuki采访直男21号"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/2100946383528460288/pu/vid/avc1/464x848/Bkyq3T9SHiHC5wmB.mp4?tag=12",
+    "read_time": "2026-09-18T22:01:56",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38348,
+      "timestamp": "2026-09-18T22:02:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7279452,
+      "size_mb": 6.94,
+      "timestamp": "2026-09-18T22:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "上海闵行眼镜人夫\n忘记了是不是金融男，那天还在出差然后趁着没人马上来上一发，嗓音是很温柔的低音炮，而且很会撸很会男喘，全程目不转睛带上耳机全身心投入采访当中，而且普遍感觉这样的男人都有点s情节，渴望床上征服女人，最后一直喘喷得双手满是精液量大十足 https://t.co/QThh83Hy57",
+    "publish_time": "2026-09-18T21:54:15"
   }
 ]
