@@ -2782,5 +2782,345 @@
     },
     "full_text": "https://t.co/AymZyszpxl",
     "publish_time": "2026-09-18T19:51:02"
+  },
+  {
+    "file_name": "qtaoNHZJPpZPnsIj.mp4",
+    "user": {
+      "screen_name": "alwyn_shown",
+      "name": "Alwyn Lu"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2100922165231300608/vid/avc1/2160x3840/qtaoNHZJPpZPnsIj.mp4?tag=29",
+    "read_time": "2026-09-18T21:01:58",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (240MB > 50MB)",
+      "timestamp": "2026-09-18T21:02:00",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 251726218,
+      "size_mb": 240.06,
+      "timestamp": "2026-09-18T21:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "天台版 https://t.co/6dDtBgK9Ku",
+    "publish_time": "2026-09-18T20:22:02"
+  },
+  {
+    "file_name": "HSf7ySSbIAARxo2.jpg",
+    "user": {
+      "screen_name": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSf7ySSbIAARxo2.jpg",
+    "read_time": "2026-09-18T21:01:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38332,
+      "timestamp": "2026-09-18T21:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 140111,
+      "size_mb": 0.13,
+      "timestamp": "2026-09-18T21:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "We are heat stains.🍷 https://t.co/nDMoTjDwvN",
+    "publish_time": "2026-09-18T20:27:12"
+  },
+  {
+    "file_name": "HSf-njmaIAEFfAH.jpg",
+    "user": {
+      "screen_name": "eccmair",
+      "name": "焛"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSf-njmaIAEFfAH.jpg",
+    "read_time": "2026-09-18T21:01:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38333,
+      "timestamp": "2026-09-18T21:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 82288,
+      "size_mb": 0.08,
+      "timestamp": "2026-09-18T21:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/PEsnfAXwVt",
+    "publish_time": "2026-09-18T20:39:35"
+  },
+  {
+    "file_name": "HSf-njmawAAP-72.jpg",
+    "user": {
+      "screen_name": "eccmair",
+      "name": "焛"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSf-njmawAAP-72.jpg",
+    "read_time": "2026-09-18T21:01:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38334,
+      "timestamp": "2026-09-18T21:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 91714,
+      "size_mb": 0.09,
+      "timestamp": "2026-09-18T21:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/PEsnfAXwVt",
+    "publish_time": "2026-09-18T20:39:35"
+  },
+  {
+    "file_name": "HSf-njlbgAA3KJ-.jpg",
+    "user": {
+      "screen_name": "eccmair",
+      "name": "焛"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSf-njlbgAA3KJ-.jpg",
+    "read_time": "2026-09-18T21:01:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38335,
+      "timestamp": "2026-09-18T21:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 99087,
+      "size_mb": 0.09,
+      "timestamp": "2026-09-18T21:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/PEsnfAXwVt",
+    "publish_time": "2026-09-18T20:39:35"
+  },
+  {
+    "file_name": "HSf-njsbQAAqZYt.jpg",
+    "user": {
+      "screen_name": "eccmair",
+      "name": "焛"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSf-njsbQAAqZYt.jpg",
+    "read_time": "2026-09-18T21:01:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38336,
+      "timestamp": "2026-09-18T21:02:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 89909,
+      "size_mb": 0.09,
+      "timestamp": "2026-09-18T21:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/PEsnfAXwVt",
+    "publish_time": "2026-09-18T20:39:35"
+  },
+  {
+    "file_name": "HSf_xSDa4AA7j1Q.jpg",
+    "user": {
+      "screen_name": "imfenshuajiang",
+      "name": "我是一个粉刷匠"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSf_xSDa4AA7j1Q.jpg",
+    "read_time": "2026-09-18T21:01:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38337,
+      "timestamp": "2026-09-18T21:02:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 101422,
+      "size_mb": 0.1,
+      "timestamp": "2026-09-18T21:02:08",
+      "download_attempts": 0
+    },
+    "full_text": "如果食物的营养决定价格，那鸡蛋必然只有极少数人能享受到 https://t.co/YH9YJJUXxS",
+    "publish_time": "2026-09-18T20:44:38"
+  },
+  {
+    "file_name": "HSf_xSFagAAJJZA.jpg",
+    "user": {
+      "screen_name": "imfenshuajiang",
+      "name": "我是一个粉刷匠"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSf_xSFagAAJJZA.jpg",
+    "read_time": "2026-09-18T21:01:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38338,
+      "timestamp": "2026-09-18T21:02:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 136526,
+      "size_mb": 0.13,
+      "timestamp": "2026-09-18T21:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "如果食物的营养决定价格，那鸡蛋必然只有极少数人能享受到 https://t.co/YH9YJJUXxS",
+    "publish_time": "2026-09-18T20:44:38"
+  },
+  {
+    "file_name": "HSf_xSjbEAACFK2.jpg",
+    "user": {
+      "screen_name": "imfenshuajiang",
+      "name": "我是一个粉刷匠"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSf_xSjbEAACFK2.jpg",
+    "read_time": "2026-09-18T21:01:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38339,
+      "timestamp": "2026-09-18T21:02:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 112506,
+      "size_mb": 0.11,
+      "timestamp": "2026-09-18T21:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "如果食物的营养决定价格，那鸡蛋必然只有极少数人能享受到 https://t.co/YH9YJJUXxS",
+    "publish_time": "2026-09-18T20:44:38"
+  },
+  {
+    "file_name": "HSf_xSEbQAAE16n.jpg",
+    "user": {
+      "screen_name": "imfenshuajiang",
+      "name": "我是一个粉刷匠"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSf_xSEbQAAE16n.jpg",
+    "read_time": "2026-09-18T21:01:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38340,
+      "timestamp": "2026-09-18T21:02:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 110341,
+      "size_mb": 0.11,
+      "timestamp": "2026-09-18T21:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "如果食物的营养决定价格，那鸡蛋必然只有极少数人能享受到 https://t.co/YH9YJJUXxS",
+    "publish_time": "2026-09-18T20:44:38"
+  },
+  {
+    "file_name": "HSf_55bWgAA3bvR.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSf_55bWgAA3bvR.jpg",
+    "read_time": "2026-09-18T21:01:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38341,
+      "timestamp": "2026-09-18T21:02:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 177669,
+      "size_mb": 0.17,
+      "timestamp": "2026-09-18T21:02:18",
+      "download_attempts": 0
+    },
+    "full_text": "礼物是牛子哥@ffffkyb 的第一次\n版画 https://t.co/Fh6JY9VT3K",
+    "publish_time": "2026-09-18T20:45:15"
+  },
+  {
+    "file_name": "R7aU3mJyeDK8BNiZ.mp4",
+    "user": {
+      "screen_name": "Happyali03",
+      "name": "黑皮Alibaby（@Happyali01防丟）"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2100928999723806720/vid/avc1/720x1280/R7aU3mJyeDK8BNiZ.mp4?tag=29",
+    "read_time": "2026-09-18T21:01:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38342,
+      "timestamp": "2026-09-18T21:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 17821356,
+      "size_mb": 17.0,
+      "timestamp": "2026-09-18T21:02:19",
+      "download_attempts": 0
+    },
+    "full_text": "獨闖杭州萬象匯，車輪戰，雙龍 | 內射 | 多個大屌輪番上陣，超刺激。\n第一部：https://t.co/jgdwsCGVOy\n第二部：https://t.co/WiIHv3VTlp https://t.co/SWGJIqdo5m",
+    "publish_time": "2026-09-18T20:45:56"
+  },
+  {
+    "file_name": "M2-lqz1B9U6apZqE.mp4",
+    "user": {
+      "screen_name": "Divo1765100",
+      "name": "Divo"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2100929681621237760/vid/avc1/1042x1484/M2-lqz1B9U6apZqE.mp4?tag=29",
+    "read_time": "2026-09-18T21:01:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38343,
+      "timestamp": "2026-09-18T21:02:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3687139,
+      "size_mb": 3.52,
+      "timestamp": "2026-09-18T21:02:23",
+      "download_attempts": 0
+    },
+    "full_text": "☀️ https://t.co/GVtaYwg5k2",
+    "publish_time": "2026-09-18T20:47:38"
   }
 ]
