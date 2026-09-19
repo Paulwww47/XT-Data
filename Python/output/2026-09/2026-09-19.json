@@ -2358,14 +2358,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (2089MB > 50MB)",
       "timestamp": "2026-09-19T22:02:37",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 2190547618,
       "size_mb": 2089.07,
-      "timestamp": "2026-09-19T22:02:37",
+      "timestamp": "2026-09-19T23:02:22",
       "download_attempts": 0
     },
     "full_text": "這噴射力也太可怕🤣🤣🤣🤣  https://t.co/2jsUKEf0y3",
@@ -2448,5 +2448,239 @@
     },
     "full_text": "感谢摄影师 https://t.co/kNLlxvKzIY",
     "publish_time": "2026-09-19T21:56:36"
+  },
+  {
+    "file_name": "HSlbBnKbMAAOQTq.jpg",
+    "user": {
+      "screen_name": "Big_straight_H",
+      "name": "荒"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSlbBnKbMAAOQTq.jpg",
+    "read_time": "2026-09-19T23:02:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38449,
+      "timestamp": "2026-09-19T23:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 78728,
+      "size_mb": 0.08,
+      "timestamp": "2026-09-19T23:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "不只是他而已，很多人都這樣聊天 https://t.co/lMt1KwpCJ4",
+    "publish_time": "2026-09-19T22:01:47"
+  },
+  {
+    "file_name": "HSleEtmasAAU3sG.jpg",
+    "user": {
+      "screen_name": "BOYSTV",
+      "name": "BOYSTV"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSleEtmasAAU3sG.jpg",
+    "read_time": "2026-09-19T23:02:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38450,
+      "timestamp": "2026-09-19T23:02:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 134783,
+      "size_mb": 0.13,
+      "timestamp": "2026-09-19T23:02:24",
+      "download_attempts": 0
+    },
+    "full_text": "夏日回首\n\n📷：@BOYSTV https://t.co/ImlHfjz4L3",
+    "publish_time": "2026-09-19T22:15:09"
+  },
+  {
+    "file_name": "HSleEtrbgAAhFWA.jpg",
+    "user": {
+      "screen_name": "BOYSTV",
+      "name": "BOYSTV"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSleEtrbgAAhFWA.jpg",
+    "read_time": "2026-09-19T23:02:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38451,
+      "timestamp": "2026-09-19T23:02:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 159458,
+      "size_mb": 0.15,
+      "timestamp": "2026-09-19T23:02:26",
+      "download_attempts": 0
+    },
+    "full_text": "夏日回首\n\n📷：@BOYSTV https://t.co/ImlHfjz4L3",
+    "publish_time": "2026-09-19T22:15:09"
+  },
+  {
+    "file_name": "HSleEtoakAAxj0O.jpg",
+    "user": {
+      "screen_name": "BOYSTV",
+      "name": "BOYSTV"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSleEtoakAAxj0O.jpg",
+    "read_time": "2026-09-19T23:02:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38452,
+      "timestamp": "2026-09-19T23:02:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 143936,
+      "size_mb": 0.14,
+      "timestamp": "2026-09-19T23:02:28",
+      "download_attempts": 0
+    },
+    "full_text": "夏日回首\n\n📷：@BOYSTV https://t.co/ImlHfjz4L3",
+    "publish_time": "2026-09-19T22:15:09"
+  },
+  {
+    "file_name": "HSlfd21aIAAsJNS.jpg",
+    "user": {
+      "screen_name": "BOYSTV",
+      "name": "BOYSTV"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSlfd21aIAAsJNS.jpg",
+    "read_time": "2026-09-19T23:02:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38453,
+      "timestamp": "2026-09-19T23:02:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 138898,
+      "size_mb": 0.13,
+      "timestamp": "2026-09-19T23:02:30",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/TY52HnnVew",
+    "publish_time": "2026-09-19T22:21:13"
+  },
+  {
+    "file_name": "HSlgwUYboAAbAF9.jpg",
+    "user": {
+      "screen_name": "ji_zhe30139",
+      "name": "冰冰"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSlgwUYboAAbAF9.jpg",
+    "read_time": "2026-09-19T23:02:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38454,
+      "timestamp": "2026-09-19T23:02:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 93925,
+      "size_mb": 0.09,
+      "timestamp": "2026-09-19T23:02:31",
+      "download_attempts": 0
+    },
+    "full_text": "状态就是还活着 https://t.co/uiYdzdKdHx",
+    "publish_time": "2026-09-19T22:26:51"
+  },
+  {
+    "file_name": "orGvsAUVbqH86hzF.mp4",
+    "user": {
+      "screen_name": "YoungOu123",
+      "name": "Young Ou"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2101318480129880064/vid/avc1/720x1196/orGvsAUVbqH86hzF.mp4?tag=29",
+    "read_time": "2026-09-19T23:02:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38455,
+      "timestamp": "2026-09-19T23:02:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 246334,
+      "size_mb": 0.23,
+      "timestamp": "2026-09-19T23:02:32",
+      "download_attempts": 0
+    },
+    "full_text": "自己动 https://t.co/azm3WDfA5B",
+    "publish_time": "2026-09-19T22:32:24"
+  },
+  {
+    "file_name": "U51aA3B8iOUIx7eR.mp4",
+    "user": {
+      "screen_name": "zhzkj162968",
+      "name": "人间乐园Yuki熟男采访"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2101319384539213824/vid/avc1/480x848/U51aA3B8iOUIx7eR.mp4?tag=14",
+    "read_time": "2026-09-19T23:02:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38456,
+      "timestamp": "2026-09-19T23:02:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 7506823,
+      "size_mb": 7.16,
+      "timestamp": "2026-09-19T23:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "沧州人夫讲课营养师第二部\n我发现北方男人普遍都保养的很好，第二次接受采访的人夫裤子一脱鸡吧一柱擎天，龟头饱满黝黑黝黑的肉棒还要帮女人扣逼，一直说骚话意淫做爱画面，一看就精力特别旺盛，最后还要喊着鸡吧射逼里，精液直接喷在床单上 https://t.co/y2unNKHXTl",
+    "publish_time": "2026-09-19T22:36:11"
+  },
+  {
+    "file_name": "HSlmrdzagAApvZN.png",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSlmrdzagAApvZN.png",
+    "read_time": "2026-09-19T23:02:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38457,
+      "timestamp": "2026-09-19T23:02:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 738162,
+      "size_mb": 0.7,
+      "timestamp": "2026-09-19T23:02:39",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/iuk0Qged6Z",
+    "publish_time": "2026-09-19T22:52:46"
   }
 ]
