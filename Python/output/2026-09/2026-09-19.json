@@ -1470,14 +1470,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (1881MB > 50MB)",
       "timestamp": "2026-09-19T17:02:13",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 1972411848,
       "size_mb": 1881.04,
-      "timestamp": "2026-09-19T17:02:13",
+      "timestamp": "2026-09-19T18:02:20",
       "download_attempts": 0
     },
     "full_text": "有時候也會喜歡這樣突然插到底😈 https://t.co/4LL3yMmKsY",
@@ -1612,5 +1612,109 @@
     },
     "full_text": "https://t.co/DTb74CQxuB",
     "publish_time": "2026-09-19T16:36:59"
+  },
+  {
+    "file_name": "Q9_EWrmEoxKZuSqH.mp4",
+    "user": {
+      "screen_name": "kaka_lac",
+      "name": "kaka"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2101236230394662912/vid/avc1/720x1280/Q9_EWrmEoxKZuSqH.mp4?tag=29",
+    "read_time": "2026-09-19T18:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38419,
+      "timestamp": "2026-09-19T18:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4318540,
+      "size_mb": 4.12,
+      "timestamp": "2026-09-19T18:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "为了感谢一直支持我的粉丝，专门建了个福利群～\n限时免费进，24小时有效！\n群里会发我平时不公开的完整版视频和私人日常写真，都是独家资源。\n唯一进群通道📷   https://t.co/lrydUZmgyz     （跳转浏览器打开）\n暗号；  宝子    （人机验证） https://t.co/Hoke0Nj6th",
+    "publish_time": "2026-09-19T17:05:48"
+  },
+  {
+    "file_name": "HSkavi0a0AA0AaP.jpg",
+    "user": {
+      "screen_name": "shejishi2020",
+      "name": "摄肌师"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSkavi0a0AA0AaP.jpg",
+    "read_time": "2026-09-19T18:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38420,
+      "timestamp": "2026-09-19T18:02:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 152770,
+      "size_mb": 0.15,
+      "timestamp": "2026-09-19T18:02:25",
+      "download_attempts": 0
+    },
+    "full_text": "dog slave\n#malephotography https://t.co/faceqbdMjZ",
+    "publish_time": "2026-09-19T17:20:58"
+  },
+  {
+    "file_name": "HSkaviyaQAEoR4o.jpg",
+    "user": {
+      "screen_name": "shejishi2020",
+      "name": "摄肌师"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSkaviyaQAEoR4o.jpg",
+    "read_time": "2026-09-19T18:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38421,
+      "timestamp": "2026-09-19T18:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 104786,
+      "size_mb": 0.1,
+      "timestamp": "2026-09-19T18:02:26",
+      "download_attempts": 0
+    },
+    "full_text": "dog slave\n#malephotography https://t.co/faceqbdMjZ",
+    "publish_time": "2026-09-19T17:20:58"
+  },
+  {
+    "file_name": "PEgu3_r_Y_ziN82f.mp4",
+    "user": {
+      "screen_name": "ZNXLRJ",
+      "name": "体育生直男日记"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2101246485069467648/vid/avc1/720x1270/PEgu3_r_Y_ziN82f.mp4?tag=14",
+    "read_time": "2026-09-19T18:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38422,
+      "timestamp": "2026-09-19T18:02:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 4840515,
+      "size_mb": 4.62,
+      "timestamp": "2026-09-19T18:02:28",
+      "download_attempts": 0
+    },
+    "full_text": "山东黑皮肌肉直男帅哥，长相很爷们，身材很性感，性张力拉满，大屌不光粗大还长，超硬挺一根，超快手速打飞机，撸射浓精喷满一手。 https://t.co/2CR8y6KQqV",
+    "publish_time": "2026-09-19T17:48:04"
   }
 ]
