@@ -2226,14 +2226,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (557MB > 50MB)",
       "timestamp": "2026-09-20T17:03:17",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 584531878,
       "size_mb": 557.45,
-      "timestamp": "2026-09-20T17:03:17",
+      "timestamp": "2026-09-20T18:03:40",
       "download_attempts": 0
     },
     "full_text": "😍😍😍 https://t.co/rSFUK11YVQ",
@@ -2264,5 +2264,109 @@
     },
     "full_text": "这是在对我做什么好舒服 https://t.co/pNChr8IYBf",
     "publish_time": "2026-09-20T16:26:10"
+  },
+  {
+    "file_name": "HSpjPzWbAAAPqL8.jpg",
+    "user": {
+      "screen_name": "thisisforoasis",
+      "name": "OASIS 2027"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSpjPzWbAAAPqL8.jpg",
+    "read_time": "2026-09-20T18:03:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38555,
+      "timestamp": "2026-09-20T18:03:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 52910,
+      "size_mb": 0.05,
+      "timestamp": "2026-09-20T18:03:40",
+      "download_attempts": 0
+    },
+    "full_text": "I LOVE YOU CHANNING TATUM!!!! https://t.co/cxkdqqJsuP",
+    "publish_time": "2026-09-20T17:16:11"
+  },
+  {
+    "file_name": "pFA7lqhyIwVs4Lfj.mp4",
+    "user": {
+      "screen_name": "thisisforoasis",
+      "name": "OASIS 2027"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1931917676546248704/vid/avc1/720x900/pFA7lqhyIwVs4Lfj.mp4?tag=21",
+    "read_time": "2026-09-20T18:03:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38556,
+      "timestamp": "2026-09-20T18:03:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 3092966,
+      "size_mb": 2.95,
+      "timestamp": "2026-09-20T18:03:42",
+      "download_attempts": 0
+    },
+    "full_text": "Channing Tatum commenting on posts about Zoe and Harry on Instagram  https://t.co/HDA1YuVI4x",
+    "publish_time": "2026-09-20T17:19:25"
+  },
+  {
+    "file_name": "HSpnNpBWUAA4hOL.jpg",
+    "user": {
+      "screen_name": "ali605063114862",
+      "name": "ali"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSpnNpBWUAA4hOL.jpg",
+    "read_time": "2026-09-20T18:03:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38557,
+      "timestamp": "2026-09-20T18:03:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 59220,
+      "size_mb": 0.06,
+      "timestamp": "2026-09-20T18:03:45",
+      "download_attempts": 0
+    },
+    "full_text": "正装大叔\n#帅气 #中年大叔 #直男 #白皮大叔 #熟男 #正装皮鞋 https://t.co/AXBiJR5M4X",
+    "publish_time": "2026-09-20T17:33:32"
+  },
+  {
+    "file_name": "HSpoVIvbUAAlNNM.jpg",
+    "user": {
+      "screen_name": "ow8lk",
+      "name": "陈陈陈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSpoVIvbUAAlNNM.jpg",
+    "read_time": "2026-09-20T18:03:35",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38558,
+      "timestamp": "2026-09-20T18:03:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 238254,
+      "size_mb": 0.23,
+      "timestamp": "2026-09-20T18:03:46",
+      "download_attempts": 0
+    },
+    "full_text": "缺点什么 https://t.co/miOVayS5hv",
+    "publish_time": "2026-09-20T17:38:24"
   }
 ]
