@@ -2696,14 +2696,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (70MB > 50MB)",
       "timestamp": "2026-09-20T21:03:11",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 74100245,
       "size_mb": 70.67,
-      "timestamp": "2026-09-20T21:03:11",
+      "timestamp": "2026-09-20T22:03:26",
       "download_attempts": 0
     },
     "full_text": "硬起来玩玩   想吃吗   看看你爹多硬\n\n仅此一号，认准@TopstoneL https://t.co/aRc7yCc3t2",
@@ -2786,5 +2786,111 @@
     },
     "full_text": "开袋即食 https://t.co/he7NtYdCxC",
     "publish_time": "2026-09-20T20:54:23"
+  },
+  {
+    "file_name": "HSqZT-3a0AACC91.jpg",
+    "user": {
+      "screen_name": "allen7460",
+      "name": "arthur"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSqZT-3a0AACC91.jpg",
+    "read_time": "2026-09-20T22:03:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38574,
+      "timestamp": "2026-09-20T22:03:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 158733,
+      "size_mb": 0.15,
+      "timestamp": "2026-09-20T22:03:26",
+      "download_attempts": 0
+    },
+    "full_text": "好久不見 https://t.co/vU3sh3dL5e",
+    "publish_time": "2026-09-20T21:12:25"
+  },
+  {
+    "file_name": "OjNCyj8n03SIfAy2.mp4",
+    "user": {
+      "screen_name": "HorgeL_",
+      "name": "Horge🤖"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2101666365908353024/vid/avc1/1256x720/OjNCyj8n03SIfAy2.mp4?tag=29",
+    "read_time": "2026-09-20T22:03:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38575,
+      "timestamp": "2026-09-20T22:03:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 542264,
+      "size_mb": 0.52,
+      "timestamp": "2026-09-20T22:03:29",
+      "download_attempts": 0
+    },
+    "full_text": "为了回馈广大粉丝对我的支持！今天进我福利群🌹的将不收取任何费用，无门槛；可观看所有完整版视频\n进群道口👉；  https://t.co/olRP3PDY9E\n暗号：H（注意素质） https://t.co/aqDdmK6rPH",
+    "publish_time": "2026-09-20T21:34:49"
+  },
+  {
+    "file_name": "HSqhATuaEAATJ7i.jpg",
+    "user": {
+      "screen_name": "km139139",
+      "name": "貘"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HSqhATuaEAATJ7i.jpg",
+    "read_time": "2026-09-20T22:03:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38576,
+      "timestamp": "2026-09-20T22:03:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 127405,
+      "size_mb": 0.12,
+      "timestamp": "2026-09-20T22:03:31",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/NHqHdJotef",
+    "publish_time": "2026-09-20T21:46:01"
+  },
+  {
+    "file_name": "KdvYr_o7m536qRe0.mp4",
+    "user": {
+      "screen_name": "josephmrkao",
+      "name": "185 Joseph"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2101162276460060672/vid/avc1/1080x1920/KdvYr_o7m536qRe0.mp4?tag=29",
+    "read_time": "2026-09-20T22:03:25",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (65MB > 50MB)",
+      "timestamp": "2026-09-20T22:03:38",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size": 68439539,
+      "size_mb": 65.27,
+      "timestamp": "2026-09-20T22:03:38",
+      "download_attempts": 0
+    },
+    "full_text": "Call to Bow Duty 🐆\n\nObedience is how I show my desire.\nDiscipline is how I do my job.\nStrength is how I push to the limit.\nStrong and fearless, wild with passion,\nthat’s my promise to you.🫡\n\nBut first… should I bow to Bow?\n@c4p4if \n\n服從，是我情慾的展現\n精實，是我工作的原則 https://t.co/muwfJZL0j6",
+    "publish_time": "2026-09-20T22:01:00"
   }
 ]
