@@ -279,5 +279,19 @@
     "tweetUrl": "https://x.com/youdi/status/2101867814839820300",
     "fullText": "https://t.co/L7a2Mwhi58",
     "publishTime": "2026-09-21T10:55:12"
+  },
+  {
+    "user": {
+      "screenName": "hymanjuan4",
+      "name": "HL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2101869574744571904/vid/avc1/720x1280/YmDhcGju6yO4xLAk.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/hymanjuan4/status/2101869599696572446",
+    "fullText": "https://t.co/mMgN9vJTlv",
+    "publishTime": "2026-09-21T11:02:18"
   }
 ]

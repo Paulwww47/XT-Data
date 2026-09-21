@@ -518,5 +518,31 @@
     },
     "full_text": "https://t.co/L7a2Mwhi58",
     "publish_time": "2026-09-21T10:55:12"
+  },
+  {
+    "file_name": "YmDhcGju6yO4xLAk.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2101869574744571904/vid/avc1/720x1280/YmDhcGju6yO4xLAk.mp4?tag=29",
+    "read_time": "2026-09-21T12:03:12",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 38614,
+      "timestamp": "2026-09-21T12:03:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 1818048,
+      "size_mb": 1.73,
+      "timestamp": "2026-09-21T12:03:13",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/mMgN9vJTlv",
+    "publish_time": "2026-09-21T11:02:18"
   }
 ]
