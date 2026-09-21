@@ -1579,7 +1579,7 @@
       "name": "Appetency.",
       "screenName": "chuanzhang0320",
       "createdAt": "Thu Dec 25 15:28:07 +0000 2025",
-      "description": "188🚪 平静的大海培养不出优秀的水手",
+      "description": "带着你的口令来🚪 平静的大海培养不出优秀的水手",
       "entities": {
         "description": {}
       },
@@ -7675,7 +7675,20 @@
       "createdAt": "Tue Oct 04 02:46:02 +0000 2022",
       "description": "BIBLICAL",
       "entities": {
-        "description": {}
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/sacinfilm",
+              "expanded_url": "http://instagram.com/sacinfilm",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/eOOLAmGII7"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1577127831758594048/1789399482",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2101625448048586752/fdxQaQ_3_normal.jpg"
