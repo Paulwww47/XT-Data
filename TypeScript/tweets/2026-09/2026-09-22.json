@@ -278,5 +278,33 @@
     "tweetUrl": "https://x.com/chuanzhang0320/status/2102165411374768314",
     "fullText": "👻 https://t.co/3PjabKwBfg",
     "publishTime": "2026-09-22T06:37:45"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HSxtdE9aYAAbZNK.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2102175478694187456",
+    "fullText": "https://t.co/ZucgurHdZF",
+    "publishTime": "2026-09-22T07:17:45"
+  },
+  {
+    "user": {
+      "screenName": "liu6864",
+      "name": "CL357"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2102176086947680256/vid/avc1/720x960/zXQDkS1yqd6TsAJq.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/liu6864/status/2102176956481458665",
+    "fullText": "再一次播种至大地。似乎可以拍个黑袜版~ https://t.co/WfySUhmiLW",
+    "publishTime": "2026-09-22T07:23:37"
   }
 ]
