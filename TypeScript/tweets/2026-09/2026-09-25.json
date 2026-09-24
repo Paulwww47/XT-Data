@@ -209,5 +209,19 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2103226922604109972",
     "fullText": "https://t.co/utdbfvSjeU",
     "publishTime": "2026-09-25T04:55:49"
+  },
+  {
+    "user": {
+      "screenName": "ali605063114862",
+      "name": "ali"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTArN68WUAASrqw.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/ali605063114862/status/2103228555710919132",
+    "fullText": "https://t.co/qBdzVqACJg",
+    "publishTime": "2026-09-25T05:02:18"
   }
 ]
