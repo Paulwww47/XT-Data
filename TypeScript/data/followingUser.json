@@ -3148,6 +3148,20 @@
     }
   },
   {
+    "restId": "1864910792111591424",
+    "legacy": {
+      "name": "大野驴",
+      "screenName": "henantop",
+      "createdAt": "Fri Dec 06 05:52:44 +0000 2024",
+      "description": "肌肉💪双 接定制 出Q 2827227127",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1864910888391839745/YeYwXGts_normal.jpg"
+    }
+  },
+  {
     "restId": "1625081244345311235",
     "legacy": {
       "name": "HengYu",
@@ -4160,30 +4174,9 @@
       "name": "kaka",
       "screenName": "kaka_lac",
       "createdAt": "Wed Oct 18 18:29:53 +0000 2017",
-      "description": "情趣用品店:kaka carnal成人玩具店，免费会员群：https://t.co/cOe28r99l0，内衣丝袜店：他氏内衣集合店，https://t.co/1Y5bvGsvxL，防走丢@kakalac_。",
+      "description": "情趣用品店:kaka carnal成人玩具店，，内衣丝袜店：他氏内衣集合店，防走丢@kakalac_。",
       "entities": {
-        "description": {
-          "urls": [
-            {
-              "display_url": "t.me/Kakacarnal",
-              "expanded_url": "https://t.me/Kakacarnal",
-              "indices": [
-                29,
-                52
-              ],
-              "url": "https://t.co/cOe28r99l0"
-            },
-            {
-              "display_url": "t.me/toxic_taobao",
-              "expanded_url": "https://t.me/toxic_taobao",
-              "indices": [
-                67,
-                90
-              ],
-              "url": "https://t.co/1Y5bvGsvxL"
-            }
-          ]
-        },
+        "description": {},
         "url": {
           "urls": [
             {
@@ -8075,7 +8068,7 @@
       "name": "vm",
       "screenName": "vmya_",
       "createdAt": "Fri May 13 03:29:11 +0000 2022",
-      "description": "直男 | PhD 工程师 | 不约 | 原创",
+      "description": "直男 | PhD 工程师 | 不约 | 原创\n小号@vmya__ （勿关注）",
       "entities": {
         "description": {},
         "url": {
@@ -8087,7 +8080,7 @@
                 0,
                 23
               ],
-              "url": "https://t.co/Q2kXut9vzp"
+              "url": "https://t.co/Q2kXut8XJR"
             }
           ]
         }
