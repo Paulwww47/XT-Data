@@ -2474,5 +2474,83 @@
     },
     "full_text": "中秋 https://t.co/x4KJhJp0hT",
     "publish_time": "2026-09-25T18:57:38"
+  },
+  {
+    "file_name": "HTDxaeUbcAAk0Oe.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTDxaeUbcAAk0Oe.jpg",
+    "read_time": "2026-09-25T20:03:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39108,
+      "timestamp": "2026-09-25T20:03:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 98338,
+      "size_mb": 0.09,
+      "timestamp": "2026-09-25T20:03:55",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ogYTgIOZzM",
+    "publish_time": "2026-09-25T19:28:12"
+  },
+  {
+    "file_name": "HTD2mRQbQAAkjFx.jpg",
+    "user": {
+      "screen_name": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTD2mRQbQAAkjFx.jpg",
+    "read_time": "2026-09-25T20:03:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39109,
+      "timestamp": "2026-09-25T20:03:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 116216,
+      "size_mb": 0.11,
+      "timestamp": "2026-09-25T20:03:57",
+      "download_attempts": 0
+    },
+    "full_text": "出发 https://t.co/Omwbs3QXAE",
+    "publish_time": "2026-09-25T19:50:52"
+  },
+  {
+    "file_name": "HTD4Nx2bYAAKYHf.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTD4Nx2bYAAKYHf.jpg",
+    "read_time": "2026-09-25T20:03:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39110,
+      "timestamp": "2026-09-25T20:04:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 307908,
+      "size_mb": 0.29,
+      "timestamp": "2026-09-25T20:03:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/8BMtN8Txw0",
+    "publish_time": "2026-09-25T19:57:58"
   }
 ]
