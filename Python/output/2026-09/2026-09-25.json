@@ -1628,14 +1628,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (132MB > 50MB)",
       "timestamp": "2026-09-25T15:04:42",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 139172571,
       "size_mb": 132.73,
-      "timestamp": "2026-09-25T15:04:42",
+      "timestamp": "2026-09-25T16:03:30",
       "download_attempts": 0
     },
     "full_text": "勾引肉装直男，喜欢乖乖的，还是猛点的 https://t.co/w2G6EEJ4hH",
@@ -1656,14 +1656,14 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (88MB > 50MB)",
       "timestamp": "2026-09-25T15:04:51",
-      "notification_sent": false
+      "notification_sent": true
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size": 92662673,
       "size_mb": 88.37,
-      "timestamp": "2026-09-25T15:04:51",
+      "timestamp": "2026-09-25T16:03:38",
       "download_attempts": 0
     },
     "full_text": "勾引肉装直男，喜欢乖乖的，还是猛点的 https://t.co/w2G6EEJ4hH",
@@ -1746,5 +1746,135 @@
     },
     "full_text": "190cm https://t.co/PFE1a50OjB",
     "publish_time": "2026-09-25T15:02:49"
+  },
+  {
+    "file_name": "WY0giMwLhV3t7fVF.mp4",
+    "user": {
+      "screen_name": "kaka_lac",
+      "name": "kaka"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2103384296279142400/vid/avc1/1080x1920/WY0giMwLhV3t7fVF.mp4?tag=29",
+    "read_time": "2026-09-25T16:03:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39080,
+      "timestamp": "2026-09-25T16:03:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 9313184,
+      "size_mb": 8.88,
+      "timestamp": "2026-09-25T16:03:38",
+      "download_attempts": 0
+    },
+    "full_text": "为了回馈广大粉丝对我的支持！今天进我福利群🌹的将不收取任何费用，对我的粉丝们限时无门槛📷进入，可观看所有视频和写真！\n唯一通道：https://t.co/BrZVqTS0uC\n暗号：KAK https://t.co/eFqYMo1qS5",
+    "publish_time": "2026-09-25T15:21:32"
+  },
+  {
+    "file_name": "HTC507rbsAA1KTB.jpg",
+    "user": {
+      "screen_name": "Nonglaoshi520",
+      "name": "长沙农老师"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTC507rbsAA1KTB.jpg",
+    "read_time": "2026-09-25T16:03:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39081,
+      "timestamp": "2026-09-25T16:03:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 116282,
+      "size_mb": 0.11,
+      "timestamp": "2026-09-25T16:03:43",
+      "download_attempts": 0
+    },
+    "full_text": "中秋快乐，宝宝们！🥮\n新电报群，需要进的私信。或者电报找我：@HappyLaoZi https://t.co/xP4uXapFUW",
+    "publish_time": "2026-09-25T15:25:21"
+  },
+  {
+    "file_name": "HTC507rbwAAZcxL.jpg",
+    "user": {
+      "screen_name": "Nonglaoshi520",
+      "name": "长沙农老师"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTC507rbwAAZcxL.jpg",
+    "read_time": "2026-09-25T16:03:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39082,
+      "timestamp": "2026-09-25T16:03:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 173225,
+      "size_mb": 0.17,
+      "timestamp": "2026-09-25T16:03:44",
+      "download_attempts": 0
+    },
+    "full_text": "中秋快乐，宝宝们！🥮\n新电报群，需要进的私信。或者电报找我：@HappyLaoZi https://t.co/xP4uXapFUW",
+    "publish_time": "2026-09-25T15:25:21"
+  },
+  {
+    "file_name": "HTC5072bMAEsXAF.jpg",
+    "user": {
+      "screen_name": "Nonglaoshi520",
+      "name": "长沙农老师"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTC5072bMAEsXAF.jpg",
+    "read_time": "2026-09-25T16:03:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39083,
+      "timestamp": "2026-09-25T16:03:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 61438,
+      "size_mb": 0.06,
+      "timestamp": "2026-09-25T16:03:45",
+      "download_attempts": 0
+    },
+    "full_text": "中秋快乐，宝宝们！🥮\n新电报群，需要进的私信。或者电报找我：@HappyLaoZi https://t.co/xP4uXapFUW",
+    "publish_time": "2026-09-25T15:25:21"
+  },
+  {
+    "file_name": "HTDAnEnbcAAkamX.jpg",
+    "user": {
+      "screen_name": "sha_la82602",
+      "name": "249"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTDAnEnbcAAkamX.jpg",
+    "read_time": "2026-09-25T16:03:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39084,
+      "timestamp": "2026-09-25T16:03:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 63608,
+      "size_mb": 0.06,
+      "timestamp": "2026-09-25T16:03:45",
+      "download_attempts": 0
+    },
+    "full_text": "中秋快乐🎑\n\n#健身 #健身日常 #胸肌 #腹肌 https://t.co/10q8Rooi91",
+    "publish_time": "2026-09-25T15:54:59"
   }
 ]
