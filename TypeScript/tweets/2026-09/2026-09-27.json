@@ -1193,5 +1193,33 @@
     "tweetUrl": "https://x.com/lovesamoyed_tw/status/2104193831650656305",
     "fullText": "New update on of",
     "publishTime": "2026-09-27T20:57:58"
+  },
+  {
+    "user": {
+      "screenName": "diedie65450999",
+      "name": "die die"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2104207379126734849/pu/vid/avc1/720x1280/-GImLs4PZfKSUXKR.mp4?tag=12"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/diedie65450999/status/2104207512560156702",
+    "fullText": "hi https://t.co/gNFaf0gWKF",
+    "publishTime": "2026-09-27T21:52:19"
+  },
+  {
+    "user": {
+      "screenName": "aogereal",
+      "name": "翱哥"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTOlwaga0AArYoR.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/aogereal/status/2104207713433698737",
+    "fullText": "🩲 https://t.co/hjtlvHsecB",
+    "publishTime": "2026-09-27T21:53:07"
   }
 ]
