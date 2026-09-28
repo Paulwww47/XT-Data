@@ -1918,8 +1918,8 @@
       "entities": {
         "description": {}
       },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1926479764639920128/1789613105",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2100416325948678144/264M2Uqo_normal.jpg"
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1926479764639920128/1790562701",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2104398603536236544/LFCnY9gH_normal.jpg"
     }
   },
   {
@@ -5481,8 +5481,8 @@
           ]
         }
       },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/860593362134609920/1739085834",
-      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1906395825934352384/Hkv2vm-I_normal.jpg"
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/860593362134609920/1790573092",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2104442148825485312/mHofjqha_normal.jpg"
     }
   },
   {
@@ -9737,6 +9737,20 @@
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1870366521295261696/1736532215",
       "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1930304391845748736/mDnLLmxl_normal.jpg"
+    }
+  },
+  {
+    "restId": "1641124152382832667",
+    "legacy": {
+      "name": "自闭郭包包",
+      "screenName": "zbgubobo165253",
+      "createdAt": "Wed Mar 29 17:04:30 +0000 2023",
+      "description": "1",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1952140856565305344/tOgHEIG1_normal.jpg"
     }
   },
   {
