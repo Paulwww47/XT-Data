@@ -138,5 +138,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2104670127451234548",
     "fullText": "https://t.co/0pX3IaIeMZ",
     "publishTime": "2026-09-29T04:30:35"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTVSOT3bcAAUOQt.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2104678816123941162",
+    "fullText": "https://t.co/jtdhkVsuTL",
+    "publishTime": "2026-09-29T05:05:07"
+  },
+  {
+    "user": {
+      "screenName": "hymanjuan4",
+      "name": "HL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2104679927115395072/vid/avc1/360x640/VeWyEcxNO-DMQhft.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/hymanjuan4/status/2104679985319686536",
+    "fullText": "https://t.co/uK6bHRxob9",
+    "publishTime": "2026-09-29T05:09:46"
+  },
+  {
+    "user": {
+      "screenName": "hymanjuan4",
+      "name": "HL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTVWTR4bQAADvxM.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/hymanjuan4/status/2104683295397302697",
+    "fullText": "https://t.co/FJFFT88qOV",
+    "publishTime": "2026-09-29T05:22:55"
   }
 ]
