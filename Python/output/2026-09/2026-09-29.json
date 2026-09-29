@@ -832,5 +832,83 @@
     },
     "full_text": "乾 這個有人承受得住？ https://t.co/ce56LmA9Ha",
     "publish_time": "2026-09-29T11:59:07"
+  },
+  {
+    "file_name": "HTW1GGwaoAAtmLf.mp4",
+    "user": {
+      "screen_name": "eccmair",
+      "name": "焛"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/HTW1GGwaoAAtmLf.mp4",
+    "read_time": "2026-09-29T13:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39507,
+      "timestamp": "2026-09-29T13:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 50053,
+      "size_mb": 0.05,
+      "timestamp": "2026-09-29T13:01:51",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/LSKdTI2mQJ",
+    "publish_time": "2026-09-29T12:17:07"
+  },
+  {
+    "file_name": "HTW1wOuaoAAzBdl.jpg",
+    "user": {
+      "screen_name": "david4fun4",
+      "name": "Dr. David大卫勃士"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTW1wOuaoAAzBdl.jpg",
+    "read_time": "2026-09-29T13:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39508,
+      "timestamp": "2026-09-29T13:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 173599,
+      "size_mb": 0.17,
+      "timestamp": "2026-09-29T13:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "Happy Folsom⛓️ https://t.co/V6zo8Nivwl",
+    "publish_time": "2026-09-29T12:19:57"
+  },
+  {
+    "file_name": "MmcTG0dCmt-rcUhd.mp4",
+    "user": {
+      "screen_name": "Jeff07751908",
+      "name": "杰尼龟"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2104795791944728576/vid/avc1/720x1280/MmcTG0dCmt-rcUhd.mp4?tag=29",
+    "read_time": "2026-09-29T13:01:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39509,
+      "timestamp": "2026-09-29T13:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size": 815397,
+      "size_mb": 0.78,
+      "timestamp": "2026-09-29T13:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "晨勃了#钻石男大 https://t.co/B7Zpa573K7",
+    "publish_time": "2026-09-29T12:50:01"
   }
 ]
