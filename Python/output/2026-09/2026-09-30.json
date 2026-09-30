@@ -1941,7 +1941,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (62.28MB > 50.00MB)",
       "timestamp": "2026-09-30T14:01:48",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -1952,5 +1952,109 @@
     },
     "full_text": "操黑袜大🐔0\n是一种怎样的体验呢？ https://t.co/GYUvwHDoR5",
     "publish_time": "2026-09-30T13:29:32"
+  },
+  {
+    "tweet_id": "2105178367414972601",
+    "file_name": "HTcYjwCaMAAw8j1.jpg",
+    "user": {
+      "screen_name": "d461385024",
+      "name": "大猛一"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTcYjwCaMAAw8j1.jpg",
+    "read_time": "2026-09-30T15:01:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39630,
+      "timestamp": "2026-09-30T15:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-09-30T15:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/NCQEbz9r7R",
+    "publish_time": "2026-09-30T14:10:09"
+  },
+  {
+    "tweet_id": "2105188854198075846",
+    "file_name": "ZUI_xHTXWg8MmOG7.mp4",
+    "user": {
+      "screen_name": "vmya_",
+      "name": "vm"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2105188819901239297/vid/avc1/1080x1920/ZUI_xHTXWg8MmOG7.mp4?tag=29",
+    "read_time": "2026-09-30T15:01:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39631,
+      "timestamp": "2026-09-30T15:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 2.04,
+      "timestamp": "2026-09-30T15:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/KS1fJgIddA",
+    "publish_time": "2026-09-30T14:51:50"
+  },
+  {
+    "tweet_id": "2105190213949784518",
+    "file_name": "HTcjU7KaoAAJTdG.jpg",
+    "user": {
+      "screen_name": "XXxLin18cn",
+      "name": "小林不小"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTcjU7KaoAAJTdG.jpg",
+    "read_time": "2026-09-30T15:01:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39632,
+      "timestamp": "2026-09-30T15:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-09-30T15:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/mxwcXYqzt2",
+    "publish_time": "2026-09-30T14:57:14"
+  },
+  {
+    "tweet_id": "2105190213949784518",
+    "file_name": "HTcjU7MaYAA5Aks.jpg",
+    "user": {
+      "screen_name": "XXxLin18cn",
+      "name": "小林不小"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTcjU7MaYAA5Aks.jpg",
+    "read_time": "2026-09-30T15:01:59",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39633,
+      "timestamp": "2026-09-30T15:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.07,
+      "timestamp": "2026-09-30T15:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/mxwcXYqzt2",
+    "publish_time": "2026-09-30T14:57:14"
   }
 ]
