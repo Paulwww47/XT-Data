@@ -2888,5 +2888,57 @@
     },
     "full_text": "让鸟出来透透气 #黑吊 #裸野 https://t.co/4JJ82dJmtf",
     "publish_time": "2026-09-30T17:54:09"
+  },
+  {
+    "tweet_id": "2105236830597922816",
+    "file_name": "HTdNvM7bgAA2HUd.jpg",
+    "user": {
+      "screen_name": "XXxLin18cn",
+      "name": "小林不小"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTdNvM7bgAA2HUd.jpg",
+    "read_time": "2026-09-30T19:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39666,
+      "timestamp": "2026-09-30T19:01:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.06,
+      "timestamp": "2026-09-30T19:01:50",
+      "download_attempts": 0
+    },
+    "full_text": "沉睡中的小鸟 https://t.co/R2SAPq4PHB",
+    "publish_time": "2026-09-30T18:02:28"
+  },
+  {
+    "tweet_id": "2105241419757805769",
+    "file_name": "XaVpsY5Jq1aWr4RG.mp4",
+    "user": {
+      "screen_name": "Mateusdiasotoni",
+      "name": "直男女记者77"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2105241321913167872/vid/avc1/850x1506/XaVpsY5Jq1aWr4RG.mp4?tag=29",
+    "read_time": "2026-09-30T19:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39667,
+      "timestamp": "2026-09-30T19:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 14.41,
+      "timestamp": "2026-09-30T19:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "兵哥哥，骚成啥样了 https://t.co/QyjxmWNiyd",
+    "publish_time": "2026-09-30T18:20:42"
   }
 ]
