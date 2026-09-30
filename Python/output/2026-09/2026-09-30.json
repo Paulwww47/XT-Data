@@ -988,5 +988,83 @@
     },
     "full_text": "brandon_lau https://t.co/7G162hD5PL",
     "publish_time": "2026-09-30T05:40:10"
+  },
+  {
+    "tweet_id": "2105110669511311503",
+    "file_name": "HTba_imaUAAHF5s.jpg",
+    "user": {
+      "screen_name": "Big_straight_H",
+      "name": "荒"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTba_imaUAAHF5s.jpg",
+    "read_time": "2026-09-30T10:02:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39594,
+      "timestamp": "2026-09-30T10:02:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.19,
+      "timestamp": "2026-09-30T10:02:18",
+      "download_attempts": 0
+    },
+    "full_text": "當然要選1+3 \n一夫+一妻 https://t.co/4fj6S3cMPF",
+    "publish_time": "2026-09-30T09:41:09"
+  },
+  {
+    "tweet_id": "2105114727215178023",
+    "file_name": "vKGIAgiATgLZonbB.mp4",
+    "user": {
+      "screen_name": "paeching",
+      "name": "屁吃"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2105114710706384896/vid/avc1/720x748/vKGIAgiATgLZonbB.mp4?tag=29",
+    "read_time": "2026-09-30T10:02:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39595,
+      "timestamp": "2026-09-30T10:02:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-09-30T10:02:20",
+      "download_attempts": 0
+    },
+    "full_text": "🌞 https://t.co/t060kiikXi",
+    "publish_time": "2026-09-30T09:57:16"
+  },
+  {
+    "tweet_id": "2105115299632865487",
+    "file_name": "HTbfLR_acAAil7F.jpg",
+    "user": {
+      "screen_name": "xiaofeilius",
+      "name": "小肥刘"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTbfLR_acAAil7F.jpg",
+    "read_time": "2026-09-30T10:02:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39596,
+      "timestamp": "2026-09-30T10:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.18,
+      "timestamp": "2026-09-30T10:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "军犬 https://t.co/Jj36TgxW9s",
+    "publish_time": "2026-09-30T09:59:33"
   }
 ]
