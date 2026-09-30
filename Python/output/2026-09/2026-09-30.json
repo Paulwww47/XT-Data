@@ -1794,5 +1794,163 @@
     },
     "full_text": "🥽 https://t.co/FwlJcwv3eA",
     "publish_time": "2026-09-30T12:41:33"
+  },
+  {
+    "tweet_id": "2105164791061139622",
+    "file_name": "HTcMN1ZaQAAbqPq.jpg",
+    "user": {
+      "screen_name": "Tecres4",
+      "name": "Tecres"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTcMN1ZaQAAbqPq.jpg",
+    "read_time": "2026-09-30T14:01:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39625,
+      "timestamp": "2026-09-30T14:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-09-30T14:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "后侧链训练痕迹越来越明显了。 https://t.co/ydoKOpIdt2",
+    "publish_time": "2026-09-30T13:16:12"
+  },
+  {
+    "tweet_id": "2105164791061139622",
+    "file_name": "HTcMN3raMAAEEgv.jpg",
+    "user": {
+      "screen_name": "Tecres4",
+      "name": "Tecres"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTcMN3raMAAEEgv.jpg",
+    "read_time": "2026-09-30T14:01:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39626,
+      "timestamp": "2026-09-30T14:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-09-30T14:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "后侧链训练痕迹越来越明显了。 https://t.co/ydoKOpIdt2",
+    "publish_time": "2026-09-30T13:16:12"
+  },
+  {
+    "tweet_id": "2105164791061139622",
+    "file_name": "HTcMN3taoAAGk60.jpg",
+    "user": {
+      "screen_name": "Tecres4",
+      "name": "Tecres"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTcMN3taoAAGk60.jpg",
+    "read_time": "2026-09-30T14:01:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39627,
+      "timestamp": "2026-09-30T14:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-09-30T14:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "后侧链训练痕迹越来越明显了。 https://t.co/ydoKOpIdt2",
+    "publish_time": "2026-09-30T13:16:12"
+  },
+  {
+    "tweet_id": "2105166056545558746",
+    "file_name": "HTcNXaWacAAfHHP.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTcNXaWacAAfHHP.jpg",
+    "read_time": "2026-09-30T14:01:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39628,
+      "timestamp": "2026-09-30T14:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-09-30T14:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "不臭 https://t.co/n9p1mT9GF2",
+    "publish_time": "2026-09-30T13:21:14"
+  },
+  {
+    "tweet_id": "2105166056545558746",
+    "file_name": "HTcNXaSaMAAAzZ3.jpg",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTcNXaSaMAAAzZ3.jpg",
+    "read_time": "2026-09-30T14:01:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39629,
+      "timestamp": "2026-09-30T14:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-09-30T14:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "不臭 https://t.co/n9p1mT9GF2",
+    "publish_time": "2026-09-30T13:21:14"
+  },
+  {
+    "tweet_id": "2105168143824146601",
+    "file_name": "znCJi9Z35PvGqFnS.mp4",
+    "user": {
+      "screen_name": "OnionSdo",
+      "name": "昂尼欧OnionS"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2105166872069144576/vid/avc1/720x1280/znCJi9Z35PvGqFnS.mp4?tag=29",
+    "read_time": "2026-09-30T14:01:43",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (62.28MB > 50.00MB)",
+      "timestamp": "2026-09-30T14:01:48",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 62.28,
+      "timestamp": "2026-09-30T14:01:48",
+      "download_attempts": 0
+    },
+    "full_text": "操黑袜大🐔0\n是一种怎样的体验呢？ https://t.co/GYUvwHDoR5",
+    "publish_time": "2026-09-30T13:29:32"
   }
 ]
