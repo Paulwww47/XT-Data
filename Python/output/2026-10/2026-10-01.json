@@ -3734,8 +3734,8 @@
       "success": false,
       "error_type": "download_error",
       "message": "404 Client Error: Not Found for url: https://video.twimg.com/amplify_video/2105672404399722496/vid/avc1/720x1280/DHeMNnMfK_NIuZ0e.mp4?tag=29",
-      "timestamp": "2026-10-02T00:02:07",
-      "download_attempts": 2
+      "timestamp": "2026-10-02T01:02:34",
+      "download_attempts": 3
     },
     "full_text": "百万级男网红邀你参与私享淫趴 https://t.co/wnLjmUafJ7",
     "publish_time": "2026-10-01T22:56:16"
@@ -3938,7 +3938,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (71.51MB > 50.00MB)",
       "timestamp": "2026-10-02T00:02:19",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
