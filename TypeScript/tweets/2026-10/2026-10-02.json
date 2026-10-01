@@ -58,6 +58,23 @@
   },
   {
     "user": {
+      "screenName": "kaobei2000",
+      "name": "拷贝裂幵"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTkACYGWEAAJesI.jpg",
+      "https://pbs.twimg.com/media/HTkACYGWwAAcy8N.jpg",
+      "https://pbs.twimg.com/media/HTkACYMWQAA5tnd.jpg",
+      "https://pbs.twimg.com/media/HTkACYNXAAA4XCw.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/kaobei2000/status/2105714359229919630",
+    "fullText": "想被叫 https://t.co/cAezhDrjyW",
+    "publishTime": "2026-10-02T01:40:00"
+  },
+  {
+    "user": {
       "screenName": "52778zhinan",
       "name": "有求必硬"
     },
@@ -113,5 +130,31 @@
     "tweetUrl": "https://x.com/Forestwoodwood/status/2105737909135646765",
     "fullText": "🌈",
     "publishTime": "2026-10-02T03:13:34"
+  },
+  {
+    "user": {
+      "screenName": "rthurz",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/rthurz/status/2105754823044018651",
+    "fullText": "เค้าทำอะไรให้ก็หัดขอบคุณหรือชมเค้าบ้าง คำขอบคุณพูดได้ไม่ลดอีโก้ตัวเองมากนักหรอก แค่ขอบคุณอะนึกออกมั้ย 😊",
+    "publishTime": "2026-10-02T04:20:47"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTksSlEasAAuSQk.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2105763004742795302",
+    "fullText": "https://t.co/4Vdcnu5VBT",
+    "publishTime": "2026-10-02T04:53:18"
   }
 ]
