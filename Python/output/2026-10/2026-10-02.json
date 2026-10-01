@@ -362,5 +362,57 @@
     },
     "full_text": "https://t.co/4Vdcnu5VBT",
     "publish_time": "2026-10-02T04:53:18"
+  },
+  {
+    "tweet_id": "2105773004382933324",
+    "file_name": "HTk1YPGbQAAIXYg.jpg",
+    "user": {
+      "screen_name": "c558668",
+      "name": "0m"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTk1YPGbQAAIXYg.jpg",
+    "read_time": "2026-10-02T06:02:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39881,
+      "timestamp": "2026-10-02T06:02:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.17,
+      "timestamp": "2026-10-02T06:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "高仿 https://t.co/WmtgfzOVFz",
+    "publish_time": "2026-10-02T05:33:02"
+  },
+  {
+    "tweet_id": "2105773004382933324",
+    "file_name": "HTk1YPDbAAAnh8t.jpg",
+    "user": {
+      "screen_name": "c558668",
+      "name": "0m"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTk1YPDbAAAnh8t.jpg",
+    "read_time": "2026-10-02T06:02:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39882,
+      "timestamp": "2026-10-02T06:02:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.21,
+      "timestamp": "2026-10-02T06:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "高仿 https://t.co/WmtgfzOVFz",
+    "publish_time": "2026-10-02T05:33:02"
   }
 ]
