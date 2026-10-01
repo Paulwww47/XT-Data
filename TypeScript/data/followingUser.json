@@ -1983,9 +1983,34 @@
       "name": "亲爱的小龙",
       "screenName": "DearxLong",
       "createdAt": "Sun May 25 03:26:00 +0000 2025",
-      "description": "Content creator for episodes of various life styles in East Asia.\nTelgram/WeChat/QQ/Bilibili ID: DearxLong",
+      "description": "Content creator for episodes of various life styles in East Asia.\nTelegram/WeChat/QQ/Bilibili ID: DearxLong\nFans-only-clips here: https://t.co/ERxk6vescs",
       "entities": {
-        "description": {}
+        "description": {
+          "urls": [
+            {
+              "display_url": "t.me/+Q-LcBW4KPh41N…",
+              "expanded_url": "https://t.me/+Q-LcBW4KPh41NGZl",
+              "indices": [
+                130,
+                153
+              ],
+              "url": "https://t.co/ERxk6vescs"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/+Ji8E4ur85680N…",
+              "expanded_url": "https://t.me/+Ji8E4ur85680NGY1",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/XzGsHgn5RO"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1926479764639920128/1790562701",
       "profileImageUrlHttps": ""
@@ -3108,45 +3133,6 @@
         "description": {}
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1372658526963699716/1656949343",
-      "profileImageUrlHttps": ""
-    }
-  },
-  {
-    "restId": "2041804511270912000",
-    "legacy": {
-      "name": "黑皮阿黎",
-      "screenName": "Happyali0809",
-      "createdAt": "Wed Apr 08 09:05:14 +0000 2026",
-      "description": "🚪168 加🛰️➡️Happy-ali0809\n抖音and小红书➡️黑皮阿黎 \n荤水版➡️@Happyali01\n订阅➡️ https://t.co/QOYHPekHPW",
-      "entities": {
-        "description": {
-          "urls": [
-            {
-              "display_url": "fansone.co/Happali8090",
-              "expanded_url": "https://fansone.co/Happali8090",
-              "indices": [
-                62,
-                85
-              ],
-              "url": "https://t.co/QOYHPekHPW"
-            }
-          ]
-        },
-        "url": {
-          "urls": [
-            {
-              "display_url": "t.me/+kLUN6MCFuHVhY…",
-              "expanded_url": "https://t.me/+kLUN6MCFuHVhYzJh",
-              "indices": [
-                0,
-                23
-              ],
-              "url": "https://t.co/oyYqr8bb51"
-            }
-          ]
-        }
-      },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2041804511270912000/1780040112",
       "profileImageUrlHttps": ""
     }
   },
@@ -5977,7 +5963,7 @@
       "name": "膽小被動又欠玩🐤🐤的變態N🌈",
       "screenName": "N92328292",
       "createdAt": "Thu Sep 21 05:33:49 +0000 2023",
-      "description": "18禁，台中179.68.side，不喜1069及互玩，想被矇眼控射（可約無地）不易射，可任你拍攝直播無碼po網。另外，想隨時從監視器觀看生活隱私可私我，下載app並簡單註冊，就能透過監控隨時下達語音指令。\n#曝光癖 #被窺癖",
+      "description": "18禁，台中179.68.side，不喜1069及互玩，想被矇眼控射（可約無地）不易射，可任你拍攝直播無碼po網。另外，想隨時從監視器觀看生活隱私可私我，下載app並簡單註冊，就能透過監控隨時下達語音指令。\n10.15～10.17台北米尼（裸睡歡迎爬床玩射多次）\n#曝光癖 #被窺癖",
       "entities": {
         "description": {}
       },
@@ -7559,7 +7545,7 @@
       "name": "snkrss",
       "screenName": "snkrss01",
       "createdAt": "Thu Sep 19 06:13:29 +0000 2024",
-      "description": "东北薄肌 全能💪 贪财好色🧧",
+      "description": "",
       "entities": {
         "description": {}
       },
