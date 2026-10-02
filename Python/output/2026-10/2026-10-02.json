@@ -3319,7 +3319,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (85.59MB > 50.00MB)",
       "timestamp": "2026-10-02T22:02:48",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
