@@ -260,6 +260,32 @@
     "publish_time": "2026-10-02T01:40:00"
   },
   {
+    "tweet_id": "2105723447800484223",
+    "file_name": "HTkIUFfboAEYTdi.jpg",
+    "user": {
+      "screen_name": "Guo53267074Guo",
+      "name": "开心最大"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTkIUFfboAEYTdi.jpg",
+    "read_time": "2026-10-03T02:03:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40017,
+      "timestamp": "2026-10-03T02:03:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-10-03T02:03:52",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/GeoE5EabCi",
+    "publish_time": "2026-10-02T02:16:07"
+  },
+  {
     "tweet_id": "2105725262482870547",
     "file_name": "HTkJ9L3aUAAaiS7.jpg",
     "user": {
@@ -3434,6 +3460,32 @@
     },
     "full_text": "https://t.co/ABfUd6iIEY",
     "publish_time": "2026-10-02T23:09:27"
+  },
+  {
+    "tweet_id": "2106039026990067750",
+    "file_name": "Mj-9VIeMv0EjcptQ.mp4",
+    "user": {
+      "screen_name": "dozzz888",
+      "name": "infj-豆子(上海）"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2106038889207275520/vid/avc1/720x1280/Mj-9VIeMv0EjcptQ.mp4?tag=29",
+    "read_time": "2026-10-03T02:03:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40018,
+      "timestamp": "2026-10-03T02:03:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 11.05,
+      "timestamp": "2026-10-03T02:03:54",
+      "download_attempts": 0
+    },
+    "full_text": "想要再复刻一次\n征求经验农 https://t.co/hl9Ajrl0AS",
+    "publish_time": "2026-10-02T23:10:07"
   },
   {
     "tweet_id": "2106039061626708214",
