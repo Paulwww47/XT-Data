@@ -3858,7 +3858,13 @@
     "url": "https://video.twimg.com/amplify_video/2105672404399722496/vid/avc1/720x1280/DHeMNnMfK_NIuZ0e.mp4?tag=29",
     "read_time": "2026-10-01T23:01:53",
     "is_uploaded": false,
-    "upload_info": {},
+    "upload_info": {
+      "success": false,
+      "error_type": "max_download_attempts",
+      "message": "连续下载失败10次",
+      "notification_sent": true,
+      "timestamp": "2026-10-02T09:02:10"
+    },
     "is_downloaded": false,
     "download_info": {
       "success": false,
