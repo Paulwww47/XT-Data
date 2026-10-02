@@ -698,5 +698,19 @@
     "tweetUrl": "https://x.com/Qiaosansui/status/2105899441765200238",
     "fullText": "十一快乐 https://t.co/CvX2kaPdfq",
     "publishTime": "2026-10-02T13:55:27"
+  },
+  {
+    "user": {
+      "screenName": "XunDong08",
+      "name": "浔东"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2105902758020947968/vid/avc1/1280x720/enajYuAQik9Frg9J.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/XunDong08/status/2105903233281798148",
+    "fullText": "https://t.co/g6WHW9wBP1",
+    "publishTime": "2026-10-02T14:10:31"
   }
 ]

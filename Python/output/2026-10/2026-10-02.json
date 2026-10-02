@@ -1896,5 +1896,31 @@
     },
     "full_text": "十一快乐 https://t.co/CvX2kaPdfq",
     "publish_time": "2026-10-02T13:55:27"
+  },
+  {
+    "tweet_id": "2105903233281798148",
+    "file_name": "enajYuAQik9Frg9J.mp4",
+    "user": {
+      "screen_name": "XunDong08",
+      "name": "浔东"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2105902758020947968/vid/avc1/1280x720/enajYuAQik9Frg9J.mp4?tag=29",
+    "read_time": "2026-10-02T15:02:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 39940,
+      "timestamp": "2026-10-02T15:02:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 30.75,
+      "timestamp": "2026-10-02T15:02:26",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/g6WHW9wBP1",
+    "publish_time": "2026-10-02T14:10:31"
   }
 ]
