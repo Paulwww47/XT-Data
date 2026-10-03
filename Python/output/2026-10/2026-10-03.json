@@ -2416,5 +2416,57 @@
     },
     "full_text": "连续两天被放鸽子😤 https://t.co/QwTprtdDyS",
     "publish_time": "2026-10-03T13:52:23"
+  },
+  {
+    "tweet_id": "2106265586338590888",
+    "file_name": "wTcxjrQrc0iX9Iu-.mp4",
+    "user": {
+      "screen_name": "david4fun4",
+      "name": "Dr. David大卫勃士"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2106265461780340736/vid/avc1/1080x1920/wTcxjrQrc0iX9Iu-.mp4?tag=29",
+    "read_time": "2026-10-03T15:02:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40104,
+      "timestamp": "2026-10-03T15:02:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 19.83,
+      "timestamp": "2026-10-03T15:02:17",
+      "download_attempts": 0
+    },
+    "full_text": "打卡Folsom名场面 有幸在现场🥵 https://t.co/w6hofH3jWZ",
+    "publish_time": "2026-10-03T14:10:22"
+  },
+  {
+    "tweet_id": "2106271748106891638",
+    "file_name": "KVKk0N3qM9ha6-Tk.mp4",
+    "user": {
+      "screen_name": "imfenshuajiang",
+      "name": "我是一个粉刷匠"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2106271642179833856/vid/avc1/1080x1920/KVKk0N3qM9ha6-Tk.mp4?tag=29",
+    "read_time": "2026-10-03T15:02:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40105,
+      "timestamp": "2026-10-03T15:02:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 16.17,
+      "timestamp": "2026-10-03T15:02:23",
+      "download_attempts": 0
+    },
+    "full_text": "我特么真服了，拍个视频，蛋白粉淌一桌子，我真没招了 https://t.co/59MTDZOdLE",
+    "publish_time": "2026-10-03T14:34:52"
   }
 ]
