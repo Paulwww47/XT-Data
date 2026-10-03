@@ -93,7 +93,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (66.86MB > 50.00MB)",
       "timestamp": "2026-10-04T01:02:18",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -234,5 +234,57 @@
     },
     "full_text": "认识前：正装1S\n认识后：正装🐶\n原因：套上了项圈？ https://t.co/DbiM4KPrKZ",
     "publish_time": "2026-10-04T00:50:42"
+  },
+  {
+    "tweet_id": "2106437568925725068",
+    "file_name": "YkM7A77XGEvIb3so.mp4",
+    "user": {
+      "screen_name": "Mateusdiasotoni",
+      "name": "直男女记者77"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2106437484410445825/vid/avc1/1080x1090/YkM7A77XGEvIb3so.mp4?tag=29",
+    "read_time": "2026-10-04T02:02:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40171,
+      "timestamp": "2026-10-04T02:02:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 17.64,
+      "timestamp": "2026-10-04T02:02:24",
+      "download_attempts": 0
+    },
+    "full_text": "勾引指南小帅 https://t.co/01z4Wj6Iwk",
+    "publish_time": "2026-10-04T01:33:46"
+  },
+  {
+    "tweet_id": "2106437568925725068",
+    "file_name": "eh_TWn74DkfVGnAh.mp4",
+    "user": {
+      "screen_name": "Mateusdiasotoni",
+      "name": "直男女记者77"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2106437486021099520/vid/avc1/1006x1256/eh_TWn74DkfVGnAh.mp4?tag=29",
+    "read_time": "2026-10-04T02:02:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40172,
+      "timestamp": "2026-10-04T02:02:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.88,
+      "timestamp": "2026-10-04T02:02:24",
+      "download_attempts": 0
+    },
+    "full_text": "勾引指南小帅 https://t.co/01z4Wj6Iwk",
+    "publish_time": "2026-10-04T01:33:46"
   }
 ]
