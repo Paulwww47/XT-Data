@@ -6643,6 +6643,20 @@
     }
   },
   {
+    "restId": "1759217050021679104",
+    "legacy": {
+      "name": "Paul",
+      "screenName": "PaulPug247047",
+      "createdAt": "Sun Feb 18 14:04:08 +0000 2024",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1759217050021679104/1790359686",
+      "profileImageUrlHttps": ""
+    }
+  },
+  {
     "restId": "1681343238257491973",
     "legacy": {
       "name": "Paw Erikpaw",
@@ -8629,7 +8643,7 @@
       "name": "vm",
       "screenName": "vmya_",
       "createdAt": "Fri May 13 03:29:11 +0000 2022",
-      "description": "直男 | 不约 | 原创",
+      "description": "直男 | 不约",
       "entities": {
         "description": {},
         "url": {

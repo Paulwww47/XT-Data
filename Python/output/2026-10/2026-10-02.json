@@ -2810,6 +2810,58 @@
     "publish_time": "2026-10-02T19:36:09"
   },
   {
+    "tweet_id": "2105986398797111441",
+    "file_name": "HTn3dpzaUAAMkIu.jpg",
+    "user": {
+      "screen_name": "PaulPug247047",
+      "name": "Paul"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTn3dpzaUAAMkIu.jpg",
+    "read_time": "2026-10-03T16:03:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40106,
+      "timestamp": "2026-10-03T16:03:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.07,
+      "timestamp": "2026-10-03T16:03:38",
+      "download_attempts": 0
+    },
+    "full_text": "種🥬自己吃 https://t.co/Q5yeAlTSWh",
+    "publish_time": "2026-10-02T19:40:59"
+  },
+  {
+    "tweet_id": "2105986398797111441",
+    "file_name": "HTn3dp2aQAAWggr.jpg",
+    "user": {
+      "screen_name": "PaulPug247047",
+      "name": "Paul"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTn3dp2aQAAWggr.jpg",
+    "read_time": "2026-10-03T16:03:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40107,
+      "timestamp": "2026-10-03T16:03:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-10-03T16:03:38",
+      "download_attempts": 0
+    },
+    "full_text": "種🥬自己吃 https://t.co/Q5yeAlTSWh",
+    "publish_time": "2026-10-02T19:40:59"
+  },
+  {
     "tweet_id": "2105990571609436421",
     "file_name": "HTn7QgWbMAAqza7.jpg",
     "user": {
@@ -3774,6 +3826,32 @@
     },
     "full_text": "满足你，看吧 https://t.co/Ig4FzMQXTN",
     "publish_time": "2026-10-02T23:31:38"
+  },
+  {
+    "tweet_id": "2106048056013750493",
+    "file_name": "HToviw8boAAzQgf.jpg",
+    "user": {
+      "screen_name": "PaulPug247047",
+      "name": "Paul"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HToviw8boAAzQgf.jpg",
+    "read_time": "2026-10-03T16:03:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40108,
+      "timestamp": "2026-10-03T16:03:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.03,
+      "timestamp": "2026-10-03T16:03:40",
+      "download_attempts": 0
+    },
+    "full_text": "#NewProfilePic (新個人資料照片) https://t.co/aXIrtSGBZX",
+    "publish_time": "2026-10-02T23:45:59"
   },
   {
     "tweet_id": "2106049930540573044",
