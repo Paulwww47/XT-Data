@@ -676,5 +676,31 @@
     },
     "full_text": "https://t.co/10pajm6Ar3",
     "publish_time": "2026-10-04T05:40:29"
+  },
+  {
+    "tweet_id": "2106518563872006353",
+    "file_name": "9EmGzx_E-DPR__b4.mp4",
+    "user": {
+      "screen_name": "liu6864",
+      "name": "CL357"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2106518197210058752/vid/avc1/720x960/9EmGzx_E-DPR__b4.mp4?tag=14",
+    "read_time": "2026-10-04T07:02:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40188,
+      "timestamp": "2026-10-04T07:02:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.61,
+      "timestamp": "2026-10-04T07:02:17",
+      "download_attempts": 0
+    },
+    "full_text": "限时返场。 https://t.co/SItL8nfmU1",
+    "publish_time": "2026-10-04T06:55:37"
   }
 ]
