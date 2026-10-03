@@ -3794,5 +3794,111 @@
     },
     "full_text": "子弹库存满了  上海有骚逼要吃的吗？ https://t.co/JHgbcmLKxI",
     "publish_time": "2026-10-03T22:38:51"
+  },
+  {
+    "tweet_id": "2106400573918675262",
+    "file_name": "HTtwJ7jbMAA-Jra.jpg",
+    "user": {
+      "screen_name": "Guo53267074Guo",
+      "name": "开心最大"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTtwJ7jbMAA-Jra.jpg",
+    "read_time": "2026-10-04T00:02:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40160,
+      "timestamp": "2026-10-04T00:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-10-04T00:02:17",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ku4mktc30Y",
+    "publish_time": "2026-10-03T23:06:46"
+  },
+  {
+    "tweet_id": "2106400573918675262",
+    "file_name": "HTtwJ7lasAAOYMf.jpg",
+    "user": {
+      "screen_name": "Guo53267074Guo",
+      "name": "开心最大"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTtwJ7lasAAOYMf.jpg",
+    "read_time": "2026-10-04T00:02:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40161,
+      "timestamp": "2026-10-04T00:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-10-04T00:02:17",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ku4mktc30Y",
+    "publish_time": "2026-10-03T23:06:46"
+  },
+  {
+    "tweet_id": "2106403280402481270",
+    "file_name": "HTtym4BbwAA_4i-.jpg",
+    "user": {
+      "screen_name": "KevinLeeYoung92",
+      "name": "KevinLeeYoung"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTtym4BbwAA_4i-.jpg",
+    "read_time": "2026-10-04T00:02:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40162,
+      "timestamp": "2026-10-04T00:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-10-04T00:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/GZ5PU9egbT",
+    "publish_time": "2026-10-03T23:17:31"
+  },
+  {
+    "tweet_id": "2106413613389054005",
+    "file_name": "uFTE-yLq1J2ixinH.mp4",
+    "user": {
+      "screen_name": "L1Snium_2580",
+      "name": "蛋黄不带派"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2106413089168228353/vid/avc1/1080x1920/uFTE-yLq1J2ixinH.mp4?tag=29",
+    "read_time": "2026-10-04T00:02:16",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (80.29MB > 50.00MB)",
+      "timestamp": "2026-10-04T00:02:32",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 80.29,
+      "timestamp": "2026-10-04T00:02:32",
+      "download_attempts": 0
+    },
+    "full_text": "这不是你的大学健身的那位老师吗？也是忍不住想做无脑m，也不知道他老婆知不知道他私底下正在做狗，玩完还大胆地问我是不是发推，想被曝光又害怕是吗，那下次让你看看你自己翻白眼伺候你爹大臭脚的时候有多贱…..#s #无脑贱狗 #Atm https://t.co/b2QHhtotmG",
+    "publish_time": "2026-10-03T23:58:35"
   }
 ]
