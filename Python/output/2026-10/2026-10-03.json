@@ -882,5 +882,83 @@
     },
     "full_text": "下午能参加的🙋…#情侣 #夫妻  #泰州 #扬州 #多人 https://t.co/lYPOlLS5Nh",
     "publish_time": "2026-10-03T07:09:09"
+  },
+  {
+    "tweet_id": "2106175529066107318",
+    "file_name": "HTqjaqia0AAZKsW.jpg",
+    "user": {
+      "screen_name": "liu6864",
+      "name": "CL357"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTqjaqia0AAZKsW.jpg",
+    "read_time": "2026-10-03T09:03:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40045,
+      "timestamp": "2026-10-03T09:03:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.18,
+      "timestamp": "2026-10-03T09:03:35",
+      "download_attempts": 0
+    },
+    "full_text": "这个地方很合适，期待一下视频吧。 https://t.co/B6dlVxRx8i",
+    "publish_time": "2026-10-03T08:12:31"
+  },
+  {
+    "tweet_id": "2106178717290725473",
+    "file_name": "-br8K41xuCu7f2-4.mp4",
+    "user": {
+      "screen_name": "liu6864",
+      "name": "CL357"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2106178398657949697/vid/avc1/480x848/-br8K41xuCu7f2-4.mp4?tag=14",
+    "read_time": "2026-10-03T09:03:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40046,
+      "timestamp": "2026-10-03T09:03:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 4.25,
+      "timestamp": "2026-10-03T09:03:37",
+      "download_attempts": 0
+    },
+    "full_text": "经典回归，稍作修改，我尽力了~ https://t.co/MaycKhZ5BX",
+    "publish_time": "2026-10-03T08:25:11"
+  },
+  {
+    "tweet_id": "2106179488216457518",
+    "file_name": "tnq1ycsIKgm7wC1e.mp4",
+    "user": {
+      "screen_name": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2106179447649132544/vid/avc1/1080x1920/tnq1ycsIKgm7wC1e.mp4?tag=29",
+    "read_time": "2026-10-03T09:03:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40047,
+      "timestamp": "2026-10-03T09:03:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 3.41,
+      "timestamp": "2026-10-03T09:03:41",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/KAedDUwpTA",
+    "publish_time": "2026-10-03T08:28:15"
   }
 ]
