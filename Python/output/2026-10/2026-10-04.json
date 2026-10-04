@@ -702,5 +702,57 @@
     },
     "full_text": "限时返场。 https://t.co/SItL8nfmU1",
     "publish_time": "2026-10-04T06:55:37"
+  },
+  {
+    "tweet_id": "2106526528922407327",
+    "file_name": "HTvir2FaQAAezgd.jpg",
+    "user": {
+      "screen_name": "vmya_",
+      "name": "vm"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTvir2FaQAAezgd.jpg",
+    "read_time": "2026-10-04T08:02:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40189,
+      "timestamp": "2026-10-04T08:02:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-10-04T08:02:13",
+      "download_attempts": 0
+    },
+    "full_text": "假期＋6000粉福利 https://t.co/HkoEq4WBGe",
+    "publish_time": "2026-10-04T07:27:16"
+  },
+  {
+    "tweet_id": "2106526528922407327",
+    "file_name": "HTvir2EacAAU97J.jpg",
+    "user": {
+      "screen_name": "vmya_",
+      "name": "vm"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTvir2EacAAU97J.jpg",
+    "read_time": "2026-10-04T08:02:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40190,
+      "timestamp": "2026-10-04T08:02:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-10-04T08:02:13",
+      "download_attempts": 0
+    },
+    "full_text": "假期＋6000粉福利 https://t.co/HkoEq4WBGe",
+    "publish_time": "2026-10-04T07:27:16"
   }
 ]
