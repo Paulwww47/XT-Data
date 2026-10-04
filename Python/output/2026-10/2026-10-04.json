@@ -2487,7 +2487,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (63.80MB > 50.00MB)",
       "timestamp": "2026-10-04T19:02:22",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -2498,5 +2498,213 @@
     },
     "full_text": "一直忍不住想射💦\n@yi90425 好色 https://t.co/7CYaqbASHU",
     "publish_time": "2026-10-04T18:58:18"
+  },
+  {
+    "tweet_id": "2106702608899674207",
+    "file_name": "HTyC2CqWsAAQbU-.jpg",
+    "user": {
+      "screen_name": "Shine_Deng",
+      "name": "Shine"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTyC2CqWsAAQbU-.jpg",
+    "read_time": "2026-10-04T20:03:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40257,
+      "timestamp": "2026-10-04T20:03:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-10-04T20:03:38",
+      "download_attempts": 0
+    },
+    "full_text": "继续营业 https://t.co/4kQLemp9IK",
+    "publish_time": "2026-10-04T19:06:57"
+  },
+  {
+    "tweet_id": "2106703744700420447",
+    "file_name": "HTyD4y1bAAASoCS.jpg",
+    "user": {
+      "screen_name": "rthurz",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTyD4y1bAAASoCS.jpg",
+    "read_time": "2026-10-04T20:03:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40258,
+      "timestamp": "2026-10-04T20:03:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-10-04T20:03:40",
+      "download_attempts": 0
+    },
+    "full_text": "อกฟูมากคับ วันนี้อย่างตึงงง https://t.co/BcmGrUr8at",
+    "publish_time": "2026-10-04T19:11:28"
+  },
+  {
+    "tweet_id": "2106703744700420447",
+    "file_name": "HTyD4yqbIAAaWqF.jpg",
+    "user": {
+      "screen_name": "rthurz",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTyD4yqbIAAaWqF.jpg",
+    "read_time": "2026-10-04T20:03:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40259,
+      "timestamp": "2026-10-04T20:03:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-10-04T20:03:40",
+      "download_attempts": 0
+    },
+    "full_text": "อกฟูมากคับ วันนี้อย่างตึงงง https://t.co/BcmGrUr8at",
+    "publish_time": "2026-10-04T19:11:28"
+  },
+  {
+    "tweet_id": "2106712496749121573",
+    "file_name": "HTyL2EEbAAAJuIG.jpg",
+    "user": {
+      "screen_name": "oncewu",
+      "name": "OnceWu"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTyL2EEbAAAJuIG.jpg",
+    "read_time": "2026-10-04T20:03:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40260,
+      "timestamp": "2026-10-04T20:03:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.18,
+      "timestamp": "2026-10-04T20:03:42",
+      "download_attempts": 0
+    },
+    "full_text": "困兽犹斗🐆 https://t.co/4XhmLDcWvH",
+    "publish_time": "2026-10-04T19:46:14"
+  },
+  {
+    "tweet_id": "2106712496749121573",
+    "file_name": "HTyL2EwakAA5c6e.jpg",
+    "user": {
+      "screen_name": "oncewu",
+      "name": "OnceWu"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTyL2EwakAA5c6e.jpg",
+    "read_time": "2026-10-04T20:03:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40261,
+      "timestamp": "2026-10-04T20:03:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.19,
+      "timestamp": "2026-10-04T20:03:43",
+      "download_attempts": 0
+    },
+    "full_text": "困兽犹斗🐆 https://t.co/4XhmLDcWvH",
+    "publish_time": "2026-10-04T19:46:14"
+  },
+  {
+    "tweet_id": "2106712496749121573",
+    "file_name": "HTyL2D-bgAAmWx3.jpg",
+    "user": {
+      "screen_name": "oncewu",
+      "name": "OnceWu"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTyL2D-bgAAmWx3.jpg",
+    "read_time": "2026-10-04T20:03:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40262,
+      "timestamp": "2026-10-04T20:03:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.18,
+      "timestamp": "2026-10-04T20:03:43",
+      "download_attempts": 0
+    },
+    "full_text": "困兽犹斗🐆 https://t.co/4XhmLDcWvH",
+    "publish_time": "2026-10-04T19:46:14"
+  },
+  {
+    "tweet_id": "2106712496749121573",
+    "file_name": "HTyL2D_a4AAipSz.jpg",
+    "user": {
+      "screen_name": "oncewu",
+      "name": "OnceWu"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTyL2D_a4AAipSz.jpg",
+    "read_time": "2026-10-04T20:03:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40263,
+      "timestamp": "2026-10-04T20:03:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.19,
+      "timestamp": "2026-10-04T20:03:43",
+      "download_attempts": 0
+    },
+    "full_text": "困兽犹斗🐆 https://t.co/4XhmLDcWvH",
+    "publish_time": "2026-10-04T19:46:14"
+  },
+  {
+    "tweet_id": "2106714633763750392",
+    "file_name": "HTyNyI0a0AA5atu.jpg",
+    "user": {
+      "screen_name": "lzj244",
+      "name": "好吧那好吧"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTyNyI0a0AA5atu.jpg",
+    "read_time": "2026-10-04T20:03:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40264,
+      "timestamp": "2026-10-04T20:03:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-10-04T20:03:45",
+      "download_attempts": 0
+    },
+    "full_text": "这里人少 碎碎念一下 https://t.co/gWKnCAavbJ",
+    "publish_time": "2026-10-04T19:54:44"
   }
 ]
