@@ -224,10 +224,114 @@
       "success": false,
       "error_type": "download_error",
       "message": "404 Client Error: Not Found for url: https://video.twimg.com/amplify_video/2106791464483291136/vid/avc1/720x1280/UOlVTGyOGXdcOV_p.mp4?tag=29",
-      "timestamp": "2026-10-05T01:02:24",
-      "download_attempts": 1
+      "timestamp": "2026-10-05T02:02:10",
+      "download_attempts": 2
     },
     "full_text": "最近体内的酒精含量很高 https://t.co/pbbdC8Uz79",
     "publish_time": "2026-10-05T01:00:10"
+  },
+  {
+    "tweet_id": "2106792123265847736",
+    "file_name": "HTzURCWaEAAbRNr.jpg",
+    "user": {
+      "screen_name": "sL9pzQtHr2ZfIKY",
+      "name": "请叫我蜡笔小新"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTzURCWaEAAbRNr.jpg",
+    "read_time": "2026-10-05T02:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40323,
+      "timestamp": "2026-10-05T02:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.05,
+      "timestamp": "2026-10-05T02:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "最近体内酒精含量很高 https://t.co/ZS9vwO9mVI",
+    "publish_time": "2026-10-05T01:02:39"
+  },
+  {
+    "tweet_id": "2106792123265847736",
+    "file_name": "HTzURCTa8AAfFq9.jpg",
+    "user": {
+      "screen_name": "sL9pzQtHr2ZfIKY",
+      "name": "请叫我蜡笔小新"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTzURCTa8AAfFq9.jpg",
+    "read_time": "2026-10-05T02:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40324,
+      "timestamp": "2026-10-05T02:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.05,
+      "timestamp": "2026-10-05T02:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "最近体内酒精含量很高 https://t.co/ZS9vwO9mVI",
+    "publish_time": "2026-10-05T01:02:39"
+  },
+  {
+    "tweet_id": "2106801208078037495",
+    "file_name": "HTzchbTa4AAinkN.jpg",
+    "user": {
+      "screen_name": "hbcssg",
+      "name": "黄博城啊啊"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTzchbTa4AAinkN.jpg",
+    "read_time": "2026-10-05T02:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40325,
+      "timestamp": "2026-10-05T02:02:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-10-05T02:02:12",
+      "download_attempts": 0
+    },
+    "full_text": "仰视我 https://t.co/9X3O8M0rta",
+    "publish_time": "2026-10-05T01:38:45"
+  },
+  {
+    "tweet_id": "2106801880504664170",
+    "file_name": "HTzdI5eagAAIJCm.jpg",
+    "user": {
+      "screen_name": "Nonglaoshi520",
+      "name": "长沙农老师"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTzdI5eagAAIJCm.jpg",
+    "read_time": "2026-10-05T02:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40326,
+      "timestamp": "2026-10-05T02:02:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-10-05T02:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "taotaoge直男采访✈️系列，可单片购买，可打包，视频群也有全集更新，有需要的后台私信。 https://t.co/cWI8mgWkP7",
+    "publish_time": "2026-10-05T01:41:25"
   }
 ]
