@@ -1170,5 +1170,57 @@
     },
     "full_text": "https://t.co/JwFA2Jplyf",
     "publish_time": "2026-10-04T10:58:05"
+  },
+  {
+    "tweet_id": "2106582854159458648",
+    "file_name": "6QWmDKpA_DoY7u2m.mp4",
+    "user": {
+      "screen_name": "paeching",
+      "name": "屁吃"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2106582744298065921/vid/avc1/720x976/6QWmDKpA_DoY7u2m.mp4?tag=29",
+    "read_time": "2026-10-04T12:02:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40207,
+      "timestamp": "2026-10-04T12:02:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 10.78,
+      "timestamp": "2026-10-04T12:02:17",
+      "download_attempts": 0
+    },
+    "full_text": "被凿了 https://t.co/AIpT8qhqLc",
+    "publish_time": "2026-10-04T11:11:05"
+  },
+  {
+    "tweet_id": "2106591349298651212",
+    "file_name": "HTwdqJTaMAAU9Zo.jpg",
+    "user": {
+      "screen_name": "wngyngh44820470",
+      "name": "SJerry"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTwdqJTaMAAU9Zo.jpg",
+    "read_time": "2026-10-04T12:02:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40208,
+      "timestamp": "2026-10-04T12:02:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-10-04T12:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "我也不知道为啥一回家就重了7斤… https://t.co/U56p5i5bcu",
+    "publish_time": "2026-10-04T11:44:50"
   }
 ]

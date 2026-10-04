@@ -508,5 +508,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2106579580689744104",
     "fullText": "https://t.co/JwFA2Jplyf",
     "publishTime": "2026-10-04T10:58:05"
+  },
+  {
+    "user": {
+      "screenName": "paeching",
+      "name": "屁吃"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2106582744298065921/vid/avc1/720x976/6QWmDKpA_DoY7u2m.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/paeching/status/2106582854159458648",
+    "fullText": "被凿了 https://t.co/AIpT8qhqLc",
+    "publishTime": "2026-10-04T11:11:05"
+  },
+  {
+    "user": {
+      "screenName": "wngyngh44820470",
+      "name": "SJerry"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HTwdqJTaMAAU9Zo.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/wngyngh44820470/status/2106591349298651212",
+    "fullText": "我也不知道为啥一回家就重了7斤… https://t.co/U56p5i5bcu",
+    "publishTime": "2026-10-04T11:44:50"
   }
 ]
