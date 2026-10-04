@@ -754,5 +754,83 @@
     },
     "full_text": "假期＋6000粉福利 https://t.co/HkoEq4WBGe",
     "publish_time": "2026-10-04T07:27:16"
+  },
+  {
+    "tweet_id": "2106544301224374319",
+    "file_name": "_JJlCp6GexIvDow8.mp4",
+    "user": {
+      "screen_name": "xiao57520",
+      "name": "翱哥备用机"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2106544246740434944/vid/avc1/1080x1920/_JJlCp6GexIvDow8.mp4?tag=29",
+    "read_time": "2026-10-04T09:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40191,
+      "timestamp": "2026-10-04T09:02:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 6.95,
+      "timestamp": "2026-10-04T09:02:25",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/fah902XBAT",
+    "publish_time": "2026-10-04T08:37:53"
+  },
+  {
+    "tweet_id": "2106545732589367356",
+    "file_name": "HTv0LW0bAAAwXRl.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTv0LW0bAAAwXRl.jpg",
+    "read_time": "2026-10-04T09:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40192,
+      "timestamp": "2026-10-04T09:02:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-10-04T09:02:28",
+      "download_attempts": 0
+    },
+    "full_text": "yх0205cn https://t.co/LI9E9aXqu4",
+    "publish_time": "2026-10-04T08:43:35"
+  },
+  {
+    "tweet_id": "2106545829993656609",
+    "file_name": "HTv0RDBacAAfTzX.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HTv0RDBacAAfTzX.jpg",
+    "read_time": "2026-10-04T09:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40193,
+      "timestamp": "2026-10-04T09:02:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-10-04T09:02:29",
+      "download_attempts": 0
+    },
+    "full_text": "artie_tozi https://t.co/UuiQ1rZ9lB",
+    "publish_time": "2026-10-04T08:43:58"
   }
 ]
