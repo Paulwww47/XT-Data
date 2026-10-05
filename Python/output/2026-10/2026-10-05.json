@@ -218,7 +218,13 @@
     "url": "https://video.twimg.com/amplify_video/2106791464483291136/vid/avc1/720x1280/UOlVTGyOGXdcOV_p.mp4?tag=29",
     "read_time": "2026-10-05T01:02:16",
     "is_uploaded": false,
-    "upload_info": {},
+    "upload_info": {
+      "success": false,
+      "error_type": "max_download_attempts",
+      "message": "连续下载失败10次",
+      "notification_sent": true,
+      "timestamp": "2026-10-05T11:01:41"
+    },
     "is_downloaded": false,
     "download_info": {
       "success": false,
@@ -950,7 +956,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (64.78MB > 50.00MB)",
       "timestamp": "2026-10-05T10:03:42",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -961,5 +967,57 @@
     },
     "full_text": "粗口控 R https://t.co/BHR1U3SsVs",
     "publish_time": "2026-10-05T09:53:13"
+  },
+  {
+    "tweet_id": "2106929363753349144",
+    "file_name": "HT1RFfgaoAA6m_7.jpg",
+    "user": {
+      "screen_name": "w1nderlu5t",
+      "name": "FR"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT1RFfgaoAA6m_7.jpg",
+    "read_time": "2026-10-05T11:01:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40349,
+      "timestamp": "2026-10-05T11:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-10-05T11:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "Bali summer 2026. https://t.co/gOThziOKuJ",
+    "publish_time": "2026-10-05T10:07:59"
+  },
+  {
+    "tweet_id": "2106929363753349144",
+    "file_name": "HT1RFfbaMAAuiwu.jpg",
+    "user": {
+      "screen_name": "w1nderlu5t",
+      "name": "FR"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT1RFfbaMAAuiwu.jpg",
+    "read_time": "2026-10-05T11:01:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40350,
+      "timestamp": "2026-10-05T11:01:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-10-05T11:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "Bali summer 2026. https://t.co/gOThziOKuJ",
+    "publish_time": "2026-10-05T10:07:59"
   }
 ]
