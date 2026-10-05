@@ -1504,7 +1504,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (613.59MB > 50.00MB)",
       "timestamp": "2026-10-05T13:02:22",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -1619,5 +1619,161 @@
     },
     "full_text": "😋想要吗？ https://t.co/jnBp7ne5cG",
     "publish_time": "2026-10-05T12:53:21"
+  },
+  {
+    "tweet_id": "2106976627536318637",
+    "file_name": "HT18Ej1bgAAZUKx.jpg",
+    "user": {
+      "screen_name": "xu553279147",
+      "name": "Patrick 青岛"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT18Ej1bgAAZUKx.jpg",
+    "read_time": "2026-10-05T14:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40373,
+      "timestamp": "2026-10-05T14:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-10-05T14:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "过🚪私 https://t.co/hQ3cvsTDBF",
+    "publish_time": "2026-10-05T13:15:48"
+  },
+  {
+    "tweet_id": "2106979564136374400",
+    "file_name": "fvMuT9xTTWK4jUgO.mp4",
+    "user": {
+      "screen_name": "c558668",
+      "name": "0m"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2106979536751796224/vid/avc1/1080x1920/fvMuT9xTTWK4jUgO.mp4?tag=29",
+    "read_time": "2026-10-05T14:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40374,
+      "timestamp": "2026-10-05T14:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 2.34,
+      "timestamp": "2026-10-05T14:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "雄臭发亮黑袜重度爱好者 https://t.co/sGjQQ0qFUb",
+    "publish_time": "2026-10-05T13:27:28"
+  },
+  {
+    "tweet_id": "2106987685265260574",
+    "file_name": "HT2GIG5aMAAte5V.jpg",
+    "user": {
+      "screen_name": "lllluyuuuu",
+      "name": "Ken"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT2GIG5aMAAte5V.jpg",
+    "read_time": "2026-10-05T14:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40375,
+      "timestamp": "2026-10-05T14:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.07,
+      "timestamp": "2026-10-05T14:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/jGUvLwFnS3",
+    "publish_time": "2026-10-05T13:59:44"
+  },
+  {
+    "tweet_id": "2106987685265260574",
+    "file_name": "HT2GIHDaUAESX28.jpg",
+    "user": {
+      "screen_name": "lllluyuuuu",
+      "name": "Ken"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT2GIHDaUAESX28.jpg",
+    "read_time": "2026-10-05T14:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40376,
+      "timestamp": "2026-10-05T14:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-10-05T14:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/jGUvLwFnS3",
+    "publish_time": "2026-10-05T13:59:44"
+  },
+  {
+    "tweet_id": "2106987685265260574",
+    "file_name": "HT2GIG4asAMuD6F.jpg",
+    "user": {
+      "screen_name": "lllluyuuuu",
+      "name": "Ken"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT2GIG4asAMuD6F.jpg",
+    "read_time": "2026-10-05T14:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40377,
+      "timestamp": "2026-10-05T14:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-10-05T14:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/jGUvLwFnS3",
+    "publish_time": "2026-10-05T13:59:44"
+  },
+  {
+    "tweet_id": "2106987685265260574",
+    "file_name": "HT2GIG9aEAAdQkK.jpg",
+    "user": {
+      "screen_name": "lllluyuuuu",
+      "name": "Ken"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT2GIG9aEAAdQkK.jpg",
+    "read_time": "2026-10-05T14:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40378,
+      "timestamp": "2026-10-05T14:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-10-05T14:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/jGUvLwFnS3",
+    "publish_time": "2026-10-05T13:59:44"
   }
 ]
