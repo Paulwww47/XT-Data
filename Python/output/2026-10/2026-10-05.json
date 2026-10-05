@@ -224,8 +224,8 @@
       "success": false,
       "error_type": "download_error",
       "message": "404 Client Error: Not Found for url: https://video.twimg.com/amplify_video/2106791464483291136/vid/avc1/720x1280/UOlVTGyOGXdcOV_p.mp4?tag=29",
-      "timestamp": "2026-10-05T09:01:53",
-      "download_attempts": 9
+      "timestamp": "2026-10-05T10:03:16",
+      "download_attempts": 10
     },
     "full_text": "最近体内的酒精含量很高 https://t.co/pbbdC8Uz79",
     "publish_time": "2026-10-05T01:00:10"
@@ -751,5 +751,215 @@
     },
     "full_text": "小红书发不了的，咱在这里看~ https://t.co/LD9ubtKz7w",
     "publish_time": "2026-10-05T08:50:00"
+  },
+  {
+    "tweet_id": "2106914653058261431",
+    "file_name": "omDBonNqmBW0JC6B.mp4",
+    "user": {
+      "screen_name": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2106914606287593472/vid/avc1/1080x1920/omDBonNqmBW0JC6B.mp4?tag=29",
+    "read_time": "2026-10-05T10:03:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40342,
+      "timestamp": "2026-10-05T10:03:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 6.85,
+      "timestamp": "2026-10-05T10:03:16",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/uDO89sZYyz",
+    "publish_time": "2026-10-05T09:09:32"
+  },
+  {
+    "tweet_id": "2106915246262862199",
+    "file_name": "lmX6wEUGltCz7GOs.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2106915190684241920/vid/avc1/1080x1844/lmX6wEUGltCz7GOs.mp4?tag=29",
+    "read_time": "2026-10-05T10:03:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40343,
+      "timestamp": "2026-10-05T10:03:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 7.37,
+      "timestamp": "2026-10-05T10:03:28",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Sf3aMSVH97",
+    "publish_time": "2026-10-05T09:11:53"
+  },
+  {
+    "tweet_id": "2106917206948978885",
+    "file_name": "HT1GB7fbkAAj5mG.jpg",
+    "user": {
+      "screen_name": "lancelin1120",
+      "name": "lancelin"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT1GB7fbkAAj5mG.jpg",
+    "read_time": "2026-10-05T10:03:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40344,
+      "timestamp": "2026-10-05T10:03:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-10-05T10:03:30",
+      "download_attempts": 0
+    },
+    "full_text": "不知道发什么 https://t.co/nfPiZysYrA",
+    "publish_time": "2026-10-05T09:19:41"
+  },
+  {
+    "tweet_id": "2106917206948978885",
+    "file_name": "HT1GB7ZbcAAylWf.jpg",
+    "user": {
+      "screen_name": "lancelin1120",
+      "name": "lancelin"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT1GB7ZbcAAylWf.jpg",
+    "read_time": "2026-10-05T10:03:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40345,
+      "timestamp": "2026-10-05T10:03:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-10-05T10:03:30",
+      "download_attempts": 0
+    },
+    "full_text": "不知道发什么 https://t.co/nfPiZysYrA",
+    "publish_time": "2026-10-05T09:19:41"
+  },
+  {
+    "tweet_id": "2106918572903862702",
+    "file_name": "r4KW32sGXYT6CXIn.mp4",
+    "user": {
+      "screen_name": "olekeee",
+      "name": "Olekeee"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2106918539122917376/vid/avc1/720x1230/r4KW32sGXYT6CXIn.mp4?tag=29",
+    "read_time": "2026-10-05T10:03:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40346,
+      "timestamp": "2026-10-05T10:03:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.17,
+      "timestamp": "2026-10-05T10:03:31",
+      "download_attempts": 0
+    },
+    "full_text": "直男调教 玩直男这么多年碰到的喷的最多的精牛 体制内哥哥超级会喷 喷过头顶 性瘾也大…想被他喷脸吗 https://t.co/MT6xhJiHXb",
+    "publish_time": "2026-10-05T09:25:07"
+  },
+  {
+    "tweet_id": "2106919102304625011",
+    "file_name": "jUunEJBsU6DRVoMc.mp4",
+    "user": {
+      "screen_name": "olekeee",
+      "name": "Olekeee"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2106918984956428288/vid/avc1/720x1148/jUunEJBsU6DRVoMc.mp4?tag=29",
+    "read_time": "2026-10-05T10:03:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40347,
+      "timestamp": "2026-10-05T10:03:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 6.97,
+      "timestamp": "2026-10-05T10:03:33",
+      "download_attempts": 0
+    },
+    "full_text": "直男调教 成都某健身房健身教练 白天在上私教课的时候就蠢蠢欲动 下班了回到家立刻脱光了发泄自己的兽欲 双手握住万兽之根猛猛展现男人的魅力时刻 https://t.co/3rssSzlsg6",
+    "publish_time": "2026-10-05T09:27:13"
+  },
+  {
+    "tweet_id": "2106923166237065400",
+    "file_name": "_klkcWt5aF6n0FKI.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2106923099723800576/vid/avc1/720x1280/_klkcWt5aF6n0FKI.mp4?tag=14",
+    "read_time": "2026-10-05T10:03:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40348,
+      "timestamp": "2026-10-05T10:03:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.64,
+      "timestamp": "2026-10-05T10:03:36",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年10月5日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/bT3enURa23",
+    "publish_time": "2026-10-05T09:43:22"
+  },
+  {
+    "tweet_id": "2106925647633547302",
+    "file_name": "OpRLZEEJsKLsc8Gd.mp4",
+    "user": {
+      "screen_name": "wangsan82l",
+      "name": "王利华的鼠标"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2106925233345273856/vid/avc1/720x1280/OpRLZEEJsKLsc8Gd.mp4?tag=29",
+    "read_time": "2026-10-05T10:03:15",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (64.78MB > 50.00MB)",
+      "timestamp": "2026-10-05T10:03:42",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 64.78,
+      "timestamp": "2026-10-05T10:03:42",
+      "download_attempts": 0
+    },
+    "full_text": "粗口控 R https://t.co/BHR1U3SsVs",
+    "publish_time": "2026-10-05T09:53:13"
   }
 ]
