@@ -224,8 +224,8 @@
       "success": false,
       "error_type": "download_error",
       "message": "404 Client Error: Not Found for url: https://video.twimg.com/amplify_video/2106791464483291136/vid/avc1/720x1280/UOlVTGyOGXdcOV_p.mp4?tag=29",
-      "timestamp": "2026-10-05T08:01:53",
-      "download_attempts": 8
+      "timestamp": "2026-10-05T09:01:53",
+      "download_attempts": 9
     },
     "full_text": "最近体内的酒精含量很高 https://t.co/pbbdC8Uz79",
     "publish_time": "2026-10-05T01:00:10"
@@ -610,7 +610,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (377.73MB > 50.00MB)",
       "timestamp": "2026-10-05T08:02:27",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -647,5 +647,109 @@
     },
     "full_text": "新剧《Still Here》AI生成BL连续短剧由@bflabx 原创｜这是EP 01 和 02杀青👉@bflabx 的剧本精彩模特高颜值！🖤 Noah 一个人去了大学派对，遇见了主动搭话的 Liam。 直到第二天，他朋友听到了那个名字实为惊呀！Noah想找到答案……可是Noah再次遇见Liam震惊了……更新请follow @bflabx ♥️ https://t.co/i498vaaRbt",
     "publish_time": "2026-10-05T07:32:01"
+  },
+  {
+    "tweet_id": "2106909736163815868",
+    "file_name": "HT0_Lq8boAABR1q.jpg",
+    "user": {
+      "screen_name": "liu6864",
+      "name": "CL357"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT0_Lq8boAABR1q.jpg",
+    "read_time": "2026-10-05T09:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40338,
+      "timestamp": "2026-10-05T09:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-10-05T09:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "小红书发不了的，咱在这里看~ https://t.co/LD9ubtKz7w",
+    "publish_time": "2026-10-05T08:50:00"
+  },
+  {
+    "tweet_id": "2106909736163815868",
+    "file_name": "HT0_Lq8aUAA4CK0.jpg",
+    "user": {
+      "screen_name": "liu6864",
+      "name": "CL357"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT0_Lq8aUAA4CK0.jpg",
+    "read_time": "2026-10-05T09:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40339,
+      "timestamp": "2026-10-05T09:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.22,
+      "timestamp": "2026-10-05T09:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "小红书发不了的，咱在这里看~ https://t.co/LD9ubtKz7w",
+    "publish_time": "2026-10-05T08:50:00"
+  },
+  {
+    "tweet_id": "2106909736163815868",
+    "file_name": "HT0_Lq0akAA8qw9.jpg",
+    "user": {
+      "screen_name": "liu6864",
+      "name": "CL357"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT0_Lq0akAA8qw9.jpg",
+    "read_time": "2026-10-05T09:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40340,
+      "timestamp": "2026-10-05T09:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-10-05T09:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "小红书发不了的，咱在这里看~ https://t.co/LD9ubtKz7w",
+    "publish_time": "2026-10-05T08:50:00"
+  },
+  {
+    "tweet_id": "2106909736163815868",
+    "file_name": "HT0_Lq7aoAAFoTz.jpg",
+    "user": {
+      "screen_name": "liu6864",
+      "name": "CL357"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT0_Lq7aoAAFoTz.jpg",
+    "read_time": "2026-10-05T09:01:52",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40341,
+      "timestamp": "2026-10-05T09:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.18,
+      "timestamp": "2026-10-05T09:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "小红书发不了的，咱在这里看~ https://t.co/LD9ubtKz7w",
+    "publish_time": "2026-10-05T08:50:00"
   }
 ]
