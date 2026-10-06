@@ -3395,7 +3395,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (111.76MB > 50.00MB)",
       "timestamp": "2026-10-06T23:02:41",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -3614,5 +3614,481 @@
     },
     "full_text": "https://t.co/bR7S5IBXy8",
     "publish_time": "2026-10-06T22:57:51"
+  },
+  {
+    "tweet_id": "2107487815932223913",
+    "file_name": "HT9M-lDbwAAQS1U.jpg",
+    "user": {
+      "screen_name": "KIKO36147004",
+      "name": "KIKO"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT9M-lDbwAAQS1U.jpg",
+    "read_time": "2026-10-07T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40597,
+      "timestamp": "2026-10-07T00:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-10-07T00:02:20",
+      "download_attempts": 0
+    },
+    "full_text": "裸练 https://t.co/ZYFyaWi6Ay",
+    "publish_time": "2026-10-06T23:07:05"
+  },
+  {
+    "tweet_id": "2107489341484503446",
+    "file_name": "3_08mQkzh-QC2r0p.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2105454067665559552/vid/avc1/720x1280/3_08mQkzh-QC2r0p.mp4?tag=14",
+    "read_time": "2026-10-07T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40598,
+      "timestamp": "2026-10-07T00:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 13.62,
+      "timestamp": "2026-10-07T00:02:23",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/jAfrkUCcWx",
+    "publish_time": "2026-10-06T23:13:08"
+  },
+  {
+    "tweet_id": "2107490725923627088",
+    "file_name": "FtxDxCzGuAArgUWX.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2101317603734286336/vid/avc1/720x1280/FtxDxCzGuAArgUWX.mp4?tag=29",
+    "read_time": "2026-10-07T00:02:19",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (85.57MB > 50.00MB)",
+      "timestamp": "2026-10-07T00:02:29",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 85.57,
+      "timestamp": "2026-10-07T00:02:29",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/YspDl28epc",
+    "publish_time": "2026-10-06T23:18:39"
+  },
+  {
+    "tweet_id": "2107492488550437009",
+    "file_name": "zOWrCxm1I51PGueR.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2104061034147495937/vid/avc1/720x1280/zOWrCxm1I51PGueR.mp4?tag=29",
+    "read_time": "2026-10-07T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40599,
+      "timestamp": "2026-10-07T00:02:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 34.05,
+      "timestamp": "2026-10-07T00:02:30",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/xdJq5d2d8O",
+    "publish_time": "2026-10-06T23:25:39"
+  },
+  {
+    "tweet_id": "2107493002482769977",
+    "file_name": "HT9RtkabYAA_41g.jpg",
+    "user": {
+      "screen_name": "zuoximuhao1111S",
+      "name": "佐夕木豪"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT9RtkabYAA_41g.jpg",
+    "read_time": "2026-10-07T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40600,
+      "timestamp": "2026-10-07T00:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-10-07T00:02:34",
+      "download_attempts": 0
+    },
+    "full_text": "骚死了 https://t.co/cVKPJU1fKc",
+    "publish_time": "2026-10-06T23:27:41"
+  },
+  {
+    "tweet_id": "2107493002482769977",
+    "file_name": "HT9RtkjbEAAfjFJ.jpg",
+    "user": {
+      "screen_name": "zuoximuhao1111S",
+      "name": "佐夕木豪"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT9RtkjbEAAfjFJ.jpg",
+    "read_time": "2026-10-07T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40601,
+      "timestamp": "2026-10-07T00:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-10-07T00:02:34",
+      "download_attempts": 0
+    },
+    "full_text": "骚死了 https://t.co/cVKPJU1fKc",
+    "publish_time": "2026-10-06T23:27:41"
+  },
+  {
+    "tweet_id": "2107493002482769977",
+    "file_name": "HT9RtkdbkAAcugB.jpg",
+    "user": {
+      "screen_name": "zuoximuhao1111S",
+      "name": "佐夕木豪"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT9RtkdbkAAcugB.jpg",
+    "read_time": "2026-10-07T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40602,
+      "timestamp": "2026-10-07T00:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-10-07T00:02:34",
+      "download_attempts": 0
+    },
+    "full_text": "骚死了 https://t.co/cVKPJU1fKc",
+    "publish_time": "2026-10-06T23:27:41"
+  },
+  {
+    "tweet_id": "2107493265780211740",
+    "file_name": "JNnU9WFCMqbLri2s.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2107243826033348608/vid/avc1/720x1280/JNnU9WFCMqbLri2s.mp4?tag=29",
+    "read_time": "2026-10-07T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40603,
+      "timestamp": "2026-10-07T00:02:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 22.82,
+      "timestamp": "2026-10-07T00:02:37",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/pw8eYrwQnG",
+    "publish_time": "2026-10-06T23:28:44"
+  },
+  {
+    "tweet_id": "2107494643776840157",
+    "file_name": "HT9TNMdbQAIPqmx.jpg",
+    "user": {
+      "screen_name": "BOYSTV",
+      "name": "BOYSTV"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT9TNMdbQAIPqmx.jpg",
+    "read_time": "2026-10-07T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40604,
+      "timestamp": "2026-10-07T00:02:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-10-07T00:02:40",
+      "download_attempts": 0
+    },
+    "full_text": "长沙 深圳 北京 南京 广州\n杭州 厦门 上海 成都 重庆\n\n有想合作拍摄的带照片私信我 https://t.co/89Fu5SUO5u",
+    "publish_time": "2026-10-06T23:34:13"
+  },
+  {
+    "tweet_id": "2107495352794587513",
+    "file_name": "mNWmb9-i4ZgH6ejV.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2091338532963172353/vid/avc1/720x1280/mNWmb9-i4ZgH6ejV.mp4?tag=29",
+    "read_time": "2026-10-07T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40605,
+      "timestamp": "2026-10-07T00:02:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 21.42,
+      "timestamp": "2026-10-07T00:02:44",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/kXpgj1dVnK",
+    "publish_time": "2026-10-06T23:37:02"
+  },
+  {
+    "tweet_id": "2107495669221253441",
+    "file_name": "HT9UIkbb0AAG-4i.jpg",
+    "user": {
+      "screen_name": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT9UIkbb0AAG-4i.jpg",
+    "read_time": "2026-10-07T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40606,
+      "timestamp": "2026-10-07T00:02:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-10-07T00:02:48",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/60joDA506q",
+    "publish_time": "2026-10-06T23:38:17"
+  },
+  {
+    "tweet_id": "2107495669221253441",
+    "file_name": "HT9UIkdbEAA0eRN.jpg",
+    "user": {
+      "screen_name": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT9UIkdbEAA0eRN.jpg",
+    "read_time": "2026-10-07T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40607,
+      "timestamp": "2026-10-07T00:02:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.18,
+      "timestamp": "2026-10-07T00:02:48",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/60joDA506q",
+    "publish_time": "2026-10-06T23:38:17"
+  },
+  {
+    "tweet_id": "2107495756886348048",
+    "file_name": "HT9UM9ZbIAADRTS.jpg",
+    "user": {
+      "screen_name": "kaka_lac",
+      "name": "kaka"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT9UM9ZbIAADRTS.jpg",
+    "read_time": "2026-10-07T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40608,
+      "timestamp": "2026-10-07T00:02:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.22,
+      "timestamp": "2026-10-07T00:02:50",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ubmQATHIg2",
+    "publish_time": "2026-10-06T23:38:38"
+  },
+  {
+    "tweet_id": "2107495756886348048",
+    "file_name": "HT9UM9YaYAAUqZV.jpg",
+    "user": {
+      "screen_name": "kaka_lac",
+      "name": "kaka"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT9UM9YaYAAUqZV.jpg",
+    "read_time": "2026-10-07T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40609,
+      "timestamp": "2026-10-07T00:02:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-10-07T00:02:50",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ubmQATHIg2",
+    "publish_time": "2026-10-06T23:38:38"
+  },
+  {
+    "tweet_id": "2107496194121625670",
+    "file_name": "PLu6bvuj9wGWamWF.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2091337821470822400/vid/avc1/720x1280/PLu6bvuj9wGWamWF.mp4?tag=29",
+    "read_time": "2026-10-07T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40610,
+      "timestamp": "2026-10-07T00:02:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 15.57,
+      "timestamp": "2026-10-07T00:02:53",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/9UqextaR7b",
+    "publish_time": "2026-10-06T23:40:22"
+  },
+  {
+    "tweet_id": "2107497243528036589",
+    "file_name": "QIvViQsYiBKDBrUo.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1951429459497852931/vid/avc1/720x1280/QIvViQsYiBKDBrUo.mp4?tag=14",
+    "read_time": "2026-10-07T00:02:19",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (52.46MB > 50.00MB)",
+      "timestamp": "2026-10-07T00:02:57",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 52.46,
+      "timestamp": "2026-10-07T00:02:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/5hhNnawVrP",
+    "publish_time": "2026-10-06T23:44:32"
+  },
+  {
+    "tweet_id": "2107498738378014941",
+    "file_name": "4yMcqiaH5ibs0QjF.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1948023553363996672/vid/avc1/720x1280/4yMcqiaH5ibs0QjF.mp4?tag=14",
+    "read_time": "2026-10-07T00:02:19",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (58.14MB > 50.00MB)",
+      "timestamp": "2026-10-07T00:03:02",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 58.14,
+      "timestamp": "2026-10-07T00:03:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/YCYdADbJKj",
+    "publish_time": "2026-10-06T23:50:29"
+  },
+  {
+    "tweet_id": "2107499564538421669",
+    "file_name": "9uzs-oWimI7jFnaB.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1948023232675942400/vid/avc1/720x1280/9uzs-oWimI7jFnaB.mp4?tag=14",
+    "read_time": "2026-10-07T00:02:19",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (67.30MB > 50.00MB)",
+      "timestamp": "2026-10-07T00:03:03",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 67.3,
+      "timestamp": "2026-10-07T00:03:03",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/C2QpS9yZhQ",
+    "publish_time": "2026-10-06T23:53:46"
   }
 ]
