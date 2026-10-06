@@ -223,7 +223,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (54.81MB > 50.00MB)",
       "timestamp": "2026-10-07T01:02:53",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -286,5 +286,213 @@
     },
     "full_text": "拍照就找这种大大方方，积极向上的模特，不要那种扭扭捏捏，唧唧歪歪的模特。 https://t.co/I7j7QpI1uy",
     "publish_time": "2026-10-07T00:51:37"
+  },
+  {
+    "tweet_id": "2107517125296308487",
+    "file_name": "HT9nlLBWIAAWIvc.jpg",
+    "user": {
+      "screen_name": "tuo_522",
+      "name": "🦮"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT9nlLBWIAAWIvc.jpg",
+    "read_time": "2026-10-07T02:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40621,
+      "timestamp": "2026-10-07T02:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-10-07T02:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "#WOOF吠酒 https://t.co/FmF0kiGpkI",
+    "publish_time": "2026-10-07T01:03:33"
+  },
+  {
+    "tweet_id": "2107517125296308487",
+    "file_name": "HT9nlLKXAAEERnQ.jpg",
+    "user": {
+      "screen_name": "tuo_522",
+      "name": "🦮"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT9nlLKXAAEERnQ.jpg",
+    "read_time": "2026-10-07T02:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40622,
+      "timestamp": "2026-10-07T02:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-10-07T02:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "#WOOF吠酒 https://t.co/FmF0kiGpkI",
+    "publish_time": "2026-10-07T01:03:33"
+  },
+  {
+    "tweet_id": "2107517125296308487",
+    "file_name": "HT9nlLAWMAAZ3gQ.jpg",
+    "user": {
+      "screen_name": "tuo_522",
+      "name": "🦮"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT9nlLAWMAAZ3gQ.jpg",
+    "read_time": "2026-10-07T02:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40623,
+      "timestamp": "2026-10-07T02:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-10-07T02:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "#WOOF吠酒 https://t.co/FmF0kiGpkI",
+    "publish_time": "2026-10-07T01:03:33"
+  },
+  {
+    "tweet_id": "2107517125296308487",
+    "file_name": "HT9nlLTW0AAM44r.jpg",
+    "user": {
+      "screen_name": "tuo_522",
+      "name": "🦮"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT9nlLTW0AAM44r.jpg",
+    "read_time": "2026-10-07T02:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40624,
+      "timestamp": "2026-10-07T02:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-10-07T02:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "#WOOF吠酒 https://t.co/FmF0kiGpkI",
+    "publish_time": "2026-10-07T01:03:33"
+  },
+  {
+    "tweet_id": "2107518529272697040",
+    "file_name": "3vHTUclZfbTfxCXl.mp4",
+    "user": {
+      "screen_name": "Nonglaoshi520",
+      "name": "长沙农老师"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2107518357490880512/vid/avc1/720x1280/3vHTUclZfbTfxCXl.mp4?tag=29",
+    "read_time": "2026-10-07T02:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40625,
+      "timestamp": "2026-10-07T02:02:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 6.12,
+      "timestamp": "2026-10-07T02:02:24",
+      "download_attempts": 0
+    },
+    "full_text": "🎙️好久没发视频了，上一次还是五一～\n\nNO.67\n《很特别的纯1🐮，特别敏感，只喜欢被狠狠责，最后没忍住大喷射💦》 https://t.co/b7aNy4gu8G",
+    "publish_time": "2026-10-07T01:09:07"
+  },
+  {
+    "tweet_id": "2107522920826434011",
+    "file_name": "L44YcBhFnoKVNDpl.mp4",
+    "user": {
+      "screen_name": "biantaichaoren1",
+      "name": "变态超人（广州 上海）"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2107522909115678720/vid/avc1/720x960/L44YcBhFnoKVNDpl.mp4?tag=29",
+    "read_time": "2026-10-07T02:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40626,
+      "timestamp": "2026-10-07T02:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.24,
+      "timestamp": "2026-10-07T02:02:26",
+      "download_attempts": 0
+    },
+    "full_text": "如何可以谈一下跟我一样有性瘾的对象？ https://t.co/rzkFolqtn9",
+    "publish_time": "2026-10-07T01:26:34"
+  },
+  {
+    "tweet_id": "2107523546511819192",
+    "file_name": "HT9tehKa0AAqEEx.jpg",
+    "user": {
+      "screen_name": "wangsan820",
+      "name": "王利华的键盘"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT9tehKa0AAqEEx.jpg",
+    "read_time": "2026-10-07T02:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40627,
+      "timestamp": "2026-10-07T02:02:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-10-07T02:02:27",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/G3TpNJ0zAI",
+    "publish_time": "2026-10-07T01:29:04"
+  },
+  {
+    "tweet_id": "2107526020475863484",
+    "file_name": "HT9vvYVaMAAoh0T.jpg",
+    "user": {
+      "screen_name": "Alfred_yh_",
+      "name": "机械臂Luk"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT9vvYVaMAAoh0T.jpg",
+    "read_time": "2026-10-07T02:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40628,
+      "timestamp": "2026-10-07T02:02:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-10-07T02:02:28",
+      "download_attempts": 0
+    },
+    "full_text": "这个假期开不了荤了？ https://t.co/3YSfQjdD0L",
+    "publish_time": "2026-10-07T01:38:53"
   }
 ]
