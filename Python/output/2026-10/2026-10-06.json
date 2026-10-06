@@ -414,5 +414,57 @@
     },
     "full_text": "软着也好像不小 https://t.co/YcRyh9Spgf",
     "publish_time": "2026-10-06T06:23:25"
+  },
+  {
+    "tweet_id": "2107246053187870834",
+    "file_name": "iPV1Qdyf5bfA8Kri.mp4",
+    "user": {
+      "screen_name": "liu6864",
+      "name": "CL357"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2107244511114174464/vid/avc1/720x1280/iPV1Qdyf5bfA8Kri.mp4?tag=14",
+    "read_time": "2026-10-06T08:02:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40475,
+      "timestamp": "2026-10-06T08:02:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 8.13,
+      "timestamp": "2026-10-06T08:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "You can fully appreciate the charm conveyed by the sound in this video. https://t.co/Qd3Nsue8fN",
+    "publish_time": "2026-10-06T07:06:24"
+  },
+  {
+    "tweet_id": "2107258708946538622",
+    "file_name": "P730qQ6c61YzOHFD.mp4",
+    "user": {
+      "screen_name": "heichai6666",
+      "name": "黑柴"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2107258635982434304/vid/avc1/720x960/P730qQ6c61YzOHFD.mp4?tag=29",
+    "read_time": "2026-10-06T08:02:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40476,
+      "timestamp": "2026-10-06T08:02:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 11.07,
+      "timestamp": "2026-10-06T08:02:26",
+      "download_attempts": 0
+    },
+    "full_text": "早起的虫儿有鸟吃\n没关窗帘，这么早对面楼应该没人看到吧哈哈 https://t.co/0DSNRBGoOL",
+    "publish_time": "2026-10-06T07:56:41"
   }
 ]
