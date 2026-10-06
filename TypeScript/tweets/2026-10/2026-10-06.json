@@ -294,5 +294,33 @@
     "tweetUrl": "https://x.com/Szzsen/status/2107269519387587032",
     "fullText": "TAKE It Off https://t.co/yFyhEa43Ml",
     "publishTime": "2026-10-06T08:39:39"
+  },
+  {
+    "user": {
+      "screenName": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2107289164123430912/vid/avc1/720x1280/r70tjWuTXKJoQuNq.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/BBoy1069/status/2107289255882186882",
+    "fullText": "【2026年10月6日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/taPHDNRn3J",
+    "publishTime": "2026-10-06T09:58:04"
+  },
+  {
+    "user": {
+      "screenName": "Leon_pan999",
+      "name": "Leon"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HT6ZCXXbgAAG048.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Leon_pan999/status/2107289949267771442",
+    "fullText": "🥯 https://t.co/RnLUcFkcgk",
+    "publishTime": "2026-10-06T10:00:50"
   }
 ]
