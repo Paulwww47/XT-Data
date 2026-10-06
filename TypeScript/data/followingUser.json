@@ -4507,9 +4507,30 @@
       "name": "kaka",
       "screenName": "kaka_lac",
       "createdAt": "Wed Oct 18 18:29:53 +0000 2017",
-      "description": "",
+      "description": "情趣用品店：kaka carnal成人玩具店，会员群：https://t.co/cOe28r8Bvs，内衣店：他氏内衣集合店，会员群：https://t.co/1Y5bvGrXId，防走丢：@kakalac_，咨询v:a12340984",
       "entities": {
-        "description": {},
+        "description": {
+          "urls": [
+            {
+              "display_url": "t.me/Kakacarnal",
+              "expanded_url": "https://t.me/Kakacarnal",
+              "indices": [
+                27,
+                50
+              ],
+              "url": "https://t.co/cOe28r8Bvs"
+            },
+            {
+              "display_url": "t.me/toxic_taobao",
+              "expanded_url": "https://t.me/toxic_taobao",
+              "indices": [
+                67,
+                90
+              ],
+              "url": "https://t.co/1Y5bvGrXId"
+            }
+          ]
+        },
         "url": {
           "urls": [
             {
@@ -4519,7 +4540,7 @@
                 0,
                 23
               ],
-              "url": "https://t.co/fisLrH4m0z"
+              "url": "https://t.co/fisLrH3Ob1"
             }
           ]
         }
@@ -6554,7 +6575,7 @@
       "name": "Olekeee",
       "screenName": "olekeee",
       "createdAt": "Tue Dec 06 08:15:28 +0000 2022",
-      "description": "黑暗面",
+      "description": "黑暗面\n不卖不换视频 随缘分享 随缘删",
       "entities": {
         "description": {}
       },
