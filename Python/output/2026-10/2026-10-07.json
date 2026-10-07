@@ -1484,5 +1484,31 @@
     },
     "full_text": "下犬式 https://t.co/K5id6rjfQL",
     "publish_time": "2026-10-07T12:45:18"
+  },
+  {
+    "tweet_id": "2107712231324488139",
+    "file_name": "HUAZGFhXcAAL8kc.jpg",
+    "user": {
+      "screen_name": "d8xf9p",
+      "name": "璟川"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUAZGFhXcAAL8kc.jpg",
+    "read_time": "2026-10-07T14:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40666,
+      "timestamp": "2026-10-07T14:02:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.04,
+      "timestamp": "2026-10-07T14:02:20",
+      "download_attempts": 0
+    },
+    "full_text": "早上好 https://t.co/SvOTYDaTT0",
+    "publish_time": "2026-10-07T13:58:50"
   }
 ]
