@@ -1510,5 +1510,83 @@
     },
     "full_text": "早上好 https://t.co/SvOTYDaTT0",
     "publish_time": "2026-10-07T13:58:50"
+  },
+  {
+    "tweet_id": "2107716327184237025",
+    "file_name": "OIg994vmHzQ9WWgv.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2107716278047899648/vid/avc1/1280x720/OIg994vmHzQ9WWgv.mp4?tag=29",
+    "read_time": "2026-10-07T15:02:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40667,
+      "timestamp": "2026-10-07T15:02:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.31,
+      "timestamp": "2026-10-07T15:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "高铁🚅ing https://t.co/JvTSHGS946",
+    "publish_time": "2026-10-07T14:15:06"
+  },
+  {
+    "tweet_id": "2107716327184237025",
+    "file_name": "R5tpJRXjdMet4Ff0.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2107716304471998464/vid/avc1/1280x720/R5tpJRXjdMet4Ff0.mp4?tag=29",
+    "read_time": "2026-10-07T15:02:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40668,
+      "timestamp": "2026-10-07T15:02:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.28,
+      "timestamp": "2026-10-07T15:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "高铁🚅ing https://t.co/JvTSHGS946",
+    "publish_time": "2026-10-07T14:15:06"
+  },
+  {
+    "tweet_id": "2107717295472791621",
+    "file_name": "HUAdsOeaEAAI0kI.jpg",
+    "user": {
+      "screen_name": "hbcssg",
+      "name": "黄博城啊啊"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUAdsOeaEAAI0kI.jpg",
+    "read_time": "2026-10-07T15:02:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40669,
+      "timestamp": "2026-10-07T15:02:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-10-07T15:02:19",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Us9noAiqC4",
+    "publish_time": "2026-10-07T14:18:57"
   }
 ]
