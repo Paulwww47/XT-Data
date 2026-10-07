@@ -440,5 +440,109 @@
     },
     "full_text": "2019jayjaylin https://t.co/I5eIqaRQ8v",
     "publish_time": "2026-10-08T04:52:59"
+  },
+  {
+    "tweet_id": "2107955470514446484",
+    "file_name": "NZE6m40Jr8PXZpKS.mp4",
+    "user": {
+      "screen_name": "112161417z",
+      "name": "毛英俊"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2107955418345738240/vid/avc1/1080x1920/NZE6m40Jr8PXZpKS.mp4?tag=29",
+    "read_time": "2026-10-08T07:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40749,
+      "timestamp": "2026-10-08T07:02:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 2.77,
+      "timestamp": "2026-10-08T07:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/v7BCQS225D",
+    "publish_time": "2026-10-08T06:05:22"
+  },
+  {
+    "tweet_id": "2107955470514446484",
+    "file_name": "Gt48v_gZpucXB5-9.mp4",
+    "user": {
+      "screen_name": "112161417z",
+      "name": "毛英俊"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2107955418320572416/vid/avc1/1080x1920/Gt48v_gZpucXB5-9.mp4?tag=29",
+    "read_time": "2026-10-08T07:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40750,
+      "timestamp": "2026-10-08T07:02:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 5.13,
+      "timestamp": "2026-10-08T07:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/v7BCQS225D",
+    "publish_time": "2026-10-08T06:05:22"
+  },
+  {
+    "tweet_id": "2107955470514446484",
+    "file_name": "JwlFLjW2avHd9SYu.mp4",
+    "user": {
+      "screen_name": "112161417z",
+      "name": "毛英俊"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2107955418307928064/vid/avc1/720x1280/JwlFLjW2avHd9SYu.mp4?tag=29",
+    "read_time": "2026-10-08T07:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40751,
+      "timestamp": "2026-10-08T07:02:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.12,
+      "timestamp": "2026-10-08T07:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/v7BCQS225D",
+    "publish_time": "2026-10-08T06:05:22"
+  },
+  {
+    "tweet_id": "2107959728802603217",
+    "file_name": "HUD6M6oagAAiIRf.jpg",
+    "user": {
+      "screen_name": "CherishGil99144",
+      "name": "蒋同学iocn"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUD6M6oagAAiIRf.jpg",
+    "read_time": "2026-10-08T07:02:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40752,
+      "timestamp": "2026-10-08T07:02:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-10-08T07:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "早 https://t.co/vcr7NQkU7k",
+    "publish_time": "2026-10-08T06:22:18"
   }
 ]

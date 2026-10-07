@@ -198,5 +198,35 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2107937252156539382",
     "fullText": "2019jayjaylin https://t.co/I5eIqaRQ8v",
     "publishTime": "2026-10-08T04:52:59"
+  },
+  {
+    "user": {
+      "screenName": "112161417z",
+      "name": "毛英俊"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2107955418345738240/vid/avc1/1080x1920/NZE6m40Jr8PXZpKS.mp4?tag=29",
+      "https://video.twimg.com/amplify_video/2107955418320572416/vid/avc1/1080x1920/Gt48v_gZpucXB5-9.mp4?tag=29",
+      "https://video.twimg.com/amplify_video/2107955418307928064/vid/avc1/720x1280/JwlFLjW2avHd9SYu.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/112161417z/status/2107955470514446484",
+    "fullText": "https://t.co/v7BCQS225D",
+    "publishTime": "2026-10-08T06:05:22"
+  },
+  {
+    "user": {
+      "screenName": "CherishGil99144",
+      "name": "蒋同学iocn"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUD6M6oagAAiIRf.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/CherishGil99144/status/2107959728802603217",
+    "fullText": "早 https://t.co/vcr7NQkU7k",
+    "publishTime": "2026-10-08T06:22:18"
   }
 ]
