@@ -1486,6 +1486,32 @@
     "publish_time": "2026-10-07T12:45:18"
   },
   {
+    "tweet_id": "2107704194643697799",
+    "file_name": "ucNQ8Tj4xzZ_lKjn.mp4",
+    "user": {
+      "screen_name": "ericwu1990",
+      "name": "Eric小厕所"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2107704171621134336/vid/avc1/828x1400/ucNQ8Tj4xzZ_lKjn.mp4?tag=29",
+    "read_time": "2026-10-07T18:03:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40688,
+      "timestamp": "2026-10-07T18:03:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.85,
+      "timestamp": "2026-10-07T18:03:48",
+      "download_attempts": 0
+    },
+    "full_text": "🌊 https://t.co/IIsTWZlyFy",
+    "publish_time": "2026-10-07T13:26:53"
+  },
+  {
     "tweet_id": "2107712231324488139",
     "file_name": "HUAZGFhXcAAL8kc.jpg",
     "user": {
@@ -1917,7 +1943,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (59.67MB > 50.00MB)",
       "timestamp": "2026-10-07T17:02:19",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -2084,5 +2110,553 @@
     },
     "full_text": "#直男 #肌肉 #薄肌 #采访 #勾引\n🔞出直男采访频道, 持续更新 \n\n⏩持续更新 ,主页可➕🐧 https://t.co/JDHTUB8NlK",
     "publish_time": "2026-10-07T16:57:51"
+  },
+  {
+    "tweet_id": "2107761117028344294",
+    "file_name": "HUBFXptaQAADr94.jpg",
+    "user": {
+      "screen_name": "HHAF0531",
+      "name": "阿福"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUBFXptaQAADr94.jpg",
+    "read_time": "2026-10-07T18:03:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40689,
+      "timestamp": "2026-10-07T18:03:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-10-07T18:03:53",
+      "download_attempts": 0
+    },
+    "full_text": "终于回国了 https://t.co/qFV1IDdW1R",
+    "publish_time": "2026-10-07T17:13:05"
+  },
+  {
+    "tweet_id": "2107761117028344294",
+    "file_name": "HUBFXppaMAAjYGG.jpg",
+    "user": {
+      "screen_name": "HHAF0531",
+      "name": "阿福"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUBFXppaMAAjYGG.jpg",
+    "read_time": "2026-10-07T18:03:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40690,
+      "timestamp": "2026-10-07T18:03:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-10-07T18:03:53",
+      "download_attempts": 0
+    },
+    "full_text": "终于回国了 https://t.co/qFV1IDdW1R",
+    "publish_time": "2026-10-07T17:13:05"
+  },
+  {
+    "tweet_id": "2107761117028344294",
+    "file_name": "HUBFXppaoAAm9yZ.jpg",
+    "user": {
+      "screen_name": "HHAF0531",
+      "name": "阿福"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUBFXppaoAAm9yZ.jpg",
+    "read_time": "2026-10-07T18:03:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40691,
+      "timestamp": "2026-10-07T18:03:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-10-07T18:03:53",
+      "download_attempts": 0
+    },
+    "full_text": "终于回国了 https://t.co/qFV1IDdW1R",
+    "publish_time": "2026-10-07T17:13:05"
+  },
+  {
+    "tweet_id": "2107761117028344294",
+    "file_name": "HUBFXpybYAA6Hdb.jpg",
+    "user": {
+      "screen_name": "HHAF0531",
+      "name": "阿福"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUBFXpybYAA6Hdb.jpg",
+    "read_time": "2026-10-07T18:03:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40692,
+      "timestamp": "2026-10-07T18:03:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-10-07T18:03:53",
+      "download_attempts": 0
+    },
+    "full_text": "终于回国了 https://t.co/qFV1IDdW1R",
+    "publish_time": "2026-10-07T17:13:05"
+  },
+  {
+    "tweet_id": "2107761206840991818",
+    "file_name": "HUBFlDyaYAAyBWt.jpg",
+    "user": {
+      "screen_name": "HHAF0531",
+      "name": "阿福"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUBFlDyaYAAyBWt.jpg",
+    "read_time": "2026-10-07T18:03:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40693,
+      "timestamp": "2026-10-07T18:03:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-10-07T18:03:55",
+      "download_attempts": 0
+    },
+    "full_text": "国庆结束要好好健身！ https://t.co/749iZ7Nz1J",
+    "publish_time": "2026-10-07T17:13:26"
+  },
+  {
+    "tweet_id": "2107761239413977327",
+    "file_name": "HUBFpmCbgAAut_z.mp4",
+    "user": {
+      "screen_name": "ji_zhe30139",
+      "name": "冰冰"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/HUBFpmCbgAAut_z.mp4",
+    "read_time": "2026-10-07T18:03:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40694,
+      "timestamp": "2026-10-07T18:03:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.04,
+      "timestamp": "2026-10-07T18:03:56",
+      "download_attempts": 0
+    },
+    "full_text": "因为做爱怕疼，所以一直没有视频，什么时候变成烂逼就好了 https://t.co/IZGXoSp4fY",
+    "publish_time": "2026-10-07T17:13:34"
+  },
+  {
+    "tweet_id": "2107762394986582121",
+    "file_name": "lEkqcs4P_HU_495e.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2107762277604823040/vid/avc1/1280x720/lEkqcs4P_HU_495e.mp4?tag=29",
+    "read_time": "2026-10-07T18:03:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40695,
+      "timestamp": "2026-10-07T18:04:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.24,
+      "timestamp": "2026-10-07T18:03:57",
+      "download_attempts": 0
+    },
+    "full_text": "睡醒爆射1️⃣ https://t.co/eeRrI0a0OD",
+    "publish_time": "2026-10-07T17:18:09"
+  },
+  {
+    "tweet_id": "2107762394986582121",
+    "file_name": "KvgOzyk4HMxDHjqy.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2107762302019891200/vid/avc1/1280x720/KvgOzyk4HMxDHjqy.mp4?tag=29",
+    "read_time": "2026-10-07T18:03:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40696,
+      "timestamp": "2026-10-07T18:04:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.39,
+      "timestamp": "2026-10-07T18:03:57",
+      "download_attempts": 0
+    },
+    "full_text": "睡醒爆射1️⃣ https://t.co/eeRrI0a0OD",
+    "publish_time": "2026-10-07T17:18:09"
+  },
+  {
+    "tweet_id": "2107762394986582121",
+    "file_name": "3X8OydiWHNL95Xb2.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2107762342541107200/vid/avc1/1280x720/3X8OydiWHNL95Xb2.mp4?tag=29",
+    "read_time": "2026-10-07T18:03:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40697,
+      "timestamp": "2026-10-07T18:04:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.27,
+      "timestamp": "2026-10-07T18:03:57",
+      "download_attempts": 0
+    },
+    "full_text": "睡醒爆射1️⃣ https://t.co/eeRrI0a0OD",
+    "publish_time": "2026-10-07T17:18:09"
+  },
+  {
+    "tweet_id": "2107762394986582121",
+    "file_name": "-KCxB462eeIQQwSl.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2107762371095851008/vid/avc1/1280x720/-KCxB462eeIQQwSl.mp4?tag=29",
+    "read_time": "2026-10-07T18:03:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40698,
+      "timestamp": "2026-10-07T18:04:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.39,
+      "timestamp": "2026-10-07T18:03:57",
+      "download_attempts": 0
+    },
+    "full_text": "睡醒爆射1️⃣ https://t.co/eeRrI0a0OD",
+    "publish_time": "2026-10-07T17:18:09"
+  },
+  {
+    "tweet_id": "2107762685266022755",
+    "file_name": "whcEUviHa4hLGT0x.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2107762580987273216/vid/avc1/1280x720/whcEUviHa4hLGT0x.mp4?tag=29",
+    "read_time": "2026-10-07T18:03:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40699,
+      "timestamp": "2026-10-07T18:04:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.34,
+      "timestamp": "2026-10-07T18:04:00",
+      "download_attempts": 0
+    },
+    "full_text": "睡醒爆射2️⃣ https://t.co/CAENur1xdo",
+    "publish_time": "2026-10-07T17:19:19"
+  },
+  {
+    "tweet_id": "2107762685266022755",
+    "file_name": "XXur6oKonvEBpXCR.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2107762603997253632/vid/avc1/1280x720/XXur6oKonvEBpXCR.mp4?tag=29",
+    "read_time": "2026-10-07T18:03:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40700,
+      "timestamp": "2026-10-07T18:04:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.29,
+      "timestamp": "2026-10-07T18:04:00",
+      "download_attempts": 0
+    },
+    "full_text": "睡醒爆射2️⃣ https://t.co/CAENur1xdo",
+    "publish_time": "2026-10-07T17:19:19"
+  },
+  {
+    "tweet_id": "2107762685266022755",
+    "file_name": "9Lag7AE8hwH4wfnw.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2107762663313022976/vid/avc1/720x1280/9Lag7AE8hwH4wfnw.mp4?tag=29",
+    "read_time": "2026-10-07T18:03:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40701,
+      "timestamp": "2026-10-07T18:04:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.45,
+      "timestamp": "2026-10-07T18:04:00",
+      "download_attempts": 0
+    },
+    "full_text": "睡醒爆射2️⃣ https://t.co/CAENur1xdo",
+    "publish_time": "2026-10-07T17:19:19"
+  },
+  {
+    "tweet_id": "2107762690819334534",
+    "file_name": "HUBG9qwb0AEq0Qz.jpg",
+    "user": {
+      "screen_name": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUBG9qwb0AEq0Qz.jpg",
+    "read_time": "2026-10-07T18:03:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40702,
+      "timestamp": "2026-10-07T18:04:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-10-07T18:04:03",
+      "download_attempts": 0
+    },
+    "full_text": "“Wanna get involved?” 🟧 https://t.co/IKRraTCSCk",
+    "publish_time": "2026-10-07T17:19:20"
+  },
+  {
+    "tweet_id": "2107762690819334534",
+    "file_name": "HUBG-SVaQAA1AvQ.jpg",
+    "user": {
+      "screen_name": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUBG-SVaQAA1AvQ.jpg",
+    "read_time": "2026-10-07T18:03:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40703,
+      "timestamp": "2026-10-07T18:04:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-10-07T18:04:03",
+      "download_attempts": 0
+    },
+    "full_text": "“Wanna get involved?” 🟧 https://t.co/IKRraTCSCk",
+    "publish_time": "2026-10-07T17:19:20"
+  },
+  {
+    "tweet_id": "2107762690819334534",
+    "file_name": "HUBG-2LboAAdhVw.jpg",
+    "user": {
+      "screen_name": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUBG-2LboAAdhVw.jpg",
+    "read_time": "2026-10-07T18:03:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40704,
+      "timestamp": "2026-10-07T18:04:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-10-07T18:04:03",
+      "download_attempts": 0
+    },
+    "full_text": "“Wanna get involved?” 🟧 https://t.co/IKRraTCSCk",
+    "publish_time": "2026-10-07T17:19:20"
+  },
+  {
+    "tweet_id": "2107762690819334534",
+    "file_name": "HUBG_cdaAAEQ7_d.jpg",
+    "user": {
+      "screen_name": "OT_SITH",
+      "name": "奥特西斯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUBG_cdaAAEQ7_d.jpg",
+    "read_time": "2026-10-07T18:03:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40705,
+      "timestamp": "2026-10-07T18:04:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.2,
+      "timestamp": "2026-10-07T18:04:03",
+      "download_attempts": 0
+    },
+    "full_text": "“Wanna get involved?” 🟧 https://t.co/IKRraTCSCk",
+    "publish_time": "2026-10-07T17:19:20"
+  },
+  {
+    "tweet_id": "2107763179791253597",
+    "file_name": "UN6xpwrFvxzCQohn.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2107762898454093824/vid/avc1/1280x720/UN6xpwrFvxzCQohn.mp4?tag=29",
+    "read_time": "2026-10-07T18:03:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40706,
+      "timestamp": "2026-10-07T18:04:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 17.76,
+      "timestamp": "2026-10-07T18:04:07",
+      "download_attempts": 0
+    },
+    "full_text": "睡醒爆射一堆  味道很上头噢 https://t.co/BRPyGqduM5",
+    "publish_time": "2026-10-07T17:21:17"
+  },
+  {
+    "tweet_id": "2107766271077130740",
+    "file_name": "6Crasu_s6mS1Lp04.mp4",
+    "user": {
+      "screen_name": "Big_straight_H",
+      "name": "荒"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/1942030947844829184/vid/avc1/720x720/6Crasu_s6mS1Lp04.mp4?tag=21",
+    "read_time": "2026-10-07T18:03:48",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (221.28MB > 50.00MB)",
+      "timestamp": "2026-10-07T18:04:28",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 221.28,
+      "timestamp": "2026-10-07T18:04:28",
+      "download_attempts": 0
+    },
+    "full_text": "好想跟大屌一起輪操內射潮吹妹妹🫪 https://t.co/7gB6mH2xgZ",
+    "publish_time": "2026-10-07T17:33:34"
+  },
+  {
+    "tweet_id": "2107770057191534838",
+    "file_name": "HUBNsBtbcAA0yJS.jpg",
+    "user": {
+      "screen_name": "HeKyo7991",
+      "name": "和大人"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUBNsBtbcAA0yJS.jpg",
+    "read_time": "2026-10-07T18:03:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40707,
+      "timestamp": "2026-10-07T18:04:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-10-07T18:04:28",
+      "download_attempts": 0
+    },
+    "full_text": "网友：手机歪了\n我：…你要不要看看你在说什么😅 https://t.co/kILS4EZFdj",
+    "publish_time": "2026-10-07T17:48:36"
+  },
+  {
+    "tweet_id": "2107771360416305587",
+    "file_name": "HUBO4SxaEAAHQya.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUBO4SxaEAAHQya.jpg",
+    "read_time": "2026-10-07T18:03:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40708,
+      "timestamp": "2026-10-07T18:04:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-10-07T18:04:29",
+      "download_attempts": 0
+    },
+    "full_text": "anselm_cheng https://t.co/utQJjYkWCc",
+    "publish_time": "2026-10-07T17:53:47"
   }
 ]
