@@ -2595,7 +2595,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (221.28MB > 50.00MB)",
       "timestamp": "2026-10-07T18:04:28",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -2658,5 +2658,57 @@
     },
     "full_text": "anselm_cheng https://t.co/utQJjYkWCc",
     "publish_time": "2026-10-07T17:53:47"
+  },
+  {
+    "tweet_id": "2107774456785715596",
+    "file_name": "HUBRsDGaUAAcZR6.jpg",
+    "user": {
+      "screen_name": "0018nyy",
+      "name": "那那小队长"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUBRsDGaUAAcZR6.jpg",
+    "read_time": "2026-10-07T19:02:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40709,
+      "timestamp": "2026-10-07T19:02:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-10-07T19:02:40",
+      "download_attempts": 0
+    },
+    "full_text": "晒伤了 https://t.co/Y9FqSh4FxG",
+    "publish_time": "2026-10-07T18:06:05"
+  },
+  {
+    "tweet_id": "2107775740012016048",
+    "file_name": "HUBS23Kb0AAelYY.jpg",
+    "user": {
+      "screen_name": "dozzz888",
+      "name": "infj-豆子(上海）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUBS23Kb0AAelYY.jpg",
+    "read_time": "2026-10-07T19:02:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40710,
+      "timestamp": "2026-10-07T19:02:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.24,
+      "timestamp": "2026-10-07T19:02:42",
+      "download_attempts": 0
+    },
+    "full_text": "今天的夕阳把影子拉得这么长\n明天的我就要离开\n\n夏天这么短\n短到晃眼匆匆就结束\n\n思念这么长\n长到无数日日月月依旧浓烈\n\n夏天是来不及\n思念是放不下 https://t.co/9pe8zglLuU",
+    "publish_time": "2026-10-07T18:11:11"
   }
 ]
