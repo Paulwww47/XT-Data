@@ -756,5 +756,31 @@
     },
     "full_text": "https://t.co/zoo7hMp7el",
     "publish_time": "2026-10-07T05:53:15"
+  },
+  {
+    "tweet_id": "2107620601775173772",
+    "file_name": "HT_FwreaQAEHBRp.jpg",
+    "user": {
+      "screen_name": "Nonglaoshi520",
+      "name": "长沙农老师"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HT_FwreaQAEHBRp.jpg",
+    "read_time": "2026-10-07T08:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 40638,
+      "timestamp": "2026-10-07T08:02:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.03,
+      "timestamp": "2026-10-07T08:02:25",
+      "download_attempts": 0
+    },
+    "full_text": "国庆定了个小目标，7天长假要肝到3W个视频，最后一天熬了个通宵，终于是达标了，睡觉睡觉～💤\n（原本的计划是一年肝到3.6W个视频，这样看来，一年肝到5W都不是梦） https://t.co/ZI4KMJR2uB",
+    "publish_time": "2026-10-07T07:54:43"
   }
 ]
