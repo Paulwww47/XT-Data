@@ -100,5 +100,47 @@
     "tweetUrl": "https://x.com/gtrrrmmm/status/2107893832801210702",
     "fullText": "头套 https://t.co/7arsL0Bh3u",
     "publishTime": "2026-10-08T02:00:27"
+  },
+  {
+    "user": {
+      "screenName": "gtrrrmmm",
+      "name": "莫鑫"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUC-x0SacAEwnti.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/gtrrrmmm/status/2107894399921532953",
+    "fullText": "🪞 https://t.co/NI2hpHri6S",
+    "publishTime": "2026-10-08T02:02:42"
+  },
+  {
+    "user": {
+      "screenName": "rthurz",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2107897151238053888/vid/avc1/2160x3840/sL7tHSw6AThgCNR1.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/rthurz/status/2107897220146327731",
+    "fullText": "top down view 🤩 https://t.co/JaGvn99oIQ",
+    "publishTime": "2026-10-08T02:13:54"
+  },
+  {
+    "user": {
+      "screenName": "c558668",
+      "name": "0m"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2107902844028514305/vid/avc1/1080x1920/iVJeDlItvwJY_Ge4.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/c558668/status/2107902880577675398",
+    "fullText": "美好时光 https://t.co/EosTuYpMp0",
+    "publishTime": "2026-10-08T02:36:24"
   }
 ]
