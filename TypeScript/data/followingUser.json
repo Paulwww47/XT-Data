@@ -549,7 +549,7 @@
       "name": "ali",
       "screenName": "ali605063114862",
       "createdAt": "Thu Aug 10 10:25:52 +0000 2023",
-      "description": "🐧 3941948264非诚勿扰",
+      "description": "🐧 1296730303\n非诚勿扰",
       "entities": {
         "description": {}
       },
@@ -2305,6 +2305,20 @@
     }
   },
   {
+    "restId": "2103708221865426944",
+    "legacy": {
+      "name": "Dragon",
+      "screenName": "Dragoncum02",
+      "createdAt": "Sat Sep 26 04:49:29 +0000 2026",
+      "description": "New account",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": ""
+    }
+  },
+  {
     "restId": "1200473141450985478",
     "legacy": {
       "name": "Nothing_Duk",
@@ -3990,6 +4004,20 @@
     }
   },
   {
+    "restId": "784087057018650624",
+    "legacy": {
+      "name": "380（睡觉版）",
+      "screenName": "ismgto",
+      "createdAt": "Thu Oct 06 17:44:56 +0000 2016",
+      "description": "就一个号哦，纯分享，注意防骗～",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": ""
+    }
+  },
+  {
     "restId": "1441560657711697932",
     "legacy": {
       "name": "一丞",
@@ -4521,9 +4549,30 @@
       "name": "kaka",
       "screenName": "kaka_lac",
       "createdAt": "Wed Oct 18 18:29:53 +0000 2017",
-      "description": "",
+      "description": "情趣用品店：kaka carnal成人玩具店，会员群：https://t.co/cOe28r8Bvs，内衣店：他氏内衣集合店，会员群：https://t.co/1Y5bvGrXId，防走丢：@kakalac_，咨询v:a12340984",
       "entities": {
-        "description": {},
+        "description": {
+          "urls": [
+            {
+              "display_url": "t.me/Kakacarnal",
+              "expanded_url": "https://t.me/Kakacarnal",
+              "indices": [
+                27,
+                50
+              ],
+              "url": "https://t.co/cOe28r8Bvs"
+            },
+            {
+              "display_url": "t.me/toxic_taobao",
+              "expanded_url": "https://t.me/toxic_taobao",
+              "indices": [
+                67,
+                90
+              ],
+              "url": "https://t.co/1Y5bvGrXId"
+            }
+          ]
+        },
         "url": {
           "urls": [
             {
@@ -4533,7 +4582,7 @@
                 0,
                 23
               ],
-              "url": "https://t.co/fisLrH4m0z"
+              "url": "https://t.co/fisLrH3Ob1"
             }
           ]
         }
@@ -5254,10 +5303,10 @@
   {
     "restId": "2056600122403020800",
     "legacy": {
-      "name": "特大号（上翘粗🍆杭州上海",
+      "name": "特大号（上翘粗🍆深圳广州",
       "screenName": "Linxs5767",
       "createdAt": "Tue May 19 04:58:34 +0000 2026",
-      "description": "新号：🛰️🚪🙅🏻‍♂️闲聊@66881026H大号\n🍆 178-65-17.5上翘🐔🍆顶 比视频粗大 🉑 🙅🏻‍♂️懂？🉑🪂抖音：林先生D",
+      "description": "新号：🛰️🚪🙅🏻‍♂️闲聊@66881026H大号\n178-65-17.5上翘粗🍆顶 比视频粗大 🉑 🙅🏻‍♂️懂？🉑🪂抖音：林先生D",
       "entities": {
         "description": {}
       },
@@ -5994,7 +6043,7 @@
       "name": "三角板",
       "screenName": "mmmmqaz1",
       "createdAt": "Sat May 09 02:51:59 +0000 2026",
-      "description": "不卖视频别问了，等我开通fansone吧｜+v128口令🧧｜长沙｜合作私信｜x只有这个账号，其余都是骗子｜X only has this account, and the rest are scammers！",
+      "description": "不卖视频别问了｜+v128口令🧧｜长沙｜合作私信｜🪂｜地陪｜x只有这个账号，其余都是骗子｜X only has this account, and the rest are scammers！",
       "entities": {
         "description": {}
       },
@@ -10004,7 +10053,7 @@
       "name": "youshu",
       "screenName": "youshu29016120",
       "createdAt": "Fri Jan 10 23:28:50 +0000 2020",
-      "description": "🤚🏻✋🏻v🚪68",
+      "description": "🚪68山东",
       "entities": {
         "description": {}
       },
