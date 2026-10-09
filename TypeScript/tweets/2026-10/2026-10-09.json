@@ -248,5 +248,50 @@
     "tweetUrl": "https://x.com/thisisforoasis/status/2108330485688815967",
     "fullText": "I ATE",
     "publishTime": "2026-10-09T06:55:33"
+  },
+  {
+    "user": {
+      "screenName": "liu6864",
+      "name": "CL357"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUJShj6bsAAfBNN.jpg",
+      "https://pbs.twimg.com/media/HUJShj8aUAAKzkz.jpg",
+      "https://pbs.twimg.com/media/HUJShkCaYAECKB0.jpg",
+      "https://pbs.twimg.com/media/HUJShj8aQAAKWZe.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/liu6864/status/2108338402462695579",
+    "fullText": "version 2~ https://t.co/Ecl0SscE0x",
+    "publishTime": "2026-10-09T07:27:00"
+  },
+  {
+    "user": {
+      "screenName": "xiaopao2778",
+      "name": "小泡🦜"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUJT_RWbAAASbk9.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/xiaopao2778/status/2108339930976190618",
+    "fullText": "https://t.co/Hdln6c8wCN",
+    "publishTime": "2026-10-09T07:33:05"
+  },
+  {
+    "user": {
+      "screenName": "xiao57520",
+      "name": "翱哥备用机"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2108342292562202624/vid/avc1/1080x1920/tsNR5RVmUTm4yGwl.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/xiao57520/status/2108342948484219190",
+    "fullText": "💦 https://t.co/rG2DoMDV9K",
+    "publishTime": "2026-10-09T07:45:04"
   }
 ]
