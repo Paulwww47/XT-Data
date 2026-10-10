@@ -795,7 +795,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (156.89MB > 50.00MB)",
       "timestamp": "2026-10-10T16:25:55",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -1993,7 +1993,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (96.63MB > 50.00MB)",
       "timestamp": "2026-10-10T16:26:45",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
