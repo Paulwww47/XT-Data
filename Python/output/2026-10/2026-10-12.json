@@ -310,5 +310,83 @@
     },
     "full_text": "https://t.co/FEmQLU21Ru",
     "publish_time": "2026-10-12T02:38:31"
+  },
+  {
+    "tweet_id": "2109369786249691533",
+    "file_name": "IxGb_3wrNFQPwHUe.mp4",
+    "user": {
+      "screen_name": "sbby110",
+      "name": "是边边呀"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2109369738224881664/vid/avc1/720x1002/IxGb_3wrNFQPwHUe.mp4?tag=29",
+    "read_time": "2026-10-12T04:02:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41216,
+      "timestamp": "2026-10-12T04:02:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 2.74,
+      "timestamp": "2026-10-12T04:02:26",
+      "download_attempts": 0
+    },
+    "full_text": "刚射射完😬 要睡觉了 https://t.co/wUTJyLb8iL",
+    "publish_time": "2026-10-12T03:45:21"
+  },
+  {
+    "tweet_id": "2109370805825966306",
+    "file_name": "HUX9j7hXYAA7hGO.jpg",
+    "user": {
+      "screen_name": "jaecitoooo",
+      "name": "jae"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUX9j7hXYAA7hGO.jpg",
+    "read_time": "2026-10-12T04:02:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41217,
+      "timestamp": "2026-10-12T04:02:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.22,
+      "timestamp": "2026-10-12T04:02:29",
+      "download_attempts": 0
+    },
+    "full_text": "Me and cactus https://t.co/zmBxSfXuQy",
+    "publish_time": "2026-10-12T03:49:24"
+  },
+  {
+    "tweet_id": "2109370805825966306",
+    "file_name": "HUX9j7tXEAA6su0.jpg",
+    "user": {
+      "screen_name": "jaecitoooo",
+      "name": "jae"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUX9j7tXEAA6su0.jpg",
+    "read_time": "2026-10-12T04:02:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41218,
+      "timestamp": "2026-10-12T04:02:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.34,
+      "timestamp": "2026-10-12T04:02:29",
+      "download_attempts": 0
+    },
+    "full_text": "Me and cactus https://t.co/zmBxSfXuQy",
+    "publish_time": "2026-10-12T03:49:24"
   }
 ]
