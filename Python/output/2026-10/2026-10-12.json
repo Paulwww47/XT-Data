@@ -388,5 +388,31 @@
     },
     "full_text": "Me and cactus https://t.co/zmBxSfXuQy",
     "publish_time": "2026-10-12T03:49:24"
+  },
+  {
+    "tweet_id": "2109376480769896621",
+    "file_name": "6h-MyEW9X9uQ4EAT.mp4",
+    "user": {
+      "screen_name": "jaecitoooo",
+      "name": "jae"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2109356751623421953/vid/avc1/576x1024/6h-MyEW9X9uQ4EAT.mp4?tag=29",
+    "read_time": "2026-10-12T05:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41219,
+      "timestamp": "2026-10-12T05:02:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.64,
+      "timestamp": "2026-10-12T05:02:24",
+      "download_attempts": 0
+    },
+    "full_text": "Mio https://t.co/e5EBjI8Hzf",
+    "publish_time": "2026-10-12T04:11:57"
   }
 ]
