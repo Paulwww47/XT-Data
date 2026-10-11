@@ -1818,5 +1818,57 @@
     },
     "full_text": "连射三天略显疲惫. https://t.co/GxoVPvYkpE",
     "publish_time": "2026-10-11T14:46:57"
+  },
+  {
+    "tweet_id": "2109184445785972809",
+    "file_name": "ZP7U5GzSp6w90eiA.mp4",
+    "user": {
+      "screen_name": "YoungOu123",
+      "name": "Young Ou"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2109184399086604288/vid/avc1/720x1112/ZP7U5GzSp6w90eiA.mp4?tag=29",
+    "read_time": "2026-10-11T16:02:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41135,
+      "timestamp": "2026-10-11T16:02:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.89,
+      "timestamp": "2026-10-11T16:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "还没充血呢 https://t.co/52YHtY4B2a",
+    "publish_time": "2026-10-11T15:28:53"
+  },
+  {
+    "tweet_id": "2109184445785972809",
+    "file_name": "bLiSBzcnG3GoqZdA.mp4",
+    "user": {
+      "screen_name": "YoungOu123",
+      "name": "Young Ou"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2109184399086624768/vid/avc1/720x1146/bLiSBzcnG3GoqZdA.mp4?tag=29",
+    "read_time": "2026-10-11T16:02:34",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41136,
+      "timestamp": "2026-10-11T16:02:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.25,
+      "timestamp": "2026-10-11T16:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "还没充血呢 https://t.co/52YHtY4B2a",
+    "publish_time": "2026-10-11T15:28:53"
   }
 ]
