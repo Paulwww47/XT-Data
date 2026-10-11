@@ -1,0 +1,132 @@
+[
+  {
+    "tweet_id": "2109313924474798246",
+    "file_name": "n1kixWmk2N_Q9nz7.mp4",
+    "user": {
+      "screen_name": "wangluweii",
+      "name": "过期牛油果"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2109313905269018624/vid/avc1/412x232/n1kixWmk2N_Q9nz7.mp4?tag=29",
+    "read_time": "2026-10-12T01:02:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41204,
+      "timestamp": "2026-10-12T01:02:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.22,
+      "timestamp": "2026-10-12T01:02:41",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ETMUZ0HkVl",
+    "publish_time": "2026-10-12T00:03:23"
+  },
+  {
+    "tweet_id": "2109322807742259565",
+    "file_name": "HUXR6YJbUAAPEQx.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUXR6YJbUAAPEQx.jpg",
+    "read_time": "2026-10-12T01:02:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41205,
+      "timestamp": "2026-10-12T01:02:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.26,
+      "timestamp": "2026-10-12T01:02:43",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/n69CVp8Tjz",
+    "publish_time": "2026-10-12T00:38:41"
+  },
+  {
+    "tweet_id": "2109323151494762935",
+    "file_name": "HUXSOWzbYAIHKGZ.jpg",
+    "user": {
+      "screen_name": "rthurz",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUXSOWzbYAIHKGZ.jpg",
+    "read_time": "2026-10-12T01:02:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41206,
+      "timestamp": "2026-10-12T01:02:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-10-12T01:02:45",
+      "download_attempts": 0
+    },
+    "full_text": "#locktober day 1 https://t.co/p4xaxVnncQ",
+    "publish_time": "2026-10-12T00:40:03"
+  },
+  {
+    "tweet_id": "2109323151494762935",
+    "file_name": "HUXSOWybUAA2Hso.jpg",
+    "user": {
+      "screen_name": "rthurz",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUXSOWybUAA2Hso.jpg",
+    "read_time": "2026-10-12T01:02:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41207,
+      "timestamp": "2026-10-12T01:02:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-10-12T01:02:45",
+      "download_attempts": 0
+    },
+    "full_text": "#locktober day 1 https://t.co/p4xaxVnncQ",
+    "publish_time": "2026-10-12T00:40:03"
+  },
+  {
+    "tweet_id": "2109324234011140315",
+    "file_name": "zcSO3UbyioYSsxKG.mp4",
+    "user": {
+      "screen_name": "nlgzwmz0",
+      "name": "Vanda"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2109324110417604608/vid/avc1/1080x1920/zcSO3UbyioYSsxKG.mp4?tag=29",
+    "read_time": "2026-10-12T01:02:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41208,
+      "timestamp": "2026-10-12T01:02:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 25.94,
+      "timestamp": "2026-10-12T01:02:49",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/lkRzuss93J",
+    "publish_time": "2026-10-12T00:44:21"
+  }
+]
