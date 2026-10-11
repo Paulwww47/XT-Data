@@ -518,5 +518,83 @@
     },
     "full_text": "https://t.co/NcRdhskcev",
     "publish_time": "2026-10-11T06:25:50"
+  },
+  {
+    "tweet_id": "2109066477102092795",
+    "file_name": "HUToyCGasAAJ8Gu.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUToyCGasAAJ8Gu.jpg",
+    "read_time": "2026-10-11T08:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41085,
+      "timestamp": "2026-10-11T08:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-10-11T08:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "nguyen.hai95 https://t.co/kxEmJIkYhc",
+    "publish_time": "2026-10-11T07:40:07"
+  },
+  {
+    "tweet_id": "2109066775367504055",
+    "file_name": "HUTpDafaEAAyoyI.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUTpDafaEAAyoyI.jpg",
+    "read_time": "2026-10-11T08:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41086,
+      "timestamp": "2026-10-11T08:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.04,
+      "timestamp": "2026-10-11T08:02:23",
+      "download_attempts": 0
+    },
+    "full_text": "nrdy4u https://t.co/wNzQYz8S79",
+    "publish_time": "2026-10-11T07:41:18"
+  },
+  {
+    "tweet_id": "2109071040634925128",
+    "file_name": "HUTs71QboAAFNqE.jpg",
+    "user": {
+      "screen_name": "CherishGil99144",
+      "name": "蒋同学iocn"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUTs71QboAAFNqE.jpg",
+    "read_time": "2026-10-11T08:02:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41087,
+      "timestamp": "2026-10-11T08:02:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-10-11T08:02:24",
+      "download_attempts": 0
+    },
+    "full_text": "早 https://t.co/xrgXn6KTlb",
+    "publish_time": "2026-10-11T07:58:15"
   }
 ]
