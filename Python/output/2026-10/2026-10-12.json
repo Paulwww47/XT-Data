@@ -674,5 +674,57 @@
     },
     "full_text": "帥帥KOH桑🩷 https://t.co/BRzV7kDvC5",
     "publish_time": "2026-10-12T08:44:10"
+  },
+  {
+    "tweet_id": "2109459006666522627",
+    "file_name": "D0ENjpgBsV_tPDp3.mp4",
+    "user": {
+      "screen_name": "Guo53267074Guo",
+      "name": "开心最大"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2109458978204004352/vid/avc1/1080x1440/D0ENjpgBsV_tPDp3.mp4?tag=29",
+    "read_time": "2026-10-12T10:03:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41230,
+      "timestamp": "2026-10-12T10:03:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.98,
+      "timestamp": "2026-10-12T10:03:29",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/CMlSsCOudi",
+    "publish_time": "2026-10-12T09:39:53"
+  },
+  {
+    "tweet_id": "2109462478367400298",
+    "file_name": "HUZQ6IpbwAA0A2V.jpg",
+    "user": {
+      "screen_name": "liu6864",
+      "name": "CL357"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUZQ6IpbwAA0A2V.jpg",
+    "read_time": "2026-10-12T10:03:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41231,
+      "timestamp": "2026-10-12T10:03:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-10-12T10:03:32",
+      "download_attempts": 0
+    },
+    "full_text": "🤫~ https://t.co/GfYmJeKclr",
+    "publish_time": "2026-10-12T09:53:41"
   }
 ]
