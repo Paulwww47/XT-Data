@@ -269,19 +269,17 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/2109349665867214848/vid/avc1/1280x720/vBUA1YoD4j_2iwG1.mp4?tag=29",
     "read_time": "2026-10-12T17:03:23",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2026-10-12T17:03:47",
-      "notification_sent": false
+      "success": true,
+      "message_id": 41267,
+      "timestamp": "2026-10-12T18:02:03"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size_mb": 22.15,
-      "timestamp": "2026-10-12T17:03:24",
+      "timestamp": "2026-10-12T18:01:58",
       "download_attempts": 0
     },
     "full_text": "那些年我遇见的天菜（吉林体育学院男大） https://t.co/iCBA23s9oF",
@@ -1597,19 +1595,17 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/2109560046665502720/vid/avc1/884x1548/PHQ4YUGu8zUYZ2PY.mp4?tag=29",
     "read_time": "2026-10-12T17:03:23",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2026-10-12T17:04:09",
-      "notification_sent": false
+      "success": true,
+      "message_id": 41268,
+      "timestamp": "2026-10-12T18:02:05"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size_mb": 5.71,
-      "timestamp": "2026-10-12T17:03:47",
+      "timestamp": "2026-10-12T18:02:03",
       "download_attempts": 0
     },
     "full_text": "猜猜这是谁 https://t.co/mceeIMSfrV",
@@ -1640,5 +1636,137 @@
     },
     "full_text": "https://t.co/yRUjIavxxM",
     "publish_time": "2026-10-12T16:44:15"
+  },
+  {
+    "tweet_id": "2109570874793984416",
+    "file_name": "41Qgj6712fnYRPlK.mp4",
+    "user": {
+      "screen_name": "SSmakabaka",
+      "name": "@zhui"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2109570798960918528/vid/avc1/1280x720/41Qgj6712fnYRPlK.mp4?tag=29",
+    "read_time": "2026-10-12T18:01:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41269,
+      "timestamp": "2026-10-12T18:02:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 9.59,
+      "timestamp": "2026-10-12T18:02:06",
+      "download_attempts": 0
+    },
+    "full_text": "这个角度好看吗 https://t.co/BN7krpuz9j",
+    "publish_time": "2026-10-12T17:04:25"
+  },
+  {
+    "tweet_id": "2109571939706736745",
+    "file_name": "HUa0fn7bYAElbY9.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUa0fn7bYAElbY9.jpg",
+    "read_time": "2026-10-12T18:01:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41270,
+      "timestamp": "2026-10-12T18:02:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.18,
+      "timestamp": "2026-10-12T18:02:08",
+      "download_attempts": 0
+    },
+    "full_text": "j_judge_i https://t.co/QksGirdoCm",
+    "publish_time": "2026-10-12T17:08:39"
+  },
+  {
+    "tweet_id": "2109571999765049755",
+    "file_name": "HUa0jNYaAAA0UkB.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUa0jNYaAAA0UkB.jpg",
+    "read_time": "2026-10-12T18:01:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41271,
+      "timestamp": "2026-10-12T18:02:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-10-12T18:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/jJ6A7Q9xc7",
+    "publish_time": "2026-10-12T17:08:53"
+  },
+  {
+    "tweet_id": "2109579097173377281",
+    "file_name": "Ej8BdC5WxpEuqAew.mp4",
+    "user": {
+      "screen_name": "Linxs5767",
+      "name": "特大号（上翘粗🍆长沙北京"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2109578852934750208/vid/avc1/1920x1080/Ej8BdC5WxpEuqAew.mp4?tag=29",
+    "read_time": "2026-10-12T18:01:58",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (72.29MB > 50.00MB)",
+      "timestamp": "2026-10-12T18:02:16",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 72.29,
+      "timestamp": "2026-10-12T18:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "白皮肌肉视频来了https://t.co/5dn1FkYZgE https://t.co/YY2XWJpgJg",
+    "publish_time": "2026-10-12T17:37:05"
+  },
+  {
+    "tweet_id": "2109579097173377281",
+    "file_name": "HT74N1CLpDgEYmGT.mp4",
+    "user": {
+      "screen_name": "Linxs5767",
+      "name": "特大号（上翘粗🍆长沙北京"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2109578852943216640/vid/avc1/1920x1080/HT74N1CLpDgEYmGT.mp4?tag=29",
+    "read_time": "2026-10-12T18:01:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41272,
+      "timestamp": "2026-10-12T18:02:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 2.89,
+      "timestamp": "2026-10-12T18:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "白皮肌肉视频来了https://t.co/5dn1FkYZgE https://t.co/YY2XWJpgJg",
+    "publish_time": "2026-10-12T17:37:05"
   }
 ]
