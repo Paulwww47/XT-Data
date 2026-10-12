@@ -258,5 +258,61 @@
     "tweetUrl": "https://x.com/jaecitoooo/status/2109750987896623281",
     "fullText": "꼭 가봐야지",
     "publishTime": "2026-10-13T05:00:07"
+  },
+  {
+    "user": {
+      "screenName": "jaecitoooo",
+      "name": "jae"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/jaecitoooo/status/2109751594514522150",
+    "fullText": "❤️",
+    "publishTime": "2026-10-13T05:02:32"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUdeQtoagAAGwp3.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2109758598897389596",
+    "fullText": "mr_issacyuen https://t.co/VKEy7cOG30",
+    "publishTime": "2026-10-13T05:30:22"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HUdeb5oaUAQd2AH.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [
+      "https://tzz.an"
+    ],
+    "tweetUrl": "https://x.com/eric_kk97/status/2109758791986372866",
+    "fullText": "https://t.co/F4f8DL8pcN https://t.co/Fb5PQW2qmC",
+    "publishTime": "2026-10-13T05:31:08"
+  },
+  {
+    "user": {
+      "screenName": "rayon1369",
+      "name": "邹良军"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2109623262456201216/vid/avc1/512x1082/G0fSzUDtIi1K6mET.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/rayon1369/status/2109764139862339712",
+    "fullText": "https://t.co/BBvoEQIAiR",
+    "publishTime": "2026-10-13T05:52:23"
   }
 ]
