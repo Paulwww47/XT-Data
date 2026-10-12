@@ -260,6 +260,34 @@
     "publish_time": "2026-10-12T02:10:18"
   },
   {
+    "tweet_id": "2109349807596982599",
+    "file_name": "vBUA1YoD4j_2iwG1.mp4",
+    "user": {
+      "screen_name": "DaisyJu111",
+      "name": "雏菊"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2109349665867214848/vid/avc1/1280x720/vBUA1YoD4j_2iwG1.mp4?tag=29",
+    "read_time": "2026-10-12T17:03:23",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2026-10-12T17:03:47",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 22.15,
+      "timestamp": "2026-10-12T17:03:24",
+      "download_attempts": 0
+    },
+    "full_text": "那些年我遇见的天菜（吉林体育学院男大） https://t.co/iCBA23s9oF",
+    "publish_time": "2026-10-12T02:25:58"
+  },
+  {
     "tweet_id": "2109352213034524830",
     "file_name": "HUXsp_WbwAAWlT_.jpg",
     "user": {
@@ -1558,5 +1586,59 @@
     },
     "full_text": "因为感觉自己的人生不配拥有这些美好，所以我把这年养的所有绿植都挂网上卖了，有杭州的可以来选购自提 https://t.co/9QXwDcZlpQ",
     "publish_time": "2026-10-12T15:35:26"
+  },
+  {
+    "tweet_id": "2109560129331069280",
+    "file_name": "PHQ4YUGu8zUYZ2PY.mp4",
+    "user": {
+      "screen_name": "yinhuhz",
+      "name": "黑"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2109560046665502720/vid/avc1/884x1548/PHQ4YUGu8zUYZ2PY.mp4?tag=29",
+    "read_time": "2026-10-12T17:03:23",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2026-10-12T17:04:09",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 5.71,
+      "timestamp": "2026-10-12T17:03:47",
+      "download_attempts": 0
+    },
+    "full_text": "猜猜这是谁 https://t.co/mceeIMSfrV",
+    "publish_time": "2026-10-12T16:21:43"
+  },
+  {
+    "tweet_id": "2109565800223060152",
+    "file_name": "HUau6JHa8AE4pJ5.jpg",
+    "user": {
+      "screen_name": "Xushizier",
+      "name": "徐柿子"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUau6JHa8AE4pJ5.jpg",
+    "read_time": "2026-10-12T17:03:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41264,
+      "timestamp": "2026-10-12T17:04:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.21,
+      "timestamp": "2026-10-12T17:04:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/yRUjIavxxM",
+    "publish_time": "2026-10-12T16:44:15"
   }
 ]
