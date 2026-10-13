@@ -2407,7 +2407,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (59.22MB > 50.00MB)",
       "timestamp": "2026-10-13T20:02:46",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -2470,5 +2470,343 @@
     },
     "full_text": "爸爸 https://t.co/3vQEnHi3IS",
     "publish_time": "2026-10-13T19:43:46"
+  },
+  {
+    "tweet_id": "2109978104454390160",
+    "file_name": "vpwfJAdoOlX35AYl.mp4",
+    "user": {
+      "screen_name": "kaka_lac",
+      "name": "kaka"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2109977943200104448/vid/avc1/1080x1920/vpwfJAdoOlX35AYl.mp4?tag=29",
+    "read_time": "2026-10-13T21:03:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41418,
+      "timestamp": "2026-10-13T21:03:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 23.01,
+      "timestamp": "2026-10-13T21:03:52",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/U8YBvqHivC",
+    "publish_time": "2026-10-13T20:02:36"
+  },
+  {
+    "tweet_id": "2109979513220211160",
+    "file_name": "HUgnLnVWYAAcM2g.mp4",
+    "user": {
+      "screen_name": "jaecitoooo",
+      "name": "jae"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/HUgnLnVWYAAcM2g.mp4",
+    "read_time": "2026-10-13T21:03:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41419,
+      "timestamp": "2026-10-13T21:03:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.07,
+      "timestamp": "2026-10-13T21:03:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/GAogtcxVJF",
+    "publish_time": "2026-10-13T20:08:12"
+  },
+  {
+    "tweet_id": "2109979971204563237",
+    "file_name": "HUgnluNWAAA9WME.jpg",
+    "user": {
+      "screen_name": "ali605063114862",
+      "name": "ali"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUgnluNWAAA9WME.jpg",
+    "read_time": "2026-10-13T21:03:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41420,
+      "timestamp": "2026-10-13T21:03:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.05,
+      "timestamp": "2026-10-13T21:03:58",
+      "download_attempts": 0
+    },
+    "full_text": "#直男 #肌肉 #大叔 #采访 \n🔞出直男采访频道, 持续更新 \n⏩持续更新 ,主页可➕🐧 https://t.co/ANk55mvt3g",
+    "publish_time": "2026-10-13T20:10:01"
+  },
+  {
+    "tweet_id": "2109979971204563237",
+    "file_name": "HUgnluEWsAA4chy.jpg",
+    "user": {
+      "screen_name": "ali605063114862",
+      "name": "ali"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUgnluEWsAA4chy.jpg",
+    "read_time": "2026-10-13T21:03:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41421,
+      "timestamp": "2026-10-13T21:03:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-10-13T21:03:58",
+      "download_attempts": 0
+    },
+    "full_text": "#直男 #肌肉 #大叔 #采访 \n🔞出直男采访频道, 持续更新 \n⏩持续更新 ,主页可➕🐧 https://t.co/ANk55mvt3g",
+    "publish_time": "2026-10-13T20:10:01"
+  },
+  {
+    "tweet_id": "2109979971204563237",
+    "file_name": "HUgnluEXsAAke6u.jpg",
+    "user": {
+      "screen_name": "ali605063114862",
+      "name": "ali"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUgnluEXsAAke6u.jpg",
+    "read_time": "2026-10-13T21:03:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41422,
+      "timestamp": "2026-10-13T21:03:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.05,
+      "timestamp": "2026-10-13T21:03:58",
+      "download_attempts": 0
+    },
+    "full_text": "#直男 #肌肉 #大叔 #采访 \n🔞出直男采访频道, 持续更新 \n⏩持续更新 ,主页可➕🐧 https://t.co/ANk55mvt3g",
+    "publish_time": "2026-10-13T20:10:01"
+  },
+  {
+    "tweet_id": "2109979971204563237",
+    "file_name": "HUgnluEXQAAAAYM.jpg",
+    "user": {
+      "screen_name": "ali605063114862",
+      "name": "ali"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUgnluEXQAAAAYM.jpg",
+    "read_time": "2026-10-13T21:03:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41423,
+      "timestamp": "2026-10-13T21:03:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.05,
+      "timestamp": "2026-10-13T21:03:58",
+      "download_attempts": 0
+    },
+    "full_text": "#直男 #肌肉 #大叔 #采访 \n🔞出直男采访频道, 持续更新 \n⏩持续更新 ,主页可➕🐧 https://t.co/ANk55mvt3g",
+    "publish_time": "2026-10-13T20:10:01"
+  },
+  {
+    "tweet_id": "2109985940311789866",
+    "file_name": "HUgtBphWAAAC7GI.jpg",
+    "user": {
+      "screen_name": "jaecitoooo",
+      "name": "jae"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUgtBphWAAAC7GI.jpg",
+    "read_time": "2026-10-13T21:03:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41424,
+      "timestamp": "2026-10-13T21:04:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-10-13T21:04:00",
+      "download_attempts": 0
+    },
+    "full_text": "Un destello de luz https://t.co/gRl2Ih4XKW",
+    "publish_time": "2026-10-13T20:33:44"
+  },
+  {
+    "tweet_id": "2109989570632986995",
+    "file_name": "P4Ln6x98O_1W4l94.mp4",
+    "user": {
+      "screen_name": "mmmmqaz1",
+      "name": "三角板"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2109989489187958784/vid/avc1/720x1280/P4Ln6x98O_1W4l94.mp4?tag=29",
+    "read_time": "2026-10-13T21:03:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41425,
+      "timestamp": "2026-10-13T21:04:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 3.01,
+      "timestamp": "2026-10-13T21:04:01",
+      "download_attempts": 0
+    },
+    "full_text": "最近会把视频都传上去，订阅https://t.co/tLKKMuUYEU\n即可解锁完整视频 M 6 https://t.co/UDt4RjVVwc",
+    "publish_time": "2026-10-13T20:48:10"
+  },
+  {
+    "tweet_id": "2109990040914833657",
+    "file_name": "u14nx_Wgd1z4P0dW.mp4",
+    "user": {
+      "screen_name": "zbrzjcjggqhuiu",
+      "name": "大龙"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2109985564975927296/vid/avc1/720x960/u14nx_Wgd1z4P0dW.mp4?tag=14",
+    "read_time": "2026-10-13T21:03:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41426,
+      "timestamp": "2026-10-13T21:04:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 24.82,
+      "timestamp": "2026-10-13T21:04:04",
+      "download_attempts": 0
+    },
+    "full_text": "骚逼，滚过来先舔干净我的屌，再张嘴深喉。吞到蛋蛋，呛泪为止。然后后入，操穿你的痒屁眼，每下顶满前列腺，操到你哭着求饶～内射你，把你标记成我的财产 https://t.co/C8DyYI23kU",
+    "publish_time": "2026-10-13T20:50:02"
+  },
+  {
+    "tweet_id": "2109990276718903393",
+    "file_name": "HUgw-FbbsAA5G1_.jpg",
+    "user": {
+      "screen_name": "Cheesbaobao",
+      "name": "起司伯格"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUgw-FbbsAA5G1_.jpg",
+    "read_time": "2026-10-13T21:03:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41427,
+      "timestamp": "2026-10-13T21:04:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-10-13T21:04:08",
+      "download_attempts": 0
+    },
+    "full_text": "努力让心情变好 https://t.co/H2wTvYsxMr",
+    "publish_time": "2026-10-13T20:50:58"
+  },
+  {
+    "tweet_id": "2109990276718903393",
+    "file_name": "HUgw-FWboAAIuPu.jpg",
+    "user": {
+      "screen_name": "Cheesbaobao",
+      "name": "起司伯格"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUgw-FWboAAIuPu.jpg",
+    "read_time": "2026-10-13T21:03:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41428,
+      "timestamp": "2026-10-13T21:04:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-10-13T21:04:08",
+      "download_attempts": 0
+    },
+    "full_text": "努力让心情变好 https://t.co/H2wTvYsxMr",
+    "publish_time": "2026-10-13T20:50:58"
+  },
+  {
+    "tweet_id": "2109990587957141834",
+    "file_name": "j6XMqwCgdbVtOHT-.mp4",
+    "user": {
+      "screen_name": "Hhhhddo8",
+      "name": "Hhhh"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2109990510417027072/vid/avc1/720x1280/j6XMqwCgdbVtOHT-.mp4?tag=29",
+    "read_time": "2026-10-13T21:03:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41429,
+      "timestamp": "2026-10-13T21:04:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.05,
+      "timestamp": "2026-10-13T21:04:09",
+      "download_attempts": 0
+    },
+    "full_text": "#体育生 #健身教练 #直男 #腹肌  #粗口 #胸肌 https://t.co/CPLCViCJvU",
+    "publish_time": "2026-10-13T20:52:12"
+  },
+  {
+    "tweet_id": "2109991707102335145",
+    "file_name": "YltEnY3nHWWrox4V.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2109991686332088320/vid/avc1/360x640/YltEnY3nHWWrox4V.mp4?tag=29",
+    "read_time": "2026-10-13T21:03:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41430,
+      "timestamp": "2026-10-13T21:04:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.69,
+      "timestamp": "2026-10-13T21:04:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/pXLpgBCPdT",
+    "publish_time": "2026-10-13T20:56:39"
   }
 ]
