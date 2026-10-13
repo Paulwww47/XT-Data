@@ -2224,20 +2224,6 @@
     }
   },
   {
-    "restId": "1789609084251205632",
-    "legacy": {
-      "name": "isbziebchd",
-      "screenName": "DJIMAGE111",
-      "createdAt": "Sun May 12 10:50:39 +0000 2024",
-      "description": "",
-      "entities": {
-        "description": {}
-      },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1789609084251205632/1715512153",
-      "profileImageUrlHttps": ""
-    }
-  },
-  {
     "restId": "2186905788",
     "legacy": {
       "name": ".",
@@ -5542,7 +5528,7 @@
       "name": "强迫对象出去当小三",
       "screenName": "lmnchun2",
       "createdAt": "Sat Oct 29 09:21:02 +0000 2022",
-      "description": "深圳龙岗 1 \n小红书 sgqtzdzq_0331\n私信带照",
+      "description": "深圳龙岗 1 \n小红书 sgqtzdzq_0331\n抖音 35451180570\n私信带照",
       "entities": {
         "description": {}
       },
@@ -5757,7 +5743,7 @@
       "name": "好吧那好吧",
       "screenName": "lzj244",
       "createdAt": "Wed Jul 26 16:43:35 +0000 2023",
-      "description": "dy同名",
+      "description": "",
       "entities": {
         "description": {}
       },
@@ -6846,9 +6832,21 @@
       "name": "locklock爱玩直男",
       "screenName": "PamHart462790",
       "createdAt": "Thu May 08 02:59:40 +0000 2025",
-      "description": "小众原创略贵 单卖无群 均价199-599之间 个别稀罕的会更贵 请客官务必加qq977421414防失联 购买需提供本人真实使用的付款支付宝所绑定的电话号码打水印",
+      "description": "小众原创略贵 单卖无群 均价199-599之间 个别稀罕的会更贵 请客官务必加qq977421414防失联 购买需提供本人真实使用的付款支付宝所绑定的电话号码打水印 完整目录→https://t.co/nvN8sKJMLm",
       "entities": {
-        "description": {},
+        "description": {
+          "urls": [
+            {
+              "display_url": "t.me/locklock666666",
+              "expanded_url": "https://t.me/locklock666666",
+              "indices": [
+                88,
+                111
+              ],
+              "url": "https://t.co/nvN8sKJMLm"
+            }
+          ]
+        },
         "url": {
           "urls": [
             {
