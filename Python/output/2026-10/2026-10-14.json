@@ -1194,5 +1194,57 @@
     },
     "full_text": "⚾️ https://t.co/YjGiFKLjVK",
     "publish_time": "2026-10-14T12:49:38"
+  },
+  {
+    "tweet_id": "2110242405119336613",
+    "file_name": "HUkWRtMaUAADWY5.jpg",
+    "user": {
+      "screen_name": "dozzz888",
+      "name": "infj-豆子(上海）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUkWRtMaUAADWY5.jpg",
+    "read_time": "2026-10-14T14:02:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41496,
+      "timestamp": "2026-10-14T14:02:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.06,
+      "timestamp": "2026-10-14T14:02:32",
+      "download_attempts": 0
+    },
+    "full_text": "平静而疯魔 https://t.co/tY7Xd6pHcD",
+    "publish_time": "2026-10-14T13:32:50"
+  },
+  {
+    "tweet_id": "2110246458612121889",
+    "file_name": "HUkZ-FgagAAserp.jpg",
+    "user": {
+      "screen_name": "zerosugarcoffee",
+      "name": "芬太可"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUkZ-FgagAAserp.jpg",
+    "read_time": "2026-10-14T14:02:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41497,
+      "timestamp": "2026-10-14T14:02:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-10-14T14:02:34",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/zvSKSUkdQY",
+    "publish_time": "2026-10-14T13:48:56"
   }
 ]
