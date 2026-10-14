@@ -2381,7 +2381,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (265.81MB > 50.00MB)",
       "timestamp": "2026-10-14T18:04:07",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -2470,5 +2470,239 @@
     },
     "full_text": "午后in勃 很弹 https://t.co/hJdLforBc1",
     "publish_time": "2026-10-14T17:47:47"
+  },
+  {
+    "tweet_id": "2110313413809520896",
+    "file_name": "HUBF-kwbEAArCYN.jpg",
+    "user": {
+      "screen_name": "rebreb9494",
+      "name": "rebreb9494"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUBF-kwbEAArCYN.jpg",
+    "read_time": "2026-10-14T19:02:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41544,
+      "timestamp": "2026-10-14T19:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-10-14T19:02:26",
+      "download_attempts": 0
+    },
+    "full_text": "低调兵哥16 腿毛 https://t.co/rwUNvv0Hq6",
+    "publish_time": "2026-10-14T18:15:00"
+  },
+  {
+    "tweet_id": "2110316362543632760",
+    "file_name": "HUlZixqacAAqWHR.jpg",
+    "user": {
+      "screen_name": "rthurz",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUlZixqacAAqWHR.jpg",
+    "read_time": "2026-10-14T19:02:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41545,
+      "timestamp": "2026-10-14T19:02:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-10-14T19:02:27",
+      "download_attempts": 0
+    },
+    "full_text": "ไม่ได้ขี้โม้ ใส่ไว้จริงๆ หลอนไปเลยอะ จำได้ว่าฝันด้วยว่าหาเจอแล้ว พอตื่นมายังหาไม่เจอก็หงอยเลย ไหว้อากงอาม่รว่าขอให้หาเจอได้ไหม ขอให้มีความคิดหรือฉุกคิดขึ้นมาทีว่าเอาไปวางไว้ไหนอะไรงี้ คือสุดๆ แล้ว https://t.co/gJpLltcUl1",
+    "publish_time": "2026-10-14T18:26:43"
+  },
+  {
+    "tweet_id": "2110319022680015314",
+    "file_name": "HUlb5teXIAA0mpB.jpg",
+    "user": {
+      "screen_name": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUlb5teXIAA0mpB.jpg",
+    "read_time": "2026-10-14T19:02:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41546,
+      "timestamp": "2026-10-14T19:02:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-10-14T19:02:29",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ifS72lyTb1",
+    "publish_time": "2026-10-14T18:37:17"
+  },
+  {
+    "tweet_id": "2110320047466180742",
+    "file_name": "eDMxiZuo1LR657RV.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2110320024368128000/vid/avc1/360x640/eDMxiZuo1LR657RV.mp4?tag=29",
+    "read_time": "2026-10-14T19:02:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41547,
+      "timestamp": "2026-10-14T19:02:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 2.66,
+      "timestamp": "2026-10-14T19:02:31",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/G4nrt19m6q",
+    "publish_time": "2026-10-14T18:41:21"
+  },
+  {
+    "tweet_id": "2110320060753645694",
+    "file_name": "4wmDrQIaxg7kaI-o.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2110320051010326528/vid/avc1/360x640/4wmDrQIaxg7kaI-o.mp4?tag=29",
+    "read_time": "2026-10-14T19:02:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41548,
+      "timestamp": "2026-10-14T19:02:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.48,
+      "timestamp": "2026-10-14T19:02:34",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/dyEBcHLEp4",
+    "publish_time": "2026-10-14T18:41:24"
+  },
+  {
+    "tweet_id": "2110322202591871002",
+    "file_name": "HUley6_bkAA2zgq.jpg",
+    "user": {
+      "screen_name": "buffwake",
+      "name": "Buffwake"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUley6_bkAA2zgq.jpg",
+    "read_time": "2026-10-14T19:02:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41549,
+      "timestamp": "2026-10-14T19:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.21,
+      "timestamp": "2026-10-14T19:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "➕61 🇦🇺 3gus1hammer 三男一枪系列即将更新 🚪https://t.co/XbMychUKIQ #buffwake #s https://t.co/Z1VIPpay3C",
+    "publish_time": "2026-10-14T18:49:55"
+  },
+  {
+    "tweet_id": "2110322202591871002",
+    "file_name": "HUley64aIAA5UaE.jpg",
+    "user": {
+      "screen_name": "buffwake",
+      "name": "Buffwake"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUley64aIAA5UaE.jpg",
+    "read_time": "2026-10-14T19:02:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41550,
+      "timestamp": "2026-10-14T19:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.27,
+      "timestamp": "2026-10-14T19:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "➕61 🇦🇺 3gus1hammer 三男一枪系列即将更新 🚪https://t.co/XbMychUKIQ #buffwake #s https://t.co/Z1VIPpay3C",
+    "publish_time": "2026-10-14T18:49:55"
+  },
+  {
+    "tweet_id": "2110322202591871002",
+    "file_name": "HUley6macAAgvFh.jpg",
+    "user": {
+      "screen_name": "buffwake",
+      "name": "Buffwake"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUley6macAAgvFh.jpg",
+    "read_time": "2026-10-14T19:02:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41551,
+      "timestamp": "2026-10-14T19:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.17,
+      "timestamp": "2026-10-14T19:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "➕61 🇦🇺 3gus1hammer 三男一枪系列即将更新 🚪https://t.co/XbMychUKIQ #buffwake #s https://t.co/Z1VIPpay3C",
+    "publish_time": "2026-10-14T18:49:55"
+  },
+  {
+    "tweet_id": "2110322202591871002",
+    "file_name": "HUley6sakAAZN-t.jpg",
+    "user": {
+      "screen_name": "buffwake",
+      "name": "Buffwake"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUley6sakAAZN-t.jpg",
+    "read_time": "2026-10-14T19:02:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41552,
+      "timestamp": "2026-10-14T19:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.2,
+      "timestamp": "2026-10-14T19:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "➕61 🇦🇺 3gus1hammer 三男一枪系列即将更新 🚪https://t.co/XbMychUKIQ #buffwake #s https://t.co/Z1VIPpay3C",
+    "publish_time": "2026-10-14T18:49:55"
   }
 ]
