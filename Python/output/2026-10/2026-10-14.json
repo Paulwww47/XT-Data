@@ -518,5 +518,31 @@
     },
     "full_text": "帮你胸推 https://t.co/Rs0bjOLxsC",
     "publish_time": "2026-10-14T05:44:13"
+  },
+  {
+    "tweet_id": "2110151577797591547",
+    "file_name": "HUjDrXpboAAEpvH.jpg",
+    "user": {
+      "screen_name": "CherishGil99144",
+      "name": "蒋同学iocn"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUjDrXpboAAEpvH.jpg",
+    "read_time": "2026-10-14T08:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41470,
+      "timestamp": "2026-10-14T08:02:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-10-14T08:02:24",
+      "download_attempts": 0
+    },
+    "full_text": "变瘦了 https://t.co/cBNQFdANhp",
+    "publish_time": "2026-10-14T07:31:55"
   }
 ]
