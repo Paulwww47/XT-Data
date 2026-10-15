@@ -752,5 +752,31 @@
     },
     "full_text": "神奇的衣服👕 https://t.co/mqusETW8cc",
     "publish_time": "2026-10-15T07:55:08"
+  },
+  {
+    "tweet_id": "2110532816702411129",
+    "file_name": "HUoeaCPaQAA-mP8.jpg",
+    "user": {
+      "screen_name": "feiniaoheyu186",
+      "name": "飞鸟和鱼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUoeaCPaQAA-mP8.jpg",
+    "read_time": "2026-10-15T09:02:14",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41635,
+      "timestamp": "2026-10-15T09:02:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-10-15T09:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "舒适的季节…#泰州 #杭州 #常州 #南京 https://t.co/RVQxdX2Pkj",
+    "publish_time": "2026-10-15T08:46:49"
   }
 ]
