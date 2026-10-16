@@ -440,5 +440,31 @@
     },
     "full_text": "三亚 https://t.co/dYYjZx0fKk",
     "publish_time": "2026-10-17T05:00:15"
+  },
+  {
+    "tweet_id": "2111215457739194554",
+    "file_name": "HUyLL2rbMAA8F8d.jpg",
+    "user": {
+      "screen_name": "liu6864",
+      "name": "CL357"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUyLL2rbMAA8F8d.jpg",
+    "read_time": "2026-10-17T06:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41875,
+      "timestamp": "2026-10-17T06:02:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-10-17T06:02:23",
+      "download_attempts": 0
+    },
+    "full_text": "preview https://t.co/p9td1iN4Iw",
+    "publish_time": "2026-10-17T05:59:24"
   }
 ]
