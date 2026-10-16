@@ -936,5 +936,31 @@
     },
     "full_text": "晕乎乎的 https://t.co/vhxNG061VX",
     "publish_time": "2026-10-16T10:32:35"
+  },
+  {
+    "tweet_id": "2110929075544248496",
+    "file_name": "HUuGzAeakAA0mWK.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HUuGzAeakAA0mWK.jpg",
+    "read_time": "2026-10-16T12:03:16",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 41781,
+      "timestamp": "2026-10-16T12:03:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.06,
+      "timestamp": "2026-10-16T12:03:17",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/jttIp4JZUq",
+    "publish_time": "2026-10-16T11:01:25"
   }
 ]
