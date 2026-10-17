@@ -219,5 +219,19 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2111543354320466384",
     "fullText": "https://t.co/01oHR58480",
     "publishTime": "2026-10-18T03:42:20"
+  },
+  {
+    "user": {
+      "screenName": "ASongASong0000",
+      "name": "ASong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2111564770675691520/vid/avc1/720x1278/dvckL3oAXTr4EaKO.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/ASongASong0000/status/2111565048049209606",
+    "fullText": "第二十七篇 https://t.co/cr0hnsHAR2",
+    "publishTime": "2026-10-18T05:08:33"
   }
 ]
