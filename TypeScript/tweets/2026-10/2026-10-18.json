@@ -575,5 +575,64 @@
     "tweetUrl": "https://x.com/pengpengJoe/status/2111662501519835441",
     "fullText": "练大了，就想两边都被含住。 https://t.co/pDJBHYnRoL",
     "publishTime": "2026-10-18T11:35:47"
+  },
+  {
+    "user": {
+      "screenName": "stevensenka",
+      "name": "josh"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU4pqM9aoAANOLw.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/stevensenka/status/2111671091638968376",
+    "fullText": "在成都到周四噢 https://t.co/VjiuP6bSGm",
+    "publishTime": "2026-10-18T12:09:55"
+  },
+  {
+    "user": {
+      "screenName": "BrilSong_5567",
+      "name": "Brikanarina s"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2111675016962293761/vid/avc1/720x1280/DMbA1q3o_pahv4ms.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/BrilSong_5567/status/2111675113515163740",
+    "fullText": "在办公室还是很爽的 https://t.co/MEHg8IBc2B",
+    "publishTime": "2026-10-18T12:25:54"
+  },
+  {
+    "user": {
+      "screenName": "Sebastian_lezai",
+      "name": "Sebastian.Lezai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU4zcynbQAAYpR-.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Sebastian_lezai/status/2111681859927314750",
+    "fullText": "I’m a shy boy https://t.co/rlPOw6zZBL",
+    "publishTime": "2026-10-18T12:52:43"
+  },
+  {
+    "user": {
+      "screenName": "yvifan",
+      "name": "小趴菜"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU41B2gawAAnyHE.jpg",
+      "https://pbs.twimg.com/media/HU41B2SaAAA167G.jpg",
+      "https://pbs.twimg.com/media/HU41B2MakAEvxBx.jpg",
+      "https://pbs.twimg.com/media/HU41B2YbkAAdwwZ.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/yvifan/status/2111683610910806363",
+    "fullText": "男人也可以很感性 https://t.co/j8OwQ02ij4",
+    "publishTime": "2026-10-18T12:59:40"
   }
 ]
