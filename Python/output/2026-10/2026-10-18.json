@@ -2078,5 +2078,31 @@
     },
     "full_text": "https://t.co/4v9I1BnyMW",
     "publish_time": "2026-10-18T15:54:36"
+  },
+  {
+    "tweet_id": "2111739756774412775",
+    "file_name": "ea-9yNMgNwQciF58.mp4",
+    "user": {
+      "screen_name": "kaka_lac",
+      "name": "kaka"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2111739645646327808/vid/avc1/1080x1920/ea-9yNMgNwQciF58.mp4?tag=29",
+    "read_time": "2026-10-18T17:02:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42080,
+      "timestamp": "2026-10-18T17:02:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 8.12,
+      "timestamp": "2026-10-18T17:02:29",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/YnlSzk2QLC",
+    "publish_time": "2026-10-18T16:42:46"
   }
 ]

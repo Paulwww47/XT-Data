@@ -976,5 +976,19 @@
     "tweetUrl": "https://x.com/MoFrost_/status/2111727631595151606",
     "fullText": "https://t.co/4v9I1BnyMW",
     "publishTime": "2026-10-18T15:54:36"
+  },
+  {
+    "user": {
+      "screenName": "kaka_lac",
+      "name": "kaka"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2111739645646327808/vid/avc1/1080x1920/ea-9yNMgNwQciF58.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/kaka_lac/status/2111739756774412775",
+    "fullText": "https://t.co/YnlSzk2QLC",
+    "publishTime": "2026-10-18T16:42:46"
   }
 ]
