@@ -195,5 +195,45 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2111895062661804459",
     "fullText": "https://t.co/ImUe4sgEa5",
     "publishTime": "2026-10-19T02:59:54"
+  },
+  {
+    "user": {
+      "screenName": "jaecitoooo",
+      "name": "jae"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/jaecitoooo/status/2111898588791894390",
+    "fullText": "다분히 비폭력적인 방법으로 민주주의를 지켜온 우리나라 국민으로서 이해가 안되는 바임... 물론 시위를 틈타 루팅하는 꾼들도 있겠지만",
+    "publishTime": "2026-10-19T03:13:55"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU76Ee1bMAAguxj.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2111900237170463104",
+    "fullText": "https://t.co/RSkFI4b5t4",
+    "publishTime": "2026-10-19T03:20:28"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU8C73zbQAE3nkk.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2111909985311703075",
+    "fullText": "fitness.likei https://t.co/dT7b230mjd",
+    "publishTime": "2026-10-19T03:59:12"
   }
 ]
