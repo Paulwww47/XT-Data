@@ -487,5 +487,88 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2112013737947480565",
     "fullText": "ravenishere https://t.co/8cPnrGOg5M",
     "publishTime": "2026-10-19T10:51:29"
+  },
+  {
+    "user": {
+      "screenName": "Big_straight_H",
+      "name": "荒"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Big_straight_H/status/2112018484003844441",
+    "fullText": "這個姿勢爬上來坐會很舒服喔😏",
+    "publishTime": "2026-10-19T11:10:20"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU9l-ZabkAAfYPr.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2112018879845441836",
+    "fullText": "kai_e_0428 https://t.co/hs0I0Osdd5",
+    "publishTime": "2026-10-19T11:11:55"
+  },
+  {
+    "user": {
+      "screenName": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2111785511584935936/vid/avc1/720x1280/2j91riwSq9Z7wx_Q.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/RYANMUYU/status/2112020604375458097",
+    "fullText": "https://t.co/hCtpefeiTE",
+    "publishTime": "2026-10-19T11:18:46"
+  },
+  {
+    "user": {
+      "screenName": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU9oHYcbMAALdIT.jpg",
+      "https://pbs.twimg.com/media/HU9oHYdaoAAMYZP.jpg",
+      "https://pbs.twimg.com/media/HU9oHYcbwAAzAOf.jpg",
+      "https://pbs.twimg.com/media/HU9oHYhaQAEqwQz.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/RYANMUYU/status/2112021237870571648",
+    "fullText": "https://t.co/KIVhHhjE0t",
+    "publishTime": "2026-10-19T11:21:17"
+  },
+  {
+    "user": {
+      "screenName": "hymanjuan4",
+      "name": "HL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2112026290677325824/vid/avc1/360x640/9tWQUhqBXAojlvoN.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/hymanjuan4/status/2112026306774987047",
+    "fullText": "https://t.co/estnb680Ci",
+    "publishTime": "2026-10-19T11:41:25"
+  },
+  {
+    "user": {
+      "screenName": "fanglangnantu",
+      "name": "NANTU"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/fanglangnantu/status/2112029071114944545",
+    "fullText": "On the way to Shanghai !",
+    "publishTime": "2026-10-19T11:52:24"
   }
 ]
