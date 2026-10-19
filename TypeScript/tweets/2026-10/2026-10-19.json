@@ -570,5 +570,47 @@
     "tweetUrl": "https://x.com/fanglangnantu/status/2112029071114944545",
     "fullText": "On the way to Shanghai !",
     "publishTime": "2026-10-19T11:52:24"
+  },
+  {
+    "user": {
+      "screenName": "Leon_pan999",
+      "name": "Leon"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU90NsgaEAAi9bV.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Leon_pan999/status/2112034541141651558",
+    "fullText": "My bicep is growing fasttttttttttttt https://t.co/lqH3yvPcrh",
+    "publishTime": "2026-10-19T12:14:08"
+  },
+  {
+    "user": {
+      "screenName": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://www.instagram.com/ryanmuyu?dlrf=MTZsNnFjODVrdTJzcw%3D%3D&utm_source=qr"
+    ],
+    "tweetUrl": "https://x.com/RYANMUYU/status/2112042606721163495",
+    "fullText": "https://t.co/36UTYfYADW",
+    "publishTime": "2026-10-19T12:46:11"
+  },
+  {
+    "user": {
+      "screenName": "Cheesbaobao",
+      "name": "起司伯格"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HU99W7nbQAAEFD9.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Cheesbaobao/status/2112044597862097211",
+    "fullText": "对不起。 https://t.co/1wcnNbqi4N",
+    "publishTime": "2026-10-19T12:54:06"
   }
 ]
