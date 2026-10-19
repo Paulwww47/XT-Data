@@ -726,5 +726,83 @@
     },
     "full_text": "https://t.co/0P2jw3oeYp",
     "publish_time": "2026-10-19T07:49:20"
+  },
+  {
+    "tweet_id": "2111986347254903042",
+    "file_name": "O5VY7RTohfLBCqgc.mp4",
+    "user": {
+      "screen_name": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2111986320545554432/vid/avc1/720x1280/O5VY7RTohfLBCqgc.mp4?tag=29",
+    "read_time": "2026-10-19T10:03:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42165,
+      "timestamp": "2026-10-19T10:03:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.68,
+      "timestamp": "2026-10-19T10:03:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/9vWBjaWWIj",
+    "publish_time": "2026-10-19T09:02:38"
+  },
+  {
+    "tweet_id": "2111993801988563062",
+    "file_name": "unkhT436U3X_dmo3.mp4",
+    "user": {
+      "screen_name": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2111993711429382144/vid/avc1/720x1280/unkhT436U3X_dmo3.mp4?tag=14",
+    "read_time": "2026-10-19T10:03:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42166,
+      "timestamp": "2026-10-19T10:03:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 2.78,
+      "timestamp": "2026-10-19T10:03:14",
+      "download_attempts": 0
+    },
+    "full_text": "【2026年10月19日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/7VHJieNGFd",
+    "publish_time": "2026-10-19T09:32:15"
+  },
+  {
+    "tweet_id": "2111999618594807936",
+    "file_name": "HU9UdAzaEAA7qbx.jpg",
+    "user": {
+      "screen_name": "HorgeL_",
+      "name": "Horge🤖"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HU9UdAzaEAA7qbx.jpg",
+    "read_time": "2026-10-19T10:03:10",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42167,
+      "timestamp": "2026-10-19T10:03:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-10-19T10:03:16",
+      "download_attempts": 0
+    },
+    "full_text": "有话想说，但是学历太低说不出来 https://t.co/whhWOh0bDI",
+    "publish_time": "2026-10-19T09:55:22"
   }
 ]
