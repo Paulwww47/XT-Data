@@ -1480,5 +1480,57 @@
     },
     "full_text": "https://t.co/p3xDk7rjaU",
     "publish_time": "2026-10-20T14:46:04"
+  },
+  {
+    "tweet_id": "2112443240490405994",
+    "file_name": "HVDn7bEaIAAhdtN.jpg",
+    "user": {
+      "screen_name": "yichimo0720",
+      "name": "摇裤儿"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVDn7bEaIAAhdtN.jpg",
+    "read_time": "2026-10-20T16:02:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42347,
+      "timestamp": "2026-10-20T16:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.19,
+      "timestamp": "2026-10-20T16:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "短袖是穿不了，天冷了，添衣服哦各位😊 https://t.co/qDP81HoExZ",
+    "publish_time": "2026-10-20T15:18:10"
+  },
+  {
+    "tweet_id": "2112450886152966263",
+    "file_name": "HVDu4Z_bIAAPz_d.jpg",
+    "user": {
+      "screen_name": "yangmoyum",
+      "name": "阳沫雨（武汉"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVDu4Z_bIAAPz_d.jpg",
+    "read_time": "2026-10-20T16:02:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42348,
+      "timestamp": "2026-10-20T16:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-10-20T16:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "武汉最后一晚🥵，明天合肥欢迎预约SPA💆🏾 到位：1074683 https://t.co/Pxw9c6HUfl",
+    "publish_time": "2026-10-20T15:48:33"
   }
 ]
