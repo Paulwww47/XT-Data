@@ -93,7 +93,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (132.73MB > 50.00MB)",
       "timestamp": "2026-10-21T01:01:57",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -121,7 +121,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (88.37MB > 50.00MB)",
       "timestamp": "2026-10-21T01:01:57",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -288,5 +288,135 @@
     },
     "full_text": "杭州 https://t.co/p3Si1zypRJ",
     "publish_time": "2026-10-21T00:58:07"
+  },
+  {
+    "tweet_id": "2112592764198428790",
+    "file_name": "HVFv6ZmbkAAYiiz.jpg",
+    "user": {
+      "screen_name": "c558668",
+      "name": "0m"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVFv6ZmbkAAYiiz.jpg",
+    "read_time": "2026-10-21T02:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42416,
+      "timestamp": "2026-10-21T02:01:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-10-21T02:01:39",
+      "download_attempts": 0
+    },
+    "full_text": "菜单过🚪选购主页渠道私 https://t.co/cGEMzRgrYe",
+    "publish_time": "2026-10-21T01:12:19"
+  },
+  {
+    "tweet_id": "2112597710431981756",
+    "file_name": "HVF0ar6bQAAcA3U.jpg",
+    "user": {
+      "screen_name": "bayi598507",
+      "name": "八一一（不接推广"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVF0ar6bQAAcA3U.jpg",
+    "read_time": "2026-10-21T02:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42417,
+      "timestamp": "2026-10-21T02:01:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-10-21T02:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "没人要 https://t.co/iCBNJ0t3mh",
+    "publish_time": "2026-10-21T01:31:58"
+  },
+  {
+    "tweet_id": "2112597710431981756",
+    "file_name": "HVF0at1aEAAKFyo.jpg",
+    "user": {
+      "screen_name": "bayi598507",
+      "name": "八一一（不接推广"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVF0at1aEAAKFyo.jpg",
+    "read_time": "2026-10-21T02:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42418,
+      "timestamp": "2026-10-21T02:01:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.24,
+      "timestamp": "2026-10-21T02:01:41",
+      "download_attempts": 0
+    },
+    "full_text": "没人要 https://t.co/iCBNJ0t3mh",
+    "publish_time": "2026-10-21T01:31:58"
+  },
+  {
+    "tweet_id": "2112598334724841920",
+    "file_name": "FDOZABVjAPydpVDG.mp4",
+    "user": {
+      "screen_name": "Jeff07751908",
+      "name": "杰尼龟"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2112598223118581760/vid/avc1/720x1280/FDOZABVjAPydpVDG.mp4?tag=29",
+    "read_time": "2026-10-21T02:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42419,
+      "timestamp": "2026-10-21T02:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 16.66,
+      "timestamp": "2026-10-21T02:01:45",
+      "download_attempts": 0
+    },
+    "full_text": "3️⃣P https://t.co/Og3rnL7qEb",
+    "publish_time": "2026-10-21T01:34:27"
+  },
+  {
+    "tweet_id": "2112603158224810072",
+    "file_name": "HVF5XFVbwAAbqbn.jpg",
+    "user": {
+      "screen_name": "xiao57520",
+      "name": "翱哥备用机"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVF5XFVbwAAbqbn.jpg",
+    "read_time": "2026-10-21T02:01:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42420,
+      "timestamp": "2026-10-21T02:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.16,
+      "timestamp": "2026-10-21T02:01:49",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/5tbEUd0klN",
+    "publish_time": "2026-10-21T01:53:37"
   }
 ]
