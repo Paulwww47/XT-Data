@@ -440,5 +440,31 @@
     },
     "full_text": "rikki_Imfao https://t.co/v2PGcgdd7y",
     "publish_time": "2026-10-20T06:46:04"
+  },
+  {
+    "tweet_id": "2112324573152817622",
+    "file_name": "HVB7_28bQAAu92s.jpg",
+    "user": {
+      "screen_name": "luoyi186",
+      "name": "自由的鱼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVB7_28bQAAu92s.jpg",
+    "read_time": "2026-10-20T08:01:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42307,
+      "timestamp": "2026-10-20T08:01:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.25,
+      "timestamp": "2026-10-20T08:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "单约了一个00后 一碰就出水… 差点榨干我🥵 https://t.co/Osq8WQnuM7",
+    "publish_time": "2026-10-20T07:26:37"
   }
 ]
