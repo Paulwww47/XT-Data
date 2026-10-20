@@ -3744,6 +3744,32 @@
     "publish_time": "2026-10-19T23:29:16"
   },
   {
+    "tweet_id": "2112204477608722868",
+    "file_name": "uSJVAaaZlYMyIp4t.mp4",
+    "user": {
+      "screen_name": "ShericeT4020",
+      "name": "黑屌教师"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2112204249874698240/vid/avc1/720x1280/uSJVAaaZlYMyIp4t.mp4?tag=14",
+    "read_time": "2026-10-20T21:03:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42371,
+      "timestamp": "2026-10-20T21:03:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 9.33,
+      "timestamp": "2026-10-20T21:03:01",
+      "download_attempts": 0
+    },
+    "full_text": "想吃吗？我请你 https://t.co/TuHm7i0DQ2",
+    "publish_time": "2026-10-19T23:29:24"
+  },
+  {
     "tweet_id": "2112207117931405500",
     "file_name": "y2cQjES95s3H2c5E.mp4",
     "user": {
