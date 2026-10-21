@@ -227,5 +227,61 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2112995202470424729",
     "fullText": "https://t.co/OI9NhstWb3",
     "publishTime": "2026-10-22T03:51:28"
+  },
+  {
+    "user": {
+      "screenName": "L1010R",
+      "name": "1010"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVLhYSbbEAEkAqT.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/L1010R/status/2112998993932562757",
+    "fullText": "https://t.co/jgAAilJgk1",
+    "publishTime": "2026-10-22T04:06:32"
+  },
+  {
+    "user": {
+      "screenName": "huiyoudafuji",
+      "name": "会有大腹肌（天津"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVLjGMEboAAVCm4.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/huiyoudafuji/status/2113000883344793860",
+    "fullText": "https://t.co/AGg4WRTbEa",
+    "publishTime": "2026-10-22T04:14:02"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVLmdCPbEAAVbDo.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2113004570712682508",
+    "fullText": "jason_welldown https://t.co/P8IUJl0uTe",
+    "publishTime": "2026-10-22T04:28:42"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVLmhfgbUAA_7rp.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2113004646549852386",
+    "fullText": "hansun0021f https://t.co/qUY3Abr26Q",
+    "publishTime": "2026-10-22T04:29:00"
   }
 ]
