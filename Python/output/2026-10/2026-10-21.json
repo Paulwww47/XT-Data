@@ -1432,5 +1432,291 @@
     },
     "full_text": "https://t.co/5rvVPuUsW9",
     "publish_time": "2026-10-21T12:49:58"
+  },
+  {
+    "tweet_id": "2112771274833621408",
+    "file_name": "9MIfKA9IJiDPu0y0.mp4",
+    "user": {
+      "screen_name": "easychen",
+      "name": "EasyChen"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2112770959505862656/vid/avc1/1280x720/9MIfKA9IJiDPu0y0.mp4?tag=14",
+    "read_time": "2026-10-21T14:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42460,
+      "timestamp": "2026-10-21T14:01:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 5.01,
+      "timestamp": "2026-10-21T14:01:48",
+      "download_attempts": 0
+    },
+    "full_text": "测了下刚开源的 #FastH3 Omni（MiniMax H3 的 8 步蒸馏版，能同时参考人物图和声音）。22 条短剧镜头对比下来：比 4 步方案慢一倍，但声纹相似度 0.93→0.988、快动作没有残影；副作用是会把主角的衣服串到群演身上。具体效果看视频 #AIvideo #MiniMax https://t.co/mEhFsMuBzX",
+    "publish_time": "2026-10-21T13:01:39"
+  },
+  {
+    "tweet_id": "2112775697630663076",
+    "file_name": "HVIWSpuakAAnMxn.jpg",
+    "user": {
+      "screen_name": "xvszrxq",
+      "name": "紋身肌肉旭教练"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVIWSpuakAAnMxn.jpg",
+    "read_time": "2026-10-21T14:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42461,
+      "timestamp": "2026-10-21T14:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-10-21T14:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "我的巨大雷点:让我帮他找别的m且不提好处 https://t.co/0oDiltIsse",
+    "publish_time": "2026-10-21T13:19:14"
+  },
+  {
+    "tweet_id": "2112775858146722045",
+    "file_name": "HVIWaqpaEAAbgQl.jpg",
+    "user": {
+      "screen_name": "DaMing1e",
+      "name": "维尼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVIWaqpaEAAbgQl.jpg",
+    "read_time": "2026-10-21T14:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42462,
+      "timestamp": "2026-10-21T14:01:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.19,
+      "timestamp": "2026-10-21T14:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "放心吧，会疼人！ https://t.co/bTrffNtcJI",
+    "publish_time": "2026-10-21T13:19:52"
+  },
+  {
+    "tweet_id": "2112775858146722045",
+    "file_name": "HVIWaqobwAAHlRL.jpg",
+    "user": {
+      "screen_name": "DaMing1e",
+      "name": "维尼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVIWaqobwAAHlRL.jpg",
+    "read_time": "2026-10-21T14:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42463,
+      "timestamp": "2026-10-21T14:01:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.16,
+      "timestamp": "2026-10-21T14:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "放心吧，会疼人！ https://t.co/bTrffNtcJI",
+    "publish_time": "2026-10-21T13:19:52"
+  },
+  {
+    "tweet_id": "2112776569118961888",
+    "file_name": "HVIXBflaIAATv6c.jpg",
+    "user": {
+      "screen_name": "MarcMa1991",
+      "name": "MMarc"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVIXBflaIAATv6c.jpg",
+    "read_time": "2026-10-21T14:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42464,
+      "timestamp": "2026-10-21T14:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.21,
+      "timestamp": "2026-10-21T14:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "扭一下 https://t.co/1boAVMyvUK",
+    "publish_time": "2026-10-21T13:22:42"
+  },
+  {
+    "tweet_id": "2112776569118961888",
+    "file_name": "HVIXBfjbUAAcuRa.jpg",
+    "user": {
+      "screen_name": "MarcMa1991",
+      "name": "MMarc"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVIXBfjbUAAcuRa.jpg",
+    "read_time": "2026-10-21T14:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42465,
+      "timestamp": "2026-10-21T14:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.2,
+      "timestamp": "2026-10-21T14:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "扭一下 https://t.co/1boAVMyvUK",
+    "publish_time": "2026-10-21T13:22:42"
+  },
+  {
+    "tweet_id": "2112776569118961888",
+    "file_name": "EzBxZq3BSsufGwje.mp4",
+    "user": {
+      "screen_name": "MarcMa1991",
+      "name": "MMarc"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2112776489662046209/vid/avc1/2160x3840/EzBxZq3BSsufGwje.mp4?tag=29",
+    "read_time": "2026-10-21T14:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42466,
+      "timestamp": "2026-10-21T14:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 14.24,
+      "timestamp": "2026-10-21T14:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "扭一下 https://t.co/1boAVMyvUK",
+    "publish_time": "2026-10-21T13:22:42"
+  },
+  {
+    "tweet_id": "2112777987284459953",
+    "file_name": "5bAm_BF3y1K7bPbL.mp4",
+    "user": {
+      "screen_name": "ali605063114862",
+      "name": "ali"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2112777931294482432/vid/avc1/590x1280/5bAm_BF3y1K7bPbL.mp4?tag=29",
+    "read_time": "2026-10-21T14:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42467,
+      "timestamp": "2026-10-21T14:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.49,
+      "timestamp": "2026-10-21T14:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "#直男 #肌肉  #采访 #勾引 #体育生\n🔞出直男采访频道, 持续更新 \n\n⏩持续更新 ,主页可➕🐧 https://t.co/COGb577JGh",
+    "publish_time": "2026-10-21T13:28:20"
+  },
+  {
+    "tweet_id": "2112784299695194311",
+    "file_name": "HVIeHqUaUAA-ZkT.jpg",
+    "user": {
+      "screen_name": "Big_straight_H",
+      "name": "荒"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVIeHqUaUAA-ZkT.jpg",
+    "read_time": "2026-10-21T14:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42468,
+      "timestamp": "2026-10-21T14:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-10-21T14:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "不可能被小編得分欸🤣 https://t.co/weX5S2czRw",
+    "publish_time": "2026-10-21T13:53:25"
+  },
+  {
+    "tweet_id": "2112784299695194311",
+    "file_name": "HVIeHswb0AEDA31.jpg",
+    "user": {
+      "screen_name": "Big_straight_H",
+      "name": "荒"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVIeHswb0AEDA31.jpg",
+    "read_time": "2026-10-21T14:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42469,
+      "timestamp": "2026-10-21T14:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-10-21T14:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "不可能被小編得分欸🤣 https://t.co/weX5S2czRw",
+    "publish_time": "2026-10-21T13:53:25"
+  },
+  {
+    "tweet_id": "2112785803323768979",
+    "file_name": "HVIffDca8AAKY_S.jpg",
+    "user": {
+      "screen_name": "7zzzXx",
+      "name": "🤦🏻‍♀️🤦🏻‍♀️"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVIffDca8AAKY_S.jpg",
+    "read_time": "2026-10-21T14:01:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42470,
+      "timestamp": "2026-10-21T14:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-10-21T14:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "谁要吃耐高弟弟的训练完的球袜😋😋\n想入手资源可以加主页电报私信我哦 https://t.co/M2TZYM1aVb",
+    "publish_time": "2026-10-21T13:59:23"
   }
 ]
