@@ -163,5 +163,43 @@
     "tweetUrl": "https://x.com/TianAllen9/status/2112949473165136282",
     "fullText": "https://t.co/GVtgqRYgSD",
     "publishTime": "2026-10-22T00:49:45"
+  },
+  {
+    "user": {
+      "screenName": "thisisforoasis",
+      "name": "NOT SEEING OASIS 2027"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/thisisforoasis/status/2112958988916851032",
+    "fullText": "FINALLY!!!! GET LIAM NEXT",
+    "publishTime": "2026-10-22T01:27:34"
+  },
+  {
+    "user": {
+      "screenName": "olekeee",
+      "name": "Olekeee"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2112959478131986432/vid/avc1/720x1280/bjWeoLp5b2j9O0aB.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/olekeee/status/2112959582746312884",
+    "fullText": "这是在干什么2.0 https://t.co/9UBBtEYnYb",
+    "publishTime": "2026-10-22T01:29:56"
+  },
+  {
+    "user": {
+      "screenName": "lytail111",
+      "name": "条野太狼"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/lytail111/status/2112967200592236821",
+    "fullText": "妈妈",
+    "publishTime": "2026-10-22T02:00:12"
   }
 ]
