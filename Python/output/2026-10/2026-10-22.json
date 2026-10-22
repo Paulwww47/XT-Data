@@ -1837,7 +1837,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (68.82MB > 50.00MB)",
       "timestamp": "2026-10-22T17:01:46",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -1926,5 +1926,57 @@
     },
     "full_text": "贱狗儿子给直男亲爹祖宗磕头 https://t.co/zJo13pjaGs",
     "publish_time": "2026-10-22T16:29:19"
+  },
+  {
+    "tweet_id": "2113199858651918474",
+    "file_name": "HVOYEf7a4AA1N0D.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVOYEf7a4AA1N0D.jpg",
+    "read_time": "2026-10-22T18:01:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42607,
+      "timestamp": "2026-10-22T18:01:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-10-22T18:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "mannarintangon https://t.co/MaKjwILhza",
+    "publish_time": "2026-10-22T17:24:42"
+  },
+  {
+    "tweet_id": "2113201475547697187",
+    "file_name": "HVOZikIbIAAeNfG.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVOZikIbIAAeNfG.jpg",
+    "read_time": "2026-10-22T18:01:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42608,
+      "timestamp": "2026-10-22T18:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-10-22T18:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/CKkvprzSLp",
+    "publish_time": "2026-10-22T17:31:07"
   }
 ]
