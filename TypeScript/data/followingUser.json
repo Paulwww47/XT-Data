@@ -9252,9 +9252,21 @@
       "name": "wangkhongdam",
       "screenName": "wangkhongdam",
       "createdAt": "Wed Feb 17 02:57:39 +0000 2021",
-      "description": "tiktok: wangnguyn.dn",
+      "description": "Tiktok: wangnguyn.dn\n🔞🥵: https://t.co/mcRcYE0GDv",
       "entities": {
-        "description": {}
+        "description": {
+          "urls": [
+            {
+              "display_url": "t.me/wangdayroi",
+              "expanded_url": "https://t.me/wangdayroi",
+              "indices": [
+                25,
+                48
+              ],
+              "url": "https://t.co/mcRcYE0GDv"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "",
       "profileImageUrlHttps": ""
