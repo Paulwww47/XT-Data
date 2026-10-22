@@ -1326,5 +1326,135 @@
     },
     "full_text": "好冷ㄛ感覺不適合玩水了 https://t.co/zTLePTwOXq",
     "publish_time": "2026-10-22T12:46:16"
+  },
+  {
+    "tweet_id": "2113134829873307897",
+    "file_name": "HVNc6JPb0AAWYUp.jpg",
+    "user": {
+      "screen_name": "BaoBaoo17",
+      "name": "豹豹"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVNc6JPb0AAWYUp.jpg",
+    "read_time": "2026-10-22T14:01:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42585,
+      "timestamp": "2026-10-22T14:01:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.17,
+      "timestamp": "2026-10-22T14:01:50",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/VbDJZRtbpb",
+    "publish_time": "2026-10-22T13:06:18"
+  },
+  {
+    "tweet_id": "2113139495008911620",
+    "file_name": "HVNhDc4bkAAB25n.jpg",
+    "user": {
+      "screen_name": "rthurz",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVNhDc4bkAAB25n.jpg",
+    "read_time": "2026-10-22T14:01:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42586,
+      "timestamp": "2026-10-22T14:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.07,
+      "timestamp": "2026-10-22T14:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "แอปเปิ้ลแคร์หมดแล้วต่ออีกอยู่อย่าง สำหรับคนที่สงสัย มันต่อได้เรื่อยๆ เลยนะ เราต่อมาอันนี้รอบสองแล้ว สี่ปีแล้ว 55555 https://t.co/ZovobgSiSt",
+    "publish_time": "2026-10-22T13:24:50"
+  },
+  {
+    "tweet_id": "2113143660225483185",
+    "file_name": "pdalqKEGBRvC5UIS.mp4",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113143646031872000/vid/avc1/720x960/pdalqKEGBRvC5UIS.mp4?tag=29",
+    "read_time": "2026-10-22T14:01:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42587,
+      "timestamp": "2026-10-22T14:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.27,
+      "timestamp": "2026-10-22T14:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "状态还ok吗？ https://t.co/yY78zfjYkh",
+    "publish_time": "2026-10-22T13:41:23"
+  },
+  {
+    "tweet_id": "2113143660225483185",
+    "file_name": "QpzdAYUrQ3QiP4n-.mp4",
+    "user": {
+      "screen_name": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113143646027661313/vid/avc1/720x960/QpzdAYUrQ3QiP4n-.mp4?tag=29",
+    "read_time": "2026-10-22T14:01:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42588,
+      "timestamp": "2026-10-22T14:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-10-22T14:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "状态还ok吗？ https://t.co/yY78zfjYkh",
+    "publish_time": "2026-10-22T13:41:23"
+  },
+  {
+    "tweet_id": "2113146066942190035",
+    "file_name": "MYxSTyy8lMSr6iCc.mp4",
+    "user": {
+      "screen_name": "easychen",
+      "name": "EasyChen"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113144551166885888/vid/avc1/1280x720/MYxSTyy8lMSr6iCc.mp4?tag=14",
+    "read_time": "2026-10-22T14:01:50",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42589,
+      "timestamp": "2026-10-22T14:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 16.11,
+      "timestamp": "2026-10-22T14:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "#Easy的AIGC学习笔记  实测了 lightx2v 10 月 20 日版 MiniMax H3 Ref2V 4 步加速 LoRA（参考图版，首个 768p 训练版）。\n\n对比现方案 FL2V 4 步：对白不烧字幕（0/13 对 7/7），人脸细节约低一成，手机盲测基本看不出。但大幅运镜时背景会闪，详情看视频 https://t.co/sW9t4TTdmx",
+    "publish_time": "2026-10-22T13:50:57"
   }
 ]

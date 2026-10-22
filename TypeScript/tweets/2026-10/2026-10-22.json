@@ -630,5 +630,62 @@
     "tweetUrl": "https://x.com/tzz_an/status/2113129790807130406",
     "fullText": "好冷ㄛ感覺不適合玩水了 https://t.co/zTLePTwOXq",
     "publishTime": "2026-10-22T12:46:16"
+  },
+  {
+    "user": {
+      "screenName": "BaoBaoo17",
+      "name": "豹豹"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVNc6JPb0AAWYUp.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/BaoBaoo17/status/2113134829873307897",
+    "fullText": "https://t.co/VbDJZRtbpb",
+    "publishTime": "2026-10-22T13:06:18"
+  },
+  {
+    "user": {
+      "screenName": "rthurz",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVNhDc4bkAAB25n.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/rthurz/status/2113139495008911620",
+    "fullText": "แอปเปิ้ลแคร์หมดแล้วต่ออีกอยู่อย่าง สำหรับคนที่สงสัย มันต่อได้เรื่อยๆ เลยนะ เราต่อมาอันนี้รอบสองแล้ว สี่ปีแล้ว 55555 https://t.co/ZovobgSiSt",
+    "publishTime": "2026-10-22T13:24:50"
+  },
+  {
+    "user": {
+      "screenName": "markma58304799",
+      "name": "MARK.xiaohui"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2113143646031872000/vid/avc1/720x960/pdalqKEGBRvC5UIS.mp4?tag=29",
+      "https://video.twimg.com/amplify_video/2113143646027661313/vid/avc1/720x960/QpzdAYUrQ3QiP4n-.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/markma58304799/status/2113143660225483185",
+    "fullText": "状态还ok吗？ https://t.co/yY78zfjYkh",
+    "publishTime": "2026-10-22T13:41:23"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2113144551166885888/vid/avc1/1280x720/MYxSTyy8lMSr6iCc.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/easychen/status/2113146066942190035",
+    "fullText": "#Easy的AIGC学习笔记  实测了 lightx2v 10 月 20 日版 MiniMax H3 Ref2V 4 步加速 LoRA（参考图版，首个 768p 训练版）。\n\n对比现方案 FL2V 4 步：对白不烧字幕（0/13 对 7/7），人脸细节约低一成，手机盲测基本看不出。但大幅运镜时背景会闪，详情看视频 https://t.co/sW9t4TTdmx",
+    "publishTime": "2026-10-22T13:50:57"
   }
 ]
