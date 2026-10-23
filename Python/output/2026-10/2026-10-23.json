@@ -4307,7 +4307,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (63.26MB > 50.00MB)",
       "timestamp": "2026-10-23T22:02:54",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -4318,5 +4318,83 @@
     },
     "full_text": "Wanna Go One-on-One? 🏀\n\nDear Leo, @lcs0603 \n\nWanna let our youth run wild,\nshare some romantic cream puffs,\nand be my MVP today?\n\n～ 奶蓋情人夢 💙 https://t.co/xfBYzdLP0Z",
     "publish_time": "2026-10-23T21:38:00"
+  },
+  {
+    "tweet_id": "2113635051162538160",
+    "file_name": "HVUj35vbgAAl4cE.jpg",
+    "user": {
+      "screen_name": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVUj35vbgAAl4cE.jpg",
+    "read_time": "2026-10-23T23:02:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42840,
+      "timestamp": "2026-10-23T23:02:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.07,
+      "timestamp": "2026-10-23T23:02:46",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/V9xwcxpfCa",
+    "publish_time": "2026-10-23T22:14:00"
+  },
+  {
+    "tweet_id": "2113641179371737559",
+    "file_name": "HVUpa22W4AAt0OW.jpg",
+    "user": {
+      "screen_name": "ali605063114862",
+      "name": "ali"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVUpa22W4AAt0OW.jpg",
+    "read_time": "2026-10-23T23:02:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42841,
+      "timestamp": "2026-10-23T23:02:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.05,
+      "timestamp": "2026-10-23T23:02:48",
+      "download_attempts": 0
+    },
+    "full_text": "#直男 #肌肉  #采访 #勾引 #胸肌\n🔞出高颜值直男采访频道, 持续更新 \n\n⏩持续更新 ,主页可➕🐧3992394671 https://t.co/b7weVVkqqm",
+    "publish_time": "2026-10-23T22:38:21"
+  },
+  {
+    "tweet_id": "2113645773523185935",
+    "file_name": "am0nnC8pAxeLeoIy.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113588556270891008/vid/avc1/720x960/am0nnC8pAxeLeoIy.mp4?tag=14",
+    "read_time": "2026-10-23T23:02:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42842,
+      "timestamp": "2026-10-23T23:02:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 26.57,
+      "timestamp": "2026-10-23T23:02:49",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/anMEZSkxGR",
+    "publish_time": "2026-10-23T22:56:36"
   }
 ]
