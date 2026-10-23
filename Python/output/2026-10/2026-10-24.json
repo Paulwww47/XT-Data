@@ -960,5 +960,57 @@
     },
     "full_text": "can’t sleep https://t.co/KOnO3neDEh",
     "publish_time": "2026-10-24T02:58:13"
+  },
+  {
+    "tweet_id": "2113707445855953198",
+    "file_name": "jgs6QlZMpj-TrAFE.mp4",
+    "user": {
+      "screen_name": "jaecitoooo",
+      "name": "jae"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113609165734363137/vid/avc1/576x1024/jgs6QlZMpj-TrAFE.mp4?tag=29",
+    "read_time": "2026-10-24T07:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42890,
+      "timestamp": "2026-10-24T07:02:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.18,
+      "timestamp": "2026-10-24T07:02:24",
+      "download_attempts": 0
+    },
+    "full_text": "참 기특해요 https://t.co/hHs74gBM0E",
+    "publish_time": "2026-10-24T03:01:40"
+  },
+  {
+    "tweet_id": "2113749331681698285",
+    "file_name": "HVWLz8dakAACnYl.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVWLz8dakAACnYl.jpg",
+    "read_time": "2026-10-24T07:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42891,
+      "timestamp": "2026-10-24T07:02:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-10-24T07:02:28",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/rhvyZq3G4d",
+    "publish_time": "2026-10-24T05:48:06"
   }
 ]
