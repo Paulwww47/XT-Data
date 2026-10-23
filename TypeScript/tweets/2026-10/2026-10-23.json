@@ -1430,5 +1430,51 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2113552829994668519",
     "fullText": "tcc_06_cfc https://t.co/T6DwihpeGi",
     "publishTime": "2026-10-23T16:47:17"
+  },
+  {
+    "user": {
+      "screenName": "eccmair",
+      "name": "焛"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVTdxzjbsAAhnWP.jpg",
+      "https://pbs.twimg.com/media/HVTdxziaYAAJEWG.jpg",
+      "https://pbs.twimg.com/media/HVTdxzgbQAARMTH.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HVTdxzoaEAATVTA.mp4"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eccmair/status/2113557998316736676",
+    "fullText": "Neon！ https://t.co/GADafeQpZL",
+    "publishTime": "2026-10-23T17:07:49"
+  },
+  {
+    "user": {
+      "screenName": "Sebastian_lezai",
+      "name": "Sebastian.Lezai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVTnW2MbEAAo4Ui.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Sebastian_lezai/status/2113568516322500881",
+    "fullText": "https://t.co/3B4uWInUS4",
+    "publishTime": "2026-10-23T17:49:37"
+  },
+  {
+    "user": {
+      "screenName": "yichimo0720",
+      "name": "摇裤儿"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVTpNg0aoAAU10S.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/yichimo0720/status/2113570551264596242",
+    "fullText": "揪～咪～喵 https://t.co/e9VQNEMJad",
+    "publishTime": "2026-10-23T17:57:42"
   }
 ]
