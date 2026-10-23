@@ -4097,7 +4097,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (189.21MB > 50.00MB)",
       "timestamp": "2026-10-23T21:03:09",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -4264,5 +4264,59 @@
     },
     "full_text": "https://t.co/JwO6FcLu70",
     "publish_time": "2026-10-23T20:44:47"
+  },
+  {
+    "tweet_id": "2113622913429680518",
+    "file_name": "HVUY1TlbIAAdusj.jpg",
+    "user": {
+      "screen_name": "yichimo0720",
+      "name": "摇裤儿"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVUY1TlbIAAdusj.jpg",
+    "read_time": "2026-10-23T22:02:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42839,
+      "timestamp": "2026-10-23T22:02:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-10-23T22:02:51",
+      "download_attempts": 0
+    },
+    "full_text": "打卡，本周任务完成，终于可以休息啦！ https://t.co/fuEpvCkHov",
+    "publish_time": "2026-10-23T21:25:46"
+  },
+  {
+    "tweet_id": "2113625991092519343",
+    "file_name": "z1iQNjZescz3aYuJ.mp4",
+    "user": {
+      "screen_name": "josephmrkao",
+      "name": "185 Joseph"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113513982715944960/vid/avc1/1080x1920/z1iQNjZescz3aYuJ.mp4?tag=29",
+    "read_time": "2026-10-23T22:02:51",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (63.26MB > 50.00MB)",
+      "timestamp": "2026-10-23T22:02:54",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 63.26,
+      "timestamp": "2026-10-23T22:02:54",
+      "download_attempts": 0
+    },
+    "full_text": "Wanna Go One-on-One? 🏀\n\nDear Leo, @lcs0603 \n\nWanna let our youth run wild,\nshare some romantic cream puffs,\nand be my MVP today?\n\n～ 奶蓋情人夢 💙 https://t.co/xfBYzdLP0Z",
+    "publish_time": "2026-10-23T21:38:00"
   }
 ]
