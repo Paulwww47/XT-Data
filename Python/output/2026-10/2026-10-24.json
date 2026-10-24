@@ -4264,5 +4264,191 @@
     },
     "full_text": "https://t.co/58PY8ye5yh",
     "publish_time": "2026-10-24T22:50:57"
+  },
+  {
+    "tweet_id": "2114009905963385099",
+    "file_name": "HVZ4zFSb0AAquk0.jpg",
+    "user": {
+      "screen_name": "xiao57520",
+      "name": "翱哥备用机"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVZ4zFSb0AAquk0.jpg",
+    "read_time": "2026-10-25T00:02:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43016,
+      "timestamp": "2026-10-25T00:02:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-10-25T00:02:26",
+      "download_attempts": 0
+    },
+    "full_text": "🔚 https://t.co/1gcZNti5Kw",
+    "publish_time": "2026-10-24T23:03:32"
+  },
+  {
+    "tweet_id": "2114012534164590777",
+    "file_name": "aU-3rzLnmKisV-3I.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113554388346408960/vid/avc1/1190x888/aU-3rzLnmKisV-3I.mp4?tag=29",
+    "read_time": "2026-10-25T00:02:25",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (275.69MB > 50.00MB)",
+      "timestamp": "2026-10-25T00:02:30",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 275.69,
+      "timestamp": "2026-10-25T00:02:30",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/uLmKTv2doO",
+    "publish_time": "2026-10-24T23:13:59"
+  },
+  {
+    "tweet_id": "2114014203703120236",
+    "file_name": "HVZ8teTa0AAbEqi.jpg",
+    "user": {
+      "screen_name": "AyuWinston",
+      "name": "Winston温战"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVZ8teTa0AAbEqi.jpg",
+    "read_time": "2026-10-25T00:02:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43017,
+      "timestamp": "2026-10-25T00:02:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-10-25T00:02:30",
+      "download_attempts": 0
+    },
+    "full_text": "一旦知道对方是05就会瞬间感觉没那么爽了～\n有没有和我一样的 https://t.co/tk45lZ8yUw",
+    "publish_time": "2026-10-24T23:20:37"
+  },
+  {
+    "tweet_id": "2114016223981912195",
+    "file_name": "IAmWd7lBham7M-2R.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113854012151963648/vid/avc1/700x1280/IAmWd7lBham7M-2R.mp4?tag=29",
+    "read_time": "2026-10-25T00:02:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43018,
+      "timestamp": "2026-10-25T00:02:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 6.35,
+      "timestamp": "2026-10-25T00:02:32",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/NNWfk2nDwI",
+    "publish_time": "2026-10-24T23:28:38"
+  },
+  {
+    "tweet_id": "2114018750437666908",
+    "file_name": "HVaA1DwbMAAK6Pq.jpg",
+    "user": {
+      "screen_name": "Jiang648047",
+      "name": "jiang li yun 63"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVaA1DwbMAAK6Pq.jpg",
+    "read_time": "2026-10-25T00:02:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43019,
+      "timestamp": "2026-10-25T00:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.22,
+      "timestamp": "2026-10-25T00:02:36",
+      "download_attempts": 0
+    },
+    "full_text": "应该打这些tag是吗\n#叔叔 #高弹 #衬衫 https://t.co/S7vPJUiSnd",
+    "publish_time": "2026-10-24T23:38:41"
+  },
+  {
+    "tweet_id": "2114021772878369017",
+    "file_name": "eIP4reyoEKa07HyV.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113643911050862593/vid/avc1/610x1080/eIP4reyoEKa07HyV.mp4?tag=29",
+    "read_time": "2026-10-25T00:02:25",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (88.07MB > 50.00MB)",
+      "timestamp": "2026-10-25T00:02:38",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 88.07,
+      "timestamp": "2026-10-25T00:02:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/EK5tQMX0E0",
+    "publish_time": "2026-10-24T23:50:41"
+  },
+  {
+    "tweet_id": "2114024057435996174",
+    "file_name": "HVaFqaZakAAvgSn.jpg",
+    "user": {
+      "screen_name": "junjunshiheihei",
+      "name": "JunJun"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVaFqaZakAAvgSn.jpg",
+    "read_time": "2026-10-25T00:02:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43020,
+      "timestamp": "2026-10-25T00:02:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-10-25T00:02:38",
+      "download_attempts": 0
+    },
+    "full_text": "适合无脑贱狗意淫时看 https://t.co/G3EquaQg7I",
+    "publish_time": "2026-10-24T23:59:46"
   }
 ]
