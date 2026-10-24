@@ -988,5 +988,57 @@
     },
     "full_text": "#归国留子 \n这么多年过去了 \n真的没人跟他玩过吗 🥲\n在回忆起来，突然又觉得有点 🉑\n悔恨当初没有好好伺候咱哥 😭 https://t.co/GBV4lbO8mQ",
     "publish_time": "2026-10-25T05:08:01"
+  },
+  {
+    "tweet_id": "2114118406379377073",
+    "file_name": "ZmN3THi4Fhg1p6Ly.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2091813954200944640/vid/avc1/720x1272/ZmN3THi4Fhg1p6Ly.mp4?tag=29",
+    "read_time": "2026-10-25T07:02:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43058,
+      "timestamp": "2026-10-25T07:02:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 11.58,
+      "timestamp": "2026-10-25T07:02:47",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/jKRdepWr1e",
+    "publish_time": "2026-10-25T06:14:41"
+  },
+  {
+    "tweet_id": "2114122300962513007",
+    "file_name": "SlIEtmICFsOI4-qs.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/ext_tw_video/1454875536044425217/pu/vid/368x640/SlIEtmICFsOI4-qs.mp4?tag=12",
+    "read_time": "2026-10-25T07:02:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43059,
+      "timestamp": "2026-10-25T07:02:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 2.09,
+      "timestamp": "2026-10-25T07:02:51",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/VzqOgs9LSY",
+    "publish_time": "2026-10-25T06:30:09"
   }
 ]
