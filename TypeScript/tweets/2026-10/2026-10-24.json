@@ -519,5 +519,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2113749331681698285",
     "fullText": "https://t.co/rhvyZq3G4d",
     "publishTime": "2026-10-24T05:48:06"
+  },
+  {
+    "user": {
+      "screenName": "BBoy1069",
+      "name": "我是臭直男"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2113777041942470656/vid/avc1/720x1280/_3lB_Cge2GgfrM9h.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/BBoy1069/status/2113777073856942168",
+    "fullText": "【2026年10月24日】今日資源已經更新！以下視頻與更新資源無關！ https://t.co/s8Gj6vRQXj",
+    "publishTime": "2026-10-24T07:38:21"
+  },
+  {
+    "user": {
+      "screenName": "xiaofeilius",
+      "name": "小肥刘"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVWoGp9aQAAKFcp.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/xiaofeilius/status/2113780457443868937",
+    "fullText": "15天 有喜欢的吗 https://t.co/M5PXzVs1OD",
+    "publishTime": "2026-10-24T07:51:47"
   }
 ]
