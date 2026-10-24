@@ -3768,5 +3768,267 @@
     },
     "full_text": "🦋 https://t.co/dshh5JlwUe",
     "publish_time": "2026-10-24T20:51:52"
+  },
+  {
+    "tweet_id": "2113980914493723068",
+    "file_name": "HVZebAIbQAAnk4e.jpg",
+    "user": {
+      "screen_name": "Azrael64300",
+      "name": "薅壕好昊"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVZebAIbQAAnk4e.jpg",
+    "read_time": "2026-10-24T22:02:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42998,
+      "timestamp": "2026-10-24T22:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-10-24T22:02:34",
+      "download_attempts": 0
+    },
+    "full_text": "小小的也很可爱 https://t.co/7RDHQ2ZQwG",
+    "publish_time": "2026-10-24T21:08:20"
+  },
+  {
+    "tweet_id": "2113981053073563850",
+    "file_name": "-50hbN-pwnWlI8nL.mp4",
+    "user": {
+      "screen_name": "Time6929",
+      "name": "TIMC"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113979776075743232/vid/avc1/720x1280/-50hbN-pwnWlI8nL.mp4?tag=29",
+    "read_time": "2026-10-24T22:02:33",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (160.71MB > 50.00MB)",
+      "timestamp": "2026-10-24T22:02:49",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 160.71,
+      "timestamp": "2026-10-24T22:02:49",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/dBJs9gmO2w",
+    "publish_time": "2026-10-24T21:08:53"
+  },
+  {
+    "tweet_id": "2113981684303737100",
+    "file_name": "-p3zQZJyQSbdIY5J.mp4",
+    "user": {
+      "screen_name": "XiaoshengwudiS",
+      "name": "陈大圣"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113981653664325632/vid/avc1/720x1280/-p3zQZJyQSbdIY5J.mp4?tag=29",
+    "read_time": "2026-10-24T22:02:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 42999,
+      "timestamp": "2026-10-24T22:02:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.21,
+      "timestamp": "2026-10-24T22:02:50",
+      "download_attempts": 0
+    },
+    "full_text": "这只狗子很喜欢我 https://t.co/oOvCofetKt",
+    "publish_time": "2026-10-24T21:11:24"
+  },
+  {
+    "tweet_id": "2113983434746122439",
+    "file_name": "HVZguLkaYAA0QxL.jpg",
+    "user": {
+      "screen_name": "XXxLin18cn",
+      "name": "小林不小"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVZguLkaYAA0QxL.jpg",
+    "read_time": "2026-10-24T22:02:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43000,
+      "timestamp": "2026-10-24T22:02:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-10-24T22:02:53",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/EpxRX9E7BW",
+    "publish_time": "2026-10-24T21:18:21"
+  },
+  {
+    "tweet_id": "2113985075989860463",
+    "file_name": "HVZiNqja4AE-VlL.jpg",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVZiNqja4AE-VlL.jpg",
+    "read_time": "2026-10-24T22:02:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43001,
+      "timestamp": "2026-10-24T22:02:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-10-24T22:02:54",
+      "download_attempts": 0
+    },
+    "full_text": "血管这样蛮有张力的 好涩 https://t.co/4LmaevVIpK",
+    "publish_time": "2026-10-24T21:24:52"
+  },
+  {
+    "tweet_id": "2113985075989860463",
+    "file_name": "D50BuKte8FiK2TCS.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113984986059874305/vid/avc1/720x1280/D50BuKte8FiK2TCS.mp4?tag=29",
+    "read_time": "2026-10-24T22:02:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43002,
+      "timestamp": "2026-10-24T22:02:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.44,
+      "timestamp": "2026-10-24T22:02:55",
+      "download_attempts": 0
+    },
+    "full_text": "血管这样蛮有张力的 好涩 https://t.co/4LmaevVIpK",
+    "publish_time": "2026-10-24T21:24:52"
+  },
+  {
+    "tweet_id": "2113985075989860463",
+    "file_name": "KUI1425_rlDaH_1i.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113985010332233728/vid/avc1/720x1280/KUI1425_rlDaH_1i.mp4?tag=29",
+    "read_time": "2026-10-24T22:02:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43003,
+      "timestamp": "2026-10-24T22:02:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.27,
+      "timestamp": "2026-10-24T22:02:55",
+      "download_attempts": 0
+    },
+    "full_text": "血管这样蛮有张力的 好涩 https://t.co/4LmaevVIpK",
+    "publish_time": "2026-10-24T21:24:52"
+  },
+  {
+    "tweet_id": "2113985075989860463",
+    "file_name": "5grmQ6t9s4K8_WFw.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113985036424974336/vid/avc1/720x1280/5grmQ6t9s4K8_WFw.mp4?tag=29",
+    "read_time": "2026-10-24T22:02:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43004,
+      "timestamp": "2026-10-24T22:02:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.34,
+      "timestamp": "2026-10-24T22:02:55",
+      "download_attempts": 0
+    },
+    "full_text": "血管这样蛮有张力的 好涩 https://t.co/4LmaevVIpK",
+    "publish_time": "2026-10-24T21:24:52"
+  },
+  {
+    "tweet_id": "2113987722838995006",
+    "file_name": "HVZkoNiaIAAz6Cz.jpg",
+    "user": {
+      "screen_name": "Big_straight_H",
+      "name": "荒"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVZkoNiaIAAz6Cz.jpg",
+    "read_time": "2026-10-24T22:02:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43005,
+      "timestamp": "2026-10-24T22:02:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-10-24T22:02:58",
+      "download_attempts": 0
+    },
+    "full_text": "二頭太小比不出🫶 https://t.co/zdvOahMCYo",
+    "publish_time": "2026-10-24T21:35:23"
+  },
+  {
+    "tweet_id": "2113988501511491705",
+    "file_name": "R56CUEnFlOBOO4pO.mp4",
+    "user": {
+      "screen_name": "ali605063114862",
+      "name": "ali"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113988443411738624/vid/avc1/590x1280/R56CUEnFlOBOO4pO.mp4?tag=29",
+    "read_time": "2026-10-24T22:02:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43006,
+      "timestamp": "2026-10-24T22:03:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.92,
+      "timestamp": "2026-10-24T22:03:00",
+      "download_attempts": 0
+    },
+    "full_text": "#直男 #肌肉  #采访 #勾引 #胸肌\n🔞出高颜值直男采访频道, 持续更新 \n\n⏩持续更新 ,主页可➕🐧 https://t.co/lCh1pqrUEZ",
+    "publish_time": "2026-10-24T21:38:29"
   }
 ]
