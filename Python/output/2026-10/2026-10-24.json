@@ -2028,6 +2028,34 @@
     "publish_time": "2026-10-24T14:01:55"
   },
   {
+    "tweet_id": "2113874678129516966",
+    "file_name": "kzUuu2EGb4Y4Jd-v.mp4",
+    "user": {
+      "screen_name": "Tonylikeme2026",
+      "name": "Tony"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113874536404078592/vid/avc1/1120x836/kzUuu2EGb4Y4Jd-v.mp4?tag=29",
+    "read_time": "2026-10-25T13:03:53",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (108.05MB > 50.00MB)",
+      "timestamp": "2026-10-25T13:03:54",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 108.05,
+      "timestamp": "2026-10-25T13:03:54",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/V3LMA5cDLq",
+    "publish_time": "2026-10-24T14:06:11"
+  },
+  {
     "tweet_id": "2113875376749625676",
     "file_name": "HVX-cohaMAAzFYI.jpg",
     "user": {
@@ -2730,6 +2758,32 @@
     "publish_time": "2026-10-24T16:24:02"
   },
   {
+    "tweet_id": "2113911262627467729",
+    "file_name": "pLNBbuxQqiEgEqJZ.mp4",
+    "user": {
+      "screen_name": "Tonylikeme2026",
+      "name": "Tony"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113911213960949760/vid/avc1/720x956/pLNBbuxQqiEgEqJZ.mp4?tag=29",
+    "read_time": "2026-10-25T13:03:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43087,
+      "timestamp": "2026-10-25T13:03:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 9.39,
+      "timestamp": "2026-10-25T13:03:54",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/rC9UVti8Vh",
+    "publish_time": "2026-10-24T16:31:34"
+  },
+  {
     "tweet_id": "2113911511316107416",
     "file_name": "HVYfRuea8AEFFmc.jpg",
     "user": {
@@ -3198,6 +3252,188 @@
     "publish_time": "2026-10-24T17:24:25"
   },
   {
+    "tweet_id": "2113928129748324537",
+    "file_name": "yn-5Nd3RJuDmhmSz.mp4",
+    "user": {
+      "screen_name": "Tonylikeme2026",
+      "name": "Tony"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113928051373522944/vid/avc1/1080x1920/yn-5Nd3RJuDmhmSz.mp4?tag=29",
+    "read_time": "2026-10-25T13:03:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43088,
+      "timestamp": "2026-10-25T13:04:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 24.73,
+      "timestamp": "2026-10-25T13:03:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Nuzp8UwSrv",
+    "publish_time": "2026-10-24T17:38:35"
+  },
+  {
+    "tweet_id": "2113928129748324537",
+    "file_name": "s1lRtouDPxzNpfF4.mp4",
+    "user": {
+      "screen_name": "Tonylikeme2026",
+      "name": "Tony"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113928051444834304/vid/avc1/1080x1920/s1lRtouDPxzNpfF4.mp4?tag=29",
+    "read_time": "2026-10-25T13:03:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43089,
+      "timestamp": "2026-10-25T13:04:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 36.36,
+      "timestamp": "2026-10-25T13:03:58",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Nuzp8UwSrv",
+    "publish_time": "2026-10-24T17:38:35"
+  },
+  {
+    "tweet_id": "2113928231992881249",
+    "file_name": "s2kWCWV0IjPbEp__.mp4",
+    "user": {
+      "screen_name": "Tonylikeme2026",
+      "name": "Tony"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113928157980131329/vid/avc1/540x960/s2kWCWV0IjPbEp__.mp4?tag=29",
+    "read_time": "2026-10-25T13:03:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43090,
+      "timestamp": "2026-10-25T13:04:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 5.45,
+      "timestamp": "2026-10-25T13:04:04",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/pkAnCV6ZUG",
+    "publish_time": "2026-10-24T17:39:00"
+  },
+  {
+    "tweet_id": "2113928231992881249",
+    "file_name": "FKQEX-jmTOwJyHvK.mp4",
+    "user": {
+      "screen_name": "Tonylikeme2026",
+      "name": "Tony"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113928158022184960/vid/avc1/540x960/FKQEX-jmTOwJyHvK.mp4?tag=29",
+    "read_time": "2026-10-25T13:03:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43091,
+      "timestamp": "2026-10-25T13:04:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 5.5,
+      "timestamp": "2026-10-25T13:04:04",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/pkAnCV6ZUG",
+    "publish_time": "2026-10-24T17:39:00"
+  },
+  {
+    "tweet_id": "2113928305623945663",
+    "file_name": "SMDNqbmRiHGkKay2.mp4",
+    "user": {
+      "screen_name": "Tonylikeme2026",
+      "name": "Tony"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113928279027851265/vid/avc1/540x960/SMDNqbmRiHGkKay2.mp4?tag=29",
+    "read_time": "2026-10-25T13:03:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43092,
+      "timestamp": "2026-10-25T13:04:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.19,
+      "timestamp": "2026-10-25T13:04:06",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/zDWzn23C2Q",
+    "publish_time": "2026-10-24T17:39:17"
+  },
+  {
+    "tweet_id": "2113928305623945663",
+    "file_name": "ekPq4_ZUHC56dbJ9.mp4",
+    "user": {
+      "screen_name": "Tonylikeme2026",
+      "name": "Tony"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113928278658695168/vid/avc1/540x960/ekPq4_ZUHC56dbJ9.mp4?tag=29",
+    "read_time": "2026-10-25T13:03:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43093,
+      "timestamp": "2026-10-25T13:04:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.27,
+      "timestamp": "2026-10-25T13:04:07",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/zDWzn23C2Q",
+    "publish_time": "2026-10-24T17:39:17"
+  },
+  {
+    "tweet_id": "2113928305623945663",
+    "file_name": "uyDv9vqzlD_PvGlY.mp4",
+    "user": {
+      "screen_name": "Tonylikeme2026",
+      "name": "Tony"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113928279099056128/vid/avc1/540x960/uyDv9vqzlD_PvGlY.mp4?tag=29",
+    "read_time": "2026-10-25T13:03:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43094,
+      "timestamp": "2026-10-25T13:04:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.21,
+      "timestamp": "2026-10-25T13:04:07",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/zDWzn23C2Q",
+    "publish_time": "2026-10-24T17:39:17"
+  },
+  {
     "tweet_id": "2113928372434964907",
     "file_name": "HVYupQpbwAAqk52.jpg",
     "user": {
@@ -3222,6 +3458,84 @@
     },
     "full_text": "拉屎通畅 https://t.co/1veUQhdNUJ",
     "publish_time": "2026-10-24T17:39:33"
+  },
+  {
+    "tweet_id": "2113929159751958902",
+    "file_name": "JjDi8B0HI-wITeok.mp4",
+    "user": {
+      "screen_name": "Tonylikeme2026",
+      "name": "Tony"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113929108162031616/vid/avc1/1080x1920/JjDi8B0HI-wITeok.mp4?tag=29",
+    "read_time": "2026-10-25T13:03:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43095,
+      "timestamp": "2026-10-25T13:04:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 12.07,
+      "timestamp": "2026-10-25T13:04:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/BUx4C2Waqz",
+    "publish_time": "2026-10-24T17:42:41"
+  },
+  {
+    "tweet_id": "2113929159751958902",
+    "file_name": "8FqCYlDZJ2rQOybB.mp4",
+    "user": {
+      "screen_name": "Tonylikeme2026",
+      "name": "Tony"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113929108153630720/vid/avc1/1080x1920/8FqCYlDZJ2rQOybB.mp4?tag=29",
+    "read_time": "2026-10-25T13:03:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43096,
+      "timestamp": "2026-10-25T13:04:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 11.1,
+      "timestamp": "2026-10-25T13:04:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/BUx4C2Waqz",
+    "publish_time": "2026-10-24T17:42:41"
+  },
+  {
+    "tweet_id": "2113929159751958902",
+    "file_name": "VO5vUQuStD2V-zU8.mp4",
+    "user": {
+      "screen_name": "Tonylikeme2026",
+      "name": "Tony"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113929108153606144/vid/avc1/1080x1920/VO5vUQuStD2V-zU8.mp4?tag=29",
+    "read_time": "2026-10-25T13:03:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43097,
+      "timestamp": "2026-10-25T13:04:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 11.52,
+      "timestamp": "2026-10-25T13:04:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/BUx4C2Waqz",
+    "publish_time": "2026-10-24T17:42:41"
   },
   {
     "tweet_id": "2113932343337705885",
@@ -3378,6 +3692,84 @@
     },
     "full_text": "抽象的一张 https://t.co/xKxP54F53a",
     "publish_time": "2026-10-24T18:47:50"
+  },
+  {
+    "tweet_id": "2113947301811200040",
+    "file_name": "pwMOl_pDOezAiwrD.mp4",
+    "user": {
+      "screen_name": "Tonylikeme2026",
+      "name": "Tony"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113947228515819523/vid/avc1/552x1004/pwMOl_pDOezAiwrD.mp4?tag=29",
+    "read_time": "2026-10-25T13:03:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43098,
+      "timestamp": "2026-10-25T13:04:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 6.3,
+      "timestamp": "2026-10-25T13:04:12",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/b4lMw1uPYQ",
+    "publish_time": "2026-10-24T18:54:46"
+  },
+  {
+    "tweet_id": "2113947301811200040",
+    "file_name": "hGpmwHM9_0btiv26.mp4",
+    "user": {
+      "screen_name": "Tonylikeme2026",
+      "name": "Tony"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113947228519931906/vid/avc1/552x1004/hGpmwHM9_0btiv26.mp4?tag=29",
+    "read_time": "2026-10-25T13:03:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43099,
+      "timestamp": "2026-10-25T13:04:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 6.31,
+      "timestamp": "2026-10-25T13:04:12",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/b4lMw1uPYQ",
+    "publish_time": "2026-10-24T18:54:46"
+  },
+  {
+    "tweet_id": "2113947301811200040",
+    "file_name": "3yxvXIcdB6CazmIU.mp4",
+    "user": {
+      "screen_name": "Tonylikeme2026",
+      "name": "Tony"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2113947228494798848/vid/avc1/552x1004/3yxvXIcdB6CazmIU.mp4?tag=29",
+    "read_time": "2026-10-25T13:03:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43100,
+      "timestamp": "2026-10-25T13:04:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 5.27,
+      "timestamp": "2026-10-25T13:04:12",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/b4lMw1uPYQ",
+    "publish_time": "2026-10-24T18:54:46"
   },
   {
     "tweet_id": "2113948529723130362",
