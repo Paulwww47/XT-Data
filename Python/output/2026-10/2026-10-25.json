@@ -1898,5 +1898,57 @@
     },
     "full_text": "Bed face https://t.co/meuXnFk919",
     "publish_time": "2026-10-25T12:55:43"
+  },
+  {
+    "tweet_id": "2114225567314968947",
+    "file_name": "HVc88OmbMAA0aR0.jpg",
+    "user": {
+      "screen_name": "xhn1069",
+      "name": "路过"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVc88OmbMAA0aR0.jpg",
+    "read_time": "2026-10-25T14:02:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43107,
+      "timestamp": "2026-10-25T14:02:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.06,
+      "timestamp": "2026-10-25T14:02:45",
+      "download_attempts": 0
+    },
+    "full_text": "💪 https://t.co/bK7SgwheGH",
+    "publish_time": "2026-10-25T13:20:30"
+  },
+  {
+    "tweet_id": "2114235150590763433",
+    "file_name": "HVdFqTrbcAAeJ4c.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVdFqTrbcAAeJ4c.jpg",
+    "read_time": "2026-10-25T14:02:45",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43108,
+      "timestamp": "2026-10-25T14:02:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.16,
+      "timestamp": "2026-10-25T14:02:47",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/0lm5WFrQtI",
+    "publish_time": "2026-10-25T13:58:35"
   }
 ]
