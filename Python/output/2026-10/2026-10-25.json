@@ -3995,7 +3995,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (50.92MB > 50.00MB)",
       "timestamp": "2026-10-25T21:02:41",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -4006,5 +4006,109 @@
     },
     "full_text": "https://t.co/hTitsPId2V",
     "publish_time": "2026-10-25T20:57:26"
+  },
+  {
+    "tweet_id": "2114341598763073784",
+    "file_name": "HVemebPbcAEyq_j.jpg",
+    "user": {
+      "screen_name": "lovesamoyed_tw",
+      "name": "Samoyed Lover🐶"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVemebPbcAEyq_j.jpg",
+    "read_time": "2026-10-25T22:02:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43188,
+      "timestamp": "2026-10-25T22:02:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-10-25T22:02:30",
+      "download_attempts": 0
+    },
+    "full_text": "🥵🥵 https://t.co/AHbE5tsn6j",
+    "publish_time": "2026-10-25T21:01:34"
+  },
+  {
+    "tweet_id": "2114353250082419188",
+    "file_name": "HVexEuvbAAEydcV.jpg",
+    "user": {
+      "screen_name": "HsiungEayon",
+      "name": "EAYON"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVexEuvbAAEydcV.jpg",
+    "read_time": "2026-10-25T22:02:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43189,
+      "timestamp": "2026-10-25T22:02:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.2,
+      "timestamp": "2026-10-25T22:02:32",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/B7H0peUcYM",
+    "publish_time": "2026-10-25T21:47:52"
+  },
+  {
+    "tweet_id": "2114353250082419188",
+    "file_name": "HVexEu4bkAAfdFm.jpg",
+    "user": {
+      "screen_name": "HsiungEayon",
+      "name": "EAYON"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVexEu4bkAAfdFm.jpg",
+    "read_time": "2026-10-25T22:02:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43190,
+      "timestamp": "2026-10-25T22:02:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-10-25T22:02:32",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/B7H0peUcYM",
+    "publish_time": "2026-10-25T21:47:52"
+  },
+  {
+    "tweet_id": "2114355587152855521",
+    "file_name": "HVezMtya4AArpqL.jpg",
+    "user": {
+      "screen_name": "zuoximuhao1111S",
+      "name": "佐夕木豪"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVezMtya4AArpqL.jpg",
+    "read_time": "2026-10-25T22:02:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43191,
+      "timestamp": "2026-10-25T22:02:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-10-25T22:02:34",
+      "download_attempts": 0
+    },
+    "full_text": "今天练胸💓 https://t.co/w5u8G3VP6P",
+    "publish_time": "2026-10-25T21:57:09"
   }
 ]
