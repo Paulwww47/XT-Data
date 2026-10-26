@@ -353,7 +353,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (71.29MB > 50.00MB)",
       "timestamp": "2026-10-27T02:01:56",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -390,5 +390,83 @@
     },
     "full_text": "https://t.co/ZNFji0wwoM",
     "publish_time": "2026-10-27T01:25:46"
+  },
+  {
+    "tweet_id": "2114787153578492327",
+    "file_name": "HVk7sgmb0AARI53.jpg",
+    "user": {
+      "screen_name": "sbby110",
+      "name": "是边边呀"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVk7sgmb0AARI53.jpg",
+    "read_time": "2026-10-27T03:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43453,
+      "timestamp": "2026-10-27T03:01:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.19,
+      "timestamp": "2026-10-27T03:01:50",
+      "download_attempts": 0
+    },
+    "full_text": "肥猫拉屎 https://t.co/uAuKc2WuqP",
+    "publish_time": "2026-10-27T02:32:02"
+  },
+  {
+    "tweet_id": "2114791099055440008",
+    "file_name": "I9AS4sWLSL_RJdjx.mp4",
+    "user": {
+      "screen_name": "ismgto",
+      "name": "380（睡觉版）"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2114790641410715648/vid/avc1/720x1278/I9AS4sWLSL_RJdjx.mp4?tag=29",
+    "read_time": "2026-10-27T03:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43454,
+      "timestamp": "2026-10-27T03:02:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 17.44,
+      "timestamp": "2026-10-27T03:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "深蹲训练像春药一样，睡觉总是硬邦邦的，拉出来撸一下，放回去还想撸\n#土直 #阴茎 #鸡巴 https://t.co/qbT5URH5W4",
+    "publish_time": "2026-10-27T02:47:43"
+  },
+  {
+    "tweet_id": "2114793341548462351",
+    "file_name": "tQwZYVvcZ2ok5bdf.mp4",
+    "user": {
+      "screen_name": "hhh752093296",
+      "name": "大力宝宝"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2114793277593620480/vid/avc1/720x1280/tQwZYVvcZ2ok5bdf.mp4?tag=29",
+    "read_time": "2026-10-27T03:01:49",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43455,
+      "timestamp": "2026-10-27T03:02:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.7,
+      "timestamp": "2026-10-27T03:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "来帮你爹 https://t.co/UIhq0O6HXw",
+    "publish_time": "2026-10-27T02:56:38"
   }
 ]
