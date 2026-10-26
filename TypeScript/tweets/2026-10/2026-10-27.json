@@ -260,5 +260,48 @@
     "tweetUrl": "https://x.com/hhh752093296/status/2114793341548462351",
     "fullText": "来帮你爹 https://t.co/UIhq0O6HXw",
     "publishTime": "2026-10-27T02:56:38"
+  },
+  {
+    "user": {
+      "screenName": "sbby110",
+      "name": "是边边呀"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVlJqoTawAA6tGW.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/sbby110/status/2114802508032024658",
+    "fullText": "😗 https://t.co/DL29aoXJhe",
+    "publishTime": "2026-10-27T03:33:03"
+  },
+  {
+    "user": {
+      "screenName": "thisisforoasis",
+      "name": "NOT SEEING OASIS 2027"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/thisisforoasis/status/2114802641419341880",
+    "fullText": "that’s why i gave up listening to kpoop",
+    "publishTime": "2026-10-27T03:33:35"
+  },
+  {
+    "user": {
+      "screenName": "Fufufo2w",
+      "name": "Fufu"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2114798682940043264/vid/avc1/574x1280/p852CsUIg8IyBn6R.mp4?tag=29",
+      "https://video.twimg.com/amplify_video/2114799544965931009/vid/avc1/574x1280/pIPmPsebq_ZVxG-P.mp4?tag=29",
+      "https://video.twimg.com/amplify_video/2114801053652971520/vid/avc1/574x1280/ZJtRiozzl_NFF_Lw.mp4?tag=29",
+      "https://video.twimg.com/amplify_video/2114804111665496064/vid/avc1/574x1280/u3zVwOrGkUMeRcCD.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Fufufo2w/status/2114804427433591170",
+    "fullText": "https://t.co/vkfsxLyWh9",
+    "publishTime": "2026-10-27T03:40:41"
   }
 ]

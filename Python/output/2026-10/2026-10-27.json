@@ -468,5 +468,135 @@
     },
     "full_text": "来帮你爹 https://t.co/UIhq0O6HXw",
     "publish_time": "2026-10-27T02:56:38"
+  },
+  {
+    "tweet_id": "2114802508032024658",
+    "file_name": "HVlJqoTawAA6tGW.jpg",
+    "user": {
+      "screen_name": "sbby110",
+      "name": "是边边呀"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVlJqoTawAA6tGW.jpg",
+    "read_time": "2026-10-27T04:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43456,
+      "timestamp": "2026-10-27T04:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.17,
+      "timestamp": "2026-10-27T04:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "😗 https://t.co/DL29aoXJhe",
+    "publish_time": "2026-10-27T03:33:03"
+  },
+  {
+    "tweet_id": "2114804427433591170",
+    "file_name": "p852CsUIg8IyBn6R.mp4",
+    "user": {
+      "screen_name": "Fufufo2w",
+      "name": "Fufu"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2114798682940043264/vid/avc1/574x1280/p852CsUIg8IyBn6R.mp4?tag=29",
+    "read_time": "2026-10-27T04:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43457,
+      "timestamp": "2026-10-27T04:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.7,
+      "timestamp": "2026-10-27T04:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vkfsxLyWh9",
+    "publish_time": "2026-10-27T03:40:41"
+  },
+  {
+    "tweet_id": "2114804427433591170",
+    "file_name": "pIPmPsebq_ZVxG-P.mp4",
+    "user": {
+      "screen_name": "Fufufo2w",
+      "name": "Fufu"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2114799544965931009/vid/avc1/574x1280/pIPmPsebq_ZVxG-P.mp4?tag=29",
+    "read_time": "2026-10-27T04:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43458,
+      "timestamp": "2026-10-27T04:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.83,
+      "timestamp": "2026-10-27T04:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vkfsxLyWh9",
+    "publish_time": "2026-10-27T03:40:41"
+  },
+  {
+    "tweet_id": "2114804427433591170",
+    "file_name": "ZJtRiozzl_NFF_Lw.mp4",
+    "user": {
+      "screen_name": "Fufufo2w",
+      "name": "Fufu"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2114801053652971520/vid/avc1/574x1280/ZJtRiozzl_NFF_Lw.mp4?tag=29",
+    "read_time": "2026-10-27T04:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43459,
+      "timestamp": "2026-10-27T04:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 5.43,
+      "timestamp": "2026-10-27T04:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vkfsxLyWh9",
+    "publish_time": "2026-10-27T03:40:41"
+  },
+  {
+    "tweet_id": "2114804427433591170",
+    "file_name": "u3zVwOrGkUMeRcCD.mp4",
+    "user": {
+      "screen_name": "Fufufo2w",
+      "name": "Fufu"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2114804111665496064/vid/avc1/574x1280/u3zVwOrGkUMeRcCD.mp4?tag=29",
+    "read_time": "2026-10-27T04:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43460,
+      "timestamp": "2026-10-27T04:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.51,
+      "timestamp": "2026-10-27T04:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vkfsxLyWh9",
+    "publish_time": "2026-10-27T03:40:41"
   }
 ]
