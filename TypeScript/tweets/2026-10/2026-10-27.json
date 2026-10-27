@@ -500,5 +500,35 @@
     "tweetUrl": "https://x.com/Time6929/status/2114867381927600497",
     "fullText": "https://t.co/22EhjsjF8v",
     "publishTime": "2026-10-27T07:50:50"
+  },
+  {
+    "user": {
+      "screenName": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2114880025229139968/vid/avc1/720x1280/Bvo2Orliw2BLz3GL.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/junglewildwild/status/2114880051783319921",
+    "fullText": "https://t.co/gjnV6NTEhc",
+    "publishTime": "2026-10-27T08:41:11"
+  },
+  {
+    "user": {
+      "screenName": "wwxia8898",
+      "name": "罗夏 （深圳）"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVmQL99bgAAByyJ.jpg",
+      "https://pbs.twimg.com/media/HVmQL96bsAAvO_O.jpg",
+      "https://pbs.twimg.com/media/HVmQL99bYAETsoJ.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/wwxia8898/status/2114880059261771984",
+    "fullText": "忙完这几天，休假2个月 https://t.co/3F2utyjIsR",
+    "publishTime": "2026-10-27T08:41:13"
   }
 ]
