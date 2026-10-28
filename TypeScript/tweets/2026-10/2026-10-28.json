@@ -514,5 +514,47 @@
     "tweetUrl": "https://x.com/junglewildwild/status/2115235691584201142",
     "fullText": "https://t.co/pdPbQsvFrS",
     "publishTime": "2026-10-28T08:14:22"
+  },
+  {
+    "user": {
+      "screenName": "erqishiliuhu",
+      "name": "贰柒拾六胡"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVrlqKybgAA-1fT.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/erqishiliuhu/status/2115255496571801971",
+    "fullText": "微信群太小，满了，大家先到电报吧 https://t.co/Wtd0hhJaEz",
+    "publishTime": "2026-10-28T09:33:04"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVrrxAvaAAAnYEH.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2115262207626031142",
+    "fullText": "https://t.co/3MoVWeImoQ",
+    "publishTime": "2026-10-28T09:59:44"
+  },
+  {
+    "user": {
+      "screenName": "xiao57520",
+      "name": "翱哥备用机"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2115262368297230336/vid/avc1/720x1280/0HFQgOXsHEp1hjnh.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/xiao57520/status/2115262395711189002",
+    "fullText": "不上镜。 https://t.co/S4hxfBTNB5",
+    "publishTime": "2026-10-28T10:00:29"
   }
 ]
