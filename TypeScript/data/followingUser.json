@@ -199,7 +199,7 @@
       "name": "s",
       "screenName": "1Swwx1",
       "createdAt": "Fri Feb 11 10:42:43 +0000 2011",
-      "description": "｜健身博主｜\n｜舉報擋災｜1S",
+      "description": "｜健身博主｜有事直說\n｜舉報擋災｜1S",
       "entities": {
         "description": {}
       },
@@ -2683,7 +2683,7 @@
       "name": "飞鸟和鱼",
       "screenName": "feiniaoheyu186",
       "createdAt": "Tue Apr 19 16:06:23 +0000 2022",
-      "description": "江浙沪单男 寻周边优质情侣&夫妻 可以约酒 约咖啡 其它随缘 无照不回 假照勿扰 搭子👉 @luoyi186",
+      "description": "江浙沪单男 可以约酒 约咖啡 其它随缘 无照不回 搭子👉 @luoyi186",
       "entities": {
         "description": {}
       },
@@ -3902,7 +3902,7 @@
   {
     "restId": "1886140879053656065",
     "legacy": {
-      "name": "iabqtov",
+      "name": "hairydavid",
       "screenName": "iabqtov",
       "createdAt": "Sun Feb 02 19:53:39 +0000 2025",
       "description": "不联盟，不线下见面，发发自己的作品",
@@ -10092,19 +10092,7 @@
       "createdAt": "Wed Jun 07 22:32:33 +0000 2023",
       "description": "⚠️乱关注不通过🚪看清门槛条件：zfb口令🧧押金40购买后24h内可抵消或者曾购三套原创以上的弟弟🌴大号@xxjy120过门槛电报私聊https://t.co/gXCD3eld78（乱打招呼不说事直接拉黑）✈️⚠️不会主动发私信（包括QQ、电报），电报群私信问我",
       "entities": {
-        "description": {
-          "urls": [
-            {
-              "display_url": "t.me/XXJY8866",
-              "expanded_url": "https://t.me/XXJY8866",
-              "indices": [
-                67,
-                90
-              ],
-              "url": "https://t.co/gXCD3eld78"
-            }
-          ]
-        }
+        "description": {}
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1666573872882122754/1690493654",
       "profileImageUrlHttps": ""
