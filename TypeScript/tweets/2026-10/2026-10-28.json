@@ -486,5 +486,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2115229916560282030",
     "fullText": "https://t.co/dPdcuh9jvr",
     "publishTime": "2026-10-28T07:51:25"
+  },
+  {
+    "user": {
+      "screenName": "yichimo0720",
+      "name": "摇裤儿"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HVrRELKaMAEfirV.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/yichimo0720/status/2115232852728275021",
+    "fullText": "想做爱 https://t.co/SVnjmpy4Mr",
+    "publishTime": "2026-10-28T08:03:05"
+  },
+  {
+    "user": {
+      "screenName": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2115235627252023296/vid/avc1/720x1280/JvJ_60yZnFTZhXXI.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/junglewildwild/status/2115235691584201142",
+    "fullText": "https://t.co/pdPbQsvFrS",
+    "publishTime": "2026-10-28T08:14:22"
   }
 ]

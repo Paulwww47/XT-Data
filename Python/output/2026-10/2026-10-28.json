@@ -986,5 +986,57 @@
     },
     "full_text": "https://t.co/dPdcuh9jvr",
     "publish_time": "2026-10-28T07:51:25"
+  },
+  {
+    "tweet_id": "2115232852728275021",
+    "file_name": "HVrRELKaMAEfirV.jpg",
+    "user": {
+      "screen_name": "yichimo0720",
+      "name": "摇裤儿"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVrRELKaMAEfirV.jpg",
+    "read_time": "2026-10-28T09:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43625,
+      "timestamp": "2026-10-28T09:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.17,
+      "timestamp": "2026-10-28T09:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "想做爱 https://t.co/SVnjmpy4Mr",
+    "publish_time": "2026-10-28T08:03:05"
+  },
+  {
+    "tweet_id": "2115235691584201142",
+    "file_name": "JvJ_60yZnFTZhXXI.mp4",
+    "user": {
+      "screen_name": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2115235627252023296/vid/avc1/720x1280/JvJ_60yZnFTZhXXI.mp4?tag=29",
+    "read_time": "2026-10-28T09:01:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43626,
+      "timestamp": "2026-10-28T09:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 2.64,
+      "timestamp": "2026-10-28T09:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/pdPbQsvFrS",
+    "publish_time": "2026-10-28T08:14:22"
   }
 ]
