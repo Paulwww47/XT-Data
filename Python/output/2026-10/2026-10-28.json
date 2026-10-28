@@ -2522,6 +2522,32 @@
     "publish_time": "2026-10-28T15:41:53"
   },
   {
+    "tweet_id": "2115349826321924214",
+    "file_name": "HVs7ctCagAMW2gC.jpg",
+    "user": {
+      "screen_name": "Eric16Sn",
+      "name": "只想练背（北京版）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVs7ctCagAMW2gC.jpg",
+    "read_time": "2026-10-29T01:03:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43769,
+      "timestamp": "2026-10-29T01:03:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-10-29T01:03:41",
+      "download_attempts": 0
+    },
+    "full_text": "我要憋死了 https://t.co/BxISEeAC3l",
+    "publish_time": "2026-10-28T15:47:54"
+  },
+  {
     "tweet_id": "2115353590051287153",
     "file_name": "BoCLYjjahYnEhVTO.mp4",
     "user": {
@@ -3926,6 +3952,32 @@
     "publish_time": "2026-10-28T21:55:00"
   },
   {
+    "tweet_id": "2115444881669926977",
+    "file_name": "EtBoS_IR2ohN70Mm.mp4",
+    "user": {
+      "screen_name": "ooliverhorny",
+      "name": "Miguel"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2115444818742759424/vid/avc1/1280x720/EtBoS_IR2ohN70Mm.mp4?tag=29",
+    "read_time": "2026-10-29T01:03:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43770,
+      "timestamp": "2026-10-29T01:03:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.77,
+      "timestamp": "2026-10-29T01:03:43",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/fUck2swUw6",
+    "publish_time": "2026-10-28T22:05:37"
+  },
+  {
     "tweet_id": "2115446601011609921",
     "file_name": "HVuTcnWagAA8Yc_.mp4",
     "user": {
@@ -4184,6 +4236,58 @@
     },
     "full_text": "依旧是左右脚嘿嘿🤓👅 https://t.co/fOr8ZeWXLL",
     "publish_time": "2026-10-28T23:11:14"
+  },
+  {
+    "tweet_id": "2115461551884783821",
+    "file_name": "HVug_WuWsAAmcy7.jpg",
+    "user": {
+      "screen_name": "Eric16Sn",
+      "name": "只想练背（北京版）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVug_WuWsAAmcy7.jpg",
+    "read_time": "2026-10-29T01:03:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43771,
+      "timestamp": "2026-10-29T01:03:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.21,
+      "timestamp": "2026-10-29T01:03:47",
+      "download_attempts": 0
+    },
+    "full_text": "来舔 https://t.co/pc8COdeHP9",
+    "publish_time": "2026-10-28T23:11:52"
+  },
+  {
+    "tweet_id": "2115461551884783821",
+    "file_name": "HVug_WvXgAAWKta.jpg",
+    "user": {
+      "screen_name": "Eric16Sn",
+      "name": "只想练背（北京版）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVug_WvXgAAWKta.jpg",
+    "read_time": "2026-10-29T01:03:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43772,
+      "timestamp": "2026-10-29T01:03:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-10-29T01:03:47",
+      "download_attempts": 0
+    },
+    "full_text": "来舔 https://t.co/pc8COdeHP9",
+    "publish_time": "2026-10-28T23:11:52"
   },
   {
     "tweet_id": "2115462246096900601",
@@ -4591,7 +4695,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (66.39MB > 50.00MB)",
       "timestamp": "2026-10-29T00:02:56",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
