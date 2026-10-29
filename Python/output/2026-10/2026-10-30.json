@@ -388,5 +388,31 @@
     },
     "full_text": "https://t.co/63QlE0bSFU",
     "publish_time": "2026-10-30T04:43:40"
+  },
+  {
+    "tweet_id": "2115917854893875202",
+    "file_name": "jW6WAvvGBkYwVT1I.mp4",
+    "user": {
+      "screen_name": "liu6864",
+      "name": "CL357"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2115917766977015808/vid/avc1/480x640/jW6WAvvGBkYwVT1I.mp4?tag=14",
+    "read_time": "2026-10-30T06:02:31",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43981,
+      "timestamp": "2026-10-30T06:02:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.14,
+      "timestamp": "2026-10-30T06:02:32",
+      "download_attempts": 0
+    },
+    "full_text": "爸爸的🔒~ https://t.co/vu4RIfdRtB",
+    "publish_time": "2026-10-30T05:25:03"
   }
 ]
