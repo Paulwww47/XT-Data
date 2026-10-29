@@ -2435,7 +2435,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (124.93MB > 50.00MB)",
       "timestamp": "2026-10-29T15:04:05",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -2463,7 +2463,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (444.44MB > 50.00MB)",
       "timestamp": "2026-10-29T15:04:07",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -2630,5 +2630,83 @@
     },
     "full_text": "万圣节cos爹的贱狗，被爹踩脸 #s  #肌肉爸爸 #黑袜脚 #高弹 https://t.co/D6MGoydHgm",
     "publish_time": "2026-10-29T15:02:03"
+  },
+  {
+    "tweet_id": "2115701273240739870",
+    "file_name": "HVx7FxmawAEMRFX.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVx7FxmawAEMRFX.jpg",
+    "read_time": "2026-10-29T16:03:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43872,
+      "timestamp": "2026-10-29T16:03:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.07,
+      "timestamp": "2026-10-29T16:03:06",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/OJZ48AVJwI",
+    "publish_time": "2026-10-29T15:04:26"
+  },
+  {
+    "tweet_id": "2115702297053585441",
+    "file_name": "ePzJGytlvyX4iTiW.mp4",
+    "user": {
+      "screen_name": "zhenjun0571",
+      "name": "尼克劳斯"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2115701991867555840/vid/avc1/720x1280/ePzJGytlvyX4iTiW.mp4?tag=29",
+    "read_time": "2026-10-29T16:03:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43873,
+      "timestamp": "2026-10-29T16:03:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 13.1,
+      "timestamp": "2026-10-29T16:03:09",
+      "download_attempts": 0
+    },
+    "full_text": "🥷 https://t.co/zBvX2VIueB",
+    "publish_time": "2026-10-29T15:08:30"
+  },
+  {
+    "tweet_id": "2115714916938297478",
+    "file_name": "HVyHfWCbsAA1I1a.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HVyHfWCbsAA1I1a.jpg",
+    "read_time": "2026-10-29T16:03:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43874,
+      "timestamp": "2026-10-29T16:03:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-10-29T16:03:13",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/v2JoBc8fVH",
+    "publish_time": "2026-10-29T15:58:38"
   }
 ]
