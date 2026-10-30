@@ -778,5 +778,57 @@
     },
     "full_text": "https://t.co/RhPyDzUt19",
     "publish_time": "2026-10-30T08:57:17"
+  },
+  {
+    "tweet_id": "2115976954230739337",
+    "file_name": "HV11zhmXAAATWyN.jpg",
+    "user": {
+      "screen_name": "linhan96968",
+      "name": "linhan"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HV11zhmXAAATWyN.jpg",
+    "read_time": "2026-10-30T10:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43996,
+      "timestamp": "2026-10-30T10:02:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-10-30T10:02:20",
+      "download_attempts": 0
+    },
+    "full_text": "早上起来就这样 https://t.co/kRdsfQFxEp",
+    "publish_time": "2026-10-30T09:19:53"
+  },
+  {
+    "tweet_id": "2115985239277453620",
+    "file_name": "cbXng0gAOF4FRNQJ.mp4",
+    "user": {
+      "screen_name": "BiancaR71347203",
+      "name": "F大柴"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2115985202262794240/vid/avc1/1280x720/cbXng0gAOF4FRNQJ.mp4?tag=29",
+    "read_time": "2026-10-30T10:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 43997,
+      "timestamp": "2026-10-30T10:02:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 5.31,
+      "timestamp": "2026-10-30T10:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "柴柴每一次吃都很卖力 https://t.co/vyuSKptwku",
+    "publish_time": "2026-10-30T09:52:48"
   }
 ]
