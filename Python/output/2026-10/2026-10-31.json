@@ -962,5 +962,83 @@
     },
     "full_text": "爸爸的自娱自乐~ https://t.co/7mr035Ix9w",
     "publish_time": "2026-10-31T07:21:04"
+  },
+  {
+    "tweet_id": "2116331236813840660",
+    "file_name": "H20-ySTgAAstyJpN.mp4",
+    "user": {
+      "screen_name": "Sesedeao",
+      "name": "春夏冬中"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2116331220560912385/vid/avc1/720x1280/H20-ySTgAAstyJpN.mp4?tag=29",
+    "read_time": "2026-10-31T09:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44134,
+      "timestamp": "2026-10-31T09:02:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.9,
+      "timestamp": "2026-10-31T09:02:25",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/V2vtRxJ4C6",
+    "publish_time": "2026-10-31T08:47:41"
+  },
+  {
+    "tweet_id": "2116332349369749992",
+    "file_name": "HV647p2awAAPBRZ.jpg",
+    "user": {
+      "screen_name": "Sesedeao",
+      "name": "春夏冬中"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HV647p2awAAPBRZ.jpg",
+    "read_time": "2026-10-31T09:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44135,
+      "timestamp": "2026-10-31T09:02:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-10-31T09:02:28",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/fC8I1NjTEp",
+    "publish_time": "2026-10-31T08:52:06"
+  },
+  {
+    "tweet_id": "2116332349369749992",
+    "file_name": "PChlugLzIU9VBrJI.mp4",
+    "user": {
+      "screen_name": "Sesedeao",
+      "name": "春夏冬中"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2116332209921826816/vid/avc1/2158x3648/PChlugLzIU9VBrJI.mp4?tag=29",
+    "read_time": "2026-10-31T09:02:23",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44136,
+      "timestamp": "2026-10-31T09:02:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 25.87,
+      "timestamp": "2026-10-31T09:02:31",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/fC8I1NjTEp",
+    "publish_time": "2026-10-31T08:52:06"
   }
 ]
