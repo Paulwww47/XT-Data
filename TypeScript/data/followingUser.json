@@ -4740,7 +4740,7 @@
           ]
         }
       },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1326696697620148228/1639159656",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1326696697620148228/1793414305",
       "profileImageUrlHttps": ""
     }
   },
@@ -9980,6 +9980,20 @@
     }
   },
   {
+    "restId": "1711086208510459904",
+    "legacy": {
+      "name": "jason.li0",
+      "screenName": "ximaiMrLi",
+      "createdAt": "Sun Oct 08 18:28:52 +0000 2023",
+      "description": "西安👨🏽base上海",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": ""
+    }
+  },
+  {
     "restId": "1064433173310763015",
     "legacy": {
       "name": "星睿",
@@ -10228,18 +10242,18 @@
       "name": "小小脚丫🐾全见版（新）",
       "screenName": "xxjy9696",
       "createdAt": "Wed Jun 07 22:32:33 +0000 2023",
-      "description": "⚠️乱关注不通过🚪看清门槛条件：zfb口令🧧押金40购买后24h内可抵消或者曾购三套原创以上的弟弟🌴大号@xxjy120过门槛电报私聊https://t.co/vo6WgunILX（乱打招呼不说事直接拉黑）✈️⚠️不会主动发私信（包括QQ、电报），电报群私信问我",
+      "description": "⚠️乱关注不通过🚪看清门槛条件：zfb口令🧧押金40购买后24h内可抵消或者曾购三套原创以上的弟弟🌴大号@xxjy120过门槛电报私聊https://t.co/fWs0mTJA1g（乱打招呼不说事直接拉黑）✈️⚠️不会主动发私信（包括QQ、电报），电报群私信问我",
       "entities": {
         "description": {
           "urls": [
             {
-              "display_url": "t.me/XXJY1234",
-              "expanded_url": "https://t.me/XXJY1234",
+              "display_url": "t.me/XXJY10086",
+              "expanded_url": "https://t.me/XXJY10086",
               "indices": [
                 67,
                 90
               ],
-              "url": "https://t.co/vo6WgunILX"
+              "url": "https://t.co/fWs0mTJA1g"
             }
           ]
         }
