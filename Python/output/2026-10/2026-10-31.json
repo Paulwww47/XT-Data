@@ -4381,19 +4381,17 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/2116548987960627200/vid/avc1/1280x720/_6KioH8SBVFojmBt.mp4?tag=29",
     "read_time": "2026-11-01T00:03:44",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2026-11-01T00:04:32",
-      "notification_sent": false
+      "success": true,
+      "message_id": 44271,
+      "timestamp": "2026-11-01T01:02:48"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size_mb": 21.5,
-      "timestamp": "2026-11-01T00:04:08",
+      "timestamp": "2026-11-01T01:02:37",
       "download_attempts": 0
     },
     "full_text": "用电动牙刷折磨大龟头 https://t.co/iAiNIV7ZYv",
@@ -4409,19 +4407,17 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/2116549170999996416/vid/avc1/1280x720/6fNeB7PI4jXh63rc.mp4?tag=29",
     "read_time": "2026-11-01T00:03:44",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2026-11-01T00:04:32",
-      "notification_sent": false
+      "success": true,
+      "message_id": 44272,
+      "timestamp": "2026-11-01T01:02:48"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size_mb": 20.33,
-      "timestamp": "2026-11-01T00:04:10",
+      "timestamp": "2026-11-01T01:02:37",
       "download_attempts": 0
     },
     "full_text": "用电动牙刷折磨大龟头 https://t.co/iAiNIV7ZYv",
@@ -4443,7 +4439,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (83.32MB > 50.00MB)",
       "timestamp": "2026-11-01T00:04:33",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -4471,7 +4467,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (59.16MB > 50.00MB)",
       "timestamp": "2026-11-01T00:04:35",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -4551,7 +4547,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (274.63MB > 50.00MB)",
       "timestamp": "2026-11-01T00:05:11",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -4579,7 +4575,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (239.45MB > 50.00MB)",
       "timestamp": "2026-11-01T00:05:11",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -4607,7 +4603,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (81.43MB > 50.00MB)",
       "timestamp": "2026-11-01T00:05:11",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
