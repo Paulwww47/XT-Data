@@ -3709,7 +3709,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (59.91MB > 50.00MB)",
       "timestamp": "2026-10-31T22:02:50",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -3720,5 +3720,525 @@
     },
     "full_text": "Don't make me say it out loud...\nJust feel it in my touch 🐘🫂\n@ToyBoy_Nexy \n▶️ https://t.co/bBxaQmAlIf https://t.co/cubaSqQVPi",
     "publish_time": "2026-10-31T22:01:00"
+  },
+  {
+    "tweet_id": "2116532073662128256",
+    "file_name": "HV9us0YaoAAnFA0.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HV9us0YaoAAnFA0.jpg",
+    "read_time": "2026-10-31T23:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44239,
+      "timestamp": "2026-10-31T23:02:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-10-31T23:02:24",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/x1A4gWAfQc",
+    "publish_time": "2026-10-31T22:05:44"
+  },
+  {
+    "tweet_id": "2116532073662128256",
+    "file_name": "HV9us1haUAASJCs.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HV9us1haUAASJCs.jpg",
+    "read_time": "2026-10-31T23:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44240,
+      "timestamp": "2026-10-31T23:02:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-10-31T23:02:24",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/x1A4gWAfQc",
+    "publish_time": "2026-10-31T22:05:44"
+  },
+  {
+    "tweet_id": "2116532073662128256",
+    "file_name": "HV9us0MaMAArG-z.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HV9us0MaMAArG-z.jpg",
+    "read_time": "2026-10-31T23:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44241,
+      "timestamp": "2026-10-31T23:02:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-10-31T23:02:25",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/x1A4gWAfQc",
+    "publish_time": "2026-10-31T22:05:44"
+  },
+  {
+    "tweet_id": "2116532073662128256",
+    "file_name": "HV9us0LacAA9rz3.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HV9us0LacAA9rz3.jpg",
+    "read_time": "2026-10-31T23:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44242,
+      "timestamp": "2026-10-31T23:02:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-10-31T23:02:25",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/x1A4gWAfQc",
+    "publish_time": "2026-10-31T22:05:44"
+  },
+  {
+    "tweet_id": "2116532352830919037",
+    "file_name": "iF8z74pZWy0Cjvta.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2116532332467519488/vid/avc1/720x1280/iF8z74pZWy0Cjvta.mp4?tag=29",
+    "read_time": "2026-10-31T23:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44243,
+      "timestamp": "2026-10-31T23:02:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 4.26,
+      "timestamp": "2026-10-31T23:02:29",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/jufPGGITC2",
+    "publish_time": "2026-10-31T22:06:50"
+  },
+  {
+    "tweet_id": "2116533828458266854",
+    "file_name": "huvX-Wv5KYCvmsnV.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2116533800192921601/vid/avc1/720x1280/huvX-Wv5KYCvmsnV.mp4?tag=29",
+    "read_time": "2026-10-31T23:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44244,
+      "timestamp": "2026-10-31T23:02:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 5.09,
+      "timestamp": "2026-10-31T23:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vDNu4FRU0G",
+    "publish_time": "2026-10-31T22:12:42"
+  },
+  {
+    "tweet_id": "2116534218184651249",
+    "file_name": "HV9wpmHbcAEo-WV.jpg",
+    "user": {
+      "screen_name": "uncledoggie",
+      "name": "小狼叔"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HV9wpmHbcAEo-WV.jpg",
+    "read_time": "2026-10-31T23:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44245,
+      "timestamp": "2026-10-31T23:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.16,
+      "timestamp": "2026-10-31T23:02:39",
+      "download_attempts": 0
+    },
+    "full_text": "万圣节来醋都吃醋🍶 https://t.co/72qGWaID9x",
+    "publish_time": "2026-10-31T22:14:15"
+  },
+  {
+    "tweet_id": "2116534218184651249",
+    "file_name": "HV9wpmDakAAsAcS.jpg",
+    "user": {
+      "screen_name": "uncledoggie",
+      "name": "小狼叔"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HV9wpmDakAAsAcS.jpg",
+    "read_time": "2026-10-31T23:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44246,
+      "timestamp": "2026-10-31T23:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-10-31T23:02:39",
+      "download_attempts": 0
+    },
+    "full_text": "万圣节来醋都吃醋🍶 https://t.co/72qGWaID9x",
+    "publish_time": "2026-10-31T22:14:15"
+  },
+  {
+    "tweet_id": "2116534924744466487",
+    "file_name": "HV9xSwFaoAEL9NM.jpg",
+    "user": {
+      "screen_name": "huiyoudafuji",
+      "name": "会有大腹肌（天津"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HV9xSwFaoAEL9NM.jpg",
+    "read_time": "2026-10-31T23:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44247,
+      "timestamp": "2026-10-31T23:02:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-10-31T23:02:41",
+      "download_attempts": 0
+    },
+    "full_text": "谁定制的万圣节装扮🎃就这样出门捣蛋吧👻\n#无脑傻逼 #暴露 #平板锁 https://t.co/gwBt1q0x7H",
+    "publish_time": "2026-10-31T22:17:04"
+  },
+  {
+    "tweet_id": "2116536251465838970",
+    "file_name": "ZoAsAqe6dj6zQMX_.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2116536225343614976/vid/avc1/720x1280/ZoAsAqe6dj6zQMX_.mp4?tag=29",
+    "read_time": "2026-10-31T23:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44248,
+      "timestamp": "2026-10-31T23:02:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 4.82,
+      "timestamp": "2026-10-31T23:02:44",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/C8qLTf9ugF",
+    "publish_time": "2026-10-31T22:22:20"
+  },
+  {
+    "tweet_id": "2116536615762018738",
+    "file_name": "HV9y1NVakAAyfvX.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HV9y1NVakAAyfvX.jpg",
+    "read_time": "2026-10-31T23:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44249,
+      "timestamp": "2026-10-31T23:02:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.18,
+      "timestamp": "2026-10-31T23:02:48",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/8pmc2mfo6C",
+    "publish_time": "2026-10-31T22:23:47"
+  },
+  {
+    "tweet_id": "2116538633885032577",
+    "file_name": "HV90qtia8AAL9OZ.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HV90qtia8AAL9OZ.jpg",
+    "read_time": "2026-10-31T23:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44250,
+      "timestamp": "2026-10-31T23:02:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-10-31T23:02:51",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/d1zGyEIYbC",
+    "publish_time": "2026-10-31T22:31:48"
+  },
+  {
+    "tweet_id": "2116538633885032577",
+    "file_name": "HV90qt2asAALZvi.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HV90qt2asAALZvi.jpg",
+    "read_time": "2026-10-31T23:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44251,
+      "timestamp": "2026-10-31T23:02:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-10-31T23:02:51",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/d1zGyEIYbC",
+    "publish_time": "2026-10-31T22:31:48"
+  },
+  {
+    "tweet_id": "2116538633885032577",
+    "file_name": "HV90qtxboAAEHRG.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HV90qtxboAAEHRG.jpg",
+    "read_time": "2026-10-31T23:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44252,
+      "timestamp": "2026-10-31T23:02:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-10-31T23:02:51",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/d1zGyEIYbC",
+    "publish_time": "2026-10-31T22:31:48"
+  },
+  {
+    "tweet_id": "2116538633885032577",
+    "file_name": "HV90qtraUAAtqV6.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HV90qtraUAAtqV6.jpg",
+    "read_time": "2026-10-31T23:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44253,
+      "timestamp": "2026-10-31T23:02:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-10-31T23:02:51",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/d1zGyEIYbC",
+    "publish_time": "2026-10-31T22:31:48"
+  },
+  {
+    "tweet_id": "2116541009261985820",
+    "file_name": "gQ0LZImAvSoHOU8x.mp4",
+    "user": {
+      "screen_name": "c558668",
+      "name": "0m"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2116540591962238976/vid/avc1/720x1280/gQ0LZImAvSoHOU8x.mp4?tag=29",
+    "read_time": "2026-10-31T23:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44254,
+      "timestamp": "2026-10-31T23:03:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 17.5,
+      "timestamp": "2026-10-31T23:02:53",
+      "download_attempts": 0
+    },
+    "full_text": "做1做0都精彩（过🚪主页渠道私） https://t.co/WNoWEZjxO6",
+    "publish_time": "2026-10-31T22:41:14"
+  },
+  {
+    "tweet_id": "2116541961780011415",
+    "file_name": "HV93pFgbkAACff6.jpg",
+    "user": {
+      "screen_name": "feiniaoheyu186",
+      "name": "飞鸟和鱼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HV93pFgbkAACff6.jpg",
+    "read_time": "2026-10-31T23:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44255,
+      "timestamp": "2026-10-31T23:03:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.21,
+      "timestamp": "2026-10-31T23:03:01",
+      "download_attempts": 0
+    },
+    "full_text": "出差南京两天…有局的🙋……#夫妻 #情侣 https://t.co/pPzlloQ5os",
+    "publish_time": "2026-10-31T22:45:01"
+  },
+  {
+    "tweet_id": "2116544197276606952",
+    "file_name": "HV95t_LWMAEetpZ.jpg",
+    "user": {
+      "screen_name": "qnlDcesD7hC0Ty5",
+      "name": "Wallee"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HV95t_LWMAEetpZ.jpg",
+    "read_time": "2026-10-31T23:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44256,
+      "timestamp": "2026-10-31T23:03:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-10-31T23:03:03",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/hNI39SEO6n",
+    "publish_time": "2026-10-31T22:53:54"
+  },
+  {
+    "tweet_id": "2116545356087656892",
+    "file_name": "HV96xLbb0AAXdWd.jpg",
+    "user": {
+      "screen_name": "lllllljs11270",
+      "name": "老王spa (深圳～广州"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HV96xLbb0AAXdWd.jpg",
+    "read_time": "2026-10-31T23:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44257,
+      "timestamp": "2026-10-31T23:03:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-10-31T23:03:04",
+      "download_attempts": 0
+    },
+    "full_text": "艾玛🤭 https://t.co/5aV80otQCz",
+    "publish_time": "2026-10-31T22:58:31"
+  },
+  {
+    "tweet_id": "2116545356087656892",
+    "file_name": "HV96xvIaUAAfSS5.jpg",
+    "user": {
+      "screen_name": "lllllljs11270",
+      "name": "老王spa (深圳～广州"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HV96xvIaUAAfSS5.jpg",
+    "read_time": "2026-10-31T23:02:24",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44258,
+      "timestamp": "2026-10-31T23:03:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-10-31T23:03:04",
+      "download_attempts": 0
+    },
+    "full_text": "艾玛🤭 https://t.co/5aV80otQCz",
+    "publish_time": "2026-10-31T22:58:31"
   }
 ]
