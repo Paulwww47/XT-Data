@@ -440,5 +440,31 @@
     },
     "full_text": "咖啡和奶茶超标…. 失眠🥱 https://t.co/dfadhWzJTE",
     "publish_time": "2026-11-02T03:04:35"
+  },
+  {
+    "tweet_id": "2116985681394520261",
+    "file_name": "HWELP3aaEAA6U2-.jpg",
+    "user": {
+      "screen_name": "xiao57520",
+      "name": "翱哥备用机"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWELP3aaEAA6U2-.jpg",
+    "read_time": "2026-11-02T05:02:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44508,
+      "timestamp": "2026-11-02T05:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.21,
+      "timestamp": "2026-11-02T05:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "抽一个 https://t.co/cp88fCgwj1",
+    "publish_time": "2026-11-02T04:08:12"
   }
 ]
