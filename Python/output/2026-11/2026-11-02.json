@@ -2121,7 +2121,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (50.96MB > 50.00MB)",
       "timestamp": "2026-11-02T18:03:46",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -2886,5 +2886,135 @@
     },
     "full_text": "有u熊打三角洲吗 \n带我得吃可以吃我 https://t.co/BsHoUS6xbQ",
     "publish_time": "2026-11-02T17:39:08"
+  },
+  {
+    "tweet_id": "2117195768843116949",
+    "file_name": "HWHKUuqakAASnwS.jpg",
+    "user": {
+      "screen_name": "wolfboy_with",
+      "name": "体育生-狼痞🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWHKUuqakAASnwS.jpg",
+    "read_time": "2026-11-02T19:02:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44601,
+      "timestamp": "2026-11-02T19:02:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-11-02T19:02:17",
+      "download_attempts": 0
+    },
+    "full_text": "大冬天抽烟不容易啊🥶 https://t.co/W9GQFWDVRm",
+    "publish_time": "2026-11-02T18:03:01"
+  },
+  {
+    "tweet_id": "2117200292806803798",
+    "file_name": "HWHOcDva0AEiiFr.jpg",
+    "user": {
+      "screen_name": "PTXCmilker",
+      "name": "屁桃小川milker"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWHOcDva0AEiiFr.jpg",
+    "read_time": "2026-11-02T19:02:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44602,
+      "timestamp": "2026-11-02T19:02:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.07,
+      "timestamp": "2026-11-02T19:02:19",
+      "download_attempts": 0
+    },
+    "full_text": "🤍 https://t.co/LFEP1jY3Nk",
+    "publish_time": "2026-11-02T18:21:00"
+  },
+  {
+    "tweet_id": "2117208380339311030",
+    "file_name": "HWHVy8HaUAAs-bR.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWHVy8HaUAAs-bR.jpg",
+    "read_time": "2026-11-02T19:02:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44603,
+      "timestamp": "2026-11-02T19:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-11-02T19:02:20",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/XfK06TnCsQ",
+    "publish_time": "2026-11-02T18:53:08"
+  },
+  {
+    "tweet_id": "2117209398850507141",
+    "file_name": "HWHWuhHbYAAoXlc.jpg",
+    "user": {
+      "screen_name": "MingZ902",
+      "name": "Rolex"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWHWuhHbYAAoXlc.jpg",
+    "read_time": "2026-11-02T19:02:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44604,
+      "timestamp": "2026-11-02T19:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.02,
+      "timestamp": "2026-11-02T19:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "可我不想被抱歉 https://t.co/ioF8fILvqz",
+    "publish_time": "2026-11-02T18:57:11"
+  },
+  {
+    "tweet_id": "2117210025710309555",
+    "file_name": "HWHXSDFbYAA3noU.jpg",
+    "user": {
+      "screen_name": "wudongmiangoon",
+      "name": "污东面"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWHXSDFbYAA3noU.jpg",
+    "read_time": "2026-11-02T19:02:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44605,
+      "timestamp": "2026-11-02T19:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.19,
+      "timestamp": "2026-11-02T19:02:23",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/emtNOMfjcS",
+    "publish_time": "2026-11-02T18:59:40"
   }
 ]
