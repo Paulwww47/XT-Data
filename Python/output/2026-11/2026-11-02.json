@@ -1699,15 +1699,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HWGPdfPbUAAVD8V.jpg",
     "read_time": "2026-11-02T14:02:02",
-    "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": false,
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44562,
+      "timestamp": "2026-11-02T15:02:23"
+    },
+    "is_downloaded": true,
     "download_info": {
-      "success": false,
-      "error_type": "download_error",
-      "message": "404 Client Error: Not Found for url: https://pbs.twimg.com/media/HWGPdfPbUAAVD8V.jpg",
-      "timestamp": "2026-11-02T14:02:07",
-      "download_attempts": 1
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-02T15:02:21",
+      "download_attempts": 0
     },
     "full_text": "包包 https://t.co/hHgGmRVnII",
     "publish_time": "2026-11-02T13:45:50"
@@ -1867,5 +1870,83 @@
     },
     "full_text": "根本没人要联动，所以只能发个飞机✈️ https://t.co/USEuDEnFPF",
     "publish_time": "2026-11-02T13:56:11"
+  },
+  {
+    "tweet_id": "2117142256247361633",
+    "file_name": "IZ76nI7vRTJ8pnIX.mp4",
+    "user": {
+      "screen_name": "TopstoneL",
+      "name": "石头磊"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2117140560624353280/vid/avc1/1280x720/IZ76nI7vRTJ8pnIX.mp4?tag=29",
+    "read_time": "2026-11-02T15:02:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44563,
+      "timestamp": "2026-11-02T15:02:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 23.87,
+      "timestamp": "2026-11-02T15:02:26",
+      "download_attempts": 0
+    },
+    "full_text": "为了回馈广大粉丝对我的支持！今日原创福利群🌹的将不收取任何费用，粉丝可限时无门槛📷进入，可观看所有原创视频和写真！\n唯一通道：https://t.co/8KRYBSJwe7\n暗号：石 https://t.co/igVK0N6FZv",
+    "publish_time": "2026-11-02T14:30:23"
+  },
+  {
+    "tweet_id": "2117145368077177069",
+    "file_name": "HWGcejsbcAAFthq.jpg",
+    "user": {
+      "screen_name": "c558668",
+      "name": "0m"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWGcejsbcAAFthq.jpg",
+    "read_time": "2026-11-02T15:02:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44564,
+      "timestamp": "2026-11-02T15:02:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.23,
+      "timestamp": "2026-11-02T15:02:30",
+      "download_attempts": 0
+    },
+    "full_text": "贱狗更新主人证件照任务【过🚪主页渠道私】 https://t.co/wbTPOlxXJa",
+    "publish_time": "2026-11-02T14:42:45"
+  },
+  {
+    "tweet_id": "2117145522587009483",
+    "file_name": "kJRNvwiU9M_qvfVT.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2117145171855085568/vid/avc1/714x1280/kJRNvwiU9M_qvfVT.mp4?tag=29",
+    "read_time": "2026-11-02T15:02:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44565,
+      "timestamp": "2026-11-02T15:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 38.99,
+      "timestamp": "2026-11-02T15:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ydV9GUuAon",
+    "publish_time": "2026-11-02T14:43:21"
   }
 ]
