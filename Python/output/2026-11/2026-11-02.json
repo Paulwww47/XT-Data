@@ -1636,5 +1636,236 @@
     },
     "full_text": "https://t.co/iLM2FLpJBS",
     "publish_time": "2026-11-02T12:50:09"
+  },
+  {
+    "tweet_id": "2117121401807364339",
+    "file_name": "HWGGsLwaIAArxep.jpg",
+    "user": {
+      "screen_name": "liangguai1",
+      "name": "亮拐"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWGGsLwaIAArxep.jpg",
+    "read_time": "2026-11-02T14:02:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44554,
+      "timestamp": "2026-11-02T14:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-11-02T14:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/QjOoM8c0bq",
+    "publish_time": "2026-11-02T13:07:31"
+  },
+  {
+    "tweet_id": "2117127495611040069",
+    "file_name": "HWGMOlDboAAjQym.jpg",
+    "user": {
+      "screen_name": "JamesShihShih",
+      "name": "JamesShih"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWGMOlDboAAjQym.jpg",
+    "read_time": "2026-11-02T14:02:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44555,
+      "timestamp": "2026-11-02T14:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.17,
+      "timestamp": "2026-11-02T14:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/kLNgn8i4hT",
+    "publish_time": "2026-11-02T13:31:43"
+  },
+  {
+    "tweet_id": "2117131044268933559",
+    "file_name": "HWGPdfPbUAAVD8V.jpg",
+    "user": {
+      "screen_name": "1Swwx1",
+      "name": "s（广州）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWGPdfPbUAAVD8V.jpg",
+    "read_time": "2026-11-02T14:02:02",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": false,
+    "download_info": {
+      "success": false,
+      "error_type": "download_error",
+      "message": "404 Client Error: Not Found for url: https://pbs.twimg.com/media/HWGPdfPbUAAVD8V.jpg",
+      "timestamp": "2026-11-02T14:02:07",
+      "download_attempts": 1
+    },
+    "full_text": "包包 https://t.co/hHgGmRVnII",
+    "publish_time": "2026-11-02T13:45:50"
+  },
+  {
+    "tweet_id": "2117131208719224884",
+    "file_name": "grA6YpWxeYrlru7V.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2117131183574364160/vid/avc1/720x1280/grA6YpWxeYrlru7V.mp4?tag=29",
+    "read_time": "2026-11-02T14:02:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44556,
+      "timestamp": "2026-11-02T14:02:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 5.43,
+      "timestamp": "2026-11-02T14:02:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ZKEdeX9U5Y",
+    "publish_time": "2026-11-02T13:46:29"
+  },
+  {
+    "tweet_id": "2117131767106986089",
+    "file_name": "1Wya5xsBNvseklA6.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2117131749348311040/vid/avc1/720x1280/1Wya5xsBNvseklA6.mp4?tag=29",
+    "read_time": "2026-11-02T14:02:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44557,
+      "timestamp": "2026-11-02T14:02:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.22,
+      "timestamp": "2026-11-02T14:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/D7Q4eqB8oY",
+    "publish_time": "2026-11-02T13:48:42"
+  },
+  {
+    "tweet_id": "2117131791484289053",
+    "file_name": "FnMLC282Yk2mAeuP.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2117131773859799040/vid/avc1/720x1280/FnMLC282Yk2mAeuP.mp4?tag=29",
+    "read_time": "2026-11-02T14:02:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44558,
+      "timestamp": "2026-11-02T14:02:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.97,
+      "timestamp": "2026-11-02T14:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/bLuYX5KGoX",
+    "publish_time": "2026-11-02T13:48:48"
+  },
+  {
+    "tweet_id": "2117132856682291640",
+    "file_name": "_82iWNX7iaencOk0.mp4",
+    "user": {
+      "screen_name": "cimujun1010",
+      "name": "此木君"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2117132791238553601/vid/avc1/1280x720/_82iWNX7iaencOk0.mp4?tag=29",
+    "read_time": "2026-11-02T14:02:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44559,
+      "timestamp": "2026-11-02T14:02:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 3.77,
+      "timestamp": "2026-11-02T14:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "来 https://t.co/BCW7mi3U6l",
+    "publish_time": "2026-11-02T13:53:02"
+  },
+  {
+    "tweet_id": "2117133477938401571",
+    "file_name": "HWGRop5akAA4Gg_.jpg",
+    "user": {
+      "screen_name": "MarcMa1991",
+      "name": "MMarc"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWGRop5akAA4Gg_.jpg",
+    "read_time": "2026-11-02T14:02:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44560,
+      "timestamp": "2026-11-02T14:02:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-11-02T14:02:18",
+      "download_attempts": 0
+    },
+    "full_text": "小荷才露尖尖角 https://t.co/sQ6zuVPf19",
+    "publish_time": "2026-11-02T13:55:30"
+  },
+  {
+    "tweet_id": "2117133651691577497",
+    "file_name": "zz8ZJhWT49sN8SYw.mp4",
+    "user": {
+      "screen_name": "yyuer0",
+      "name": "无限感"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2117133410250682368/vid/avc1/720x1280/zz8ZJhWT49sN8SYw.mp4?tag=29",
+    "read_time": "2026-11-02T14:02:02",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44561,
+      "timestamp": "2026-11-02T14:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.34,
+      "timestamp": "2026-11-02T14:02:19",
+      "download_attempts": 0
+    },
+    "full_text": "根本没人要联动，所以只能发个飞机✈️ https://t.co/USEuDEnFPF",
+    "publish_time": "2026-11-02T13:56:11"
   }
 ]
