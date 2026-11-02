@@ -5711,7 +5711,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (164.02MB > 50.00MB)",
       "timestamp": "2026-11-02T23:02:36",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -5982,5 +5982,369 @@
     },
     "full_text": "最近太清淡了 https://t.co/RertzJLnSE",
     "publish_time": "2026-11-02T22:57:54"
+  },
+  {
+    "tweet_id": "2117271581273792977",
+    "file_name": "HWIPRs6awAAjqAF.jpg",
+    "user": {
+      "screen_name": "yinhuhz",
+      "name": "黑"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWIPRs6awAAjqAF.jpg",
+    "read_time": "2026-11-03T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44719,
+      "timestamp": "2026-11-03T00:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.05,
+      "timestamp": "2026-11-03T00:02:20",
+      "download_attempts": 0
+    },
+    "full_text": "不适合穿单丁 https://t.co/v87w6l3jXd",
+    "publish_time": "2026-11-02T23:04:16"
+  },
+  {
+    "tweet_id": "2117272466108391720",
+    "file_name": "HWIQEUOaMAA3Bka.jpg",
+    "user": {
+      "screen_name": "acheng21501864",
+      "name": "Wave"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWIQEUOaMAA3Bka.jpg",
+    "read_time": "2026-11-03T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44720,
+      "timestamp": "2026-11-03T00:02:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-11-03T00:02:23",
+      "download_attempts": 0
+    },
+    "full_text": "感觉一直在胖不要aa https://t.co/ZOapiy9H2l",
+    "publish_time": "2026-11-02T23:07:47"
+  },
+  {
+    "tweet_id": "2117272466108391720",
+    "file_name": "HWIQETybMAAYMDX.jpg",
+    "user": {
+      "screen_name": "acheng21501864",
+      "name": "Wave"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWIQETybMAAYMDX.jpg",
+    "read_time": "2026-11-03T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44721,
+      "timestamp": "2026-11-03T00:02:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.22,
+      "timestamp": "2026-11-03T00:02:23",
+      "download_attempts": 0
+    },
+    "full_text": "感觉一直在胖不要aa https://t.co/ZOapiy9H2l",
+    "publish_time": "2026-11-02T23:07:47"
+  },
+  {
+    "tweet_id": "2117273522477449629",
+    "file_name": "HWIRCKSaEAAJREK.jpg",
+    "user": {
+      "screen_name": "MarcMa1991",
+      "name": "MMarc"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWIRCKSaEAAJREK.jpg",
+    "read_time": "2026-11-03T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44722,
+      "timestamp": "2026-11-03T00:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-11-03T00:02:25",
+      "download_attempts": 0
+    },
+    "full_text": "which one do u like, wanna be on top, or  below under 🥸 https://t.co/t3ZPeyLebH",
+    "publish_time": "2026-11-02T23:11:59"
+  },
+  {
+    "tweet_id": "2117273522477449629",
+    "file_name": "HWIRCKbbgAAWFqz.jpg",
+    "user": {
+      "screen_name": "MarcMa1991",
+      "name": "MMarc"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWIRCKbbgAAWFqz.jpg",
+    "read_time": "2026-11-03T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44723,
+      "timestamp": "2026-11-03T00:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.18,
+      "timestamp": "2026-11-03T00:02:25",
+      "download_attempts": 0
+    },
+    "full_text": "which one do u like, wanna be on top, or  below under 🥸 https://t.co/t3ZPeyLebH",
+    "publish_time": "2026-11-02T23:11:59"
+  },
+  {
+    "tweet_id": "2117275672490262640",
+    "file_name": "C3vDB7qU7eEEFJ-p.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2117243367818199041/vid/avc1/720x1280/C3vDB7qU7eEEFJ-p.mp4?tag=29",
+    "read_time": "2026-11-03T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44724,
+      "timestamp": "2026-11-03T00:02:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.16,
+      "timestamp": "2026-11-03T00:02:27",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/56JFMgJpfK",
+    "publish_time": "2026-11-02T23:20:32"
+  },
+  {
+    "tweet_id": "2117276001923391509",
+    "file_name": "HWITSUZaIAEQp_c.jpg",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWITSUZaIAEQp_c.jpg",
+    "read_time": "2026-11-03T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44725,
+      "timestamp": "2026-11-03T00:02:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-03T00:02:29",
+      "download_attempts": 0
+    },
+    "full_text": "🔞 https://t.co/iiIq6s28hf",
+    "publish_time": "2026-11-02T23:21:50"
+  },
+  {
+    "tweet_id": "2117276404144574568",
+    "file_name": "ZC0FcgkSHwweoZVV.mp4",
+    "user": {
+      "screen_name": "huohuo0707330",
+      "name": "嚯"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2117276340567326721/vid/avc1/720x1280/ZC0FcgkSHwweoZVV.mp4?tag=29",
+    "read_time": "2026-11-03T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44726,
+      "timestamp": "2026-11-03T00:02:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 4.44,
+      "timestamp": "2026-11-03T00:02:30",
+      "download_attempts": 0
+    },
+    "full_text": "两个月之后终于又有点馋这口鲜甜 https://t.co/SfgDy4Jv3K",
+    "publish_time": "2026-11-02T23:23:26"
+  },
+  {
+    "tweet_id": "2117276893913530562",
+    "file_name": "h2wvKwvnv-eRZk8Q.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2114900849126170624/vid/avc1/720x1270/h2wvKwvnv-eRZk8Q.mp4?tag=14",
+    "read_time": "2026-11-03T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44727,
+      "timestamp": "2026-11-03T00:02:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 37.07,
+      "timestamp": "2026-11-03T00:02:33",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/5KnjEKUfyA",
+    "publish_time": "2026-11-02T23:25:23"
+  },
+  {
+    "tweet_id": "2117277042727383394",
+    "file_name": "HWIULBoXEAEmrqt.jpg",
+    "user": {
+      "screen_name": "yyycc_c",
+      "name": "C"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWIULBoXEAEmrqt.jpg",
+    "read_time": "2026-11-03T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44728,
+      "timestamp": "2026-11-03T00:02:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-03T00:02:37",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/gW6Y5rkhg3",
+    "publish_time": "2026-11-02T23:25:58"
+  },
+  {
+    "tweet_id": "2117277042727383394",
+    "file_name": "HWIULBsX0AAmytp.jpg",
+    "user": {
+      "screen_name": "yyycc_c",
+      "name": "C"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWIULBsX0AAmytp.jpg",
+    "read_time": "2026-11-03T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44729,
+      "timestamp": "2026-11-03T00:02:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-03T00:02:37",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/gW6Y5rkhg3",
+    "publish_time": "2026-11-02T23:25:58"
+  },
+  {
+    "tweet_id": "2117278978495205831",
+    "file_name": "HWIWAIkbUAAiVtp.jpg",
+    "user": {
+      "screen_name": "acheng21501864",
+      "name": "Wave"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWIWAIkbUAAiVtp.jpg",
+    "read_time": "2026-11-03T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44730,
+      "timestamp": "2026-11-03T00:02:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-03T00:02:38",
+      "download_attempts": 0
+    },
+    "full_text": "请进 https://t.co/Y3K2xI2UHj",
+    "publish_time": "2026-11-02T23:33:40"
+  },
+  {
+    "tweet_id": "2117278978495205831",
+    "file_name": "HWIWAInb0AApFFn.jpg",
+    "user": {
+      "screen_name": "acheng21501864",
+      "name": "Wave"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWIWAInb0AApFFn.jpg",
+    "read_time": "2026-11-03T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44731,
+      "timestamp": "2026-11-03T00:02:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-03T00:02:38",
+      "download_attempts": 0
+    },
+    "full_text": "请进 https://t.co/Y3K2xI2UHj",
+    "publish_time": "2026-11-02T23:33:40"
+  },
+  {
+    "tweet_id": "2117281055292199131",
+    "file_name": "HWIX5VhaYAADAcB.jpg",
+    "user": {
+      "screen_name": "km139139",
+      "name": "貘"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWIX5VhaYAADAcB.jpg",
+    "read_time": "2026-11-03T00:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44732,
+      "timestamp": "2026-11-03T00:02:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-11-03T00:02:39",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4yMoAT9LmV",
+    "publish_time": "2026-11-02T23:41:55"
   }
 ]
