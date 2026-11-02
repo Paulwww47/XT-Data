@@ -388,5 +388,83 @@
     },
     "full_text": "我真的覺得我今天超屌的🥵😵‍💫\n應該射了有8-9次🥵 https://t.co/odt7yNwxmq",
     "publish_time": "2026-11-03T04:24:48"
+  },
+  {
+    "tweet_id": "2117366743895339237",
+    "file_name": "HWJl1HxbwAAMYtS.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWJl1HxbwAAMYtS.jpg",
+    "read_time": "2026-11-03T06:02:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44748,
+      "timestamp": "2026-11-03T06:02:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-03T06:02:37",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/9aqtVriJAK",
+    "publish_time": "2026-11-03T05:22:25"
+  },
+  {
+    "tweet_id": "2117370931027091682",
+    "file_name": "HWJposQbAAAjQ3h.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWJposQbAAAjQ3h.jpg",
+    "read_time": "2026-11-03T06:02:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44749,
+      "timestamp": "2026-11-03T06:02:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.18,
+      "timestamp": "2026-11-03T06:02:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/2cMWfb5ilv",
+    "publish_time": "2026-11-03T05:39:03"
+  },
+  {
+    "tweet_id": "2117373395151253810",
+    "file_name": "ZS4ITv9_YEnNHG1Q.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2117373237135036416/vid/avc1/720x1280/ZS4ITv9_YEnNHG1Q.mp4?tag=29",
+    "read_time": "2026-11-03T06:02:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44750,
+      "timestamp": "2026-11-03T06:02:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 11.98,
+      "timestamp": "2026-11-03T06:02:41",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/747FFIFGdO",
+    "publish_time": "2026-11-03T05:48:50"
   }
 ]
