@@ -436,5 +436,33 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2117724959355417057",
     "fullText": "chenxuan1800 https://t.co/pargsh2YkN",
     "publishTime": "2026-11-04T05:05:50"
+  },
+  {
+    "user": {
+      "screenName": "km139139",
+      "name": "貘"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWO9VPybwAAFuG2.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/km139139/status/2117744428223996378",
+    "fullText": "https://t.co/YsJQ2qFMls",
+    "publishTime": "2026-11-04T06:23:12"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWPD1tobQAATIEe.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2117751583928889711",
+    "fullText": "https://t.co/aGwfm1FSu8",
+    "publishTime": "2026-11-04T06:51:38"
   }
 ]
