@@ -3503,9 +3503,9 @@
     "download_info": {
       "success": false,
       "error_type": "download_error",
-      "message": "503 Server Error: Response object too large for url: https://video.twimg.com/amplify_video/2117654896757624832/vid/avc1/2560x1440/zhoP2oUxeyjZbLut.mp4?tag=29",
-      "timestamp": "2026-11-04T20:01:53",
-      "download_attempts": 1
+      "message": "429 Client Error: Too Many Requests for url: https://video.twimg.com/amplify_video/2117654896757624832/vid/avc1/2560x1440/zhoP2oUxeyjZbLut.mp4?tag=29",
+      "timestamp": "2026-11-04T21:01:54",
+      "download_attempts": 2
     },
     "full_text": "看了好想+1🥵🥵🥵  https://t.co/1XT7CptJcs",
     "publish_time": "2026-11-04T19:22:56"
@@ -3795,5 +3795,135 @@
     },
     "full_text": "#体育生 #健身教练 #直男 #腹肌  #粗口 #胸肌 https://t.co/wOMLRPLNXq",
     "publish_time": "2026-11-04T19:51:05"
+  },
+  {
+    "tweet_id": "2117950569684078788",
+    "file_name": "5ScCm6WfX3rBINfL.mp4",
+    "user": {
+      "screen_name": "cdlrte",
+      "name": "沈阳空少"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2117950455796072448/vid/avc1/710x1280/5ScCm6WfX3rBINfL.mp4?tag=14",
+    "read_time": "2026-11-04T21:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45037,
+      "timestamp": "2026-11-04T21:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 5.03,
+      "timestamp": "2026-11-04T21:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "大龟头奶爸，面对女记者的猛烈攻势，只能缴械投降。 https://t.co/5ZcK7d8UP1",
+    "publish_time": "2026-11-04T20:02:20"
+  },
+  {
+    "tweet_id": "2117959172012859838",
+    "file_name": "HWSAoazbgAES_OA.jpg",
+    "user": {
+      "screen_name": "xiao57520",
+      "name": "翱哥备用机"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWSAoazbgAES_OA.jpg",
+    "read_time": "2026-11-04T21:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45038,
+      "timestamp": "2026-11-04T21:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.19,
+      "timestamp": "2026-11-04T21:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "坐上来 https://t.co/oeHZnVPJ9e",
+    "publish_time": "2026-11-04T20:36:31"
+  },
+  {
+    "tweet_id": "2117959761769697590",
+    "file_name": "AgGAGRKZbyj2Kh1L.mp4",
+    "user": {
+      "screen_name": "Time6929",
+      "name": "TIMC"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2117959737690230784/vid/avc1/540x960/AgGAGRKZbyj2Kh1L.mp4?tag=29",
+    "read_time": "2026-11-04T21:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45039,
+      "timestamp": "2026-11-04T21:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.91,
+      "timestamp": "2026-11-04T21:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/KpAdOUI1n4",
+    "publish_time": "2026-11-04T20:38:51"
+  },
+  {
+    "tweet_id": "2117963518762762672",
+    "file_name": "HWSEl_vWgAEGMUv.jpg",
+    "user": {
+      "screen_name": "jaecitoooo",
+      "name": "jae"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWSEl_vWgAEGMUv.jpg",
+    "read_time": "2026-11-04T21:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45040,
+      "timestamp": "2026-11-04T21:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-04T21:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/2pQhIifzFr",
+    "publish_time": "2026-11-04T20:53:47"
+  },
+  {
+    "tweet_id": "2117964410278805630",
+    "file_name": "HWSFZ8gW4AAauG9.jpg",
+    "user": {
+      "screen_name": "jaecitoooo",
+      "name": "jae"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWSFZ8gW4AAauG9.jpg",
+    "read_time": "2026-11-04T21:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45041,
+      "timestamp": "2026-11-04T21:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.06,
+      "timestamp": "2026-11-04T21:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ces2aoQQpW",
+    "publish_time": "2026-11-04T20:57:19"
   }
 ]
