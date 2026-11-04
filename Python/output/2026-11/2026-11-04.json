@@ -3503,9 +3503,9 @@
     "download_info": {
       "success": false,
       "error_type": "download_error",
-      "message": "('Connection broken: IncompleteRead(2944548855 bytes read, 2856515072 more expected)', IncompleteRead(2944548855 bytes read, 2856515072 more expected))",
-      "timestamp": "2026-11-05T04:05:58",
-      "download_attempts": 9
+      "message": "('Connection broken: IncompleteRead(2962767872 bytes read, 2838296055 more expected)', IncompleteRead(2962767872 bytes read, 2838296055 more expected))",
+      "timestamp": "2026-11-05T05:06:38",
+      "download_attempts": 10
     },
     "full_text": "看了好想+1🥵🥵🥵  https://t.co/1XT7CptJcs",
     "publish_time": "2026-11-04T19:22:56"
