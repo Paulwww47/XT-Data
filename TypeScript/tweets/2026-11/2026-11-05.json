@@ -432,5 +432,34 @@
     "tweetUrl": "https://x.com/jaecitoooo/status/2118095024403742817",
     "fullText": "Need",
     "publishTime": "2026-11-05T05:36:20"
+  },
+  {
+    "user": {
+      "screenName": "jaecitoooo",
+      "name": "jae"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/jaecitoooo/status/2118102556560019956",
+    "fullText": "My dream",
+    "publishTime": "2026-11-05T06:06:16"
+  },
+  {
+    "user": {
+      "screenName": "feiniaoheyu186",
+      "name": "飞鸟和鱼"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWUNCK3aMAA_4j1.jpg",
+      "https://pbs.twimg.com/media/HWUNCK4bcAAewWR.jpg",
+      "https://pbs.twimg.com/media/HWUNCK4a0AAsnTw.jpg",
+      "https://pbs.twimg.com/media/HWUNCK6bcAAzgvI.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/feiniaoheyu186/status/2118113546655740175",
+    "fullText": "休息的日子总是很短暂  明天又要外出搬砖🥱 #南京 #常州 #无锡 #上海 #泰州 https://t.co/lvLopG4IHd",
+    "publishTime": "2026-11-05T06:49:56"
   }
 ]
