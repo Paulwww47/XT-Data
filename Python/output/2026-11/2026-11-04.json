@@ -3503,9 +3503,9 @@
     "download_info": {
       "success": false,
       "error_type": "download_error",
-      "message": "429 Client Error: Too Many Requests for url: https://video.twimg.com/amplify_video/2117654896757624832/vid/avc1/2560x1440/zhoP2oUxeyjZbLut.mp4?tag=29",
-      "timestamp": "2026-11-04T21:01:54",
-      "download_attempts": 2
+      "message": "503 Server Error: Response object too large for url: https://video.twimg.com/amplify_video/2117654896757624832/vid/avc1/2560x1440/zhoP2oUxeyjZbLut.mp4?tag=29",
+      "timestamp": "2026-11-04T22:01:57",
+      "download_attempts": 3
     },
     "full_text": "看了好想+1🥵🥵🥵  https://t.co/1XT7CptJcs",
     "publish_time": "2026-11-04T19:22:56"
@@ -3925,5 +3925,265 @@
     },
     "full_text": "https://t.co/ces2aoQQpW",
     "publish_time": "2026-11-04T20:57:19"
+  },
+  {
+    "tweet_id": "2117967688018583787",
+    "file_name": "HWSIX7JbEAA3D2l.jpg",
+    "user": {
+      "screen_name": "aogereal",
+      "name": "翱哥"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWSIX7JbEAA3D2l.jpg",
+    "read_time": "2026-11-04T22:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45042,
+      "timestamp": "2026-11-04T22:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-11-04T22:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "💦 https://t.co/xxKokn8fHW",
+    "publish_time": "2026-11-04T21:10:21"
+  },
+  {
+    "tweet_id": "2117967931888001282",
+    "file_name": "HWSIliwbcAAnpve.jpg",
+    "user": {
+      "screen_name": "wngyngh44820470",
+      "name": "SJerry"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWSIliwbcAAnpve.jpg",
+    "read_time": "2026-11-04T22:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45043,
+      "timestamp": "2026-11-04T22:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-11-04T22:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "就这样吃 瘦到140斤吧 https://t.co/Bhro6LSTm0",
+    "publish_time": "2026-11-04T21:11:19"
+  },
+  {
+    "tweet_id": "2117967931888001282",
+    "file_name": "HWSIlitaAAEmL0j.jpg",
+    "user": {
+      "screen_name": "wngyngh44820470",
+      "name": "SJerry"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWSIlitaAAEmL0j.jpg",
+    "read_time": "2026-11-04T22:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45044,
+      "timestamp": "2026-11-04T22:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-04T22:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "就这样吃 瘦到140斤吧 https://t.co/Bhro6LSTm0",
+    "publish_time": "2026-11-04T21:11:19"
+  },
+  {
+    "tweet_id": "2117969583584030858",
+    "file_name": "1_ki1S0Dk3IuxtxK.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2117969565514952704/vid/avc1/360x640/1_ki1S0Dk3IuxtxK.mp4?tag=29",
+    "read_time": "2026-11-04T22:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45045,
+      "timestamp": "2026-11-04T22:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.52,
+      "timestamp": "2026-11-04T22:02:01",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/YGx1SFdjwp",
+    "publish_time": "2026-11-04T21:17:53"
+  },
+  {
+    "tweet_id": "2117972144898588885",
+    "file_name": "HWSMblRaMAAYt91.jpg",
+    "user": {
+      "screen_name": "seyiphotoman",
+      "name": "seyi色一📷"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWSMblRaMAAYt91.jpg",
+    "read_time": "2026-11-04T22:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45046,
+      "timestamp": "2026-11-04T22:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.18,
+      "timestamp": "2026-11-04T22:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "City of Lust https://t.co/OajVysEJ4d",
+    "publish_time": "2026-11-04T21:28:04"
+  },
+  {
+    "tweet_id": "2117976083282964548",
+    "file_name": "HWSQAjBaYAAppSW.jpg",
+    "user": {
+      "screen_name": "huohuo0707330",
+      "name": "嚯"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWSQAjBaYAAppSW.jpg",
+    "read_time": "2026-11-04T22:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45047,
+      "timestamp": "2026-11-04T22:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.06,
+      "timestamp": "2026-11-04T22:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "好用 https://t.co/L0FGd5PwrF",
+    "publish_time": "2026-11-04T21:43:43"
+  },
+  {
+    "tweet_id": "2117976193383223625",
+    "file_name": "HWSQHebW8AAAEq8.jpg",
+    "user": {
+      "screen_name": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWSQHebW8AAAEq8.jpg",
+    "read_time": "2026-11-04T22:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45048,
+      "timestamp": "2026-11-04T22:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.02,
+      "timestamp": "2026-11-04T22:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "又到了年度回顾了，26年最爱的歌是宝莲 https://t.co/89ITwGmrsa",
+    "publish_time": "2026-11-04T21:44:09"
+  },
+  {
+    "tweet_id": "2117977929208746182",
+    "file_name": "HWSRrxcakAMcPmw.jpg",
+    "user": {
+      "screen_name": "c558668",
+      "name": "0m"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWSRrxcakAMcPmw.jpg",
+    "read_time": "2026-11-04T22:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45049,
+      "timestamp": "2026-11-04T22:02:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.29,
+      "timestamp": "2026-11-04T22:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "【已更新19号】过🚪购高清无码主页渠道私 https://t.co/xkA2AbH1vS",
+    "publish_time": "2026-11-04T21:51:03"
+  },
+  {
+    "tweet_id": "2117978484857622809",
+    "file_name": "sEoMN3qtRRrScCvt.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2117978465144307712/vid/avc1/360x640/sEoMN3qtRRrScCvt.mp4?tag=29",
+    "read_time": "2026-11-04T22:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45050,
+      "timestamp": "2026-11-04T22:02:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.99,
+      "timestamp": "2026-11-04T22:02:07",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/amAri5guH4",
+    "publish_time": "2026-11-04T21:53:15"
+  },
+  {
+    "tweet_id": "2117978526162837888",
+    "file_name": "HWSSO58W8AA8hsi.jpg",
+    "user": {
+      "screen_name": "pengpengJoe",
+      "name": "PJPJJ"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWSSO58W8AA8hsi.jpg",
+    "read_time": "2026-11-04T22:01:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45051,
+      "timestamp": "2026-11-04T22:02:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.23,
+      "timestamp": "2026-11-04T22:02:08",
+      "download_attempts": 0
+    },
+    "full_text": "谁给我交换5kg，我想到80kg。 https://t.co/u6ub3bVzfc",
+    "publish_time": "2026-11-04T21:53:25"
   }
 ]
