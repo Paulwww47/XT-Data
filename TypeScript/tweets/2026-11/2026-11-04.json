@@ -464,5 +464,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2117751583928889711",
     "fullText": "https://t.co/aGwfm1FSu8",
     "publishTime": "2026-11-04T06:51:38"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWPJ-2UacAAiFp-.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2117758337655967851",
+    "fullText": "https://t.co/DZhcAnwZzE",
+    "publishTime": "2026-11-04T07:18:28"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWPKB6QakAAuUbu.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2117758393448620516",
+    "fullText": "https://t.co/TyEDTaC3J3",
+    "publishTime": "2026-11-04T07:18:41"
+  },
+  {
+    "user": {
+      "screenName": "bad_leo521",
+      "name": "oellee"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2117759583661993985/vid/avc1/720x1280/Y-aSON0p87kGx6SY.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/bad_leo521/status/2117759614620152108",
+    "fullText": "纯爱 https://t.co/VcX5fH9Eab",
+    "publishTime": "2026-11-04T07:23:32"
   }
 ]

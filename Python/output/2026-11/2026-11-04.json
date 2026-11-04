@@ -990,5 +990,83 @@
     },
     "full_text": "https://t.co/aGwfm1FSu8",
     "publish_time": "2026-11-04T06:51:38"
+  },
+  {
+    "tweet_id": "2117758337655967851",
+    "file_name": "HWPJ-2UacAAiFp-.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWPJ-2UacAAiFp-.jpg",
+    "read_time": "2026-11-04T08:01:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44930,
+      "timestamp": "2026-11-04T08:01:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-04T08:01:42",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/DZhcAnwZzE",
+    "publish_time": "2026-11-04T07:18:28"
+  },
+  {
+    "tweet_id": "2117758393448620516",
+    "file_name": "HWPKB6QakAAuUbu.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWPKB6QakAAuUbu.jpg",
+    "read_time": "2026-11-04T08:01:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44931,
+      "timestamp": "2026-11-04T08:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.22,
+      "timestamp": "2026-11-04T08:01:44",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/TyEDTaC3J3",
+    "publish_time": "2026-11-04T07:18:41"
+  },
+  {
+    "tweet_id": "2117759614620152108",
+    "file_name": "Y-aSON0p87kGx6SY.mp4",
+    "user": {
+      "screen_name": "bad_leo521",
+      "name": "oellee"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2117759583661993985/vid/avc1/720x1280/Y-aSON0p87kGx6SY.mp4?tag=29",
+    "read_time": "2026-11-04T08:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 44932,
+      "timestamp": "2026-11-04T08:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.86,
+      "timestamp": "2026-11-04T08:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "纯爱 https://t.co/VcX5fH9Eab",
+    "publish_time": "2026-11-04T07:23:32"
   }
 ]
