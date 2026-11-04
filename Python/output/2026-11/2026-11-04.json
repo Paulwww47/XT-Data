@@ -3503,9 +3503,9 @@
     "download_info": {
       "success": false,
       "error_type": "download_error",
-      "message": "('Connection broken: IncompleteRead(3182428160 bytes read, 2618635767 more expected)', IncompleteRead(3182428160 bytes read, 2618635767 more expected))",
-      "timestamp": "2026-11-04T23:06:05",
-      "download_attempts": 4
+      "message": "('Connection broken: IncompleteRead(121503744 bytes read, 5679560183 more expected)', IncompleteRead(121503744 bytes read, 5679560183 more expected))",
+      "timestamp": "2026-11-05T00:02:49",
+      "download_attempts": 5
     },
     "full_text": "看了好想+1🥵🥵🥵  https://t.co/1XT7CptJcs",
     "publish_time": "2026-11-04T19:22:56"
@@ -4393,5 +4393,291 @@
     },
     "full_text": "爆插 https://t.co/DyscKJk31P",
     "publish_time": "2026-11-04T22:37:40"
+  },
+  {
+    "tweet_id": "2118000306575556749",
+    "file_name": "HWSmCEAbQAASvpS.jpg",
+    "user": {
+      "screen_name": "52778zhinan",
+      "name": "有求必硬"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWSmCEAbQAASvpS.jpg",
+    "read_time": "2026-11-05T00:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45060,
+      "timestamp": "2026-11-05T00:02:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-05T00:02:49",
+      "download_attempts": 0
+    },
+    "full_text": "刚带完新兵的班长，憋了三个月，硬的青筋💢爆起，而且好大啊又粗，八块腹肌很喜欢这种硬朗的长相，最后也是一股脑爆射\nhttps://t.co/VlQAjzLG5U完整影片欢迎订阅\n#制服\n#喷射\n#现役\n#内消 https://t.co/k8R33Wt5jc",
+    "publish_time": "2026-11-04T23:19:58"
+  },
+  {
+    "tweet_id": "2118001066902216811",
+    "file_name": "HWNVnena0AAV0Ax.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWNVnena0AAV0Ax.jpg",
+    "read_time": "2026-11-05T00:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45061,
+      "timestamp": "2026-11-05T00:02:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-05T00:02:54",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/tYG4ylzeoy",
+    "publish_time": "2026-11-04T23:22:59"
+  },
+  {
+    "tweet_id": "2118001178328072299",
+    "file_name": "HWSmxl8a0AA7cGj.jpg",
+    "user": {
+      "screen_name": "Lucas27701950",
+      "name": "Lucas black"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWSmxl8a0AA7cGj.jpg",
+    "read_time": "2026-11-05T00:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45062,
+      "timestamp": "2026-11-05T00:02:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-11-05T00:02:56",
+      "download_attempts": 0
+    },
+    "full_text": "处理一批打折原味\n#原味 #top #骚 https://t.co/Cazg0PULSj",
+    "publish_time": "2026-11-04T23:23:26"
+  },
+  {
+    "tweet_id": "2118004038956663188",
+    "file_name": "HWSpcZVbgAIJ36C.jpg",
+    "user": {
+      "screen_name": "yichimo0720",
+      "name": "摇裤儿"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWSpcZVbgAIJ36C.jpg",
+    "read_time": "2026-11-05T00:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45063,
+      "timestamp": "2026-11-05T00:03:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-11-05T00:02:59",
+      "download_attempts": 0
+    },
+    "full_text": "也就这样，人生总伴不安，习惯就好。 https://t.co/M9jQCGI42t",
+    "publish_time": "2026-11-04T23:34:48"
+  },
+  {
+    "tweet_id": "2118004510031495259",
+    "file_name": "HWSp1trbQAEnYpJ.jpg",
+    "user": {
+      "screen_name": "XiaoYaoDaDong",
+      "name": "奉天東大朗🚬"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWSp1trbQAEnYpJ.jpg",
+    "read_time": "2026-11-05T00:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45064,
+      "timestamp": "2026-11-05T00:03:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.04,
+      "timestamp": "2026-11-05T00:03:01",
+      "download_attempts": 0
+    },
+    "full_text": "病痛减缓了进程，但无法拿下热爱！💤💤💤 https://t.co/9yZNyGTUKA",
+    "publish_time": "2026-11-04T23:36:40"
+  },
+  {
+    "tweet_id": "2118004510031495259",
+    "file_name": "HWSp2zCbYAA4zIs.jpg",
+    "user": {
+      "screen_name": "XiaoYaoDaDong",
+      "name": "奉天東大朗🚬"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWSp2zCbYAA4zIs.jpg",
+    "read_time": "2026-11-05T00:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45065,
+      "timestamp": "2026-11-05T00:03:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-11-05T00:03:01",
+      "download_attempts": 0
+    },
+    "full_text": "病痛减缓了进程，但无法拿下热爱！💤💤💤 https://t.co/9yZNyGTUKA",
+    "publish_time": "2026-11-04T23:36:40"
+  },
+  {
+    "tweet_id": "2118005064497537199",
+    "file_name": "PZw8sWgkumQLaR0W.mp4",
+    "user": {
+      "screen_name": "seyiphotoman",
+      "name": "seyi色一📷"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2118005025540825088/vid/avc1/720x1280/PZw8sWgkumQLaR0W.mp4?tag=29",
+    "read_time": "2026-11-05T00:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45066,
+      "timestamp": "2026-11-05T00:03:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 2.0,
+      "timestamp": "2026-11-05T00:03:03",
+      "download_attempts": 0
+    },
+    "full_text": "一段好玩的花絮 （一大包😱）\n\n📷：@seyiphotoman https://t.co/63SLrIT88o",
+    "publish_time": "2026-11-04T23:38:52"
+  },
+  {
+    "tweet_id": "2118007173733302542",
+    "file_name": "HWSsP1KaQAEHj_a.jpg",
+    "user": {
+      "screen_name": "zhy02797897",
+      "name": "FF"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWSsP1KaQAEHj_a.jpg",
+    "read_time": "2026-11-05T00:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45067,
+      "timestamp": "2026-11-05T00:03:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-11-05T00:03:07",
+      "download_attempts": 0
+    },
+    "full_text": "文明用厕 https://t.co/5iOISxfJlN",
+    "publish_time": "2026-11-04T23:47:15"
+  },
+  {
+    "tweet_id": "2118007206901874720",
+    "file_name": "HWSsT4DXcAAPp5m.jpg",
+    "user": {
+      "screen_name": "wudongmiangoon",
+      "name": "污东面"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWSsT4DXcAAPp5m.jpg",
+    "read_time": "2026-11-05T00:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45068,
+      "timestamp": "2026-11-05T00:03:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-11-05T00:03:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/YcNhtwR3Qp",
+    "publish_time": "2026-11-04T23:47:23"
+  },
+  {
+    "tweet_id": "2118007486078992764",
+    "file_name": "HWSskpfboAAuruj.jpg",
+    "user": {
+      "screen_name": "MrShan001",
+      "name": "Mr.Shan大山"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWSskpfboAAuruj.jpg",
+    "read_time": "2026-11-05T00:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45069,
+      "timestamp": "2026-11-05T00:03:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.17,
+      "timestamp": "2026-11-05T00:03:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vt3GpVV5DE",
+    "publish_time": "2026-11-04T23:48:30"
+  },
+  {
+    "tweet_id": "2118009418143207774",
+    "file_name": "F_fDKhHBRFfcNCC-.mp4",
+    "user": {
+      "screen_name": "seyiphotoman",
+      "name": "seyi色一📷"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2118009315693146112/vid/avc1/720x1280/F_fDKhHBRFfcNCC-.mp4?tag=29",
+    "read_time": "2026-11-05T00:01:54",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45070,
+      "timestamp": "2026-11-05T00:03:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 4.4,
+      "timestamp": "2026-11-05T00:03:11",
+      "download_attempts": 0
+    },
+    "full_text": "在19岁的最后一天记录下的这组📷 https://t.co/lmUMCaAQfn",
+    "publish_time": "2026-11-04T23:56:10"
   }
 ]
