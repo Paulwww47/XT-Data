@@ -3503,9 +3503,9 @@
     "download_info": {
       "success": false,
       "error_type": "download_error",
-      "message": "('Connection broken: IncompleteRead(121503744 bytes read, 5679560183 more expected)', IncompleteRead(121503744 bytes read, 5679560183 more expected))",
-      "timestamp": "2026-11-05T00:02:49",
-      "download_attempts": 5
+      "message": "503 Server Error: Response object too large for url: https://video.twimg.com/amplify_video/2117654896757624832/vid/avc1/2560x1440/zhoP2oUxeyjZbLut.mp4?tag=29",
+      "timestamp": "2026-11-05T01:01:53",
+      "download_attempts": 6
     },
     "full_text": "看了好想+1🥵🥵🥵  https://t.co/1XT7CptJcs",
     "publish_time": "2026-11-04T19:22:56"
