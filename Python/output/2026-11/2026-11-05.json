@@ -3321,7 +3321,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (75.32MB > 50.00MB)",
       "timestamp": "2026-11-05T23:03:10",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -3618,5 +3618,395 @@
     },
     "full_text": "來 老司機趁連拍兩部的空檔教大家怎麼把自己秒幹潮吹🐳🫶 https://t.co/WkgCGiIMvU",
     "publish_time": "2026-11-05T23:01:22"
+  },
+  {
+    "tweet_id": "2118359591876714679",
+    "file_name": "HWXs0JPbgAAvQXK.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWXs0JPbgAAvQXK.jpg",
+    "read_time": "2026-11-06T01:01:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45230,
+      "timestamp": "2026-11-06T01:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.07,
+      "timestamp": "2026-11-06T01:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/rFPCSHQsGW",
+    "publish_time": "2026-11-05T23:07:38"
+  },
+  {
+    "tweet_id": "2118359591876714679",
+    "file_name": "HWXs0Jkb0AARoxj.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWXs0Jkb0AARoxj.jpg",
+    "read_time": "2026-11-06T01:01:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45231,
+      "timestamp": "2026-11-06T01:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.19,
+      "timestamp": "2026-11-06T01:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/rFPCSHQsGW",
+    "publish_time": "2026-11-05T23:07:38"
+  },
+  {
+    "tweet_id": "2118359591876714679",
+    "file_name": "HWXs0Jgb0AAXQaD.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWXs0Jgb0AAXQaD.jpg",
+    "read_time": "2026-11-06T01:01:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45232,
+      "timestamp": "2026-11-06T01:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-06T01:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/rFPCSHQsGW",
+    "publish_time": "2026-11-05T23:07:38"
+  },
+  {
+    "tweet_id": "2118359591876714679",
+    "file_name": "HWXs0JWaYAAqowi.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWXs0JWaYAAqowi.jpg",
+    "read_time": "2026-11-06T01:01:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45233,
+      "timestamp": "2026-11-06T01:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-06T01:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/rFPCSHQsGW",
+    "publish_time": "2026-11-05T23:07:38"
+  },
+  {
+    "tweet_id": "2118359851759976721",
+    "file_name": "HWXtDgvbsAAVFgc.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWXtDgvbsAAVFgc.jpg",
+    "read_time": "2026-11-06T01:01:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45234,
+      "timestamp": "2026-11-06T01:01:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-11-06T01:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/TOXX8s5UGZ",
+    "publish_time": "2026-11-05T23:08:40"
+  },
+  {
+    "tweet_id": "2118359851759976721",
+    "file_name": "HWXtDg3acAAHug4.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWXtDg3acAAHug4.jpg",
+    "read_time": "2026-11-06T01:01:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45235,
+      "timestamp": "2026-11-06T01:01:48"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-11-06T01:01:48",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/TOXX8s5UGZ",
+    "publish_time": "2026-11-05T23:08:40"
+  },
+  {
+    "tweet_id": "2118359919078650186",
+    "file_name": "J6bJmp0qD8QzPYXk.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2118359895129133056/vid/avc1/720x1280/J6bJmp0qD8QzPYXk.mp4?tag=29",
+    "read_time": "2026-11-06T01:01:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45236,
+      "timestamp": "2026-11-06T01:01:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.78,
+      "timestamp": "2026-11-06T01:01:48",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Jb4QZTPCNz",
+    "publish_time": "2026-11-05T23:08:56"
+  },
+  {
+    "tweet_id": "2118359952477802671",
+    "file_name": "xJCI7SposFsXzXcv.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2118359928046006273/vid/avc1/720x1280/xJCI7SposFsXzXcv.mp4?tag=29",
+    "read_time": "2026-11-06T01:01:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45237,
+      "timestamp": "2026-11-06T01:01:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 3.17,
+      "timestamp": "2026-11-06T01:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/QC7C4y1wFR",
+    "publish_time": "2026-11-05T23:09:04"
+  },
+  {
+    "tweet_id": "2118359984312611112",
+    "file_name": "I00BCcnV-sJ3J5OK.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2118359961218797568/vid/avc1/720x1280/I00BCcnV-sJ3J5OK.mp4?tag=29",
+    "read_time": "2026-11-06T01:01:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45238,
+      "timestamp": "2026-11-06T01:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 2.19,
+      "timestamp": "2026-11-06T01:01:54",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/YHlCyhL9ue",
+    "publish_time": "2026-11-05T23:09:12"
+  },
+  {
+    "tweet_id": "2118363799845732392",
+    "file_name": "HWXwpDHawAAtKAr.jpg",
+    "user": {
+      "screen_name": "huiyoudafuji",
+      "name": "会有大腹肌"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWXwpDHawAAtKAr.jpg",
+    "read_time": "2026-11-06T01:01:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45239,
+      "timestamp": "2026-11-06T01:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.21,
+      "timestamp": "2026-11-06T01:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "另类比大小，来比谁小\n输了的做狗喊爹，被赢家狠狠羞辱，玩得起的来\n#雄竞 #爷们 #gooner #恶堕 #粗口 #cockcompare\n#比大小 https://t.co/dF5E07A3IO",
+    "publish_time": "2026-11-05T23:24:21"
+  },
+  {
+    "tweet_id": "2118368379878990078",
+    "file_name": "HWX0yWMbwAI-8n7.jpg",
+    "user": {
+      "screen_name": "Eric16Sn",
+      "name": "只想练背（北京版）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWX0yWMbwAI-8n7.jpg",
+    "read_time": "2026-11-06T01:01:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45240,
+      "timestamp": "2026-11-06T01:01:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-06T01:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "四次啦 https://t.co/7QzKUNkU5m",
+    "publish_time": "2026-11-05T23:42:33"
+  },
+  {
+    "tweet_id": "2118368974719357143",
+    "file_name": "rfTRdmqi7uAeaWk6.mp4",
+    "user": {
+      "screen_name": "xONEMBOY",
+      "name": "ONEMBOY"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2118368888039829505/vid/avc1/720x1052/rfTRdmqi7uAeaWk6.mp4?tag=29",
+    "read_time": "2026-11-06T01:01:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45241,
+      "timestamp": "2026-11-06T01:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.29,
+      "timestamp": "2026-11-06T01:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "微💖 ONEMBOY\nIP会员可约肌肉网红🔥\n🇹🇭曼谷跨年网红派对 肌肉网红私信合作🥵 https://t.co/Zv81dflW44",
+    "publish_time": "2026-11-05T23:44:55"
+  },
+  {
+    "tweet_id": "2118369273127333929",
+    "file_name": "90P8of8OhY2jEZ6T.mp4",
+    "user": {
+      "screen_name": "xONEMBOY",
+      "name": "ONEMBOY"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2118369065731600384/vid/avc1/720x1280/90P8of8OhY2jEZ6T.mp4?tag=29",
+    "read_time": "2026-11-06T01:01:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45242,
+      "timestamp": "2026-11-06T01:01:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 3.89,
+      "timestamp": "2026-11-06T01:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "微💖 ONEMBOY\nIP会员可约肌肉网红🔥\n🇹🇭曼谷跨年网红派对 肌肉网红私信合作🥵 https://t.co/vOSpk0FvcW",
+    "publish_time": "2026-11-05T23:46:06"
+  },
+  {
+    "tweet_id": "2118372436081274984",
+    "file_name": "oyDzYC2_WRBi_g3h.mp4",
+    "user": {
+      "screen_name": "kkkean2",
+      "name": "kean～互推私"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2118371075658784768/vid/avc1/720x1280/oyDzYC2_WRBi_g3h.mp4?tag=29",
+    "read_time": "2026-11-06T01:01:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45243,
+      "timestamp": "2026-11-06T01:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 22.35,
+      "timestamp": "2026-11-06T01:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "用了战狼液，被固炮和他的朋友轮成只会流口水的废物狗了 https://t.co/Np7fBPpNxv",
+    "publish_time": "2026-11-05T23:58:40"
+  },
+  {
+    "tweet_id": "2118372631015727419",
+    "file_name": "HWX4rSxbsAENrne.jpg",
+    "user": {
+      "screen_name": "MingZ902",
+      "name": "Rolex"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWX4rSxbsAENrne.jpg",
+    "read_time": "2026-11-06T01:01:46",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45244,
+      "timestamp": "2026-11-06T01:02:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-06T01:02:04",
+      "download_attempts": 0
+    },
+    "full_text": "喜欢大粗腿 https://t.co/5Up3u9cgpx",
+    "publish_time": "2026-11-05T23:59:27"
   }
 ]
