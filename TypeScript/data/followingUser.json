@@ -4168,9 +4168,21 @@
       "name": "jae",
       "screenName": "jaecitoooo",
       "createdAt": "Fri Jun 09 05:05:49 +0000 2023",
-      "description": "hi🇰🇷",
+      "description": "hi🇰🇷\nhttps://t.co/n8K3dBkn9G",
       "entities": {
-        "description": {},
+        "description": {
+          "urls": [
+            {
+              "display_url": "pushoong.com/ask/9065543559…",
+              "expanded_url": "https://pushoong.com/ask/9065543559#google_vignette",
+              "indices": [
+                5,
+                28
+              ],
+              "url": "https://t.co/n8K3dBkn9G"
+            }
+          ]
+        },
         "url": {
           "urls": [
             {
@@ -4513,7 +4525,7 @@
       "name": "joeltpl",
       "screenName": "joel63704381",
       "createdAt": "Mon Oct 22 12:45:52 +0000 2018",
-      "description": "内容不定期清理  打招呼带上照片 喜络腮胡 多毛 熊狒",
+      "description": "内容不定期清理 打招呼带上照片 喜络腮胡 多毛 熊狒",
       "entities": {
         "description": {}
       },
@@ -6883,6 +6895,20 @@
     }
   },
   {
+    "restId": "556244879",
+    "legacy": {
+      "name": "Neilchin",
+      "screenName": "nwahseeckm",
+      "createdAt": "Tue Apr 17 20:12:26 +0000 2012",
+      "description": "喜歡輕鬆自在的關係 不搞內耗",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": ""
+    }
+  },
+  {
     "restId": "2033327351338291200",
     "legacy": {
       "name": "北大黑",
@@ -8998,7 +9024,7 @@
       "name": "拖鞋",
       "screenName": "tuoxie0",
       "createdAt": "Wed Jun 19 03:02:54 +0000 2019",
-      "description": "产品合作-\n 🛰️🚪\n不定期删视频 🚫闲聊",
+      "description": "产品合作-\n 🛰️🚪\n不定期删视频 🚫闲聊\n想弄玩具盲盒 想参与的私信我",
       "entities": {
         "description": {}
       },
@@ -9192,7 +9218,7 @@
       "name": "vm",
       "screenName": "vmya_",
       "createdAt": "Fri May 13 03:29:11 +0000 2022",
-      "description": "直男 | PhD 工程师 | 不约",
+      "description": "直男 | PhD 工程师 | 不约不谈不闲聊",
       "entities": {
         "description": {},
         "url": {
@@ -9204,7 +9230,7 @@
                 0,
                 23
               ],
-              "url": "https://t.co/Q2kXut9vzp"
+              "url": "https://t.co/Q2kXut8XJR"
             }
           ]
         }

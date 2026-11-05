@@ -3293,7 +3293,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (56.42MB > 50.00MB)",
       "timestamp": "2026-11-05T22:01:57",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -3304,5 +3304,319 @@
     },
     "full_text": "คลิปเก่านะคับสมัยยังลีนๆ 5555 ชักในห้องน้ำ คนเดินเข้าๆ ออกๆ อยู่อย่างง 🥵🤫 https://t.co/OsDwck7rH8",
     "publish_time": "2026-11-05T21:55:21"
+  },
+  {
+    "tweet_id": "2118342821916930495",
+    "file_name": "3Fb2QD3lKzM9rBzx.mp4",
+    "user": {
+      "screen_name": "josephmrkao",
+      "name": "185 Joseph"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2117848899537047552/vid/avc1/1080x1920/3Fb2QD3lKzM9rBzx.mp4?tag=29",
+    "read_time": "2026-11-05T23:03:07",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (75.32MB > 50.00MB)",
+      "timestamp": "2026-11-05T23:03:10",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 75.32,
+      "timestamp": "2026-11-05T23:03:10",
+      "download_attempts": 0
+    },
+    "full_text": "Met a dancer who offered to show me some moves.\n\nOne look at that perfectly sculpted, and I had a whole different kind of choreography in mind… 😜\n\n@LichengRyan \nCheck it out… our new dance floor! 🕺\n\n～ 今晚，跟我來練舞攻？🫂 https://t.co/GEjV4Ht4f4",
+    "publish_time": "2026-11-05T22:01:00"
+  },
+  {
+    "tweet_id": "2118344617062232381",
+    "file_name": "Zn72mYPsANXDDpeR.mp4",
+    "user": {
+      "screen_name": "seyiphotoman",
+      "name": "seyi色一📷"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2118344588620713984/vid/avc1/720x1280/Zn72mYPsANXDDpeR.mp4?tag=29",
+    "read_time": "2026-11-05T23:03:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45200,
+      "timestamp": "2026-11-05T23:03:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.31,
+      "timestamp": "2026-11-05T23:03:10",
+      "download_attempts": 0
+    },
+    "full_text": "洗澡 \n\n准备🧑‍🌾🐂\n\n榨取新鲜的乳汁 https://t.co/MYRSu3YQUr",
+    "publish_time": "2026-11-05T22:08:08"
+  },
+  {
+    "tweet_id": "2118345681127747771",
+    "file_name": "HWXgKesbYAA6wy5.jpg",
+    "user": {
+      "screen_name": "rthurz",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWXgKesbYAA6wy5.jpg",
+    "read_time": "2026-11-05T23:03:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45201,
+      "timestamp": "2026-11-05T23:03:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-05T23:03:13",
+      "download_attempts": 0
+    },
+    "full_text": "Creating an app where you can connect to your NAS via SMB/WebDAV and download or stream your own music offline. (works with local file too!) https://t.co/slF1O1PhtK",
+    "publish_time": "2026-11-05T22:12:21"
+  },
+  {
+    "tweet_id": "2118345681127747771",
+    "file_name": "HWXgKfHbwAAaRyD.jpg",
+    "user": {
+      "screen_name": "rthurz",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWXgKfHbwAAaRyD.jpg",
+    "read_time": "2026-11-05T23:03:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45202,
+      "timestamp": "2026-11-05T23:03:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-11-05T23:03:13",
+      "download_attempts": 0
+    },
+    "full_text": "Creating an app where you can connect to your NAS via SMB/WebDAV and download or stream your own music offline. (works with local file too!) https://t.co/slF1O1PhtK",
+    "publish_time": "2026-11-05T22:12:21"
+  },
+  {
+    "tweet_id": "2118345681127747771",
+    "file_name": "HWXgKfIacAEyDqF.jpg",
+    "user": {
+      "screen_name": "rthurz",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWXgKfIacAEyDqF.jpg",
+    "read_time": "2026-11-05T23:03:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45203,
+      "timestamp": "2026-11-05T23:03:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-05T23:03:14",
+      "download_attempts": 0
+    },
+    "full_text": "Creating an app where you can connect to your NAS via SMB/WebDAV and download or stream your own music offline. (works with local file too!) https://t.co/slF1O1PhtK",
+    "publish_time": "2026-11-05T22:12:21"
+  },
+  {
+    "tweet_id": "2118351476280172830",
+    "file_name": "XZR_3nwGa2TkZ5i-.mp4",
+    "user": {
+      "screen_name": "qnlDcesD7hC0Ty5",
+      "name": "Wallee"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2118351275876392960/vid/avc1/720x1280/XZR_3nwGa2TkZ5i-.mp4?tag=14",
+    "read_time": "2026-11-05T23:03:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45204,
+      "timestamp": "2026-11-05T23:03:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.6,
+      "timestamp": "2026-11-05T23:03:15",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vLHVgotjng",
+    "publish_time": "2026-11-05T22:35:23"
+  },
+  {
+    "tweet_id": "2118352522217931076",
+    "file_name": "HWXmYpGaAAEglDu.jpg",
+    "user": {
+      "screen_name": "Jeff07751908",
+      "name": "杰尼龟"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWXmYpGaAAEglDu.jpg",
+    "read_time": "2026-11-05T23:03:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45205,
+      "timestamp": "2026-11-05T23:03:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-11-05T23:03:16",
+      "download_attempts": 0
+    },
+    "full_text": "直接跪下舔 https://t.co/shCUExkHDG",
+    "publish_time": "2026-11-05T22:39:33"
+  },
+  {
+    "tweet_id": "2118352897423311018",
+    "file_name": "HWXmuLoXMAAaMy6.jpg",
+    "user": {
+      "screen_name": "wudongmiangoon",
+      "name": "污东面"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWXmuLoXMAAaMy6.jpg",
+    "read_time": "2026-11-05T23:03:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45206,
+      "timestamp": "2026-11-05T23:03:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-05T23:03:17",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/1F6eQb4zFa",
+    "publish_time": "2026-11-05T22:41:02"
+  },
+  {
+    "tweet_id": "2118354577192083812",
+    "file_name": "HWXoQElaIAAj9o2.jpg",
+    "user": {
+      "screen_name": "jieJJ805",
+      "name": "@JJ杰尔（深圳）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWXoQElaIAAj9o2.jpg",
+    "read_time": "2026-11-05T23:03:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45207,
+      "timestamp": "2026-11-05T23:03:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-05T23:03:18",
+      "download_attempts": 0
+    },
+    "full_text": "2027曼谷跨年，亚洲盛大的私人派对，肌肉天菜、巨屌帅哥，菜单已出，定好机票，扫码报名！2027 Bangkok New Year’s Eve: Asia’s grand private party featuring muscular heartthrobs and handsome guys with huge cocks. The menu is out, book your flight, and scan the QR code to register! https://t.co/XmDeVEjKzO",
+    "publish_time": "2026-11-05T22:47:42"
+  },
+  {
+    "tweet_id": "2118354577192083812",
+    "file_name": "HWXoQEnaQAA289I.jpg",
+    "user": {
+      "screen_name": "jieJJ805",
+      "name": "@JJ杰尔（深圳）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWXoQEnaQAA289I.jpg",
+    "read_time": "2026-11-05T23:03:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45208,
+      "timestamp": "2026-11-05T23:03:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-11-05T23:03:18",
+      "download_attempts": 0
+    },
+    "full_text": "2027曼谷跨年，亚洲盛大的私人派对，肌肉天菜、巨屌帅哥，菜单已出，定好机票，扫码报名！2027 Bangkok New Year’s Eve: Asia’s grand private party featuring muscular heartthrobs and handsome guys with huge cocks. The menu is out, book your flight, and scan the QR code to register! https://t.co/XmDeVEjKzO",
+    "publish_time": "2026-11-05T22:47:42"
+  },
+  {
+    "tweet_id": "2118357983591878961",
+    "file_name": "HWXrWR7bEAApIj2.jpg",
+    "user": {
+      "screen_name": "Jiang648047",
+      "name": "jiang li yun 63"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWXrWR7bEAApIj2.jpg",
+    "read_time": "2026-11-05T23:03:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45209,
+      "timestamp": "2026-11-05T23:03:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.16,
+      "timestamp": "2026-11-05T23:03:19",
+      "download_attempts": 0
+    },
+    "full_text": "抿嘴😾 https://t.co/EmB3TiH5bH",
+    "publish_time": "2026-11-05T23:01:15"
+  },
+  {
+    "tweet_id": "2118358013950283803",
+    "file_name": "1Zw-Uj1QEEzJ-p4O.mp4",
+    "user": {
+      "screen_name": "Big_straight_H",
+      "name": "荒"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2118357859427913728/vid/avc1/1080x1920/1Zw-Uj1QEEzJ-p4O.mp4?tag=29",
+    "read_time": "2026-11-05T23:03:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45210,
+      "timestamp": "2026-11-05T23:03:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 22.25,
+      "timestamp": "2026-11-05T23:03:22",
+      "download_attempts": 0
+    },
+    "full_text": "來 老司機趁連拍兩部的空檔教大家怎麼把自己秒幹潮吹🐳🫶 https://t.co/WkgCGiIMvU",
+    "publish_time": "2026-11-05T23:01:22"
   }
 ]
