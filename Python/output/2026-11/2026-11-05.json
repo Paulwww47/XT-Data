@@ -2875,7 +2875,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (92.28MB > 50.00MB)",
       "timestamp": "2026-11-05T19:02:00",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -2886,5 +2886,31 @@
     },
     "full_text": "ซนอีกละ ประตูคือเปิดมาเจอเลยด้วย เงี่ยนอะไรขนาดนั้นอะ 🥵 https://t.co/590gWetOAx",
     "publish_time": "2026-11-05T18:59:50"
+  },
+  {
+    "tweet_id": "2118308975120978326",
+    "file_name": "HWW-yKNbgAACGKn.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWW-yKNbgAACGKn.jpg",
+    "read_time": "2026-11-05T20:01:39",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45185,
+      "timestamp": "2026-11-05T20:01:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-11-05T20:01:40",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/R1aEViBPHs",
+    "publish_time": "2026-11-05T19:46:30"
   }
 ]
