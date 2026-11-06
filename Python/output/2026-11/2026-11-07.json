@@ -622,5 +622,31 @@
     },
     "full_text": "https://t.co/R7IfnNX43V",
     "publish_time": "2026-11-07T02:21:59"
+  },
+  {
+    "tweet_id": "2118793718744674660",
+    "file_name": "hLJCeeEwVd3Ck3qX.mp4",
+    "user": {
+      "screen_name": "hhh752093296",
+      "name": "大力宝宝"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2118793666705924096/vid/avc1/720x1280/hLJCeeEwVd3Ck3qX.mp4?tag=29",
+    "read_time": "2026-11-07T04:02:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45466,
+      "timestamp": "2026-11-07T04:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 2.14,
+      "timestamp": "2026-11-07T04:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "艹 https://t.co/nEP7bFS4sV",
+    "publish_time": "2026-11-07T03:52:42"
   }
 ]
