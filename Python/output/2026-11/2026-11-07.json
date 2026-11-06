@@ -492,5 +492,135 @@
     },
     "full_text": "Today https://t.co/VAtchAByKY",
     "publish_time": "2026-11-07T01:49:44"
+  },
+  {
+    "tweet_id": "2118765560846819404",
+    "file_name": "HWdeDAJaIAEIbd3.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWdeDAJaIAEIbd3.jpg",
+    "read_time": "2026-11-07T03:03:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45461,
+      "timestamp": "2026-11-07T03:03:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.07,
+      "timestamp": "2026-11-07T03:03:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/jslJtdUB4B",
+    "publish_time": "2026-11-07T02:00:49"
+  },
+  {
+    "tweet_id": "2118765560846819404",
+    "file_name": "HWdeDAVakAA6j1-.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWdeDAVakAA6j1-.jpg",
+    "read_time": "2026-11-07T03:03:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45462,
+      "timestamp": "2026-11-07T03:03:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-11-07T03:03:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/jslJtdUB4B",
+    "publish_time": "2026-11-07T02:00:49"
+  },
+  {
+    "tweet_id": "2118765641142517834",
+    "file_name": "HWdeHqkbAAEcOI8.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWdeHqkbAAEcOI8.jpg",
+    "read_time": "2026-11-07T03:03:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45463,
+      "timestamp": "2026-11-07T03:03:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-11-07T03:03:10",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/kMsJUAwkZ5",
+    "publish_time": "2026-11-07T02:01:08"
+  },
+  {
+    "tweet_id": "2118768110283202622",
+    "file_name": "HWdgXI0awAANRn4.jpg",
+    "user": {
+      "screen_name": "tuo_522",
+      "name": "🦮Simon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWdgXI0awAANRn4.jpg",
+    "read_time": "2026-11-07T03:03:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45464,
+      "timestamp": "2026-11-07T03:03:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-11-07T03:03:12",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/tFiDVnZBgp",
+    "publish_time": "2026-11-07T02:10:56"
+  },
+  {
+    "tweet_id": "2118770890108469415",
+    "file_name": "XCv15YL8WE91Ffby.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2118770854725328896/vid/avc1/688x1280/XCv15YL8WE91Ffby.mp4?tag=29",
+    "read_time": "2026-11-07T03:03:07",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45465,
+      "timestamp": "2026-11-07T03:03:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.89,
+      "timestamp": "2026-11-07T03:03:13",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/R7IfnNX43V",
+    "publish_time": "2026-11-07T02:21:59"
   }
 ]
