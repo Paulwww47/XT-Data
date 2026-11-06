@@ -4595,7 +4595,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (96.29MB > 50.00MB)",
       "timestamp": "2026-11-06T22:02:03",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -4658,5 +4658,85 @@
     },
     "full_text": "https://t.co/6zCJSqCzJ0",
     "publish_time": "2026-11-06T21:45:40"
+  },
+  {
+    "tweet_id": "2118711315544043965",
+    "file_name": "USpil0tl-dO7esxC.mp4",
+    "user": {
+      "screen_name": "Mateusdiasotoni",
+      "name": "直男女记者77"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2118710907400601600/vid/avc1/1080x1096/USpil0tl-dO7esxC.mp4?tag=29",
+    "read_time": "2026-11-06T23:01:53",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (56.94MB > 50.00MB)",
+      "timestamp": "2026-11-06T23:01:58",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 56.94,
+      "timestamp": "2026-11-06T23:01:58",
+      "download_attempts": 0
+    },
+    "full_text": "车里调教直男人夫第二部 https://t.co/vQxrDKQ19r",
+    "publish_time": "2026-11-06T22:25:16"
+  },
+  {
+    "tweet_id": "2118717727963599274",
+    "file_name": "HWcyichXsAA63hC.jpg",
+    "user": {
+      "screen_name": "jaecitoooo",
+      "name": "jae"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWcyichXsAA63hC.jpg",
+    "read_time": "2026-11-06T23:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45421,
+      "timestamp": "2026-11-06T23:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.23,
+      "timestamp": "2026-11-06T23:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "Last summer in Mallorca https://t.co/L1MrnXh5fF",
+    "publish_time": "2026-11-06T22:50:44"
+  },
+  {
+    "tweet_id": "2118717874533773565",
+    "file_name": "XTF-Deot052DCxRN.mp4",
+    "user": {
+      "screen_name": "rayon1369",
+      "name": "邹良军"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2116019634378096640/vid/avc1/720x1280/XTF-Deot052DCxRN.mp4?tag=14",
+    "read_time": "2026-11-06T23:01:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45422,
+      "timestamp": "2026-11-06T23:02:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 31.22,
+      "timestamp": "2026-11-06T23:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/lz1ID4vjV1",
+    "publish_time": "2026-11-06T22:51:19"
   }
 ]
