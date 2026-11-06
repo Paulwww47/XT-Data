@@ -130,6 +130,32 @@
     "publish_time": "2026-11-06T00:24:00"
   },
   {
+    "tweet_id": "2118385204293468487",
+    "file_name": "HWYEG5UakAApL7S.jpg",
+    "user": {
+      "screen_name": "gosh684717",
+      "name": "gosh"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWYEG5UakAApL7S.jpg",
+    "read_time": "2026-11-06T20:03:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45392,
+      "timestamp": "2026-11-06T20:03:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.05,
+      "timestamp": "2026-11-06T20:03:19",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Ocw7rc3olR",
+    "publish_time": "2026-11-06T00:49:25"
+  },
+  {
     "tweet_id": "2118387607625441398",
     "file_name": "PZky8ZQLfHIAjWxR.mp4",
     "user": {
@@ -3553,7 +3579,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (183.75MB > 50.00MB)",
       "timestamp": "2026-11-06T19:02:08",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -3876,5 +3902,317 @@
     },
     "full_text": "都在干嘛，快找我聊会天 https://t.co/A51TWhTHhB",
     "publish_time": "2026-11-06T18:59:31"
+  },
+  {
+    "tweet_id": "2118659922942664974",
+    "file_name": "KV6vrqtKQUlipMex.mp4",
+    "user": {
+      "screen_name": "xONEMBOY",
+      "name": "ONEMBOY"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2118659764335132673/vid/avc1/720x960/KV6vrqtKQUlipMex.mp4?tag=29",
+    "read_time": "2026-11-06T20:03:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45393,
+      "timestamp": "2026-11-06T20:03:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 6.74,
+      "timestamp": "2026-11-06T20:03:22",
+      "download_attempts": 0
+    },
+    "full_text": "微💖 ONEMBOY\nIP会员可约肌肉网红🔥\n🇹🇭曼谷跨年网红派对 肌肉网红私信合作🥵 https://t.co/JpOGB42TeY",
+    "publish_time": "2026-11-06T19:01:03"
+  },
+  {
+    "tweet_id": "2118660950803046831",
+    "file_name": "HWb-5aDbUAAhOYx.jpg",
+    "user": {
+      "screen_name": "lailai6699",
+      "name": "lailai69"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWb-5aDbUAAhOYx.jpg",
+    "read_time": "2026-11-06T20:03:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45394,
+      "timestamp": "2026-11-06T20:03:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-11-06T20:03:25",
+      "download_attempts": 0
+    },
+    "full_text": "久违的卖出一件加料的内裤，结果不取！不取！\n寄回来我又不在，那间7都要臭了！\n而且那是C-in2 https://t.co/t2uwvxvZnx",
+    "publish_time": "2026-11-06T19:05:08"
+  },
+  {
+    "tweet_id": "2118663878339150305",
+    "file_name": "HWcBjXybMAA0nBK.jpg",
+    "user": {
+      "screen_name": "HorgeL_",
+      "name": "Horge🤖"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWcBjXybMAA0nBK.jpg",
+    "read_time": "2026-11-06T20:03:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45395,
+      "timestamp": "2026-11-06T20:03:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.26,
+      "timestamp": "2026-11-06T20:03:26",
+      "download_attempts": 0
+    },
+    "full_text": "不穿衣服的发多了，发点穿衣服的 https://t.co/b1ggfchegp",
+    "publish_time": "2026-11-06T19:16:46"
+  },
+  {
+    "tweet_id": "2118663878339150305",
+    "file_name": "HWcBjXybAAAhfS8.jpg",
+    "user": {
+      "screen_name": "HorgeL_",
+      "name": "Horge🤖"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWcBjXybAAAhfS8.jpg",
+    "read_time": "2026-11-06T20:03:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45396,
+      "timestamp": "2026-11-06T20:03:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.27,
+      "timestamp": "2026-11-06T20:03:26",
+      "download_attempts": 0
+    },
+    "full_text": "不穿衣服的发多了，发点穿衣服的 https://t.co/b1ggfchegp",
+    "publish_time": "2026-11-06T19:16:46"
+  },
+  {
+    "tweet_id": "2118665694212673550",
+    "file_name": "HWcDHbIaAAAVfR5.jpg",
+    "user": {
+      "screen_name": "MoFrost_",
+      "name": "Mosura"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWcDHbIaAAAVfR5.jpg",
+    "read_time": "2026-11-06T20:03:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45397,
+      "timestamp": "2026-11-06T20:03:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.17,
+      "timestamp": "2026-11-06T20:03:28",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/OdjfmTmDPy",
+    "publish_time": "2026-11-06T19:23:59"
+  },
+  {
+    "tweet_id": "2118665694212673550",
+    "file_name": "HWcDHbKb0AAg-8C.jpg",
+    "user": {
+      "screen_name": "MoFrost_",
+      "name": "Mosura"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWcDHbKb0AAg-8C.jpg",
+    "read_time": "2026-11-06T20:03:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45398,
+      "timestamp": "2026-11-06T20:03:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-11-06T20:03:28",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/OdjfmTmDPy",
+    "publish_time": "2026-11-06T19:23:59"
+  },
+  {
+    "tweet_id": "2118665694212673550",
+    "file_name": "HWcDHadbgAIuwf1.jpg",
+    "user": {
+      "screen_name": "MoFrost_",
+      "name": "Mosura"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWcDHadbgAIuwf1.jpg",
+    "read_time": "2026-11-06T20:03:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45399,
+      "timestamp": "2026-11-06T20:03:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-06T20:03:28",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/OdjfmTmDPy",
+    "publish_time": "2026-11-06T19:23:59"
+  },
+  {
+    "tweet_id": "2118667562674475125",
+    "file_name": "HWcE6lYakAEgNjS.jpg",
+    "user": {
+      "screen_name": "uncledoggie",
+      "name": "小狼叔"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWcE6lYakAEgNjS.jpg",
+    "read_time": "2026-11-06T20:03:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45400,
+      "timestamp": "2026-11-06T20:03:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.17,
+      "timestamp": "2026-11-06T20:03:29",
+      "download_attempts": 0
+    },
+    "full_text": "喝了今晚变猛 0？ https://t.co/HZyqdYKXaH",
+    "publish_time": "2026-11-06T19:31:24"
+  },
+  {
+    "tweet_id": "2118670152141332986",
+    "file_name": "Yxge3WnaemQjZ8ir.mp4",
+    "user": {
+      "screen_name": "kkkean2",
+      "name": "kean～互推私"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2118669191163314176/vid/avc1/720x1280/Yxge3WnaemQjZ8ir.mp4?tag=29",
+    "read_time": "2026-11-06T20:03:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45401,
+      "timestamp": "2026-11-06T20:03:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 25.74,
+      "timestamp": "2026-11-06T20:03:33",
+      "download_attempts": 0
+    },
+    "full_text": "被金主打桩了，内射完了他又找了个朋友来干我 https://t.co/0ZNMMqe8mv",
+    "publish_time": "2026-11-06T19:41:41"
+  },
+  {
+    "tweet_id": "2118671163287392332",
+    "file_name": "31oMCNEt0dtMhRoF.mp4",
+    "user": {
+      "screen_name": "TianAllen9",
+      "name": "毛牛老公xxx"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2118671086749638656/vid/avc1/720x1280/31oMCNEt0dtMhRoF.mp4?tag=29",
+    "read_time": "2026-11-06T20:03:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45402,
+      "timestamp": "2026-11-06T20:03:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.85,
+      "timestamp": "2026-11-06T20:03:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/2T06aD5nmw",
+    "publish_time": "2026-11-06T19:45:42"
+  },
+  {
+    "tweet_id": "2118671345441784230",
+    "file_name": "QJcU2zA6JGHjLKpB.mp4",
+    "user": {
+      "screen_name": "TianAllen9",
+      "name": "毛牛老公xxx"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2118671169486499840/vid/avc1/720x1280/QJcU2zA6JGHjLKpB.mp4?tag=29",
+    "read_time": "2026-11-06T20:03:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45403,
+      "timestamp": "2026-11-06T20:03:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 5.74,
+      "timestamp": "2026-11-06T20:03:40",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/NkHd3hbiya",
+    "publish_time": "2026-11-06T19:46:26"
+  },
+  {
+    "tweet_id": "2118671423103475916",
+    "file_name": "YESv0KvwHLfcJV2L.mp4",
+    "user": {
+      "screen_name": "TianAllen9",
+      "name": "毛牛老公xxx"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2118671350164541442/vid/avc1/720x1280/YESv0KvwHLfcJV2L.mp4?tag=29",
+    "read_time": "2026-11-06T20:03:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45404,
+      "timestamp": "2026-11-06T20:03:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 4.4,
+      "timestamp": "2026-11-06T20:03:42",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/3sUswmpG6D",
+    "publish_time": "2026-11-06T19:46:44"
   }
 ]

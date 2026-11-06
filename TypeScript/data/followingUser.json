@@ -1967,7 +1967,7 @@
                 0,
                 23
               ],
-              "url": "https://t.co/VKlJFmyhwU"
+              "url": "https://t.co/VKlJFmxJHm"
             }
           ]
         }
@@ -3215,6 +3215,20 @@
         }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1785482791293255680/1714529700",
+      "profileImageUrlHttps": ""
+    }
+  },
+  {
+    "restId": "1701637513960697856",
+    "legacy": {
+      "name": "gosh",
+      "screenName": "gosh684717",
+      "createdAt": "Tue Sep 12 16:43:03 +0000 2023",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "",
       "profileImageUrlHttps": ""
     }
   },
@@ -4692,30 +4706,9 @@
       "name": "kaka",
       "screenName": "kaka_lac",
       "createdAt": "Wed Oct 18 18:29:53 +0000 2017",
-      "description": "电报：Ak_lac，情趣用品店：kaka carnal成人玩具店，会员群：https://t.co/cOe28r99l0，内衣店：他氏内衣集合店，会员群：https://t.co/1Y5bvGsvxL，防走丢：@kakalac_，咨询🌏:a12340984",
+      "description": "",
       "entities": {
-        "description": {
-          "urls": [
-            {
-              "display_url": "t.me/Kakacarnal",
-              "expanded_url": "https://t.me/Kakacarnal",
-              "indices": [
-                37,
-                60
-              ],
-              "url": "https://t.co/cOe28r99l0"
-            },
-            {
-              "display_url": "t.me/toxic_taobao",
-              "expanded_url": "https://t.me/toxic_taobao",
-              "indices": [
-                77,
-                100
-              ],
-              "url": "https://t.co/1Y5bvGsvxL"
-            }
-          ]
-        },
+        "description": {},
         "url": {
           "urls": [
             {
@@ -4725,7 +4718,7 @@
                 0,
                 23
               ],
-              "url": "https://t.co/fisLrH4m0z"
+              "url": "https://t.co/fisLrH3Ob1"
             }
           ]
         }
@@ -8703,7 +8696,7 @@
       "name": "我是谁（退推版）",
       "screenName": "Terence3393",
       "createdAt": "Fri Nov 23 10:49:55 +0000 2018",
-      "description": "南昌，男研，喜瘦（体脂低），发照聊。",
+      "description": "南昌，男，喜瘦（体脂低），发照聊。",
       "entities": {
         "description": {}
       },
@@ -9218,7 +9211,7 @@
       "name": "vm",
       "screenName": "vmya_",
       "createdAt": "Fri May 13 03:29:11 +0000 2022",
-      "description": "直男 | PhD 工程师 | 不约不谈不闲聊",
+      "description": "直男 | PhD 工程师 | 记录健身 | 不约不谈不闲聊",
       "entities": {
         "description": {},
         "url": {
@@ -9230,7 +9223,7 @@
                 0,
                 23
               ],
-              "url": "https://t.co/Q2kXut8XJR"
+              "url": "https://t.co/Q2kXut9vzp"
             }
           ]
         }
@@ -10263,7 +10256,7 @@
       "name": "小林不小",
       "screenName": "XXxLin18cn",
       "createdAt": "Fri May 15 09:18:37 +0000 2026",
-      "description": "别催更\n需要通过的私信（非抖粉勿扰）",
+      "description": "",
       "entities": {
         "description": {}
       },
