@@ -2975,19 +2975,17 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HWropGYagAAauos.jpg",
     "read_time": "2026-11-09T21:02:04",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2026-11-09T21:02:25",
-      "notification_sent": false
+      "success": true,
+      "message_id": 45644,
+      "timestamp": "2026-11-09T22:02:08"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size_mb": 0.19,
-      "timestamp": "2026-11-09T21:02:04",
+      "timestamp": "2026-11-09T22:02:06",
       "download_attempts": 0
     },
     "full_text": "周五十三号去深圳汤悦打卡，来偶遇\n#深圳 #汤悦 #偷摸 #深汤 #泡澡 https://t.co/OJQanhJh0h",
@@ -3003,19 +3001,17 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HWrph42a4AA7DZD.jpg",
     "read_time": "2026-11-09T21:02:04",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2026-11-09T21:02:46",
-      "notification_sent": false
+      "success": true,
+      "message_id": 45645,
+      "timestamp": "2026-11-09T22:02:09"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size_mb": 0.19,
-      "timestamp": "2026-11-09T21:02:25",
+      "timestamp": "2026-11-09T22:02:08",
       "download_attempts": 0
     },
     "full_text": "晚上好🌃 https://t.co/nXlMWDMkUO",
@@ -3031,19 +3027,17 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HWrph49acAAVtGb.jpg",
     "read_time": "2026-11-09T21:02:04",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "Timed out",
-      "timestamp": "2026-11-09T21:02:46",
-      "notification_sent": false
+      "success": true,
+      "message_id": 45646,
+      "timestamp": "2026-11-09T22:02:09"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size_mb": 0.15,
-      "timestamp": "2026-11-09T21:02:25",
+      "timestamp": "2026-11-09T22:02:08",
       "download_attempts": 0
     },
     "full_text": "晚上好🌃 https://t.co/nXlMWDMkUO",
@@ -3230,5 +3224,213 @@
     },
     "full_text": "降温了💨穿点练😎 https://t.co/pKpIeQRXET",
     "publish_time": "2026-11-09T20:56:00"
+  },
+  {
+    "tweet_id": "2119780289820209307",
+    "file_name": "6CKVWZDokQpdzuHY.mp4",
+    "user": {
+      "screen_name": "tempooooo1224",
+      "name": "正切_"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2119780266172710913/vid/avc1/720x1012/6CKVWZDokQpdzuHY.mp4?tag=29",
+    "read_time": "2026-11-09T22:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45647,
+      "timestamp": "2026-11-09T22:02:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.96,
+      "timestamp": "2026-11-09T22:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "吸 https://t.co/nbRUQYvBi2",
+    "publish_time": "2026-11-09T21:12:59"
+  },
+  {
+    "tweet_id": "2119781489839837366",
+    "file_name": "HWr6BY8aMAAPjWp.jpg",
+    "user": {
+      "screen_name": "d461385024",
+      "name": "大猛一"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWr6BY8aMAAPjWp.jpg",
+    "read_time": "2026-11-09T22:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45648,
+      "timestamp": "2026-11-09T22:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-09T22:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "周五去深圳汤悦打卡🙋🏻‍♂️ https://t.co/PjKCuosJgD",
+    "publish_time": "2026-11-09T21:17:45"
+  },
+  {
+    "tweet_id": "2119785657354912069",
+    "file_name": "HWr90S6acAIOpRS.jpg",
+    "user": {
+      "screen_name": "seyiphotoman",
+      "name": "seyi色一📷"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWr90S6acAIOpRS.jpg",
+    "read_time": "2026-11-09T22:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45649,
+      "timestamp": "2026-11-09T22:02:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-09T22:02:12",
+      "download_attempts": 0
+    },
+    "full_text": "严肃品尝\n\n华锦硕弟弟的牛子🐂 https://t.co/BCkyMjIiMt",
+    "publish_time": "2026-11-09T21:34:19"
+  },
+  {
+    "tweet_id": "2119785818101625080",
+    "file_name": "HWr98YsbEAAKJ9t.jpg",
+    "user": {
+      "screen_name": "Eric16Sn",
+      "name": "只想练背（北京版）"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWr98YsbEAAKJ9t.jpg",
+    "read_time": "2026-11-09T22:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45650,
+      "timestamp": "2026-11-09T22:02:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-11-09T22:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "插你 https://t.co/77kIbRwoFY",
+    "publish_time": "2026-11-09T21:34:57"
+  },
+  {
+    "tweet_id": "2119786069411635566",
+    "file_name": "HWr-MVibMAABMcP.jpg",
+    "user": {
+      "screen_name": "seyiphotoman",
+      "name": "seyi色一📷"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWr-MVibMAABMcP.jpg",
+    "read_time": "2026-11-09T22:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45651,
+      "timestamp": "2026-11-09T22:02:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-09T22:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "吃干抹净 新的弟弟 华锦硕 https://t.co/qX1XG7wMxV",
+    "publish_time": "2026-11-09T21:35:57"
+  },
+  {
+    "tweet_id": "2119788353881333847",
+    "file_name": "HWsAQ20WcAAcPAi.jpg",
+    "user": {
+      "screen_name": "pengpengJoe",
+      "name": "PJPJJ"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWsAQ20WcAAcPAi.jpg",
+    "read_time": "2026-11-09T22:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45652,
+      "timestamp": "2026-11-09T22:02:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-09T22:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "裁剪放大图片是不是就可以显奶大了？ https://t.co/sGn4zIubg0",
+    "publish_time": "2026-11-09T21:45:01"
+  },
+  {
+    "tweet_id": "2119789351098073463",
+    "file_name": "2gUGzG4C2MHc_Hx4.mp4",
+    "user": {
+      "screen_name": "yangmoyum",
+      "name": "阳沫雨"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2119789304851640321/vid/avc1/720x1280/2gUGzG4C2MHc_Hx4.mp4?tag=29",
+    "read_time": "2026-11-09T22:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45653,
+      "timestamp": "2026-11-09T22:02:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.94,
+      "timestamp": "2026-11-09T22:02:17",
+      "download_attempts": 0
+    },
+    "full_text": "在广州欢迎预约SPA🥵\n到位：1074683 https://t.co/JaVzGfKXHn",
+    "publish_time": "2026-11-09T21:48:59"
+  },
+  {
+    "tweet_id": "2119790051320377747",
+    "file_name": "vnwtvoCL25jG7RCL.mp4",
+    "user": {
+      "screen_name": "buffwake",
+      "name": "Buffwake"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2119789945946857472/vid/avc1/1920x1080/vnwtvoCL25jG7RCL.mp4?tag=29",
+    "read_time": "2026-11-09T22:02:06",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45654,
+      "timestamp": "2026-11-09T22:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 8.44,
+      "timestamp": "2026-11-09T22:02:19",
+      "download_attempts": 0
+    },
+    "full_text": "男神的秘密大玩具㊙️🍆Full Version 全见版\n🧧🚪https://t.co/XbMychUKIQ\n#S #雄臭 #体育生 #原味 #直男  #Gay https://t.co/xh0u3eTLFU",
+    "publish_time": "2026-11-09T21:51:46"
   }
 ]
