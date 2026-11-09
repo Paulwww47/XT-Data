@@ -112,5 +112,59 @@
     "tweetUrl": "https://x.com/jaecitoooo/status/2119839993233592677",
     "fullText": "This tweet made me realize how much I love dicks",
     "publishTime": "2026-11-10T01:10:13"
+  },
+  {
+    "user": {
+      "screenName": "jaecitoooo",
+      "name": "jae"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/jaecitoooo/status/2119857206288068801",
+    "fullText": "베프랑 껴안고 있고 싶음",
+    "publishTime": "2026-11-10T02:18:37"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWtBeHwbAAAoQ-F.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2119860040438034918",
+    "fullText": "https://t.co/iMdH9sDHEJ",
+    "publishTime": "2026-11-10T02:29:53"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWtBqS4bgAAyzS7.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2119860250472009912",
+    "fullText": "https://t.co/c1B2v1Anli",
+    "publishTime": "2026-11-10T02:30:43"
+  },
+  {
+    "user": {
+      "screenName": "jaecitoooo",
+      "name": "jae"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HWtCyaxXIAA-MMt.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/jaecitoooo/status/2119861488051790244",
+    "fullText": "😌 https://t.co/JfIKFtaDtI",
+    "publishTime": "2026-11-10T02:35:38"
   }
 ]
