@@ -440,5 +440,31 @@
     },
     "full_text": "carlosxchong https://t.co/sJNRD3m1tZ",
     "publish_time": "2026-11-10T04:11:57"
+  },
+  {
+    "tweet_id": "2119900224219185310",
+    "file_name": "HWtmA8LbAAAeb_7.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWtmA8LbAAAeb_7.jpg",
+    "read_time": "2026-11-10T06:02:13",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45694,
+      "timestamp": "2026-11-10T06:02:15"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-10T06:02:13",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/VKmlgpnH7Z",
+    "publish_time": "2026-11-10T05:09:33"
   }
 ]
