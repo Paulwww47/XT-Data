@@ -2615,7 +2615,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (90.02MB > 50.00MB)",
       "timestamp": "2026-11-10T17:02:36",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -2782,5 +2782,369 @@
     },
     "full_text": "早安🐔🐔🐔🐔 https://t.co/SRn1gMNhev",
     "publish_time": "2026-11-10T16:57:53"
+  },
+  {
+    "tweet_id": "2120081097287709147",
+    "file_name": "HWwKgnGa0AAXd8U.jpg",
+    "user": {
+      "screen_name": "Andrewanzhu",
+      "name": "安猪大王"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWwKgnGa0AAXd8U.jpg",
+    "read_time": "2026-11-10T18:02:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45783,
+      "timestamp": "2026-11-10T18:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-10T18:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "Fucking Tuesday 🥹 https://t.co/Oicunwyp9q",
+    "publish_time": "2026-11-10T17:08:17"
+  },
+  {
+    "tweet_id": "2120081097287709147",
+    "file_name": "HWwKgnFawAEz_w4.jpg",
+    "user": {
+      "screen_name": "Andrewanzhu",
+      "name": "安猪大王"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWwKgnFawAEz_w4.jpg",
+    "read_time": "2026-11-10T18:02:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45784,
+      "timestamp": "2026-11-10T18:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-10T18:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "Fucking Tuesday 🥹 https://t.co/Oicunwyp9q",
+    "publish_time": "2026-11-10T17:08:17"
+  },
+  {
+    "tweet_id": "2120081417388650767",
+    "file_name": "HWwKzyibUAA35oz.jpg",
+    "user": {
+      "screen_name": "maco82537076",
+      "name": "锋霖situ🐮"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWwKzyibUAA35oz.jpg",
+    "read_time": "2026-11-10T18:02:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45785,
+      "timestamp": "2026-11-10T18:02:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-11-10T18:02:24",
+      "download_attempts": 0
+    },
+    "full_text": "你爸爸上线了…… https://t.co/EymZD1OBJM",
+    "publish_time": "2026-11-10T17:09:33"
+  },
+  {
+    "tweet_id": "2120083790106345509",
+    "file_name": "HWwM-JXasAA6oJG.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWwM-JXasAA6oJG.jpg",
+    "read_time": "2026-11-10T18:02:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45786,
+      "timestamp": "2026-11-10T18:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-11-10T18:02:26",
+      "download_attempts": 0
+    },
+    "full_text": "•\nIG: Corgi_117 💪\n✨ https://t.co/crxwObP7qL",
+    "publish_time": "2026-11-10T17:18:59"
+  },
+  {
+    "tweet_id": "2120083790106345509",
+    "file_name": "HWwM-JbbgAAx3Gf.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWwM-JbbgAAx3Gf.jpg",
+    "read_time": "2026-11-10T18:02:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45787,
+      "timestamp": "2026-11-10T18:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-10T18:02:26",
+      "download_attempts": 0
+    },
+    "full_text": "•\nIG: Corgi_117 💪\n✨ https://t.co/crxwObP7qL",
+    "publish_time": "2026-11-10T17:18:59"
+  },
+  {
+    "tweet_id": "2120083790106345509",
+    "file_name": "HWwM-JcboAAU7MB.jpg",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWwM-JcboAAU7MB.jpg",
+    "read_time": "2026-11-10T18:02:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45788,
+      "timestamp": "2026-11-10T18:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-11-10T18:02:26",
+      "download_attempts": 0
+    },
+    "full_text": "•\nIG: Corgi_117 💪\n✨ https://t.co/crxwObP7qL",
+    "publish_time": "2026-11-10T17:18:59"
+  },
+  {
+    "tweet_id": "2120084675037389304",
+    "file_name": "Aw811UVNompQgqWv.mp4",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2120084602920554496/vid/avc1/1240x696/Aw811UVNompQgqWv.mp4?tag=29",
+    "read_time": "2026-11-10T18:02:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45789,
+      "timestamp": "2026-11-10T18:02:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 10.68,
+      "timestamp": "2026-11-10T18:02:28",
+      "download_attempts": 0
+    },
+    "full_text": "·\n👍 DINO ALPHAOMEGA @dinochan88 gogo \n\n📍IN  Shenzhen’s night club 🫶🏻 https://t.co/cKCQgBaOUH",
+    "publish_time": "2026-11-10T17:22:30"
+  },
+  {
+    "tweet_id": "2120087329683685440",
+    "file_name": "HWwQMAoaQAEKNhY.jpg",
+    "user": {
+      "screen_name": "Hesinnng",
+      "name": "和大人"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWwQMAoaQAEKNhY.jpg",
+    "read_time": "2026-11-10T18:02:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45790,
+      "timestamp": "2026-11-10T18:02:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-10T18:02:31",
+      "download_attempts": 0
+    },
+    "full_text": "这个动作的看点到底在哪里.. https://t.co/HoaZDcHZfT",
+    "publish_time": "2026-11-10T17:33:03"
+  },
+  {
+    "tweet_id": "2120091636147622059",
+    "file_name": "rjza0xQjMkUoGflM.mp4",
+    "user": {
+      "screen_name": "lllluyuuuu",
+      "name": "Ken"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2120091607521521664/vid/avc1/720x960/rjza0xQjMkUoGflM.mp4?tag=29",
+    "read_time": "2026-11-10T18:02:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45791,
+      "timestamp": "2026-11-10T18:02:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.54,
+      "timestamp": "2026-11-10T18:02:32",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/TLPw1Kad98",
+    "publish_time": "2026-11-10T17:50:10"
+  },
+  {
+    "tweet_id": "2120091838526955796",
+    "file_name": "GNhXDy218MhoCs-7.mp4",
+    "user": {
+      "screen_name": "cdlrte",
+      "name": "沈阳空少"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2120091474977259520/vid/avc1/710x1280/GNhXDy218MhoCs-7.mp4?tag=14",
+    "read_time": "2026-11-10T18:02:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45792,
+      "timestamp": "2026-11-10T18:02:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 6.53,
+      "timestamp": "2026-11-10T18:02:33",
+      "download_attempts": 0
+    },
+    "full_text": "顺直篮球直男无手喷射，完整版主页。 https://t.co/uiTityeDhm",
+    "publish_time": "2026-11-10T17:50:58"
+  },
+  {
+    "tweet_id": "2120092772774637611",
+    "file_name": "HWwVEJxbAAIhmSN.jpg",
+    "user": {
+      "screen_name": "Hhhhddo8",
+      "name": "Hhhh"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWwVEJxbAAIhmSN.jpg",
+    "read_time": "2026-11-10T18:02:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45793,
+      "timestamp": "2026-11-10T18:02:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-11-10T18:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "#体育生 #健身教练 #直男 #腹肌  #粗口 #胸肌 https://t.co/t1V7SSCa5z",
+    "publish_time": "2026-11-10T17:54:41"
+  },
+  {
+    "tweet_id": "2120092814759666159",
+    "file_name": "HWwVKmlbwAAFDnU.jpg",
+    "user": {
+      "screen_name": "Hhhhddo8",
+      "name": "Hhhh"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWwVKmlbwAAFDnU.jpg",
+    "read_time": "2026-11-10T18:02:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45794,
+      "timestamp": "2026-11-10T18:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-11-10T18:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "#体育生 #健身教练 #直男 #腹肌  #粗口 #胸肌 https://t.co/xnyTxaP8Z8",
+    "publish_time": "2026-11-10T17:54:51"
+  },
+  {
+    "tweet_id": "2120092814759666159",
+    "file_name": "HWwVKmXbEAAgQzz.jpg",
+    "user": {
+      "screen_name": "Hhhhddo8",
+      "name": "Hhhh"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWwVKmXbEAAgQzz.jpg",
+    "read_time": "2026-11-10T18:02:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45795,
+      "timestamp": "2026-11-10T18:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-11-10T18:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "#体育生 #健身教练 #直男 #腹肌  #粗口 #胸肌 https://t.co/xnyTxaP8Z8",
+    "publish_time": "2026-11-10T17:54:51"
+  },
+  {
+    "tweet_id": "2120092814759666159",
+    "file_name": "HWwVKmUaoAAgl9h.jpg",
+    "user": {
+      "screen_name": "Hhhhddo8",
+      "name": "Hhhh"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HWwVKmUaoAAgl9h.jpg",
+    "read_time": "2026-11-10T18:02:22",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45796,
+      "timestamp": "2026-11-10T18:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-11-10T18:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "#体育生 #健身教练 #直男 #腹肌  #粗口 #胸肌 https://t.co/xnyTxaP8Z8",
+    "publish_time": "2026-11-10T17:54:51"
   }
 ]
