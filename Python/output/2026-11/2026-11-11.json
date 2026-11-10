@@ -275,7 +275,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (92.48MB > 50.00MB)",
       "timestamp": "2026-11-11T02:02:29",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -442,5 +442,31 @@
     },
     "full_text": "这么一位出租房男人，我的感觉很有味道\n#土直 #鸡巴 #阴茎 https://t.co/5fblZxo6QB",
     "publish_time": "2026-11-11T01:48:49"
+  },
+  {
+    "tweet_id": "2120215522780565609",
+    "file_name": "TtkYBdl3rd1FgOhE.mp4",
+    "user": {
+      "screen_name": "hhh752093296",
+      "name": "大力宝宝"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2120215486915092480/vid/avc1/720x1280/TtkYBdl3rd1FgOhE.mp4?tag=29",
+    "read_time": "2026-11-11T03:02:25",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45862,
+      "timestamp": "2026-11-11T03:02:28"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.47,
+      "timestamp": "2026-11-11T03:02:25",
+      "download_attempts": 0
+    },
+    "full_text": "怎么办？ https://t.co/cU3u6E0APD",
+    "publish_time": "2026-11-11T02:02:26"
   }
 ]
