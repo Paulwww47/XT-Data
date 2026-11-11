@@ -399,19 +399,17 @@
     "media_type": "videos",
     "url": "https://video.twimg.com/amplify_video/2120591885408550912/vid/avc1/1280x720/AsfGWKqOHhijFQYr.mp4?tag=29",
     "read_time": "2026-11-12T03:04:07",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "urllib3 HTTPError ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
-      "timestamp": "2026-11-12T03:04:09",
-      "notification_sent": false
+      "success": true,
+      "message_id": 46006,
+      "timestamp": "2026-11-12T04:02:51"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size_mb": 3.06,
-      "timestamp": "2026-11-12T03:04:08",
+      "timestamp": "2026-11-12T04:02:47",
       "download_attempts": 0
     },
     "full_text": "喜欢圣的剥皮机吗 https://t.co/ChLM2FoVUb",
