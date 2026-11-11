@@ -225,5 +225,33 @@
     "tweetUrl": "https://x.com/chuanzhang0320/status/2120619587356287405",
     "fullText": "Ok https://t.co/5NTwfnWcOM",
     "publishTime": "2026-11-12T04:48:03"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HW35s-xaYAAibGl.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2120625561429274752",
+    "fullText": "https://t.co/79CFr4kF7V",
+    "publishTime": "2026-11-12T05:11:47"
+  },
+  {
+    "user": {
+      "screenName": "Dragoncum02",
+      "name": "Dragon"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2120630217777795072/vid/avc1/1280x512/2LeHBPXpZqcAH1tt.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Dragoncum02/status/2120630243384000810",
+    "fullText": "舒服 https://t.co/CypXEtIJu2",
+    "publishTime": "2026-11-12T05:30:24"
   }
 ]
