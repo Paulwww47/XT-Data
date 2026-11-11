@@ -2799,7 +2799,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (55.45MB > 50.00MB)",
       "timestamp": "2026-11-11T20:03:56",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -3122,5 +3122,213 @@
     },
     "full_text": "https://t.co/UUdeAe1Eqw",
     "publish_time": "2026-11-11T19:34:03"
+  },
+  {
+    "tweet_id": "2120488372082975112",
+    "file_name": "HW1865OaMAARObW.jpg",
+    "user": {
+      "screen_name": "zhy02797897",
+      "name": "FF"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HW1865OaMAARObW.jpg",
+    "read_time": "2026-11-11T21:02:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45964,
+      "timestamp": "2026-11-11T21:02:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-11-11T21:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "use me https://t.co/DIR7UMnT3M",
+    "publish_time": "2026-11-11T20:06:39"
+  },
+  {
+    "tweet_id": "2120488372082975112",
+    "file_name": "HW1865PaoAAY4Ym.jpg",
+    "user": {
+      "screen_name": "zhy02797897",
+      "name": "FF"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HW1865PaoAAY4Ym.jpg",
+    "read_time": "2026-11-11T21:02:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45965,
+      "timestamp": "2026-11-11T21:02:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-11T21:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "use me https://t.co/DIR7UMnT3M",
+    "publish_time": "2026-11-11T20:06:39"
+  },
+  {
+    "tweet_id": "2120489991503749154",
+    "file_name": "HW1-Zmua8AALYud.jpg",
+    "user": {
+      "screen_name": "xhn1069",
+      "name": "路过"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HW1-Zmua8AALYud.jpg",
+    "read_time": "2026-11-11T21:02:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45966,
+      "timestamp": "2026-11-11T21:02:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.06,
+      "timestamp": "2026-11-11T21:02:19",
+      "download_attempts": 0
+    },
+    "full_text": "减脂势在必行要啊 https://t.co/xXb1Rx55Rt",
+    "publish_time": "2026-11-11T20:13:05"
+  },
+  {
+    "tweet_id": "2120494928044478847",
+    "file_name": "HW2C5OwaIAErGYS.jpg",
+    "user": {
+      "screen_name": "dalaoshu86332",
+      "name": "纯情大老鼠"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HW2C5OwaIAErGYS.jpg",
+    "read_time": "2026-11-11T21:02:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45967,
+      "timestamp": "2026-11-11T21:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-11T21:02:20",
+      "download_attempts": 0
+    },
+    "full_text": "深圳也没那么冷啊 https://t.co/xOc744jwr1",
+    "publish_time": "2026-11-11T20:32:42"
+  },
+  {
+    "tweet_id": "2120497336799686916",
+    "file_name": "DemXzoQXn4uvq3Zq.mp4",
+    "user": {
+      "screen_name": "MuscleBB_",
+      "name": "大狗狗"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2120497075435737089/vid/avc1/720x1280/DemXzoQXn4uvq3Zq.mp4?tag=29",
+    "read_time": "2026-11-11T21:02:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45968,
+      "timestamp": "2026-11-11T21:02:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 2.36,
+      "timestamp": "2026-11-11T21:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "怎么软的时候就泄出来了….还好泄完硬了\n#早泄 #流精 #1m https://t.co/yHIc8jm1pA",
+    "publish_time": "2026-11-11T20:42:16"
+  },
+  {
+    "tweet_id": "2120498871550050769",
+    "file_name": "HW2Gd4tawAERbN_.jpg",
+    "user": {
+      "screen_name": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HW2Gd4tawAERbN_.jpg",
+    "read_time": "2026-11-11T21:02:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45969,
+      "timestamp": "2026-11-11T21:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.21,
+      "timestamp": "2026-11-11T21:02:26",
+      "download_attempts": 0
+    },
+    "full_text": "很久没有认真练背了，今天也摸鱼♫(´ε｀) https://t.co/lX42QKIRuI",
+    "publish_time": "2026-11-11T20:48:22"
+  },
+  {
+    "tweet_id": "2120499575459029130",
+    "file_name": "N_jGttsY6ieJs2wE.mp4",
+    "user": {
+      "screen_name": "LiugangLogan",
+      "name": "刘刚Logan"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2120499519272177664/vid/avc1/720x1280/N_jGttsY6ieJs2wE.mp4?tag=29",
+    "read_time": "2026-11-11T21:02:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45970,
+      "timestamp": "2026-11-11T21:02:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 3.4,
+      "timestamp": "2026-11-11T21:02:27",
+      "download_attempts": 0
+    },
+    "full_text": "忘穿内裤了 https://t.co/XOgkA6G11F",
+    "publish_time": "2026-11-11T20:51:10"
+  },
+  {
+    "tweet_id": "2120501767704301971",
+    "file_name": "HW2JHYbbsAAErTD.jpg",
+    "user": {
+      "screen_name": "seyiphotoman",
+      "name": "seyi色一📷"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HW2JHYbbsAAErTD.jpg",
+    "read_time": "2026-11-11T21:02:15",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 45971,
+      "timestamp": "2026-11-11T21:02:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-11T21:02:30",
+      "download_attempts": 0
+    },
+    "full_text": "汪汪队 立大功 👅 https://t.co/jzFpKf0jaE",
+    "publish_time": "2026-11-11T20:59:53"
   }
 ]
