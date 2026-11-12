@@ -197,7 +197,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (178.05MB > 50.00MB)",
       "timestamp": "2026-11-13T02:02:51",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -260,5 +260,57 @@
     },
     "full_text": "https://t.co/lJ60g16dZr",
     "publish_time": "2026-11-13T01:53:26"
+  },
+  {
+    "tweet_id": "2120944507671732689",
+    "file_name": "HW8bxpyWIAA9Wji.jpg",
+    "user": {
+      "screen_name": "fiMxsttolM12226",
+      "name": "黑子"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HW8bxpyWIAA9Wji.jpg",
+    "read_time": "2026-11-13T03:02:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46170,
+      "timestamp": "2026-11-13T03:02:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-13T03:02:51",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/bGfRY1WSiz",
+    "publish_time": "2026-11-13T02:19:10"
+  },
+  {
+    "tweet_id": "2120951761762722175",
+    "file_name": "HW8iYbHaMAAJe82.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HW8iYbHaMAAJe82.jpg",
+    "read_time": "2026-11-13T03:02:51",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46171,
+      "timestamp": "2026-11-13T03:02:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-11-13T03:02:53",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/eBw9bffCK4",
+    "publish_time": "2026-11-13T02:48:00"
   }
 ]
