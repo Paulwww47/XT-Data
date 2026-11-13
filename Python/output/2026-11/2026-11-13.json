@@ -3108,8 +3108,14 @@
     "url": "https://pbs.twimg.com/media/HXAFZoaaIAAmSe-.jpg",
     "read_time": "2026-11-13T20:02:03",
     "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": true,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "[Errno 2] No such file or directory: '../downloads/HXAFZoaaIAAmSe-.jpg'",
+      "timestamp": "2026-11-13T21:03:30",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
     "download_info": {
       "success": true,
       "size_mb": 0.15,
@@ -3130,8 +3136,14 @@
     "url": "https://pbs.twimg.com/media/HXAFZoibkAAi0UK.jpg",
     "read_time": "2026-11-13T20:02:03",
     "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": true,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "[Errno 2] No such file or directory: '../downloads/HXAFZoibkAAi0UK.jpg'",
+      "timestamp": "2026-11-13T21:03:30",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
     "download_info": {
       "success": true,
       "size_mb": 0.23,
@@ -3244,5 +3256,265 @@
     },
     "full_text": "被内射会感觉到精液烫烫的🥵🥵 https://t.co/riFQaypBSH",
     "publish_time": "2026-11-13T20:00:39"
+  },
+  {
+    "tweet_id": "2121214758649266672",
+    "file_name": "x8nRzbLjtfXh3BX9.mp4",
+    "user": {
+      "screen_name": "kaka_lac",
+      "name": "kaka"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2121214577828564992/vid/avc1/720x1280/x8nRzbLjtfXh3BX9.mp4?tag=29",
+    "read_time": "2026-11-13T21:03:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46285,
+      "timestamp": "2026-11-13T21:03:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 4.05,
+      "timestamp": "2026-11-13T21:03:31",
+      "download_attempts": 0
+    },
+    "full_text": "为了回馈广大粉丝对我的支持！凡是今天进我福利群🌹的将不收取任何费用，24h免费对我的粉丝们限时无门槛🏧进入，可观看所有完整视频和写真噢！\n 私信暗号： 66 注意素质\n进群电报私👉https://t.co/ztsrEH9pLv https://t.co/4Kw0STO7I4",
+    "publish_time": "2026-11-13T20:13:03"
+  },
+  {
+    "tweet_id": "2121215585606574175",
+    "file_name": "HXASVDebwAAefNR.jpg",
+    "user": {
+      "screen_name": "Cheesbaobao",
+      "name": "起司伯格"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXASVDebwAAefNR.jpg",
+    "read_time": "2026-11-13T21:03:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46286,
+      "timestamp": "2026-11-13T21:03:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-11-13T21:03:34",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/GG9H4XsBlN",
+    "publish_time": "2026-11-13T20:16:20"
+  },
+  {
+    "tweet_id": "2121215585606574175",
+    "file_name": "HXASVDeboAAsCDZ.jpg",
+    "user": {
+      "screen_name": "Cheesbaobao",
+      "name": "起司伯格"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXASVDeboAAsCDZ.jpg",
+    "read_time": "2026-11-13T21:03:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46287,
+      "timestamp": "2026-11-13T21:03:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-11-13T21:03:34",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/GG9H4XsBlN",
+    "publish_time": "2026-11-13T20:16:20"
+  },
+  {
+    "tweet_id": "2121217434552000846",
+    "file_name": "HXAUAi7WoAA5Xe7.jpg",
+    "user": {
+      "screen_name": "RYANMUYU",
+      "name": "Ryan🌈"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXAUAi7WoAA5Xe7.jpg",
+    "read_time": "2026-11-13T21:03:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46288,
+      "timestamp": "2026-11-13T21:03:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-13T21:03:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/dFYBCPeM9k",
+    "publish_time": "2026-11-13T20:23:41"
+  },
+  {
+    "tweet_id": "2121219622141870124",
+    "file_name": "Le5-CS34IFr8UbvF.mp4",
+    "user": {
+      "screen_name": "xhn1069",
+      "name": "路过"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2121218955943792640/vid/avc1/720x1280/Le5-CS34IFr8UbvF.mp4?tag=29",
+    "read_time": "2026-11-13T21:03:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46289,
+      "timestamp": "2026-11-13T21:03:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 4.99,
+      "timestamp": "2026-11-13T21:03:36",
+      "download_attempts": 0
+    },
+    "full_text": "cun\n有点色的那一次 #10 #轮 \n吃屌舔穴 https://t.co/2eh3lqitN4",
+    "publish_time": "2026-11-13T20:32:22"
+  },
+  {
+    "tweet_id": "2121219930045718725",
+    "file_name": "HXAWSF-bYAAr0Bu.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXAWSF-bYAAr0Bu.jpg",
+    "read_time": "2026-11-13T21:03:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46290,
+      "timestamp": "2026-11-13T21:03:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-13T21:03:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/qUsgFJavzF",
+    "publish_time": "2026-11-13T20:33:36"
+  },
+  {
+    "tweet_id": "2121220494628474990",
+    "file_name": "HXAWy8hbQAApsNU.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXAWy8hbQAApsNU.jpg",
+    "read_time": "2026-11-13T21:03:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46291,
+      "timestamp": "2026-11-13T21:03:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-11-13T21:03:39",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/C6QV5ma61c",
+    "publish_time": "2026-11-13T20:35:50"
+  },
+  {
+    "tweet_id": "2121221952849559796",
+    "file_name": "jFY-QCSbEAZGr6V5.mp4",
+    "user": {
+      "screen_name": "xudieS",
+      "name": "裸照永久储存处🖤"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2121221866610413568/vid/avc1/720x1280/jFY-QCSbEAZGr6V5.mp4?tag=29",
+    "read_time": "2026-11-13T21:03:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46292,
+      "timestamp": "2026-11-13T21:03:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.86,
+      "timestamp": "2026-11-13T21:03:40",
+      "download_attempts": 0
+    },
+    "full_text": "直男崇拜周末群https://t.co/j84mHFc6Qo jb小的也崇拜 https://t.co/SBeeKpr7mU",
+    "publish_time": "2026-11-13T20:41:38"
+  },
+  {
+    "tweet_id": "2121227071028605385",
+    "file_name": "HXAcr9EakAAes3g.jpg",
+    "user": {
+      "screen_name": "xudieS",
+      "name": "裸照永久储存处🖤"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXAcr9EakAAes3g.jpg",
+    "read_time": "2026-11-13T21:03:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46293,
+      "timestamp": "2026-11-13T21:03:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-13T21:03:41",
+      "download_attempts": 0
+    },
+    "full_text": "直男篮球体育生野爹的jb虽然不大，但是架不住又硬又有劲儿啊，一样可以把傻逼男同操的翻白眼\n\nhttps://t.co/j84mHFc6Qo一起意淫他进群，不发言会踢 https://t.co/Z1E8sinFQ8",
+    "publish_time": "2026-11-13T21:01:58"
+  },
+  {
+    "tweet_id": "2121227071028605385",
+    "file_name": "Y9yQUiF-nQY7_DLq.mp4",
+    "user": {
+      "screen_name": "xudieS",
+      "name": "裸照永久储存处🖤"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2121226965890007041/vid/avc1/544x960/Y9yQUiF-nQY7_DLq.mp4?tag=29",
+    "read_time": "2026-11-13T21:03:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46294,
+      "timestamp": "2026-11-13T21:03:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.84,
+      "timestamp": "2026-11-13T21:03:41",
+      "download_attempts": 0
+    },
+    "full_text": "直男篮球体育生野爹的jb虽然不大，但是架不住又硬又有劲儿啊，一样可以把傻逼男同操的翻白眼\n\nhttps://t.co/j84mHFc6Qo一起意淫他进群，不发言会踢 https://t.co/Z1E8sinFQ8",
+    "publish_time": "2026-11-13T21:01:58"
   }
 ]
