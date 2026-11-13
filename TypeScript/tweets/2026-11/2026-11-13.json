@@ -344,5 +344,19 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2121003313928011931",
     "fullText": "https://t.co/mFCgslvIUV",
     "publishTime": "2026-11-13T06:12:51"
+  },
+  {
+    "user": {
+      "screenName": "awses6",
+      "name": "awses"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HW9jluGaYAAcXhS.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/awses6/status/2121023464660484598",
+    "fullText": "https://t.co/Aw6bNjzD42",
+    "publishTime": "2026-11-13T07:32:55"
   }
 ]
