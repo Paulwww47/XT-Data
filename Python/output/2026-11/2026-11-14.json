@@ -206,5 +206,137 @@
     },
     "full_text": "当一真的好累好累 https://t.co/UR57JxuCHX",
     "publish_time": "2026-11-14T00:52:09"
+  },
+  {
+    "tweet_id": "2121287662971892189",
+    "file_name": "HXBT4JSaEAA_s6-.jpg",
+    "user": {
+      "screen_name": "MingZ902",
+      "name": "Rolex"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXBT4JSaEAA_s6-.jpg",
+    "read_time": "2026-11-14T02:02:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46335,
+      "timestamp": "2026-11-14T02:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.04,
+      "timestamp": "2026-11-14T02:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "想被… https://t.co/CFYuPF66rM",
+    "publish_time": "2026-11-14T01:02:45"
+  },
+  {
+    "tweet_id": "2121289556272300227",
+    "file_name": "PFCZEwLO3GqjBMlx.mp4",
+    "user": {
+      "screen_name": "zuoximuhao1111S",
+      "name": "佐夕木豪"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2121289204768616448/vid/avc1/1920x1080/PFCZEwLO3GqjBMlx.mp4?tag=29",
+    "read_time": "2026-11-14T02:02:21",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (69.34MB > 50.00MB)",
+      "timestamp": "2026-11-14T02:02:25",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 69.34,
+      "timestamp": "2026-11-14T02:02:25",
+      "download_attempts": 0
+    },
+    "full_text": "室友都在 我在床上穿着丝袜打飞机哈哈哈 标准上翘犀牛1鸡巴 没想到居然射到枕头上了！！ https://t.co/m7NoIUREQS",
+    "publish_time": "2026-11-14T01:10:16"
+  },
+  {
+    "tweet_id": "2121297102420816212",
+    "file_name": "HXBceCuaIAAWTy8.jpg",
+    "user": {
+      "screen_name": "rthurz",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXBceCuaIAAWTy8.jpg",
+    "read_time": "2026-11-14T02:02:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46336,
+      "timestamp": "2026-11-14T02:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-11-14T02:02:25",
+      "download_attempts": 0
+    },
+    "full_text": "รอยยิ้มกระชากจัยย https://t.co/3NXwGg9tFU",
+    "publish_time": "2026-11-14T01:40:15"
+  },
+  {
+    "tweet_id": "2121297102420816212",
+    "file_name": "HXBceCtbcAAN2Bd.jpg",
+    "user": {
+      "screen_name": "rthurz",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXBceCtbcAAN2Bd.jpg",
+    "read_time": "2026-11-14T02:02:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46337,
+      "timestamp": "2026-11-14T02:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-11-14T02:02:25",
+      "download_attempts": 0
+    },
+    "full_text": "รอยยิ้มกระชากจัยย https://t.co/3NXwGg9tFU",
+    "publish_time": "2026-11-14T01:40:15"
+  },
+  {
+    "tweet_id": "2121301128180904020",
+    "file_name": "yI1zd109LW8tkv63.mp4",
+    "user": {
+      "screen_name": "xiao57520",
+      "name": "翱哥备用机"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2121300510062055424/vid/avc1/720x1280/yI1zd109LW8tkv63.mp4?tag=29",
+    "read_time": "2026-11-14T02:02:21",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46338,
+      "timestamp": "2026-11-14T02:02:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 2.33,
+      "timestamp": "2026-11-14T02:02:27",
+      "download_attempts": 0
+    },
+    "full_text": "shot https://t.co/uKeM0VGQpi",
+    "publish_time": "2026-11-14T01:56:15"
   }
 ]
