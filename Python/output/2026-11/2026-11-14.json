@@ -2513,7 +2513,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (54.54MB > 50.00MB)",
       "timestamp": "2026-11-14T17:02:04",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -2732,5 +2732,239 @@
     },
     "full_text": "掀起你的盖头 https://t.co/EoXAzl0fPL",
     "publish_time": "2026-11-14T16:52:54"
+  },
+  {
+    "tweet_id": "2121529494238347732",
+    "file_name": "HXEv0oTWEAAvGKu.jpg",
+    "user": {
+      "screen_name": "lintthew",
+      "name": "Tobi"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXEv0oTWEAAvGKu.jpg",
+    "read_time": "2026-11-14T18:03:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46430,
+      "timestamp": "2026-11-14T18:03:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-11-14T18:03:30",
+      "download_attempts": 0
+    },
+    "full_text": "不加班行不行啊☹️ https://t.co/WIBcatQXlf",
+    "publish_time": "2026-11-14T17:03:42"
+  },
+  {
+    "tweet_id": "2121536248787750941",
+    "file_name": "HXE1-AbbkAAff7W.jpg",
+    "user": {
+      "screen_name": "17723966wer1",
+      "name": "jasper ✨"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXE1-AbbkAAff7W.jpg",
+    "read_time": "2026-11-14T18:03:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46431,
+      "timestamp": "2026-11-14T18:03:34"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.18,
+      "timestamp": "2026-11-14T18:03:32",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/lWYTJhiXsd",
+    "publish_time": "2026-11-14T17:30:32"
+  },
+  {
+    "tweet_id": "2121536724488835304",
+    "file_name": "-hpCZDoTRc3K74Z7.mp4",
+    "user": {
+      "screen_name": "liuweikeee",
+      "name": "维克"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2121536682399006720/vid/avc1/720x1280/-hpCZDoTRc3K74Z7.mp4?tag=29",
+    "read_time": "2026-11-14T18:03:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46432,
+      "timestamp": "2026-11-14T18:03:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 2.53,
+      "timestamp": "2026-11-14T18:03:34",
+      "download_attempts": 0
+    },
+    "full_text": "抖一抖😉 https://t.co/jpuBWVToSb",
+    "publish_time": "2026-11-14T17:32:26"
+  },
+  {
+    "tweet_id": "2121539089426264380",
+    "file_name": "HXE4jEcbYAAD1TQ.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXE4jEcbYAAD1TQ.jpg",
+    "read_time": "2026-11-14T18:03:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46433,
+      "timestamp": "2026-11-14T18:03:37"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.22,
+      "timestamp": "2026-11-14T18:03:36",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/09F43uC6j3",
+    "publish_time": "2026-11-14T17:41:49"
+  },
+  {
+    "tweet_id": "2121539159131357300",
+    "file_name": "HXE4nLsboAA-Nw1.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXE4nLsboAA-Nw1.jpg",
+    "read_time": "2026-11-14T18:03:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46434,
+      "timestamp": "2026-11-14T18:03:38"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-11-14T18:03:37",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/WL91Ibhq1n",
+    "publish_time": "2026-11-14T17:42:06"
+  },
+  {
+    "tweet_id": "2121540724844024318",
+    "file_name": "HXE6Ci9aYAAIq-9.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXE6Ci9aYAAIq-9.jpg",
+    "read_time": "2026-11-14T18:03:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46435,
+      "timestamp": "2026-11-14T18:03:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-11-14T18:03:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/0der1dbVtQ",
+    "publish_time": "2026-11-14T17:48:19"
+  },
+  {
+    "tweet_id": "2121542740974690743",
+    "file_name": "DwPFtR0pn6nqJKV-.mp4",
+    "user": {
+      "screen_name": "XXxLin18cn",
+      "name": "小林不小"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2121542720405819392/vid/avc1/1386x1848/DwPFtR0pn6nqJKV-.mp4?tag=29",
+    "read_time": "2026-11-14T18:03:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46436,
+      "timestamp": "2026-11-14T18:03:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.03,
+      "timestamp": "2026-11-14T18:03:39",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/1QkMIj3y4u",
+    "publish_time": "2026-11-14T17:56:20"
+  },
+  {
+    "tweet_id": "2121543439380840726",
+    "file_name": "HXE8geHbUAASU4f.jpg",
+    "user": {
+      "screen_name": "Mcsswest",
+      "name": "炸鸡爸爸"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXE8geHbUAASU4f.jpg",
+    "read_time": "2026-11-14T18:03:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46437,
+      "timestamp": "2026-11-14T18:03:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-14T18:03:41",
+      "download_attempts": 0
+    },
+    "full_text": "正面vs背面 https://t.co/T3fzOi0Io3",
+    "publish_time": "2026-11-14T17:59:06"
+  },
+  {
+    "tweet_id": "2121543439380840726",
+    "file_name": "HXE8ge-a4AAeZOe.jpg",
+    "user": {
+      "screen_name": "Mcsswest",
+      "name": "炸鸡爸爸"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXE8ge-a4AAeZOe.jpg",
+    "read_time": "2026-11-14T18:03:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46438,
+      "timestamp": "2026-11-14T18:03:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-14T18:03:41",
+      "download_attempts": 0
+    },
+    "full_text": "正面vs背面 https://t.co/T3fzOi0Io3",
+    "publish_time": "2026-11-14T17:59:06"
   }
 ]

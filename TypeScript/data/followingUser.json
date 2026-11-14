@@ -1659,7 +1659,7 @@
       "name": "起司伯格",
       "screenName": "Cheesbaobao",
       "createdAt": "Thu Feb 08 01:45:29 +0000 2024",
-      "description": "",
+      "description": "不想认识 不交朋友",
       "entities": {
         "description": {}
       },
@@ -4845,9 +4845,30 @@
       "name": "kaka",
       "screenName": "kaka_lac",
       "createdAt": "Wed Oct 18 18:29:53 +0000 2017",
-      "description": "",
+      "description": "电报：Ak_lac，情趣用品店：kaka carnal成人玩具店，会员群：https://t.co/cOe28r99l0，内衣店：他氏内衣集合店，会员群：https://t.co/1Y5bvGsvxL，防走丢：@kakalac_，咨询🌏:a12340984",
       "entities": {
-        "description": {},
+        "description": {
+          "urls": [
+            {
+              "display_url": "t.me/Kakacarnal",
+              "expanded_url": "https://t.me/Kakacarnal",
+              "indices": [
+                37,
+                60
+              ],
+              "url": "https://t.co/cOe28r99l0"
+            },
+            {
+              "display_url": "t.me/toxic_taobao",
+              "expanded_url": "https://t.me/toxic_taobao",
+              "indices": [
+                77,
+                100
+              ],
+              "url": "https://t.co/1Y5bvGsvxL"
+            }
+          ]
+        },
         "url": {
           "urls": [
             {
@@ -5290,7 +5311,7 @@
       "name": "1010",
       "screenName": "L1010R",
       "createdAt": "Mon Feb 02 04:15:13 +0000 2026",
-      "description": "🚪",
+      "description": "🚪只有这一个真号，其余为假号",
       "entities": {
         "description": {}
       },
@@ -5976,7 +5997,7 @@
       "name": "Lucas black",
       "screenName": "Lucas27701950",
       "createdAt": "Mon Jun 01 05:08:15 +0000 2020",
-      "description": "1️⃣  原味内裤定制  接寄拍\n优先处理交易的私信",
+      "description": "1️⃣  出🩲🧦  接寄拍  🚪可合作",
       "entities": {
         "description": {}
       },
@@ -10436,7 +10457,7 @@
       "name": "小林不小",
       "screenName": "XXxLin18cn",
       "createdAt": "Fri May 15 09:18:37 +0000 2026",
-      "description": "仅此一号，没有小号，谨防受骗",
+      "description": "仅此一号，没有小号，谨防受骗\n（非抖粉勿扰）\n不约，不要打听我在哪个城市，再问拉黑",
       "entities": {
         "description": {}
       },
