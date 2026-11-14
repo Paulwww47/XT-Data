@@ -3815,7 +3815,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (57.99MB > 50.00MB)",
       "timestamp": "2026-11-14T23:02:13",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -3982,5 +3982,85 @@
     },
     "full_text": "尖叫吧粉丝们福利来了 https://t.co/CR3Ew1xwCu",
     "publish_time": "2026-11-14T22:45:31"
+  },
+  {
+    "tweet_id": "2121621102241906694",
+    "file_name": "HXGDJU9a4AE8ZWE.jpg",
+    "user": {
+      "screen_name": "SahuanerdeDD",
+      "name": "酷酷的丁"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXGDJU9a4AE8ZWE.jpg",
+    "read_time": "2026-11-15T00:02:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46477,
+      "timestamp": "2026-11-15T00:02:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.17,
+      "timestamp": "2026-11-15T00:02:08",
+      "download_attempts": 0
+    },
+    "full_text": "最近这个好火 https://t.co/YYvY66H3Dt",
+    "publish_time": "2026-11-14T23:07:43"
+  },
+  {
+    "tweet_id": "2121623326074540343",
+    "file_name": "HXGFEzQbIAAiErT.jpg",
+    "user": {
+      "screen_name": "Lucas27701950",
+      "name": "Lucas black"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXGFEzQbIAAiErT.jpg",
+    "read_time": "2026-11-15T00:02:08",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46478,
+      "timestamp": "2026-11-15T00:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-11-15T00:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "卧槽 骚逼  爸爸又骚了  自己坐上来骚逼！\n自己来找爸爸拿视频🚪 https://t.co/tm6D9nbswf",
+    "publish_time": "2026-11-14T23:16:33"
+  },
+  {
+    "tweet_id": "2121628461827789143",
+    "file_name": "KISJUgrkkL_KIlCk.mp4",
+    "user": {
+      "screen_name": "c558668",
+      "name": "0m"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2121616805416574977/vid/avc1/720x1280/KISJUgrkkL_KIlCk.mp4?tag=29",
+    "read_time": "2026-11-15T00:02:08",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (71.43MB > 50.00MB)",
+      "timestamp": "2026-11-15T00:02:18",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 71.43,
+      "timestamp": "2026-11-15T00:02:18",
+      "download_attempts": 0
+    },
+    "full_text": "过🚪主页渠道私信 https://t.co/Zmk4udon0D",
+    "publish_time": "2026-11-14T23:36:57"
   }
 ]
