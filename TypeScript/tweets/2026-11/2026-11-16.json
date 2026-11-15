@@ -154,5 +154,46 @@
     "tweetUrl": "https://x.com/jaecitoooo/status/2122068661729128832",
     "fullText": "I'm pretty depressed",
     "publishTime": "2026-11-16T04:46:09"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXMeeoRbgAEnCbo.jpg",
+      "https://pbs.twimg.com/media/HXMeeohbwAAc4C2.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2122073376214929533",
+    "fullText": "imsondang https://t.co/SlZscCcONo",
+    "publishTime": "2026-11-16T05:04:53"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXMelb0bkAAVpwg.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2122073494569828507",
+    "fullText": "https://t.co/2r9VfI38lS",
+    "publishTime": "2026-11-16T05:05:21"
+  },
+  {
+    "user": {
+      "screenName": "jaecitoooo",
+      "name": "jae"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/jaecitoooo/status/2122084265743831519",
+    "fullText": "I did something really bad to my bf and he's mad at me and I'm sad for that",
+    "publishTime": "2026-11-16T05:48:10"
   }
 ]
