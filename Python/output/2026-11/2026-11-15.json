@@ -3499,7 +3499,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (71.88MB > 50.00MB)",
       "timestamp": "2026-11-15T17:02:08",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -3510,5 +3510,83 @@
     },
     "full_text": "《Still Here 🖤》EP-08 ！— Noah was in sunny Saturday;and Liam was in rain, so they were in three years apart again 😭 Thank Creator @bflabx ： EP-09 &amp; EP-10 Early access now on his membership Patreon 👉see 回复\n https://t.co/lwrcsE6oXQ",
     "publish_time": "2026-11-15T16:56:31"
+  },
+  {
+    "tweet_id": "2121892059317776679",
+    "file_name": "4igUFFVtTRZBDiIg.mp4",
+    "user": {
+      "screen_name": "heichai6666",
+      "name": "黑柴"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2121892025452896256/vid/avc1/720x960/4igUFFVtTRZBDiIg.mp4?tag=29",
+    "read_time": "2026-11-15T18:02:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46613,
+      "timestamp": "2026-11-15T18:02:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.83,
+      "timestamp": "2026-11-15T18:02:28",
+      "download_attempts": 0
+    },
+    "full_text": "第四发 https://t.co/85lkewI5O1",
+    "publish_time": "2026-11-15T17:04:24"
+  },
+  {
+    "tweet_id": "2121896648209203467",
+    "file_name": "phTlFRqNSQJCCZqf.mp4",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2121896556186267648/vid/avc1/1054x1850/phTlFRqNSQJCCZqf.mp4?tag=29",
+    "read_time": "2026-11-15T18:02:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46614,
+      "timestamp": "2026-11-15T18:02:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 15.31,
+      "timestamp": "2026-11-15T18:02:31",
+      "download_attempts": 0
+    },
+    "full_text": "•\nMoon in 👉\n\n推特/X @octobersunymoon https://t.co/RECitIAPwE",
+    "publish_time": "2026-11-15T17:22:38"
+  },
+  {
+    "tweet_id": "2121898070476722410",
+    "file_name": "HXJ_BtubwAAeONo.jpg",
+    "user": {
+      "screen_name": "MrShan001",
+      "name": "Mr.Shan大山"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXJ_BtubwAAeONo.jpg",
+    "read_time": "2026-11-15T18:02:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46615,
+      "timestamp": "2026-11-15T18:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.16,
+      "timestamp": "2026-11-15T18:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/PlfVXFr1qk",
+    "publish_time": "2026-11-15T17:28:17"
   }
 ]
