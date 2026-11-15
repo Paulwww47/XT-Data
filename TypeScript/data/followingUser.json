@@ -4083,14 +4083,14 @@
   {
     "restId": "1699191166858825728",
     "legacy": {
-      "name": "Captain",
+      "name": "黑頭隊長",
       "screenName": "iamcaptainbrat",
       "createdAt": "Tue Sep 05 22:42:11 +0000 2023",
-      "description": "😚更多請直接私信💗",
+      "description": "😚更多請直接私訊我 dm for more 🪂",
       "entities": {
         "description": {}
       },
-      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1699191166858825728/1787961615",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1699191166858825728/1794709229",
       "profileImageUrlHttps": ""
     }
   },
@@ -5548,7 +5548,7 @@
       "name": "亮拐",
       "screenName": "liangguai1",
       "createdAt": "Tue Oct 01 01:18:15 +0000 2019",
-      "description": "ins:liangguai🚪+v",
+      "description": "ins:liangguai",
       "entities": {
         "description": {}
       },
@@ -8951,7 +8951,20 @@
       "createdAt": "Tue Oct 04 02:46:02 +0000 2022",
       "description": "BIBLICAL",
       "entities": {
-        "description": {}
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/is.sh.ek",
+              "expanded_url": "http://instagram.com/is.sh.ek",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wx3MuSt02X"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1577127831758594048/1793731081",
       "profileImageUrlHttps": ""
