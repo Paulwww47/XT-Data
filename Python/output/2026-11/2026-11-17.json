@@ -570,5 +570,83 @@
     },
     "full_text": "一个月胖了15斤😢 https://t.co/GQdfWyrkBD",
     "publish_time": "2026-11-17T03:56:54"
+  },
+  {
+    "tweet_id": "2122420180039225629",
+    "file_name": "HXRZ5w3a0AAK27t.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXRZ5w3a0AAK27t.jpg",
+    "read_time": "2026-11-17T05:02:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46828,
+      "timestamp": "2026-11-17T05:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-11-17T05:02:10",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/rocRtAXKWo",
+    "publish_time": "2026-11-17T04:02:58"
+  },
+  {
+    "tweet_id": "2122430693154193635",
+    "file_name": "nkPrmMbMiNoNvohZ.mp4",
+    "user": {
+      "screen_name": "jaecitoooo",
+      "name": "jae"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2122430632181600256/vid/avc1/720x1280/nkPrmMbMiNoNvohZ.mp4?tag=29",
+    "read_time": "2026-11-17T05:02:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46829,
+      "timestamp": "2026-11-17T05:02:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 4.25,
+      "timestamp": "2026-11-17T05:02:12",
+      "download_attempts": 0
+    },
+    "full_text": "Last weekend https://t.co/XFKkUg5Fav",
+    "publish_time": "2026-11-17T04:44:44"
+  },
+  {
+    "tweet_id": "2122430693154193635",
+    "file_name": "8dRZFesGgtLKXnHQ.mp4",
+    "user": {
+      "screen_name": "jaecitoooo",
+      "name": "jae"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2122430632147951616/vid/avc1/720x1280/8dRZFesGgtLKXnHQ.mp4?tag=29",
+    "read_time": "2026-11-17T05:02:09",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 46830,
+      "timestamp": "2026-11-17T05:02:18"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 4.75,
+      "timestamp": "2026-11-17T05:02:13",
+      "download_attempts": 0
+    },
+    "full_text": "Last weekend https://t.co/XFKkUg5Fav",
+    "publish_time": "2026-11-17T04:44:44"
   }
 ]
