@@ -2323,6 +2323,20 @@
     }
   },
   {
+    "restId": "3309334908",
+    "legacy": {
+      "name": "Dipper君",
+      "screenName": "Dipperiin",
+      "createdAt": "Sat Aug 08 06:16:27 +0000 2015",
+      "description": "ig：dipperiin 178-81-16 1 超级吃货 厨艺还OK👨‍🍳 最近想试试👩‍🌾🐮",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3309334908/1574627457",
+      "profileImageUrlHttps": ""
+    }
+  },
+  {
     "restId": "2002599577757888512",
     "legacy": {
       "name": "Divo",
@@ -6855,7 +6869,7 @@
       "name": "C",
       "screenName": "Natiechch",
       "createdAt": "Wed Feb 11 22:25:34 +0000 2026",
-      "description": "🚪🩲",
+      "description": "🚪",
       "entities": {
         "description": {}
       },
