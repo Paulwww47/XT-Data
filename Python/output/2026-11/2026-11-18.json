@@ -269,19 +269,17 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HXVsKJubkAAfAoP.jpg",
     "read_time": "2026-11-18T01:02:13",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "[Errno 2] No such file or directory: '../downloads/HXVsKJubkAAfAoP.jpg'",
-      "timestamp": "2026-11-18T03:02:17",
-      "notification_sent": false
+      "success": true,
+      "message_id": 47036,
+      "timestamp": "2026-11-18T04:02:24"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size_mb": 0.18,
-      "timestamp": "2026-11-18T01:02:15",
+      "timestamp": "2026-11-18T04:02:20",
       "download_attempts": 0
     },
     "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
@@ -297,19 +295,17 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HXVsKJwbUAARHVR.jpg",
     "read_time": "2026-11-18T01:02:13",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "[Errno 2] No such file or directory: '../downloads/HXVsKJwbUAARHVR.jpg'",
-      "timestamp": "2026-11-18T03:02:17",
-      "notification_sent": false
+      "success": true,
+      "message_id": 47037,
+      "timestamp": "2026-11-18T04:02:24"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size_mb": 0.21,
-      "timestamp": "2026-11-18T01:02:15",
+      "timestamp": "2026-11-18T04:02:20",
       "download_attempts": 0
     },
     "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
@@ -325,19 +321,17 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HXVsKJ0bAAAaUXw.jpg",
     "read_time": "2026-11-18T01:02:13",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "[Errno 2] No such file or directory: '../downloads/HXVsKJ0bAAAaUXw.jpg'",
-      "timestamp": "2026-11-18T03:02:17",
-      "notification_sent": false
+      "success": true,
+      "message_id": 47038,
+      "timestamp": "2026-11-18T04:02:24"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size_mb": 0.16,
-      "timestamp": "2026-11-18T01:02:15",
+      "timestamp": "2026-11-18T04:02:20",
       "download_attempts": 0
     },
     "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
@@ -353,19 +347,17 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HXVsKJyaMAAMKM8.jpg",
     "read_time": "2026-11-18T01:02:13",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "[Errno 2] No such file or directory: '../downloads/HXVsKJyaMAAMKM8.jpg'",
-      "timestamp": "2026-11-18T03:02:17",
-      "notification_sent": false
+      "success": true,
+      "message_id": 47039,
+      "timestamp": "2026-11-18T04:02:24"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size_mb": 0.16,
-      "timestamp": "2026-11-18T01:02:15",
+      "timestamp": "2026-11-18T04:02:20",
       "download_attempts": 0
     },
     "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
@@ -381,19 +373,17 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HXVsKJzbsAEnBIs.jpg",
     "read_time": "2026-11-18T01:02:13",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "[Errno 2] No such file or directory: '../downloads/HXVsKJzbsAEnBIs.jpg'",
-      "timestamp": "2026-11-18T03:02:17",
-      "notification_sent": false
+      "success": true,
+      "message_id": 47040,
+      "timestamp": "2026-11-18T04:02:24"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size_mb": 0.19,
-      "timestamp": "2026-11-18T01:02:15",
+      "timestamp": "2026-11-18T04:02:20",
       "download_attempts": 0
     },
     "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
@@ -409,19 +399,17 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HXVsKJ3acAAUIz3.jpg",
     "read_time": "2026-11-18T01:02:13",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "[Errno 2] No such file or directory: '../downloads/HXVsKJ3acAAUIz3.jpg'",
-      "timestamp": "2026-11-18T03:02:17",
-      "notification_sent": false
+      "success": true,
+      "message_id": 47041,
+      "timestamp": "2026-11-18T04:02:24"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size_mb": 0.18,
-      "timestamp": "2026-11-18T01:02:15",
+      "timestamp": "2026-11-18T04:02:20",
       "download_attempts": 0
     },
     "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
@@ -437,19 +425,17 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HXVsKJ0bYAAUP7O.jpg",
     "read_time": "2026-11-18T01:02:13",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "[Errno 2] No such file or directory: '../downloads/HXVsKJ0bYAAUP7O.jpg'",
-      "timestamp": "2026-11-18T03:02:17",
-      "notification_sent": false
+      "success": true,
+      "message_id": 47042,
+      "timestamp": "2026-11-18T04:02:24"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size_mb": 0.11,
-      "timestamp": "2026-11-18T01:02:15",
+      "timestamp": "2026-11-18T04:02:20",
       "download_attempts": 0
     },
     "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
@@ -465,19 +451,17 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HXVsKJybgAAnL6T.jpg",
     "read_time": "2026-11-18T01:02:13",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "[Errno 2] No such file or directory: '../downloads/HXVsKJybgAAnL6T.jpg'",
-      "timestamp": "2026-11-18T03:02:17",
-      "notification_sent": false
+      "success": true,
+      "message_id": 47043,
+      "timestamp": "2026-11-18T04:02:24"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size_mb": 0.17,
-      "timestamp": "2026-11-18T01:02:15",
+      "timestamp": "2026-11-18T04:02:21",
       "download_attempts": 0
     },
     "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
@@ -493,19 +477,17 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HXVsKJ1bEAALgDs.jpg",
     "read_time": "2026-11-18T01:02:13",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "[Errno 2] No such file or directory: '../downloads/HXVsKJ1bEAALgDs.jpg'",
-      "timestamp": "2026-11-18T03:02:17",
-      "notification_sent": false
+      "success": true,
+      "message_id": 47044,
+      "timestamp": "2026-11-18T04:02:24"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size_mb": 0.09,
-      "timestamp": "2026-11-18T01:02:15",
+      "timestamp": "2026-11-18T04:02:21",
       "download_attempts": 0
     },
     "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
@@ -521,19 +503,17 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HXVsKJzbsAAaKk3.jpg",
     "read_time": "2026-11-18T01:02:13",
-    "is_uploaded": false,
+    "is_uploaded": true,
     "upload_info": {
-      "success": false,
-      "error_type": "api_error",
-      "message": "[Errno 2] No such file or directory: '../downloads/HXVsKJzbsAAaKk3.jpg'",
-      "timestamp": "2026-11-18T03:02:17",
-      "notification_sent": false
+      "success": true,
+      "message_id": 47045,
+      "timestamp": "2026-11-18T04:02:24"
     },
-    "is_downloaded": false,
+    "is_downloaded": true,
     "download_info": {
       "success": true,
       "size_mb": 0.17,
-      "timestamp": "2026-11-18T01:02:16",
+      "timestamp": "2026-11-18T04:02:21",
       "download_attempts": 0
     },
     "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
