@@ -1237,7 +1237,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (168.80MB > 50.00MB)",
       "timestamp": "2026-11-18T06:08:36",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -1248,5 +1248,31 @@
     },
     "full_text": "MISTER INTERNATIONAL THAILAND 2026 | SWIMSUIT COMPETITION 泰国国际先生秀的泳装项目全部选手大合集：21:13 https://t.co/c2j5Xckntn",
     "publish_time": "2026-11-18T05:53:33"
+  },
+  {
+    "tweet_id": "2122821142981542095",
+    "file_name": "HXXGjyXaEAAkCxz.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXXGjyXaEAAkCxz.jpg",
+    "read_time": "2026-11-18T07:01:58",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47055,
+      "timestamp": "2026-11-18T07:02:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-18T07:01:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Eic0J6wr8U",
+    "publish_time": "2026-11-18T06:36:15"
   }
 ]
