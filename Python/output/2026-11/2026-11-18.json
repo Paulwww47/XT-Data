@@ -270,8 +270,14 @@
     "url": "https://pbs.twimg.com/media/HXVsKJubkAAfAoP.jpg",
     "read_time": "2026-11-18T01:02:13",
     "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": true,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "[Errno 2] No such file or directory: '../downloads/HXVsKJubkAAfAoP.jpg'",
+      "timestamp": "2026-11-18T03:02:17",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
     "download_info": {
       "success": true,
       "size_mb": 0.18,
@@ -292,8 +298,14 @@
     "url": "https://pbs.twimg.com/media/HXVsKJwbUAARHVR.jpg",
     "read_time": "2026-11-18T01:02:13",
     "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": true,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "[Errno 2] No such file or directory: '../downloads/HXVsKJwbUAARHVR.jpg'",
+      "timestamp": "2026-11-18T03:02:17",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
     "download_info": {
       "success": true,
       "size_mb": 0.21,
@@ -314,8 +326,14 @@
     "url": "https://pbs.twimg.com/media/HXVsKJ0bAAAaUXw.jpg",
     "read_time": "2026-11-18T01:02:13",
     "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": true,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "[Errno 2] No such file or directory: '../downloads/HXVsKJ0bAAAaUXw.jpg'",
+      "timestamp": "2026-11-18T03:02:17",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
     "download_info": {
       "success": true,
       "size_mb": 0.16,
@@ -336,8 +354,14 @@
     "url": "https://pbs.twimg.com/media/HXVsKJyaMAAMKM8.jpg",
     "read_time": "2026-11-18T01:02:13",
     "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": true,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "[Errno 2] No such file or directory: '../downloads/HXVsKJyaMAAMKM8.jpg'",
+      "timestamp": "2026-11-18T03:02:17",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
     "download_info": {
       "success": true,
       "size_mb": 0.16,
@@ -358,8 +382,14 @@
     "url": "https://pbs.twimg.com/media/HXVsKJzbsAEnBIs.jpg",
     "read_time": "2026-11-18T01:02:13",
     "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": true,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "[Errno 2] No such file or directory: '../downloads/HXVsKJzbsAEnBIs.jpg'",
+      "timestamp": "2026-11-18T03:02:17",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
     "download_info": {
       "success": true,
       "size_mb": 0.19,
@@ -380,8 +410,14 @@
     "url": "https://pbs.twimg.com/media/HXVsKJ3acAAUIz3.jpg",
     "read_time": "2026-11-18T01:02:13",
     "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": true,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "[Errno 2] No such file or directory: '../downloads/HXVsKJ3acAAUIz3.jpg'",
+      "timestamp": "2026-11-18T03:02:17",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
     "download_info": {
       "success": true,
       "size_mb": 0.18,
@@ -402,8 +438,14 @@
     "url": "https://pbs.twimg.com/media/HXVsKJ0bYAAUP7O.jpg",
     "read_time": "2026-11-18T01:02:13",
     "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": true,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "[Errno 2] No such file or directory: '../downloads/HXVsKJ0bYAAUP7O.jpg'",
+      "timestamp": "2026-11-18T03:02:17",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
     "download_info": {
       "success": true,
       "size_mb": 0.11,
@@ -424,8 +466,14 @@
     "url": "https://pbs.twimg.com/media/HXVsKJybgAAnL6T.jpg",
     "read_time": "2026-11-18T01:02:13",
     "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": true,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "[Errno 2] No such file or directory: '../downloads/HXVsKJybgAAnL6T.jpg'",
+      "timestamp": "2026-11-18T03:02:17",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
     "download_info": {
       "success": true,
       "size_mb": 0.17,
@@ -446,8 +494,14 @@
     "url": "https://pbs.twimg.com/media/HXVsKJ1bEAALgDs.jpg",
     "read_time": "2026-11-18T01:02:13",
     "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": true,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "[Errno 2] No such file or directory: '../downloads/HXVsKJ1bEAALgDs.jpg'",
+      "timestamp": "2026-11-18T03:02:17",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
     "download_info": {
       "success": true,
       "size_mb": 0.09,
@@ -468,8 +522,14 @@
     "url": "https://pbs.twimg.com/media/HXVsKJzbsAAaKk3.jpg",
     "read_time": "2026-11-18T01:02:13",
     "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": true,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "[Errno 2] No such file or directory: '../downloads/HXVsKJzbsAAaKk3.jpg'",
+      "timestamp": "2026-11-18T03:02:17",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
     "download_info": {
       "success": true,
       "size_mb": 0.17,
@@ -764,5 +824,187 @@
     },
     "full_text": "Me and who https://t.co/ktVR7bfw9c",
     "publish_time": "2026-11-18T01:56:23"
+  },
+  {
+    "tweet_id": "2122753084292317374",
+    "file_name": "Z0wzOAmwsXPRmR8k.mp4",
+    "user": {
+      "screen_name": "XiaoshengwudiS",
+      "name": "陈大圣"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2122753013345595392/vid/avc1/1280x720/Z0wzOAmwsXPRmR8k.mp4?tag=29",
+    "read_time": "2026-11-18T03:02:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47029,
+      "timestamp": "2026-11-18T03:02:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 2.46,
+      "timestamp": "2026-11-18T03:02:17",
+      "download_attempts": 0
+    },
+    "full_text": "棒子地里 https://t.co/VfrIl4XKHm",
+    "publish_time": "2026-11-18T02:05:48"
+  },
+  {
+    "tweet_id": "2122755757674471504",
+    "file_name": "HXWLGmybgAAeQmM.jpg",
+    "user": {
+      "screen_name": "luoyi186",
+      "name": "自由的鱼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXWLGmybgAAeQmM.jpg",
+    "read_time": "2026-11-18T03:02:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47030,
+      "timestamp": "2026-11-18T03:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-18T03:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "难得失眠… 那就和一起失眠的一块欣赏….#单男 #绿主 #多人 #夫妻 #情侣 #南京 #泰州 #无锡 #苏州 #常州 #扬州 #杭州 #南通 https://t.co/dLvJLVtbPR",
+    "publish_time": "2026-11-18T02:16:26"
+  },
+  {
+    "tweet_id": "2122755757674471504",
+    "file_name": "HXWLGnMawAAN6HQ.jpg",
+    "user": {
+      "screen_name": "luoyi186",
+      "name": "自由的鱼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXWLGnMawAAN6HQ.jpg",
+    "read_time": "2026-11-18T03:02:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47031,
+      "timestamp": "2026-11-18T03:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-18T03:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "难得失眠… 那就和一起失眠的一块欣赏….#单男 #绿主 #多人 #夫妻 #情侣 #南京 #泰州 #无锡 #苏州 #常州 #扬州 #杭州 #南通 https://t.co/dLvJLVtbPR",
+    "publish_time": "2026-11-18T02:16:26"
+  },
+  {
+    "tweet_id": "2122755757674471504",
+    "file_name": "HXWLGm2aIAAPKK4.jpg",
+    "user": {
+      "screen_name": "luoyi186",
+      "name": "自由的鱼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXWLGm2aIAAPKK4.jpg",
+    "read_time": "2026-11-18T03:02:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47032,
+      "timestamp": "2026-11-18T03:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-18T03:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "难得失眠… 那就和一起失眠的一块欣赏….#单男 #绿主 #多人 #夫妻 #情侣 #南京 #泰州 #无锡 #苏州 #常州 #扬州 #杭州 #南通 https://t.co/dLvJLVtbPR",
+    "publish_time": "2026-11-18T02:16:26"
+  },
+  {
+    "tweet_id": "2122755757674471504",
+    "file_name": "HXWLGm-aUAANZKz.jpg",
+    "user": {
+      "screen_name": "luoyi186",
+      "name": "自由的鱼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXWLGm-aUAANZKz.jpg",
+    "read_time": "2026-11-18T03:02:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47033,
+      "timestamp": "2026-11-18T03:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.19,
+      "timestamp": "2026-11-18T03:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "难得失眠… 那就和一起失眠的一块欣赏….#单男 #绿主 #多人 #夫妻 #情侣 #南京 #泰州 #无锡 #苏州 #常州 #扬州 #杭州 #南通 https://t.co/dLvJLVtbPR",
+    "publish_time": "2026-11-18T02:16:26"
+  },
+  {
+    "tweet_id": "2122762230026694871",
+    "file_name": "HXWQ-4XbwAAvRPr.jpg",
+    "user": {
+      "screen_name": "Hesinnng",
+      "name": "和大人"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXWQ-4XbwAAvRPr.jpg",
+    "read_time": "2026-11-18T03:02:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47034,
+      "timestamp": "2026-11-18T03:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-18T03:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "是不是说乳头的位置越下..说明胸越大（？） https://t.co/Rea2taYiyD",
+    "publish_time": "2026-11-18T02:42:09"
+  },
+  {
+    "tweet_id": "2122764536096928135",
+    "file_name": "HXWTF3qbMAAffyT.jpg",
+    "user": {
+      "screen_name": "yyuer0",
+      "name": "无限感"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXWTF3qbMAAffyT.jpg",
+    "read_time": "2026-11-18T03:02:17",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47035,
+      "timestamp": "2026-11-18T03:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-11-18T03:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "do完睡觉睡觉 https://t.co/RdspXtlwza",
+    "publish_time": "2026-11-18T02:51:19"
   }
 ]
