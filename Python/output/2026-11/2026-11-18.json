@@ -1,0 +1,754 @@
+[
+  {
+    "tweet_id": "2122721741822984507",
+    "file_name": "HXVsKJuasAAi6Qq.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVsKJuasAAi6Qq.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2026-11-18T01:02:36",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.31,
+      "timestamp": "2026-11-18T01:02:13",
+      "download_attempts": 0
+    },
+    "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
+    "publish_time": "2026-11-18T00:01:16"
+  },
+  {
+    "tweet_id": "2122721741822984507",
+    "file_name": "HXVsKJ8aEAAq9VD.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVsKJ8aEAAq9VD.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2026-11-18T01:02:36",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.29,
+      "timestamp": "2026-11-18T01:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
+    "publish_time": "2026-11-18T00:01:16"
+  },
+  {
+    "tweet_id": "2122721741822984507",
+    "file_name": "HXVsKJpaYAAdJ1C.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVsKJpaYAAdJ1C.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2026-11-18T01:02:36",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.23,
+      "timestamp": "2026-11-18T01:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
+    "publish_time": "2026-11-18T00:01:16"
+  },
+  {
+    "tweet_id": "2122721741822984507",
+    "file_name": "HXVsKJ0aoAAAykS.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVsKJ0aoAAAykS.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2026-11-18T01:02:36",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.23,
+      "timestamp": "2026-11-18T01:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
+    "publish_time": "2026-11-18T00:01:16"
+  },
+  {
+    "tweet_id": "2122721741822984507",
+    "file_name": "HXVsKJ2aIAAiTo1.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVsKJ2aIAAiTo1.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2026-11-18T01:02:36",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-11-18T01:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
+    "publish_time": "2026-11-18T00:01:16"
+  },
+  {
+    "tweet_id": "2122721741822984507",
+    "file_name": "HXVsKJuacAALGln.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVsKJuacAALGln.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2026-11-18T01:02:36",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-11-18T01:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
+    "publish_time": "2026-11-18T00:01:16"
+  },
+  {
+    "tweet_id": "2122721741822984507",
+    "file_name": "HXVsKJxbIAAA8yB.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVsKJxbIAAA8yB.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2026-11-18T01:02:36",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.25,
+      "timestamp": "2026-11-18T01:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
+    "publish_time": "2026-11-18T00:01:16"
+  },
+  {
+    "tweet_id": "2122721741822984507",
+    "file_name": "HXVsKJ3bgAAY1jZ.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVsKJ3bgAAY1jZ.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2026-11-18T01:02:36",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-11-18T01:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
+    "publish_time": "2026-11-18T00:01:16"
+  },
+  {
+    "tweet_id": "2122721741822984507",
+    "file_name": "HXVsKJya8AAg3py.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVsKJya8AAg3py.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2026-11-18T01:02:36",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-11-18T01:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
+    "publish_time": "2026-11-18T00:01:16"
+  },
+  {
+    "tweet_id": "2122721741822984507",
+    "file_name": "HXVsKJwaMAA7bHh.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVsKJwaMAA7bHh.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2026-11-18T01:02:36",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.17,
+      "timestamp": "2026-11-18T01:02:14",
+      "download_attempts": 0
+    },
+    "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
+    "publish_time": "2026-11-18T00:01:16"
+  },
+  {
+    "tweet_id": "2122721741822984507",
+    "file_name": "HXVsKJubkAAfAoP.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVsKJubkAAfAoP.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.18,
+      "timestamp": "2026-11-18T01:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
+    "publish_time": "2026-11-18T00:01:16"
+  },
+  {
+    "tweet_id": "2122721741822984507",
+    "file_name": "HXVsKJwbUAARHVR.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVsKJwbUAARHVR.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.21,
+      "timestamp": "2026-11-18T01:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
+    "publish_time": "2026-11-18T00:01:16"
+  },
+  {
+    "tweet_id": "2122721741822984507",
+    "file_name": "HXVsKJ0bAAAaUXw.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVsKJ0bAAAaUXw.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.16,
+      "timestamp": "2026-11-18T01:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
+    "publish_time": "2026-11-18T00:01:16"
+  },
+  {
+    "tweet_id": "2122721741822984507",
+    "file_name": "HXVsKJyaMAAMKM8.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVsKJyaMAAMKM8.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.16,
+      "timestamp": "2026-11-18T01:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
+    "publish_time": "2026-11-18T00:01:16"
+  },
+  {
+    "tweet_id": "2122721741822984507",
+    "file_name": "HXVsKJzbsAEnBIs.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVsKJzbsAEnBIs.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.19,
+      "timestamp": "2026-11-18T01:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
+    "publish_time": "2026-11-18T00:01:16"
+  },
+  {
+    "tweet_id": "2122721741822984507",
+    "file_name": "HXVsKJ3acAAUIz3.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVsKJ3acAAUIz3.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.18,
+      "timestamp": "2026-11-18T01:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
+    "publish_time": "2026-11-18T00:01:16"
+  },
+  {
+    "tweet_id": "2122721741822984507",
+    "file_name": "HXVsKJ0bYAAUP7O.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVsKJ0bYAAUP7O.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-18T01:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
+    "publish_time": "2026-11-18T00:01:16"
+  },
+  {
+    "tweet_id": "2122721741822984507",
+    "file_name": "HXVsKJybgAAnL6T.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVsKJybgAAnL6T.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.17,
+      "timestamp": "2026-11-18T01:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
+    "publish_time": "2026-11-18T00:01:16"
+  },
+  {
+    "tweet_id": "2122721741822984507",
+    "file_name": "HXVsKJ1bEAALgDs.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVsKJ1bEAALgDs.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-11-18T01:02:15",
+      "download_attempts": 0
+    },
+    "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
+    "publish_time": "2026-11-18T00:01:16"
+  },
+  {
+    "tweet_id": "2122721741822984507",
+    "file_name": "HXVsKJzbsAAaKk3.jpg",
+    "user": {
+      "screen_name": "zmore77",
+      "name": "灼"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVsKJzbsAAaKk3.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.17,
+      "timestamp": "2026-11-18T01:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "终于不是只能发四张图了 https://t.co/x5KP2o7Rp9",
+    "publish_time": "2026-11-18T00:01:16"
+  },
+  {
+    "tweet_id": "2122723070909751716",
+    "file_name": "HXVtYIAaUAAJ3OO.jpg",
+    "user": {
+      "screen_name": "liuweikeee",
+      "name": "维克"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVtYIAaUAAJ3OO.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2026-11-18T01:02:57",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.2,
+      "timestamp": "2026-11-18T01:02:37",
+      "download_attempts": 0
+    },
+    "full_text": "夜深了，来吧🖕🏻 https://t.co/ahykIwaRFT",
+    "publish_time": "2026-11-18T00:06:33"
+  },
+  {
+    "tweet_id": "2122724981432049958",
+    "file_name": "5sxLqqglZdDasfZG.mp4",
+    "user": {
+      "screen_name": "mmmmqaz1",
+      "name": "X-M"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2122724796698075136/vid/avc1/1080x1920/5sxLqqglZdDasfZG.mp4?tag=29",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2026-11-18T01:03:19",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 11.09,
+      "timestamp": "2026-11-18T01:02:58",
+      "download_attempts": 0
+    },
+    "full_text": "精液を排出する短い動画 https://t.co/UFSdF2gxDB",
+    "publish_time": "2026-11-18T00:14:08"
+  },
+  {
+    "tweet_id": "2122727633544970419",
+    "file_name": "HXVxhXoagAEjXfh.jpg",
+    "user": {
+      "screen_name": "ji_zhe30139",
+      "name": "冰冰"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVxhXoagAEjXfh.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2026-11-18T01:03:40",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.17,
+      "timestamp": "2026-11-18T01:03:19",
+      "download_attempts": 0
+    },
+    "full_text": "想减肥，但是管不住，肌肉也一直不动弹\n#m https://t.co/qCx68lBCPL",
+    "publish_time": "2026-11-18T00:24:40"
+  },
+  {
+    "tweet_id": "2122727633544970419",
+    "file_name": "HXVxhWcagAEdHud.jpg",
+    "user": {
+      "screen_name": "ji_zhe30139",
+      "name": "冰冰"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXVxhWcagAEdHud.jpg",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2026-11-18T01:03:40",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-11-18T01:03:20",
+      "download_attempts": 0
+    },
+    "full_text": "想减肥，但是管不住，肌肉也一直不动弹\n#m https://t.co/qCx68lBCPL",
+    "publish_time": "2026-11-18T00:24:40"
+  },
+  {
+    "tweet_id": "2122728091797848373",
+    "file_name": "b3uQlWZpGBMTpaDi.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2122727874914574336/vid/avc1/1280x720/b3uQlWZpGBMTpaDi.mp4?tag=29",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2026-11-18T01:04:02",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.32,
+      "timestamp": "2026-11-18T01:03:40",
+      "download_attempts": 0
+    },
+    "full_text": "午后 https://t.co/gRgSNb4MkV",
+    "publish_time": "2026-11-18T00:26:30"
+  },
+  {
+    "tweet_id": "2122728091797848373",
+    "file_name": "ZIzovzyv-B-eTjJd.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2122727951020228610/vid/avc1/1280x720/ZIzovzyv-B-eTjJd.mp4?tag=29",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2026-11-18T01:04:02",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.34,
+      "timestamp": "2026-11-18T01:03:40",
+      "download_attempts": 0
+    },
+    "full_text": "午后 https://t.co/gRgSNb4MkV",
+    "publish_time": "2026-11-18T00:26:30"
+  },
+  {
+    "tweet_id": "2122728091797848373",
+    "file_name": "wU83aw8Q8F5-xSfl.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2122727992585756672/vid/avc1/1280x720/wU83aw8Q8F5-xSfl.mp4?tag=29",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2026-11-18T01:04:02",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.32,
+      "timestamp": "2026-11-18T01:03:41",
+      "download_attempts": 0
+    },
+    "full_text": "午后 https://t.co/gRgSNb4MkV",
+    "publish_time": "2026-11-18T00:26:30"
+  },
+  {
+    "tweet_id": "2122728091797848373",
+    "file_name": "llO5LYQ9nk2otnVg.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2122728029030088709/vid/avc1/1280x720/llO5LYQ9nk2otnVg.mp4?tag=29",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "Timed out",
+      "timestamp": "2026-11-18T01:04:02",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.32,
+      "timestamp": "2026-11-18T01:03:41",
+      "download_attempts": 0
+    },
+    "full_text": "午后 https://t.co/gRgSNb4MkV",
+    "publish_time": "2026-11-18T00:26:30"
+  },
+  {
+    "tweet_id": "2122733141354013178",
+    "file_name": "v98817biLkQOE55T.mp4",
+    "user": {
+      "screen_name": "xudieS",
+      "name": "裸照永久储存处🖤"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2122733090204450817/vid/avc1/720x1280/v98817biLkQOE55T.mp4?tag=29",
+    "read_time": "2026-11-18T01:02:13",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "api_error",
+      "message": "urllib3 HTTPError ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+      "timestamp": "2026-11-18T01:04:02",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 6.76,
+      "timestamp": "2026-11-18T01:04:02",
+      "download_attempts": 0
+    },
+    "full_text": "傻逼男同，来对比下你的菊花和直男的有什么不一样？ https://t.co/Zd3GpEfVjG",
+    "publish_time": "2026-11-18T00:46:34"
+  }
+]
