@@ -9747,6 +9747,20 @@
     }
   },
   {
+    "restId": "1078480329642467328",
+    "legacy": {
+      "name": "八八九三七",
+      "screenName": "woshiweixian",
+      "createdAt": "Fri Dec 28 02:38:42 +0000 2018",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1078480329642467328/1562064435",
+      "profileImageUrlHttps": ""
+    }
+  },
+  {
     "restId": "1675000990494498816",
     "legacy": {
       "name": "正装👔小叔-OFFICIAL",
@@ -9757,20 +9771,6 @@
         "description": {}
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1675000990494498816/1696951273",
-      "profileImageUrlHttps": ""
-    }
-  },
-  {
-    "restId": "2072739661148258305",
-    "legacy": {
-      "name": "污东面",
-      "screenName": "wudongmiangoon",
-      "createdAt": "Thu Jul 02 17:52:03 +0000 2026",
-      "description": "内裤控，独立内裤设计师，内裤测评",
-      "entities": {
-        "description": {}
-      },
-      "profileBannerUrl": "",
       "profileImageUrlHttps": ""
     }
   },
@@ -10280,7 +10280,7 @@
       "name": "Patrick 青岛",
       "screenName": "xu553279147",
       "createdAt": "Tue Oct 24 14:05:42 +0000 2017",
-      "description": "过🚪私 不闲聊  185cm 90kg 19cm 常驻青岛 ＃青岛＃qingdao",
+      "description": "过🚪增大教程 不闲聊 185cm 90kg 19cm 常驻青岛 ＃青岛＃qingdao",
       "entities": {
         "description": {}
       },
@@ -10385,7 +10385,7 @@
       "name": "小小脚丫🐾全见版（新）",
       "screenName": "xxjy9696",
       "createdAt": "Wed Jun 07 22:32:33 +0000 2023",
-      "description": "⚠️乱关注不通过🚪看清门槛条件：zfb口令🧧押金40购买后24h内可抵消或者曾购三套原创以上的弟弟🌴大号@xxjy120过门槛电报私聊https://t.co/pyQo9uoUIW（乱打招呼不说事直接拉黑）✈️⚠️不会主动发私信（包括QQ、电报），电报群私信问我",
+      "description": "⚠️乱关注不通过🚪看清门槛条件：zfb口令🧧押金40购买后24h内可抵消或者曾购三套原创以上的弟弟🌴大号@xxjy120过门槛电报私聊https://t.co/pyQo9uoUIW（乱打招呼不说事直接拉黑）✈️⚠️不会主动发私信（包括QQ、电报），记者群https://t.co/CWNeOB06dx限时",
       "entities": {
         "description": {
           "urls": [
@@ -10397,6 +10397,15 @@
                 90
               ],
               "url": "https://t.co/pyQo9uoUIW"
+            },
+            {
+              "display_url": "t.me/+IozHBncXtYE5O…",
+              "expanded_url": "https://t.me/+IozHBncXtYE5OTll",
+              "indices": [
+                127,
+                150
+              ],
+              "url": "https://t.co/CWNeOB06dx"
             }
           ]
         }
@@ -10411,7 +10420,7 @@
       "name": "小林不小",
       "screenName": "XXxLin18cn",
       "createdAt": "Fri May 15 09:18:37 +0000 2026",
-      "description": "仅此一号，没有小号，谨防受骗\n（非抖粉勿扰）\n不约，不要打听我在哪个城市，再问拉黑",
+      "description": "仅此一号，没有小号，谨防受骗\n（非抖粉勿扰）",
       "entities": {
         "description": {}
       },
