@@ -1664,5 +1664,57 @@
     },
     "full_text": "今日门槛送你视频通话。露脸 https://t.co/YqyANjgcVe",
     "publish_time": "2026-11-18T08:55:17"
+  },
+  {
+    "tweet_id": "2122861087230251031",
+    "file_name": "HXXq6BqaUAAbPsw.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXXq6BqaUAAbPsw.jpg",
+    "read_time": "2026-11-18T10:02:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47071,
+      "timestamp": "2026-11-18T10:02:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-11-18T10:02:28",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/FrkMnkqNVM",
+    "publish_time": "2026-11-18T09:14:58"
+  },
+  {
+    "tweet_id": "2122865108133216406",
+    "file_name": "qrWoH8CO3mASx20g.mp4",
+    "user": {
+      "screen_name": "notrealakira",
+      "name": "akira"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2122865062276997120/vid/avc1/720x1280/qrWoH8CO3mASx20g.mp4?tag=29",
+    "read_time": "2026-11-18T10:02:28",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47072,
+      "timestamp": "2026-11-18T10:02:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.31,
+      "timestamp": "2026-11-18T10:02:30",
+      "download_attempts": 0
+    },
+    "full_text": "浪来 https://t.co/52YwEJ5vCy",
+    "publish_time": "2026-11-18T09:30:57"
   }
 ]
