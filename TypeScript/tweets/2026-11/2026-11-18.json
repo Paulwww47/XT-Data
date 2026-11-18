@@ -388,5 +388,48 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2122821142981542095",
     "fullText": "https://t.co/Eic0J6wr8U",
     "publishTime": "2026-11-18T06:36:15"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXXPAeabUAAkCXE.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2122830413311914091",
+    "fullText": "https://t.co/cZV6ds0Qnt",
+    "publishTime": "2026-11-18T07:13:05"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXXRXIQbsAEeTSW.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2122833000367063429",
+    "fullText": "https://t.co/gsxuWiQXJl",
+    "publishTime": "2026-11-18T07:23:22"
+  },
+  {
+    "user": {
+      "screenName": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2122841052159881216/vid/avc1/1280x720/ZEaPOr8GBIBh3HR9.mp4?tag=29",
+      "https://video.twimg.com/amplify_video/2122841079154434048/vid/avc1/1280x720/FMTsNChdCsFV-zVD.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/sbbupeihaolian/status/2122841099803021364",
+    "fullText": "早 https://t.co/UnGB5bFbgt",
+    "publishTime": "2026-11-18T07:55:33"
   }
 ]
