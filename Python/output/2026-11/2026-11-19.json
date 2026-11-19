@@ -1576,8 +1576,8 @@
       "success": false,
       "error_type": "download_error",
       "message": "404 Client Error: Not Found for url: https://video.twimg.com/amplify_video/2123279296923865088/vid/avc1/720x1280/cT4sEjeXnANIaEK1.mp4?tag=29",
-      "timestamp": "2026-11-19T18:01:43",
-      "download_attempts": 5
+      "timestamp": "2026-11-19T19:02:03",
+      "download_attempts": 6
     },
     "full_text": "我感觉99%发dy会被下架的内容 https://t.co/qoC9mcEiDy",
     "publish_time": "2026-11-19T12:57:12"
@@ -2361,5 +2361,317 @@
     },
     "full_text": "朋友說我這是頂風作案🌚\n\nMy friend said that I was committing a crime against the wind.😇 https://t.co/a3ziMHzgld",
     "publish_time": "2026-11-19T17:53:06"
+  },
+  {
+    "tweet_id": "2123356362717765943",
+    "file_name": "HXetWi9bUAA6gSM.jpg",
+    "user": {
+      "screen_name": "liangguai1",
+      "name": "亮拐"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXetWi9bUAA6gSM.jpg",
+    "read_time": "2026-11-19T19:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47263,
+      "timestamp": "2026-11-19T19:02:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-11-19T19:02:03",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/7jljtjOuDR",
+    "publish_time": "2026-11-19T18:03:01"
+  },
+  {
+    "tweet_id": "2123356383441744271",
+    "file_name": "HXetYDLaEAAf4Jf.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXetYDLaEAAf4Jf.jpg",
+    "read_time": "2026-11-19T19:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47264,
+      "timestamp": "2026-11-19T19:02:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-19T19:02:05",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/0WNDr67tto",
+    "publish_time": "2026-11-19T18:03:06"
+  },
+  {
+    "tweet_id": "2123357658048836016",
+    "file_name": "HXeuiAyasAA3eem.jpg",
+    "user": {
+      "screen_name": "ck582023nmy6033",
+      "name": "佛系人生"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXeuiAyasAA3eem.jpg",
+    "read_time": "2026-11-19T19:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47265,
+      "timestamp": "2026-11-19T19:02:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.2,
+      "timestamp": "2026-11-19T19:02:07",
+      "download_attempts": 0
+    },
+    "full_text": "台灣的IG是不是 還在戒嚴時期啊 照片肚臍以下沒露 只是跟粉絲說 私我就可以拿到原照片 結果這樣也被檢舉刪文 說有性誘惑性交易的 憂慮  現在我都不敢在IG照片打文案 說要給粉絲原照片的福利 怕又莫名其妙的被檢舉刪文 台灣的IG不知道在嚴格什麼 別國的雞雞都看到也沒事 真是屎逼 https://t.co/1HrYuWe6Tw",
+    "publish_time": "2026-11-19T18:08:10"
+  },
+  {
+    "tweet_id": "2123357658048836016",
+    "file_name": "HXeuiAyaAAE3lF3.jpg",
+    "user": {
+      "screen_name": "ck582023nmy6033",
+      "name": "佛系人生"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXeuiAyaAAE3lF3.jpg",
+    "read_time": "2026-11-19T19:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47266,
+      "timestamp": "2026-11-19T19:02:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-19T19:02:07",
+      "download_attempts": 0
+    },
+    "full_text": "台灣的IG是不是 還在戒嚴時期啊 照片肚臍以下沒露 只是跟粉絲說 私我就可以拿到原照片 結果這樣也被檢舉刪文 說有性誘惑性交易的 憂慮  現在我都不敢在IG照片打文案 說要給粉絲原照片的福利 怕又莫名其妙的被檢舉刪文 台灣的IG不知道在嚴格什麼 別國的雞雞都看到也沒事 真是屎逼 https://t.co/1HrYuWe6Tw",
+    "publish_time": "2026-11-19T18:08:10"
+  },
+  {
+    "tweet_id": "2123357789955440908",
+    "file_name": "HXeunfibQAARCcs.jpg",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXeunfibQAARCcs.jpg",
+    "read_time": "2026-11-19T19:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47267,
+      "timestamp": "2026-11-19T19:02:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.25,
+      "timestamp": "2026-11-19T19:02:09",
+      "download_attempts": 0
+    },
+    "full_text": "累计🧦 https://t.co/WH3xgrxAqB",
+    "publish_time": "2026-11-19T18:08:41"
+  },
+  {
+    "tweet_id": "2123358366101905527",
+    "file_name": "HXevLchbgAAm6yO.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXevLchbgAAm6yO.jpg",
+    "read_time": "2026-11-19T19:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47268,
+      "timestamp": "2026-11-19T19:02:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-11-19T19:02:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/hPKi7NtsOb",
+    "publish_time": "2026-11-19T18:10:59"
+  },
+  {
+    "tweet_id": "2123358509869986192",
+    "file_name": "HXevT0Fa0AAPQeZ.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXevT0Fa0AAPQeZ.jpg",
+    "read_time": "2026-11-19T19:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47269,
+      "timestamp": "2026-11-19T19:02:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.07,
+      "timestamp": "2026-11-19T19:02:12",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/FZnZQJ1wEN",
+    "publish_time": "2026-11-19T18:11:33"
+  },
+  {
+    "tweet_id": "2123359175732580567",
+    "file_name": "vnrgeOO5U7RQg9X_.mp4",
+    "user": {
+      "screen_name": "MuscleBB_",
+      "name": "大狗狗"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123359014578999296/vid/avc1/720x1280/vnrgeOO5U7RQg9X_.mp4?tag=29",
+    "read_time": "2026-11-19T19:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47270,
+      "timestamp": "2026-11-19T19:02:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 2.58,
+      "timestamp": "2026-11-19T19:02:13",
+      "download_attempts": 0
+    },
+    "full_text": "无手的话精液基本是流出来的而且不多\n都这样吗 #早泄的丈夫  #1m  #无手流 https://t.co/cCOtGM1Kdt",
+    "publish_time": "2026-11-19T18:14:12"
+  },
+  {
+    "tweet_id": "2123360488625250557",
+    "file_name": "HXexGcJbgAAgIh9.jpg",
+    "user": {
+      "screen_name": "Hunker50054218",
+      "name": "Hunker"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXexGcJbgAAgIh9.jpg",
+    "read_time": "2026-11-19T19:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47271,
+      "timestamp": "2026-11-19T19:02:17"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.19,
+      "timestamp": "2026-11-19T19:02:16",
+      "download_attempts": 0
+    },
+    "full_text": "想谈恋爱 https://t.co/qwMrnGbS1C",
+    "publish_time": "2026-11-19T18:19:25"
+  },
+  {
+    "tweet_id": "2123370040959606999",
+    "file_name": "aq9m0hJSaVqTvi1O.mp4",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123369931396059136/vid/avc1/958x534/aq9m0hJSaVqTvi1O.mp4?tag=29",
+    "read_time": "2026-11-19T19:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47272,
+      "timestamp": "2026-11-19T19:02:19"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 2.44,
+      "timestamp": "2026-11-19T19:02:17",
+      "download_attempts": 0
+    },
+    "full_text": "喜欢看这种剧情的是s还是m啊🤔️ https://t.co/DCpdlHU4N5",
+    "publish_time": "2026-11-19T18:57:22"
+  },
+  {
+    "tweet_id": "2123370524470616264",
+    "file_name": "HXe6OmdacAEFH0O.jpg",
+    "user": {
+      "screen_name": "eccmair",
+      "name": "焛"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXe6OmdacAEFH0O.jpg",
+    "read_time": "2026-11-19T19:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47273,
+      "timestamp": "2026-11-19T19:02:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-11-19T19:02:19",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/NyUYE8mDzP",
+    "publish_time": "2026-11-19T18:59:18"
+  },
+  {
+    "tweet_id": "2123370524470616264",
+    "file_name": "HXe6OmfawAAyboF.jpg",
+    "user": {
+      "screen_name": "eccmair",
+      "name": "焛"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXe6OmfawAAyboF.jpg",
+    "read_time": "2026-11-19T19:02:03",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47274,
+      "timestamp": "2026-11-19T19:02:20"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.19,
+      "timestamp": "2026-11-19T19:02:19",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/NyUYE8mDzP",
+    "publish_time": "2026-11-19T18:59:18"
   }
 ]
