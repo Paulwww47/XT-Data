@@ -612,5 +612,48 @@
     "tweetUrl": "https://x.com/easychen/status/2123249669614792839",
     "fullText": "#Easy同学正在独立开发 Server 酱 Max 版改成直连厂商通道了，推送最快能到1 秒以内（当然，最终稳定性取决于厂商平台） https://t.co/7DrvCeTNzB",
     "publishTime": "2026-11-19T10:59:03"
+  },
+  {
+    "user": {
+      "screenName": "XXxLin18cn",
+      "name": "小林不小"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXdMso9bQAA3FD5.jpg",
+      "https://pbs.twimg.com/media/HXdMso8awAAY2xb.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/XXxLin18cn/status/2123250096431358359",
+    "fullText": "横看成岭侧成峰 https://t.co/1sUXy1V5kF",
+    "publishTime": "2026-11-19T11:00:45"
+  },
+  {
+    "user": {
+      "screenName": "yvifan",
+      "name": "小趴菜"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXdWBRQbgAAf52c.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/yvifan/status/2123260339299221505",
+    "fullText": "🚿 https://t.co/E4Is6nZ80E",
+    "publishTime": "2026-11-19T11:41:27"
+  },
+  {
+    "user": {
+      "screenName": "kkkean2",
+      "name": "kean～互推私"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2123262823778471937/vid/avc1/720x1280/dAn9-iMyE4aE7592.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/kkkean2/status/2123263268479549564",
+    "fullText": "体院学长训练完邀请我回寝室开群趴 https://t.co/h5QNEnDAs5",
+    "publishTime": "2026-11-19T11:53:06"
   }
 ]
