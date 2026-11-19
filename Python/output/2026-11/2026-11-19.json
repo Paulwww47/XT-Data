@@ -1570,7 +1570,13 @@
     "url": "https://video.twimg.com/amplify_video/2123279296923865088/vid/avc1/720x1280/cT4sEjeXnANIaEK1.mp4?tag=29",
     "read_time": "2026-11-19T13:01:59",
     "is_uploaded": false,
-    "upload_info": {},
+    "upload_info": {
+      "success": false,
+      "error_type": "max_download_attempts",
+      "message": "连续下载失败10次",
+      "notification_sent": true,
+      "timestamp": "2026-11-20T00:04:05"
+    },
     "is_downloaded": false,
     "download_info": {
       "success": false,
@@ -3419,8 +3425,8 @@
       "success": false,
       "error_type": "download_error",
       "message": "404 Client Error: Not Found for url: https://pbs.twimg.com/media/HXfiCdoaIAA6NL8.jpg",
-      "timestamp": "2026-11-19T23:02:33",
-      "download_attempts": 2
+      "timestamp": "2026-11-20T00:04:05",
+      "download_attempts": 3
     },
     "full_text": "⚫️⚫️⚫️ https://t.co/2QkE8GUM9U",
     "publish_time": "2026-11-19T21:53:33"
@@ -3814,5 +3820,291 @@
     },
     "full_text": "每天都洗澡哪里会臭臭的 https://t.co/JMiFLWDGsC",
     "publish_time": "2026-11-19T23:00:42"
+  },
+  {
+    "tweet_id": "2123433790102176173",
+    "file_name": "HXfzxpFbQAA4ZvK.jpg",
+    "user": {
+      "screen_name": "Divo1765100",
+      "name": "Divo"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXfzxpFbQAA4ZvK.jpg",
+    "read_time": "2026-11-20T00:04:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47318,
+      "timestamp": "2026-11-20T00:04:07"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-20T00:04:05",
+      "download_attempts": 0
+    },
+    "full_text": "🥺 https://t.co/HOKHO5HtWs",
+    "publish_time": "2026-11-19T23:10:41"
+  },
+  {
+    "tweet_id": "2123435693850693736",
+    "file_name": "HXf1f8FbEAAnfNl.jpg",
+    "user": {
+      "screen_name": "Jiangjiang0004",
+      "name": "一只蒋蒋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXf1f8FbEAAnfNl.jpg",
+    "read_time": "2026-11-20T00:04:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47319,
+      "timestamp": "2026-11-20T00:04:09"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-11-20T00:04:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/NdRLeOn16x",
+    "publish_time": "2026-11-19T23:18:15"
+  },
+  {
+    "tweet_id": "2123435718538354841",
+    "file_name": "HXf1hL3boAIZqIU.jpg",
+    "user": {
+      "screen_name": "Jiangjiang0004",
+      "name": "一只蒋蒋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXf1hL3boAIZqIU.jpg",
+    "read_time": "2026-11-20T00:04:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47320,
+      "timestamp": "2026-11-20T00:04:11"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-11-20T00:04:09",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/M3efpnkEga",
+    "publish_time": "2026-11-19T23:18:21"
+  },
+  {
+    "tweet_id": "2123436076589302161",
+    "file_name": "HXf1o2WboAAPTub.jpg",
+    "user": {
+      "screen_name": "Jiangjiang0004",
+      "name": "一只蒋蒋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXf1o2WboAAPTub.jpg",
+    "read_time": "2026-11-20T00:04:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47321,
+      "timestamp": "2026-11-20T00:04:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-20T00:04:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Bt4SCuVySK",
+    "publish_time": "2026-11-19T23:19:46"
+  },
+  {
+    "tweet_id": "2123436076589302161",
+    "file_name": "HXf1rybaEAAAPhN.jpg",
+    "user": {
+      "screen_name": "Jiangjiang0004",
+      "name": "一只蒋蒋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXf1rybaEAAAPhN.jpg",
+    "read_time": "2026-11-20T00:04:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47322,
+      "timestamp": "2026-11-20T00:04:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-20T00:04:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Bt4SCuVySK",
+    "publish_time": "2026-11-19T23:19:46"
+  },
+  {
+    "tweet_id": "2123436076589302161",
+    "file_name": "HXf119SaQAAsnHY.jpg",
+    "user": {
+      "screen_name": "Jiangjiang0004",
+      "name": "一只蒋蒋"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXf119SaQAAsnHY.jpg",
+    "read_time": "2026-11-20T00:04:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47323,
+      "timestamp": "2026-11-20T00:04:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.05,
+      "timestamp": "2026-11-20T00:04:12",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Bt4SCuVySK",
+    "publish_time": "2026-11-19T23:19:46"
+  },
+  {
+    "tweet_id": "2123438058045583799",
+    "file_name": "9V6Y7mOBPXYrnE82.mp4",
+    "user": {
+      "screen_name": "kkkean2",
+      "name": "kean～互推私"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123437693912965120/vid/avc1/720x1280/9V6Y7mOBPXYrnE82.mp4?tag=29",
+    "read_time": "2026-11-20T00:04:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47324,
+      "timestamp": "2026-11-20T00:04:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 22.77,
+      "timestamp": "2026-11-20T00:04:16",
+      "download_attempts": 0
+    },
+    "full_text": "菊花被教练配种成大🌹，打桩到满是白沫 https://t.co/WTpEbpB7lD",
+    "publish_time": "2026-11-19T23:27:39"
+  },
+  {
+    "tweet_id": "2123440999343272233",
+    "file_name": "yeAsa8ZcLcJMj78H.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123440729683021824/vid/avc1/1280x720/yeAsa8ZcLcJMj78H.mp4?tag=29",
+    "read_time": "2026-11-20T00:04:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47325,
+      "timestamp": "2026-11-20T00:04:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 8.63,
+      "timestamp": "2026-11-20T00:04:21",
+      "download_attempts": 0
+    },
+    "full_text": "高铁玩玩鸡巴 滚烫 https://t.co/7QnPTygv41",
+    "publish_time": "2026-11-19T23:39:20"
+  },
+  {
+    "tweet_id": "2123442204840771803",
+    "file_name": "kDSLz8armWVk1Qfz.mp4",
+    "user": {
+      "screen_name": "hhh752093296",
+      "name": "大力宝宝"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123442191431589889/vid/avc1/720x998/kDSLz8armWVk1Qfz.mp4?tag=29",
+    "read_time": "2026-11-20T00:04:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47326,
+      "timestamp": "2026-11-20T00:04:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.27,
+      "timestamp": "2026-11-20T00:04:24",
+      "download_attempts": 0
+    },
+    "full_text": "🥵 https://t.co/CGZDxKCv7u",
+    "publish_time": "2026-11-19T23:44:07"
+  },
+  {
+    "tweet_id": "2123443686994530616",
+    "file_name": "HXf8w9JbQAACWm2.jpg",
+    "user": {
+      "screen_name": "seyiphotoman",
+      "name": "seyi色一📷"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXf8w9JbQAACWm2.jpg",
+    "read_time": "2026-11-20T00:04:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47327,
+      "timestamp": "2026-11-20T00:04:25"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-20T00:04:25",
+      "download_attempts": 0
+    },
+    "full_text": "摄影师有的时候也是会偷吃的😛 https://t.co/J3sMC37EaC",
+    "publish_time": "2026-11-19T23:50:01"
+  },
+  {
+    "tweet_id": "2123444992614297768",
+    "file_name": "HXf99rtaoAAm8j2.jpg",
+    "user": {
+      "screen_name": "Big_straight_H",
+      "name": "荒"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXf99rtaoAAm8j2.jpg",
+    "read_time": "2026-11-20T00:04:05",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47328,
+      "timestamp": "2026-11-20T00:04:26"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-11-20T00:04:25",
+      "download_attempts": 0
+    },
+    "full_text": "這樣的男友幾點回家？ https://t.co/mMcXLQEUGE",
+    "publish_time": "2026-11-19T23:55:12"
   }
 ]
