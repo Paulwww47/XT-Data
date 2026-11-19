@@ -330,5 +330,33 @@
     "tweetUrl": "https://x.com/Sans_Nom_4/status/2123186197778567537",
     "fullText": "@Wuguiyou 那你带我健身",
     "publishTime": "2026-11-19T06:46:51"
+  },
+  {
+    "user": {
+      "screenName": "JAX23632335",
+      "name": "xx"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXcYBKNbEAAVO-t.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/JAX23632335/status/2123192162330489250",
+    "fullText": "日本でいっぱいいいねもらっちゃった💕 https://t.co/c7aq3qwr7l",
+    "publishTime": "2026-11-19T07:10:33"
+  },
+  {
+    "user": {
+      "screenName": "xiaojin20001112",
+      "name": "小金"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXcc77TbEAAWBtu.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/xiaojin20001112/status/2123197609871646741",
+    "fullText": "想玩露出了。今日门槛对折 https://t.co/tAsgQrhB9K",
+    "publishTime": "2026-11-19T07:32:11"
   }
 ]
