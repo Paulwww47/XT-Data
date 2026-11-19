@@ -257,5 +257,31 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2123521183543136606",
     "fullText": "https://t.co/6VAEiAkakG",
     "publishTime": "2026-11-20T04:57:57"
+  },
+  {
+    "user": {
+      "screenName": "_lalolan_",
+      "name": "Edward'S"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXhPEHLXwAEvro9.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/_lalolan_/status/2123534166696378499",
+    "fullText": "Llegó el final.🌾 https://t.co/taRRWDaW6g",
+    "publishTime": "2026-11-20T05:49:33"
+  },
+  {
+    "user": {
+      "screenName": "jaecitoooo",
+      "name": "jae"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/jaecitoooo/status/2123535993575764434",
+    "fullText": "Need",
+    "publishTime": "2026-11-20T05:56:48"
   }
 ]
