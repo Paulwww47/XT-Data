@@ -1576,8 +1576,8 @@
       "success": false,
       "error_type": "download_error",
       "message": "404 Client Error: Not Found for url: https://video.twimg.com/amplify_video/2123279296923865088/vid/avc1/720x1280/cT4sEjeXnANIaEK1.mp4?tag=29",
-      "timestamp": "2026-11-19T22:02:30",
-      "download_attempts": 9
+      "timestamp": "2026-11-19T23:02:33",
+      "download_attempts": 10
     },
     "full_text": "我感觉99%发dy会被下架的内容 https://t.co/qoC9mcEiDy",
     "publish_time": "2026-11-19T12:57:12"
@@ -3386,15 +3386,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HXfiCdUawAAERCo.jpg",
     "read_time": "2026-11-19T22:02:30",
-    "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": false,
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47307,
+      "timestamp": "2026-11-19T23:02:35"
+    },
+    "is_downloaded": true,
     "download_info": {
-      "success": false,
-      "error_type": "download_error",
-      "message": "404 Client Error: Not Found for url: https://pbs.twimg.com/media/HXfiCdUawAAERCo.jpg",
-      "timestamp": "2026-11-19T22:02:42",
-      "download_attempts": 1
+      "success": true,
+      "size_mb": 0.18,
+      "timestamp": "2026-11-19T23:02:33",
+      "download_attempts": 0
     },
     "full_text": "⚫️⚫️⚫️ https://t.co/2QkE8GUM9U",
     "publish_time": "2026-11-19T21:53:33"
@@ -3416,8 +3419,8 @@
       "success": false,
       "error_type": "download_error",
       "message": "404 Client Error: Not Found for url: https://pbs.twimg.com/media/HXfiCdoaIAA6NL8.jpg",
-      "timestamp": "2026-11-19T22:02:42",
-      "download_attempts": 1
+      "timestamp": "2026-11-19T23:02:33",
+      "download_attempts": 2
     },
     "full_text": "⚫️⚫️⚫️ https://t.co/2QkE8GUM9U",
     "publish_time": "2026-11-19T21:53:33"
@@ -3551,5 +3554,265 @@
     },
     "full_text": "16岁！ https://t.co/QX0mE5Dzmx",
     "publish_time": "2026-11-19T22:00:53"
+  },
+  {
+    "tweet_id": "2123419720376541484",
+    "file_name": "m641zyc8DxhSKsCR.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123419477656350720/vid/avc1/1280x720/m641zyc8DxhSKsCR.mp4?tag=29",
+    "read_time": "2026-11-19T23:02:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47308,
+      "timestamp": "2026-11-19T23:02:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.34,
+      "timestamp": "2026-11-19T23:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "高铁🚅在人来人往的🚾门口偷拍 https://t.co/d6RXvF2sJD",
+    "publish_time": "2026-11-19T22:14:47"
+  },
+  {
+    "tweet_id": "2123419720376541484",
+    "file_name": "Z1V7JtCTEx76p7oH.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123419563069149184/vid/avc1/1280x720/Z1V7JtCTEx76p7oH.mp4?tag=29",
+    "read_time": "2026-11-19T23:02:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47309,
+      "timestamp": "2026-11-19T23:02:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.26,
+      "timestamp": "2026-11-19T23:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "高铁🚅在人来人往的🚾门口偷拍 https://t.co/d6RXvF2sJD",
+    "publish_time": "2026-11-19T22:14:47"
+  },
+  {
+    "tweet_id": "2123419720376541484",
+    "file_name": "hTXMdCmE3prdnOwF.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123419607256137729/vid/avc1/1280x720/hTXMdCmE3prdnOwF.mp4?tag=29",
+    "read_time": "2026-11-19T23:02:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47310,
+      "timestamp": "2026-11-19T23:02:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.32,
+      "timestamp": "2026-11-19T23:02:36",
+      "download_attempts": 0
+    },
+    "full_text": "高铁🚅在人来人往的🚾门口偷拍 https://t.co/d6RXvF2sJD",
+    "publish_time": "2026-11-19T22:14:47"
+  },
+  {
+    "tweet_id": "2123419720376541484",
+    "file_name": "p1_RkTWA6LLoC_G1.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123419669197713408/vid/avc1/1280x720/p1_RkTWA6LLoC_G1.mp4?tag=29",
+    "read_time": "2026-11-19T23:02:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47311,
+      "timestamp": "2026-11-19T23:02:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.25,
+      "timestamp": "2026-11-19T23:02:36",
+      "download_attempts": 0
+    },
+    "full_text": "高铁🚅在人来人往的🚾门口偷拍 https://t.co/d6RXvF2sJD",
+    "publish_time": "2026-11-19T22:14:47"
+  },
+  {
+    "tweet_id": "2123420649456837025",
+    "file_name": "q7KQACpbr6iFBLgX.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123420457034772480/vid/avc1/1280x720/q7KQACpbr6iFBLgX.mp4?tag=29",
+    "read_time": "2026-11-19T23:02:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47312,
+      "timestamp": "2026-11-19T23:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.23,
+      "timestamp": "2026-11-19T23:02:39",
+      "download_attempts": 0
+    },
+    "full_text": "小骚狗趴好 你爹的皮鞋粗腿臭脚鸡巴卵蛋来选一个 https://t.co/4vnUumcLra",
+    "publish_time": "2026-11-19T22:18:28"
+  },
+  {
+    "tweet_id": "2123420649456837025",
+    "file_name": "Q59cUN5orWbMQD1F.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123420516438757376/vid/avc1/1280x720/Q59cUN5orWbMQD1F.mp4?tag=29",
+    "read_time": "2026-11-19T23:02:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47313,
+      "timestamp": "2026-11-19T23:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.25,
+      "timestamp": "2026-11-19T23:02:39",
+      "download_attempts": 0
+    },
+    "full_text": "小骚狗趴好 你爹的皮鞋粗腿臭脚鸡巴卵蛋来选一个 https://t.co/4vnUumcLra",
+    "publish_time": "2026-11-19T22:18:28"
+  },
+  {
+    "tweet_id": "2123420649456837025",
+    "file_name": "Rs-o4g5nZKDVhdxI.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123420550362275840/vid/avc1/1280x720/Rs-o4g5nZKDVhdxI.mp4?tag=29",
+    "read_time": "2026-11-19T23:02:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47314,
+      "timestamp": "2026-11-19T23:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.24,
+      "timestamp": "2026-11-19T23:02:39",
+      "download_attempts": 0
+    },
+    "full_text": "小骚狗趴好 你爹的皮鞋粗腿臭脚鸡巴卵蛋来选一个 https://t.co/4vnUumcLra",
+    "publish_time": "2026-11-19T22:18:28"
+  },
+  {
+    "tweet_id": "2123420649456837025",
+    "file_name": "AkUMaBuOC7hkYMO1.mp4",
+    "user": {
+      "screen_name": "sbbupeihaolian",
+      "name": "moboai"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123420600765132801/vid/avc1/1280x720/AkUMaBuOC7hkYMO1.mp4?tag=29",
+    "read_time": "2026-11-19T23:02:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47315,
+      "timestamp": "2026-11-19T23:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.27,
+      "timestamp": "2026-11-19T23:02:39",
+      "download_attempts": 0
+    },
+    "full_text": "小骚狗趴好 你爹的皮鞋粗腿臭脚鸡巴卵蛋来选一个 https://t.co/4vnUumcLra",
+    "publish_time": "2026-11-19T22:18:28"
+  },
+  {
+    "tweet_id": "2123422661619622324",
+    "file_name": "HXfppytacAEhhHW.jpg",
+    "user": {
+      "screen_name": "Sebastian_lezai",
+      "name": "Sebastian.Lezai"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXfppytacAEhhHW.jpg",
+    "read_time": "2026-11-19T23:02:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47316,
+      "timestamp": "2026-11-19T23:02:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-19T23:02:41",
+      "download_attempts": 0
+    },
+    "full_text": "Sculpture https://t.co/PFH61sJZPR",
+    "publish_time": "2026-11-19T22:26:28"
+  },
+  {
+    "tweet_id": "2123431277164736570",
+    "file_name": "HXfxe_aaQAAg0ch.jpg",
+    "user": {
+      "screen_name": "LaFei2531",
+      "name": "小熊硬糖"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXfxe_aaQAAg0ch.jpg",
+    "read_time": "2026-11-19T23:02:33",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47317,
+      "timestamp": "2026-11-19T23:02:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-19T23:02:42",
+      "download_attempts": 0
+    },
+    "full_text": "每天都洗澡哪里会臭臭的 https://t.co/JMiFLWDGsC",
+    "publish_time": "2026-11-19T23:00:42"
   }
 ]
