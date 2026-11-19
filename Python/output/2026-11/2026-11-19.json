@@ -1576,8 +1576,8 @@
       "success": false,
       "error_type": "download_error",
       "message": "404 Client Error: Not Found for url: https://video.twimg.com/amplify_video/2123279296923865088/vid/avc1/720x1280/cT4sEjeXnANIaEK1.mp4?tag=29",
-      "timestamp": "2026-11-19T20:02:18",
-      "download_attempts": 7
+      "timestamp": "2026-11-19T21:02:20",
+      "download_attempts": 8
     },
     "full_text": "我感觉99%发dy会被下架的内容 https://t.co/qoC9mcEiDy",
     "publish_time": "2026-11-19T12:57:12"
@@ -3089,5 +3089,135 @@
     },
     "full_text": "https://t.co/q6scOLOXgv",
     "publish_time": "2026-11-19T19:50:51"
+  },
+  {
+    "tweet_id": "2123390610602434608",
+    "file_name": "HXfMNMBawAANCvM.jpg",
+    "user": {
+      "screen_name": "liuweikeee",
+      "name": "维克"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXfMNMBawAANCvM.jpg",
+    "read_time": "2026-11-19T21:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47291,
+      "timestamp": "2026-11-19T21:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-11-19T21:02:20",
+      "download_attempts": 0
+    },
+    "full_text": "我对什么感兴趣就都会尝试一下。比如去年觉得鼻钩口枷很有意思，后面又试着自锁了一段时间。最近觉得渔网裤袜挺sexy的，还买了连体的，下次有机会穿了再拍。 https://t.co/9K0xyaCmsI",
+    "publish_time": "2026-11-19T20:19:06"
+  },
+  {
+    "tweet_id": "2123390610602434608",
+    "file_name": "HXfMNMLbAAAf27T.jpg",
+    "user": {
+      "screen_name": "liuweikeee",
+      "name": "维克"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXfMNMLbAAAf27T.jpg",
+    "read_time": "2026-11-19T21:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47292,
+      "timestamp": "2026-11-19T21:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.2,
+      "timestamp": "2026-11-19T21:02:20",
+      "download_attempts": 0
+    },
+    "full_text": "我对什么感兴趣就都会尝试一下。比如去年觉得鼻钩口枷很有意思，后面又试着自锁了一段时间。最近觉得渔网裤袜挺sexy的，还买了连体的，下次有机会穿了再拍。 https://t.co/9K0xyaCmsI",
+    "publish_time": "2026-11-19T20:19:06"
+  },
+  {
+    "tweet_id": "2123393736264851566",
+    "file_name": "HXfPVz7W8AAlRRZ.jpg",
+    "user": {
+      "screen_name": "fangsheng10",
+      "name": "fangsheng"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXfPVz7W8AAlRRZ.jpg",
+    "read_time": "2026-11-19T21:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47293,
+      "timestamp": "2026-11-19T21:02:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-19T21:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "🚿 https://t.co/eaqcuT1OMW",
+    "publish_time": "2026-11-19T20:31:32"
+  },
+  {
+    "tweet_id": "2123393993715396611",
+    "file_name": "HXfPkXGa4AAOD2z.jpg",
+    "user": {
+      "screen_name": "uncledoggie",
+      "name": "小狼叔"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXfPkXGa4AAOD2z.jpg",
+    "read_time": "2026-11-19T21:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47294,
+      "timestamp": "2026-11-19T21:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.16,
+      "timestamp": "2026-11-19T21:02:23",
+      "download_attempts": 0
+    },
+    "full_text": "日夜颠倒头发少少🙁 https://t.co/CdAdLH7f7E",
+    "publish_time": "2026-11-19T20:32:33"
+  },
+  {
+    "tweet_id": "2123393993715396611",
+    "file_name": "HXfPkXFbwAA4rpf.jpg",
+    "user": {
+      "screen_name": "uncledoggie",
+      "name": "小狼叔"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXfPkXFbwAA4rpf.jpg",
+    "read_time": "2026-11-19T21:02:19",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47295,
+      "timestamp": "2026-11-19T21:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-11-19T21:02:23",
+      "download_attempts": 0
+    },
+    "full_text": "日夜颠倒头发少少🙁 https://t.co/CdAdLH7f7E",
+    "publish_time": "2026-11-19T20:32:33"
   }
 ]
