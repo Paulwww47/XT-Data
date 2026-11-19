@@ -2039,7 +2039,7 @@
       "name": "大猛一",
       "screenName": "d461385024",
       "createdAt": "Wed Dec 01 12:02:43 +0000 2021",
-      "description": "十8️⃣楼 空",
+      "description": "十8️⃣楼 空 正装大",
       "entities": {
         "description": {}
       },
@@ -4318,21 +4318,9 @@
       "name": "jae",
       "screenName": "jaecitoooo",
       "createdAt": "Fri Jun 09 05:05:49 +0000 2023",
-      "description": "hi🇰🇷\nhttps://t.co/n8K3dBkn9G",
+      "description": "hi🇰🇷",
       "entities": {
-        "description": {
-          "urls": [
-            {
-              "display_url": "pushoong.com/ask/9065543559…",
-              "expanded_url": "https://pushoong.com/ask/9065543559#google_vignette",
-              "indices": [
-                5,
-                28
-              ],
-              "url": "https://t.co/n8K3dBkn9G"
-            }
-          ]
-        },
+        "description": {},
         "url": {
           "urls": [
             {
