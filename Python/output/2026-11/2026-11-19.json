@@ -1550,10 +1550,88 @@
       "success": false,
       "error_type": "download_error",
       "message": "404 Client Error: Not Found for url: https://video.twimg.com/amplify_video/2123279296923865088/vid/avc1/720x1280/cT4sEjeXnANIaEK1.mp4?tag=29",
-      "timestamp": "2026-11-19T13:02:06",
-      "download_attempts": 1
+      "timestamp": "2026-11-19T14:01:43",
+      "download_attempts": 2
     },
     "full_text": "我感觉99%发dy会被下架的内容 https://t.co/qoC9mcEiDy",
     "publish_time": "2026-11-19T12:57:12"
+  },
+  {
+    "tweet_id": "2123281360756556067",
+    "file_name": "ev4SOebaJLcVlevz.mp4",
+    "user": {
+      "screen_name": "sx84604818",
+      "name": "Rexsonic Man+ suits & socks"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123281303651155968/vid/avc1/720x1280/ev4SOebaJLcVlevz.mp4?tag=29",
+    "read_time": "2026-11-19T14:01:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47232,
+      "timestamp": "2026-11-19T14:01:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 2.13,
+      "timestamp": "2026-11-19T14:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "👔西裝愛好者👔 https://t.co/DYFUq37W9c",
+    "publish_time": "2026-11-19T13:04:59"
+  },
+  {
+    "tweet_id": "2123281461264675239",
+    "file_name": "HXdpO9lbcAA7YUC.jpg",
+    "user": {
+      "screen_name": "L1010R",
+      "name": "1010"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXdpO9lbcAA7YUC.jpg",
+    "read_time": "2026-11-19T14:01:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47233,
+      "timestamp": "2026-11-19T14:01:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.01,
+      "timestamp": "2026-11-19T14:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "有些不是我不回私信🧎是他喵的我根本回不了 https://t.co/pbtdf4Hxd0",
+    "publish_time": "2026-11-19T13:05:23"
+  },
+  {
+    "tweet_id": "2123283639165411658",
+    "file_name": "QvZSoUOmxrjh8h4p.mp4",
+    "user": {
+      "screen_name": "Ykmkzq8",
+      "name": "ykm"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123283589416783872/vid/avc1/720x1280/QvZSoUOmxrjh8h4p.mp4?tag=29",
+    "read_time": "2026-11-19T14:01:43",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47234,
+      "timestamp": "2026-11-19T14:01:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.42,
+      "timestamp": "2026-11-19T14:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/ATiN8abXDx",
+    "publish_time": "2026-11-19T13:14:02"
   }
 ]
