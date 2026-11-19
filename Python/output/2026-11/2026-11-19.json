@@ -1576,8 +1576,8 @@
       "success": false,
       "error_type": "download_error",
       "message": "404 Client Error: Not Found for url: https://video.twimg.com/amplify_video/2123279296923865088/vid/avc1/720x1280/cT4sEjeXnANIaEK1.mp4?tag=29",
-      "timestamp": "2026-11-19T17:03:23",
-      "download_attempts": 4
+      "timestamp": "2026-11-19T18:01:43",
+      "download_attempts": 5
     },
     "full_text": "我感觉99%发dy会被下架的内容 https://t.co/qoC9mcEiDy",
     "publish_time": "2026-11-19T12:57:12"
@@ -1997,5 +1997,369 @@
     },
     "full_text": "https://t.co/AwcbmHcHhJ",
     "publish_time": "2026-11-19T16:18:59"
+  },
+  {
+    "tweet_id": "2123343116048728538",
+    "file_name": "HXehTQuaMAA3tG6.jpg",
+    "user": {
+      "screen_name": "Aninnjh",
+      "name": "村长Anin"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXehTQuaMAA3tG6.jpg",
+    "read_time": "2026-11-19T18:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47249,
+      "timestamp": "2026-11-19T18:01:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-19T18:01:43",
+      "download_attempts": 0
+    },
+    "full_text": "漏头 https://t.co/U1DPPtpa2i",
+    "publish_time": "2026-11-19T17:10:23"
+  },
+  {
+    "tweet_id": "2123344288390271297",
+    "file_name": "AIbjedRs-avSFaUP.mp4",
+    "user": {
+      "screen_name": "haibao0810",
+      "name": "海宝Alistiar"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123344064422780928/vid/avc1/720x1280/AIbjedRs-avSFaUP.mp4?tag=29",
+    "read_time": "2026-11-19T18:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47250,
+      "timestamp": "2026-11-19T18:01:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 14.68,
+      "timestamp": "2026-11-19T18:01:46",
+      "download_attempts": 0
+    },
+    "full_text": "健完身就这样洗澡 https://t.co/qj7hDjjsNH",
+    "publish_time": "2026-11-19T17:15:02"
+  },
+  {
+    "tweet_id": "2123344288390271297",
+    "file_name": "jibQE25fStp-YFq0.mp4",
+    "user": {
+      "screen_name": "haibao0810",
+      "name": "海宝Alistiar"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123344243150462976/vid/avc1/720x1280/jibQE25fStp-YFq0.mp4?tag=29",
+    "read_time": "2026-11-19T18:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47251,
+      "timestamp": "2026-11-19T18:01:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 6.7,
+      "timestamp": "2026-11-19T18:01:47",
+      "download_attempts": 0
+    },
+    "full_text": "健完身就这样洗澡 https://t.co/qj7hDjjsNH",
+    "publish_time": "2026-11-19T17:15:02"
+  },
+  {
+    "tweet_id": "2123346487249883154",
+    "file_name": "HXekWswaIAAE5Sj.jpg",
+    "user": {
+      "screen_name": "Hesinnng",
+      "name": "和大人"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXekWswaIAAE5Sj.jpg",
+    "read_time": "2026-11-19T18:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47252,
+      "timestamp": "2026-11-19T18:01:53"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-19T18:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "🙉好冷 https://t.co/r04CdRqaVW",
+    "publish_time": "2026-11-19T17:23:47"
+  },
+  {
+    "tweet_id": "2123349996900864174",
+    "file_name": "djE_s9BLik0BhrTb.mp4",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123349952516718593/vid/avc1/1080x1756/djE_s9BLik0BhrTb.mp4?tag=29",
+    "read_time": "2026-11-19T18:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47253,
+      "timestamp": "2026-11-19T18:01:55"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 5.78,
+      "timestamp": "2026-11-19T18:01:53",
+      "download_attempts": 0
+    },
+    "full_text": "·\nAn original photographic work featuring ：饶子豪 (Rao Zihao) &amp; 诸侯 (Zhu Hou). \nCr. BY ：BaiJiang / 微博：摄影白酱不白酱📝 \n请关注他的 instagram : \n👉sheying_baijiang https://t.co/ylijJtmfBv",
+    "publish_time": "2026-11-19T17:37:43"
+  },
+  {
+    "tweet_id": "2123351316294685165",
+    "file_name": "HXeonrvaYAAb59i.jpg",
+    "user": {
+      "screen_name": "shejishi2020",
+      "name": "摄肌师"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXeonrvaYAAb59i.jpg",
+    "read_time": "2026-11-19T18:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47254,
+      "timestamp": "2026-11-19T18:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-19T18:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "摄肌师第102本原创摄影写真集来了！需要的朋友➕vx：wuxiongdibujianmei https://t.co/OESMXfaZfR",
+    "publish_time": "2026-11-19T17:42:58"
+  },
+  {
+    "tweet_id": "2123351316294685165",
+    "file_name": "HXeontVbAAAh-sQ.jpg",
+    "user": {
+      "screen_name": "shejishi2020",
+      "name": "摄肌师"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXeontVbAAAh-sQ.jpg",
+    "read_time": "2026-11-19T18:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47255,
+      "timestamp": "2026-11-19T18:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-19T18:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "摄肌师第102本原创摄影写真集来了！需要的朋友➕vx：wuxiongdibujianmei https://t.co/OESMXfaZfR",
+    "publish_time": "2026-11-19T17:42:58"
+  },
+  {
+    "tweet_id": "2123351316294685165",
+    "file_name": "HXeontYa4AEOmoj.jpg",
+    "user": {
+      "screen_name": "shejishi2020",
+      "name": "摄肌师"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXeontYa4AEOmoj.jpg",
+    "read_time": "2026-11-19T18:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47256,
+      "timestamp": "2026-11-19T18:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-19T18:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "摄肌师第102本原创摄影写真集来了！需要的朋友➕vx：wuxiongdibujianmei https://t.co/OESMXfaZfR",
+    "publish_time": "2026-11-19T17:42:58"
+  },
+  {
+    "tweet_id": "2123351316294685165",
+    "file_name": "HXeontcbkAIClB2.jpg",
+    "user": {
+      "screen_name": "shejishi2020",
+      "name": "摄肌师"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXeontcbkAIClB2.jpg",
+    "read_time": "2026-11-19T18:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47257,
+      "timestamp": "2026-11-19T18:01:57"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-11-19T18:01:56",
+      "download_attempts": 0
+    },
+    "full_text": "摄肌师第102本原创摄影写真集来了！需要的朋友➕vx：wuxiongdibujianmei https://t.co/OESMXfaZfR",
+    "publish_time": "2026-11-19T17:42:58"
+  },
+  {
+    "tweet_id": "2123351415376724202",
+    "file_name": "6R7jZ6Vh1p_1wcEO.mp4",
+    "user": {
+      "screen_name": "XiaoshengwudiS",
+      "name": "陈大圣"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123351289019224065/vid/avc1/1280x720/6R7jZ6Vh1p_1wcEO.mp4?tag=29",
+    "read_time": "2026-11-19T18:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47258,
+      "timestamp": "2026-11-19T18:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 3.44,
+      "timestamp": "2026-11-19T18:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "想看高清大雕了吗骚货 https://t.co/llgCzwPysH",
+    "publish_time": "2026-11-19T17:43:22"
+  },
+  {
+    "tweet_id": "2123351415376724202",
+    "file_name": "8d_l0DA65jwVuG3i.mp4",
+    "user": {
+      "screen_name": "XiaoshengwudiS",
+      "name": "陈大圣"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123351289270763520/vid/avc1/1280x720/8d_l0DA65jwVuG3i.mp4?tag=29",
+    "read_time": "2026-11-19T18:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47259,
+      "timestamp": "2026-11-19T18:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.64,
+      "timestamp": "2026-11-19T18:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "想看高清大雕了吗骚货 https://t.co/llgCzwPysH",
+    "publish_time": "2026-11-19T17:43:22"
+  },
+  {
+    "tweet_id": "2123351415376724202",
+    "file_name": "fXPYU6yHyCsYj-Xu.mp4",
+    "user": {
+      "screen_name": "XiaoshengwudiS",
+      "name": "陈大圣"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123351288775933952/vid/avc1/1280x720/fXPYU6yHyCsYj-Xu.mp4?tag=29",
+    "read_time": "2026-11-19T18:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47260,
+      "timestamp": "2026-11-19T18:02:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.99,
+      "timestamp": "2026-11-19T18:01:57",
+      "download_attempts": 0
+    },
+    "full_text": "想看高清大雕了吗骚货 https://t.co/llgCzwPysH",
+    "publish_time": "2026-11-19T17:43:22"
+  },
+  {
+    "tweet_id": "2123352666214670651",
+    "file_name": "qrIhOTLgdCywGQUC.mp4",
+    "user": {
+      "screen_name": "TopstoneL11",
+      "name": "石头磊🪨"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123352275984740352/vid/avc1/720x1280/qrIhOTLgdCywGQUC.mp4?tag=29",
+    "read_time": "2026-11-19T18:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47261,
+      "timestamp": "2026-11-19T18:02:02"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 18.85,
+      "timestamp": "2026-11-19T18:02:00",
+      "download_attempts": 0
+    },
+    "full_text": "脱掉黑袜光脚底粗口展示给兄弟看   爽的不行\n\n仅此一号，认准@TopstoneL11 https://t.co/zSB9QDu1P6",
+    "publish_time": "2026-11-19T17:48:20"
+  },
+  {
+    "tweet_id": "2123353865190089098",
+    "file_name": "HXerFQzaQAA78xz.jpg",
+    "user": {
+      "screen_name": "xvszrxq",
+      "name": "紋身肌肉旭教练"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXerFQzaQAA78xz.jpg",
+    "read_time": "2026-11-19T18:01:42",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47262,
+      "timestamp": "2026-11-19T18:02:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-11-19T18:02:02",
+      "download_attempts": 0
+    },
+    "full_text": "朋友說我這是頂風作案🌚\n\nMy friend said that I was committing a crime against the wind.😇 https://t.co/a3ziMHzgld",
+    "publish_time": "2026-11-19T17:53:06"
   }
 ]
