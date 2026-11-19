@@ -3418,15 +3418,18 @@
     "media_type": "images",
     "url": "https://pbs.twimg.com/media/HXfiCdoaIAA6NL8.jpg",
     "read_time": "2026-11-19T22:02:30",
-    "is_uploaded": false,
-    "upload_info": {},
-    "is_downloaded": false,
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47329,
+      "timestamp": "2026-11-20T01:02:33"
+    },
+    "is_downloaded": true,
     "download_info": {
-      "success": false,
-      "error_type": "download_error",
-      "message": "404 Client Error: Not Found for url: https://pbs.twimg.com/media/HXfiCdoaIAA6NL8.jpg",
-      "timestamp": "2026-11-20T00:04:05",
-      "download_attempts": 3
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-11-20T01:02:31",
+      "download_attempts": 0
     },
     "full_text": "⚫️⚫️⚫️ https://t.co/2QkE8GUM9U",
     "publish_time": "2026-11-19T21:53:33"
