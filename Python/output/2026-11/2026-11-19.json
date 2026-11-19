@@ -1576,8 +1576,8 @@
       "success": false,
       "error_type": "download_error",
       "message": "404 Client Error: Not Found for url: https://video.twimg.com/amplify_video/2123279296923865088/vid/avc1/720x1280/cT4sEjeXnANIaEK1.mp4?tag=29",
-      "timestamp": "2026-11-19T19:02:03",
-      "download_attempts": 6
+      "timestamp": "2026-11-19T20:02:18",
+      "download_attempts": 7
     },
     "full_text": "我感觉99%发dy会被下架的内容 https://t.co/qoC9mcEiDy",
     "publish_time": "2026-11-19T12:57:12"
@@ -2673,5 +2673,421 @@
     },
     "full_text": "https://t.co/NyUYE8mDzP",
     "publish_time": "2026-11-19T18:59:18"
+  },
+  {
+    "tweet_id": "2123373577747763597",
+    "file_name": "HXe9AgfaQAA1Ir_.jpg",
+    "user": {
+      "screen_name": "tuo_522",
+      "name": "🦮Simon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXe9AgfaQAA1Ir_.jpg",
+    "read_time": "2026-11-19T20:02:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47275,
+      "timestamp": "2026-11-19T20:02:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-19T20:02:18",
+      "download_attempts": 0
+    },
+    "full_text": "感谢@kbboy_official ，第一次中奖🥰 https://t.co/YvGAd07sId",
+    "publish_time": "2026-11-19T19:11:25"
+  },
+  {
+    "tweet_id": "2123373577747763597",
+    "file_name": "HXe9AggasAAl4ru.jpg",
+    "user": {
+      "screen_name": "tuo_522",
+      "name": "🦮Simon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXe9AggasAAl4ru.jpg",
+    "read_time": "2026-11-19T20:02:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47276,
+      "timestamp": "2026-11-19T20:02:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-19T20:02:18",
+      "download_attempts": 0
+    },
+    "full_text": "感谢@kbboy_official ，第一次中奖🥰 https://t.co/YvGAd07sId",
+    "publish_time": "2026-11-19T19:11:25"
+  },
+  {
+    "tweet_id": "2123373577747763597",
+    "file_name": "HXe9AgeakAE2ESB.jpg",
+    "user": {
+      "screen_name": "tuo_522",
+      "name": "🦮Simon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXe9AgeakAE2ESB.jpg",
+    "read_time": "2026-11-19T20:02:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47277,
+      "timestamp": "2026-11-19T20:02:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-11-19T20:02:18",
+      "download_attempts": 0
+    },
+    "full_text": "感谢@kbboy_official ，第一次中奖🥰 https://t.co/YvGAd07sId",
+    "publish_time": "2026-11-19T19:11:25"
+  },
+  {
+    "tweet_id": "2123373577747763597",
+    "file_name": "HXe9AggbAAA7y15.jpg",
+    "user": {
+      "screen_name": "tuo_522",
+      "name": "🦮Simon"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXe9AggbAAA7y15.jpg",
+    "read_time": "2026-11-19T20:02:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47278,
+      "timestamp": "2026-11-19T20:02:21"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-19T20:02:18",
+      "download_attempts": 0
+    },
+    "full_text": "感谢@kbboy_official ，第一次中奖🥰 https://t.co/YvGAd07sId",
+    "publish_time": "2026-11-19T19:11:25"
+  },
+  {
+    "tweet_id": "2123375269939650714",
+    "file_name": "HXe-jMPaAAAsmUO.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXe-jMPaAAAsmUO.jpg",
+    "read_time": "2026-11-19T20:02:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47279,
+      "timestamp": "2026-11-19T20:02:22"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.17,
+      "timestamp": "2026-11-19T20:02:21",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/qDNhNXeQ94",
+    "publish_time": "2026-11-19T19:18:09"
+  },
+  {
+    "tweet_id": "2123376700994244892",
+    "file_name": "HXe_yUiaAAAJ1Za.jpg",
+    "user": {
+      "screen_name": "QingyWilderness",
+      "name": "青野Aono"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXe_yUiaAAAJ1Za.jpg",
+    "read_time": "2026-11-19T20:02:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47280,
+      "timestamp": "2026-11-19T20:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-11-19T20:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "腿腿腿腿腿腿 https://t.co/wWB2cZZ81W",
+    "publish_time": "2026-11-19T19:23:50"
+  },
+  {
+    "tweet_id": "2123376700994244892",
+    "file_name": "HXe_zD0a4AAH53m.jpg",
+    "user": {
+      "screen_name": "QingyWilderness",
+      "name": "青野Aono"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXe_zD0a4AAH53m.jpg",
+    "read_time": "2026-11-19T20:02:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47281,
+      "timestamp": "2026-11-19T20:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-11-19T20:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "腿腿腿腿腿腿 https://t.co/wWB2cZZ81W",
+    "publish_time": "2026-11-19T19:23:50"
+  },
+  {
+    "tweet_id": "2123376700994244892",
+    "file_name": "HXe_z2_akAAqBQZ.jpg",
+    "user": {
+      "screen_name": "QingyWilderness",
+      "name": "青野Aono"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXe_z2_akAAqBQZ.jpg",
+    "read_time": "2026-11-19T20:02:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47282,
+      "timestamp": "2026-11-19T20:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-19T20:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "腿腿腿腿腿腿 https://t.co/wWB2cZZ81W",
+    "publish_time": "2026-11-19T19:23:50"
+  },
+  {
+    "tweet_id": "2123376700994244892",
+    "file_name": "HXe_0qrbgAAnYlQ.jpg",
+    "user": {
+      "screen_name": "QingyWilderness",
+      "name": "青野Aono"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXe_0qrbgAAnYlQ.jpg",
+    "read_time": "2026-11-19T20:02:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47283,
+      "timestamp": "2026-11-19T20:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-19T20:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "腿腿腿腿腿腿 https://t.co/wWB2cZZ81W",
+    "publish_time": "2026-11-19T19:23:50"
+  },
+  {
+    "tweet_id": "2123376700994244892",
+    "file_name": "HXe_1afbYAESo9h.jpg",
+    "user": {
+      "screen_name": "QingyWilderness",
+      "name": "青野Aono"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXe_1afbYAESo9h.jpg",
+    "read_time": "2026-11-19T20:02:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47284,
+      "timestamp": "2026-11-19T20:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-19T20:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "腿腿腿腿腿腿 https://t.co/wWB2cZZ81W",
+    "publish_time": "2026-11-19T19:23:50"
+  },
+  {
+    "tweet_id": "2123376700994244892",
+    "file_name": "HXe_2OMbIAAnTWY.jpg",
+    "user": {
+      "screen_name": "QingyWilderness",
+      "name": "青野Aono"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXe_2OMbIAAnTWY.jpg",
+    "read_time": "2026-11-19T20:02:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47285,
+      "timestamp": "2026-11-19T20:02:24"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-11-19T20:02:22",
+      "download_attempts": 0
+    },
+    "full_text": "腿腿腿腿腿腿 https://t.co/wWB2cZZ81W",
+    "publish_time": "2026-11-19T19:23:50"
+  },
+  {
+    "tweet_id": "2123379874559877611",
+    "file_name": "lxAJtmsF7Xw9LG7m.mp4",
+    "user": {
+      "screen_name": "LiugangLogan",
+      "name": "刘刚Logan"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123379830309982208/vid/avc1/1080x1920/lxAJtmsF7Xw9LG7m.mp4?tag=29",
+    "read_time": "2026-11-19T20:02:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47286,
+      "timestamp": "2026-11-19T20:02:27"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 2.9,
+      "timestamp": "2026-11-19T20:02:25",
+      "download_attempts": 0
+    },
+    "full_text": "别看射了 https://t.co/el8SMCylMl",
+    "publish_time": "2026-11-19T19:36:27"
+  },
+  {
+    "tweet_id": "2123380968820207907",
+    "file_name": "HXfDumGa0AAuZ-j.jpg",
+    "user": {
+      "screen_name": "ck582023nmy6033",
+      "name": "佛系人生"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXfDumGa0AAuZ-j.jpg",
+    "read_time": "2026-11-19T20:02:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47287,
+      "timestamp": "2026-11-19T20:02:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.18,
+      "timestamp": "2026-11-19T20:02:27",
+      "download_attempts": 0
+    },
+    "full_text": "只有IG粉絲才有無碼照片的福利 總共17張無碼照片 IG粉絲請至IG私我 拿照片 \nhttps://t.co/YJaYBCqTNs https://t.co/tkbRnjr9or",
+    "publish_time": "2026-11-19T19:40:48"
+  },
+  {
+    "tweet_id": "2123380968820207907",
+    "file_name": "HXfDumMbgAADhll.jpg",
+    "user": {
+      "screen_name": "ck582023nmy6033",
+      "name": "佛系人生"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXfDumMbgAADhll.jpg",
+    "read_time": "2026-11-19T20:02:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47288,
+      "timestamp": "2026-11-19T20:02:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.14,
+      "timestamp": "2026-11-19T20:02:28",
+      "download_attempts": 0
+    },
+    "full_text": "只有IG粉絲才有無碼照片的福利 總共17張無碼照片 IG粉絲請至IG私我 拿照片 \nhttps://t.co/YJaYBCqTNs https://t.co/tkbRnjr9or",
+    "publish_time": "2026-11-19T19:40:48"
+  },
+  {
+    "tweet_id": "2123380968820207907",
+    "file_name": "HXfDuluawAAJEa1.jpg",
+    "user": {
+      "screen_name": "ck582023nmy6033",
+      "name": "佛系人生"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXfDuluawAAJEa1.jpg",
+    "read_time": "2026-11-19T20:02:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47289,
+      "timestamp": "2026-11-19T20:02:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-11-19T20:02:28",
+      "download_attempts": 0
+    },
+    "full_text": "只有IG粉絲才有無碼照片的福利 總共17張無碼照片 IG粉絲請至IG私我 拿照片 \nhttps://t.co/YJaYBCqTNs https://t.co/tkbRnjr9or",
+    "publish_time": "2026-11-19T19:40:48"
+  },
+  {
+    "tweet_id": "2123383501273899067",
+    "file_name": "HXfGAqTaEAAhiuP.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXfGAqTaEAAhiuP.jpg",
+    "read_time": "2026-11-19T20:02:18",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47290,
+      "timestamp": "2026-11-19T20:02:30"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-19T20:02:29",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/q6scOLOXgv",
+    "publish_time": "2026-11-19T19:50:51"
   }
 ]
