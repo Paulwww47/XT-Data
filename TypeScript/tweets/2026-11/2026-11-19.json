@@ -539,5 +539,78 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2123233928681333145",
     "fullText": "donehss https://t.co/LmDZcChyn4",
     "publishTime": "2026-11-19T09:56:31"
+  },
+  {
+    "user": {
+      "screenName": "Big_straight_H",
+      "name": "荒"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Big_straight_H/status/2123243871027282006",
+    "fullText": "我不知道一般人理不理解，我就已經是一個露臉的帳號，色色也都給你們看，然後丟給我照片還要「秒收回」、「看到了嗎？」、或在軟體限時照片等等……，對我來講都是很無言的反應，更扯的是有些根本也沒放臉，下一句還「約嗎」\n\n到底是想怎樣！！！！",
+    "publishTime": "2026-11-19T10:36:01"
+  },
+  {
+    "user": {
+      "screenName": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXdIRw_XcAAvm0r.jpg",
+      "https://pbs.twimg.com/media/HXdIRw8XgAA_nbi.jpg",
+      "https://pbs.twimg.com/media/HXdIRw-WoAEDldT.jpg",
+      "https://pbs.twimg.com/media/HXdIRw-WoAAavcy.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/junglewildwild/status/2123245233660121186",
+    "fullText": "https://t.co/e9KUAkyCKt",
+    "publishTime": "2026-11-19T10:41:26"
+  },
+  {
+    "user": {
+      "screenName": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXdIS94WkAA6dgt.jpg",
+      "https://pbs.twimg.com/media/HXdIS9yW8AADe-R.jpg",
+      "https://pbs.twimg.com/media/HXdIS97W0AAUc9U.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/junglewildwild/status/2123245251976695919",
+    "fullText": "https://t.co/USnDtaXKk0",
+    "publishTime": "2026-11-19T10:41:30"
+  },
+  {
+    "user": {
+      "screenName": "hbcssg",
+      "name": "黄博城啊啊"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2123248439698096128/vid/avc1/720x1280/qvkqzAKRU6Cc8O_b.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/hbcssg/status/2123248530819256349",
+    "fullText": "晨      勃？错了 是晨跑 https://t.co/nltA0a1nQi",
+    "publishTime": "2026-11-19T10:54:32"
+  },
+  {
+    "user": {
+      "screenName": "easychen",
+      "name": "EasyChen"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXdMUGMbcAAfB_9.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/easychen/status/2123249669614792839",
+    "fullText": "#Easy同学正在独立开发 Server 酱 Max 版改成直连厂商通道了，推送最快能到1 秒以内（当然，最终稳定性取决于厂商平台） https://t.co/7DrvCeTNzB",
+    "publishTime": "2026-11-19T10:59:03"
   }
 ]
