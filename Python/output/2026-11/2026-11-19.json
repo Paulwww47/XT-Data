@@ -1576,8 +1576,8 @@
       "success": false,
       "error_type": "download_error",
       "message": "404 Client Error: Not Found for url: https://video.twimg.com/amplify_video/2123279296923865088/vid/avc1/720x1280/cT4sEjeXnANIaEK1.mp4?tag=29",
-      "timestamp": "2026-11-19T21:02:20",
-      "download_attempts": 8
+      "timestamp": "2026-11-19T22:02:30",
+      "download_attempts": 9
     },
     "full_text": "我感觉99%发dy会被下架的内容 https://t.co/qoC9mcEiDy",
     "publish_time": "2026-11-19T12:57:12"
@@ -3219,5 +3219,337 @@
     },
     "full_text": "日夜颠倒头发少少🙁 https://t.co/CdAdLH7f7E",
     "publish_time": "2026-11-19T20:32:33"
+  },
+  {
+    "tweet_id": "2123402155294163066",
+    "file_name": "LiwJtmBQCh7AH1iA.mp4",
+    "user": {
+      "screen_name": "jaecitoooo",
+      "name": "jae"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123207697235628033/vid/avc1/720x900/LiwJtmBQCh7AH1iA.mp4?tag=14",
+    "read_time": "2026-11-19T22:02:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47296,
+      "timestamp": "2026-11-19T22:02:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.69,
+      "timestamp": "2026-11-19T22:02:31",
+      "download_attempts": 0
+    },
+    "full_text": "Me and who https://t.co/GG8SkdGrEF",
+    "publish_time": "2026-11-19T21:04:59"
+  },
+  {
+    "tweet_id": "2123403268634386872",
+    "file_name": "HXfYA8lWAAAKTvk.jpg",
+    "user": {
+      "screen_name": "jaecitoooo",
+      "name": "jae"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXfYA8lWAAAKTvk.jpg",
+    "read_time": "2026-11-19T22:02:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47297,
+      "timestamp": "2026-11-19T22:02:35"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-19T22:02:34",
+      "download_attempts": 0
+    },
+    "full_text": "👀 https://t.co/A6xtiDWw6Z",
+    "publish_time": "2026-11-19T21:09:24"
+  },
+  {
+    "tweet_id": "2123403394983588187",
+    "file_name": "HXfYIN1a8AENr9J.jpg",
+    "user": {
+      "screen_name": "liuweikeee",
+      "name": "维克"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXfYIN1a8AENr9J.jpg",
+    "read_time": "2026-11-19T22:02:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47298,
+      "timestamp": "2026-11-19T22:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-11-19T22:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "我对什么感兴趣就都会尝试一下，比如去年觉得鼻钩口枷很有意思，后面又试着自锁了一段时间，最近觉得渔网裤袜挺sexy的，还买了连体的，下次有机会穿了再拍。 https://t.co/WhRT4PKWAK",
+    "publish_time": "2026-11-19T21:09:54"
+  },
+  {
+    "tweet_id": "2123403394983588187",
+    "file_name": "HXfYINkaIAAKmuJ.jpg",
+    "user": {
+      "screen_name": "liuweikeee",
+      "name": "维克"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXfYINkaIAAKmuJ.jpg",
+    "read_time": "2026-11-19T22:02:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47299,
+      "timestamp": "2026-11-19T22:02:36"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.2,
+      "timestamp": "2026-11-19T22:02:35",
+      "download_attempts": 0
+    },
+    "full_text": "我对什么感兴趣就都会尝试一下，比如去年觉得鼻钩口枷很有意思，后面又试着自锁了一段时间，最近觉得渔网裤袜挺sexy的，还买了连体的，下次有机会穿了再拍。 https://t.co/WhRT4PKWAK",
+    "publish_time": "2026-11-19T21:09:54"
+  },
+  {
+    "tweet_id": "2123405622012215638",
+    "file_name": "px5dKNVoBOW-mjSQ.mp4",
+    "user": {
+      "screen_name": "rthurz",
+      "name": "Arthur (อาเธอร์) ♠︎"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123405489463808001/vid/avc1/1080x1920/px5dKNVoBOW-mjSQ.mp4?tag=29",
+    "read_time": "2026-11-19T22:02:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47300,
+      "timestamp": "2026-11-19T22:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 30.89,
+      "timestamp": "2026-11-19T22:02:36",
+      "download_attempts": 0
+    },
+    "full_text": "ค่อยๆ ชักครับไม่รีบ 🙈 https://t.co/IVCXfPtZU9",
+    "publish_time": "2026-11-19T21:18:45"
+  },
+  {
+    "tweet_id": "2123409444390445216",
+    "file_name": "HXfdoYfaAAASdDL.jpg",
+    "user": {
+      "screen_name": "zhy02797897",
+      "name": "FF"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXfdoYfaAAASdDL.jpg",
+    "read_time": "2026-11-19T22:02:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47301,
+      "timestamp": "2026-11-19T22:02:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-19T22:02:41",
+      "download_attempts": 0
+    },
+    "full_text": "黑袜野D？ https://t.co/v571ENRwGZ",
+    "publish_time": "2026-11-19T21:33:57"
+  },
+  {
+    "tweet_id": "2123414376623599619",
+    "file_name": "HXfiCdUawAAERCo.jpg",
+    "user": {
+      "screen_name": "Sebastian_lezai",
+      "name": "Sebastian.Lezai"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXfiCdUawAAERCo.jpg",
+    "read_time": "2026-11-19T22:02:30",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": false,
+    "download_info": {
+      "success": false,
+      "error_type": "download_error",
+      "message": "404 Client Error: Not Found for url: https://pbs.twimg.com/media/HXfiCdUawAAERCo.jpg",
+      "timestamp": "2026-11-19T22:02:42",
+      "download_attempts": 1
+    },
+    "full_text": "⚫️⚫️⚫️ https://t.co/2QkE8GUM9U",
+    "publish_time": "2026-11-19T21:53:33"
+  },
+  {
+    "tweet_id": "2123414376623599619",
+    "file_name": "HXfiCdoaIAA6NL8.jpg",
+    "user": {
+      "screen_name": "Sebastian_lezai",
+      "name": "Sebastian.Lezai"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXfiCdoaIAA6NL8.jpg",
+    "read_time": "2026-11-19T22:02:30",
+    "is_uploaded": false,
+    "upload_info": {},
+    "is_downloaded": false,
+    "download_info": {
+      "success": false,
+      "error_type": "download_error",
+      "message": "404 Client Error: Not Found for url: https://pbs.twimg.com/media/HXfiCdoaIAA6NL8.jpg",
+      "timestamp": "2026-11-19T22:02:42",
+      "download_attempts": 1
+    },
+    "full_text": "⚫️⚫️⚫️ https://t.co/2QkE8GUM9U",
+    "publish_time": "2026-11-19T21:53:33"
+  },
+  {
+    "tweet_id": "2123415471185973556",
+    "file_name": "HXfjHWraIAAkDmY.jpg",
+    "user": {
+      "screen_name": "zuoximuhao1111S",
+      "name": "佐夕木豪"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXfjHWraIAAkDmY.jpg",
+    "read_time": "2026-11-19T22:02:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47302,
+      "timestamp": "2026-11-19T22:02:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-19T22:02:42",
+      "download_attempts": 0
+    },
+    "full_text": "来吃 https://t.co/Zruz0mcl2H",
+    "publish_time": "2026-11-19T21:57:54"
+  },
+  {
+    "tweet_id": "2123415471185973556",
+    "file_name": "HXfjHWuaoAAL1Zk.jpg",
+    "user": {
+      "screen_name": "zuoximuhao1111S",
+      "name": "佐夕木豪"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXfjHWuaoAAL1Zk.jpg",
+    "read_time": "2026-11-19T22:02:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47303,
+      "timestamp": "2026-11-19T22:02:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.12,
+      "timestamp": "2026-11-19T22:02:43",
+      "download_attempts": 0
+    },
+    "full_text": "来吃 https://t.co/Zruz0mcl2H",
+    "publish_time": "2026-11-19T21:57:54"
+  },
+  {
+    "tweet_id": "2123416225413992569",
+    "file_name": "HXdN2_3asAA0X-t.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXdN2_3asAA0X-t.jpg",
+    "read_time": "2026-11-19T22:02:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47304,
+      "timestamp": "2026-11-19T22:02:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-11-19T22:02:45",
+      "download_attempts": 0
+    },
+    "full_text": "16岁！ https://t.co/QX0mE5Dzmx",
+    "publish_time": "2026-11-19T22:00:53"
+  },
+  {
+    "tweet_id": "2123416225413992569",
+    "file_name": "HXdN2sdaoAAYtUt.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXdN2sdaoAAYtUt.jpg",
+    "read_time": "2026-11-19T22:02:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47305,
+      "timestamp": "2026-11-19T22:02:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-11-19T22:02:45",
+      "download_attempts": 0
+    },
+    "full_text": "16岁！ https://t.co/QX0mE5Dzmx",
+    "publish_time": "2026-11-19T22:00:53"
+  },
+  {
+    "tweet_id": "2123416225413992569",
+    "file_name": "HXdN2sca0AAbmd7.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXdN2sca0AAbmd7.jpg",
+    "read_time": "2026-11-19T22:02:30",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47306,
+      "timestamp": "2026-11-19T22:02:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-11-19T22:02:45",
+      "download_attempts": 0
+    },
+    "full_text": "16岁！ https://t.co/QX0mE5Dzmx",
+    "publish_time": "2026-11-19T22:00:53"
   }
 ]
