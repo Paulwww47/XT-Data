@@ -104,5 +104,45 @@
     "tweetUrl": "https://x.com/thisisforoasis/status/2123838153333334308",
     "fullText": "can i?",
     "publishTime": "2026-11-21T01:57:29"
+  },
+  {
+    "user": {
+      "screenName": "jaecitoooo",
+      "name": "jae"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [
+      "https://www.instagram.com/hjae.yun"
+    ],
+    "tweetUrl": "https://x.com/jaecitoooo/status/2123847330751184967",
+    "fullText": "https://t.co/xKcUYGmKEx",
+    "publishTime": "2026-11-21T02:33:57"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXlvfd4bUAAYZRj.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2123851292099698878",
+    "fullText": "https://t.co/IxYHT8FXm4",
+    "publishTime": "2026-11-21T02:49:41"
+  },
+  {
+    "user": {
+      "screenName": "jaecitoooo",
+      "name": "jae"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/jaecitoooo/status/2123851438036045933",
+    "fullText": "I wish my d was 5cm bigger",
+    "publishTime": "2026-11-21T02:50:16"
   }
 ]
