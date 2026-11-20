@@ -1745,6 +1745,32 @@
     "publish_time": "2026-11-19T14:09:10"
   },
   {
+    "tweet_id": "2123302235786658184",
+    "file_name": "z52I7-d3Moan1Jpu.mp4",
+    "user": {
+      "screen_name": "FOXBLACKTOP",
+      "name": "FOXBLACKTOP"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123302209756823552/vid/avc1/590x1280/z52I7-d3Moan1Jpu.mp4?tag=29",
+    "read_time": "2026-11-20T14:04:20",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47380,
+      "timestamp": "2026-11-20T14:04:23"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.57,
+      "timestamp": "2026-11-20T14:04:20",
+      "download_attempts": 0
+    },
+    "full_text": "blued发这种交友可还行😄 https://t.co/Y892sVmLIL",
+    "publish_time": "2026-11-19T14:27:56"
+  },
+  {
     "tweet_id": "2123305099435077776",
     "file_name": "HXd-t45bkAE52Pq.jpg",
     "user": {
