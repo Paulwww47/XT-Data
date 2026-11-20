@@ -570,5 +570,83 @@
     },
     "full_text": "今日门槛，送视频浴室 https://t.co/peWQFPuItX",
     "publish_time": "2026-11-20T07:54:16"
+  },
+  {
+    "tweet_id": "2123569277240496355",
+    "file_name": "HXhu_5uaIAA_qjB.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXhu_5uaIAA_qjB.jpg",
+    "read_time": "2026-11-20T09:02:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47352,
+      "timestamp": "2026-11-20T09:02:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.16,
+      "timestamp": "2026-11-20T09:02:41",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/xB1q1qFNKG",
+    "publish_time": "2026-11-20T08:09:04"
+  },
+  {
+    "tweet_id": "2123571224236417255",
+    "file_name": "HXhwxIHbUAAIQPk.jpg",
+    "user": {
+      "screen_name": "awses6",
+      "name": "awses"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXhwxIHbUAAIQPk.jpg",
+    "read_time": "2026-11-20T09:02:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47353,
+      "timestamp": "2026-11-20T09:02:45"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-11-20T09:02:43",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/VBLIZmBBHz",
+    "publish_time": "2026-11-20T08:16:48"
+  },
+  {
+    "tweet_id": "2123582179632611807",
+    "file_name": "aICJutLBeuzXFY1z.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123582029002629120/vid/avc1/1280x590/aICJutLBeuzXFY1z.mp4?tag=29",
+    "read_time": "2026-11-20T09:02:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47354,
+      "timestamp": "2026-11-20T09:02:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 10.78,
+      "timestamp": "2026-11-20T09:02:46",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/VHuykpwzG9",
+    "publish_time": "2026-11-20T09:00:20"
   }
 ]
