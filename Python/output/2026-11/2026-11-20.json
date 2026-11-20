@@ -466,5 +466,109 @@
     },
     "full_text": "Llegó el final.🌾 https://t.co/taRRWDaW6g",
     "publish_time": "2026-11-20T05:49:33"
+  },
+  {
+    "tweet_id": "2123554245374886068",
+    "file_name": "HXhhUsqXEAAeWzz.jpg",
+    "user": {
+      "screen_name": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXhhUsqXEAAeWzz.jpg",
+    "read_time": "2026-11-20T08:02:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47348,
+      "timestamp": "2026-11-20T08:02:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-11-20T08:02:41",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4ZNpKrNMTc",
+    "publish_time": "2026-11-20T07:09:20"
+  },
+  {
+    "tweet_id": "2123554245374886068",
+    "file_name": "HXhhUsrWIAAywL3.jpg",
+    "user": {
+      "screen_name": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXhhUsrWIAAywL3.jpg",
+    "read_time": "2026-11-20T08:02:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47349,
+      "timestamp": "2026-11-20T08:02:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-20T08:02:42",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4ZNpKrNMTc",
+    "publish_time": "2026-11-20T07:09:20"
+  },
+  {
+    "tweet_id": "2123554245374886068",
+    "file_name": "HXhhUsqXgAEYrR0.jpg",
+    "user": {
+      "screen_name": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXhhUsqXgAEYrR0.jpg",
+    "read_time": "2026-11-20T08:02:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47350,
+      "timestamp": "2026-11-20T08:02:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-11-20T08:02:42",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/4ZNpKrNMTc",
+    "publish_time": "2026-11-20T07:09:20"
+  },
+  {
+    "tweet_id": "2123565554233708608",
+    "file_name": "47hbA4AOQiQfG0Un.mp4",
+    "user": {
+      "screen_name": "xiaojin20001112",
+      "name": "小金"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2123565474265116672/vid/avc1/1280x720/47hbA4AOQiQfG0Un.mp4?tag=29",
+    "read_time": "2026-11-20T08:02:41",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47351,
+      "timestamp": "2026-11-20T08:02:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.58,
+      "timestamp": "2026-11-20T08:02:44",
+      "download_attempts": 0
+    },
+    "full_text": "今日门槛，送视频浴室 https://t.co/peWQFPuItX",
+    "publish_time": "2026-11-20T07:54:16"
   }
 ]

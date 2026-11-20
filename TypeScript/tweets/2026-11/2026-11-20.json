@@ -343,5 +343,35 @@
     "tweetUrl": "https://x.com/jaecitoooo/status/2123544510315536619",
     "fullText": "일본이 어디서 속좁음과 품위를 논해 ㅋㅋㅋ 의자로 급나눈거 기억안나냐",
     "publishTime": "2026-11-20T06:30:39"
+  },
+  {
+    "user": {
+      "screenName": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HXhhUsqXEAAeWzz.jpg",
+      "https://pbs.twimg.com/media/HXhhUsrWIAAywL3.jpg",
+      "https://pbs.twimg.com/media/HXhhUsqXgAEYrR0.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/junglewildwild/status/2123554245374886068",
+    "fullText": "https://t.co/4ZNpKrNMTc",
+    "publishTime": "2026-11-20T07:09:20"
+  },
+  {
+    "user": {
+      "screenName": "xiaojin20001112",
+      "name": "小金"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2123565474265116672/vid/avc1/1280x720/47hbA4AOQiQfG0Un.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/xiaojin20001112/status/2123565554233708608",
+    "fullText": "今日门槛，送视频浴室 https://t.co/peWQFPuItX",
+    "publishTime": "2026-11-20T07:54:16"
   }
 ]
