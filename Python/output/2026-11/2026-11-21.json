@@ -3161,7 +3161,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (66.30MB > 50.00MB)",
       "timestamp": "2026-11-21T20:03:26",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -3172,5 +3172,83 @@
     },
     "full_text": "Wanna follow me? Better keep up with my rhythm.\nWanna have a taste? Why not try every flavor?\n\nEvery angle offers a different view.\n\nWanna take your experience here to a \"deeper\" level?\n\n@LewEdwin \nNow, let me show you real hospitality 😜\n\n每種氣味，各種角度 https://t.co/RjJSQ7XaNq",
     "publish_time": "2026-11-21T19:58:00"
+  },
+  {
+    "tweet_id": "2124116889513472077",
+    "file_name": "HXphBK0bYAAW3rX.jpg",
+    "user": {
+      "screen_name": "xhn1069",
+      "name": "路过"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXphBK0bYAAW3rX.jpg",
+    "read_time": "2026-11-21T21:02:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47592,
+      "timestamp": "2026-11-21T21:02:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.18,
+      "timestamp": "2026-11-21T21:02:44",
+      "download_attempts": 0
+    },
+    "full_text": "一点一点 #户外天体 https://t.co/pajwkVvBe1",
+    "publish_time": "2026-11-21T20:25:05"
+  },
+  {
+    "tweet_id": "2124116889513472077",
+    "file_name": "HXphBK4aEAA_-lk.jpg",
+    "user": {
+      "screen_name": "xhn1069",
+      "name": "路过"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXphBK4aEAA_-lk.jpg",
+    "read_time": "2026-11-21T21:02:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47593,
+      "timestamp": "2026-11-21T21:02:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.19,
+      "timestamp": "2026-11-21T21:02:44",
+      "download_attempts": 0
+    },
+    "full_text": "一点一点 #户外天体 https://t.co/pajwkVvBe1",
+    "publish_time": "2026-11-21T20:25:05"
+  },
+  {
+    "tweet_id": "2124116889513472077",
+    "file_name": "HXphBKzbUAAuJZB.jpg",
+    "user": {
+      "screen_name": "xhn1069",
+      "name": "路过"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXphBKzbUAAuJZB.jpg",
+    "read_time": "2026-11-21T21:02:44",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47594,
+      "timestamp": "2026-11-21T21:02:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.17,
+      "timestamp": "2026-11-21T21:02:44",
+      "download_attempts": 0
+    },
+    "full_text": "一点一点 #户外天体 https://t.co/pajwkVvBe1",
+    "publish_time": "2026-11-21T20:25:05"
   }
 ]
