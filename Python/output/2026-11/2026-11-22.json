@@ -310,5 +310,31 @@
     },
     "full_text": "粉丝里有肉壮人夫吗 https://t.co/JEzG3JOcMc",
     "publish_time": "2026-11-22T02:22:05"
+  },
+  {
+    "tweet_id": "2124217098046153039",
+    "file_name": "6iyoUGcS5e6TrSKu.mp4",
+    "user": {
+      "screen_name": "haoyun9988",
+      "name": "三亚天蝎"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2124216702997295104/vid/avc1/720x1280/6iyoUGcS5e6TrSKu.mp4?tag=29",
+    "read_time": "2026-11-22T04:02:53",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47639,
+      "timestamp": "2026-11-22T04:02:56"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.14,
+      "timestamp": "2026-11-22T04:02:54",
+      "download_attempts": 0
+    },
+    "full_text": "三亚正装 https://t.co/W8jUlEgQGG",
+    "publish_time": "2026-11-22T03:03:16"
   }
 ]
