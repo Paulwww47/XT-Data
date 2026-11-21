@@ -258,5 +258,57 @@
     },
     "full_text": "take it https://t.co/LHRlou9dp5",
     "publish_time": "2026-11-22T01:55:04"
+  },
+  {
+    "tweet_id": "2124204547694571884",
+    "file_name": "hEw1f5dVmD1cJ2IF.mp4",
+    "user": {
+      "screen_name": "xiao57520",
+      "name": "翱哥备用机"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2124204490266181632/vid/avc1/1080x1920/hEw1f5dVmD1cJ2IF.mp4?tag=29",
+    "read_time": "2026-11-22T03:02:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47637,
+      "timestamp": "2026-11-22T03:03:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 5.84,
+      "timestamp": "2026-11-22T03:02:55",
+      "download_attempts": 0
+    },
+    "full_text": "冬天健身得多带一条裤子真麻烦 https://t.co/9dxcJAzIB9",
+    "publish_time": "2026-11-22T02:13:24"
+  },
+  {
+    "tweet_id": "2124206730536263880",
+    "file_name": "r_xiQqv2Zdd-4vaA.mp4",
+    "user": {
+      "screen_name": "haibao0810",
+      "name": "海宝Alistiar"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2124206696843407360/vid/avc1/720x1280/r_xiQqv2Zdd-4vaA.mp4?tag=29",
+    "read_time": "2026-11-22T03:02:55",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47638,
+      "timestamp": "2026-11-22T03:03:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 2.03,
+      "timestamp": "2026-11-22T03:03:00",
+      "download_attempts": 0
+    },
+    "full_text": "粉丝里有肉壮人夫吗 https://t.co/JEzG3JOcMc",
+    "publish_time": "2026-11-22T02:22:05"
   }
 ]
