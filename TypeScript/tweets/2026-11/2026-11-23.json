@@ -331,5 +331,31 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2124610381222129733",
     "fullText": "https://t.co/2m9XW6sL1h",
     "publishTime": "2026-11-23T05:06:02"
+  },
+  {
+    "user": {
+      "screenName": "chenjia61790419",
+      "name": "艾恩爱疯批🦊"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/chenjia61790419/status/2124625133419810829",
+    "fullText": "@Hesinnng 通讯录共有的一件🤣🤣",
+    "publishTime": "2026-11-23T06:04:40"
+  },
+  {
+    "user": {
+      "screenName": "junglewildwild",
+      "name": "丛林野兽"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2124638360715079681/vid/avc1/576x1024/rnvKXNh5uBN7Fh2x.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/junglewildwild/status/2124638539489149364",
+    "fullText": "#HYROX https://t.co/2KOChNjvtF",
+    "publishTime": "2026-11-23T06:57:56"
   }
 ]
