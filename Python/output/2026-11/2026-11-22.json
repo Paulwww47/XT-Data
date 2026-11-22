@@ -3995,7 +3995,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (63.87MB > 50.00MB)",
       "timestamp": "2026-11-22T23:02:06",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -4136,5 +4136,109 @@
     },
     "full_text": "重点是什么🧐 https://t.co/HrIYfJuYz3",
     "publish_time": "2026-11-22T22:56:24"
+  },
+  {
+    "tweet_id": "2124525425582072001",
+    "file_name": "HXvUk5_aEAAz9TZ.jpg",
+    "user": {
+      "screen_name": "youdi",
+      "name": "HARUEHUN AIRRY 王子部落"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXvUk5_aEAAz9TZ.jpg",
+    "read_time": "2026-11-23T00:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47784,
+      "timestamp": "2026-11-23T00:01:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-11-23T00:01:49",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/31TBNPVz6k",
+    "publish_time": "2026-11-22T23:28:27"
+  },
+  {
+    "tweet_id": "2124527537665794516",
+    "file_name": "HXvWiMHaYAATyrt.jpg",
+    "user": {
+      "screen_name": "a17739",
+      "name": "吳先生"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXvWiMHaYAATyrt.jpg",
+    "read_time": "2026-11-23T00:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47785,
+      "timestamp": "2026-11-23T00:01:52"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-23T00:01:51",
+      "download_attempts": 0
+    },
+    "full_text": "好想要個大大的擁抱 tonight https://t.co/sv7njOnhCE",
+    "publish_time": "2026-11-22T23:36:51"
+  },
+  {
+    "tweet_id": "2124530478413991976",
+    "file_name": "HXvZNKHb0AAO-RH.jpg",
+    "user": {
+      "screen_name": "tempooooo1224",
+      "name": "正切_"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HXvZNKHb0AAO-RH.jpg",
+    "read_time": "2026-11-23T00:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47786,
+      "timestamp": "2026-11-23T00:01:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-11-23T00:01:52",
+      "download_attempts": 0
+    },
+    "full_text": "盯着 https://t.co/CHC4UgiLNv",
+    "publish_time": "2026-11-22T23:48:32"
+  },
+  {
+    "tweet_id": "2124532637088055561",
+    "file_name": "QXvJUJUWRpHyzk_L.mp4",
+    "user": {
+      "screen_name": "sbby110",
+      "name": "是边边呀"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2124532561909354496/vid/avc1/720x1280/QXvJUJUWRpHyzk_L.mp4?tag=29",
+    "read_time": "2026-11-23T00:01:48",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47787,
+      "timestamp": "2026-11-23T00:01:58"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 3.58,
+      "timestamp": "2026-11-23T00:01:55",
+      "download_attempts": 0
+    },
+    "full_text": "射🫙里👀 https://t.co/eUDc8Y9ac5",
+    "publish_time": "2026-11-22T23:57:07"
   }
 ]
