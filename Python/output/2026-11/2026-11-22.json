@@ -1350,5 +1350,57 @@
     },
     "full_text": "white_is_13 https://t.co/vVavJvHqVS",
     "publish_time": "2026-11-22T11:52:14"
+  },
+  {
+    "tweet_id": "2124357453324431453",
+    "file_name": "Det5j1bvRxUlcEMC.mp4",
+    "user": {
+      "screen_name": "rebreb9494",
+      "name": "rebreb9494"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2107778295773433856/vid/avc1/480x854/Det5j1bvRxUlcEMC.mp4?tag=14",
+    "read_time": "2026-11-22T13:02:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47679,
+      "timestamp": "2026-11-22T13:02:50"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.62,
+      "timestamp": "2026-11-22T13:02:47",
+      "download_attempts": 0
+    },
+    "full_text": "橄榄球队长16 https://t.co/4zAQHF3Qkg",
+    "publish_time": "2026-11-22T12:21:00"
+  },
+  {
+    "tweet_id": "2124360029088423960",
+    "file_name": "dkJHb0J_JaLatl-x.mp4",
+    "user": {
+      "screen_name": "kkkean2",
+      "name": "kean～互推私"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2124359753044475904/vid/avc1/720x1280/dkJHb0J_JaLatl-x.mp4?tag=29",
+    "read_time": "2026-11-22T13:02:47",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 47680,
+      "timestamp": "2026-11-22T13:02:54"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 16.29,
+      "timestamp": "2026-11-22T13:02:51",
+      "download_attempts": 0
+    },
+    "full_text": "用了战狼液\n把自己玩潮喷了…… https://t.co/NKOb4Cue2V",
+    "publish_time": "2026-11-22T12:31:14"
   }
 ]
