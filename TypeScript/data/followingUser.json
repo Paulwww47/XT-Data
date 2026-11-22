@@ -5342,7 +5342,7 @@
       "name": "1010",
       "screenName": "L1010R",
       "createdAt": "Mon Feb 02 04:15:13 +0000 2026",
-      "description": "🚪（仅此一个真号，盗图死全家）",
+      "description": "🚪（仅此一个真号）",
       "entities": {
         "description": {}
       },
@@ -10558,7 +10558,7 @@
       "entities": {
         "description": {}
       },
-      "profileBannerUrl": "",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2055215693705179136/1795334403",
       "profileImageUrlHttps": ""
     }
   },
