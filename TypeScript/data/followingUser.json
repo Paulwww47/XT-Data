@@ -4992,21 +4992,9 @@
       "name": "Banana.Y",
       "screenName": "kingbananam1",
       "createdAt": "Thu Feb 25 13:48:06 +0000 2021",
-      "description": "只有这一个账号\n欢迎聊天 无其他账号\nChinese/ English\n匿名问答https://t.co/nEgzgPVsyw",
+      "description": "欢迎聊天 无其他账号\nChinese/ English\n纯粹分享与展示",
       "entities": {
-        "description": {
-          "urls": [
-            {
-              "display_url": "ngl.link/kingbananam1",
-              "expanded_url": "https://ngl.link/kingbananam1",
-              "indices": [
-                40,
-                63
-              ],
-              "url": "https://t.co/nEgzgPVsyw"
-            }
-          ]
-        }
+        "description": {}
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1364935150044213248/1784127716",
       "profileImageUrlHttps": ""
@@ -5243,7 +5231,7 @@
       "name": "kyle",
       "screenName": "kyle118511035",
       "createdAt": "Wed Apr 01 15:28:07 +0000 2026",
-      "description": "山东济南，26-182-86，短发 公",
+      "description": "📍济南，26-182-86，短发 公",
       "entities": {
         "description": {}
       },
