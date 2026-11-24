@@ -280,5 +280,47 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2125334540050915658",
     "fullText": "https://t.co/5ngwUc4dl4",
     "publishTime": "2026-11-25T05:03:35"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HX7HLfNaYAAJ1rh.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2125355080434241593",
+    "fullText": "https://t.co/MArD78hZVg",
+    "publishTime": "2026-11-25T06:25:13"
+  },
+  {
+    "user": {
+      "screenName": "liu6864",
+      "name": "CL357"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2125357559309901824/vid/avc1/720x960/88Gt6J9h9SheDp3O.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/liu6864/status/2125359197483356225",
+    "fullText": "爸爸的粗腿丝袜脚~ https://t.co/I0KwvMuDN9",
+    "publishTime": "2026-11-25T06:41:34"
+  },
+  {
+    "user": {
+      "screenName": "pengpengJoe",
+      "name": "PJPJJ"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HX7L2lSXAAAtDOb.mp4"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/pengpengJoe/status/2125360256134029370",
+    "fullText": "起了个大早的早班机，还见到了日出🌅。 https://t.co/WWzhJMiDuI",
+    "publishTime": "2026-11-25T06:45:47"
   }
 ]
