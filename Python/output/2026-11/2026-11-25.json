@@ -2598,5 +2598,267 @@
     },
     "full_text": "新内内 https://t.co/nMWasOt1hY",
     "publish_time": "2026-11-25T17:38:04"
+  },
+  {
+    "tweet_id": "2125530478291894449",
+    "file_name": "HX9mst1bQAAlxip.jpg",
+    "user": {
+      "screen_name": "Cheesbaobao",
+      "name": "起司伯格"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HX9mst1bQAAlxip.jpg",
+    "read_time": "2026-11-25T19:02:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48220,
+      "timestamp": "2026-11-25T19:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.2,
+      "timestamp": "2026-11-25T19:02:37",
+      "download_attempts": 0
+    },
+    "full_text": "刮不完的风 https://t.co/e7pJM2jHqj",
+    "publish_time": "2026-11-25T18:02:11"
+  },
+  {
+    "tweet_id": "2125530478291894449",
+    "file_name": "HX9mstyaMAEzrwS.jpg",
+    "user": {
+      "screen_name": "Cheesbaobao",
+      "name": "起司伯格"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HX9mstyaMAEzrwS.jpg",
+    "read_time": "2026-11-25T19:02:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48221,
+      "timestamp": "2026-11-25T19:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.33,
+      "timestamp": "2026-11-25T19:02:37",
+      "download_attempts": 0
+    },
+    "full_text": "刮不完的风 https://t.co/e7pJM2jHqj",
+    "publish_time": "2026-11-25T18:02:11"
+  },
+  {
+    "tweet_id": "2125530478291894449",
+    "file_name": "HX9mst6bYAA-LHK.jpg",
+    "user": {
+      "screen_name": "Cheesbaobao",
+      "name": "起司伯格"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HX9mst6bYAA-LHK.jpg",
+    "read_time": "2026-11-25T19:02:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48222,
+      "timestamp": "2026-11-25T19:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.18,
+      "timestamp": "2026-11-25T19:02:38",
+      "download_attempts": 0
+    },
+    "full_text": "刮不完的风 https://t.co/e7pJM2jHqj",
+    "publish_time": "2026-11-25T18:02:11"
+  },
+  {
+    "tweet_id": "2125530478291894449",
+    "file_name": "HX9mst6bgAAD70G.jpg",
+    "user": {
+      "screen_name": "Cheesbaobao",
+      "name": "起司伯格"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HX9mst6bgAAD70G.jpg",
+    "read_time": "2026-11-25T19:02:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48223,
+      "timestamp": "2026-11-25T19:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.22,
+      "timestamp": "2026-11-25T19:02:38",
+      "download_attempts": 0
+    },
+    "full_text": "刮不完的风 https://t.co/e7pJM2jHqj",
+    "publish_time": "2026-11-25T18:02:11"
+  },
+  {
+    "tweet_id": "2125532266525032507",
+    "file_name": "HX9oVGpa0AALMUh.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HX9oVGpa0AALMUh.jpg",
+    "read_time": "2026-11-25T19:02:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48224,
+      "timestamp": "2026-11-25T19:02:42"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.07,
+      "timestamp": "2026-11-25T19:02:41",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/VpGDXUy2Rm",
+    "publish_time": "2026-11-25T18:09:17"
+  },
+  {
+    "tweet_id": "2125533122611540135",
+    "file_name": "8pxc6z-odixrQVWp.mp4",
+    "user": {
+      "screen_name": "Lsa00oz",
+      "name": "Lsa"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2125532487522848768/vid/avc1/720x1280/8pxc6z-odixrQVWp.mp4?tag=29",
+    "read_time": "2026-11-25T19:02:37",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (52.36MB > 50.00MB)",
+      "timestamp": "2026-11-25T19:02:43",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 52.36,
+      "timestamp": "2026-11-25T19:02:43",
+      "download_attempts": 0
+    },
+    "full_text": "#7\n壮实体育生的包皮鸡巴如同本人一样羞涩可口 https://t.co/ezBT6iUFWK",
+    "publish_time": "2026-11-25T18:12:41"
+  },
+  {
+    "tweet_id": "2125534416026148977",
+    "file_name": "XkzaJiXSazLce_SD.mp4",
+    "user": {
+      "screen_name": "SSmakabaka",
+      "name": "@zhui"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2125534389308448768/vid/avc1/1270x720/XkzaJiXSazLce_SD.mp4?tag=29",
+    "read_time": "2026-11-25T19:02:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48225,
+      "timestamp": "2026-11-25T19:02:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 3.65,
+      "timestamp": "2026-11-25T19:02:43",
+      "download_attempts": 0
+    },
+    "full_text": "凿烂 https://t.co/3qb9VHjsht",
+    "publish_time": "2026-11-25T18:17:49"
+  },
+  {
+    "tweet_id": "2125537124124631061",
+    "file_name": "HX9svkgaAAAfV6s.jpg",
+    "user": {
+      "screen_name": "ji_zhe30139",
+      "name": "冰冰"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HX9svkgaAAAfV6s.jpg",
+    "read_time": "2026-11-25T19:02:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48226,
+      "timestamp": "2026-11-25T19:02:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-25T19:02:46",
+      "download_attempts": 0
+    },
+    "full_text": "为什么两个星期就染上这玩意，可它就像是燃烧的雪 https://t.co/WkHzaANRze",
+    "publish_time": "2026-11-25T18:28:35"
+  },
+  {
+    "tweet_id": "2125537124124631061",
+    "file_name": "HX9svkaaQAALyq9.jpg",
+    "user": {
+      "screen_name": "ji_zhe30139",
+      "name": "冰冰"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HX9svkaaQAALyq9.jpg",
+    "read_time": "2026-11-25T19:02:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48227,
+      "timestamp": "2026-11-25T19:02:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-11-25T19:02:46",
+      "download_attempts": 0
+    },
+    "full_text": "为什么两个星期就染上这玩意，可它就像是燃烧的雪 https://t.co/WkHzaANRze",
+    "publish_time": "2026-11-25T18:28:35"
+  },
+  {
+    "tweet_id": "2125541136593031372",
+    "file_name": "3oPuOyUQom3i2p15.mp4",
+    "user": {
+      "screen_name": "Forestwoodwood",
+      "name": "FOREST ALBUM 🏳️‍🌈"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2125172396713799680/vid/avc1/1920x1080/3oPuOyUQom3i2p15.mp4?tag=29",
+    "read_time": "2026-11-25T19:02:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48228,
+      "timestamp": "2026-11-25T19:02:51"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 18.52,
+      "timestamp": "2026-11-25T19:02:47",
+      "download_attempts": 0
+    },
+    "full_text": "·\nXollab with 李有為🔥\n@Picun1069 :“聽說我們長得很像？ 🍆@Liyuowei” https://t.co/uOazSik74v",
+    "publish_time": "2026-11-25T18:44:32"
   }
 ]
