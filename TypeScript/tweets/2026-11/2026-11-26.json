@@ -181,5 +181,45 @@
     "tweetUrl": "https://x.com/xiao57520/status/2125654648145244623",
     "fullText": "I need more https://t.co/L9yQjmau4p",
     "publishTime": "2026-11-26T02:15:35"
+  },
+  {
+    "user": {
+      "screenName": "jaecitoooo",
+      "name": "jae"
+    },
+    "images": [],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/jaecitoooo/status/2125671284927352988",
+    "fullText": "Gonna order this",
+    "publishTime": "2026-11-26T03:21:42"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HX_vqJkaMAACm3R.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2125681062965895635",
+    "fullText": "https://t.co/d1jqZIWRyQ",
+    "publishTime": "2026-11-26T04:00:33"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HX_z-nZacAAuRUl.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2125685815762444744",
+    "fullText": "https://t.co/QQkAwLa1c0",
+    "publishTime": "2026-11-26T04:19:26"
   }
 ]
