@@ -895,5 +895,61 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2125484142859317362",
     "fullText": "ryan_dzxx https://t.co/ibMHipxIL3",
     "publishTime": "2026-11-25T14:58:03"
+  },
+  {
+    "user": {
+      "screenName": "Jeff07751908",
+      "name": "杰尼龟"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2125491083593601024/vid/avc1/720x1280/6ypNL6G__-NxBMHK.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Jeff07751908/status/2125491121598197819",
+    "fullText": "钻石💎🐔 https://t.co/mngdz28hf2",
+    "publishTime": "2026-11-25T15:25:47"
+  },
+  {
+    "user": {
+      "screenName": "dalaoshu86332",
+      "name": "纯情大老鼠"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HX9DO8dbEAAgRzo.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/dalaoshu86332/status/2125491485474963834",
+    "fullText": "🥶 https://t.co/q4wYKKXrCx",
+    "publishTime": "2026-11-25T15:27:14"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HX9GP2ybkAAzrud.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2125494824958828711",
+    "fullText": "https://t.co/LdlgZjdUp1",
+    "publishTime": "2026-11-25T15:40:30"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HX9GmHQbEAEzH5C.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2125495179595710952",
+    "fullText": "https://t.co/icFU5fmViv",
+    "publishTime": "2026-11-25T15:41:55"
   }
 ]
