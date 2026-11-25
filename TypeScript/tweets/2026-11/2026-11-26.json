@@ -221,5 +221,34 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2125685815762444744",
     "fullText": "https://t.co/QQkAwLa1c0",
     "publishTime": "2026-11-26T04:19:26"
+  },
+  {
+    "user": {
+      "screenName": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HX_-YbJaEAEa33U.jpg",
+      "https://pbs.twimg.com/media/HX_-YbLa4AAZ56f.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/eric_kk97/status/2125697253230924033",
+    "fullText": "benjamintsai_ https://t.co/J0OYQsoIuk",
+    "publishTime": "2026-11-26T05:04:53"
+  },
+  {
+    "user": {
+      "screenName": "Mcsswest",
+      "name": "出门不带脑"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HYAFuKca0AAUivi.mp4"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Mcsswest/status/2125705345347830179",
+    "fullText": "浓浓的肯定很补 https://t.co/gUlADcfsKd",
+    "publishTime": "2026-11-26T05:37:02"
   }
 ]
