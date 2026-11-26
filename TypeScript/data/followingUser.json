@@ -8007,6 +8007,33 @@
     }
   },
   {
+    "restId": "1934577481920741376",
+    "legacy": {
+      "name": "给你一坨子",
+      "screenName": "SammmmKnow",
+      "createdAt": "Mon Jun 16 11:43:20 +0000 2025",
+      "description": "Just enjoy urself.\nDM with your pics pls😜",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/sammmm_know?ig…",
+              "expanded_url": "https://www.instagram.com/sammmm_know?igsh=MnR1MnZsd2dhbTgx&utm_source=qr",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wLTMjTvchH"
+            }
+          ]
+        }
+      },
+      "profileBannerUrl": "",
+      "profileImageUrlHttps": ""
+    }
+  },
+  {
     "restId": "1431866186816393221",
     "legacy": {
       "name": "Samuval",
@@ -9988,7 +10015,7 @@
       "name": "路过",
       "screenName": "xhn1069",
       "createdAt": "Thu Dec 20 01:56:33 +0000 2018",
-      "description": "很反差，想被拍摄，带情况私信，定制 都想兼职做spa了 🉑️💰",
+      "description": "很反差，想被拍摄，带情况私信，定制 🉑️💰",
       "entities": {
         "description": {}
       },
