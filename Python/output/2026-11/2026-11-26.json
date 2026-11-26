@@ -1185,7 +1185,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (75.71MB > 50.00MB)",
       "timestamp": "2026-11-26T13:03:45",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -1213,7 +1213,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (488.20MB > 50.00MB)",
       "timestamp": "2026-11-26T13:03:45",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -1276,5 +1276,291 @@
     },
     "full_text": "锐化就是白皮的救星 https://t.co/ErnIDaG7Md",
     "publish_time": "2026-11-26T12:35:08"
+  },
+  {
+    "tweet_id": "2125823292322013433",
+    "file_name": "HYBxAnxacAAZFDL.jpg",
+    "user": {
+      "screen_name": "RuiHengJin",
+      "name": "H."
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYBxAnxacAAZFDL.jpg",
+    "read_time": "2026-11-26T14:03:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48325,
+      "timestamp": "2026-11-26T14:03:04"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-11-26T14:03:02",
+      "download_attempts": 0
+    },
+    "full_text": "把脸埋进去👇 https://t.co/YRmNzCwhEp",
+    "publish_time": "2026-11-26T13:25:43"
+  },
+  {
+    "tweet_id": "2125826843593073117",
+    "file_name": "HYB0PRFbAAAYjla.jpg",
+    "user": {
+      "screen_name": "Ykmkzq8",
+      "name": "ykm"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYB0PRFbAAAYjla.jpg",
+    "read_time": "2026-11-26T14:03:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48326,
+      "timestamp": "2026-11-26T14:03:05"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.05,
+      "timestamp": "2026-11-26T14:03:04",
+      "download_attempts": 0
+    },
+    "full_text": "🍼 https://t.co/PxUCpLtxqc",
+    "publish_time": "2026-11-26T13:39:50"
+  },
+  {
+    "tweet_id": "2125827059251613748",
+    "file_name": "HYB0cAkaEAABd3m.jpg",
+    "user": {
+      "screen_name": "Szzsen",
+      "name": "Jensen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYB0cAkaEAABd3m.jpg",
+    "read_time": "2026-11-26T14:03:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48327,
+      "timestamp": "2026-11-26T14:03:06"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.08,
+      "timestamp": "2026-11-26T14:03:05",
+      "download_attempts": 0
+    },
+    "full_text": "为了回馈广大粉丝支持！凡是今天进福利群🌹的将不收取任何费用，24h限时无门槛📷进入，观看视频和写真！\n\n 领取方式tg：  https://t.co/PvdL6pppdc\n 暗号： 001 https://t.co/gMUvHiaTlD",
+    "publish_time": "2026-11-26T13:40:41"
+  },
+  {
+    "tweet_id": "2125828843927937327",
+    "file_name": "HYB2EOkbEAAwQY1.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYB2EOkbEAAwQY1.jpg",
+    "read_time": "2026-11-26T14:03:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48328,
+      "timestamp": "2026-11-26T14:03:08"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.1,
+      "timestamp": "2026-11-26T14:03:07",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/kV9xtdpaG1",
+    "publish_time": "2026-11-26T13:47:47"
+  },
+  {
+    "tweet_id": "2125828953122496995",
+    "file_name": "2D0RbXsAzb5CLI3_.mp4",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2125828932842950657/vid/avc1/360x640/2D0RbXsAzb5CLI3_.mp4?tag=29",
+    "read_time": "2026-11-26T14:03:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48329,
+      "timestamp": "2026-11-26T14:03:10"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.62,
+      "timestamp": "2026-11-26T14:03:08",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/GnnqAQuveY",
+    "publish_time": "2026-11-26T13:48:13"
+  },
+  {
+    "tweet_id": "2125829032877191649",
+    "file_name": "HYB2PJNaIAAafsq.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYB2PJNaIAAafsq.jpg",
+    "read_time": "2026-11-26T14:03:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48330,
+      "timestamp": "2026-11-26T14:03:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-11-26T14:03:10",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vvkz3L58M7",
+    "publish_time": "2026-11-26T13:48:32"
+  },
+  {
+    "tweet_id": "2125829032877191649",
+    "file_name": "HYB2PJPaUAAPQo3.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYB2PJPaUAAPQo3.jpg",
+    "read_time": "2026-11-26T14:03:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48331,
+      "timestamp": "2026-11-26T14:03:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-11-26T14:03:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vvkz3L58M7",
+    "publish_time": "2026-11-26T13:48:32"
+  },
+  {
+    "tweet_id": "2125829032877191649",
+    "file_name": "HYB2PJRbwAA9Mro.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYB2PJRbwAA9Mro.jpg",
+    "read_time": "2026-11-26T14:03:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48332,
+      "timestamp": "2026-11-26T14:03:12"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-11-26T14:03:11",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/vvkz3L58M7",
+    "publish_time": "2026-11-26T13:48:32"
+  },
+  {
+    "tweet_id": "2125829055606083633",
+    "file_name": "HYB2Qc6aAAA7Wvb.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYB2Qc6aAAA7Wvb.jpg",
+    "read_time": "2026-11-26T14:03:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48333,
+      "timestamp": "2026-11-26T14:03:13"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-11-26T14:03:12",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/dFXPUUNHqM",
+    "publish_time": "2026-11-26T13:48:37"
+  },
+  {
+    "tweet_id": "2125829301308403899",
+    "file_name": "HYB2egDaUAAh1bR.jpg",
+    "user": {
+      "screen_name": "erqishiliuhu",
+      "name": "贰柒拾六胡"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYB2egDaUAAh1bR.jpg",
+    "read_time": "2026-11-26T14:03:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48334,
+      "timestamp": "2026-11-26T14:03:14"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.06,
+      "timestamp": "2026-11-26T14:03:13",
+      "download_attempts": 0
+    },
+    "full_text": "微信群不加人了哈，太麻烦了，有事来电报。 https://t.co/yU4tVYYemV",
+    "publish_time": "2026-11-26T13:49:36"
+  },
+  {
+    "tweet_id": "2125832045389811968",
+    "file_name": "cHLtfO3-AQGikd6S.mp4",
+    "user": {
+      "screen_name": "lailai6699",
+      "name": "lailai69"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2125832026825908224/vid/avc1/720x1280/cHLtfO3-AQGikd6S.mp4?tag=29",
+    "read_time": "2026-11-26T14:03:01",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48335,
+      "timestamp": "2026-11-26T14:03:16"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.58,
+      "timestamp": "2026-11-26T14:03:14",
+      "download_attempts": 0
+    },
+    "full_text": "我就說很透😭\n還說沒有 https://t.co/awpvSGMjcz",
+    "publish_time": "2026-11-26T14:00:30"
   }
 ]
