@@ -171,7 +171,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (55.30MB > 50.00MB)",
       "timestamp": "2026-11-27T01:02:52",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -182,5 +182,31 @@
     },
     "full_text": "knock knock knock... https://t.co/WjgPmGPCfu",
     "publish_time": "2026-11-27T00:53:00"
+  },
+  {
+    "tweet_id": "2126010915728556109",
+    "file_name": "TY06J9TwV15D8NgH.mp4",
+    "user": {
+      "screen_name": "XiaoshengwudiS",
+      "name": "陈大圣"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2126010838016532480/vid/avc1/1280x720/TY06J9TwV15D8NgH.mp4?tag=29",
+    "read_time": "2026-11-27T02:02:38",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48432,
+      "timestamp": "2026-11-27T02:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 2.9,
+      "timestamp": "2026-11-27T02:02:38",
+      "download_attempts": 0
+    },
+    "full_text": "来挨骂了狗骚货 https://t.co/mcRcK4f2IM",
+    "publish_time": "2026-11-27T01:51:16"
   }
 ]
