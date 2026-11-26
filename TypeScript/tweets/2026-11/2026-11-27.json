@@ -136,5 +136,33 @@
     "tweetUrl": "https://x.com/XiaoshengwudiS/status/2126010915728556109",
     "fullText": "来挨骂了狗骚货 https://t.co/mcRcK4f2IM",
     "publishTime": "2026-11-27T01:51:16"
+  },
+  {
+    "user": {
+      "screenName": "allen7460",
+      "name": "arthur"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HYEgrGVbcAEAFCS.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/allen7460/status/2126016430835696063",
+    "fullText": "https://t.co/v9HkQSKvwi",
+    "publishTime": "2026-11-27T02:13:11"
+  },
+  {
+    "user": {
+      "screenName": "Wei_danda",
+      "name": "Wei蛋蛋"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2125885558547419136/vid/avc1/720x1280/fvEWaROCyUCM5Lw8.mp4?tag=14"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/Wei_danda/status/2126025083839987950",
+    "fullText": "6 https://t.co/FSZkxgFhfJ",
+    "publishTime": "2026-11-27T02:47:34"
   }
 ]
