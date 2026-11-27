@@ -1163,7 +1163,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (92.24MB > 50.00MB)",
       "timestamp": "2026-11-27T12:02:45",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -1191,7 +1191,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (69.12MB > 50.00MB)",
       "timestamp": "2026-11-27T12:02:45",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -1488,5 +1488,109 @@
     },
     "full_text": "叫啥？ https://t.co/TFJuZUtOvS",
     "publish_time": "2026-11-27T12:00:35"
+  },
+  {
+    "tweet_id": "2126164334007271616",
+    "file_name": "HYGnLzBbIAA3h5Z.jpg",
+    "user": {
+      "screen_name": "rstovey0260",
+      "name": "tutu"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYGnLzBbIAA3h5Z.jpg",
+    "read_time": "2026-11-27T13:02:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48479,
+      "timestamp": "2026-11-27T13:02:29"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.16,
+      "timestamp": "2026-11-27T13:02:28",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/NLnleoLQOd",
+    "publish_time": "2026-11-27T12:00:54"
+  },
+  {
+    "tweet_id": "2126175433913929885",
+    "file_name": "HYGxRxXboAAfGqz.jpg",
+    "user": {
+      "screen_name": "Szzsen",
+      "name": "Jensen"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYGxRxXboAAfGqz.jpg",
+    "read_time": "2026-11-27T13:02:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48480,
+      "timestamp": "2026-11-27T13:02:31"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.19,
+      "timestamp": "2026-11-27T13:02:29",
+      "download_attempts": 0
+    },
+    "full_text": "大家心心念念的私密空间，今天决定大放水！\n不用付费，所有视频合集，全部无门槛免费开启。\n• 📡 空间入口：     https://t.co/PvdL6pppdc\n• 💬 暗号：001 https://t.co/bYLxkomsj0",
+    "publish_time": "2026-11-27T12:45:00"
+  },
+  {
+    "tweet_id": "2126179016982016063",
+    "file_name": "HYG0ixja4AAHbhd.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYG0ixja4AAHbhd.jpg",
+    "read_time": "2026-11-27T13:02:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48481,
+      "timestamp": "2026-11-27T13:02:32"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.17,
+      "timestamp": "2026-11-27T13:02:31",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/GSTUEifB1i",
+    "publish_time": "2026-11-27T12:59:14"
+  },
+  {
+    "tweet_id": "2126179282129190957",
+    "file_name": "HYG0yH2bUAAV1z8.jpg",
+    "user": {
+      "screen_name": "yichimo0720",
+      "name": "摇裤儿"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYG0yH2bUAAV1z8.jpg",
+    "read_time": "2026-11-27T13:02:27",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48482,
+      "timestamp": "2026-11-27T13:02:33"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.23,
+      "timestamp": "2026-11-27T13:02:32",
+      "download_attempts": 0
+    },
+    "full_text": "你的男孩为你打气加油！所以今天要努力劳作哦🙄 https://t.co/sYJssMdQHk",
+    "publish_time": "2026-11-27T13:00:18"
   }
 ]
