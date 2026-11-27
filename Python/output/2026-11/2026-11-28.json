@@ -561,7 +561,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (188.59MB > 50.00MB)",
       "timestamp": "2026-11-28T05:02:49",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -572,5 +572,57 @@
     },
     "full_text": "好久沒這樣玩🥵🥵🥵\n洨幹好像真的會比較快射🥵 https://t.co/tjA932ITCV",
     "publish_time": "2026-11-28T04:09:27"
+  },
+  {
+    "tweet_id": "2126430687960133979",
+    "file_name": "HYKZbBDakAA9np0.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYKZbBDakAA9np0.jpg",
+    "read_time": "2026-11-28T06:02:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48572,
+      "timestamp": "2026-11-28T06:02:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.16,
+      "timestamp": "2026-11-28T06:02:37",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/8FftzYrsJt",
+    "publish_time": "2026-11-28T05:39:17"
+  },
+  {
+    "tweet_id": "2126431359468232887",
+    "file_name": "HYKaC7_bAAA6_tr.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYKaC7_bAAA6_tr.jpg",
+    "read_time": "2026-11-28T06:02:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48573,
+      "timestamp": "2026-11-28T06:02:40"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-11-28T06:02:39",
+      "download_attempts": 0
+    },
+    "full_text": "juzconam 🍆🍆🍆 https://t.co/4d6EhkBSLs",
+    "publish_time": "2026-11-28T05:41:57"
   }
 ]
