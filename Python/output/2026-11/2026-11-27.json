@@ -2963,7 +2963,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (59.88MB > 50.00MB)",
       "timestamp": "2026-11-27T23:02:33",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -3208,5 +3208,189 @@
     },
     "full_text": "https://t.co/54zN155VAy",
     "publish_time": "2026-11-27T22:45:01"
+  },
+  {
+    "tweet_id": "2126330607601099081",
+    "file_name": "CvlITsPophbsJLN7.mp4",
+    "user": {
+      "screen_name": "zuoximuhao1111S",
+      "name": "佐夕木豪"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2126329889855062016/vid/avc1/1920x1080/CvlITsPophbsJLN7.mp4?tag=29",
+    "read_time": "2026-11-28T00:02:40",
+    "is_uploaded": false,
+    "upload_info": {
+      "success": false,
+      "error_type": "file_too_large",
+      "message": "videos大小超标 (105.33MB > 50.00MB)",
+      "timestamp": "2026-11-28T00:02:41",
+      "notification_sent": false
+    },
+    "is_downloaded": false,
+    "download_info": {
+      "success": true,
+      "size_mb": 105.33,
+      "timestamp": "2026-11-28T00:02:41",
+      "download_attempts": 0
+    },
+    "full_text": "宿舍没人撸爽了 骚逼来给你大爹口射🤪 https://t.co/jwFOz0sB2l",
+    "publish_time": "2026-11-27T23:01:36"
+  },
+  {
+    "tweet_id": "2126330610075509204",
+    "file_name": "HYI-aIVXUAA2fDc.jpg",
+    "user": {
+      "screen_name": "KevinLeeYoung92",
+      "name": "KevinLeeYoung"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYI-aIVXUAA2fDc.jpg",
+    "read_time": "2026-11-28T00:02:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48545,
+      "timestamp": "2026-11-28T00:02:43"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-11-28T00:02:41",
+      "download_attempts": 0
+    },
+    "full_text": "广州🙋 https://t.co/GM80k9SZlI",
+    "publish_time": "2026-11-27T23:01:37"
+  },
+  {
+    "tweet_id": "2126330996308271478",
+    "file_name": "HYI-w9sbEAAPW7P.jpg",
+    "user": {
+      "screen_name": "liuweikeee",
+      "name": "维克"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYI-w9sbEAAPW7P.jpg",
+    "read_time": "2026-11-28T00:02:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48546,
+      "timestamp": "2026-11-28T00:02:44"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.09,
+      "timestamp": "2026-11-28T00:02:43",
+      "download_attempts": 0
+    },
+    "full_text": "新的instagram账号👇🏻\n之前的那个被我骚没了🥵 https://t.co/iJ7JzBKudN",
+    "publish_time": "2026-11-27T23:03:09"
+  },
+  {
+    "tweet_id": "2126331060262985945",
+    "file_name": "HYI-0myaYAADSIM.jpg",
+    "user": {
+      "screen_name": "tnzhfng41",
+      "name": "近战法师Daniel"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYI-0myaYAADSIM.jpg",
+    "read_time": "2026-11-28T00:02:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48547,
+      "timestamp": "2026-11-28T00:02:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.25,
+      "timestamp": "2026-11-28T00:02:44",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/8ao3TzQxBX",
+    "publish_time": "2026-11-27T23:03:24"
+  },
+  {
+    "tweet_id": "2126331060262985945",
+    "file_name": "HYI-0lZawAAzYqY.jpg",
+    "user": {
+      "screen_name": "tnzhfng41",
+      "name": "近战法师Daniel"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYI-0lZawAAzYqY.jpg",
+    "read_time": "2026-11-28T00:02:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48548,
+      "timestamp": "2026-11-28T00:02:46"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.29,
+      "timestamp": "2026-11-28T00:02:44",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/8ao3TzQxBX",
+    "publish_time": "2026-11-27T23:03:24"
+  },
+  {
+    "tweet_id": "2126334671927889957",
+    "file_name": "HYJCGjQasAAZ9Pf.jpg",
+    "user": {
+      "screen_name": "uncledoggie",
+      "name": "小狼叔"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYJCGjQasAAZ9Pf.jpg",
+    "read_time": "2026-11-28T00:02:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48549,
+      "timestamp": "2026-11-28T00:02:47"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.13,
+      "timestamp": "2026-11-28T00:02:46",
+      "download_attempts": 0
+    },
+    "full_text": "跟我喝一杯🥂？ https://t.co/f4IPgMRwjG",
+    "publish_time": "2026-11-27T23:17:45"
+  },
+  {
+    "tweet_id": "2126344611086127177",
+    "file_name": "PEQPSXc5y2NOsgQM.mp4",
+    "user": {
+      "screen_name": "liuweikeee",
+      "name": "维克"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2126344585849024512/vid/avc1/720x1280/PEQPSXc5y2NOsgQM.mp4?tag=29",
+    "read_time": "2026-11-28T00:02:40",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48550,
+      "timestamp": "2026-11-28T00:02:49"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.56,
+      "timestamp": "2026-11-28T00:02:48",
+      "download_attempts": 0
+    },
+    "full_text": "贴上来感受一下脚底的温度 https://t.co/DXlWe5Wvlt",
+    "publish_time": "2026-11-27T23:57:15"
   }
 ]
