@@ -247,5 +247,36 @@
     "tweetUrl": "https://x.com/eric_kk97/status/2126387913034485815",
     "fullText": "https://t.co/WOUIQ5TP89",
     "publishTime": "2026-11-28T02:49:19"
+  },
+  {
+    "user": {
+      "screenName": "xiao57520",
+      "name": "翱哥备用机"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2126399070755586048/vid/avc1/1080x1920/VJz3T8eyu0ZovlF7.mp4?tag=29"
+    ],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/xiao57520/status/2126399122886599022",
+    "fullText": "GYM https://t.co/TkWU38Yk8Y",
+    "publishTime": "2026-11-28T03:33:52"
+  },
+  {
+    "user": {
+      "screenName": "lllllljs11270",
+      "name": "老王spa (深圳"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HYJ8_5xaAAAkqIN.jpg",
+      "https://pbs.twimg.com/media/HYJ9AsjaAAAiv5V.jpg",
+      "https://pbs.twimg.com/media/HYJ9BQbaQAA8Kb8.jpg",
+      "https://pbs.twimg.com/media/HYJ9B-uaIAA9UmN.jpg"
+    ],
+    "videos": [],
+    "expandUrls": [],
+    "tweetUrl": "https://x.com/lllllljs11270/status/2126399456539213889",
+    "fullText": "深圳 https://t.co/SG8RbdZWSO",
+    "publishTime": "2026-11-28T03:35:11"
   }
 ]
