@@ -589,7 +589,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (240.77MB > 50.00MB)",
       "timestamp": "2026-11-27T07:08:51",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -626,5 +626,31 @@
     },
     "full_text": "·\n肌肉宴- The Muscle Banquet- Chinese Style 📍Hunan 湖南长沙 https://t.co/uUvYI7OZk2",
     "publish_time": "2026-11-27T06:23:04"
+  },
+  {
+    "tweet_id": "2126095928247652517",
+    "file_name": "k47RgnS3GY_i7Sxi.mp4",
+    "user": {
+      "screen_name": "xiaojin20001112",
+      "name": "小金"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/amplify_video/2126095894068314113/vid/avc1/1280x720/k47RgnS3GY_i7Sxi.mp4?tag=29",
+    "read_time": "2026-11-27T08:02:36",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48448,
+      "timestamp": "2026-11-27T08:02:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 1.16,
+      "timestamp": "2026-11-27T08:02:37",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/p81WQuS2OO",
+    "publish_time": "2026-11-27T07:29:04"
   }
 ]
