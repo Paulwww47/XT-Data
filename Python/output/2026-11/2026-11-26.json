@@ -3592,6 +3592,58 @@
     "publish_time": "2026-11-26T22:32:07"
   },
   {
+    "tweet_id": "2125962594599281001",
+    "file_name": "HYDvtDhbIAAtwoP.jpg",
+    "user": {
+      "screen_name": "yuyujiaolong",
+      "name": "Ruii"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYDvtDhbIAAtwoP.jpg",
+    "read_time": "2026-11-27T14:04:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48483,
+      "timestamp": "2026-11-27T14:04:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.19,
+      "timestamp": "2026-11-27T14:04:01",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Wuyzi64xm8",
+    "publish_time": "2026-11-26T22:39:15"
+  },
+  {
+    "tweet_id": "2125962594599281001",
+    "file_name": "HYDvtDbaMAA26cm.jpg",
+    "user": {
+      "screen_name": "yuyujiaolong",
+      "name": "Ruii"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYDvtDbaMAA26cm.jpg",
+    "read_time": "2026-11-27T14:04:00",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48484,
+      "timestamp": "2026-11-27T14:04:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-11-27T14:04:01",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/Wuyzi64xm8",
+    "publish_time": "2026-11-26T22:39:15"
+  },
+  {
     "tweet_id": "2125965860875714670",
     "file_name": "djY2SjtpKyc6RW7P.mp4",
     "user": {
