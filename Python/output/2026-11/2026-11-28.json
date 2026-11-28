@@ -1109,7 +1109,7 @@
       "error_type": "file_too_large",
       "message": "videos大小超标 (142.78MB > 50.00MB)",
       "timestamp": "2026-11-28T10:02:46",
-      "notification_sent": false
+      "notification_sent": true
     },
     "is_downloaded": false,
     "download_info": {
@@ -1224,5 +1224,109 @@
     },
     "full_text": "周末早 https://t.co/8XtSoLICDU",
     "publish_time": "2026-11-28T10:00:48"
+  },
+  {
+    "tweet_id": "2126500686255083826",
+    "file_name": "HYLZFm6boAAp18n.jpg",
+    "user": {
+      "screen_name": "626280wzf",
+      "name": "杏仁也好吃"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYLZFm6boAAp18n.jpg",
+    "read_time": "2026-11-28T11:03:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48596,
+      "timestamp": "2026-11-28T11:03:59"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-28T11:03:57",
+      "download_attempts": 0
+    },
+    "full_text": "150斤以下了 https://t.co/YGWu30aHrF",
+    "publish_time": "2026-11-28T10:17:26"
+  },
+  {
+    "tweet_id": "2126508425609941185",
+    "file_name": "HYLgI0LbYAAk8hs.jpg",
+    "user": {
+      "screen_name": "eric_kk97",
+      "name": "ManFeed🍆"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYLgI0LbYAAk8hs.jpg",
+    "read_time": "2026-11-28T11:03:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48597,
+      "timestamp": "2026-11-28T11:04:00"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.06,
+      "timestamp": "2026-11-28T11:03:59",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/O6bPTbynqs",
+    "publish_time": "2026-11-28T10:48:11"
+  },
+  {
+    "tweet_id": "2126510919824146841",
+    "file_name": "HYLiaL_aYAAc64h.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYLiaL_aYAAc64h.jpg",
+    "read_time": "2026-11-28T11:03:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48598,
+      "timestamp": "2026-11-28T11:04:01"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.07,
+      "timestamp": "2026-11-28T11:04:00",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/v8VUdc1SZU",
+    "publish_time": "2026-11-28T10:58:06"
+  },
+  {
+    "tweet_id": "2126511271906549810",
+    "file_name": "HYLiutvbYAAHphb.jpg",
+    "user": {
+      "screen_name": "hymanjuan4",
+      "name": "HL"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYLiutvbYAAHphb.jpg",
+    "read_time": "2026-11-28T11:03:57",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48599,
+      "timestamp": "2026-11-28T11:04:03"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.11,
+      "timestamp": "2026-11-28T11:04:01",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/argWUsqfcS",
+    "publish_time": "2026-11-28T10:59:30"
   }
 ]

@@ -5231,9 +5231,21 @@
       "name": "kunmuz",
       "screenName": "kunmusss",
       "createdAt": "Tue Jun 08 08:58:00 +0000 2021",
-      "description": "任务/暴露/男m",
+      "description": "任务/暴露/男m\n电报链接https://t.co/EHtIS3sgTI",
       "entities": {
-        "description": {}
+        "description": {
+          "urls": [
+            {
+              "display_url": "t.me/+r9sje6rJ_E0zM…",
+              "expanded_url": "https://t.me/+r9sje6rJ_E0zM2Nl",
+              "indices": [
+                13,
+                36
+              ],
+              "url": "https://t.co/EHtIS3sgTI"
+            }
+          ]
+        }
       },
       "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1402188117809848321/1746096434",
       "profileImageUrlHttps": ""
