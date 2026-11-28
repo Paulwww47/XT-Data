@@ -1328,5 +1328,57 @@
     },
     "full_text": "https://t.co/argWUsqfcS",
     "publish_time": "2026-11-28T10:59:30"
+  },
+  {
+    "tweet_id": "2126521463775826289",
+    "file_name": "HYLr-xbbYAAzP9w.mp4",
+    "user": {
+      "screen_name": "XXxLin18cn",
+      "name": "小林不小"
+    },
+    "media_type": "videos",
+    "url": "https://video.twimg.com/tweet_video/HYLr-xbbYAAzP9w.mp4",
+    "read_time": "2026-11-28T12:02:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48600,
+      "timestamp": "2026-11-28T12:02:39"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.03,
+      "timestamp": "2026-11-28T12:02:38",
+      "download_attempts": 0
+    },
+    "full_text": "https://t.co/JOluBmRddL",
+    "publish_time": "2026-11-28T11:40:00"
+  },
+  {
+    "tweet_id": "2126521567769407875",
+    "file_name": "HYLsFa4WYAAgmFh.jpg",
+    "user": {
+      "screen_name": "pengpengJoe",
+      "name": "PJPJJ"
+    },
+    "media_type": "images",
+    "url": "https://pbs.twimg.com/media/HYLsFa4WYAAgmFh.jpg",
+    "read_time": "2026-11-28T12:02:37",
+    "is_uploaded": true,
+    "upload_info": {
+      "success": true,
+      "message_id": 48601,
+      "timestamp": "2026-11-28T12:02:41"
+    },
+    "is_downloaded": true,
+    "download_info": {
+      "success": true,
+      "size_mb": 0.15,
+      "timestamp": "2026-11-28T12:02:39",
+      "download_attempts": 0
+    },
+    "full_text": "1W粉了，是不是又可以联名发福利了？ https://t.co/1O4flazSG9",
+    "publish_time": "2026-11-28T11:40:25"
   }
 ]
